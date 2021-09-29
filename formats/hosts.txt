@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.09.272
 # Release: 272
-# Entries: 13,770
-# Updated: Wed, 29 Sep 21 12:15:24 +06
+# Entries: 13,771
+# Updated: Wed, 29 Sep 21 12:20:40 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -9752,6 +9752,7 @@
 0.0.0.0 qixour.com
 0.0.0.0 qjcdnpv.com
 0.0.0.0 qjttowndvet.com
+0.0.0.0 qkntsnhypiesa.com
 0.0.0.0 qkspafpgg.com
 0.0.0.0 qktbbiavkqcqmn.com
 0.0.0.0 qmgaozjo.com
