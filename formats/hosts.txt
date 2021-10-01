@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.274
 # Release: 274
-# Entries: 14,408
-# Updated: Fri, 01 Oct 21 14:06:34 +06
+# Entries: 14,415
+# Updated: Fri, 01 Oct 21 16:03:03 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1831,6 +1831,7 @@
 0.0.0.0 ban5mid.com
 0.0.0.0 ban6mid.com
 0.0.0.0 ban7mid.com
+0.0.0.0 ban8mid.com
 0.0.0.0 bananastouching.com
 0.0.0.0 bandelcot.com
 0.0.0.0 bandernad.com
@@ -4951,6 +4952,7 @@
 0.0.0.0 flashclicks.com
 0.0.0.0 flashingactshrs.com
 0.0.0.0 flashinginvolvementmatches.com
+0.0.0.0 flatcapspriggy.cam
 0.0.0.0 flatepicbats.com
 0.0.0.0 flatlyforensics.com
 0.0.0.0 flaxseedssoenrh4372ojd.com
@@ -5828,6 +5830,7 @@
 0.0.0.0 haukauti.net
 0.0.0.0 haulrationally.com
 0.0.0.0 haunigre.net
+0.0.0.0 haunthonouredderived.com
 0.0.0.0 hauphaun.net
 0.0.0.0 haupsoti.net
 0.0.0.0 hausly.info
@@ -6419,6 +6422,7 @@
 0.0.0.0 insta-cash.net
 0.0.0.0 insta-hookups1.com
 0.0.0.0 instadatings-here.life
+0.0.0.0 instahookupclub4.com
 0.0.0.0 installationtray.com
 0.0.0.0 installcdnfile.com
 0.0.0.0 installerleading.com
@@ -11456,6 +11460,7 @@
 0.0.0.0 slomgvyfd.com
 0.0.0.0 slovakslarree.com
 0.0.0.0 slskiykfbu.xyz
+0.0.0.0 sluicejell.com
 0.0.0.0 sluxur.com
 0.0.0.0 slychicks.com
 0.0.0.0 slymagical.com
@@ -11566,6 +11571,7 @@
 0.0.0.0 soosooka.com
 0.0.0.0 sootuglyconfer.com
 0.0.0.0 sopdamptotes.com
+0.0.0.0 soperatory.xyz
 0.0.0.0 sophang8.com
 0.0.0.0 sordidstir.com
 0.0.0.0 sorryfearknockout.com
@@ -12168,6 +12174,7 @@
 0.0.0.0 testexemplify.com
 0.0.0.0 testsite34.com
 0.0.0.0 tetfer.com
+0.0.0.0 tevyshila.com
 0.0.0.0 texiluwa.xyz
 0.0.0.0 textsrv.com
 0.0.0.0 tf-con.com
