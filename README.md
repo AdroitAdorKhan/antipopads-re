@@ -5,10 +5,10 @@
 </div>
 
 <div align="left">
-  <strong>block pesky malicious pop ads.</strong>
+  <strong>block pesky malicious pop ads. </strong>
 </div>
 <div align="left">
-  antipopads:<i>re</i>born is highly inspired by <a href="https://github.com/Yhonay/antipopads">Yhonay/antipopads</a>. 
+  antipopads:<i>re</i>born is highly inspired by <a href="https://github.com/Yhonay/antipopads">Yhonay/antipopads</a>. This antipopads:<i>re</i> has <code>14,453</code> domains in list.
 </div>
 
 ## What is this for?
@@ -17,12 +17,12 @@ antipopads:<i>re</i> is designed for Unix-like systems, gets a list of domains t
 
 ## Formats
 
-| FORMAT | LINK | SUBSCRIBE |
-|:------:|:----:|:---------:|
-| `domains` | [antipopads-re/domains.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/domains.txt) | - |
-| `hosts` | [antipopads-re/hosts.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/hosts.txt) | - |
-| `hosts ipv6` | [antipopads-re/hosts-ipv6.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/hosts-ipv6.txt) | - |
-| `adblock filter` | [antipopads-re/filter.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/filter.txt) | [SUBSCRIBE](https://subscribe.adblockplus.org/?location=https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/filter.txt&title=antipopads:re) |
+| FORMAT | ENTRIES | SIZE | LINK | SUBSCRIBE |
+|:------:|:-------:|:----:|:----:|:---------:|
+| `domains` | 14,453 | 238K | [antipopads-re/domains.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/domains.txt) | - |
+| `hosts` | 14,453 | 351K | [antipopads-re/hosts.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/hosts.txt) | - |
+| `hosts ipv6` | 14,453 | 280K | [antipopads-re/hosts-ipv6.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/hosts-ipv6.txt) | - |
+| `adblock filter` | 14,453 | 280K | [antipopads-re/filter.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/filter.txt) | [SUBSCRIBE](https://subscribe.adblockplus.org/?location=https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/filter.txt&title=antipopads:re) |
 
 
 ## Disclaimer
