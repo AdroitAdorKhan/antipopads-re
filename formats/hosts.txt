@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.274
 # Release: 274
-# Entries: 14,444
-# Updated: Fri, 01 Oct 21 20:04:01 +06
+# Entries: 14,445
+# Updated: Fri, 01 Oct 21 22:04:27 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -594,6 +594,7 @@
 0.0.0.0 accomplishmentformation.com
 0.0.0.0 accordprybreathe.com
 0.0.0.0 accountryft.xyz
+0.0.0.0 accusationcollegeload.com
 0.0.0.0 accusationloop.com
 0.0.0.0 acdcdn.com
 0.0.0.0 acecoincident.com
