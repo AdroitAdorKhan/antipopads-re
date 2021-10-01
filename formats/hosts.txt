@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.274
 # Release: 274
-# Entries: 14,387
-# Updated: Fri, 01 Oct 21 06:04:10 +06
+# Entries: 14,389
+# Updated: Fri, 01 Oct 21 08:04:57 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1650,6 +1650,7 @@
 0.0.0.0 auuayepftovx.com
 0.0.0.0 auweelta.net
 0.0.0.0 auwoojuh.net
+0.0.0.0 auxaltkft.xyz
 0.0.0.0 av20trk.com
 0.0.0.0 avads.co.uk
 0.0.0.0 avalancheofnews.com
@@ -5817,6 +5818,7 @@
 0.0.0.0 hatagashira.com
 0.0.0.0 hatchetlavatory.com
 0.0.0.0 hatchord.com
+0.0.0.0 hatrednonchalance.com
 0.0.0.0 hauglees.net
 0.0.0.0 haukauti.net
 0.0.0.0 haulrationally.com
