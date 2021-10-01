@@ -39,6 +39,6 @@ The content of this project itself is licensed under the [MIT](https://github.co
 <div align="center">
   <h2>Let's make an annoyance free better open internet, altogether!</h2>
   <sub>A project by <a href="https://nayemador.com" target="_blank">Ador</a> with ❤<pub>
-  <br><br><img href="https://saythanks.io/to/AdroitAdorKhan" src="https://img.shields.io/badge/Say%20Thanks-Ador-1EAEDB.svg"
-      alt="Say Thanks to Ador!" />
+  <br><br><a href="https://saythanks.io/to/AdroitAdorKhan"><img src="https://img.shields.io/badge/Say%20Thanks-Ador-1EAEDB.svg"
+                                                                alt="Say Thanks to Ador!" /></a>
 </div>
