@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.275
 # Release: 275
-# Entries: 14,510
-# Updated: Sat, 02 Oct 21 12:04:08 +06
+# Entries: 14,513
+# Updated: Sat, 02 Oct 21 14:04:13 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -10938,6 +10938,7 @@
 0.0.0.0 rufadses.net
 0.0.0.0 rufflycouncil.com
 0.0.0.0 ruftodru.net
+0.0.0.0 rugrukoca.com
 0.0.0.0 rujioimped.xyz
 0.0.0.0 rukoval.com
 0.0.0.0 ruleconnectexpire.com
@@ -13340,8 +13341,10 @@
 0.0.0.0 vq40567.com
 0.0.0.0 vqaizaukh.com
 0.0.0.0 vqr3jeu1qi41.com
+0.0.0.0 vrhorus.com
 0.0.0.0 vriwjpzvh.com
 0.0.0.0 vrtzads.com
+0.0.0.0 vsjxqhfkccx.xyz
 0.0.0.0 vskoedps.com
 0.0.0.0 vsmokhklbw.com
 0.0.0.0 vst1ev.com
