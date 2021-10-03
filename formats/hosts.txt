@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.276
 # Release: 276
-# Entries: 14,609
-# Updated: Sun, 03 Oct 21 18:03:35 +06
+# Entries: 14,611
+# Updated: Sun, 03 Oct 21 20:03:25 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -4894,6 +4894,7 @@
 0.0.0.0 fethungi.com
 0.0.0.0 fewrfie.com
 0.0.0.0 ff5bd8d9f8df.com
+0.0.0.0 ffbrfjnhhf.com
 0.0.0.0 fferencebr.space
 0.0.0.0 ffhwzaenzoue.com
 0.0.0.0 ffkdxymyji.com
@@ -6067,6 +6068,7 @@
 0.0.0.0 hizestusti.com
 0.0.0.0 hizlireklam.com
 0.0.0.0 hizvevxvi.com
+0.0.0.0 hjeioclkr.com
 0.0.0.0 hjklf.com
 0.0.0.0 hjmagamal.com
 0.0.0.0 hkoxlirf.com
