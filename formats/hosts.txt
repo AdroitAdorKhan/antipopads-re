@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.277
 # Release: 277
-# Entries: 14,625
-# Updated: Mon, 04 Oct 21 00:03:49 +06
+# Entries: 14,627
+# Updated: Mon, 04 Oct 21 04:03:21 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3009,6 +3009,7 @@
 0.0.0.0 closestfantasticpoll.com
 0.0.0.0 closiner.com
 0.0.0.0 closkeyrespond.com
+0.0.0.0 closureevaporatefume.com
 0.0.0.0 closuremammalfury.com
 0.0.0.0 clotezar.com
 0.0.0.0 clotherinde.space
@@ -8764,6 +8765,7 @@
 0.0.0.0 oaftaijo.net
 0.0.0.0 oagnatch.com
 0.0.0.0 oagudsey.uk
+0.0.0.0 oahaurti.com
 0.0.0.0 oahipoas.com
 0.0.0.0 oahosaisaign.com
 0.0.0.0 oainternetservices.com
