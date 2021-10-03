@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.276
 # Release: 276
-# Entries: 14,585
-# Updated: Sun, 03 Oct 21 12:03:10 +06
+# Entries: 14,598
+# Updated: Sun, 03 Oct 21 14:06:01 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -785,6 +785,7 @@
 0.0.0.0 adplxmd.com
 0.0.0.0 adpmbglobal.com
 0.0.0.0 adport.io
+0.0.0.0 adpresislect.space
 0.0.0.0 adpron.com
 0.0.0.0 adprosrv.com
 0.0.0.0 adqy6rzwcs.com
@@ -1149,6 +1150,7 @@
 0.0.0.0 airconditiondescendent.com
 0.0.0.0 airpush.com
 0.0.0.0 airsoubs.com
+0.0.0.0 airticmonsoa.com
 0.0.0.0 aissoksu.net
 0.0.0.0 aiwhamti.com
 0.0.0.0 aixcdn.com
@@ -4081,6 +4083,7 @@
 0.0.0.0 drylnk.com
 0.0.0.0 dryzapsol.com
 0.0.0.0 dsandexpe.biz
+0.0.0.0 dscxcydgyj.com
 0.0.0.0 dsfjhfhyry2hh8jo09.com
 0.0.0.0 dsnextgen.com
 0.0.0.0 dsnr-affiliates.com
@@ -5609,6 +5612,7 @@
 0.0.0.0 gongeeta.net
 0.0.0.0 goo2anywhere.com
 0.0.0.0 goo4anywhere.com
+0.0.0.0 goobaiwy.com
 0.0.0.0 gooblesdd.com
 0.0.0.0 goodadvert.ru
 0.0.0.0 goodbookbook.com
@@ -7076,6 +7080,7 @@
 0.0.0.0 koocaucy.com
 0.0.0.0 koora2live.com
 0.0.0.0 kopehngtragen.com
+0.0.0.0 koquarmc.com
 0.0.0.0 koradu.com
 0.0.0.0 korexo.com
 0.0.0.0 kostprice.com
@@ -8285,6 +8290,7 @@
 0.0.0.0 mythings.com
 0.0.0.0 mythysema.com
 0.0.0.0 mywondertrip.com
+0.0.0.0 myzztv.xyz
 0.0.0.0 mzaugggxs.com
 0.0.0.0 mzol7lbm.com
 0.0.0.0 n161adserv.com
@@ -9109,6 +9115,7 @@
 0.0.0.0 ouphoarg.com
 0.0.0.0 ouphouch.com
 0.0.0.0 ouphowor.com
+0.0.0.0 ouptoobe.net
 0.0.0.0 oupushee.com
 0.0.0.0 ourauhoa.net
 0.0.0.0 oureviewi.club
@@ -9193,6 +9200,7 @@
 0.0.0.0 oxygenpurpleairtight.com
 0.0.0.0 oyi9f1kbaj.com
 0.0.0.0 ozmifi.info
+0.0.0.0 ozobsaib.com
 0.0.0.0 ozonemedia.com
 0.0.0.0 ozongees.com
 0.0.0.0 ozora.work
@@ -10327,6 +10335,7 @@
 0.0.0.0 qualmsmixmild.com
 0.0.0.0 quandarydisadvantage.com
 0.0.0.0 quanta-wave.com
+0.0.0.0 quantical.xyz
 0.0.0.0 quantomcoding.com
 0.0.0.0 quatrefeuillepolonaise.xyz
 0.0.0.0 quaverspawk.com
@@ -11604,6 +11613,7 @@
 0.0.0.0 smokingpetty.com
 0.0.0.0 smoothbestialityteam.com
 0.0.0.0 smoothlyconsulatecrossroad.com
+0.0.0.0 smrtlnk18tds.com
 0.0.0.0 smsimprisee.club
 0.0.0.0 smvocdnxusp.com
 0.0.0.0 smyvividi.club
@@ -13196,6 +13206,7 @@
 0.0.0.0 vcwrigdrnh.com
 0.0.0.0 veanumb.biz
 0.0.0.0 vebadu.com
+0.0.0.0 veckoukr.net
 0.0.0.0 vecturequotes.com
 0.0.0.0 veehdmymwvvexv.com
 0.0.0.0 veesboost.com
@@ -13416,6 +13427,7 @@
 0.0.0.0 vst3mid.com
 0.0.0.0 vst4mid.com
 0.0.0.0 vst5mid.com
+0.0.0.0 vst6mid.com
 0.0.0.0 vstaner.com
 0.0.0.0 vsteepo.com
 0.0.0.0 vstet.com
@@ -14252,6 +14264,7 @@
 0.0.0.0 xorcibleboth.club
 0.0.0.0 xoredi.com
 0.0.0.0 xpctraffic.com
+0.0.0.0 xpicvrubu.xyz
 0.0.0.0 xpollo.com
 0.0.0.0 xpx7heciz9.com
 0.0.0.0 xpyyrkwpcpwf.com
