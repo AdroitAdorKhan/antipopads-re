@@ -20,8 +20,8 @@
 ! Version: 21.10.278
 ! Release: 278
 ! Expires: 1 day
-! Entries: 14,767
-! Updated: Tue, 05 Oct 21 10:04:03 +06
+! Entries: 14,769
+! Updated: Tue, 05 Oct 21 12:03:52 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -12648,6 +12648,7 @@
 ||tncred.com^
 ||tnctrx.com^
 ||tnkexchange.com^
+||tnvilqncje.com^
 ||toadassuagevolatile.com^
 ||toagluji.com^
 ||toapsira.net^
@@ -13285,6 +13286,7 @@
 ||uzozagug.xyz^
 ||v11media.com^
 ||v1pweb.rocks^
+||v1sts.me^
 ||v2cigs.com^
 ||v3qdrfxuyzwb.com^
 ||vacaneedasap.com^

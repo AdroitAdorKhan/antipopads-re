@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.278
 # Release: 278
-# Entries: 14,767
-# Updated: Tue, 05 Oct 21 10:04:03 +06
+# Entries: 14,769
+# Updated: Tue, 05 Oct 21 12:03:52 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -12647,6 +12647,7 @@
 0.0.0.0 tncred.com
 0.0.0.0 tnctrx.com
 0.0.0.0 tnkexchange.com
+0.0.0.0 tnvilqncje.com
 0.0.0.0 toadassuagevolatile.com
 0.0.0.0 toagluji.com
 0.0.0.0 toapsira.net
@@ -13284,6 +13285,7 @@
 0.0.0.0 uzozagug.xyz
 0.0.0.0 v11media.com
 0.0.0.0 v1pweb.rocks
+0.0.0.0 v1sts.me
 0.0.0.0 v2cigs.com
 0.0.0.0 v3qdrfxuyzwb.com
 0.0.0.0 vacaneedasap.com
