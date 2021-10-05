@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 21.10.278
-# Release: 278
-# Entries: 14,825
-# Updated: Tue, 05 Oct 21 22:03:38 +06
+# Version: 21.10.279
+# Release: 279
+# Entries: 14,826
+# Updated: Wed, 06 Oct 21 00:06:47 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -11007,6 +11007,7 @@
 0.0.0.0 roastclap.com
 0.0.0.0 roataisa.net
 0.0.0.0 robberets.site
+0.0.0.0 robiaa.com
 0.0.0.0 robocat.me
 0.0.0.0 robotadserver.com
 0.0.0.0 robsbogsrouse.com

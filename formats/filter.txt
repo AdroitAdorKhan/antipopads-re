@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 21.10.278
-! Release: 278
+! Version: 21.10.279
+! Release: 279
 ! Expires: 1 day
-! Entries: 14,825
-! Updated: Tue, 05 Oct 21 22:03:38 +06
+! Entries: 14,826
+! Updated: Wed, 06 Oct 21 00:06:47 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -11008,6 +11008,7 @@
 ||roastclap.com^
 ||roataisa.net^
 ||robberets.site^
+||robiaa.com^
 ||robocat.me^
 ||robotadserver.com^
 ||robsbogsrouse.com^
