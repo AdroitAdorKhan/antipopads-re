@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.278
 # Release: 278
-# Entries: 14,804
-# Updated: Tue, 05 Oct 21 16:05:56 +06
+# Entries: 14,810
+# Updated: Tue, 05 Oct 21 18:04:12 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -4202,6 +4202,7 @@
 0.0.0.0 dynpaa.com
 0.0.0.0 dynsrvbaa.com
 0.0.0.0 dynsrvtyu.com
+0.0.0.0 dynygathe.com
 0.0.0.0 dz4ad.com
 0.0.0.0 dzienkudrow.com
 0.0.0.0 e-find.co
@@ -5230,6 +5231,7 @@
 0.0.0.0 freeskreen.com
 0.0.0.0 freesoftwarelive.com
 0.0.0.0 freestar.io
+0.0.0.0 fremtlifo.casa
 0.0.0.0 frenchequal.pro
 0.0.0.0 fresh8.co
 0.0.0.0 freshborne.com
@@ -6317,6 +6319,7 @@
 0.0.0.0 hybgrhjuk.xyz
 0.0.0.0 hydracdn.network
 0.0.0.0 hydragrouge.com
+0.0.0.0 hygrephexy.com
 0.0.0.0 hyinlegvghul.com
 0.0.0.0 hynteroforion.com
 0.0.0.0 hype-ads.com
@@ -10164,6 +10167,7 @@
 0.0.0.0 psozoult.net
 0.0.0.0 psozyhotho.pro
 0.0.0.0 pstreetma.com
+0.0.0.0 psugeglapha.com
 0.0.0.0 psughooy.com
 0.0.0.0 psulsobi.net
 0.0.0.0 psupaids.com
@@ -11526,6 +11530,7 @@
 0.0.0.0 shihoult.com
 0.0.0.0 shikroux.net
 0.0.0.0 shillivee.pro
+0.0.0.0 shiltern.xyz
 0.0.0.0 shinasi.info
 0.0.0.0 shinebliss.com
 0.0.0.0 shinesavage.com
@@ -12069,6 +12074,7 @@
 0.0.0.0 stilfb.com
 0.0.0.0 stimtavy.net
 0.0.0.0 stingjagged.com
+0.0.0.0 stingoroubles.com
 0.0.0.0 stingygirlieaccompany.com
 0.0.0.0 stinkcomedian.com
 0.0.0.0 stinternoctuae.com
