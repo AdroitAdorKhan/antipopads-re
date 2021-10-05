@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.278
 # Release: 278
-# Entries: 14,816
-# Updated: Tue, 05 Oct 21 20:04:31 +06
+# Entries: 14,825
+# Updated: Tue, 05 Oct 21 22:03:38 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1484,6 +1484,8 @@
 0.0.0.0 artantash.club
 0.0.0.0 artgullyhep.com
 0.0.0.0 arthahoonte.biz
+0.0.0.0 arthyadtrack.online
+0.0.0.0 arthyredir.com
 0.0.0.0 articismstre.fun
 0.0.0.0 artisticdisgraceevidently.com
 0.0.0.0 artpever.com
@@ -3170,6 +3172,7 @@
 0.0.0.0 computeterrifyingobdurate.com
 0.0.0.0 comunicazio.com
 0.0.0.0 comwgi.com
+0.0.0.0 conatr.com
 0.0.0.0 concedefixfrench.com
 0.0.0.0 conceiveintentlybookie.com
 0.0.0.0 concentleconse.site
@@ -7273,6 +7276,7 @@
 0.0.0.0 lamforsung.com
 0.0.0.0 lamplosts.site
 0.0.0.0 lanchaeanly.pro
+0.0.0.0 land-flirtgirl1.com
 0.0.0.0 landelcut.com
 0.0.0.0 landindiscreet.com
 0.0.0.0 landlordmanoeuvre.com
@@ -10187,6 +10191,7 @@
 0.0.0.0 psygruptuly.com
 0.0.0.0 psylefywha.pro
 0.0.0.0 psytupuny.com
+0.0.0.0 pt-xb.xyz
 0.0.0.0 ptachaur.net
 0.0.0.0 ptagnair.com
 0.0.0.0 ptaiksah.com
@@ -10842,6 +10847,7 @@
 0.0.0.0 resvgeeid.biz
 0.0.0.0 retaindeductionperformed.com
 0.0.0.0 retainreproofsnappy.com
+0.0.0.0 retargetcore.com
 0.0.0.0 retargeter.com
 0.0.0.0 retcherruny.xyz
 0.0.0.0 retcyy.com
@@ -11340,6 +11346,7 @@
 0.0.0.0 se42ade5e3son7ing.com
 0.0.0.0 seaboblit.com
 0.0.0.0 seacideasstolice.com
+0.0.0.0 searchdatestoday.com
 0.0.0.0 searchdims.network
 0.0.0.0 searchenhancements.com
 0.0.0.0 searchmulty.com
@@ -12919,6 +12926,7 @@
 0.0.0.0 trusted-click-host.com
 0.0.0.0 trusted.de
 0.0.0.0 trustedgatetocontent.com
+0.0.0.0 trustmeiamcdn.com
 0.0.0.0 trustworthytopmost.com
 0.0.0.0 trustyfine.com
 0.0.0.0 truthfulstem.com
@@ -13821,6 +13829,7 @@
 0.0.0.0 whammodrive.com
 0.0.0.0 whamukoji.pro
 0.0.0.0 wharfgay.com
+0.0.0.0 whatabouthotladies.com
 0.0.0.0 whataboutnews.com
 0.0.0.0 whathuvopu.com
 0.0.0.0 whatisuptodaynow.com
