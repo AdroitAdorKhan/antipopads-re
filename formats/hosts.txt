@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.279
 # Release: 279
-# Entries: 14,868
-# Updated: Wed, 06 Oct 21 08:05:38 +06
+# Entries: 14,871
+# Updated: Wed, 06 Oct 21 10:03:57 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -707,6 +707,7 @@
 0.0.0.0 addresseetransportationsyndrome.com
 0.0.0.0 addressen.club
 0.0.0.0 addroplet.com
+0.0.0.0 adequality.xyz
 0.0.0.0 adex.media
 0.0.0.0 adexchange.io
 0.0.0.0 adexchangecloud.com
@@ -10601,6 +10602,7 @@
 0.0.0.0 rapeuptown.com
 0.0.0.0 rapgasyogin.com
 0.0.0.0 rapiddictionarytemporarily.com
+0.0.0.0 rapidparish.com
 0.0.0.0 rapinesnifter.com
 0.0.0.0 rapmaid.com
 0.0.0.0 rarseene.com
@@ -11309,6 +11311,7 @@
 0.0.0.0 satanquells.com
 0.0.0.0 satcurdcue.com
 0.0.0.0 satisfactoryviolin.com
+0.0.0.0 saturatecats.com
 0.0.0.0 saturdayloathe.com
 0.0.0.0 saub27i3os.com
 0.0.0.0 saucerharmlessinternational.com
