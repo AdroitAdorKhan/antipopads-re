@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.280
 # Release: 280
-# Entries: 15,001
-# Updated: Thu, 07 Oct 21 16:04:37 +06
+# Entries: 15,003
+# Updated: Thu, 07 Oct 21 18:04:48 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -5556,6 +5556,7 @@
 0.0.0.0 gglx.me
 0.0.0.0 ggsfq.com
 0.0.0.0 ghafirkuhnia.com
+0.0.0.0 ghoping-proogle.icu
 0.0.0.0 giantaffiliates.com
 0.0.0.0 gianwho.com
 0.0.0.0 gibeleftyeuro.com
@@ -10115,6 +10116,7 @@
 0.0.0.0 prioritybeforehand.com
 0.0.0.0 priorityinvaderinflation.com
 0.0.0.0 prisedeluge.com
+0.0.0.0 prissue-thichroom.icu
 0.0.0.0 pritesol.com
 0.0.0.0 privacyheelvest.com
 0.0.0.0 privacysearching.com
