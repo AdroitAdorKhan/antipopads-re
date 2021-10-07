@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.280
 # Release: 280
-# Entries: 14,941
-# Updated: Thu, 07 Oct 21 04:04:06 +06
+# Entries: 14,943
+# Updated: Thu, 07 Oct 21 06:04:31 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -7611,6 +7611,7 @@
 0.0.0.0 localbestdating1.com
 0.0.0.0 localdatingladies.com
 0.0.0.0 localedgemedia.com
+0.0.0.0 localgirlsflirty.com
 0.0.0.0 locallyrivalliberal.com
 0.0.0.0 localsexladies.com
 0.0.0.0 locatedunderwear.com
@@ -12616,6 +12617,7 @@
 0.0.0.0 theationopo.club
 0.0.0.0 theatrialmero.club
 0.0.0.0 thebest-datings.com
+0.0.0.0 thebestcam.life
 0.0.0.0 thebestfortech.com
 0.0.0.0 thebestgame2020.com
 0.0.0.0 theekroa.net
