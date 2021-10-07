@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.280
 # Release: 280
-# Entries: 14,953
-# Updated: Thu, 07 Oct 21 08:05:33 +06
+# Entries: 14,955
+# Updated: Thu, 07 Oct 21 10:04:41 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -7612,6 +7612,7 @@
 0.0.0.0 local-hot-dates.com
 0.0.0.0 localadbuy.com
 0.0.0.0 localbestdating1.com
+0.0.0.0 localchicks1.com
 0.0.0.0 localdatingladies.com
 0.0.0.0 localedgemedia.com
 0.0.0.0 localgirlsflirty.com
@@ -14775,6 +14776,7 @@
 0.0.0.0 your-datingnow.com
 0.0.0.0 your-dreams-a-girls.com
 0.0.0.0 your-dreams-girls2.com
+0.0.0.0 your-men-zone.com
 0.0.0.0 your-notice.com
 0.0.0.0 your-prizes.life
 0.0.0.0 your-profit-here.life
