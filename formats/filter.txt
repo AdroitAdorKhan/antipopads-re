@@ -20,8 +20,8 @@
 ! Version: 21.10.281
 ! Release: 281
 ! Expires: 1 day
-! Entries: 14,634
-! Updated: Fri, 08 Oct 21 12:03:57 +06
+! Entries: 14,635
+! Updated: Fri, 08 Oct 21 16:05:56 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -3460,6 +3460,7 @@
 ||curlyhomes.com^
 ||currentcollar.com^
 ||currentlyclash.com^
+||currentlyztrack.com^
 ||curriculture.com^
 ||currietory.xyz^
 ||curtisfrierson.com^
