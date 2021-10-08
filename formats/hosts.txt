@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.281
 # Release: 281
-# Entries: 14,632
-# Updated: Fri, 08 Oct 21 10:04:06 +06
+# Entries: 14,634
+# Updated: Fri, 08 Oct 21 12:03:57 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -4199,6 +4199,7 @@
 0.0.0.0 ea1abaf867.com
 0.0.0.0 ea6353e47e0ab3f78.com
 0.0.0.0 ea978ca12bb65.com
+0.0.0.0 eaaltkvtuge.com
 0.0.0.0 eaboutvth.biz
 0.0.0.0 eac0823ca94e3c07.com
 0.0.0.0 eacdn.com
@@ -5487,6 +5488,7 @@
 0.0.0.0 gjslebmbiawh.com
 0.0.0.0 gjw5qbyn93b8.com
 0.0.0.0 gk8j5woqk26f.com
+0.0.0.0 gkefsixxlzhn.com
 0.0.0.0 gkgojxjucutvnt.com
 0.0.0.0 gl-cash.com
 0.0.0.0 gl1117wh13.com
