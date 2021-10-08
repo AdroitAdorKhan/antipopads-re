@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.281
 # Release: 281
-# Entries: 14,662
-# Updated: Fri, 08 Oct 21 20:05:11 +06
+# Entries: 14,663
+# Updated: Fri, 08 Oct 21 22:05:07 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -14521,6 +14521,7 @@
 0.0.0.0 yqeuu.com
 0.0.0.0 yqezqofkb1nnmz.com
 0.0.0.0 yqmmjmjxdigdak.com
+0.0.0.0 yqsoxyhmumnn.com
 0.0.0.0 yr9n47004g.com
 0.0.0.0 ysdtcdnoox.com
 0.0.0.0 ysnj74ed.com
