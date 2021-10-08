@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 21.10.280
-# Release: 280
-# Entries: 14,610
-# Updated: Thu, 07 Oct 21 22:09:20 +06
+# Version: 21.10.281
+# Release: 281
+# Entries: 14,618
+# Updated: Fri, 08 Oct 21 08:04:22 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2190,6 +2190,7 @@
 0.0.0.0 bmcdn1.com
 0.0.0.0 bmkz57b79pxk.com
 0.0.0.0 bn5x.net
+0.0.0.0 bnc1m.com
 0.0.0.0 bngpt.com
 0.0.0.0 bngwlt.com
 0.0.0.0 bnhtml.com
@@ -2417,6 +2418,7 @@
 0.0.0.0 bumogipte.com
 0.0.0.0 bundhammam.com
 0.0.0.0 bunnymediaserver.com
+0.0.0.0 bupatp.com
 0.0.0.0 bupserge.com
 0.0.0.0 burbibape.com
 0.0.0.0 bureaucracyambiguousfellow.com
@@ -2521,6 +2523,7 @@
 0.0.0.0 cadspmz.com
 0.0.0.0 caeebxhzg.com
 0.0.0.0 cafe58cc6d0ac.com
+0.0.0.0 cafegraha.com
 0.0.0.0 cagelrib.net
 0.0.0.0 caglaikr.net
 0.0.0.0 cagothie.net
@@ -2780,6 +2783,7 @@
 0.0.0.0 cheetieaha.com
 0.0.0.0 cheewait.net
 0.0.0.0 cheewhoa.net
+0.0.0.0 chegostyzi.com
 0.0.0.0 chekaksam.com
 0.0.0.0 cheksoam.com
 0.0.0.0 chelaxeshi.com
@@ -4791,6 +4795,7 @@
 0.0.0.0 fastenpaganhelm.com
 0.0.0.0 fastpopclick.com
 0.0.0.0 fastpopunder.com
+0.0.0.0 fastred.biz
 0.0.0.0 fatchilli.media
 0.0.0.0 fatebbc.pro
 0.0.0.0 fatherceremony.com
@@ -5724,6 +5729,7 @@
 0.0.0.0 gristleupanaya.com
 0.0.0.0 gritchuw.com
 0.0.0.0 grivupie.net
+0.0.0.0 grmtmuabcrss.xyz
 0.0.0.0 groackam.com
 0.0.0.0 grobido.info
 0.0.0.0 groguzoo.net
@@ -7209,6 +7215,7 @@
 0.0.0.0 latheendsmoo.com
 0.0.0.0 lativenayl.top
 0.0.0.0 latterinconvenient.com
+0.0.0.0 latuga.com
 0.0.0.0 laughablecopper.com
 0.0.0.0 lauhefoo.com
 0.0.0.0 lauhoosh.net
@@ -13229,6 +13236,7 @@
 0.0.0.0 velvetrattle.com
 0.0.0.0 vempozah.net
 0.0.0.0 vemtoala.com
+0.0.0.0 vendedrt.xyz
 0.0.0.0 vendigamus.com
 0.0.0.0 vendnibtemp.com
 0.0.0.0 venetrigni.com
