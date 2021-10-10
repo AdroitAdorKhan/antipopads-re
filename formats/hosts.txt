@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.284
 # Release: 284
-# Entries: 14,967
-# Updated: Mon, 11 Oct 21 00:04:24 +06
+# Entries: 14,969
+# Updated: Mon, 11 Oct 21 02:04:10 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -4410,6 +4410,7 @@
 0.0.0.0 effectiveperformancenetwork.com
 0.0.0.0 effectpinching.com
 0.0.0.0 effectwringoverreact.com
+0.0.0.0 efficaciousart.com
 0.0.0.0 efficiencycypressregarding.com
 0.0.0.0 efficientapplesimulator.com
 0.0.0.0 effixtile-inceive.com
@@ -13607,6 +13608,7 @@
 0.0.0.0 vidmonday.com
 0.0.0.0 vidmoskan.com
 0.0.0.0 vidonelove.com
+0.0.0.0 vidox.net
 0.0.0.0 vidsforuz.com
 0.0.0.0 vidsorg.com
 0.0.0.0 vidstorenx.com
