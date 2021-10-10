@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 21.10.283
-# Release: 283
-# Entries: 14,966
-# Updated: Sun, 10 Oct 21 22:06:31 +06
+# Version: 21.10.284
+# Release: 284
+# Entries: 14,967
+# Updated: Mon, 11 Oct 21 00:04:24 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -635,6 +635,7 @@
 :: actsrelent.com
 :: actsvane.com
 :: actuallysheep.com
+:: aculdi.com
 :: acweb.online
 :: acwyoynw.com
 :: ad-arata.com
