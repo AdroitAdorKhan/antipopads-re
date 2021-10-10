@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.283
 # Release: 283
-# Entries: 14,963
-# Updated: Sun, 10 Oct 21 18:04:17 +06
+# Entries: 14,964
+# Updated: Sun, 10 Oct 21 20:07:33 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -13948,6 +13948,7 @@
 0.0.0.0 wgaycnmfz.com
 0.0.0.0 wgpartner.com
 0.0.0.0 wgpsjcpdulptl.com
+0.0.0.0 wgqeigtu.xyz
 0.0.0.0 wgrjizeaimbxx.com
 0.0.0.0 whackaggressive.com
 0.0.0.0 whackmaturityclosure.com
