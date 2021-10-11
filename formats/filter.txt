@@ -20,8 +20,8 @@
 ! Version: 21.10.285
 ! Release: 285
 ! Expires: 1 day
-! Entries: 15,047
-! Updated: Tue, 12 Oct 21 00:04:52 +06
+! Entries: 15,048
+! Updated: Tue, 12 Oct 21 04:05:02 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -2976,6 +2976,7 @@
 ||cleanbrowser.network^
 ||cleaneryelded.site^
 ||cleanmediaads.com^
+||cleanupcokesunny.com^
 ||clear-request.com^
 ||clearac.com^
 ||clearadnetwork.com^
