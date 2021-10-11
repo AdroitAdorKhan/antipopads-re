@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.284
 # Release: 284
-# Entries: 15,003
-# Updated: Mon, 11 Oct 21 12:05:32 +06
+# Entries: 15,007
+# Updated: Mon, 11 Oct 21 14:05:06 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -4592,6 +4592,7 @@
 0.0.0.0 epndtinso.com
 0.0.0.0 epnredirect.ru
 0.0.0.0 epochokaypeerless.com
+0.0.0.0 epsesy.com
 0.0.0.0 epsqdbhrhqmbs.com
 0.0.0.0 eptouphi.com
 0.0.0.0 epu.sh
@@ -10314,6 +10315,7 @@
 0.0.0.0 pstreetma.com
 0.0.0.0 psugeglapha.com
 0.0.0.0 psughooy.com
+0.0.0.0 psuhuchize.com
 0.0.0.0 psulsobi.net
 0.0.0.0 psupaids.com
 0.0.0.0 psuphuns.net
@@ -13236,6 +13238,7 @@
 0.0.0.0 ufwpwt.com
 0.0.0.0 ufyffpepdsgcydxroosmry.me
 0.0.0.0 ugahutoa.com
+0.0.0.0 uganod.com
 0.0.0.0 ugaupeex.net
 0.0.0.0 ughhimtoy.com
 0.0.0.0 uglaiste.com
@@ -14744,6 +14747,7 @@
 0.0.0.0 yfibjzosrqrtmv.com
 0.0.0.0 yg592gpmrh0q.com
 0.0.0.0 yggcfcirw.xyz
+0.0.0.0 ygudtbdnhkhlmkd.xyz
 0.0.0.0 yguuoibdsscki.com
 0.0.0.0 ygzkedoxwhqlzp.com
 0.0.0.0 yiatelychur.top
