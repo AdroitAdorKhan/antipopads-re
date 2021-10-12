@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.285
 # Release: 285
-# Entries: 15,063
-# Updated: Tue, 12 Oct 21 10:07:30 +06
+# Entries: 15,064
+# Updated: Tue, 12 Oct 21 12:05:46 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -10096,6 +10096,7 @@
 0.0.0.0 ppscdnqkgj.com
 0.0.0.0 pptgbdofq.me
 0.0.0.0 ppxbsbluutiwc.xyz
+0.0.0.0 ppxldikxksuo.com
 0.0.0.0 practeddagek.club
 0.0.0.0 practicableperiodicabrupt.com
 0.0.0.0 practimplete.club
