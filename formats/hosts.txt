@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.285
 # Release: 285
-# Entries: 15,048
-# Updated: Tue, 12 Oct 21 04:05:02 +06
+# Entries: 15,053
+# Updated: Tue, 12 Oct 21 08:04:03 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1071,6 +1071,7 @@
 0.0.0.0 afgr8.com
 0.0.0.0 afgr9.com
 0.0.0.0 afk-i.com
+0.0.0.0 afordi.com
 0.0.0.0 afqwycsjkhwdojobdywvowaa.me
 0.0.0.0 africaewgrhdtb.com
 0.0.0.0 africawin.com
@@ -7313,6 +7314,7 @@
 0.0.0.0 krkursist.com
 0.0.0.0 kronosspell.com
 0.0.0.0 krtiesuuhvmbnomirtoba.me
+0.0.0.0 ksharu.com
 0.0.0.0 ksjrehefupsrkz.com
 0.0.0.0 kt5850pjz0.com
 0.0.0.0 ktteklov.com
@@ -8794,6 +8796,7 @@
 0.0.0.0 nmentsce.top
 0.0.0.0 nmrlcnuok.com
 0.0.0.0 nmywwgnnkmud.com
+0.0.0.0 nnkeajhamwoo.xyz
 0.0.0.0 noagliph.com
 0.0.0.0 noagloot.net
 0.0.0.0 noakauhe.com
@@ -10312,6 +10315,7 @@
 0.0.0.0 psekesheva.pro
 0.0.0.0 psensuds.net
 0.0.0.0 psepengo.net
+0.0.0.0 pseptegoti.com
 0.0.0.0 pseudoreseaux.xyz
 0.0.0.0 psevaulr.net
 0.0.0.0 psewhaur.net
@@ -10956,6 +10960,7 @@
 0.0.0.0 rentsincrea.top
 0.0.0.0 reojou.com
 0.0.0.0 reopenmetresubstance.com
+0.0.0.0 reorganizeprince.com
 0.0.0.0 reorganizewallet.com
 0.0.0.0 repairedtightslavishness.com
 0.0.0.0 repbowdew.com
