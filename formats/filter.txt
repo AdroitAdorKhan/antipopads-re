@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 21.10.285
-! Release: 285
+! Version: 21.10.286
+! Release: 286
 ! Expires: 1 day
-! Entries: 15,087
-! Updated: Tue, 12 Oct 21 20:07:17 +06
+! Entries: 15,088
+! Updated: Wed, 13 Oct 21 02:06:48 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -3472,6 +3472,7 @@
 ||crptentry.com^
 ||crptgate.com^
 ||crtracklink.com^
+||crudeartfulrecreate.com^
 ||crudestoctdra.cam^
 ||crueltyrefundye.com^
 ||crushingacevex.com^

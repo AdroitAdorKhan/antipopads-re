@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 21.10.285
-# Release: 285
-# Entries: 15,087
-# Updated: Tue, 12 Oct 21 20:07:17 +06
+# Version: 21.10.286
+# Release: 286
+# Entries: 15,088
+# Updated: Wed, 13 Oct 21 02:06:48 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3471,6 +3471,7 @@
 0.0.0.0 crptentry.com
 0.0.0.0 crptgate.com
 0.0.0.0 crtracklink.com
+0.0.0.0 crudeartfulrecreate.com
 0.0.0.0 crudestoctdra.cam
 0.0.0.0 crueltyrefundye.com
 0.0.0.0 crushingacevex.com
