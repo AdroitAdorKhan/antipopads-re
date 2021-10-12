@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.286
 # Release: 286
-# Entries: 15,088
-# Updated: Wed, 13 Oct 21 02:06:48 +06
+# Entries: 15,089
+# Updated: Wed, 13 Oct 21 04:04:38 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -11356,6 +11356,7 @@
 0.0.0.0 runative-syndicate.com
 0.0.0.0 runative.com
 0.0.0.0 runbornto.com
+0.0.0.0 runeddivided.casa
 0.0.0.0 runetki.co
 0.0.0.0 rungginlout.com
 0.0.0.0 runghollow.com
