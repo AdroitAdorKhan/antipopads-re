@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.285
 # Release: 285
-# Entries: 15,067
-# Updated: Tue, 12 Oct 21 14:04:47 +06
+# Entries: 15,073
+# Updated: Tue, 12 Oct 21 16:04:37 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -4453,9 +4453,11 @@
 0.0.0.0 eighteenmedal.com
 0.0.0.0 eikegolehem.com
 0.0.0.0 eisenberglawgrouppc.com
+0.0.0.0 eissop.com
 0.0.0.0 eiteratebef.top
 0.0.0.0 eithereda.fun
 0.0.0.0 eitherunkindvapour.com
+0.0.0.0 eitiso.com
 0.0.0.0 ejdkqclkzq.com
 0.0.0.0 ejectfeudburly.com
 0.0.0.0 ejectsurvivalfollower.com
@@ -5590,6 +5592,7 @@
 0.0.0.0 getdonspeg.work
 0.0.0.0 getidglutton.com
 0.0.0.0 getiluda.com
+0.0.0.0 getinclinarss.xyz
 0.0.0.0 getlocalwoman1.com
 0.0.0.0 getmyads.com
 0.0.0.0 getpdaiddaily.com
@@ -12143,6 +12146,7 @@
 0.0.0.0 spittsprevi.club
 0.0.0.0 splashfloating.com
 0.0.0.0 splashforgodm.com
+0.0.0.0 splashsjewels.com
 0.0.0.0 spleniafallows.com
 0.0.0.0 splittingpick.com
 0.0.0.0 spolden-proping.com
@@ -13241,6 +13245,7 @@
 0.0.0.0 twtad.com
 0.0.0.0 txcmjo.com
 0.0.0.0 txgakrasgns.com
+0.0.0.0 txrzhshxdtn.com
 0.0.0.0 tyargupdbtyxt.me
 0.0.0.0 tygafso.com
 0.0.0.0 tyjawhesu.com
@@ -14198,6 +14203,7 @@
 0.0.0.0 wm-abms.com
 0.0.0.0 wma.io
 0.0.0.0 wmonthsaft.biz
+0.0.0.0 wnbeiskivkkmpy.xyz
 0.0.0.0 wnlonevkiju16.site
 0.0.0.0 wnmalshuld.com
 0.0.0.0 wnp.com
