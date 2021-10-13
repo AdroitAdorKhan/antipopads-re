@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.286
 # Release: 286
-# Entries: 15,092
-# Updated: Wed, 13 Oct 21 16:05:28 +06
+# Entries: 15,093
+# Updated: Wed, 13 Oct 21 18:04:26 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -13929,6 +13929,7 @@
 0.0.0.0 waistcoathearing.com
 0.0.0.0 waitinghypotheticallysoot.com
 0.0.0.0 waitressunequal.com
+0.0.0.0 wakanmounds.cam
 0.0.0.0 wallpapersfacts.com
 0.0.0.0 wallstrads.com
 0.0.0.0 wamnetwork.com
