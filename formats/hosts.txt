@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.286
 # Release: 286
-# Entries: 15,089
-# Updated: Wed, 13 Oct 21 04:04:38 +06
+# Entries: 15,090
+# Updated: Wed, 13 Oct 21 10:08:07 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -14562,6 +14562,7 @@
 0.0.0.0 www.sma8clk.com
 0.0.0.0 www.smjdkmvhar.com
 0.0.0.0 www.soshoord.com
+0.0.0.0 www.spamvariationswithin.com
 0.0.0.0 www.speop.com
 0.0.0.0 www.sqpgncbm.com
 0.0.0.0 www.sroiwcncfhi.com
