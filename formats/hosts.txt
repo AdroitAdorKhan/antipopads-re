@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.287
 # Release: 287
-# Entries: 15,119
-# Updated: Thu, 14 Oct 21 02:04:08 +06
+# Entries: 15,121
+# Updated: Thu, 14 Oct 21 04:04:23 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2701,6 +2701,7 @@
 0.0.0.0 ccd8450321.com
 0.0.0.0 ccdgav.com
 0.0.0.0 ccdnqxu.com
+0.0.0.0 ccjysdii.xyz
 0.0.0.0 cconseent.info
 0.0.0.0 cd4348d1133.com
 0.0.0.0 cd490573c64f3f.com
@@ -3549,6 +3550,7 @@
 0.0.0.0 cuttuberaxis.com
 0.0.0.0 cutw.pro
 0.0.0.0 cvintertain.club
+0.0.0.0 cvksqwtoasydkoj.xyz
 0.0.0.0 cvqgnkeqme.com
 0.0.0.0 cxfasrclsf.xyz
 0.0.0.0 cyan92010.com
