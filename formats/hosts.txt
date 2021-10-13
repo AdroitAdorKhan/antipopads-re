@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.286
 # Release: 286
-# Entries: 15,090
-# Updated: Wed, 13 Oct 21 10:08:07 +06
+# Entries: 15,091
+# Updated: Wed, 13 Oct 21 12:07:48 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -11658,6 +11658,7 @@
 0.0.0.0 servicegetbook.net
 0.0.0.0 serving-system.com
 0.0.0.0 seskeu3zk7.com
+0.0.0.0 sessionamateur.com
 0.0.0.0 setbackrelishdivine.com
 0.0.0.0 setemoump.com
 0.0.0.0 setmeg.com
