@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.287
 # Release: 287
-# Entries: 15,123
-# Updated: Thu, 14 Oct 21 08:05:34 +06
+# Entries: 15,124
+# Updated: Thu, 14 Oct 21 10:06:07 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -5980,6 +5980,7 @@
 0.0.0.0 guemechan.top
 0.0.0.0 guffawdecipher.com
 0.0.0.0 guffawsister.com
+0.0.0.0 guffsview.com
 0.0.0.0 gulpduereason.com
 0.0.0.0 gumbolersgthb.com
 0.0.0.0 gunyangseamus.cam
