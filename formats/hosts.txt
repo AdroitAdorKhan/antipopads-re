@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 21.10.287
-# Release: 287
-# Entries: 15,159
-# Updated: Thu, 14 Oct 21 22:02:46 +06
+# Version: 21.10.288
+# Release: 288
+# Entries: 15,163
+# Updated: Fri, 15 Oct 21 00:03:36 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -4133,6 +4133,7 @@
 0.0.0.0 doublepimpssl.com
 0.0.0.0 doubleprofit-now.life
 0.0.0.0 doublerecall.com
+0.0.0.0 doublycharacteristic.com
 0.0.0.0 doubooca.com
 0.0.0.0 doubtfirework.com
 0.0.0.0 doufoacu.net
@@ -5206,6 +5207,7 @@
 0.0.0.0 flycheapen.com
 0.0.0.0 flymob.com
 0.0.0.0 fmebili.info
+0.0.0.0 fmpannkmn.xyz
 0.0.0.0 fmpub.net
 0.0.0.0 fmsads.com
 0.0.0.0 fmsde0dv2j54.com
@@ -6500,6 +6502,7 @@
 0.0.0.0 i4tvy8vk9f74.com
 0.0.0.0 i5iog3mlrw.com
 0.0.0.0 i62e2b4mfy.com
+0.0.0.0 i7ece0xrg4nx.com
 0.0.0.0 i864ekhq.com
 0.0.0.0 i99i.org
 0.0.0.0 i-afk.com
@@ -8269,6 +8272,7 @@
 0.0.0.0 minently.com
 0.0.0.0 mineralscreamrobes.com
 0.0.0.0 minessetion.info
+0.0.0.0 mingledunorder.com
 0.0.0.0 minimizeglanceanyway.com
 0.0.0.0 minimumgold.com
 0.0.0.0 minimumkilledupdated.com
