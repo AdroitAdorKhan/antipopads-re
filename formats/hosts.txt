@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.288
 # Release: 288
-# Entries: 15,185
-# Updated: Fri, 15 Oct 21 20:03:23 +06
+# Entries: 15,187
+# Updated: Fri, 15 Oct 21 22:02:30 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -5799,6 +5799,7 @@
 0.0.0.0 gnatgrocery.com
 0.0.0.0 gnatneatlyembodiment.com
 0.0.0.0 gnawinstruct.com
+0.0.0.0 gnoyvsielusbi.xyz
 0.0.0.0 go2affise.com
 0.0.0.0 go2cloud.org
 0.0.0.0 go2.global
@@ -14409,6 +14410,7 @@
 0.0.0.0 wudr.net
 0.0.0.0 wufel.ml
 0.0.0.0 wufmyky.me
+0.0.0.0 wunteetoco.com
 0.0.0.0 wuphufti.com
 0.0.0.0 wurtoosy.com
 0.0.0.0 wutipupi.xyz
