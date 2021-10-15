@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.288
 # Release: 288
-# Entries: 15,181
-# Updated: Fri, 15 Oct 21 18:02:13 +06
+# Entries: 15,185
+# Updated: Fri, 15 Oct 21 20:03:23 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2663,6 +2663,7 @@
 0.0.0.0 cashbigo.com
 0.0.0.0 cashcave.net
 0.0.0.0 cash-duck.com
+0.0.0.0 cashewsforlife208.com
 0.0.0.0 cashinme.com
 0.0.0.0 cashkipe.casa
 0.0.0.0 cashlayer.com
@@ -5528,6 +5529,7 @@
 0.0.0.0 gallanttortoiseassemble.com
 0.0.0.0 gallonranchwhining.com
 0.0.0.0 gallopprisonbanter.com
+0.0.0.0 gameragematt.com
 0.0.0.0 gamersad.com
 0.0.0.0 gamersbanner.com
 0.0.0.0 gamersterritory.com
@@ -11082,6 +11084,7 @@
 0.0.0.0 resonance.pk
 0.0.0.0 resonantbrush.com
 0.0.0.0 respectfulcoal.com
+0.0.0.0 respectivepreservation.com
 0.0.0.0 respirationcafeincomparable.com
 0.0.0.0 respirationghastly.com
 0.0.0.0 respiratorhair.com
@@ -13803,6 +13806,7 @@
 0.0.0.0 viency-vering.com
 0.0.0.0 viewablemedia.net
 0.0.0.0 viewclc.com
+0.0.0.0 view-flix.com
 0.0.0.0 viewlnk.com
 0.0.0.0 viewscout.com
 0.0.0.0 vifyzymo.com
