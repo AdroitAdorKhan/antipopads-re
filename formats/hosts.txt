@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.289
 # Release: 289
-# Entries: 15,190
-# Updated: Sat, 16 Oct 21 00:04:20 +06
+# Entries: 15,191
+# Updated: Sat, 16 Oct 21 02:02:56 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -4711,6 +4711,7 @@
 0.0.0.0 etcodes.com
 0.0.0.0 eteeleek.net
 0.0.0.0 etempoat.net
+0.0.0.0 etetum.com
 0.0.0.0 ethamake.club
 0.0.0.0 ethemuseu.biz
 0.0.0.0 etheopportu.biz
