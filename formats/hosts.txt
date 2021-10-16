@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.290
 # Release: 290
-# Entries: 15,246
-# Updated: Sun, 17 Oct 21 00:03:07 +06
+# Entries: 15,248
+# Updated: Sun, 17 Oct 21 02:03:15 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3706,6 +3706,7 @@
 0.0.0.0 dating-hotties2.com
 0.0.0.0 dating-hotties-here2.com
 0.0.0.0 datingmaniavip.com
+0.0.0.0 datingmatcher.life
 0.0.0.0 datingsexmeet2.com
 0.0.0.0 datingspot.life
 0.0.0.0 dationxperi.club
@@ -13098,6 +13099,7 @@
 0.0.0.0 topdisplaycontent.com
 0.0.0.0 topdisplaynetwork.com
 0.0.0.0 topflownews.com
+0.0.0.0 topfutureprofit.life
 0.0.0.0 topgirls-here1.com
 0.0.0.0 topgirls-here.com
 0.0.0.0 topichawaii.com
