@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.289
 # Release: 289
-# Entries: 15,233
-# Updated: Sat, 16 Oct 21 10:03:49 +06
+# Entries: 15,234
+# Updated: Sat, 16 Oct 21 14:02:46 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -8908,6 +8908,7 @@
 0.0.0.0 noateeva.com
 0.0.0.0 noawhupt.net
 0.0.0.0 noblefun.net
+0.0.0.0 noblemanscramblemoderately.com
 0.0.0.0 nocdnrlly.xyz
 0.0.0.0 nodecrisp.com
 0.0.0.0 nodowd.com

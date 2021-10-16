@@ -20,8 +20,8 @@
 ! Version: 21.10.289
 ! Release: 289
 ! Expires: 1 day
-! Entries: 15,233
-! Updated: Sat, 16 Oct 21 10:03:49 +06
+! Entries: 15,234
+! Updated: Sat, 16 Oct 21 14:02:46 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -8909,6 +8909,7 @@
 ||noateeva.com^
 ||noawhupt.net^
 ||noblefun.net^
+||noblemanscramblemoderately.com^
 ||nocdnrlly.xyz^
 ||nodecrisp.com^
 ||nodowd.com^
