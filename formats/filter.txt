@@ -20,8 +20,8 @@
 ! Version: 21.10.289
 ! Release: 289
 ! Expires: 1 day
-! Entries: 15,234
-! Updated: Sat, 16 Oct 21 14:02:46 +06
+! Entries: 15,235
+! Updated: Sat, 16 Oct 21 16:03:32 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -1086,6 +1086,7 @@
 ||afssdmin.com^
 ||afterdownload.com^
 ||afterdownloads.com^
+||afterwardscaress.com^
 ||aftjohnanodes.com^
 ||agacelebir.com^
 ||agafurretor.com^
