@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.289
 # Release: 289
-# Entries: 15,241
-# Updated: Sat, 16 Oct 21 18:02:40 +06
+# Entries: 15,243
+# Updated: Sat, 16 Oct 21 20:02:20 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1020,6 +1020,7 @@
 0.0.0.0 aeesy.com
 0.0.0.0 aelick.com
 0.0.0.0 aelphotog.pro
+0.0.0.0 aentafmxkmhea.com
 0.0.0.0 aexperiod.fun
 0.0.0.0 afa9bdfa63bf7.com
 0.0.0.0 afclickoffers.com
@@ -9234,6 +9235,7 @@
 0.0.0.0 ogrfi3uyt7.com
 0.0.0.0 ogskle.com
 0.0.0.0 ogzdcghzpwos.com
+0.0.0.0 ohchateauominous.com
 0.0.0.0 ohkdsplu.com
 0.0.0.0 ohldsplu.com
 0.0.0.0 ohmcasting.com
