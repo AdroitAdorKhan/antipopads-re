@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.289
 # Release: 289
-# Entries: 15,243
-# Updated: Sat, 16 Oct 21 20:02:20 +06
+# Entries: 15,245
+# Updated: Sat, 16 Oct 21 22:02:16 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -10016,6 +10016,7 @@
 0.0.0.0 plainwrk.name
 0.0.0.0 plandiscriminationtakeout.com
 0.0.0.0 planktab.com
+0.0.0.0 planneddeference.com
 0.0.0.0 planneradministratorsignify.com
 0.0.0.0 plannerladyreality.com
 0.0.0.0 planningflattery.com
@@ -10337,6 +10338,7 @@
 0.0.0.0 prognosisshallowpliant.com
 0.0.0.0 programminghonourable.com
 0.0.0.0 prograph.club
+0.0.0.0 prohibitionformersporting.com
 0.0.0.0 projectagoralibs.com
 0.0.0.0 projectagora.net
 0.0.0.0 projectagora.tech
