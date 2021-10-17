@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.291
 # Release: 291
-# Entries: 15,319
-# Updated: Mon, 18 Oct 21 02:02:08 +06
+# Entries: 15,323
+# Updated: Mon, 18 Oct 21 04:02:57 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1956,6 +1956,7 @@
 0.0.0.0 bclheggx.com
 0.0.0.0 bcloudhost.com
 0.0.0.0 bcnewltd.club
+0.0.0.0 bcprm.com
 0.0.0.0 bcuuipewdz.com
 0.0.0.0 bcvcmedia.com
 0.0.0.0 bdqrdtbtg.xyz
@@ -3574,6 +3575,7 @@
 0.0.0.0 currentlyztrack.com
 0.0.0.0 curriculture.com
 0.0.0.0 currietory.xyz
+0.0.0.0 curtainsimplicitycoast.com
 0.0.0.0 curtisfrierson.com
 0.0.0.0 curtlychit.com
 0.0.0.0 curveconjure.com
@@ -5417,6 +5419,7 @@
 0.0.0.0 fresder34.top
 0.0.0.0 fresh8.co
 0.0.0.0 freshborne.com
+0.0.0.0 freshendueshealth.com
 0.0.0.0 frevi.net
 0.0.0.0 freychang.fun
 0.0.0.0 frhbrkjgerikm2f8mjek09.com
@@ -13236,6 +13239,7 @@
 0.0.0.0 trafficdok.com
 0.0.0.0 trafficforce.com
 0.0.0.0 trafficinvest.com
+0.0.0.0 trafficlide.com
 0.0.0.0 trafficmoon.com
 0.0.0.0 trafficmoose.com
 0.0.0.0 trafficoverus.com
