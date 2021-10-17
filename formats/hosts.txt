@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 21.10.290
-# Release: 290
-# Entries: 15,316
-# Updated: Sun, 17 Oct 21 20:01:53 +06
+# Version: 21.10.291
+# Release: 291
+# Entries: 15,319
+# Updated: Mon, 18 Oct 21 02:02:08 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -6372,6 +6372,7 @@
 0.0.0.0 hockeymusclebanged.com
 0.0.0.0 hoemasfat.site
 0.0.0.0 hofofici.com
+0.0.0.0 hogawn.com
 0.0.0.0 hognoseabient.com
 0.0.0.0 hoguchiphe.com
 0.0.0.0 hoistchart.com
@@ -11589,6 +11590,7 @@
 0.0.0.0 safestteacherwaiting.com
 0.0.0.0 sagloops.com
 0.0.0.0 sagroagh.com
+0.0.0.0 saifusty.net
 0.0.0.0 saikeela.net
 0.0.0.0 sailcovertend.com
 0.0.0.0 sailif.com
@@ -12396,6 +12398,7 @@
 0.0.0.0 ssncludingco.biz
 0.0.0.0 ssorsophicla.info
 0.0.0.0 sspsebqimvgsktsbav.me
+0.0.0.0 ssuilbtg.xyz
 0.0.0.0 ssumeras.top
 0.0.0.0 stabiloseront.xyz
 0.0.0.0 stackattacka.com
