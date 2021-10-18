@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.291
 # Release: 291
-# Entries: 15,386
-# Updated: Mon, 18 Oct 21 20:03:49 +06
+# Entries: 15,389
+# Updated: Mon, 18 Oct 21 22:02:33 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -10235,6 +10235,7 @@
 0.0.0.0 posple.com
 0.0.0.0 possessedbrute.com
 0.0.0.0 possiblytoxic.com
+0.0.0.0 possungerression.com
 0.0.0.0 postback.info
 0.0.0.0 postlnk.com
 0.0.0.0 postrelease.com
@@ -12449,6 +12450,7 @@
 0.0.0.0 ssncludingco.biz
 0.0.0.0 ssorsophicla.info
 0.0.0.0 sspsebqimvgsktsbav.me
+0.0.0.0 ssputt.casa
 0.0.0.0 ssuilbtg.xyz
 0.0.0.0 ssumeras.top
 0.0.0.0 stabiloseront.xyz
@@ -12632,6 +12634,7 @@
 0.0.0.0 sturgeonlibel.com
 0.0.0.0 stustogagly.com
 0.0.0.0 styeoursmack.casa
+0.0.0.0 styeporus.cam
 0.0.0.0 styleduring.com
 0.0.0.0 stypeshinu.com
 0.0.0.0 subconsciousill.com
