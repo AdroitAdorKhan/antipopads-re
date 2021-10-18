@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.291
 # Release: 291
-# Entries: 15,363
-# Updated: Mon, 18 Oct 21 12:03:32 +06
+# Entries: 15,367
+# Updated: Mon, 18 Oct 21 14:02:16 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2937,6 +2937,7 @@
 0.0.0.0 choupsee.com
 0.0.0.0 chpfgx.com
 0.0.0.0 chpok.pw
+0.0.0.0 chrigm.com
 0.0.0.0 christingera.site
 0.0.0.0 christmasporn.top
 0.0.0.0 chronicads.com
@@ -6620,6 +6621,7 @@
 0.0.0.0 identificationralphrefuel.com
 0.0.0.0 identifyluckyexactly.com
 0.0.0.0 idiafix.com
+0.0.0.0 idiarb.com
 0.0.0.0 idlinz.com
 0.0.0.0 idownloadgalore.com
 0.0.0.0 idswinpole.casa
@@ -7561,6 +7563,7 @@
 0.0.0.0 lashquivercakes.com
 0.0.0.0 lataurir.com
 0.0.0.0 latestsocial.com
+0.0.0.0 lathechevo.com
 0.0.0.0 latheendsmoo.com
 0.0.0.0 lativenayl.top
 0.0.0.0 latterinconvenient.com
@@ -8620,6 +8623,7 @@
 0.0.0.0 mummypepdye.com
 0.0.0.0 mumsimso.net
 0.0.0.0 municalwarn.top
+0.0.0.0 mupsytyzu.com
 0.0.0.0 mupteekr.net
 0.0.0.0 muqson0kgr.com
 0.0.0.0 murdenedo.club
