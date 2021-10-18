@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.291
 # Release: 291
-# Entries: 15,361
-# Updated: Mon, 18 Oct 21 10:02:35 +06
+# Entries: 15,363
+# Updated: Mon, 18 Oct 21 12:03:32 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -14815,6 +14815,7 @@
 0.0.0.0 www.simbolslot.biz
 0.0.0.0 www.simbolslot.me
 0.0.0.0 www.sinceclairvoyant.com
+0.0.0.0 www.slipclearing.com
 0.0.0.0 www.slomgvyfd.com
 0.0.0.0 www.sma8clk.com
 0.0.0.0 www.smjdkmvhar.com
@@ -15019,6 +15020,7 @@
 0.0.0.0 xvstvids.co
 0.0.0.0 xvstvids.com
 0.0.0.0 xvwebllndr.com
+0.0.0.0 xvxxbrzhjunco.com
 0.0.0.0 xwkxpxili.com
 0.0.0.0 xxccdshj.com
 0.0.0.0 xxladu.com
