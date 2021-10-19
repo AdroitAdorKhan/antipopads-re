@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 21.10.292
-! Release: 292
+! Version: 21.10.293
+! Release: 293
 ! Expires: 1 day
-! Entries: 15,448
-! Updated: Tue, 19 Oct 21 22:02:41 +06
+! Entries: 15,449
+! Updated: Wed, 20 Oct 21 00:03:46 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -129,6 +129,7 @@
 ||1r8435gsqldr.com^
 ||1redira.com^
 ||1web.me^
+||1www.bestdisplayformats.com^
 ||2020mustang.com^
 ||203fb7a4cb1.com^
 ||206ads.com^
