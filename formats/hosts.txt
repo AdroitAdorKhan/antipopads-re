@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.292
 # Release: 292
-# Entries: 15,442
-# Updated: Tue, 19 Oct 21 20:02:45 +06
+# Entries: 15,448
+# Updated: Tue, 19 Oct 21 22:02:41 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3194,6 +3194,7 @@
 0.0.0.0 coinadster.com
 0.0.0.0 coinadvert.net
 0.0.0.0 coinverti.com
+0.0.0.0 coiston.com
 0.0.0.0 cokeseeming.com
 0.0.0.0 cold-cold-freezing.com
 0.0.0.0 coldhardcash.com
@@ -3375,6 +3376,7 @@
 0.0.0.0 convertmb.com
 0.0.0.0 convilla.xyz
 0.0.0.0 convincedsponsorshipenemy.com
+0.0.0.0 convincingnotion.com
 0.0.0.0 convrse.media
 0.0.0.0 conyak.com
 0.0.0.0 coograma.net
@@ -5842,6 +5844,7 @@
 0.0.0.0 gloatdiagnosis.com
 0.0.0.0 gloatwhisper.com
 0.0.0.0 globaladmedia.com
+0.0.0.0 globaladmedia.net
 0.0.0.0 globaladsales.com
 0.0.0.0 globaladv.net
 0.0.0.0 global-dates-here.com
@@ -6563,6 +6566,7 @@
 0.0.0.0 humidmentioned.com
 0.0.0.0 humorshieldrecede.com
 0.0.0.0 humsoolt.net
+0.0.0.0 hunchbackimpulse.com
 0.0.0.0 hunchmotherhooddefine.com
 0.0.0.0 hungerundo.com
 0.0.0.0 hunoso.com
@@ -10817,6 +10821,7 @@
 0.0.0.0 pyq6n.com
 0.0.0.0 pyreelsepipe.com
 0.0.0.0 pyrroylceriums.com
+0.0.0.0 pyxidiaimmerit.com
 0.0.0.0 pzhuzlwjiymfos.com
 0.0.0.0 q0zsp5e3dv.com
 0.0.0.0 q1mediahydraplatform.com
@@ -11705,6 +11710,7 @@
 0.0.0.0 samyarct.top
 0.0.0.0 sanborner.xyz
 0.0.0.0 sancontr.com
+0.0.0.0 sandelf.com
 0.0.0.0 sangogne.com
 0.0.0.0 sankaudacityrefine.com
 0.0.0.0 sapclasped.com
