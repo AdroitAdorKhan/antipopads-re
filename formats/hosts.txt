@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.292
 # Release: 292
-# Entries: 15,411
-# Updated: Tue, 19 Oct 21 14:05:32 +06
+# Entries: 15,413
+# Updated: Tue, 19 Oct 21 18:02:43 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1970,6 +1970,7 @@
 0.0.0.0 beaconacceptable.com
 0.0.0.0 beakdragon.com
 0.0.0.0 beakedpissod.com
+0.0.0.0 beamingworked.com
 0.0.0.0 beastlyaccomplished.com
 0.0.0.0 beatconfessteddy.com
 0.0.0.0 beaterspatrick.com
@@ -12115,6 +12116,7 @@
 0.0.0.0 sinyfqrmiqgd.com
 0.0.0.0 sioncenture.fun
 0.0.0.0 sionsrathet.info
+0.0.0.0 sipibowartern.com
 0.0.0.0 siplyresox.com
 0.0.0.0 sippansy.com
 0.0.0.0 siredonlacs.com
