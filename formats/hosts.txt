@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.293
 # Release: 293
-# Entries: 15,475
-# Updated: Wed, 20 Oct 21 10:03:34 +06
+# Entries: 15,479
+# Updated: Wed, 20 Oct 21 14:03:02 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1808,6 +1808,7 @@
 0.0.0.0 b57acfcd767.com
 0.0.0.0 b59812ee54afcabd.com
 0.0.0.0 b5ae848728034caddca.com
+0.0.0.0 b5e75c56.com
 0.0.0.0 b6aa6257a22451c.com
 0.0.0.0 b73uszzq3g9h.com
 0.0.0.0 b81oidrmy82w.com
@@ -5727,6 +5728,7 @@
 0.0.0.0 getpopunder.com
 0.0.0.0 getscriptjs.com
 0.0.0.0 getsomespecials.com
+0.0.0.0 getsonlineoffer.com
 0.0.0.0 getsurv2you.com
 0.0.0.0 getsurv2you.net
 0.0.0.0 getsurv2you.org
@@ -6046,6 +6048,7 @@
 0.0.0.0 grergoch.net
 0.0.0.0 gresokie.com
 0.0.0.0 greystripe.com
+0.0.0.0 grichewoza.pro
 0.0.0.0 grifictuberal.site
 0.0.0.0 grilledjut.com
 0.0.0.0 grilydivy.com
@@ -7856,6 +7859,7 @@
 0.0.0.0 lnkfast.com
 0.0.0.0 lnkgt.com
 0.0.0.0 lnkrdr.com
+0.0.0.0 lnwejgghmtrqdka.xyz
 0.0.0.0 loadercdn.com
 0.0.0.0 loading-resource.com
 0.0.0.0 loadsfalladz.casa
