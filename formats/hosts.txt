@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.294
 # Release: 294
-# Entries: 15,523
-# Updated: Thu, 21 Oct 21 10:02:24 +06
+# Entries: 15,525
+# Updated: Thu, 21 Oct 21 16:03:10 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2097,6 +2097,7 @@
 0.0.0.0 bestdisplaycontent.com
 0.0.0.0 bestdisplayformats.com
 0.0.0.0 best-flirt.life
+0.0.0.0 best-flirt-zone.life
 0.0.0.0 bestforexplmdb.com
 0.0.0.0 bestglobalstrategy.life
 0.0.0.0 bestgoldcoin.life
@@ -4513,6 +4514,7 @@
 0.0.0.0 edparticu.fun
 0.0.0.0 edthoutfre.fun
 0.0.0.0 edua29146y.com
+0.0.0.0 educedstagine.com
 0.0.0.0 educedsteeped.com
 0.0.0.0 edvfwlacluo.com
 0.0.0.0 edwhitnes.info

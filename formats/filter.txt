@@ -20,8 +20,8 @@
 ! Version: 21.10.294
 ! Release: 294
 ! Expires: 1 day
-! Entries: 15,523
-! Updated: Thu, 21 Oct 21 10:02:24 +06
+! Entries: 15,525
+! Updated: Thu, 21 Oct 21 16:03:10 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -2098,6 +2098,7 @@
 ||bestdisplaycontent.com^
 ||bestdisplayformats.com^
 ||best-flirt.life^
+||best-flirt-zone.life^
 ||bestforexplmdb.com^
 ||bestglobalstrategy.life^
 ||bestgoldcoin.life^
@@ -4514,6 +4515,7 @@
 ||edparticu.fun^
 ||edthoutfre.fun^
 ||edua29146y.com^
+||educedstagine.com^
 ||educedsteeped.com^
 ||edvfwlacluo.com^
 ||edwhitnes.info^
