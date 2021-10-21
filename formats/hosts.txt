@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 21.10.294
-# Release: 294
-# Entries: 15,560
-# Updated: Thu, 21 Oct 21 22:03:02 +06
+# Version: 21.10.295
+# Release: 295
+# Entries: 15,561
+# Updated: Fri, 22 Oct 21 02:02:43 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3536,6 +3536,7 @@
 0.0.0.0 credulityseashoreemployed.com
 0.0.0.0 creepercurvaturedefenceless.com
 0.0.0.0 creinclthelicensed.pw
+0.0.0.0 crenaeamigas.com
 0.0.0.0 crentexgate.com
 0.0.0.0 creoads.com
 0.0.0.0 creofive.com
