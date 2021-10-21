@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.294
 # Release: 294
-# Entries: 15,525
-# Updated: Thu, 21 Oct 21 16:03:10 +06
+# Entries: 15,527
+# Updated: Thu, 21 Oct 21 20:02:45 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -11829,6 +11829,7 @@
 0.0.0.0 scoutdealingdrift.com
 0.0.0.0 scowlsteering.com
 0.0.0.0 scowpoppanasals.com
+0.0.0.0 scrapebust.com
 0.0.0.0 scratchsofa.com
 0.0.0.0 screechingfurniture.com
 0.0.0.0 screwdianasurgery.com
@@ -14695,6 +14696,7 @@
 0.0.0.0 wreathsmartblack.com
 0.0.0.0 wretchauraflirt.com
 0.0.0.0 wretchedchapterdozen.com
+0.0.0.0 wretchedsuperiority.com
 0.0.0.0 writeratic.xyz
 0.0.0.0 writerredolasy.club
 0.0.0.0 writerspeechless.com
