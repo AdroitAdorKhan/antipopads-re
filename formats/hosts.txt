@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 21.10.295
-# Release: 295
-# Entries: 15,663
-# Updated: Fri, 22 Oct 21 22:04:19 +06
+# Version: 21.10.296
+# Release: 296
+# Entries: 15,670
+# Updated: Sat, 23 Oct 21 00:02:50 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -640,6 +640,7 @@
 0.0.0.0 activeoffbracelet.com
 0.0.0.0 activitytonic.com
 0.0.0.0 actressact.com
+0.0.0.0 actrkn.com
 0.0.0.0 actsrelent.com
 0.0.0.0 actsvane.com
 0.0.0.0 actuallysheep.com
@@ -3075,6 +3076,7 @@
 0.0.0.0 cldrck.com
 0.0.0.0 cleanbrowser.network
 0.0.0.0 cleaneryelded.site
+0.0.0.0 cleanflawlessredir.com
 0.0.0.0 clean.gg
 0.0.0.0 cleanmediaads.com
 0.0.0.0 cleanupcokesunny.com
@@ -4417,6 +4419,7 @@
 0.0.0.0 dynamitedepressionweapons.com
 0.0.0.0 dynamitematerialisticwriting.com
 0.0.0.0 dynpaa.com
+0.0.0.0 dynspt.com
 0.0.0.0 dynsrvbaa.com
 0.0.0.0 dynsrvtyu.com
 0.0.0.0 dynygathe.com
@@ -9418,6 +9421,7 @@
 0.0.0.0 oeclysutilufixgegpajbg.me
 0.0.0.0 oedlwhcqfpfup.xyz
 0.0.0.0 oedoxundnibwc.com
+0.0.0.0 oeitlgqjw.com
 0.0.0.0 oemfyjifdjgfdi.xyz
 0.0.0.0 oesfriences.fun
 0.0.0.0 oewdfyhdfq.xyz
@@ -9582,6 +9586,7 @@
 0.0.0.0 onlysweet-dates2.com
 0.0.0.0 onmarshtompor.com
 0.0.0.0 onmystems.top
+0.0.0.0 onnnxftprfvm.xyz
 0.0.0.0 onoardoo.com
 0.0.0.0 onolinclosesr.club
 0.0.0.0 onraltstor.com
@@ -11830,6 +11835,7 @@
 0.0.0.0 safestcontentgate.com
 0.0.0.0 safestsniffingconfessed.com
 0.0.0.0 safestteacherwaiting.com
+0.0.0.0 safesync.com
 0.0.0.0 sagloops.com
 0.0.0.0 sagroagh.com
 0.0.0.0 saifusty.net
@@ -14426,6 +14432,7 @@
 0.0.0.0 w00ur5z9jy3a.com
 0.0.0.0 w3exit.com
 0.0.0.0 wackeerd.com
+0.0.0.0 wackotracko.com
 0.0.0.0 wadauthy.net
 0.0.0.0 waddlegrammind.com
 0.0.0.0 wadsotch.com
