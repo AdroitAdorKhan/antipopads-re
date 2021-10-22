@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.295
 # Release: 295
-# Entries: 15,567
-# Updated: Fri, 22 Oct 21 08:02:24 +06
+# Entries: 15,570
+# Updated: Fri, 22 Oct 21 12:03:56 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1113,6 +1113,7 @@
 0.0.0.0 aggressiveracketscout.com
 0.0.0.0 agisdayra.com
 0.0.0.0 aglocobanners.com
+0.0.0.0 agmqkfhs.xyz
 0.0.0.0 agmtrk.com
 0.0.0.0 agndmn.com
 0.0.0.0 agni3.xyz
@@ -2684,6 +2685,7 @@
 0.0.0.0 cannotmoreover.com
 0.0.0.0 canoevaguely.com
 0.0.0.0 canonch.pro
+0.0.0.0 canvassblanketjar.com
 0.0.0.0 canyboysho.info
 0.0.0.0 capablecup.com
 0.0.0.0 capaciouslistless.com
@@ -7429,6 +7431,7 @@
 0.0.0.0 khayatarai.com
 0.0.0.0 khewwakrywmgxr.com
 0.0.0.0 khg97644rvbg.com
+0.0.0.0 khvfiwaa.xyz
 0.0.0.0 kiafailersov.top
 0.0.0.0 kibblerkilldee.com
 0.0.0.0 kicasipto.com
