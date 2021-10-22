@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.295
 # Release: 295
-# Entries: 15,662
-# Updated: Fri, 22 Oct 21 20:03:08 +06
+# Entries: 15,663
+# Updated: Fri, 22 Oct 21 22:04:19 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -11000,6 +11000,7 @@
 0.0.0.0 qmkr7isp3o.com
 0.0.0.0 qmvezbh0l28w.com
 0.0.0.0 qn-5.com
+0.0.0.0 qnnmyjnnaoohdv.xyz
 0.0.0.0 qnrxupykfplxe.me
 0.0.0.0 qnsr.com
 0.0.0.0 qoredi.com
