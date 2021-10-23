@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.296
 # Release: 296
-# Entries: 15,692
-# Updated: Sat, 23 Oct 21 08:02:40 +06
+# Entries: 15,698
+# Updated: Sat, 23 Oct 21 12:03:06 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2403,6 +2403,7 @@
 0.0.0.0 bouillerines.site
 0.0.0.0 boulevardgoodnesslassitude.com
 0.0.0.0 bouncebidder.com
+0.0.0.0 bouptosaive.com
 0.0.0.0 bourranuncurbs.com
 0.0.0.0 boustahe.com
 0.0.0.0 boutiquerestless.com
@@ -8436,6 +8437,7 @@
 0.0.0.0 menaceamenitytutor.com
 0.0.0.0 mendprayer.com
 0.0.0.0 menepe.com
+0.0.0.0 mentaib.casa
 0.0.0.0 mentalks.ru
 0.0.0.0 mentalsweatextent.com
 0.0.0.0 mentcomm.fun
@@ -9916,6 +9918,7 @@
 0.0.0.0 pallxylophone.xyz
 0.0.0.0 palmboilingnonchalance.com
 0.0.0.0 palpableequanimityshiver.com
+0.0.0.0 palpcaroch.cam
 0.0.0.0 palundrus.com
 0.0.0.0 pamphletrating.com
 0.0.0.0 panection.co
@@ -10766,6 +10769,7 @@
 0.0.0.0 ptaissud.com
 0.0.0.0 ptaitoun.net
 0.0.0.0 ptaivain.net
+0.0.0.0 ptaizees.net
 0.0.0.0 ptajains.com
 0.0.0.0 ptanseep.com
 0.0.0.0 ptarepjx.com
@@ -10782,6 +10786,7 @@
 0.0.0.0 ptechait.com
 0.0.0.0 ptecmooz.net
 0.0.0.0 pteefoak.com
+0.0.0.0 pteelsaw.net
 0.0.0.0 pteemtis.net
 0.0.0.0 pteenoum.com
 0.0.0.0 ptefautu.net
@@ -14367,6 +14372,7 @@
 0.0.0.0 voluumtrk3.com
 0.0.0.0 voluumtrk.com
 0.0.0.0 volyze.com
+0.0.0.0 voonogoa.net
 0.0.0.0 vooshagy.net
 0.0.0.0 voradu.com
 0.0.0.0 voredi.com
