@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.296
 # Release: 296
-# Entries: 15,698
-# Updated: Sat, 23 Oct 21 12:03:06 +06
+# Entries: 15,699
+# Updated: Sat, 23 Oct 21 16:03:55 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -6345,6 +6345,7 @@
 0.0.0.0 heartbrokendilapidation.com
 0.0.0.0 heartbrokenscallion.com
 0.0.0.0 hearthcoronation.com
+0.0.0.0 heathenpedestal.com
 0.0.0.0 heatical-upleview.icu
 0.0.0.0 heavenlygenetically.com
 0.0.0.0 heavyplayground.com
