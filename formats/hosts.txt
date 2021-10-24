@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.297
 # Release: 297
-# Entries: 15,719
-# Updated: Sun, 24 Oct 21 18:02:20 +06
+# Entries: 15,725
+# Updated: Sun, 24 Oct 21 20:02:09 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -4277,6 +4277,7 @@
 0.0.0.0 dougijoo.com
 0.0.0.0 douhooke.net
 0.0.0.0 douoblelimpup.com
+0.0.0.0 doupteju.com
 0.0.0.0 doushoom.net
 0.0.0.0 douthosh.net
 0.0.0.0 doveprovidingyear.com
@@ -8204,6 +8205,7 @@
 0.0.0.0 maiglair.net
 0.0.0.0 maihaimo.com
 0.0.0.0 maijiptu.net
+0.0.0.0 maikashu.net
 0.0.0.0 maikuque.net
 0.0.0.0 mailwithcash.com
 0.0.0.0 maimeehu.com
@@ -9207,6 +9209,7 @@
 0.0.0.0 noonigie.net
 0.0.0.0 noonraptnite.com
 0.0.0.0 nooroapo.com
+0.0.0.0 noowooka.com
 0.0.0.0 noproblfr.com
 0.0.0.0 noqj1iz4u28t.com
 0.0.0.0 norentisol.com
@@ -10172,6 +10175,7 @@
 0.0.0.0 phastigrevo.com
 0.0.0.0 phastoag.com
 0.0.0.0 phaudree.com
+0.0.0.0 phaulrun.com
 0.0.0.0 phaunurd.net
 0.0.0.0 phaureft.com
 0.0.0.0 phaurtuh.net
@@ -10715,6 +10719,7 @@
 0.0.0.0 psalisverbate.com
 0.0.0.0 psampabs.net
 0.0.0.0 psarecommendas.com
+0.0.0.0 psargoud.com
 0.0.0.0 psasadupto.com
 0.0.0.0 psasar.com
 0.0.0.0 psatorsi.com
@@ -15570,6 +15575,7 @@
 0.0.0.0 ysdtcdnoox.com
 0.0.0.0 ysnj74ed.com
 0.0.0.0 ystammedre.info
+0.0.0.0 ytgfsvcwtradg.xyz
 0.0.0.0 ytimm.com
 0.0.0.0 ytsrpoytxs.me
 0.0.0.0 yttompthree.com
