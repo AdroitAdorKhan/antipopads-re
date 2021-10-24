@@ -19,8 +19,8 @@
 # Format: domains
 # Version: 21.10.297
 # Release: 297
-# Entries: 15,716
-# Updated: Sun, 24 Oct 21 08:03:07 +06
+# Entries: 15,717
+# Updated: Sun, 24 Oct 21 10:02:05 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -6479,6 +6479,7 @@ hionedaugsbu.info
 hipals.com
 hiperdex.ml
 hippchapter.com
+hiprofitnetworks.com
 hipsarda.net
 hiredringjuices.com
 hireprecially.space
