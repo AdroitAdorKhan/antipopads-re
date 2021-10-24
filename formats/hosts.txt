@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.297
 # Release: 297
-# Entries: 15,717
-# Updated: Sun, 24 Oct 21 10:02:05 +06
+# Entries: 15,718
+# Updated: Sun, 24 Oct 21 12:02:49 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -8575,6 +8575,7 @@
 0.0.0.0 minsistetricket.xyz
 0.0.0.0 minusdumpling.com
 0.0.0.0 minutesbitter.com
+0.0.0.0 miracslubs.com
 0.0.0.0 mirafaren.pw
 0.0.0.0 miscellaneouspiledrely.com
 0.0.0.0 mischiefdiscount.com
