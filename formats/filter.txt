@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 21.10.297
-! Release: 297
+! Version: 21.10.298
+! Release: 298
 ! Expires: 1 day
-! Entries: 15,725
-! Updated: Sun, 24 Oct 21 20:02:09 +06
+! Entries: 15,726
+! Updated: Mon, 25 Oct 21 04:02:39 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -7889,6 +7889,7 @@
 ||lightlygavetusk.com^
 ||lightningcast.net^
 ||lightningprefacegrant.com^
+||likeads.com^
 ||likecontrol.com^
 ||likelycatchunhappy.com^
 ||likenessalmosteradicate.com^
