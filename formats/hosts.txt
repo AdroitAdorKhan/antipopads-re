@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.298
 # Release: 298
-# Entries: 15,752
-# Updated: Mon, 25 Oct 21 16:03:14 +06
+# Entries: 15,755
+# Updated: Mon, 25 Oct 21 18:02:52 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -10059,6 +10059,7 @@
 0.0.0.0 pdn-2.com
 0.0.0.0 pd-news.com
 0.0.0.0 pdvacde.com
+0.0.0.0 peaceclickers.com
 0.0.0.0 peacepowder.com
 0.0.0.0 peachsquat.com
 0.0.0.0 peakclick.com
@@ -12987,6 +12988,7 @@
 0.0.0.0 super-hot-chics.com
 0.0.0.0 superintendsuckshaggy.com
 0.0.0.0 superiorityfeathers.com
+0.0.0.0 superiortrackers.com
 0.0.0.0 supermanmoonfracture.com
 0.0.0.0 supernaturalcapricorn.com
 0.0.0.0 super-pizes.life
@@ -14964,6 +14966,7 @@
 0.0.0.0 www.antirgiocub.com
 0.0.0.0 www.apgasampbrid.gq
 0.0.0.0 www.arccdyvgh.com
+0.0.0.0 www.architectwithdraw.com
 0.0.0.0 www.arshgkcfdhgr.com
 0.0.0.0 www.asuydisi.com
 0.0.0.0 www.atilohdxsg.com
