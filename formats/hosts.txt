@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 21.10.298
-# Release: 298
-# Entries: 15,765
-# Updated: Mon, 25 Oct 21 20:03:20 +06
+# Version: 21.10.299
+# Release: 299
+# Entries: 15,766
+# Updated: Tue, 26 Oct 21 04:06:17 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1329,6 +1329,7 @@
 0.0.0.0 amtropiusr.com
 0.0.0.0 amuckstyvain.com
 0.0.0.0 amuletlatemanagement.com
+0.0.0.0 analogydid.com
 0.0.0.0 analyzeagg.com
 0.0.0.0 anamaembush.com
 0.0.0.0 anandanudish.com
