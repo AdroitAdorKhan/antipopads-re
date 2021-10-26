@@ -19,8 +19,8 @@
 # Format: domains
 # Version: 21.10.299
 # Release: 299
-# Entries: 15,766
-# Updated: Tue, 26 Oct 21 04:06:17 +06
+# Entries: 15,767
+# Updated: Tue, 26 Oct 21 06:02:28 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -853,6 +853,7 @@ adserverpub.com
 adservicemedia.dk
 adservi.com
 adservinginternational.com
+adsessionserv.com
 adsfac.eu
 adsfac.net
 adsfactor.net
