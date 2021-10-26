@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.299
 # Release: 299
-# Entries: 15,784
-# Updated: Tue, 26 Oct 21 12:04:39 +06
+# Entries: 15,786
+# Updated: Tue, 26 Oct 21 14:03:44 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -4312,6 +4312,7 @@
 0.0.0.0 dprtb.com
 0.0.0.0 dpsqqaaqbc.com
 0.0.0.0 dpstack.com
+0.0.0.0 dpyaareaqv.xyz
 0.0.0.0 dpypzvjarj.com
 0.0.0.0 dqknaeqdjlbt.com
 0.0.0.0 dquanticw.top
@@ -6120,6 +6121,7 @@
 0.0.0.0 grayrecruitbrainwash.com
 0.0.0.0 graziefootier.com
 0.0.0.0 greatcpm.com
+0.0.0.0 great-date4u.life
 0.0.0.0 greatdexchange.com
 0.0.0.0 greatedclu.fun
 0.0.0.0 greatimprudencecuriosity.com
