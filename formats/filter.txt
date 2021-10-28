@@ -20,8 +20,8 @@
 ! Version: 21.10.301
 ! Release: 301
 ! Expires: 1 day
-! Entries: 15,919
-! Updated: Thu, 28 Oct 21 10:02:49 +06
+! Entries: 15,921
+! Updated: Thu, 28 Oct 21 12:04:36 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -10143,6 +10143,7 @@
 ||pc-ads.com^
 ||pcdnlt.com^
 ||pctsrv.com^
+||pdfcylsmo.com^
 ||pdlblyrdppds.xyz^
 ||pdmtmribgaqctz.com^
 ||pdn-1.com^
@@ -12868,6 +12869,7 @@
 ||ssorsophicla.info^
 ||sspsebqimvgsktsbav.me^
 ||ssputt.casa^
+||sstpguja.com^
 ||ssuilbtg.xyz^
 ||ssumeras.top^
 ||stabiloseront.xyz^
