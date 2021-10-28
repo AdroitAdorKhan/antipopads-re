@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.301
 # Release: 301
-# Entries: 15,921
-# Updated: Thu, 28 Oct 21 12:04:36 +06
+# Entries: 15,923
+# Updated: Thu, 28 Oct 21 14:02:35 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -598,6 +598,7 @@
 0.0.0.0 accessoryoppression.com
 0.0.0.0 accidentaldark.com
 0.0.0.0 accidentrepeat.com
+0.0.0.0 acckwmhi.com
 0.0.0.0 acclaimrecommendation.com
 0.0.0.0 accoladethoroughly.com
 0.0.0.0 accommodationinfractructuretwo.com
@@ -7663,6 +7664,7 @@
 0.0.0.0 koaptooh.net
 0.0.0.0 koashept.com
 0.0.0.0 kobeden.com
+0.0.0.0 kobggppnos.xyz
 0.0.0.0 koertf.com
 0.0.0.0 kogutcho.net
 0.0.0.0 koindut.com

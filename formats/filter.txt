@@ -20,8 +20,8 @@
 ! Version: 21.10.301
 ! Release: 301
 ! Expires: 1 day
-! Entries: 15,921
-! Updated: Thu, 28 Oct 21 12:04:36 +06
+! Entries: 15,923
+! Updated: Thu, 28 Oct 21 14:02:35 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -599,6 +599,7 @@
 ||accessoryoppression.com^
 ||accidentaldark.com^
 ||accidentrepeat.com^
+||acckwmhi.com^
 ||acclaimrecommendation.com^
 ||accoladethoroughly.com^
 ||accommodationinfractructuretwo.com^
@@ -7664,6 +7665,7 @@
 ||koaptooh.net^
 ||koashept.com^
 ||kobeden.com^
+||kobggppnos.xyz^
 ||koertf.com^
 ||kogutcho.net^
 ||koindut.com^
