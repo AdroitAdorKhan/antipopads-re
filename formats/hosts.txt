@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.301
 # Release: 301
-# Entries: 15,927
-# Updated: Thu, 28 Oct 21 16:03:34 +06
+# Entries: 15,928
+# Updated: Thu, 28 Oct 21 18:02:43 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3641,6 +3641,7 @@
 0.0.0.0 csiasvapqrccq.com
 0.0.0.0 ctationsfthe.biz
 0.0.0.0 ctdhylltfighs.com
+0.0.0.0 ctdznwavaouc.com
 0.0.0.0 ctetgwxrgaldb.xyz
 0.0.0.0 ctiontouritysh.club
 0.0.0.0 ctivesprepaired.club
