@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.301
 # Release: 301
-# Entries: 15,930
-# Updated: Thu, 28 Oct 21 20:04:10 +06
+# Entries: 15,931
+# Updated: Thu, 28 Oct 21 20:27:03 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -6123,6 +6123,7 @@
 0.0.0.0 governessarson.com
 0.0.0.0 governmentpoultry.com
 0.0.0.0 governrecycling.com
+0.0.0.0 goxonnawhmkqq.com
 0.0.0.0 goym93w5e7jz.com
 0.0.0.0 gpcdreunite.casa
 0.0.0.0 gprofessiv.top
