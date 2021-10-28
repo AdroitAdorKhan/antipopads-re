@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.301
 # Release: 301
-# Entries: 15,923
-# Updated: Thu, 28 Oct 21 14:02:35 +06
+# Entries: 15,927
+# Updated: Thu, 28 Oct 21 16:03:34 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3758,6 +3758,7 @@
 0.0.0.0 d9kvn70l4ogn.com
 0.0.0.0 da60995df247712.com
 0.0.0.0 da6fda11b2b0ba.com
+0.0.0.0 dacebe.com
 0.0.0.0 dacoloment.pro
 0.0.0.0 dadhuhram.com
 0.0.0.0 dadsabz.com
@@ -10860,6 +10861,7 @@
 0.0.0.0 pseudoreseaux.xyz
 0.0.0.0 psevaulr.net
 0.0.0.0 psewhaur.net
+0.0.0.0 pshtrk.com
 0.0.0.0 psigozouns.com
 0.0.0.0 psijaujy.com
 0.0.0.0 psisalte.com
@@ -12227,6 +12229,7 @@
 0.0.0.0 separateshow.com
 0.0.0.0 separatic.club
 0.0.0.0 separenujilo.club
+0.0.0.0 sepknotting.xyz
 0.0.0.0 septembership.com
 0.0.0.0 serch26.biz
 0.0.0.0 serconmp.com
@@ -12579,6 +12582,7 @@
 0.0.0.0 smac-ad.com
 0.0.0.0 smallentpation.pro
 0.0.0.0 smalltiberbridge.com
+0.0.0.0 smanes.com
 0.0.0.0 smart2cnjuh34jb.com
 0.0.0.0 smartcharholding.com
 0.0.0.0 smartlnk.com
