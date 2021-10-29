@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.303
 # Release: 303
-# Entries: 16,023
-# Updated: Sat, 30 Oct 21 00:04:40 +06
+# Entries: 16,026
+# Updated: Sat, 30 Oct 21 02:04:59 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1195,6 +1195,7 @@
 0.0.0.0 ajarsubscriber.com
 0.0.0.0 ajestigie.com
 0.0.0.0 ajevigie.com
+0.0.0.0 ajileuztnu.com
 0.0.0.0 ajillionmax.com
 0.0.0.0 ajjhtetv87.com
 0.0.0.0 ajkelra.com
@@ -13313,6 +13314,7 @@
 0.0.0.0 tacticalpizzanetwork.com
 0.0.0.0 taetsiatomia.com
 0.0.0.0 tagbom.com
+0.0.0.0 tagcache.com
 0.0.0.0 tagcachedataxrt.com
 0.0.0.0 tagcachestaticx.com
 0.0.0.0 taghaugh.com
@@ -14209,6 +14211,7 @@
 0.0.0.0 unfitsickle.com
 0.0.0.0 unflamewandoo.com
 0.0.0.0 unflesholchi.com
+0.0.0.0 unfrmpgqbfe.com
 0.0.0.0 unfudgetljbf.xyz
 0.0.0.0 unfurlyawweed.casa
 0.0.0.0 ungstlateriag.club
