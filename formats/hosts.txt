@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.302
 # Release: 302
-# Entries: 15,957
-# Updated: Fri, 29 Oct 21 02:03:37 +06
+# Entries: 15,969
+# Updated: Fri, 29 Oct 21 06:02:36 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -894,6 +894,7 @@
 0.0.0.0 adsplex.com
 0.0.0.0 adspop.me
 0.0.0.0 adspredictiv.com
+0.0.0.0 adspro.live
 0.0.0.0 adspyglass.com
 0.0.0.0 adspynet.com
 0.0.0.0 adsrefundattempts.com
@@ -5232,6 +5233,7 @@
 0.0.0.0 febbrarioferraro.pw
 0.0.0.0 fedcaperg.com
 0.0.0.0 federallissimus.casa
+0.0.0.0 fedethezo.pro
 0.0.0.0 fedsit.com
 0.0.0.0 feduthobi.com
 0.0.0.0 fee515f1fa1f.com
@@ -5912,6 +5914,7 @@
 0.0.0.0 giantaffiliates.com
 0.0.0.0 gianwho.com
 0.0.0.0 gibeleftyeuro.com
+0.0.0.0 gibork.com
 0.0.0.0 giddinessdefensivesubject.com
 0.0.0.0 giddinessfeintsum.com
 0.0.0.0 giddyattendant.com
@@ -6300,6 +6303,7 @@
 0.0.0.0 gyluheshy.com
 0.0.0.0 gynax.com
 0.0.0.0 gyrivehmic.com
+0.0.0.0 gysapiny.com
 0.0.0.0 gywugloje.com
 0.0.0.0 h2ku87viwi.com
 0.0.0.0 h3helgf2g7k8.com
@@ -6736,6 +6740,7 @@
 0.0.0.0 htlbid.com
 0.0.0.0 htmonster.com
 0.0.0.0 htopensationclie.info
+0.0.0.0 htwaplxv.xyz
 0.0.0.0 hubbabu2bb8anys09.com
 0.0.0.0 hublosk.com
 0.0.0.0 hubmaydaybrow.com
@@ -7646,6 +7651,7 @@
 0.0.0.0 kj2hy.com
 0.0.0.0 kjbqzbiteubt.com
 0.0.0.0 kjkwrmwdyhi.com
+0.0.0.0 kkafbqhaas.xyz
 0.0.0.0 kkmacsqsbf.info
 0.0.0.0 kkqusrnaf.com
 0.0.0.0 klavront.com
@@ -9595,6 +9601,7 @@
 0.0.0.0 offalakazaman.com
 0.0.0.0 offchatotor.com
 0.0.0.0 offerimage.com
+0.0.0.0 offfurreton.com
 0.0.0.0 officular.xyz
 0.0.0.0 officultpolicit.pro
 0.0.0.0 offmachopor.com
@@ -9633,6 +9640,7 @@
 0.0.0.0 ohmwrite.com
 0.0.0.0 ohndsplu.com
 0.0.0.0 ohodsplu.com
+0.0.0.0 ohoppress.com
 0.0.0.0 ohpdsplu.com
 0.0.0.0 ohqdsplu.com
 0.0.0.0 ohrdsplu.com
@@ -9656,6 +9664,7 @@
 0.0.0.0 okeydumping.com
 0.0.0.0 okimhbfjby.com
 0.0.0.0 oko.net
+0.0.0.0 oksdyydvwrbrjf.xyz
 0.0.0.0 oktpage.com
 0.0.0.0 olatumal.com
 0.0.0.0 olderdiverge.com
@@ -14285,6 +14294,7 @@
 0.0.0.0 ustingpres.fun
 0.0.0.0 ustithoo.net
 0.0.0.0 usuallycrummy.com
+0.0.0.0 usuler.com
 0.0.0.0 usurv.com
 0.0.0.0 uswtcdnqbm.com
 0.0.0.0 usxobxnmmaix.com
@@ -14315,6 +14325,7 @@
 0.0.0.0 uulvtpbx.com
 0.0.0.0 uuoqdiqanpy.me
 0.0.0.0 uuribxuxsbdfof.com
+0.0.0.0 uuydabxaindfsb.xyz
 0.0.0.0 uvertauh.com
 0.0.0.0 u-watchit.com
 0.0.0.0 uwdtibwk.com
@@ -14625,6 +14636,7 @@
 0.0.0.0 vriwjpzvh.com
 0.0.0.0 vrtzads.com
 0.0.0.0 vs001t.com
+0.0.0.0 vs002t.com
 0.0.0.0 vsjxqhfkccx.xyz
 0.0.0.0 vskoedps.com
 0.0.0.0 vsmokhklbw.com
