@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.303
 # Release: 303
-# Entries: 16,076
-# Updated: Sat, 30 Oct 21 12:03:27 +06
+# Entries: 16,079
+# Updated: Sat, 30 Oct 21 14:04:12 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3380,6 +3380,7 @@
 0.0.0.0 comunicazio.com
 0.0.0.0 comwgi.com
 0.0.0.0 com-wkejf32ljd23409system.net
+0.0.0.0 comwww.effectivedisplayformat.com
 0.0.0.0 conatr.com
 0.0.0.0 concedefixfrench.com
 0.0.0.0 conceiveintentlybookie.com
@@ -4696,6 +4697,7 @@
 0.0.0.0 effacerevealing.com
 0.0.0.0 effectivecpmgate.com
 0.0.0.0 effectivedisplayformat.com
+0.0.0.0 effectivedisplayformat.comwww.effectivedisplayformat.com
 0.0.0.0 effectivemeasure.net
 0.0.0.0 effectiveperformanceformat.com
 0.0.0.0 effectiveperformancenetwork.com
@@ -15306,6 +15308,7 @@
 0.0.0.0 www.dutrag.com
 0.0.0.0 www.e2ertt.com
 0.0.0.0 www.eaesie.com
+0.0.0.0 www.effectivedisplayformat.comwww.effectivedisplayformat.com
 0.0.0.0 www.effectiveperformanceformat.com
 0.0.0.0 www.egfqtvewksktz.com
 0.0.0.0 www.embodimentabstain.com
