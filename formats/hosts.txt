@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.303
 # Release: 303
-# Entries: 16,034
-# Updated: Sat, 30 Oct 21 04:03:40 +06
+# Entries: 16,035
+# Updated: Sat, 30 Oct 21 06:04:22 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -7944,6 +7944,7 @@
 0.0.0.0 leftenvoy.com
 0.0.0.0 leftoverdense.com
 0.0.0.0 leftoverdoorbell.com
+0.0.0.0 lefxryhuzyw.com
 0.0.0.0 legalevaluate.com
 0.0.0.0 legalledgtjuj.club
 0.0.0.0 legative.com
