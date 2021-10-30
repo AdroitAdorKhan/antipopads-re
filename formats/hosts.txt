@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.303
 # Release: 303
-# Entries: 16,086
-# Updated: Sat, 30 Oct 21 16:03:59 +06
+# Entries: 16,088
+# Updated: Sat, 30 Oct 21 18:04:16 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1161,6 +1161,7 @@
 0.0.0.0 aidspectacle.com
 0.0.0.0 aidstirring.com
 0.0.0.0 aigneloa.com
+0.0.0.0 aikraboo.com
 0.0.0.0 ailawlani.club
 0.0.0.0 aileddipgird.cam
 0.0.0.0 ailingglorify.com
@@ -9489,6 +9490,7 @@
 0.0.0.0 nrgat.com
 0.0.0.0 nrietybac.top
 0.0.0.0 nrnma.com
+0.0.0.0 nrnwubdanwl.com
 0.0.0.0 nryceuula.com
 0.0.0.0 ns003.com
 0.0.0.0 nscontext.com
