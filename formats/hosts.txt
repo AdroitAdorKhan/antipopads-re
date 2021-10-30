@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.303
 # Release: 303
-# Entries: 16,074
-# Updated: Sat, 30 Oct 21 10:02:40 +06
+# Entries: 16,076
+# Updated: Sat, 30 Oct 21 12:03:27 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -4747,6 +4747,7 @@
 0.0.0.0 elderlytown.com
 0.0.0.0 eldestcontribution.com
 0.0.0.0 eldinfuidhir.com
+0.0.0.0 eleavers.com
 0.0.0.0 electosake.com
 0.0.0.0 elegantluckpersonally.com
 0.0.0.0 eleidinurucuri.casa
@@ -9149,6 +9150,7 @@
 0.0.0.0 navigabledisorganized.com
 0.0.0.0 navyembarrassment.com
 0.0.0.0 nbf9b5aurl.com
+0.0.0.0 nbkaflrbqlkqx.com
 0.0.0.0 nblczw.com
 0.0.0.0 nbrwvrqyz.com
 0.0.0.0 nbstatic.com
