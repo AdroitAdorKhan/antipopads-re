@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 21.10.303
-# Release: 303
-# Entries: 16,093
-# Updated: Sat, 30 Oct 21 22:03:15 +06
+# Version: 21.10.304
+# Release: 304
+# Entries: 16,095
+# Updated: Sun, 31 Oct 21 00:03:11 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2202,6 +2202,7 @@
 0.0.0.0 bfb487de1f2da5c.com
 0.0.0.0 bfe4e6d364be199.com
 0.0.0.0 bg6s0.com
+0.0.0.0 bgaxgjre.xyz
 0.0.0.0 bgmtracker.com
 0.0.0.0 bgrndi.com
 0.0.0.0 bgtgag.com
@@ -16027,6 +16028,7 @@
 0.0.0.0 zeuuwb.com
 0.0.0.0 zexastize.pro
 0.0.0.0 zferral.com
+0.0.0.0 zfrnzzkpwjb.com
 0.0.0.0 zhcmuccccixz.com
 0.0.0.0 zhqqozqbk.com
 0.0.0.0 zhulik2ne1voruy1d.com
