@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.304
 # Release: 304
-# Entries: 15,462
-# Updated: Sun, 31 Oct 21 16:02:52 +06
+# Entries: 15,463
+# Updated: Sun, 31 Oct 21 18:03:37 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -5660,6 +5660,7 @@
 0.0.0.0 gdl5vtbbv0lj.com
 0.0.0.0 gdmconvtrck.com
 0.0.0.0 gdmdigital.com
+0.0.0.0 gdufpjrhran.com
 0.0.0.0 gdxisixdrk.com
 0.0.0.0 gebadu.com
 0.0.0.0 geealingsa.space
