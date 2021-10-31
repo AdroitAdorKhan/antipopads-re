@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.10.304
 # Release: 304
-# Entries: 16,096
-# Updated: Sun, 31 Oct 21 04:03:45 +06
+# Entries: 16,101
+# Updated: Sun, 31 Oct 21 06:02:51 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1899,6 +1899,7 @@
 0.0.0.0 badspads.com
 0.0.0.0 badtopwitch.work
 0.0.0.0 baetrf.com
+0.0.0.0 bafsxyiknk.xyz
 0.0.0.0 bagbeam.com
 0.0.0.0 baggageaccomplishfrom.com
 0.0.0.0 baggyritual.com
@@ -9339,6 +9340,7 @@
 0.0.0.0 niltuvex.com
 0.0.0.0 nimhuemark.com
 0.0.0.0 nimmediu.info
+0.0.0.0 nimpio.com
 0.0.0.0 ninecovetous.com
 0.0.0.0 nineteenthdipper.com
 0.0.0.0 ninetypatsy.com
@@ -12530,6 +12532,7 @@
 0.0.0.0 shopeasy.by
 0.0.0.0 shophustivu.com
 0.0.0.0 shopsutike.com
+0.0.0.0 shoptylasty.pro
 0.0.0.0 shopusuallyvirtue.com
 0.0.0.0 shortagestriped.com
 0.0.0.0 shorteh.com
@@ -14659,6 +14662,7 @@
 0.0.0.0 virginoxygen.com
 0.0.0.0 virgonicer.com
 0.0.0.0 virleth.com
+0.0.0.0 virlyrelatione.xyz
 0.0.0.0 virotc.com
 0.0.0.0 virtuallycoollybarber.com
 0.0.0.0 virtuallylend.com
@@ -14708,6 +14712,7 @@
 0.0.0.0 voipnewswire.net
 0.0.0.0 vokalnewtab.xyz
 0.0.0.0 vokut.com
+0.0.0.0 volarf.com
 0.0.0.0 volatintptr.com
 0.0.0.0 volleyballcanes.com
 0.0.0.0 volna2babla1dh1.com
