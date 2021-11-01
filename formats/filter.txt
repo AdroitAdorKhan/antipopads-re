@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 21.11.305
-! Release: 305
+! Version: 21.11.306
+! Release: 306
 ! Expires: 1 day
-! Entries: 15,519
-! Updated: Mon, 01 Nov 21 22:02:30 +06
+! Entries: 15,520
+! Updated: Tue, 02 Nov 21 00:05:10 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -11817,6 +11817,7 @@
 ||sbanesere.biz^
 ||sbc7wfnaakau.com^
 ||sbfsdvc.com^
+||sblimrvlco.xyz^
 ||sbroughhig.info^
 ||sbscrma.com^
 ||scamblefeedman.com^
