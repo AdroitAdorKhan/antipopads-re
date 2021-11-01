@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.305
 # Release: 305
-# Entries: 15,506
-# Updated: Mon, 01 Nov 21 14:04:05 +06
+# Entries: 15,508
+# Updated: Mon, 01 Nov 21 16:04:12 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3337,6 +3337,7 @@
 0.0.0.0 connectad.io
 0.0.0.0 connectignite.com
 0.0.0.0 connectionads.com
+0.0.0.0 connethsectional.com
 0.0.0.0 connexity.net
 0.0.0.0 connexplace.com
 0.0.0.0 connextra.com
@@ -4141,6 +4142,7 @@
 0.0.0.0 dj-updates.com
 0.0.0.0 dk4ywix.com
 0.0.0.0 dkdmygipll.com
+0.0.0.0 dkjrvgfozzhc.com
 0.0.0.0 dkmdklhu.com
 0.0.0.0 dlb1uotpjs6s.com
 0.0.0.0 dlfclcey.com

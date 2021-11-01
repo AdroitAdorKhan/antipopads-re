@@ -20,8 +20,8 @@
 ! Version: 21.11.305
 ! Release: 305
 ! Expires: 1 day
-! Entries: 15,506
-! Updated: Mon, 01 Nov 21 14:04:05 +06
+! Entries: 15,508
+! Updated: Mon, 01 Nov 21 16:04:12 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -3338,6 +3338,7 @@
 ||connectad.io^
 ||connectignite.com^
 ||connectionads.com^
+||connethsectional.com^
 ||connexity.net^
 ||connexplace.com^
 ||connextra.com^
@@ -4142,6 +4143,7 @@
 ||dj-updates.com^
 ||dk4ywix.com^
 ||dkdmygipll.com^
+||dkjrvgfozzhc.com^
 ||dkmdklhu.com^
 ||dlb1uotpjs6s.com^
 ||dlfclcey.com^
