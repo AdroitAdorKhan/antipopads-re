@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.306
 # Release: 306
-# Entries: 15,520
-# Updated: Tue, 02 Nov 21 00:05:10 +06
+# Entries: 15,522
+# Updated: Tue, 02 Nov 21 04:03:56 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -688,6 +688,7 @@
 0.0.0.0 addkt.com
 0.0.0.0 addoer.com
 0.0.0.0 addonsmash.com
+0.0.0.0 addresseepaper.com
 0.0.0.0 addresseetransportationsyndrome.com
 0.0.0.0 addressen.club
 0.0.0.0 addroplet.com
@@ -4078,6 +4079,7 @@
 0.0.0.0 dislikesparecandle.com
 0.0.0.0 disloquerent.website
 0.0.0.0 disloyalmeddling.com
+0.0.0.0 dismantlepenantiterrorist.com
 0.0.0.0 disorderpoking.com
 0.0.0.0 disorganizedsweatymash.com
 0.0.0.0 disparagethence.com
