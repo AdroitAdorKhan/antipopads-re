@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.306
 # Release: 306
-# Entries: 15,522
-# Updated: Tue, 02 Nov 21 04:03:56 +06
+# Entries: 15,526
+# Updated: Tue, 02 Nov 21 06:02:19 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -9251,6 +9251,7 @@
 0.0.0.0 nvbwgk.com
 0.0.0.0 nvdljujp.com
 0.0.0.0 nvergetpatr.top
+0.0.0.0 nvidpn.com
 0.0.0.0 nviolinami.fun
 0.0.0.0 nvironymscli.info
 0.0.0.0 nvloygrnfe.com
@@ -10306,6 +10307,7 @@
 0.0.0.0 pooboafi.net
 0.0.0.0 poocomug.com
 0.0.0.0 poodlealluded.com
+0.0.0.0 poodsboiko.com
 0.0.0.0 pooglais.net
 0.0.0.0 poogriry.click
 0.0.0.0 poohiglu.net
@@ -10590,6 +10592,8 @@
 0.0.0.0 prowlenthusiasticcongest.com
 0.0.0.0 prownl.com
 0.0.0.0 proximic.com
+0.0.0.0 prpbns.com
+0.0.0.0 prpbnt.com
 0.0.0.0 prpops.com
 0.0.0.0 prpopss.com
 0.0.0.0 prpqvjiygoslxo.me
