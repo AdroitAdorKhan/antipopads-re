@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.308
 # Release: 308
-# Entries: 15,642
-# Updated: Thu, 04 Nov 21 02:02:16 +06
+# Entries: 15,643
+# Updated: Thu, 04 Nov 21 04:04:22 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1288,6 +1288,7 @@
 0.0.0.0 amaumomt.com
 0.0.0.0 amavirgin.pro
 0.0.0.0 amazestronghold.com
+0.0.0.0 amazing-flirt.life
 0.0.0.0 ambaab.com
 0.0.0.0 ambeersporkies.com
 0.0.0.0 ambientaboveboard.com
