@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.307
 # Release: 307
-# Entries: 15,627
-# Updated: Wed, 03 Nov 21 10:02:21 +06
+# Entries: 15,628
+# Updated: Wed, 03 Nov 21 16:04:41 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -7721,6 +7721,7 @@
 0.0.0.0 laveerscurf.com
 0.0.0.0 lavender64369.com
 0.0.0.0 lavishvanish.com
+0.0.0.0 lawareenolatman.com
 0.0.0.0 lawboplegs.com
 0.0.0.0 lawiersenadrey.webcam
 0.0.0.0 lawsaddthoroughfare.com
