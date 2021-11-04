@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 21.11.308
-! Release: 308
+! Version: 21.11.309
+! Release: 309
 ! Expires: 1 day
-! Entries: 15,665
-! Updated: Thu, 04 Nov 21 22:03:18 +06
+! Entries: 15,666
+! Updated: Fri, 05 Nov 21 02:04:51 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -13653,6 +13653,7 @@
 ||trk-access.com^
 ||trkclk.net^
 ||trk-consulatu.com^
+||trkflstr.com^
 ||trklnks.com^
 ||trklvs.com^
 ||trkn1.com^
