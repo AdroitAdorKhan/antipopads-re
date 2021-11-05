@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.309
 # Release: 309
-# Entries: 15,674
-# Updated: Fri, 05 Nov 21 08:02:11 +06
+# Entries: 15,675
+# Updated: Fri, 05 Nov 21 10:03:02 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -14927,6 +14927,7 @@
 0.0.0.0 www.cidistoder.gq
 0.0.0.0 www.clfxjrlui.com
 0.0.0.0 www.clxgmlpfkoj.com
+0.0.0.0 www.companionstormyhusk.com
 0.0.0.0 www.complimentsplywood.com
 0.0.0.0 www.computeterrifyingobdurate.com
 0.0.0.0 www.concealedtripssurgical.com
