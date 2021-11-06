@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.310
 # Release: 310
-# Entries: 15,714
-# Updated: Sat, 06 Nov 21 20:02:06 +06
+# Entries: 15,718
+# Updated: Sat, 06 Nov 21 22:02:39 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2217,6 +2217,7 @@
 0.0.0.0 biosda.com
 0.0.0.0 birdnavy.com
 0.0.0.0 bireoeeifqmpay.com
+0.0.0.0 birevuth.com
 0.0.0.0 birkiesdipyre.com
 0.0.0.0 birlerskababs.com
 0.0.0.0 biroads.com
@@ -3466,6 +3467,7 @@
 0.0.0.0 corneey.com
 0.0.0.0 cornerbut.com
 0.0.0.0 cornfloweramnesty.com
+0.0.0.0 cornflowershallow.com
 0.0.0.0 correry.com
 0.0.0.0 correspondencecellularstudious.com
 0.0.0.0 corridorfiremanhauled.com
@@ -5713,6 +5715,7 @@
 0.0.0.0 gardoult.com
 0.0.0.0 gardourd.com
 0.0.0.0 garglesoon.com
+0.0.0.0 garmentsdraught.com
 0.0.0.0 garnishpollution.com
 0.0.0.0 garristo.com
 0.0.0.0 gatesbelievesgentlemen.com
@@ -6373,6 +6376,7 @@
 0.0.0.0 heefaith.net
 0.0.0.0 heellucent.com
 0.0.0.0 heeteefu.com
+0.0.0.0 heextending.com
 0.0.0.0 hegreeks.com
 0.0.0.0 hegrem.com
 0.0.0.0 hehraybryciyls.com
