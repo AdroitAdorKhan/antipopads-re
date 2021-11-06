@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.310
 # Release: 310
-# Entries: 15,705
-# Updated: Sat, 06 Nov 21 16:02:09 +06
+# Entries: 15,706
+# Updated: Sat, 06 Nov 21 18:02:56 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -14107,6 +14107,7 @@
 0.0.0.0 utoumine.net
 0.0.0.0 utoyoufio.fun
 0.0.0.0 utpgxaylxurhbc.com
+0.0.0.0 utpvfpoar.com
 0.0.0.0 utq55kl9vyqv.com
 0.0.0.0 utrfixbusce.com
 0.0.0.0 utteredhandicappedsomebody.com
