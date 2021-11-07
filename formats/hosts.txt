@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.311
 # Release: 311
-# Entries: 15,753
-# Updated: Sun, 07 Nov 21 10:05:13 +06
+# Entries: 15,754
+# Updated: Sun, 07 Nov 21 16:02:07 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -4376,6 +4376,7 @@
 0.0.0.0 dsedertyhuiokle.top
 0.0.0.0 dsfjhfhyry2hh8jo09.com
 0.0.0.0 dsnextgen.com
+0.0.0.0 dsomethove.xyz
 0.0.0.0 dspmulti.com
 0.0.0.0 dspultra.com
 0.0.0.0 dsp.wtf
