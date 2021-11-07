@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.311
 # Release: 311
-# Entries: 15,735
-# Updated: Sun, 07 Nov 21 00:02:12 +06
+# Entries: 15,742
+# Updated: Sun, 07 Nov 21 06:02:14 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -30,6 +30,7 @@
 0.0.0.0 006a039c957c142bb.com
 0.0.0.0 00aaa2d81c1d174.com
 0.0.0.0 0127538a552.com
+0.0.0.0 0.20www.bcloudhost.com
 0.0.0.0 0265331.com
 0.0.0.0 02aa19117f396e9.com
 0.0.0.0 039ad0897e6da.com
@@ -132,6 +133,7 @@
 0.0.0.0 20cefb09fe910f.com
 0.0.0.0 20dollars2surf.com
 0.0.0.0 20tracks.com
+0.0.0.0 20www.bcloudhost.com
 0.0.0.0 2137dc12f9d8.com
 0.0.0.0 21c9a53484951.com
 0.0.0.0 21find.com
@@ -5505,6 +5507,7 @@
 0.0.0.0 fqnvtmophfeas.online
 0.0.0.0 fqnvtmqass.online
 0.0.0.0 fqnvts.online
+0.0.0.0 fqrqgaeqcmbjihq.xyz
 0.0.0.0 frablettenatoes.com
 0.0.0.0 fractionwhatsoever.com
 0.0.0.0 fractureexperience.com
@@ -9562,6 +9565,7 @@
 0.0.0.0 olivedinflats.space
 0.0.0.0 olkrzytv.com
 0.0.0.0 ollectusdign.top
+0.0.0.0 ollops.com
 0.0.0.0 olmsoneenh.info
 0.0.0.0 olouphoo.com
 0.0.0.0 olourseskit.fun
@@ -12112,6 +12116,7 @@
 0.0.0.0 semsicou.net
 0.0.0.0 senateindicator.com
 0.0.0.0 send-news.net
+0.0.0.0 senogh.com
 0.0.0.0 sensationaleducate.com
 0.0.0.0 sensationdetermined.com
 0.0.0.0 sensitivenessbuttons.com
@@ -13931,6 +13936,7 @@
 0.0.0.0 ulngtppm.com
 0.0.0.0 ulourgaz.net
 0.0.0.0 ultimowraxle.com
+0.0.0.0 ultralove.net
 0.0.0.0 ultraoranges.com
 0.0.0.0 ulukaris.com
 0.0.0.0 ululel.com
@@ -15451,6 +15457,7 @@
 0.0.0.0 yeesshh.com
 0.0.0.0 yegsrmqqpg.com
 0.0.0.0 yellowacorn.net
+0.0.0.0 yemisleol.xyz
 0.0.0.0 yepsawomen.com
 0.0.0.0 yepsobtax.com
 0.0.0.0 yepteaswont.com
