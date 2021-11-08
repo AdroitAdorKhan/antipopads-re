@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.312
 # Release: 312
-# Entries: 15,778
-# Updated: Mon, 08 Nov 21 20:04:37 +06
+# Entries: 15,780
+# Updated: Mon, 08 Nov 21 22:02:48 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3599,6 +3599,7 @@
 0.0.0.0 critariatele.pro
 0.0.0.0 criticbrass.com
 0.0.0.0 criticismvillagegun.com
+0.0.0.0 crjpingate.com
 0.0.0.0 crjugate.com
 0.0.0.0 crm4d.com
 0.0.0.0 croakflabbyconsume.com
@@ -13522,6 +13523,7 @@
 0.0.0.0 tncred.com
 0.0.0.0 tnctrx.com
 0.0.0.0 tnkexchange.com
+0.0.0.0 tnnpkperngdhtv.xyz
 0.0.0.0 toadassuagevolatile.com
 0.0.0.0 toagluji.com
 0.0.0.0 toapsira.net
