@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.312
 # Release: 312
-# Entries: 15,775
-# Updated: Mon, 08 Nov 21 16:02:06 +06
+# Entries: 15,776
+# Updated: Mon, 08 Nov 21 18:03:33 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -8919,6 +8919,7 @@
 :: mygoodlives.com
 :: mygpuid.com
 :: mygtmn.com
+:: myhookuplocators1.com
 :: myimagetracking.com
 :: mykhtesikvuz.com
 :: mylinkbox.com
