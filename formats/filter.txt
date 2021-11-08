@@ -20,8 +20,8 @@
 ! Version: 21.11.312
 ! Release: 312
 ! Expires: 1 day
-! Entries: 15,774
-! Updated: Mon, 08 Nov 21 10:03:30 +06
+! Entries: 15,775
+! Updated: Mon, 08 Nov 21 16:02:06 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -7903,6 +7903,7 @@
 ||libertystmedia.com^
 ||librariessunflower.com^
 ||libreriamedina.com^
+||licallycompicity.com^
 ||licantrum.com^
 ||liceformdcsprovided.pw^
 ||licenseblindnessbureau.com^
