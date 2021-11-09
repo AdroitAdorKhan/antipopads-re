@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 21.11.312
-# Release: 312
-# Entries: 15,780
-# Updated: Mon, 08 Nov 21 22:02:48 +06
+# Version: 21.11.313
+# Release: 313
+# Entries: 15,786
+# Updated: Tue, 09 Nov 21 06:04:51 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -7085,6 +7085,7 @@
 0.0.0.0 ip-51-195-11.eu
 0.0.0.0 ip-51-254-89.eu
 0.0.0.0 ip-51-79-132.net
+0.0.0.0 ipcuvbgc.xyz
 0.0.0.0 iphumiki.com
 0.0.0.0 ipiech.com
 0.0.0.0 ipmwebuunmx.info
@@ -8125,6 +8126,7 @@
 0.0.0.0 lplesacciner.top
 0.0.0.0 lpuhcdnyejf.com
 0.0.0.0 lqeevjgkjjwi.com
+0.0.0.0 lqgbqafvfga.xyz
 0.0.0.0 lqw.me
 0.0.0.0 lsariz.com
 0.0.0.0 lsdstgcv.com
@@ -8822,6 +8824,7 @@
 0.0.0.0 mr2cnjuh34jb.com
 0.0.0.0 mr5aqoqlegsp.com
 0.0.0.0 mrelko.com
+0.0.0.0 mrffechf.xyz
 0.0.0.0 mrjb7hvcks.com
 0.0.0.0 m-rtb.com
 0.0.0.0 mrzikj.com
@@ -11110,6 +11113,7 @@
 0.0.0.0 qixour.com
 0.0.0.0 qjcdnpv.com
 0.0.0.0 qjezukyqwj.com
+0.0.0.0 qjjjdnbne.xyz
 0.0.0.0 qjttowndvet.com
 0.0.0.0 qkspafpgg.com
 0.0.0.0 qlblpyslxciorl.com
@@ -11285,6 +11289,7 @@
 0.0.0.0 rddywd.com
 0.0.0.0 rditatehapp.top
 0.0.0.0 rdrceting.com
+0.0.0.0 rdrthtdhos.xyz
 0.0.0.0 rdrtrk.com
 0.0.0.0 rdsb21.club
 0.0.0.0 rdsb2.club
@@ -14561,6 +14566,7 @@
 0.0.0.0 wagoapse.com
 0.0.0.0 wahamtou.net
 0.0.0.0 wahoha.com
+0.0.0.0 wahsrnlompbfab.xyz
 0.0.0.0 waikoaky.com
 0.0.0.0 wairazaz.com
 0.0.0.0 waisheph.com
