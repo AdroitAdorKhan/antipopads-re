@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.314
 # Release: 314
-# Entries: 15,867
-# Updated: Wed, 10 Nov 21 10:03:04 +06
+# Entries: 15,868
+# Updated: Wed, 10 Nov 21 14:06:24 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -10368,6 +10368,7 @@
 :: piledarriving.com
 :: pilgrimarym.club
 :: pillageacting.com
+:: pillsofecho.com
 :: pimpoopo.com
 :: pinballpublishernetwork.com
 :: pinchingepoch.com
