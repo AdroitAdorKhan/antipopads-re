@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: domains
-# Version: 21.11.313
-# Release: 313
-# Entries: 15,851
-# Updated: Tue, 09 Nov 21 22:03:10 +06
+# Version: 21.11.314
+# Release: 314
+# Entries: 15,852
+# Updated: Wed, 10 Nov 21 06:03:03 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -4568,6 +4568,7 @@ ebocornac.com
 ebraqfrsydm.xyz
 echoazou.com
 eclkmpbn.com
+eclogicmeows.com
 ecominalber.club
 econday.top
 economyobserver.com
