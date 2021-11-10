@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.314
 # Release: 314
-# Entries: 15,865
-# Updated: Wed, 10 Nov 21 08:02:16 +06
+# Entries: 15,867
+# Updated: Wed, 10 Nov 21 10:03:04 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -7692,6 +7692,7 @@
 0.0.0.0 koutobey.net
 0.0.0.0 kouwheey.net
 0.0.0.0 kowajeed.com
+0.0.0.0 koxeebee.net
 0.0.0.0 kqmjmrzjhmdn.com
 0.0.0.0 kragr.com
 0.0.0.0 krakeshlaja.com
@@ -12372,6 +12373,7 @@
 0.0.0.0 shoftouy.com
 0.0.0.0 shoizifjwosvk.com
 0.0.0.0 shokala.com
+0.0.0.0 shooksap.net
 0.0.0.0 shoomsie.uk
 0.0.0.0 shooterpillar.com
 0.0.0.0 shootoax.com
