@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.315
 # Release: 315
-# Entries: 15,929
-# Updated: Thu, 11 Nov 21 12:02:18 +06
+# Entries: 15,930
+# Updated: Thu, 11 Nov 21 16:03:21 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -6687,6 +6687,7 @@
 0.0.0.0 hotideiasnetwork.ga
 0.0.0.0 hotladies-4you1.com
 0.0.0.0 hot-ladies-zones.com
+0.0.0.0 hotlocalzone.life
 0.0.0.0 hot-men-zone.com
 0.0.0.0 hotrodsvmsize.casa
 0.0.0.0 hots-sun-finders1.com
