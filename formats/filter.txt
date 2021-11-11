@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 21.11.315
-! Release: 315
+! Version: 21.11.316
+! Release: 316
 ! Expires: 1 day
-! Entries: 15,951
-! Updated: Thu, 11 Nov 21 22:02:47 +06
+! Entries: 15,953
+! Updated: Fri, 12 Nov 21 00:03:09 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -4335,6 +4335,7 @@
 ||doublerecall.com^
 ||doublycharacteristic.com^
 ||doubooca.com^
+||doubtcigardug.com^
 ||doubtfirework.com^
 ||doufoacu.net^
 ||dougijoo.com^
@@ -6597,6 +6598,7 @@
 ||hlmiq.com^
 ||hlpnowp-c.com^
 ||hmbgumjgey.com^
+||hmcfuqtjrhb.com^
 ||hmikw.com^
 ||hmonstabb.fun^
 ||hmyjpt.com^
