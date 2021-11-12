@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.316
 # Release: 316
-# Entries: 15,974
-# Updated: Fri, 12 Nov 21 08:03:05 +06
+# Entries: 15,989
+# Updated: Fri, 12 Nov 21 10:02:43 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1774,6 +1774,7 @@
 0.0.0.0 awigglespouter.cam
 0.0.0.0 awkmzvii39ei4.xyz
 0.0.0.0 awn.net
+0.0.0.0 awnxcexsy.xyz
 0.0.0.0 awokedoubtless.com
 0.0.0.0 awprt.com
 0.0.0.0 awptjmp.com
@@ -2330,6 +2331,7 @@
 0.0.0.0 bnmla.com
 0.0.0.0 bnr901.com
 0.0.0.0 bnr902.com
+0.0.0.0 bnr903.com
 0.0.0.0 bnrdom.com
 0.0.0.0 bnrsis.com
 0.0.0.0 bnrs.it
@@ -4357,6 +4359,7 @@
 0.0.0.0 down-paradise.com
 0.0.0.0 downtonpudic.com
 0.0.0.0 downysewersettle.com
+0.0.0.0 doxyspats.com
 0.0.0.0 dozethiwho.com
 0.0.0.0 dozubatan.com
 0.0.0.0 dp25.kr
@@ -4581,6 +4584,7 @@
 0.0.0.0 ebdr3.com
 0.0.0.0 ebetoni.com
 0.0.0.0 eblastengine.com
+0.0.0.0 eboaopyeeuqnc.xyz
 0.0.0.0 ebocornac.com
 0.0.0.0 ebraqfrsydm.xyz
 0.0.0.0 echoazou.com
@@ -8621,6 +8625,7 @@
 0.0.0.0 merzostueru2hu8jr09.com
 0.0.0.0 meshlucky.com
 0.0.0.0 messengerinternfair.com
+0.0.0.0 messenger-notify.digital
 0.0.0.0 messyoranges.com
 0.0.0.0 mestreqa.com
 0.0.0.0 mesucces.top
@@ -15170,6 +15175,7 @@
 0.0.0.0 wwry.xyz
 0.0.0.0 wwsearch.click
 0.0.0.0 wwsercher.biz
+0.0.0.0 www.absolutionbravery.com
 0.0.0.0 www.acirtpkh.com
 0.0.0.0 www.aeclick.com
 0.0.0.0 www.agagaure.com
@@ -15184,18 +15190,24 @@
 0.0.0.0 www.arshgkcfdhgr.com
 0.0.0.0 www.aurjueeh.com
 0.0.0.0 www.backwardchampionship.com
+0.0.0.0 www.badlybouncing.com
 0.0.0.0 www.balcekonspn.com
 0.0.0.0 www.bantercubicle.com
+0.0.0.0 www.barbedpotions.com
 0.0.0.0 www.bathingstage.com
 0.0.0.0 www.bcuuipewdz.com
 0.0.0.0 www.becomesnerveshobble.com
 0.0.0.0 www.bedbwgjjpxiuox.com
 0.0.0.0 www.beefymartpronunciation.com
+0.0.0.0 www.bett2you.net
+0.0.0.0 www.bettin2you.com
 0.0.0.0 www.bgyawaib.com
 0.0.0.0 www.bireoeeifqmpay.com
 0.0.0.0 www.bkembwdgujzp.com
 0.0.0.0 www.blotcreepy.com
+0.0.0.0 www.bootsuserstruthful.com
 0.0.0.0 www.brunettemattersrefused.com
+0.0.0.0 www.buttoothbrush.com
 0.0.0.0 www.cdnativepush.com
 0.0.0.0 www.cdnondemand.org
 0.0.0.0 www.cementencourage.com
@@ -15206,6 +15218,7 @@
 0.0.0.0 www.cidistoder.gq
 0.0.0.0 www.clfxjrlui.com
 0.0.0.0 www.clxgmlpfkoj.com
+0.0.0.0 www.coldnessstretchedfriendship.com
 0.0.0.0 www.companionstormyhusk.com
 0.0.0.0 www.complimentsplywood.com
 0.0.0.0 www.computeterrifyingobdurate.com
@@ -15418,6 +15431,7 @@
 0.0.0.0 www.sma8clk.com
 0.0.0.0 www.smjdkmvhar.com
 0.0.0.0 www.sobalf.com
+0.0.0.0 www.sordidstir.com
 0.0.0.0 www.soshoord.com
 0.0.0.0 www.spamvariationswithin.com
 0.0.0.0 www.speop.com
@@ -15447,6 +15461,7 @@
 0.0.0.0 www.trustworthytopmost.com
 0.0.0.0 www.trybulgingcoefficient.com
 0.0.0.0 www.tudsxyhpn.com
+0.0.0.0 www.twentieslegislation.com
 0.0.0.0 www.twlrvvejszww.com
 0.0.0.0 www.udmserve.net
 0.0.0.0 www.ueuodgnrhb.com
