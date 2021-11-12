@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.316
 # Release: 316
-# Entries: 16,056
-# Updated: Fri, 12 Nov 21 16:03:44 +06
+# Entries: 16,059
+# Updated: Fri, 12 Nov 21 20:02:24 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1317,6 +1317,7 @@
 0.0.0.0 amnestynanny.com
 0.0.0.0 amoddishor.com
 0.0.0.0 amorphysp.fun
+0.0.0.0 amountdonutproxy.com
 0.0.0.0 ampcr.io
 0.0.0.0 ampdaisbras.com
 0.0.0.0 ampleteexis.info
@@ -12088,6 +12089,7 @@
 0.0.0.0 safestsniffingconfessed.com
 0.0.0.0 safestteacherwaiting.com
 0.0.0.0 safesync.com
+0.0.0.0 safwjxsqvm.com
 0.0.0.0 sagloops.com
 0.0.0.0 sagroagh.com
 0.0.0.0 saifusty.net
@@ -15064,6 +15066,7 @@
 0.0.0.0 wmbdevcydmthac.xyz
 0.0.0.0 wmonthsaft.biz
 0.0.0.0 wndhsykmbe.com
+0.0.0.0 wnhlsqfxnn.com
 0.0.0.0 wnlonevkiju16.site
 0.0.0.0 wnmalshuld.com
 0.0.0.0 wnp.com
