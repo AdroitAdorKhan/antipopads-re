@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 21.11.316
-# Release: 316
-# Entries: 16,088
-# Updated: Fri, 12 Nov 21 22:02:58 +06
+# Version: 21.11.317
+# Release: 317
+# Entries: 16,090
+# Updated: Sat, 13 Nov 21 00:04:04 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -8604,6 +8604,7 @@
 0.0.0.0 mekstolande.com
 0.0.0.0 meleguetre.com
 0.0.0.0 melinaeability.casa
+0.0.0.0 melindahicks.xyz
 0.0.0.0 mellodur.net
 0.0.0.0 mellowpresence.com
 0.0.0.0 mellowtin.com
@@ -10837,6 +10838,7 @@
 0.0.0.0 producingdestroyer.com
 0.0.0.0 producingsavourestablish.com
 0.0.0.0 producthub.info
+0.0.0.0 productionconceitedbosom.com
 0.0.0.0 productorsy.pro
 0.0.0.0 prodwaves.pro
 0.0.0.0 profbigo.com
