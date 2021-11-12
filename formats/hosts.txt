@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.316
 # Release: 316
-# Entries: 16,025
-# Updated: Fri, 12 Nov 21 12:04:32 +06
+# Entries: 16,046
+# Updated: Fri, 12 Nov 21 14:02:25 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3735,6 +3735,7 @@
 0.0.0.0 cyneburg-yam.com
 0.0.0.0 cyphersvalure.com
 0.0.0.0 cyrasi.com
+0.0.0.0 cyteed.com
 0.0.0.0 cytheriata4.xyz
 0.0.0.0 cyzdyiccpwx.com
 0.0.0.0 cyzyyv.com
@@ -14644,6 +14645,7 @@
 0.0.0.0 vooshagy.net
 0.0.0.0 voradu.com
 0.0.0.0 voredi.com
+0.0.0.0 vorseh.com
 0.0.0.0 voteyapgrade.com
 0.0.0.0 vothaiwi.com
 0.0.0.0 vouceeco.com
@@ -15187,6 +15189,7 @@
 0.0.0.0 www.ahqpqpdjpj.com
 0.0.0.0 www.airairgu.com
 0.0.0.0 www.alwsbnvialll.com
+0.0.0.0 www.amplitudewassnap.com
 0.0.0.0 www.antirgiocub.com
 0.0.0.0 www.apgasampbrid.gq
 0.0.0.0 www.arccdyvgh.com
@@ -15202,6 +15205,7 @@
 0.0.0.0 www.barbedpotions.com
 0.0.0.0 www.bathingstage.com
 0.0.0.0 www.bcuuipewdz.com
+0.0.0.0 www.beamingworked.com
 0.0.0.0 www.becomesnerveshobble.com
 0.0.0.0 www.bedbwgjjpxiuox.com
 0.0.0.0 www.beefymartpronunciation.com
@@ -15238,6 +15242,7 @@
 0.0.0.0 www.crackerenmity.com
 0.0.0.0 www.csiasvapqrccq.com
 0.0.0.0 www.ctdhylltfighs.com
+0.0.0.0 www.culturedischargenarcotic.com
 0.0.0.0 www.cyzdyiccpwx.com
 0.0.0.0 www.declinedisobey.com
 0.0.0.0 www.defencehungry.com
@@ -15250,6 +15255,7 @@
 0.0.0.0 www.diddaisycuff.com
 0.0.0.0 www.dinnerweather.com
 0.0.0.0 www.disapprovalhardwareenvy.com
+0.0.0.0 www.disguisemayhem.com
 0.0.0.0 www.doormancreeping.com
 0.0.0.0 www.draughtacted.com
 0.0.0.0 www.droppedrolling.com
@@ -15294,6 +15300,7 @@
 0.0.0.0 www.flowerbedfedpoultry.com
 0.0.0.0 www.formationdenehurt.com
 0.0.0.0 www.fossilreservoirincorrect.com
+0.0.0.0 www.franklysleazymaintain.com
 0.0.0.0 www.fsalfrwdr.com
 0.0.0.0 www.fthkmwrkqg.com
 0.0.0.0 www.fwnowvgk.com
@@ -15306,6 +15313,7 @@
 0.0.0.0 www.glogoowo.net
 0.0.0.0 www.glossarysack.com
 0.0.0.0 www.goosedetectives.com
+0.0.0.0 www.gorillabrightenarms.com
 0.0.0.0 www.grilledjut.com
 0.0.0.0 www.gsvyjunccsw.com
 0.0.0.0 www.gwwhheahisrtld.com
@@ -15317,6 +15325,7 @@
 0.0.0.0 www.hbtzzlcxfijk.com
 0.0.0.0 www.hecticprofitable.com
 0.0.0.0 www.herdthan.com
+0.0.0.0 www.higherdebateplume.com
 0.0.0.0 www.higherincomparablehandicraft.com
 0.0.0.0 www.highperformancedisplaycontent.com
 0.0.0.0 www.hnpvnnhzazkl.com
@@ -15331,6 +15340,7 @@
 0.0.0.0 www.ihjtrncfoha.com
 0.0.0.0 www.iixecczxqzy.com
 0.0.0.0 www.imadtedfoave.gq
+0.0.0.0 www.immortalsplashslob.com
 0.0.0.0 www.improveapesbates.com
 0.0.0.0 www.imwinnerkur.com
 0.0.0.0 www.innumerablecaw.com
@@ -15350,6 +15360,7 @@
 0.0.0.0 www.knoure.com
 0.0.0.0 www.kntswafuos.com
 0.0.0.0 www.kutjilsi.com
+0.0.0.0 www.labourpushed.com
 0.0.0.0 www.ladsipz.com
 0.0.0.0 www.lcjnnojdtzxquj.com
 0.0.0.0 www.lectpenseluworlta.tk
@@ -15360,6 +15371,7 @@
 0.0.0.0 www.lkskkssuoa.com
 0.0.0.0 www.lmepskqkrrya.com
 0.0.0.0 www.loanonionbidding.com
+0.0.0.0 www.lobsterunderpantsbooty.com
 0.0.0.0 www.locketamoral.com
 0.0.0.0 www.loohiwez.net
 0.0.0.0 www.lumiz.com
@@ -15376,8 +15388,10 @@
 0.0.0.0 www.mustardchagrininjured.com
 0.0.0.0 www.muyoozrkkyr.com
 0.0.0.0 www.ndikvccwz.com
+0.0.0.0 www.necessarilyunkindhanging.com
 0.0.0.0 www.neighbourcoastearnestly.com
 0.0.0.0 www.netgybiga.gq
+0.0.0.0 www.niecefootagefastest.com
 0.0.0.0 www.nolihampterjustmac.gq
 0.0.0.0 www.nryceuula.com
 0.0.0.0 www.ntdvjlvau.com
@@ -15402,6 +15416,7 @@
 0.0.0.0 www.pettybitternessablebodied.com
 0.0.0.0 www.pgbxrigvbmdz.com
 0.0.0.0 www.pgeejqisao.com
+0.0.0.0 www.pharmacymorbid.com
 0.0.0.0 www.pl16169563.profitabletrustednetwork.com
 0.0.0.0 www.plaicecaught.com
 0.0.0.0 www.plardi.com
@@ -15415,6 +15430,7 @@
 0.0.0.0 www.profitabletrustednetwork.com
 0.0.0.0 www.psvgnczo.com
 0.0.0.0 www.pubwes.com
+0.0.0.0 www.puppetgrow.com
 0.0.0.0 www.pushosub.com
 0.0.0.0 www.qbkzvophvva.com
 0.0.0.0 www.qgnlbjkxrzb.com
@@ -15458,6 +15474,7 @@
 0.0.0.0 www.simbolslot.biz
 0.0.0.0 www.simbolslot.me
 0.0.0.0 www.sinceclairvoyant.com
+0.0.0.0 www.skilfulbags.com
 0.0.0.0 www.slipclearing.com
 0.0.0.0 www.sma8clk.com
 0.0.0.0 www.smjdkmvhar.com
@@ -15470,6 +15487,8 @@
 0.0.0.0 www.starvationdefence.com
 0.0.0.0 www.steppevegetationforefather.com
 0.0.0.0 www.stircalculatormetric.com
+0.0.0.0 www.stressfulbrag.com
+0.0.0.0 www.subqueriessalutationcurtain.com
 0.0.0.0 www.suozmtcc.com
 0.0.0.0 www.supposeperfumebread.com
 0.0.0.0 www.surroundpassed.com
@@ -15644,12 +15663,14 @@
 0.0.0.0 xotqgydpge.xyz
 0.0.0.0 xpctraffic.com
 0.0.0.0 xpollo.com
+0.0.0.0 xppedfqlro.xyz
 0.0.0.0 xpx7heciz9.com
 0.0.0.0 xpyyrkwpcpwf.com
 0.0.0.0 xqbervetkiq.com
 0.0.0.0 xqheb9yszyrd.com
 0.0.0.0 xqiaqb.com
 0.0.0.0 xqxlaymd.xyz
+0.0.0.0 xrfabakydcwngov.xyz
 0.0.0.0 xrhobrrgwhtlu.com
 0.0.0.0 xrnfmqio.xyz
 0.0.0.0 xsrs.com
