@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.317
 # Release: 317
-# Entries: 16,133
-# Updated: Sat, 13 Nov 21 10:02:48 +06
+# Entries: 16,134
+# Updated: Sat, 13 Nov 21 12:02:06 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -8811,6 +8811,7 @@
 0.0.0.0 mnemicguaza.cam
 0.0.0.0 mnetads.com
 0.0.0.0 mng-ads.com
+0.0.0.0 mntewzlornifzt.com
 0.0.0.0 moafoche.com
 0.0.0.0 moakaumo.com
 0.0.0.0 moapteeg.net
