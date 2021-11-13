@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.317
 # Release: 317
-# Entries: 16,134
-# Updated: Sat, 13 Nov 21 12:02:06 +06
+# Entries: 16,141
+# Updated: Sat, 13 Nov 21 14:02:37 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1024,6 +1024,7 @@
 0.0.0.0 aelick.com
 0.0.0.0 aellod.com
 0.0.0.0 aelphotog.pro
+0.0.0.0 aenaux.com
 0.0.0.0 aexperiod.fun
 0.0.0.0 afa9bdfa63bf7.com
 0.0.0.0 afcontent.net
@@ -1618,6 +1619,7 @@
 0.0.0.0 atdmt.com
 0.0.0.0 atdrilburr.com
 0.0.0.0 ateddiscr.top
+0.0.0.0 atedquali.one
 0.0.0.0 ateletswitoto.com
 0.0.0.0 atemda.com
 0.0.0.0 aterroppop.com
@@ -4930,6 +4932,7 @@
 0.0.0.0 erucrippled.com
 0.0.0.0 eruptneuroticstealing.com
 0.0.0.0 ervicoren.online
+0.0.0.0 ervladdep.xyz
 0.0.0.0 es54i9g7p7xh.com
 0.0.0.0 esauwoan.com
 0.0.0.0 escalatenetwork.com
@@ -7405,6 +7408,7 @@
 0.0.0.0 jistvotestabl.space
 0.0.0.0 jisyzysy.com
 0.0.0.0 jitdknclhdpfzyvkio.bid
+0.0.0.0 jiusty.com
 0.0.0.0 jivomtuz.com
 0.0.0.0 jiwire.com
 0.0.0.0 jjdtjvydmy.xyz
@@ -11121,6 +11125,7 @@
 0.0.0.0 pubnation.com
 0.0.0.0 pubrain.com
 0.0.0.0 pubted.com
+0.0.0.0 pubtm.com
 0.0.0.0 pubwes.com
 0.0.0.0 puchocke.com
 0.0.0.0 puddingreluctantly.com
@@ -14117,6 +14122,7 @@
 0.0.0.0 twpasol.com
 0.0.0.0 twtad.com
 0.0.0.0 txcmjo.com
+0.0.0.0 txmboigodejgj.xyz
 0.0.0.0 tyargupdbtyxt.me
 0.0.0.0 tygafso.com
 0.0.0.0 tyjawhesu.com
@@ -15766,6 +15772,7 @@
 0.0.0.0 xtmuasvldoiz.com
 0.0.0.0 xtrackme.com
 0.0.0.0 xtremeserve.xyz
+0.0.0.0 xtroyfwcmn.xyz
 0.0.0.0 xts7fgss.com
 0.0.0.0 xu5ctufltn.com
 0.0.0.0 xuakak.com
