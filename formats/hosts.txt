@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.317
 # Release: 317
-# Entries: 16,142
-# Updated: Sat, 13 Nov 21 18:02:00 +06
+# Entries: 16,143
+# Updated: Sat, 13 Nov 21 20:01:58 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -7782,6 +7782,7 @@
 0.0.0.0 kqmjmrzjhmdn.com
 0.0.0.0 kragr.com
 0.0.0.0 krakeshlaja.com
+0.0.0.0 krhyqxenacr.xyz
 0.0.0.0 krison.xyz
 0.0.0.0 krkursist.com
 0.0.0.0 kronosspell.com
