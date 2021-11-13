@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 21.11.317
-# Release: 317
-# Entries: 16,143
-# Updated: Sat, 13 Nov 21 20:01:58 +06
+# Version: 21.11.318
+# Release: 318
+# Entries: 16,144
+# Updated: Sun, 14 Nov 21 02:01:57 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -11990,6 +11990,7 @@
 0.0.0.0 routeit.one
 0.0.0.0 routeme.one
 0.0.0.0 routemob.com
+0.0.0.0 routemomentarilydiscovering.com
 0.0.0.0 routeserve.info
 0.0.0.0 routgveriprt.com
 0.0.0.0 rouvoute.net

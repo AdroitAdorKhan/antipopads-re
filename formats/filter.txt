@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 21.11.317
-! Release: 317
+! Version: 21.11.318
+! Release: 318
 ! Expires: 1 day
-! Entries: 16,143
-! Updated: Sat, 13 Nov 21 20:01:58 +06
+! Entries: 16,144
+! Updated: Sun, 14 Nov 21 02:01:57 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -11991,6 +11991,7 @@
 ||routeit.one^
 ||routeme.one^
 ||routemob.com^
+||routemomentarilydiscovering.com^
 ||routeserve.info^
 ||routgveriprt.com^
 ||rouvoute.net^
