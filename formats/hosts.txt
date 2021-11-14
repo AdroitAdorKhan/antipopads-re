@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.318
 # Release: 318
-# Entries: 16,173
-# Updated: Sun, 14 Nov 21 16:02:59 +06
+# Entries: 16,174
+# Updated: Sun, 14 Nov 21 18:02:05 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -10386,6 +10386,7 @@
 0.0.0.0 petalonpeery.com
 0.0.0.0 petchesa.net
 0.0.0.0 petchoch.com
+0.0.0.0 petemgta.com
 0.0.0.0 petfoppew.com
 0.0.0.0 petriekalmias.com
 0.0.0.0 petsarlaaafru.com
