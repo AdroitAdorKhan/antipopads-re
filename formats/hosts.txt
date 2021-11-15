@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.319
 # Release: 319
-# Entries: 16,256
-# Updated: Mon, 15 Nov 21 10:02:01 +06
+# Entries: 16,258
+# Updated: Mon, 15 Nov 21 12:04:42 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1149,6 +1149,7 @@
 0.0.0.0 aidspectacle.com
 0.0.0.0 aidstirring.com
 0.0.0.0 aigneloa.com
+0.0.0.0 aiharsul.net
 0.0.0.0 aikraboo.com
 0.0.0.0 ailawlani.club
 0.0.0.0 aileddipgird.cam
@@ -2962,6 +2963,7 @@
 0.0.0.0 chargeboundaryearlap.com
 0.0.0.0 chargestimetablechuckled.com
 0.0.0.0 chargingsensationmetropolitan.com
+0.0.0.0 charitablemilletplumber.com
 0.0.0.0 charitablepausing.com
 0.0.0.0 charmeddipware.com
 0.0.0.0 charmssummitmerriment.com
