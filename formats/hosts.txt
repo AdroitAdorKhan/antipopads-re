@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.320
 # Release: 320
-# Entries: 16,364
-# Updated: Tue, 16 Nov 21 08:05:47 +06
+# Entries: 16,365
+# Updated: Tue, 16 Nov 21 10:02:16 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -5965,6 +5965,7 @@
 0.0.0.0 getyourbest-profit.life
 0.0.0.0 getyour-ladyshere.com
 0.0.0.0 get-your-sexy-now4.com
+0.0.0.0 geudtdngkums.com
 0.0.0.0 geuniveruls.top
 0.0.0.0 gfdfhdh5t5453.com
 0.0.0.0 gfftsqrc.com
