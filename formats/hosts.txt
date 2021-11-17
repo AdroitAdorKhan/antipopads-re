@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.321
 # Release: 321
-# Entries: 16,424
-# Updated: Wed, 17 Nov 21 20:02:08 +06
+# Entries: 16,426
+# Updated: Wed, 17 Nov 21 22:02:58 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -7808,6 +7808,7 @@
 0.0.0.0 kkmacsqsbf.info
 0.0.0.0 kkqusrnaf.com
 0.0.0.0 kksmtuxwcdxdmy.xyz
+0.0.0.0 klalin.com
 0.0.0.0 klavront.com
 0.0.0.0 klikadvertising.com
 0.0.0.0 kliksaya.com
@@ -12222,6 +12223,7 @@
 0.0.0.0 rustleobtainedflute.com
 0.0.0.0 ruthlessbuyer.com
 0.0.0.0 ruthowhagi.com
+0.0.0.0 rutius.com
 0.0.0.0 rutsneareta.com
 0.0.0.0 rutvind.com
 0.0.0.0 ruuwkftrtegqj.com
