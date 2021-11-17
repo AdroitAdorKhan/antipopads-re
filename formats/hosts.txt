@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.321
 # Release: 321
-# Entries: 16,413
-# Updated: Wed, 17 Nov 21 10:02:10 +06
+# Entries: 16,416
+# Updated: Wed, 17 Nov 21 16:06:47 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2147,6 +2147,7 @@
 0.0.0.0 best-dating-new.com
 0.0.0.0 bestdatings-4you2.com
 0.0.0.0 best-dating-spot-here4.com
+0.0.0.0 bestdatingzone.life
 0.0.0.0 bestdisplaycontent.com
 0.0.0.0 bestdisplayformats.com
 0.0.0.0 best-flirt.life
@@ -11940,6 +11941,7 @@
 0.0.0.0 rhvdsplm.com
 0.0.0.0 rhxdsplm.com
 0.0.0.0 rhymezebra.com
+0.0.0.0 rhypourcedement.com
 0.0.0.0 ribbonhappenedmountain.com
 0.0.0.0 ribbonslopeexcessively.com
 0.0.0.0 ribbumuse.com
@@ -15516,6 +15518,7 @@
 0.0.0.0 www.dinnerweather.com
 0.0.0.0 www.disapprovalhardwareenvy.com
 0.0.0.0 www.disguisemayhem.com
+0.0.0.0 www.dismantlepenantiterrorist.com
 0.0.0.0 www.disorganizedsweatymash.com
 0.0.0.0 www.doorbellbadge.com
 0.0.0.0 www.doormancreeping.com
