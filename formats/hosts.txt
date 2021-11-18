@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.322
 # Release: 322
-# Entries: 16,505
-# Updated: Thu, 18 Nov 21 20:02:37 +06
+# Entries: 16,507
+# Updated: Thu, 18 Nov 21 22:02:25 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2140,6 +2140,7 @@
 0.0.0.0 best-adultgames.com
 0.0.0.0 bestaryua.com
 0.0.0.0 best-casual-dating.com
+0.0.0.0 bestclevercaptcha.top
 0.0.0.0 bestcond1tions.com
 0.0.0.0 bestcontentservice.top
 0.0.0.0 bestcontentuse.top
@@ -7531,6 +7532,7 @@
 0.0.0.0 jkhad.com
 0.0.0.0 jkjcoyeeglunz.com
 0.0.0.0 jksdcwgjfm.xyz
+0.0.0.0 jlklnwmj.com
 0.0.0.0 jmbhyqijqhxk.com
 0.0.0.0 jmdeienrg.xyz
 0.0.0.0 jmrnews.pro
