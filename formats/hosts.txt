@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.322
 # Release: 322
-# Entries: 16,473
-# Updated: Thu, 18 Nov 21 10:04:11 +06
+# Entries: 16,475
+# Updated: Thu, 18 Nov 21 16:02:53 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2780,6 +2780,7 @@
 0.0.0.0 cannotmoreover.com
 0.0.0.0 canoevaguely.com
 0.0.0.0 canonch.pro
+0.0.0.0 cantpastelli.one
 0.0.0.0 canvassblanketjar.com
 0.0.0.0 canyboysho.info
 0.0.0.0 capablecup.com
@@ -6964,6 +6965,7 @@
 0.0.0.0 i-afk.com
 0.0.0.0 iammvucrpj.com
 0.0.0.0 iamtheid.club
+0.0.0.0 ianstarvard.co
 0.0.0.0 iasrv.com
 0.0.0.0 ibatom.com
 0.0.0.0 ibbkuhwgqawhvt.com
