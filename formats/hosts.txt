@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.323
 # Release: 323
-# Entries: 16,569
-# Updated: Fri, 19 Nov 21 20:02:13 +06
+# Entries: 16,571
+# Updated: Fri, 19 Nov 21 22:02:26 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -7500,6 +7500,7 @@
 0.0.0.0 jellyclick.com
 0.0.0.0 jemmgroup.com
 0.0.0.0 jenicdntc.com
+0.0.0.0 jennyunfit.com
 0.0.0.0 jeopardyloo.com
 0.0.0.0 jeperdee.net
 0.0.0.0 jeperm.com
@@ -16399,6 +16400,7 @@
 0.0.0.0 yoyadsdom.com
 0.0.0.0 ypmadserver.com
 0.0.0.0 ypreferred.com
+0.0.0.0 yprocedent.co
 0.0.0.0 yqeuu.com
 0.0.0.0 yqezqofkb1nnmz.com
 0.0.0.0 yqmhehotfy.xyz
