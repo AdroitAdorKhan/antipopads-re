@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.324
 # Release: 324
-# Entries: 16,652
-# Updated: Sat, 20 Nov 21 10:02:07 +06
+# Entries: 16,653
+# Updated: Sat, 20 Nov 21 12:02:02 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -5794,6 +5794,7 @@
 0.0.0.0 fudrouto.net
 0.0.0.0 fufoatch.com
 0.0.0.0 fujigar.com
+0.0.0.0 fukpgbwf.com
 0.0.0.0 fulackerserally.com
 0.0.0.0 fumblingform.com
 0.0.0.0 funcats.info
