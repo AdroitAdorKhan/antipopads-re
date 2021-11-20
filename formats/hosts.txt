@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 21.11.324
-# Release: 324
-# Entries: 16,654
-# Updated: Sat, 20 Nov 21 18:02:02 +06
+# Version: 21.11.325
+# Release: 325
+# Entries: 16,655
+# Updated: Sun, 21 Nov 21 04:04:26 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3563,6 +3563,7 @@
 0.0.0.0 coomeece.net
 0.0.0.0 coomosha.com
 0.0.0.0 cooperatecleave.com
+0.0.0.0 cooperatetimes.com
 0.0.0.0 coordinatedcub.com
 0.0.0.0 coostuni.com
 0.0.0.0 cootewie.com
