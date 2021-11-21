@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.326
 # Release: 326
-# Entries: 16,754
-# Updated: Mon, 22 Nov 21 02:04:22 +06
+# Entries: 16,755
+# Updated: Mon, 22 Nov 21 04:03:48 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -16153,6 +16153,7 @@
 0.0.0.0 www.tgzobwoutuwn.com
 0.0.0.0 www.thanksgivingwittyfrisk.com
 0.0.0.0 www.thickbabysittinghandled.com
+0.0.0.0 www.threatenlaid.com
 0.0.0.0 www.thrillingholesantarctic.com
 0.0.0.0 www.throbbingmill.com
 0.0.0.0 www.thurag.com
