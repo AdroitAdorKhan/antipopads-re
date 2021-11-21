@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.325
 # Release: 325
-# Entries: 16,699
-# Updated: Sun, 21 Nov 21 10:02:13 +06
+# Entries: 16,700
+# Updated: Sun, 21 Nov 21 12:04:23 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -11587,6 +11587,7 @@
 0.0.0.0 q0zsp5e3dv.com
 0.0.0.0 q1mediahydraplatform.com
 0.0.0.0 q6idnawboy7g.com
+0.0.0.0 qactaggxwoyla.com
 0.0.0.0 qadserve.com
 0.0.0.0 qadservice.com
 0.0.0.0 qarewien.com
