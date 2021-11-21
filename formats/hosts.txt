@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.325
 # Release: 325
-# Entries: 16,700
-# Updated: Sun, 21 Nov 21 12:04:23 +06
+# Entries: 16,701
+# Updated: Sun, 21 Nov 21 14:02:08 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -14897,6 +14897,7 @@
 0.0.0.0 vawhigufi.com
 0.0.0.0 vawsmoocah.com
 0.0.0.0 vax-now.com
+0.0.0.0 vazlshyjp.com
 0.0.0.0 vbdirlcbgc.top
 0.0.0.0 vbtrax.com
 0.0.0.0 vcdc.com
