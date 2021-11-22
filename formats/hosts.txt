@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.326
 # Release: 326
-# Entries: 16,826
-# Updated: Mon, 22 Nov 21 16:04:46 +06
+# Entries: 16,828
+# Updated: Mon, 22 Nov 21 18:03:01 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -8818,6 +8818,7 @@
 0.0.0.0 mauledinsruff.com
 0.0.0.0 mauringer.club
 0.0.0.0 mausoleumchancesfro.com
+0.0.0.0 maustiwy.net
 0.0.0.0 maustoab.net
 0.0.0.0 mauzobou.net
 0.0.0.0 mavenlohi.com
@@ -15652,6 +15653,7 @@
 0.0.0.0 wizhumpgyros.com
 0.0.0.0 wizliebeg.com
 0.0.0.0 wizwarsum.site
+0.0.0.0 wjepfwputan.top
 0.0.0.0 wjtuknniisx.top
 0.0.0.0 wkftrktwvtla.xyz
 0.0.0.0 wkll7glfazgp.com
