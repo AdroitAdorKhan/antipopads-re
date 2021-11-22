@@ -20,8 +20,8 @@
 ! Version: 21.11.327
 ! Release: 327
 ! Expires: 1 day
-! Entries: 16,842
-! Updated: Tue, 23 Nov 21 00:04:37 +06
+! Entries: 16,843
+! Updated: Tue, 23 Nov 21 02:04:38 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -15424,6 +15424,7 @@
 ||wboptim.online^
 ||wcdny.com^
 ||wcitianka.com^
+||wcjlsohd.com^
 ||wcmcs.net^
 ||wct.link^
 ||wcyrjlszoo.com^
