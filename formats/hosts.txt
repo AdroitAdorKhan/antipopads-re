@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.327
 # Release: 327
-# Entries: 16,881
-# Updated: Tue, 23 Nov 21 16:06:09 +06
+# Entries: 16,882
+# Updated: Tue, 23 Nov 21 18:02:19 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -8459,6 +8459,7 @@
 0.0.0.0 lmcfxdfbacinite.top
 0.0.0.0 lmepskqkrrya.com
 0.0.0.0 lmn-pou-win.com
+0.0.0.0 lmntcjtrhcjrlc.top
 0.0.0.0 lmsdgxbtrzvd.com
 0.0.0.0 lndjj.com
 0.0.0.0 lndonclkds.com
