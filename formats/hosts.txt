@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.327
 # Release: 327
-# Entries: 16,888
-# Updated: Tue, 23 Nov 21 20:02:10 +06
+# Entries: 16,890
+# Updated: Tue, 23 Nov 21 22:03:12 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -7763,6 +7763,7 @@
 0.0.0.0 jsmjmp.com
 0.0.0.0 jsmpsi.com
 0.0.0.0 jsmptjmp.com
+0.0.0.0 jsontdsexit.com
 0.0.0.0 jsretra.com
 0.0.0.0 jssearch.net
 0.0.0.0 jstatic.org
@@ -11247,6 +11248,7 @@
 0.0.0.0 prideidiotswarthy.com
 0.0.0.0 primaryads.com
 0.0.0.0 primechoice.ru
+0.0.0.0 primerprizezone.life
 0.0.0.0 primevalcherries.com
 0.0.0.0 primevalsymphonymuttering.com
 0.0.0.0 prime-vpnet.com
