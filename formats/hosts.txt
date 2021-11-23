@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.327
 # Release: 327
-# Entries: 16,877
-# Updated: Tue, 23 Nov 21 10:02:49 +06
+# Entries: 16,881
+# Updated: Tue, 23 Nov 21 16:06:09 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3634,6 +3634,7 @@
 0.0.0.0 cosmjs.com
 0.0.0.0 cosmopolitisiez.website
 0.0.0.0 costranchill.com
+0.0.0.0 costsholiday.com
 0.0.0.0 cotchaug.com
 0.0.0.0 cotdrollback.com
 0.0.0.0 coterybulrush.com
@@ -9000,6 +9001,7 @@
 0.0.0.0 messyoranges.com
 0.0.0.0 mestreqa.com
 0.0.0.0 mesucces.top
+0.0.0.0 metalbow.com
 0.0.0.0 metatestruck.com
 0.0.0.0 metavertising.com
 0.0.0.0 metavertizer.com
@@ -12184,6 +12186,7 @@
 0.0.0.0 resvgeeid.biz
 0.0.0.0 retaindeductionperformed.com
 0.0.0.0 retainreproofsnappy.com
+0.0.0.0 retainstorkloin.com
 0.0.0.0 retargetcore.com
 0.0.0.0 retargeter.com
 0.0.0.0 retcherruny.xyz
@@ -12502,6 +12505,7 @@
 0.0.0.0 rubsayprelude.com
 0.0.0.0 rubymgysmanmaskrufinurtdrfezya.website
 0.0.0.0 rucegipti.com
+0.0.0.0 rucksackallegation.com
 0.0.0.0 rucrop.com
 0.0.0.0 ruefulspanishresolute.com
 0.0.0.0 rufadses.net
