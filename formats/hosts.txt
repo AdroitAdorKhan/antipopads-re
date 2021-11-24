@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.328
 # Release: 328
-# Entries: 16,967
-# Updated: Wed, 24 Nov 21 20:02:08 +06
+# Entries: 16,969
+# Updated: Wed, 24 Nov 21 22:02:56 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -7017,6 +7017,7 @@
 0.0.0.0 hpyrdr.com
 0.0.0.0 hq3x.com
 0.0.0.0 hqengremtucxtaj.xyz
+0.0.0.0 hqmdsobdb.top
 0.0.0.0 hqpass.com
 0.0.0.0 hqr9q6f30371.com
 0.0.0.0 hqsnklubfp.xyz
@@ -14478,6 +14479,7 @@
 0.0.0.0 trackcapitalvane.com
 0.0.0.0 tracker-tds.info
 0.0.0.0 trackingaccount.com
+0.0.0.0 trackingapproval.com
 0.0.0.0 tracking.marketing
 0.0.0.0 trackingzen.com
 0.0.0.0 trackmundo.com
