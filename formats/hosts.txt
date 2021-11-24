@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 21.11.328
-# Release: 328
-# Entries: 16,969
-# Updated: Wed, 24 Nov 21 22:02:56 +06
+# Version: 21.11.329
+# Release: 329
+# Entries: 16,971
+# Updated: Thu, 25 Nov 21 00:03:02 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -8669,6 +8669,7 @@
 0.0.0.0 luuming.com
 0.0.0.0 luvaihoo.com
 0.0.0.0 luvnrybocrcgl.com
+0.0.0.0 luwiakgcxhclz.com
 0.0.0.0 luxadv.com
 0.0.0.0 luxins.net
 0.0.0.0 luxlnk.com
@@ -11721,6 +11722,7 @@
 0.0.0.0 putrr8.com
 0.0.0.0 putrunsspawn.com
 0.0.0.0 putstairboor.com
+0.0.0.0 puturebraving.com
 0.0.0.0 puwpush.com
 0.0.0.0 puzzledchampagneaboninableaboninable.com
 0.0.0.0 puzzledolefulcourier.com
