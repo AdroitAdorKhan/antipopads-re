@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.330
 # Release: 330
-# Entries: 17,055
-# Updated: Fri, 26 Nov 21 00:04:34 +06
+# Entries: 17,056
+# Updated: Fri, 26 Nov 21 02:03:06 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -948,6 +948,7 @@
 :: advantagespire.com
 :: advard.com
 :: adventory.com
+:: adventurouscomprehendhold.com
 :: adverkeyz.com
 :: adverpub.com
 :: adversaldisplay.com
