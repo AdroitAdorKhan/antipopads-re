@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.331
 # Release: 331
-# Entries: 17,204
-# Updated: Sat, 27 Nov 21 08:02:51 +06
+# Entries: 17,205
+# Updated: Sat, 27 Nov 21 10:02:40 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -16246,6 +16246,7 @@
 0.0.0.0 www.droppedrolling.com
 0.0.0.0 www.droztihu.com
 0.0.0.0 www.dtcpdvnojquf.com
+0.0.0.0 www.durationscuffle.com
 0.0.0.0 www.dutrag.com
 0.0.0.0 www.e2ertt.com
 0.0.0.0 www.eaesie.com
