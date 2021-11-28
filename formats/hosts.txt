@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.332
 # Release: 332
-# Entries: 17,292
-# Updated: Sun, 28 Nov 21 20:02:16 +06
+# Entries: 17,295
+# Updated: Sun, 28 Nov 21 22:02:49 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1899,6 +1899,7 @@
 0.0.0.0 b4q982rbqdsw.com
 0.0.0.0 b54m4qbmt0b9.com
 0.0.0.0 b57acfcd767.com
+0.0.0.0 b58ncoa1c07f.com
 0.0.0.0 b59812ee54afcabd.com
 0.0.0.0 b5e75c56.com
 0.0.0.0 b6aa6257a22451c.com
@@ -5133,6 +5134,7 @@
 0.0.0.0 epsqdbhrhqmbs.com
 0.0.0.0 eptouphi.com
 0.0.0.0 eptrulinebisc.xyz
+0.0.0.0 eptxgjnqrrfvao.top
 0.0.0.0 epu.sh
 0.0.0.0 eqads.com
 0.0.0.0 eqfgc.com
@@ -9863,6 +9865,7 @@
 0.0.0.0 ngdqifbomcpcju.xyz
 0.0.0.0 ngecity.com
 0.0.0.0 ngehochsi.fun
+0.0.0.0 nginldnsfh.top
 0.0.0.0 ngknowle.top
 0.0.0.0 nglmedia.com
 0.0.0.0 ngmillaget.fun
