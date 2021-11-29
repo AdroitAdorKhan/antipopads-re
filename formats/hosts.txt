@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.333
 # Release: 333
-# Entries: 17,366
-# Updated: Mon, 29 Nov 21 16:03:24 +06
+# Entries: 17,367
+# Updated: Mon, 29 Nov 21 18:02:29 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -6697,6 +6697,7 @@
 0.0.0.0 gysapiny.com
 0.0.0.0 gywugloje.com
 0.0.0.0 gyzyphepsu.pro
+0.0.0.0 gzlmknzeifjfyp.com
 0.0.0.0 h2ku87viwi.com
 0.0.0.0 h3helgf2g7k8.com
 0.0.0.0 h3lw971ym6.com
