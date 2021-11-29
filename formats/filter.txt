@@ -20,8 +20,8 @@
 ! Version: 21.11.333
 ! Release: 333
 ! Expires: 1 day
-! Entries: 17,369
-! Updated: Mon, 29 Nov 21 20:02:15 +06
+! Entries: 17,370
+! Updated: Mon, 29 Nov 21 22:02:31 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -5401,6 +5401,7 @@
 ||faciliatestudied.com^
 ||facilitategovernor.com^
 ||facilitatevoluntarily.com^
+||factha.com^
 ||faculaekrapina.com^
 ||fadbell.com^
 ||fadedauntrainy.com^
