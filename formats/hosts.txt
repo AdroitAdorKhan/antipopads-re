@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.334
 # Release: 334
-# Entries: 17,373
-# Updated: Tue, 30 Nov 21 00:03:14 +06
+# Entries: 17,375
+# Updated: Tue, 30 Nov 21 02:03:31 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -8316,6 +8316,7 @@
 0.0.0.0 kwnhekhqlprxuf.top
 0.0.0.0 kwnq4hg2n9.com
 0.0.0.0 kwsbwdsrhifeq.top
+0.0.0.0 kxclorpruisyo.com
 0.0.0.0 kybxilet.top
 0.0.0.0 kymirasite.pro
 0.0.0.0 kyoufortvl.biz
@@ -9639,6 +9640,7 @@
 0.0.0.0 mvgueuevfbw.xyz
 0.0.0.0 mvmbs.com
 0.0.0.0 mvoywyopfe.me
+0.0.0.0 mvtmkpysz.com
 0.0.0.0 mwbiwypvprg.com
 0.0.0.0 mwhxeqngiwg.top
 0.0.0.0 mwprotected.com
