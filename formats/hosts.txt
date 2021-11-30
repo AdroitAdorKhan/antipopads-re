@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 21.11.334
-# Release: 334
-# Entries: 17,489
-# Updated: Tue, 30 Nov 21 22:02:21 +06
+# Version: 21.12.335
+# Release: 335
+# Entries: 17,492
+# Updated: Wed, 01 Dec 21 00:05:24 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3622,6 +3622,7 @@
 0.0.0.0 construment.com
 0.0.0.0 consultantsow.com
 0.0.0.0 consultanttrash.com
+0.0.0.0 consultingeastrubber.com
 0.0.0.0 consumergenepool.com
 0.0.0.0 contagionrugby.com
 0.0.0.0 contagiousarrangementsilly.com
@@ -6933,6 +6934,7 @@
 0.0.0.0 hesterinoc.info
 0.0.0.0 hetaint.com
 0.0.0.0 hetapus.com
+0.0.0.0 hetartwg.com
 0.0.0.0 hetaruvg.com
 0.0.0.0 hetaruwg.com
 0.0.0.0 hethereasso.top
@@ -10508,6 +10510,7 @@
 0.0.0.0 omnidokingon.com
 0.0.0.0 omoaxaus.net
 0.0.0.0 omoonsih.net
+0.0.0.0 omphantumpom.com
 0.0.0.0 omplacearbit.xyz
 0.0.0.0 omporygonr.com
 0.0.0.0 omrugfrjkr.top
