@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.11.334
 # Release: 334
-# Entries: 17,485
-# Updated: Tue, 30 Nov 21 20:02:51 +06
+# Entries: 17,489
+# Updated: Tue, 30 Nov 21 22:02:21 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -995,6 +995,7 @@
 0.0.0.0 adxadserv.com
 0.0.0.0 adxbid.info
 0.0.0.0 adxbid.me
+0.0.0.0 adxbksvop.top
 0.0.0.0 adxchg.com
 0.0.0.0 adxcore.com
 0.0.0.0 adxion.com
@@ -7975,6 +7976,7 @@
 0.0.0.0 joymopwrites.com
 0.0.0.0 joyvowdig.com
 0.0.0.0 jpajucyoqhvff.top
+0.0.0.0 jpdgvdhq.top
 0.0.0.0 jpdniuaaqt.xyz
 0.0.0.0 jpttaebd.xyz
 0.0.0.0 jqcgyjwidktu.xyz
@@ -8181,6 +8183,7 @@
 0.0.0.0 kftlldvkhk.xyz
 0.0.0.0 kfwpyyctzmpk.com
 0.0.0.0 kg8l81yh7vnf.com
+0.0.0.0 kgdocoxt.top
 0.0.0.0 kgdvs9ov3l2aasw4nuts.com
 0.0.0.0 kgthputeelbyp.com
 0.0.0.0 kgxnaenrozyuh.com
@@ -11002,6 +11005,7 @@
 0.0.0.0 payslipsscowl.com
 0.0.0.0 pazzfun.com
 0.0.0.0 pbcde.com
+0.0.0.0 pbcdkqjdqx.top
 0.0.0.0 pbhrxxcuobz.com
 0.0.0.0 pbterra.com
 0.0.0.0 pc180101.com
