@@ -20,8 +20,8 @@
 ! Version: 21.12.335
 ! Release: 335
 ! Expires: 1 day
-! Entries: 17,549
-! Updated: Wed, 01 Dec 21 08:03:00 +06
+! Entries: 17,551
+! Updated: Wed, 01 Dec 21 16:03:04 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -710,6 +710,7 @@
 ||addroplet.com^
 ||adequalitys.xyz^
 ||adequality.xyz^
+||aderstono.one^
 ||adexchangecloud.com^
 ||adexchangedirect.com^
 ||adexchangegate.com^
@@ -5274,6 +5275,7 @@
 ||etruet.com^
 ||ettilt.com^
 ||euctah.com^
+||eudoxia-myr.com^
 ||euolqabh.xyz^
 ||euovfldsups.top^
 ||euphoniserent.xyz^

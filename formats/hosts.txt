@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.335
 # Release: 335
-# Entries: 17,549
-# Updated: Wed, 01 Dec 21 08:03:00 +06
+# Entries: 17,551
+# Updated: Wed, 01 Dec 21 16:03:04 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -709,6 +709,7 @@
 0.0.0.0 addroplet.com
 0.0.0.0 adequalitys.xyz
 0.0.0.0 adequality.xyz
+0.0.0.0 aderstono.one
 0.0.0.0 adexchangecloud.com
 0.0.0.0 adexchangedirect.com
 0.0.0.0 adexchangegate.com
@@ -5273,6 +5274,7 @@
 0.0.0.0 etruet.com
 0.0.0.0 ettilt.com
 0.0.0.0 euctah.com
+0.0.0.0 eudoxia-myr.com
 0.0.0.0 euolqabh.xyz
 0.0.0.0 euovfldsups.top
 0.0.0.0 euphoniserent.xyz
