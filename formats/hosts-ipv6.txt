@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.336
 # Release: 336
-# Entries: 17,642
-# Updated: Thu, 02 Dec 21 10:02:28 +06
+# Entries: 17,644
+# Updated: Thu, 02 Dec 21 12:04:35 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -10028,6 +10028,7 @@
 :: newsbest.org
 :: newscredentialrelative.com
 :: news-easy.org
+:: newsforyoy.com
 :: news-headlines.co
 :: newsjuices.com
 :: news-jupiter.com
@@ -15172,6 +15173,7 @@
 :: tsmyalesc.club
 :: tspops.com
 :: tsrtwntlxjlrsk.top
+:: tssandycateup.com
 :: tsuam.com
 :: tswmel.com
 :: tsyndicate.com
