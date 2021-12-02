@@ -20,8 +20,8 @@
 ! Version: 21.12.336
 ! Release: 336
 ! Expires: 1 day
-! Entries: 17,646
-! Updated: Thu, 02 Dec 21 16:06:55 +06
+! Entries: 17,647
+! Updated: Thu, 02 Dec 21 18:02:00 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -3338,6 +3338,7 @@
 ||cleverwebserver.com^
 ||clevv.com^
 ||clfxjrlui.com^
+||clfxts.com^
 ||cliand.com^
 ||clic2pub.com^
 ||clicadu.com^
