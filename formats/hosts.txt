@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.337
 # Release: 337
-# Entries: 17,733
-# Updated: Fri, 03 Dec 21 18:02:41 +06
+# Entries: 17,735
+# Updated: Fri, 03 Dec 21 20:02:45 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -5247,6 +5247,7 @@
 0.0.0.0 erenowcommie.com
 0.0.0.0 erewasnos.xyz
 0.0.0.0 ergadx.com
+0.0.0.0 ergdungalga.cam
 0.0.0.0 eriexxbq.top
 0.0.0.0 eriniquep.club
 0.0.0.0 eriwmieqmyq.top
@@ -7292,6 +7293,7 @@
 0.0.0.0 hrahdmon.com
 0.0.0.0 hrbxpnwutubedmx.top
 0.0.0.0 hrckrtxrmnwna.top
+0.0.0.0 hrsaeecwvkg.com
 0.0.0.0 hrsstrokecocoon.com
 0.0.0.0 hsalnwtvutsi.top
 0.0.0.0 hsh51nvkrv.com
