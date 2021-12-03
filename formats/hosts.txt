@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.338
 # Release: 338
-# Entries: 17,742
-# Updated: Sat, 04 Dec 21 00:05:19 +06
+# Entries: 17,743
+# Updated: Sat, 04 Dec 21 02:02:32 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -10441,6 +10441,7 @@
 0.0.0.0 nyalacornily.cam
 0.0.0.0 nycppsiwwhirme.top
 0.0.0.0 nyetm2mkch.com
+0.0.0.0 nygvejyn.com
 0.0.0.0 nyjixoco.com
 0.0.0.0 nymolf.com
 0.0.0.0 nymotuda.com
