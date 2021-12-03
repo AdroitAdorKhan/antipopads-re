@@ -19,8 +19,8 @@
 # Format: domains
 # Version: 21.12.337
 # Release: 337
-# Entries: 17,735
-# Updated: Fri, 03 Dec 21 20:02:45 +06
+# Entries: 17,736
+# Updated: Fri, 03 Dec 21 22:02:20 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1830,6 +1830,7 @@ awaitdetestableitem.com
 awaitssnerp.com
 awakeexterior.com
 awardpodstab.com
+awardpool.com
 awarentew.xyz
 away-stay.com
 awayteemage.com
