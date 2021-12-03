@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.338
 # Release: 338
-# Entries: 17,743
-# Updated: Sat, 04 Dec 21 02:02:32 +06
+# Entries: 17,744
+# Updated: Sat, 04 Dec 21 04:02:58 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -14794,6 +14794,7 @@
 0.0.0.0 thepopads.com
 0.0.0.0 thepornsurvey.com
 0.0.0.0 thepubedo.com
+0.0.0.0 the-real-girls.life
 0.0.0.0 therequire.biz
 0.0.0.0 therubiqube.com
 0.0.0.0 thetarhaw.com
