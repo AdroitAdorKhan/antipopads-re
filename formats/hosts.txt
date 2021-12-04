@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.338
 # Release: 338
-# Entries: 17,887
-# Updated: Sat, 04 Dec 21 20:05:18 +06
+# Entries: 17,889
+# Updated: Sat, 04 Dec 21 22:02:19 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2112,6 +2112,7 @@
 0.0.0.0 bcdnfk.com
 0.0.0.0 bce97f29c40fc40.com
 0.0.0.0 bcfabscdt.com
+0.0.0.0 bcjpxtxn.top
 0.0.0.0 bckfnohmg.com
 0.0.0.0 bcloudhost.com
 0.0.0.0 bcmecwqswvgyuvy.top
@@ -9872,6 +9873,7 @@
 0.0.0.0 mudshambone.com
 0.0.0.0 muffinyourself.com
 0.0.0.0 muffledgleeful.com
+0.0.0.0 muftidaphnin.casa
 0.0.0.0 mugaskems.com
 0.0.0.0 muggedlancemutilate.com
 0.0.0.0 mugleafly.com
