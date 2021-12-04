@@ -20,8 +20,8 @@
 ! Version: 21.12.338
 ! Release: 338
 ! Expires: 1 day
-! Entries: 17,744
-! Updated: Sat, 04 Dec 21 04:02:58 +06
+! Entries: 17,745
+! Updated: Sat, 04 Dec 21 06:02:14 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -10841,6 +10841,7 @@
 ||ordealgraveyard.com^
 ||oreflushvehemence.com^
 ||organicflametail.com^
+||orgxts.com^
 ||orientneedlehurts.com^
 ||origer.info^
 ||originalcharactercausing.com^
