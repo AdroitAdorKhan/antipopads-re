@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 21.12.339
-# Release: 339
-# Entries: 17,988
-# Updated: Sun, 05 Dec 21 22:02:13 +06
+# Version: 21.12.340
+# Release: 340
+# Entries: 17,989
+# Updated: Mon, 06 Dec 21 02:04:23 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2909,6 +2909,7 @@
 0.0.0.0 calmcough.com
 0.0.0.0 calorieintimidating.com
 0.0.0.0 calsulro.net
+0.0.0.0 calumnylightlyspider.com
 0.0.0.0 calumnythreaten.com
 0.0.0.0 calvali.com
 0.0.0.0 camakaroda.com
