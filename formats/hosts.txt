@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.339
 # Release: 339
-# Entries: 17,953
-# Updated: Sun, 05 Dec 21 14:02:05 +06
+# Entries: 17,954
+# Updated: Sun, 05 Dec 21 16:02:19 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -12381,6 +12381,7 @@
 0.0.0.0 pvptwhhkfmog.com
 0.0.0.0 pwdthucrneyc.top
 0.0.0.0 pweaatek.com
+0.0.0.0 pwigekcyr.com
 0.0.0.0 pwmpafbvpovdp.top
 0.0.0.0 pwnwiltpear.com
 0.0.0.0 pwrads.net
