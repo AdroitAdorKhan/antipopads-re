@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.343
 # Release: 343
-# Entries: 18,450
-# Updated: Thu, 09 Dec 21 08:03:18 +06
+# Entries: 18,451
+# Updated: Thu, 09 Dec 21 10:02:38 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -17595,6 +17595,7 @@
 0.0.0.0 www.oqrjbnriumr.com
 0.0.0.0 www.otdsngganpsgru.com
 0.0.0.0 www.oudccdjvh.com
+0.0.0.0 www.oursgorefreshing.com
 0.0.0.0 www.ozukoturkiye.site
 0.0.0.0 www.paginx.com
 0.0.0.0 www.pamphletrating.com
