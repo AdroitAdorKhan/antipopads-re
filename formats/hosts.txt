@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.344
 # Release: 344
-# Entries: 18,481
-# Updated: Fri, 10 Dec 21 00:03:48 +06
+# Entries: 18,482
+# Updated: Fri, 10 Dec 21 04:03:13 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2499,6 +2499,7 @@
 0.0.0.0 blueadvertise.com
 0.0.0.0 bluedawning.com
 0.0.0.0 bluemaulpuffs.com
+0.0.0.0 blueoyster.click
 0.0.0.0 blueparrot.media
 0.0.0.0 blueswordksh.com
 0.0.0.0 bluffrebuke.com

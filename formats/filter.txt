@@ -20,8 +20,8 @@
 ! Version: 21.12.344
 ! Release: 344
 ! Expires: 1 day
-! Entries: 18,481
-! Updated: Fri, 10 Dec 21 00:03:48 +06
+! Entries: 18,482
+! Updated: Fri, 10 Dec 21 04:03:13 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -2500,6 +2500,7 @@
 ||blueadvertise.com^
 ||bluedawning.com^
 ||bluemaulpuffs.com^
+||blueoyster.click^
 ||blueparrot.media^
 ||blueswordksh.com^
 ||bluffrebuke.com^
