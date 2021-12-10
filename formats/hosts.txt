@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.345
 # Release: 345
-# Entries: 18,587
-# Updated: Sat, 11 Dec 21 02:03:26 +06
+# Entries: 18,588
+# Updated: Sat, 11 Dec 21 04:04:36 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3399,6 +3399,7 @@
 0.0.0.0 cjmpdtnyqi.top
 0.0.0.0 cjsossrbji.xyz
 0.0.0.0 cjtsnykfedv.top
+0.0.0.0 ckeckstatus.biz
 0.0.0.0 ckfmccqvog.top
 0.0.0.0 ckre.net
 0.0.0.0 ckrf1.com
