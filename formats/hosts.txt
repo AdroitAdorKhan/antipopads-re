@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.345
 # Release: 345
-# Entries: 18,585
-# Updated: Sat, 11 Dec 21 00:03:04 +06
+# Entries: 18,587
+# Updated: Sat, 11 Dec 21 02:03:26 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -8545,6 +8545,7 @@
 0.0.0.0 jwplayer.space
 0.0.0.0 jwt8e5vzc1.com
 0.0.0.0 jwvwak1a.com
+0.0.0.0 jwyiyqptg.com
 0.0.0.0 jyagyffnbysg.com
 0.0.0.0 jycdnjnz.com
 0.0.0.0 jygotubvpyguak.com
@@ -16034,6 +16035,7 @@
 0.0.0.0 txmboigodejgj.xyz
 0.0.0.0 txqhjbng.top
 0.0.0.0 tyargupdbtyxt.me
+0.0.0.0 tyewrukjyjyl.com
 0.0.0.0 tygafso.com
 0.0.0.0 tyjawhesu.com
 0.0.0.0 tylistedpro.xyz
