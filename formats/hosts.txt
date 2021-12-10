@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.344
 # Release: 344
-# Entries: 18,556
-# Updated: Fri, 10 Dec 21 20:02:33 +06
+# Entries: 18,563
+# Updated: Fri, 10 Dec 21 22:02:43 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2681,6 +2681,7 @@
 0.0.0.0 brainlyads.com
 0.0.0.0 brakesoutright.com
 0.0.0.0 branchr.com
+0.0.0.0 branchseriescomposed.com
 0.0.0.0 brandads.net
 0.0.0.0 brandaffinity.net
 0.0.0.0 brandclik.com
@@ -7199,6 +7200,7 @@
 0.0.0.0 hbtzzlcxfijk.com
 0.0.0.0 hcattgdwtw.top
 0.0.0.0 hcblepqht.top
+0.0.0.0 hcbqavvkbdyl.top
 0.0.0.0 hcesmrksvwv.top
 0.0.0.0 hcg82f2b.com
 0.0.0.0 hconsukulti.co
@@ -8188,6 +8190,7 @@
 0.0.0.0 ivemwjkbkjtb.top
 0.0.0.0 ivepdiwslclulq.com
 0.0.0.0 ivjkdyrjjgxhch.com
+0.0.0.0 ivkrlktsji.top
 0.0.0.0 ivqcgmkup.top
 0.0.0.0 ivtcdnhshx.com
 0.0.0.0 ivwtqfbmkwen.com
@@ -9380,6 +9383,7 @@
 0.0.0.0 lqbrelfmigiqv.top
 0.0.0.0 lqeevjgkjjwi.com
 0.0.0.0 lqgbqafvfga.xyz
+0.0.0.0 lqtifreww.top
 0.0.0.0 lqtxjrhweoc.top
 0.0.0.0 lqw.me
 0.0.0.0 lrqaocbji.top
@@ -10267,6 +10271,7 @@
 0.0.0.0 mvmbs.com
 0.0.0.0 mvoywyopfe.me
 0.0.0.0 mvtmkpysz.com
+0.0.0.0 mwapenajupprrh.top
 0.0.0.0 mwbiwypvprg.com
 0.0.0.0 mwhxeqngiwg.top
 0.0.0.0 mwprotected.com
@@ -15790,6 +15795,7 @@
 0.0.0.0 trandlife.info
 0.0.0.0 transientdeteriorate.com
 0.0.0.0 translatecomicloss.com
+0.0.0.0 translationerrandviolin.com
 0.0.0.0 transmittericilysunstroke.com
 0.0.0.0 transmitterremember.com
 0.0.0.0 traost.com
@@ -16939,6 +16945,7 @@
 0.0.0.0 wbidr.com
 0.0.0.0 wboptim.online
 0.0.0.0 wcdny.com
+0.0.0.0 wcgceaermafv.top
 0.0.0.0 wcitianka.com
 0.0.0.0 wcjlsohd.com
 0.0.0.0 wcmcs.net
