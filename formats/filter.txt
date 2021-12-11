@@ -20,8 +20,8 @@
 ! Version: 21.12.345
 ! Release: 345
 ! Expires: 1 day
-! Entries: 18,625
-! Updated: Sat, 11 Dec 21 10:02:34 +06
+! Entries: 18,626
+! Updated: Sat, 11 Dec 21 16:03:43 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -10809,6 +10809,7 @@
 ||nowlooking.net^
 ||nowqjsfidspse.top^
 ||nowspots.com^
+||nowtrending.buzz^
 ||nowtrk.com^
 ||noxngtixn.top^
 ||nozzorli.com^
