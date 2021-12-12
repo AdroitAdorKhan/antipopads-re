@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 21.12.345
-# Release: 345
-# Entries: 18,652
-# Updated: Sat, 11 Dec 21 20:02:30 +06
+# Version: 21.12.346
+# Release: 346
+# Entries: 18,654
+# Updated: Sun, 12 Dec 21 06:02:22 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2471,6 +2471,7 @@
 0.0.0.0 bleinu.com
 0.0.0.0 blenkbenched.casa
 0.0.0.0 bleopi.com
+0.0.0.0 blessedwin.life
 0.0.0.0 blessgarments.com
 0.0.0.0 blfakcwgcs.top
 0.0.0.0 blfjwrii.top
@@ -4248,6 +4249,7 @@
 0.0.0.0 databledieses.com
 0.0.0.0 data-data-vac.com
 0.0.0.0 date-4-fuck.com
+0.0.0.0 date-4u-today.life
 0.0.0.0 dateddeed.com
 0.0.0.0 datefinderbest1.com
 0.0.0.0 datefindlocal1.com
