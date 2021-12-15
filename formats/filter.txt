@@ -20,8 +20,8 @@
 ! Version: 21.12.349
 ! Release: 349
 ! Expires: 1 day
-! Entries: 18,968
-! Updated: Wed, 15 Dec 21 16:05:13 +06
+! Entries: 18,969
+! Updated: Wed, 15 Dec 21 18:03:13 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -6632,6 +6632,7 @@
 ||genesismedia.com^
 ||geneticdiminishblake.com^
 ||geniad.net^
+||genigh.com^
 ||genishury.pro^
 ||genistawabbler.com^
 ||geniusdexchange.com^
