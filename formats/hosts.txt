@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.349
 # Release: 349
-# Entries: 18,992
-# Updated: Wed, 15 Dec 21 20:03:52 +06
+# Entries: 18,994
+# Updated: Wed, 15 Dec 21 22:02:44 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1839,6 +1839,7 @@
 0.0.0.0 austerityabruptnessall.com
 0.0.0.0 austrypulsory.club
 0.0.0.0 ausumtee.com
+0.0.0.0 autchoog.net
 0.0.0.0 auteboon.net
 0.0.0.0 authoritygratecreed.com
 0.0.0.0 authorneratu.club
@@ -17097,6 +17098,7 @@
 0.0.0.0 voluumtrk3.com
 0.0.0.0 voluumtrk.com
 0.0.0.0 volyze.com
+0.0.0.0 vooculok.com
 0.0.0.0 voonogoa.net
 0.0.0.0 vooshagy.net
 0.0.0.0 voradu.com
