@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.350
 # Release: 350
-# Entries: 19,052
-# Updated: Thu, 16 Dec 21 16:03:20 +06
+# Entries: 19,055
+# Updated: Thu, 16 Dec 21 18:03:04 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2608,6 +2608,7 @@
 0.0.0.0 boguaokxhdsa.com
 0.0.0.0 boguetrust.com
 0.0.0.0 bogusadmiral.com
+0.0.0.0 bogwoodleprosy.com
 0.0.0.0 bohowhepsandked.info
 0.0.0.0 boilerstab.com
 0.0.0.0 boilstaircasehug.com
@@ -4880,6 +4881,7 @@
 0.0.0.0 doushoom.net
 0.0.0.0 douthosh.net
 0.0.0.0 doveprovidingyear.com
+0.0.0.0 dowfbrodder.com
 0.0.0.0 down1oads.com
 0.0.0.0 downloadboutique.com
 0.0.0.0 downloadgot.com
@@ -6624,6 +6626,7 @@
 0.0.0.0 geebicom.net
 0.0.0.0 geedoovu.net
 0.0.0.0 geehizie.com
+0.0.0.0 geeksundigne.com
 0.0.0.0 geethoap.com
 0.0.0.0 gefadythi.pro
 0.0.0.0 geffortyser.top
