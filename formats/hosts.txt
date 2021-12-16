@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.350
 # Release: 350
-# Entries: 19,050
-# Updated: Thu, 16 Dec 21 14:05:55 +06
+# Entries: 19,052
+# Updated: Thu, 16 Dec 21 16:03:20 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1393,6 +1393,7 @@
 0.0.0.0 amjoltiktor.com
 0.0.0.0 ammankeyan.com
 0.0.0.0 amnestynanny.com
+0.0.0.0 amnqkhbsloccx.top
 0.0.0.0 amoddishor.com
 0.0.0.0 amojgryjdmkve.top
 0.0.0.0 amorphysp.fun
@@ -13816,6 +13817,7 @@
 0.0.0.0 riziftoo.com
 0.0.0.0 rj2ro1x3j4ht.com
 0.0.0.0 rjciwosmkmfvuds.top
+0.0.0.0 rjmgpqyswfjif.top
 0.0.0.0 rjtcrxzd.com
 0.0.0.0 rjupyipbjprur.me
 0.0.0.0 rjw4obbw.com
