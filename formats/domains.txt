@@ -19,8 +19,8 @@
 # Format: domains
 # Version: 21.12.350
 # Release: 350
-# Entries: 19,049
-# Updated: Thu, 16 Dec 21 12:05:54 +06
+# Entries: 19,050
+# Updated: Thu, 16 Dec 21 14:05:55 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -19032,6 +19032,7 @@ zoopsame.com
 zop381q5o0q1.com
 zorango.com
 zordough.com
+zouboque.com
 zouhewee.com
 zoukooso.com
 zouloafi.net
