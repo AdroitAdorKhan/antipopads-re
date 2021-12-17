@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 21.12.351
-# Release: 351
-# Entries: 19,154
-# Updated: Fri, 17 Dec 21 20:02:29 +06
+# Version: 21.12.352
+# Release: 352
+# Entries: 19,164
+# Updated: Sat, 18 Dec 21 00:02:55 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -4083,6 +4083,7 @@
 0.0.0.0 crowdgravity.com
 0.0.0.0 crptentry.com
 0.0.0.0 crptgate.com
+0.0.0.0 crrepo.com
 0.0.0.0 crtracklink.com
 0.0.0.0 crudeartfulrecreate.com
 0.0.0.0 crudestoctdra.cam
@@ -4901,6 +4902,7 @@
 0.0.0.0 downloadgot.com
 0.0.0.0 downloadmobile.info
 0.0.0.0 download-performance.com
+0.0.0.0 download-readynow.com
 0.0.0.0 downloadss.info
 0.0.0.0 downloadthesefile.com
 0.0.0.0 down-paradise.com
@@ -9276,6 +9278,7 @@
 0.0.0.0 leagent.info
 0.0.0.0 leakypatgoo.com
 0.0.0.0 leanerbivouac.cam
+0.0.0.0 leapretrieval.com
 0.0.0.0 leaprivers.com
 0.0.0.0 leaptrade.com
 0.0.0.0 learnedmarket.com
@@ -11746,6 +11749,7 @@
 0.0.0.0 outblowtewhit.com
 0.0.0.0 outchinchour.com
 0.0.0.0 outelectrodean.com
+0.0.0.0 outgra.com
 0.0.0.0 outhulem.net
 0.0.0.0 outkickanoxic.com
 0.0.0.0 outlaybuymidnight.com
@@ -11766,6 +11770,7 @@
 0.0.0.0 outworkincur.com
 0.0.0.0 outyanmegaom.com
 0.0.0.0 ouzoadru.net
+0.0.0.0 ovemen.com
 0.0.0.0 ovenbifaces.cam
 0.0.0.0 overboardinclose.com
 0.0.0.0 overboardinflected.com
@@ -11791,6 +11796,7 @@
 0.0.0.0 overworkrefinemoon.com
 0.0.0.0 overyfamiliar.biz
 0.0.0.0 overzoruaon.com
+0.0.0.0 oveukrnmen.com
 0.0.0.0 ovfpfofu.top
 0.0.0.0 ovibospeseta.com
 0.0.0.0 oviparaatalan.com
@@ -13788,6 +13794,7 @@
 0.0.0.0 rgcfllkeio.top
 0.0.0.0 rgggqatcwa.top
 0.0.0.0 rggtysyp.com
+0.0.0.0 rgjvulatu.top
 0.0.0.0 rgphgvunjg.me
 0.0.0.0 rgvqcsxqge.com
 0.0.0.0 rh1hilm7j0ae.com
@@ -14772,6 +14779,7 @@
 0.0.0.0 sincerelypractically.com
 0.0.0.0 sinceresubstance.com
 0.0.0.0 singersemblanceby.com
+0.0.0.0 singlerefresh.club
 0.0.0.0 singlesexdates.com
 0.0.0.0 singroot.com
 0.0.0.0 sinisterdinepuberty.com
@@ -15840,6 +15848,7 @@
 0.0.0.0 tgpsew.com
 0.0.0.0 tgzobwoutuwn.com
 0.0.0.0 thabookr.net
+0.0.0.0 thague.com
 0.0.0.0 thaibeco.com
 0.0.0.0 thaickoo.net
 0.0.0.0 thaihats.net
@@ -16602,6 +16611,7 @@
 0.0.0.0 ularnyltbaoejw.top
 0.0.0.0 ularunicalrep.info
 0.0.0.0 ulathana.com
+0.0.0.0 ulbackground.com
 0.0.0.0 ulcerselfservice.com
 0.0.0.0 ulcerstopers.cam
 0.0.0.0 uldcvrxpg.top
