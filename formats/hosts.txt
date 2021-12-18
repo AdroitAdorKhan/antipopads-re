@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 21.12.352
-# Release: 352
-# Entries: 19,254
-# Updated: Sat, 18 Dec 21 22:02:08 +06
+# Version: 21.12.353
+# Release: 353
+# Entries: 19,256
+# Updated: Sun, 19 Dec 21 00:04:54 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -8324,6 +8324,7 @@
 0.0.0.0 iphonehub.info
 0.0.0.0 iphumiki.com
 0.0.0.0 ipiech.com
+0.0.0.0 ipjvrkudtfxwodj.top
 0.0.0.0 ipmiumjdgyrqko.top
 0.0.0.0 ipmwebuunmx.info
 0.0.0.0 ipngurper.top
@@ -9471,6 +9472,7 @@
 0.0.0.0 linicom.co.uk
 0.0.0.0 linkbuddies.com
 0.0.0.0 linkclicks.com
+0.0.0.0 linkedgraceless.com
 0.0.0.0 linkedprepenseprepense.com
 0.0.0.0 linkeinvitable.site
 0.0.0.0 linkelevator.com
