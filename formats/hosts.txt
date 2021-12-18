@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.352
 # Release: 352
-# Entries: 19,166
-# Updated: Sat, 18 Dec 21 02:04:38 +06
+# Entries: 19,167
+# Updated: Sat, 18 Dec 21 06:01:56 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -13850,6 +13850,7 @@
 0.0.0.0 rightfullyanatomyseries.com
 0.0.0.0 rightiescolled.club
 0.0.0.0 rightnativecontent.com
+0.0.0.0 rightnow-dating.life
 0.0.0.0 rightthelicensees.pw
 0.0.0.0 rigourcrispblaspheme.com
 0.0.0.0 rigourflickmarketing.com
