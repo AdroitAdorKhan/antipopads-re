@@ -20,8 +20,8 @@
 ! Version: 21.12.352
 ! Release: 352
 ! Expires: 1 day
-! Entries: 19,203
-! Updated: Sat, 18 Dec 21 08:02:39 +06
+! Entries: 19,204
+! Updated: Sat, 18 Dec 21 14:01:53 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -6892,6 +6892,7 @@
 ||globaladsales.com^
 ||globaladv.net^
 ||global-dates-here.com^
+||global-dates-here.life^
 ||globalinteractive.com^
 ||globalsuccessclub.com^
 ||globaltraffico.com^
