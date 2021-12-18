@@ -20,8 +20,8 @@
 ! Version: 21.12.353
 ! Release: 353
 ! Expires: 1 day
-! Entries: 19,256
-! Updated: Sun, 19 Dec 21 00:04:54 +06
+! Entries: 19,258
+! Updated: Sun, 19 Dec 21 02:02:15 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -8838,6 +8838,7 @@
 ||kanoodle.com^
 ||kantarmedia.com^
 ||kantiwl.com^
+||kaoftrknb.com^
 ||kaptytypso.com^
 ||kaqbesov.xyz^
 ||karrfptj.top^
@@ -13235,6 +13236,7 @@
 ||qfikhbhs.top^
 ||qfjherc.com^
 ||qfnnmpjakff.xyz^
+||qfvedpldkde.com^
 ||qfvmrpbxbyqbiqc.top^
 ||qfwejbmqsajlfv.top^
 ||qfwjclpckrdehi.com^
