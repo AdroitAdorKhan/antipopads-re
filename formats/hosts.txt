@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.352
 # Release: 352
-# Entries: 19,253
-# Updated: Sat, 18 Dec 21 20:02:07 +06
+# Entries: 19,254
+# Updated: Sat, 18 Dec 21 22:02:08 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -235,6 +235,7 @@
 0.0.0.0 3sk7d418al8u.com
 0.0.0.0 3wr110.net
 0.0.0.0 3wr110.xyz
+0.0.0.0 3www.bnhtml.com
 0.0.0.0 407433bfc441.com
 0.0.0.0 40a1eca447d.com
 0.0.0.0 40ceexln7929.com
