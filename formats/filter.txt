@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 21.12.353
-! Release: 353
+! Version: 21.12.354
+! Release: 354
 ! Expires: 1 day
-! Entries: 19,320
-! Updated: Sun, 19 Dec 21 20:01:57 +06
+! Entries: 19,321
+! Updated: Mon, 20 Dec 21 04:04:32 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -8742,6 +8742,7 @@
 ||jrjvnimxytsms.top^
 ||jrpkizae.com^
 ||jrrsavwlb.top^
+||js7k.com^
 ||jscdn.online^
 ||jscloud.org^
 ||jscount.com^
