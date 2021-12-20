@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.354
 # Release: 354
-# Entries: 19,359
-# Updated: Mon, 20 Dec 21 08:02:27 +06
+# Entries: 19,361
+# Updated: Mon, 20 Dec 21 18:02:17 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -7153,6 +7153,7 @@
 0.0.0.0 greatedclu.fun
 0.0.0.0 greatimprudencecuriosity.com
 0.0.0.0 greatkneadsuburb.com
+0.0.0.0 great-loverhere.life
 0.0.0.0 greatmentef.club
 0.0.0.0 great-place4u.life
 0.0.0.0 greatprizeline.life
@@ -15672,6 +15673,7 @@
 0.0.0.0 superstriker.net
 0.0.0.0 supertrackingz.com
 0.0.0.0 supervisionuniversal.com
+0.0.0.0 suplinuxearying.com
 0.0.0.0 supperopeningturnstile.com
 0.0.0.0 supplyglossailment.com
 0.0.0.0 supportiveimpassableevasion.com
