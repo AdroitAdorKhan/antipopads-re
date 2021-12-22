@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.356
 # Release: 356
-# Entries: 19,554
-# Updated: Wed, 22 Dec 21 08:04:40 +06
+# Entries: 19,557
+# Updated: Wed, 22 Dec 21 10:02:03 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -353,6 +353,7 @@
 0.0.0.0 6b4bcc240ad94.com
 0.0.0.0 6bgaput9ullc.com
 0.0.0.0 6c6a4ec4e8b80d4.com
+0.0.0.0 6d79qh7j.com
 0.0.0.0 6e2f1d2ae033.com
 0.0.0.0 6ea56485aed0c.com
 0.0.0.0 6f1dba68f65.com
@@ -18766,6 +18767,7 @@
 0.0.0.0 www.stupidsluice.com
 0.0.0.0 www.subjectslisted.com
 0.0.0.0 www.subjectslisted.comwww.subjectslisted.com
+0.0.0.0 www.submissionhunk.com
 0.0.0.0 www.subqueriessalutationcurtain.com
 0.0.0.0 www.suctioneliminatecongestion.com
 0.0.0.0 www.suffocatepremise.com
@@ -18804,6 +18806,7 @@
 0.0.0.0 www.trafficmoon.com
 0.0.0.0 www.tragedyadvertisecosmetic.com
 0.0.0.0 www.treasuresensignron.com
+0.0.0.0 www.trektinyreproduce.com
 0.0.0.0 www.trunkmafia.com
 0.0.0.0 www.trustedgatetocontent.com
 0.0.0.0 www.trustworthytopmost.com
