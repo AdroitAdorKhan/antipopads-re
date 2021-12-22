@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.356
 # Release: 356
-# Entries: 19,557
-# Updated: Wed, 22 Dec 21 10:02:03 +06
+# Entries: 19,558
+# Updated: Wed, 22 Dec 21 14:04:11 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -18281,6 +18281,7 @@
 0.0.0.0 wwsercher.biz
 0.0.0.0 wwvwnxrisos.com
 0.0.0.0 www.absolutionbravery.com
+0.0.0.0 www.accomplishmentstrandedcuddle.com
 0.0.0.0 www.accomplishplunderbreeches.com
 0.0.0.0 www.acirtpkh.com
 0.0.0.0 www.adulatoryrabid.com
