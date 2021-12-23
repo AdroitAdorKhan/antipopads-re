@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.357
 # Release: 357
-# Entries: 19,676
-# Updated: Thu, 23 Dec 21 20:02:07 +06
+# Entries: 19,677
+# Updated: Thu, 23 Dec 21 22:02:25 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -18922,6 +18922,7 @@
 0.0.0.0 www.treasuresensignron.com
 0.0.0.0 www.trektinyreproduce.com
 0.0.0.0 www.trunkmafia.com
+0.0.0.0 www.trustedcpmrevenue.com
 0.0.0.0 www.trustedgatetocontent.com
 0.0.0.0 www.trustworthytopmost.com
 0.0.0.0 www.truthfulstem.com
