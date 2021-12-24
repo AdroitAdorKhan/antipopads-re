@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.358
 # Release: 358
-# Entries: 19,724
-# Updated: Fri, 24 Dec 21 08:02:25 +06
+# Entries: 19,725
+# Updated: Fri, 24 Dec 21 16:04:32 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -17744,6 +17744,7 @@
 0.0.0.0 vowcertainly.com
 0.0.0.0 voxfind.com
 0.0.0.0 voyagecondom.com
+0.0.0.0 voyeasedlessinder.com
 0.0.0.0 vpagzcjp.com
 0.0.0.0 vpebzerg.com
 0.0.0.0 vpico.com
