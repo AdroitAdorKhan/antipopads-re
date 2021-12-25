@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.359
 # Release: 359
-# Entries: 19,793
-# Updated: Sat, 25 Dec 21 08:02:18 +06
+# Entries: 19,794
+# Updated: Sat, 25 Dec 21 16:02:07 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -12231,6 +12231,7 @@
 0.0.0.0 paddocsweek.com
 0.0.0.0 padma-fed.com
 0.0.0.0 padpitnon.site
+0.0.0.0 padpullpact.com
 0.0.0.0 padsabz.com
 0.0.0.0 padsans.com
 0.0.0.0 padsanz.com

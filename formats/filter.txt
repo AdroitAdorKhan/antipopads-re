@@ -20,8 +20,8 @@
 ! Version: 21.12.359
 ! Release: 359
 ! Expires: 1 day
-! Entries: 19,793
-! Updated: Sat, 25 Dec 21 08:02:18 +06
+! Entries: 19,794
+! Updated: Sat, 25 Dec 21 16:02:07 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -12232,6 +12232,7 @@
 ||paddocsweek.com^
 ||padma-fed.com^
 ||padpitnon.site^
+||padpullpact.com^
 ||padsabz.com^
 ||padsans.com^
 ||padsanz.com^
