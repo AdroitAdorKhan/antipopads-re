@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.360
 # Release: 360
-# Entries: 19,848
-# Updated: Sun, 26 Dec 21 08:01:49 +06
+# Entries: 19,849
+# Updated: Sun, 26 Dec 21 10:04:32 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -18856,6 +18856,7 @@
 0.0.0.0 www.misunderstanddependableour.com
 0.0.0.0 www.mosece.com
 0.0.0.0 www.mosquedestitute.com
+0.0.0.0 www.motorimperturbable.com
 0.0.0.0 www.movementsspentlist.com
 0.0.0.0 www.muggedlancemutilate.com
 0.0.0.0 www.murpic.com
