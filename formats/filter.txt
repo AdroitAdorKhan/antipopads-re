@@ -20,8 +20,8 @@
 ! Version: 21.12.361
 ! Release: 361
 ! Expires: 1 day
-! Entries: 19,910
-! Updated: Mon, 27 Dec 21 08:02:31 +06
+! Entries: 19,912
+! Updated: Mon, 27 Dec 21 18:02:22 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -3837,6 +3837,7 @@
 ||comunicazio.com^
 ||comwgi.com^
 ||com-wkejf32ljd23409system.net^
+||comwww.effectivedisplaycontent.com^
 ||comwww.effectivedisplayformat.com^
 ||comwww.madcpms.com^
 ||comwww.subjectslisted.com^
@@ -5430,6 +5431,7 @@
 ||effacerevealing.com^
 ||effectivecpmgate.com^
 ||effectivedisplaycontent.com^
+||effectivedisplaycontent.comwww.effectivedisplaycontent.com^
 ||effectivedisplayformat.com^
 ||effectivedisplayformat.comwww.effectivedisplayformat.com^
 ||effectivegatetocontent.com^
