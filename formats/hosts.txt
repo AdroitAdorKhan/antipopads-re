@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.362
 # Release: 362
-# Entries: 20,007
-# Updated: Tue, 28 Dec 21 08:02:20 +06
+# Entries: 20,008
+# Updated: Tue, 28 Dec 21 18:04:37 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -529,6 +529,7 @@
 0.0.0.0 aagmbroxruno.com
 0.0.0.0 aammbxlhyvefy.xyz
 0.0.0.0 aapnksejaekdwm.top
+0.0.0.0 aarsanyospercepts.com
 0.0.0.0 aaucwbe.com
 0.0.0.0 aavexjpooklbx.top
 0.0.0.0 aavuodldlgjev.xyz
