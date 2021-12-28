@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 21.12.362
 # Release: 362
-# Entries: 20,022
-# Updated: Tue, 28 Dec 21 20:09:50 +06
+# Entries: 20,023
+# Updated: Tue, 28 Dec 21 22:08:21 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2775,6 +2775,7 @@
 0.0.0.0 bqiovml.com
 0.0.0.0 bqkgqmqyjob.top
 0.0.0.0 bqolptnrunrv.top
+0.0.0.0 bqtlbukqs.top
 0.0.0.0 bqtqbxxblmn.top
 0.0.0.0 bqxxmyqmtcdx.top
 0.0.0.0 bqyyvgpeo.top
