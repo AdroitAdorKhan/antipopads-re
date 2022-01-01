@@ -20,8 +20,8 @@
 ! Version: 22.01.001
 ! Release: 001
 ! Expires: 1 day
-! Entries: 20,349
-! Updated: Sat, 01 Jan 22 14:04:55 +06
+! Entries: 20,350
+! Updated: Sat, 01 Jan 22 16:02:21 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -832,6 +832,7 @@
 ||adprosrv.com^
 ||adqy6rzwcs.com^
 ||adreach.me^
+||adrealclick.com^
 ||adrecreate.com^
 ||adrenalpop.com^
 ||adrenovate.com^

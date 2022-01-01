@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.001
 # Release: 001
-# Entries: 20,349
-# Updated: Sat, 01 Jan 22 14:04:55 +06
+# Entries: 20,350
+# Updated: Sat, 01 Jan 22 16:02:21 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -831,6 +831,7 @@
 0.0.0.0 adprosrv.com
 0.0.0.0 adqy6rzwcs.com
 0.0.0.0 adreach.me
+0.0.0.0 adrealclick.com
 0.0.0.0 adrecreate.com
 0.0.0.0 adrenalpop.com
 0.0.0.0 adrenovate.com
