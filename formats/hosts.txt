@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.001
 # Release: 001
-# Entries: 20,342
-# Updated: Sat, 01 Jan 22 08:02:12 +06
+# Entries: 20,343
+# Updated: Sat, 01 Jan 22 10:02:11 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -16943,6 +16943,7 @@
 0.0.0.0 tiller.co
 0.0.0.0 tilltucked.com
 0.0.0.0 tiltgardenheadlight.com
+0.0.0.0 tiltleaden.com
 0.0.0.0 timbercooling.com
 0.0.0.0 time4news.net
 0.0.0.0 timecrom.com
