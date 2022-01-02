@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.01.001
-! Release: 001
+! Version: 22.01.002
+! Release: 002
 ! Expires: 1 day
-! Entries: 20,350
-! Updated: Sat, 01 Jan 22 16:02:21 +06
+! Entries: 20,351
+! Updated: Sun, 02 Jan 22 16:01:54 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -1540,6 +1540,7 @@
 ||aoredi.com^
 ||aosnimcbskyhy.top^
 ||aoyhevunpc.top^
+||ap3lorf0il.com^
 ||aparvibices.com^
 ||apathetictheory.com^
 ||apearkcan.club^
