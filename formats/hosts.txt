@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.01.002
-# Release: 002
-# Entries: 20,351
-# Updated: Sun, 02 Jan 22 16:01:54 +06
+# Version: 22.01.003
+# Release: 003
+# Entries: 20,352
+# Updated: Mon, 03 Jan 22 08:02:25 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -11928,6 +11928,7 @@
 0.0.0.0 oajujirg.net
 0.0.0.0 oakchokerfumes.com
 0.0.0.0 oalselry.com
+0.0.0.0 oamoatch.com
 0.0.0.0 oampitsa.com
 0.0.0.0 oanimsen.net
 0.0.0.0 oansauns.com
