@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.003
 # Release: 003
-# Entries: 20,352
-# Updated: Mon, 03 Jan 22 08:02:25 +06
+# Entries: 20,356
+# Updated: Mon, 03 Jan 22 10:03:05 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2622,6 +2622,7 @@
 0.0.0.0 bludwan.com
 0.0.0.0 blueadvertise.com
 0.0.0.0 bluedawning.com
+0.0.0.0 bluejayfacette.com
 0.0.0.0 bluemaulpuffs.com
 0.0.0.0 blueoyster.click
 0.0.0.0 blueparrot.media
@@ -7690,6 +7691,7 @@
 0.0.0.0 hatagashira.com
 0.0.0.0 hatchetlavatory.com
 0.0.0.0 hatchord.com
+0.0.0.0 hatedgeographical.com
 0.0.0.0 hatrednonchalance.com
 0.0.0.0 hatsadamantpushed.com
 0.0.0.0 haubar.com
@@ -8603,6 +8605,7 @@
 0.0.0.0 insnarewaggled.cam
 0.0.0.0 insnative.com
 0.0.0.0 insolencecountriesblunder.com
+0.0.0.0 insolencemanipulative.com
 0.0.0.0 insolencewhoeverinsult.com
 0.0.0.0 inspectorstrongerpill.com
 0.0.0.0 inspikon.com
@@ -18150,6 +18153,7 @@
 0.0.0.0 vimjobcue.work
 0.0.0.0 vimmenced.club
 0.0.0.0 vinalsmuffish.com
+0.0.0.0 vindexcravat.com
 0.0.0.0 vinegarweb.com
 0.0.0.0 vinfdv6b4j.com
 0.0.0.0 vinylcoshery.com
