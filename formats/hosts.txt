@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.003
 # Release: 003
-# Entries: 20,362
-# Updated: Mon, 03 Jan 22 20:02:37 +06
+# Entries: 20,364
+# Updated: Mon, 03 Jan 22 22:03:14 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -7303,6 +7303,7 @@
 0.0.0.0 gohaltuustwtayd.xyz
 0.0.0.0 gohillgo.com
 0.0.0.0 goinformer.com
+0.0.0.0 gold2762.com
 0.0.0.0 goldenbettingefforlessefforless.com
 0.0.0.0 goldfishnightclubpatronize.com
 0.0.0.0 goldvertise.com
@@ -17167,6 +17168,7 @@
 0.0.0.0 tr563.com
 0.0.0.0 tracepath.cc
 0.0.0.0 tracespore.com
+0.0.0.0 track4ref.com
 0.0.0.0 trackad2.com
 0.0.0.0 trackapi.net
 0.0.0.0 track-campaing.club
