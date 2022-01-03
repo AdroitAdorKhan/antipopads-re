@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.003
 # Release: 003
-# Entries: 20,361
-# Updated: Mon, 03 Jan 22 18:02:01 +06
+# Entries: 20,362
+# Updated: Mon, 03 Jan 22 20:02:37 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -12972,6 +12972,7 @@
 0.0.0.0 phoashou.com
 0.0.0.0 phoaxevu.net
 0.0.0.0 phokukse.com
+0.0.0.0 pholonyknommises.com
 0.0.0.0 phoneboothslender.com
 0.0.0.0 phonefilamentembarrassment.com
 0.0.0.0 phonenow.net
