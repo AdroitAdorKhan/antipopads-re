@@ -20,8 +20,8 @@
 ! Version: 22.01.004
 ! Release: 004
 ! Expires: 1 day
-! Entries: 20,397
-! Updated: Tue, 04 Jan 22 20:02:21 +06
+! Entries: 20,398
+! Updated: Tue, 04 Jan 22 22:03:31 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -1537,6 +1537,7 @@
 ||anxiouslyconsistencytearing.com^
 ||anydiscourteousinsure.com^
 ||anymad.com^
+||anymind360.com^
 ||anywaypupil.com^
 ||aoasnidcvnorf.xyz^
 ||aocular.com^
