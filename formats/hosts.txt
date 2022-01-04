@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.004
 # Release: 004
-# Entries: 20,396
-# Updated: Tue, 04 Jan 22 14:05:15 +06
+# Entries: 20,397
+# Updated: Tue, 04 Jan 22 20:02:21 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -13743,6 +13743,7 @@
 0.0.0.0 pubdirecte.com
 0.0.0.0 pubhfmoiduywgrl.me
 0.0.0.0 pubhotmax.com
+0.0.0.0 publiclysexistvisibility.com
 0.0.0.0 publicsparedpen.com
 0.0.0.0 publited.com
 0.0.0.0 pubmaner5.com
