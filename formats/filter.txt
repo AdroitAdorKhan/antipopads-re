@@ -20,8 +20,8 @@
 ! Version: 22.01.005
 ! Release: 005
 ! Expires: 1 day
-! Entries: 20,407
-! Updated: Wed, 05 Jan 22 02:03:09 +06
+! Entries: 20,408
+! Updated: Wed, 05 Jan 22 08:02:39 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -14693,6 +14693,7 @@
 ||richinfo.co^
 ||richmedia247.com^
 ||richwebmedia.com^
+||rickerrotal.com^
 ||ric-ric-rum.com^
 ||ridbvqquep.top^
 ||riderfabric.com^
