@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.005
 # Release: 005
-# Entries: 20,411
-# Updated: Wed, 05 Jan 22 10:02:26 +06
+# Entries: 20,412
+# Updated: Wed, 05 Jan 22 14:03:28 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -13131,6 +13131,7 @@
 0.0.0.0 plashcashierbleach.com
 0.0.0.0 plasomeleanly.com
 0.0.0.0 platado.com
+0.0.0.0 platesworked.com
 0.0.0.0 platformspepper.com
 0.0.0.0 platformsrat.com
 0.0.0.0 platif.com
