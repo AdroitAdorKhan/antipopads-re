@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.006
 # Release: 006
-# Entries: 20,422
-# Updated: Thu, 06 Jan 22 14:03:20 +06
+# Entries: 20,423
+# Updated: Thu, 06 Jan 22 18:04:39 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -589,6 +589,7 @@
 0.0.0.0 abskursin.com
 0.0.0.0 absoluteclickscom.com
 0.0.0.0 absolutionbravery.com
+0.0.0.0 absorbingconstitution.com
 0.0.0.0 absorbinginject.com
 0.0.0.0 abtyroguer.com
 0.0.0.0 abundled.club
