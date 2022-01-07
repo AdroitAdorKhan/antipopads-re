@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.007
 # Release: 007
-# Entries: 20,454
-# Updated: Fri, 07 Jan 22 02:03:22 +06
+# Entries: 20,456
+# Updated: Fri, 07 Jan 22 10:02:20 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -11152,6 +11152,7 @@
 0.0.0.0 mtvp05j.com
 0.0.0.0 muchotrust.com
 0.0.0.0 muddiedbubales.com
+0.0.0.0 muddyjustify.com
 0.0.0.0 mudshambone.com
 0.0.0.0 muffinyourself.com
 0.0.0.0 muffledgleeful.com
@@ -19406,6 +19407,7 @@
 0.0.0.0 www.mosquedestitute.com
 0.0.0.0 www.motorimperturbable.com
 0.0.0.0 www.movementsspentlist.com
+0.0.0.0 www.muddyjustify.com
 0.0.0.0 www.muggedlancemutilate.com
 0.0.0.0 www.murpic.com
 0.0.0.0 www.mustardchagrininjured.com
