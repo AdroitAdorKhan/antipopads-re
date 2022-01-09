@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.01.008
-# Release: 008
-# Entries: 20,463
-# Updated: Sat, 08 Jan 22 18:01:47 +06
+# Version: 22.01.009
+# Release: 009
+# Entries: 20,464
+# Updated: Sun, 09 Jan 22 08:02:32 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -15053,6 +15053,7 @@
 0.0.0.0 runtnc.net
 0.0.0.0 runwaff.com
 0.0.0.0 rupjionosvjw.top
+0.0.0.0 ruppiamartha.casa
 0.0.0.0 rusenov.com
 0.0.0.0 rusepastryblocks.com
 0.0.0.0 rushcostscomparison.com
