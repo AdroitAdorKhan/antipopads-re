@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.01.009
-! Release: 009
+! Version: 22.01.010
+! Release: 010
 ! Expires: 1 day
-! Entries: 20,464
-! Updated: Sun, 09 Jan 22 08:02:32 +06
+! Entries: 20,465
+! Updated: Mon, 10 Jan 22 00:03:45 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -1766,6 +1766,7 @@
 ||assetshortestinherited.com^
 ||assignedlikecrawford.com^
 ||assimilatesmartlyawfully.com^
+||assistedadultrib.com^
 ||assisteggs.com^
 ||associalbde.xyz^
 ||associalinterva.xyz^
