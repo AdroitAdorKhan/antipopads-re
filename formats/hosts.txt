@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.010
 # Release: 010
-# Entries: 20,468
-# Updated: Mon, 10 Jan 22 18:03:24 +06
+# Entries: 20,469
+# Updated: Mon, 10 Jan 22 20:02:36 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -14730,6 +14730,7 @@
 0.0.0.0 rickerrotal.com
 0.0.0.0 ric-ric-rum.com
 0.0.0.0 ridbvqquep.top
+0.0.0.0 ridencemoradered.com
 0.0.0.0 riderfabric.com
 0.0.0.0 ridethesisfrankly.com
 0.0.0.0 ridferbad.com
