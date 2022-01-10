@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.010
 # Release: 010
-# Entries: 20,467
-# Updated: Mon, 10 Jan 22 08:02:59 +06
+# Entries: 20,468
+# Updated: Mon, 10 Jan 22 18:03:24 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -16590,6 +16590,7 @@
 0.0.0.0 sweatyuprisingshut.com
 0.0.0.0 sweatywakelack.com
 0.0.0.0 sweepawejasper.com
+0.0.0.0 sweetdates4you.life
 0.0.0.0 sweetheartpartial.com
 0.0.0.0 sweet-lady-waiting-you.com
 0.0.0.0 sweetnesswarnscreech.com
