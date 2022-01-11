@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.01.011
-# Release: 011
-# Entries: 20,523
-# Updated: Tue, 11 Jan 22 18:02:39 +06
+# Version: 22.01.012
+# Release: 012
+# Entries: 20,529
+# Updated: Wed, 12 Jan 22 00:03:10 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1379,6 +1379,7 @@
 0.0.0.0 aloha-news.net
 0.0.0.0 aloissentence.pro
 0.0.0.0 alonghelper.com
+0.0.0.0 alourt.com
 0.0.0.0 alovirs.com
 0.0.0.0 alphabird.com
 0.0.0.0 alphonso.tv
@@ -1859,6 +1860,7 @@
 0.0.0.0 attractiveimpertinencejoint.com
 0.0.0.0 attrapincha.com
 0.0.0.0 attributedrelease.com
+0.0.0.0 attributora.com
 0.0.0.0 atwainbounce.com
 0.0.0.0 atzekromchan.com
 0.0.0.0 auberginecorny.com
@@ -3596,6 +3598,7 @@
 0.0.0.0 civilizefrailoffhand.com
 0.0.0.0 civitik.com
 0.0.0.0 ciwhacheho.pro
+0.0.0.0 ciwigevy.com
 0.0.0.0 ciwvkgthn.xyz
 0.0.0.0 cixawobu.com
 0.0.0.0 cjdhxiacbyytah.top
@@ -5381,6 +5384,7 @@
 0.0.0.0 ea1abaf867.com
 0.0.0.0 ea6353e47e0ab3f78.com
 0.0.0.0 ea978ca12bb65.com
+0.0.0.0 eableandwo.com
 0.0.0.0 eaboutvth.biz
 0.0.0.0 eac0823ca94e3c07.com
 0.0.0.0 eacdn.com
@@ -8053,6 +8057,7 @@
 0.0.0.0 hoemasfat.site
 0.0.0.0 hofofici.com
 0.0.0.0 hogawn.com
+0.0.0.0 hogilh.com
 0.0.0.0 hognoseabient.com
 0.0.0.0 hoguchiphe.com
 0.0.0.0 hoistchart.com
@@ -13062,6 +13067,7 @@
 0.0.0.0 phoaraut.com
 0.0.0.0 phoashou.com
 0.0.0.0 phoaxevu.net
+0.0.0.0 phohothiptu.pro
 0.0.0.0 phokukse.com
 0.0.0.0 pholonyknommises.com
 0.0.0.0 phoneboothslender.com
