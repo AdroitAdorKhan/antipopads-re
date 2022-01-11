@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.012
 # Release: 012
-# Entries: 20,529
-# Updated: Wed, 12 Jan 22 00:03:10 +06
+# Entries: 20,530
+# Updated: Wed, 12 Jan 22 02:03:15 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -8032,6 +8032,7 @@
 0.0.0.0 hldjgfveifgfhe.top
 0.0.0.0 hledoziequt.com
 0.0.0.0 hlmiq.com
+0.0.0.0 hloprhawmswdb.com
 0.0.0.0 hlpnowp-c.com
 0.0.0.0 hmbgumjgey.com
 0.0.0.0 hmcfuqtjrhb.com
