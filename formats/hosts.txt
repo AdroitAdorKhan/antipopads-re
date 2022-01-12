@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.012
 # Release: 012
-# Entries: 20,535
-# Updated: Wed, 12 Jan 22 20:02:21 +06
+# Entries: 20,537
+# Updated: Wed, 12 Jan 22 22:02:47 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3587,6 +3587,7 @@
 0.0.0.0 circumstantialobtrusive.com
 0.0.0.0 circusbreadth.com
 0.0.0.0 cirochimi.com
+0.0.0.0 cisheeng.com
 0.0.0.0 cisscrive.com
 0.0.0.0 cistamenise.com
 0.0.0.0 citheekr.com
@@ -7463,6 +7464,7 @@
 0.0.0.0 grandeprunto.casa
 0.0.0.0 grandparen.club
 0.0.0.0 granevahu.pro
+0.0.0.0 grangilo.net
 0.0.0.0 graniteacquitcharacteristic.com
 0.0.0.0 grannynightmare.com
 0.0.0.0 grannysteer.com
