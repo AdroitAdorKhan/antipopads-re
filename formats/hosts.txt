@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.012
 # Release: 012
-# Entries: 20,531
-# Updated: Wed, 12 Jan 22 04:03:21 +06
+# Entries: 20,533
+# Updated: Wed, 12 Jan 22 12:03:37 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3694,6 +3694,7 @@
 0.0.0.0 clickintext.com
 0.0.0.0 clickkingdom.net
 0.0.0.0 clickmatters.biz
+0.0.0.0 clickmetertracking.com
 0.0.0.0 clickmngr.com
 0.0.0.0 clicknano.com
 0.0.0.0 clicknerd.com
@@ -4621,6 +4622,7 @@
 0.0.0.0 deepmetrix.com
 0.0.0.0 deeprootedpotion.com
 0.0.0.0 defaceproudlybarnacle.com
+0.0.0.0 defas.site
 0.0.0.0 defeatedsunset.com
 0.0.0.0 defeaturesher.club
 0.0.0.0 defeature.xyz

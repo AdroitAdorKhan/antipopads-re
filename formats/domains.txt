@@ -19,8 +19,8 @@
 # Format: domains
 # Version: 22.01.012
 # Release: 012
-# Entries: 20,531
-# Updated: Wed, 12 Jan 22 04:03:21 +06
+# Entries: 20,533
+# Updated: Wed, 12 Jan 22 12:03:37 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3694,6 +3694,7 @@ clickgate.biz
 clickintext.com
 clickkingdom.net
 clickmatters.biz
+clickmetertracking.com
 clickmngr.com
 clicknano.com
 clicknerd.com
@@ -4621,6 +4622,7 @@ deeperindoorsrestriction.com
 deepmetrix.com
 deeprootedpotion.com
 defaceproudlybarnacle.com
+defas.site
 defeatedsunset.com
 defeaturesher.club
 defeature.xyz
