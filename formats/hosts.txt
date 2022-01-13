@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.013
 # Release: 013
-# Entries: 20,582
-# Updated: Thu, 13 Jan 22 08:02:05 +06
+# Entries: 20,584
+# Updated: Thu, 13 Jan 22 10:02:29 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -13667,6 +13667,7 @@
 0.0.0.0 protecsee.site
 0.0.0.0 protecthumor.com
 0.0.0.0 protection-booster.club
+0.0.0.0 protectorincorporatehush.com
 0.0.0.0 protect-your-privacy.net
 0.0.0.0 proteographiummarcellus.com
 0.0.0.0 protoawe.com
@@ -19416,6 +19417,7 @@
 0.0.0.0 www.greedhail.com
 0.0.0.0 www.grilledjut.com
 0.0.0.0 www.gsvyjunccsw.com
+0.0.0.0 www.gustdeficitwry.com
 0.0.0.0 www.gwwhheahisrtld.com
 0.0.0.0 www.gxymlqcnu.com
 0.0.0.0 www.hairoak.com
