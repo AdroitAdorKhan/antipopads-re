@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.015
 # Release: 015
-# Entries: 20,637
-# Updated: Sat, 15 Jan 22 00:03:43 +06
+# Entries: 20,639
+# Updated: Sat, 15 Jan 22 02:07:05 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -18248,6 +18248,7 @@
 0.0.0.0 vazlshyjp.com
 0.0.0.0 vbdirlcbgc.top
 0.0.0.0 vbjjicra.top
+0.0.0.0 vbscgrnkoceya.com
 0.0.0.0 vbtrax.com
 0.0.0.0 vcbvkfcqxy.top
 0.0.0.0 vcdc.com
@@ -18467,6 +18468,7 @@
 0.0.0.0 vjxrebpfjgacbl.top
 0.0.0.0 vk77lnizckm6.com
 0.0.0.0 vkaofq64zz.com
+0.0.0.0 vkkdkvydwrwr.com
 0.0.0.0 vklwqdit.top
 0.0.0.0 vknrfwwxhxaxupqp.pro
 0.0.0.0 vldlueibomhp.top
