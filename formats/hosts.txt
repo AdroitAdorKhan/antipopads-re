@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.014
 # Release: 014
-# Entries: 20,602
-# Updated: Fri, 14 Jan 22 06:03:38 +06
+# Entries: 20,604
+# Updated: Fri, 14 Jan 22 08:02:47 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1838,6 +1838,7 @@
 0.0.0.0 ationuctladd.xyz
 0.0.0.0 ativfteevie.club
 0.0.0.0 atjigglypuffor.com
+0.0.0.0 atlgvntogc.xyz
 0.0.0.0 atlhrfnpc.top
 0.0.0.0 atmetagrossan.com
 0.0.0.0 atmnjcinews.pro
@@ -14394,6 +14395,7 @@
 0.0.0.0 raujebet.net
 0.0.0.0 raupsaim.net
 0.0.0.0 raupsica.net
+0.0.0.0 rauwoafe.com
 0.0.0.0 ravalads.com
 0.0.0.0 ravalamin.com
 0.0.0.0 ravaquinal.com
