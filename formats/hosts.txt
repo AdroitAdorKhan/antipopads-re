@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.014
 # Release: 014
-# Entries: 20,604
-# Updated: Fri, 14 Jan 22 08:02:47 +06
+# Entries: 20,607
+# Updated: Fri, 14 Jan 22 16:03:46 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -795,6 +795,7 @@
 0.0.0.0 admeerkat.com
 0.0.0.0 adme-net.com
 0.0.0.0 admenhost.com
+0.0.0.0 admetad.com
 0.0.0.0 admez.com
 0.0.0.0 admireinkhousemaid.com
 0.0.0.0 admob.com
@@ -7569,6 +7570,7 @@
 0.0.0.0 grouac.com
 0.0.0.0 groundlesscobwebmiller.com
 0.0.0.0 groupian.io
+0.0.0.0 grovebrainwashtroubles.com
 0.0.0.0 growebads.com
 0.0.0.0 growncurlyunderpants.com
 0.0.0.0 grown-inpp-code.com
@@ -10652,6 +10654,7 @@
 0.0.0.0 mavq.net
 0.0.0.0 mawlaybob.com
 0.0.0.0 mawsewtow.com
+0.0.0.0 maxbaunty.com
 0.0.0.0 maxbounti.com
 0.0.0.0 maxbounty.com
 0.0.0.0 maxgirlgames.com
