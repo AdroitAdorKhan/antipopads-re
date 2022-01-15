@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.015
 # Release: 015
-# Entries: 20,673
-# Updated: Sat, 15 Jan 22 10:07:17 +06
+# Entries: 20,674
+# Updated: Sat, 15 Jan 22 20:02:14 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -10335,6 +10335,7 @@
 0.0.0.0 louxoxo.com
 0.0.0.0 lovapy.com
 0.0.0.0 lovedearringschoolmaster.com
+0.0.0.0 lovegirl4you.life
 0.0.0.0 lovelydateshere.com
 0.0.0.0 loveradar.life
 0.0.0.0 loverayeyard.com
