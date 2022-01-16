@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.016
 # Release: 016
-# Entries: 20,715
-# Updated: Sun, 16 Jan 22 18:02:31 +06
+# Entries: 20,716
+# Updated: Sun, 16 Jan 22 20:05:53 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -12549,6 +12549,7 @@
 0.0.0.0 oqmxcojwvkclhup.top
 0.0.0.0 oqrjbnriumr.com
 0.0.0.0 oqveywmp.top
+0.0.0.0 oqwhzgimuvxpd.com
 0.0.0.0 oranegfodnd.com
 0.0.0.0 orbsclawand.com
 0.0.0.0 orcjagpox.com
