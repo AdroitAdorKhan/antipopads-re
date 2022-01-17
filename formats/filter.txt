@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.01.017
-! Release: 017
+! Version: 22.01.018
+! Release: 018
 ! Expires: 1 day
-! Entries: 20,785
-! Updated: Mon, 17 Jan 22 20:04:02 +06
+! Entries: 20,786
+! Updated: Tue, 18 Jan 22 00:07:39 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -18353,6 +18353,7 @@
 ||vasfxpribls.com^
 ||vashoaft.net^
 ||vassst12.com^
+||vassst1.com^
 ||vassterboost.com^
 ||vasstycom.com^
 ||vastatecuissen.com^
