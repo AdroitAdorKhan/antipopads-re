@@ -20,8 +20,8 @@
 ! Version: 22.01.017
 ! Release: 017
 ! Expires: 1 day
-! Entries: 20,749
-! Updated: Mon, 17 Jan 22 06:13:49 +06
+! Entries: 20,751
+! Updated: Mon, 17 Jan 22 08:04:01 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -2312,6 +2312,7 @@
 ||beaubitternessapplication.com^
 ||beavertron.com^
 ||bebadu.com^
+||bebosslignes.com^
 ||bebreloomr.com^
 ||becasp.com^
 ||becausecheckingitaly.com^
@@ -7588,6 +7589,7 @@
 ||grilledjut.com^
 ||grilydivy.com^
 ||gringoku.com^
+||grinzamenis.com^
 ||grirault.net^
 ||gristleupanaya.com^
 ||gritchuw.com^

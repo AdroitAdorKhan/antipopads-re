@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.017
 # Release: 017
-# Entries: 20,749
-# Updated: Mon, 17 Jan 22 06:13:49 +06
+# Entries: 20,751
+# Updated: Mon, 17 Jan 22 08:04:01 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2311,6 +2311,7 @@
 0.0.0.0 beaubitternessapplication.com
 0.0.0.0 beavertron.com
 0.0.0.0 bebadu.com
+0.0.0.0 bebosslignes.com
 0.0.0.0 bebreloomr.com
 0.0.0.0 becasp.com
 0.0.0.0 becausecheckingitaly.com
@@ -7587,6 +7588,7 @@
 0.0.0.0 grilledjut.com
 0.0.0.0 grilydivy.com
 0.0.0.0 gringoku.com
+0.0.0.0 grinzamenis.com
 0.0.0.0 grirault.net
 0.0.0.0 gristleupanaya.com
 0.0.0.0 gritchuw.com
