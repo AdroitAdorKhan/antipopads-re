@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.017
 # Release: 017
-# Entries: 20,751
-# Updated: Mon, 17 Jan 22 08:04:01 +06
+# Entries: 20,753
+# Updated: Mon, 17 Jan 22 14:04:00 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -19545,6 +19545,7 @@
 0.0.0.0 www.finnan2you.org
 0.0.0.0 www.fiorenetwork.com
 0.0.0.0 www.firtribe.com
+0.0.0.0 www.fishpassportvocational.com
 0.0.0.0 www.fkjmjybn.com
 0.0.0.0 www.flashinginvolvementmatches.com
 0.0.0.0 www.flavelexmillege.gq
@@ -19919,6 +19920,7 @@
 0.0.0.0 www.tkickhhylnvm.com
 0.0.0.0 www.tonicincompetent.com
 0.0.0.0 www.tooviolatesymptom.com
+0.0.0.0 www.torchesfervid.com
 0.0.0.0 www.torimenedahllear.gq
 0.0.0.0 www.tovsmortiminanri.gq
 0.0.0.0 www.towardadvised.com
