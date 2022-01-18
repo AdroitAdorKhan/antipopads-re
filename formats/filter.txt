@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.01.018
-! Release: 018
+! Version: 22.01.019
+! Release: 019
 ! Expires: 1 day
-! Entries: 20,829
-! Updated: Tue, 18 Jan 22 22:03:12 +06
+! Entries: 20,833
+! Updated: Wed, 19 Jan 22 00:03:04 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -1494,6 +1494,7 @@
 ||andohs.net^
 ||andomedia.com^
 ||andomediagroup.com^
+||andorapx.com^
 ||andriesshied.com^
 ||andworldwi.co^
 ||anedew.com^
@@ -11370,6 +11371,7 @@
 ||mumsimso.net^
 ||mumtsioc.top^
 ||municalwarn.top^
+||munori.com^
 ||munterlyexation.com^
 ||mupsytyzu.com^
 ||mupteekr.net^
@@ -13711,6 +13713,7 @@
 ||princided.club^
 ||pringed.space^
 ||printmeantime.com^
+||prinue.com^
 ||priorityinvaderinflation.com^
 ||prisedeluge.com^
 ||prissue-thichroom.icu^
@@ -17196,6 +17199,7 @@
 ||themdesertdumbest.com^
 ||themeillogical.com^
 ||themereplacebiopsy.com^
+||thenceafeard.com^
 ||thenceextremeeyewitness.com^
 ||theonecdn.com^
 ||theoreviver.cam^

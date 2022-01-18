@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.01.018
-# Release: 018
-# Entries: 20,829
-# Updated: Tue, 18 Jan 22 22:03:12 +06
+# Version: 22.01.019
+# Release: 019
+# Entries: 20,833
+# Updated: Wed, 19 Jan 22 00:03:04 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1493,6 +1493,7 @@
 0.0.0.0 andohs.net
 0.0.0.0 andomedia.com
 0.0.0.0 andomediagroup.com
+0.0.0.0 andorapx.com
 0.0.0.0 andriesshied.com
 0.0.0.0 andworldwi.co
 0.0.0.0 anedew.com
@@ -11369,6 +11370,7 @@
 0.0.0.0 mumsimso.net
 0.0.0.0 mumtsioc.top
 0.0.0.0 municalwarn.top
+0.0.0.0 munori.com
 0.0.0.0 munterlyexation.com
 0.0.0.0 mupsytyzu.com
 0.0.0.0 mupteekr.net
@@ -13710,6 +13712,7 @@
 0.0.0.0 princided.club
 0.0.0.0 pringed.space
 0.0.0.0 printmeantime.com
+0.0.0.0 prinue.com
 0.0.0.0 priorityinvaderinflation.com
 0.0.0.0 prisedeluge.com
 0.0.0.0 prissue-thichroom.icu
@@ -17195,6 +17198,7 @@
 0.0.0.0 themdesertdumbest.com
 0.0.0.0 themeillogical.com
 0.0.0.0 themereplacebiopsy.com
+0.0.0.0 thenceafeard.com
 0.0.0.0 thenceextremeeyewitness.com
 0.0.0.0 theonecdn.com
 0.0.0.0 theoreviver.cam
