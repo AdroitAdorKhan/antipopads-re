@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.021
 # Release: 021
-# Entries: 20,967
-# Updated: Fri, 21 Jan 22 00:03:27 +06
+# Entries: 20,968
+# Updated: Fri, 21 Jan 22 04:02:15 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3993,6 +3993,7 @@
 0.0.0.0 concentual.club
 0.0.0.0 conceptarithmetic.com
 0.0.0.0 concernederase.com
+0.0.0.0 concernrest.com
 0.0.0.0 concertainwqa.club
 0.0.0.0 concesspon.top
 0.0.0.0 concludemealswednesday.com
