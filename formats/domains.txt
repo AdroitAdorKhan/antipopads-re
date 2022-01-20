@@ -19,8 +19,8 @@
 # Format: domains
 # Version: 22.01.020
 # Release: 020
-# Entries: 20,934
-# Updated: Thu, 20 Jan 22 10:02:03 +06
+# Entries: 20,935
+# Updated: Thu, 20 Jan 22 18:02:11 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -7180,6 +7180,7 @@ getinclinarss.xyz
 getlocalwoman1.com
 get-me-wow.xyz
 getmyads.com
+getnotix.co
 getpdaiddaily.com
 getplumberacting.com
 getpopunder.com
