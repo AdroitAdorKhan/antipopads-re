@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.022
 # Release: 022
-# Entries: 21,035
-# Updated: Sat, 22 Jan 22 08:02:06 +06
+# Entries: 21,037
+# Updated: Sat, 22 Jan 22 16:01:59 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2881,6 +2881,7 @@
 0.0.0.0 brainlesseither.com
 0.0.0.0 brainlyads.com
 0.0.0.0 brakesoutright.com
+0.0.0.0 brall11.com
 0.0.0.0 branchr.com
 0.0.0.0 branchseriescomposed.com
 0.0.0.0 brandads.net
@@ -18561,6 +18562,7 @@
 0.0.0.0 vasfxpribls.com
 0.0.0.0 vashoaft.net
 0.0.0.0 vassst12.com
+0.0.0.0 vassst14.com
 0.0.0.0 vassst1.com
 0.0.0.0 vassterboost.com
 0.0.0.0 vasstycom.com

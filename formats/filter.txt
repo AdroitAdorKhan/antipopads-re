@@ -20,8 +20,8 @@
 ! Version: 22.01.022
 ! Release: 022
 ! Expires: 1 day
-! Entries: 21,035
-! Updated: Sat, 22 Jan 22 08:02:06 +06
+! Entries: 21,037
+! Updated: Sat, 22 Jan 22 16:01:59 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -2882,6 +2882,7 @@
 ||brainlesseither.com^
 ||brainlyads.com^
 ||brakesoutright.com^
+||brall11.com^
 ||branchr.com^
 ||branchseriescomposed.com^
 ||brandads.net^
@@ -18562,6 +18563,7 @@
 ||vasfxpribls.com^
 ||vashoaft.net^
 ||vassst12.com^
+||vassst14.com^
 ||vassst1.com^
 ||vassterboost.com^
 ||vasstycom.com^
