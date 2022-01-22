@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.022
 # Release: 022
-# Entries: 21,044
-# Updated: Sat, 22 Jan 22 20:01:48 +06
+# Entries: 21,047
+# Updated: Sat, 22 Jan 22 22:03:36 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2469,6 +2469,7 @@
 0.0.0.0 bestyourcams.com
 0.0.0.0 bestzba.com
 0.0.0.0 best-zb.com
+0.0.0.0 beswarmfurless.cam
 0.0.0.0 betahit.click
 0.0.0.0 betalonflamechan.com
 0.0.0.0 betemolgar.com
@@ -13367,6 +13368,7 @@
 0.0.0.0 phoaptee.net
 0.0.0.0 phoaraut.com
 0.0.0.0 phoashou.com
+0.0.0.0 phoawhap.net
 0.0.0.0 phoaxevu.net
 0.0.0.0 phohothiptu.pro
 0.0.0.0 phokukse.com
@@ -16511,6 +16513,7 @@
 0.0.0.0 speedometergreatness.com
 0.0.0.0 speedsagesleepy.com
 0.0.0.0 speedsmoosruse.com
+0.0.0.0 spehydeefxvacp.com
 0.0.0.0 spellbeggarlygay.com
 0.0.0.0 spellingpigeonssecret.com
 0.0.0.0 spellresolute.com
