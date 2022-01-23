@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.023
 # Release: 023
-# Entries: 21,070
-# Updated: Sun, 23 Jan 22 16:02:23 +06
+# Entries: 21,072
+# Updated: Sun, 23 Jan 22 18:02:28 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -7096,6 +7096,7 @@
 0.0.0.0 garnetsnails.com
 0.0.0.0 garnishpollution.com
 0.0.0.0 garristo.com
+0.0.0.0 garysero.xyz
 0.0.0.0 gasolinecommanderding.com
 0.0.0.0 gastedidlemen.com
 0.0.0.0 gatesbelievesgentlemen.com
@@ -16241,6 +16242,7 @@
 0.0.0.0 skreighphotic.cam
 0.0.0.0 sksbhetqpye.top
 0.0.0.0 skskbhkmrux.top
+0.0.0.0 skynetcdn.com
 0.0.0.0 skynightmidm.com
 0.0.0.0 slabshookwasted.com
 0.0.0.0 slakesshimtames.com
