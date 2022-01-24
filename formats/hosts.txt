@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.024
 # Release: 024
-# Entries: 21,123
-# Updated: Mon, 24 Jan 22 16:02:31 +06
+# Entries: 21,125
+# Updated: Mon, 24 Jan 22 18:02:57 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -11463,6 +11463,7 @@
 0.0.0.0 mrhwkyiiqnsq.top
 0.0.0.0 mrjb7hvcks.com
 0.0.0.0 m-rtb.com
+0.0.0.0 mrtpcfegryfgqtbuvksbaebneewer.com
 0.0.0.0 mrualursuyem.top
 0.0.0.0 mrxepalf.xyz
 0.0.0.0 mrzikj.com
@@ -16769,6 +16770,7 @@
 0.0.0.0 steamlightslaxative.com
 0.0.0.0 steepedgoofed.com
 0.0.0.0 steepto.com
+0.0.0.0 steinfqwe6782beck.com
 0.0.0.0 steinrelists.com
 0.0.0.0 stelagharris.com
 0.0.0.0 stemboastfulrattle.com
