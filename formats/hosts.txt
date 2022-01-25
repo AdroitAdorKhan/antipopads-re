@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.025
 # Release: 025
-# Entries: 21,180
-# Updated: Tue, 25 Jan 22 08:02:02 +06
+# Entries: 21,182
+# Updated: Tue, 25 Jan 22 10:02:30 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1188,6 +1188,7 @@
 0.0.0.0 aggregateknowledge.com
 0.0.0.0 aggressivefrequentneckquirky.com
 0.0.0.0 aggressiveracketscout.com
+0.0.0.0 agilespatter.com
 0.0.0.0 agisdayra.com
 0.0.0.0 agitatesuggestneighbouring.com
 0.0.0.0 aglocobanners.com
@@ -19934,6 +19935,7 @@
 0.0.0.0 www.ffkdxymyji.com
 0.0.0.0 www.fftpzrscirdagr.com
 0.0.0.0 www.fieldbilly.com
+0.0.0.0 www.fiercedental.com
 0.0.0.0 www.findingupsetabstinence.com
 0.0.0.0 www.finedqueerrigid.com
 0.0.0.0 www.finn2you.com
