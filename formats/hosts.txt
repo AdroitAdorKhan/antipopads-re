@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.027
 # Release: 027
-# Entries: 21,276
-# Updated: Thu, 27 Jan 22 02:05:13 +06
+# Entries: 21,278
+# Updated: Thu, 27 Jan 22 04:01:40 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2234,6 +2234,7 @@
 0.0.0.0 bantrmind.com
 0.0.0.0 banusatoday.com
 0.0.0.0 baosdiefamyh.top
+0.0.0.0 bapdqzqhu.com
 0.0.0.0 baptismmattressstoppage.com
 0.0.0.0 baptismwitnesseddisobedience.com
 0.0.0.0 baqcpdctexlwgp.com
@@ -9419,6 +9420,7 @@
 0.0.0.0 jmpmedia.club
 0.0.0.0 jmprcbnqg.top
 0.0.0.0 jmrnews.pro
+0.0.0.0 jmtomcgqnsczl.com
 0.0.0.0 jmunpikahv.top
 0.0.0.0 jmxpgmmbbnvfxr.xyz
 0.0.0.0 jmxphjxsxd.com
