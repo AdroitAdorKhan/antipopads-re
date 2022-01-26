@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.026
 # Release: 026
-# Entries: 21,250
-# Updated: Wed, 26 Jan 22 16:03:20 +06
+# Entries: 21,252
+# Updated: Wed, 26 Jan 22 20:02:26 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -16483,6 +16483,7 @@
 0.0.0.0 snortedbingo.com
 0.0.0.0 snouft.com
 0.0.0.0 snowdayonline.xyz
+0.0.0.0 snrqrsna.com
 0.0.0.0 snterkslvwvaj.top
 0.0.0.0 snwpqybkb.com
 0.0.0.0 snxijasbov.top
@@ -17703,6 +17704,7 @@
 0.0.0.0 tkurpqyoct.com
 0.0.0.0 tkyojjwjsypu.xyz
 0.0.0.0 tl2go.com
+0.0.0.0 tlbgshayfhhxaj.com
 0.0.0.0 tljivh.com
 0.0.0.0 tlkighhcitfo.top
 0.0.0.0 tlmkitax.top
