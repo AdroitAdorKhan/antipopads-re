@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.026
 # Release: 026
-# Entries: 21,247
-# Updated: Wed, 26 Jan 22 08:02:01 +06
+# Entries: 21,249
+# Updated: Wed, 26 Jan 22 10:02:38 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -20032,6 +20032,7 @@
 0.0.0.0 www.granddadknitbravely.com
 0.0.0.0 www.greedhail.com
 0.0.0.0 www.grilledjut.com
+0.0.0.0 www.grovebrainwashtroubles.com
 0.0.0.0 www.gsvyjunccsw.com
 0.0.0.0 www.gustdeficitwry.com
 0.0.0.0 www.gwwhheahisrtld.com
@@ -20180,6 +20181,7 @@
 0.0.0.0 www.otdsngganpsgru.com
 0.0.0.0 www.oudccdjvh.com
 0.0.0.0 www.oursgorefreshing.com
+0.0.0.0 www.outragedisgraceful.com
 0.0.0.0 www.overdomadnessmanslaughter.com
 0.0.0.0 www.oxenfishtreaty.com
 0.0.0.0 www.ozukoturkiye.site
