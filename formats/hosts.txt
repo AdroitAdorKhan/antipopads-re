@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.026
 # Release: 026
-# Entries: 21,249
-# Updated: Wed, 26 Jan 22 10:02:38 +06
+# Entries: 21,250
+# Updated: Wed, 26 Jan 22 16:03:20 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3941,6 +3941,7 @@
 0.0.0.0 colvspbiudgflol.top
 0.0.0.0 com-878979.info
 0.0.0.0 comacheerlesslump.com
+0.0.0.0 comalesexemble.com
 0.0.0.0 comalonger.com
 0.0.0.0 comaoblivion.com
 0.0.0.0 comasoiling.casa
