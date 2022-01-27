@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.027
 # Release: 027
-# Entries: 21,299
-# Updated: Thu, 27 Jan 22 08:01:51 +06
+# Entries: 21,302
+# Updated: Thu, 27 Jan 22 10:03:27 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -13144,6 +13144,7 @@
 0.0.0.0 pagnookr.net
 0.0.0.0 pahoqjlnlljynj.top
 0.0.0.0 paht.tech
+0.0.0.0 pahtzh.tech
 0.0.0.0 pailridarm.com
 0.0.0.0 painfullyneattide.com
 0.0.0.0 painfulmissing.com
@@ -15827,6 +15828,7 @@
 0.0.0.0 saveddrummermover.com
 0.0.0.0 savefromad.net
 0.0.0.0 saventireri.top
+0.0.0.0 sawdflies.site
 0.0.0.0 sawnowepage.com
 0.0.0.0 saworbpox.com
 0.0.0.0 saycasksabnegation.com
@@ -20052,6 +20054,7 @@
 0.0.0.0 www.fishpassportvocational.com
 0.0.0.0 www.fkjmjybn.com
 0.0.0.0 www.flashinginvolvementmatches.com
+0.0.0.0 www.flaskstationsubsequent.com
 0.0.0.0 www.flavelexmillege.gq
 0.0.0.0 www.flowerbedfedpoultry.com
 0.0.0.0 www.foreignsentiment.com
