@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.028
 # Release: 028
-# Entries: 21,371
-# Updated: Fri, 28 Jan 22 10:01:55 +06
+# Entries: 21,372
+# Updated: Fri, 28 Jan 22 12:01:56 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3702,6 +3702,7 @@
 0.0.0.0 cjf25jklrwqt.com
 0.0.0.0 cjgbmjpsr.top
 0.0.0.0 cjgfxbassvb.top
+0.0.0.0 cjkeiekf.com
 0.0.0.0 cjl58f3agc.com
 0.0.0.0 cjmpdtnyqi.top
 0.0.0.0 cjqncwfxrfrwbdd.com
