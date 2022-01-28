@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.029
 # Release: 029
-# Entries: 21,413
-# Updated: Sat, 29 Jan 22 00:02:10 +06
+# Entries: 21,415
+# Updated: Sat, 29 Jan 22 02:02:11 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -9842,6 +9842,7 @@
 0.0.0.0 kggrbnbtmrrmfk.top
 0.0.0.0 kgktyxfjbpqernq.top
 0.0.0.0 kglkklrw.top
+0.0.0.0 kglmkkejuu.com
 0.0.0.0 kgmhqpopa.top
 0.0.0.0 kgmwgccdkpy.com
 0.0.0.0 kgrwpbxrrag.top
@@ -12516,6 +12517,7 @@
 0.0.0.0 oampitsa.com
 0.0.0.0 oanimsen.net
 0.0.0.0 oansauns.com
+0.0.0.0 oaoxuxisk.com
 0.0.0.0 oaphawhi.com
 0.0.0.0 oapseele.net
 0.0.0.0 oaraunal.com
