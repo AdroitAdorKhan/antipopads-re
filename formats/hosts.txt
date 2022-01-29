@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.029
 # Release: 029
-# Entries: 21,532
-# Updated: Sat, 29 Jan 22 14:04:22 +06
+# Entries: 21,533
+# Updated: Sat, 29 Jan 22 16:03:15 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -4893,6 +4893,7 @@
 0.0.0.0 deservecustomsadministrator.com
 0.0.0.0 desgxbpfsbbc.top
 0.0.0.0 desigactinific.pro
+0.0.0.0 designatejay.com
 0.0.0.0 designedamenityslot.com
 0.0.0.0 designergumsobituary.com
 0.0.0.0 desirelibel.com
