@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.01.029
-# Release: 029
-# Entries: 21,540
-# Updated: Sat, 29 Jan 22 22:03:17 +06
+# Version: 22.01.030
+# Release: 030
+# Entries: 21,541
+# Updated: Sun, 30 Jan 22 00:03:25 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -14654,6 +14654,7 @@
 0.0.0.0 px1alsry.com
 0.0.0.0 px3792.com
 0.0.0.0 pxinfeudbwig.top
+0.0.0.0 pxjobwowfame.com
 0.0.0.0 pxjttrrk.com
 0.0.0.0 pxkjnquyykodyv.top
 0.0.0.0 pxl2015x1.com
