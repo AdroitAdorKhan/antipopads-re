@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.01.030
-# Release: 030
-# Entries: 21,627
-# Updated: Sun, 30 Jan 22 22:03:35 +06
+# Version: 22.01.031
+# Release: 031
+# Entries: 21,629
+# Updated: Mon, 31 Jan 22 00:03:07 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1572,6 +1572,7 @@
 0.0.0.0 anonymousads.com
 0.0.0.0 anothingsev.top
 0.0.0.0 anoxthsvvtm.top
+0.0.0.0 anshjxyecu.com
 0.0.0.0 answeredfluency.com
 0.0.0.0 answered-questions.com
 0.0.0.0 answerroad.com
@@ -19321,6 +19322,7 @@
 0.0.0.0 vkkdkvydwrwr.com
 0.0.0.0 vklwqdit.top
 0.0.0.0 vknrfwwxhxaxupqp.pro
+0.0.0.0 vlclptmgxmijbyf.com
 0.0.0.0 vldlueibomhp.top
 0.0.0.0 vlgibhwkrhxltkkfm.me
 0.0.0.0 vlgilwxrfjkqdk.top
