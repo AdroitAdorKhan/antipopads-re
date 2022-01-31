@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.01.031
 # Release: 031
-# Entries: 21,655
-# Updated: Mon, 31 Jan 22 08:02:37 +06
+# Entries: 21,656
+# Updated: Mon, 31 Jan 22 10:02:40 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -66,6 +66,7 @@
 0.0.0.0 0oaqgsk54hm5.com
 0.0.0.0 0pyn37dv3m.com
 0.0.0.0 0redirb.com
+0.0.0.0 0redirc.comwww.profitabledisplaycontent.com
 0.0.0.0 0sntp7dnrr.com
 0.0.0.0 0sywjs4r1x.com
 0.0.0.0 0w1rqq69fi0e.com
