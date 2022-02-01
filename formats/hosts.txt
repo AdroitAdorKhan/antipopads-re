@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.033
 # Release: 033
-# Entries: 21,754
-# Updated: Wed, 02 Feb 22 00:03:18 +06
+# Entries: 21,756
+# Updated: Wed, 02 Feb 22 02:04:22 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -12633,6 +12633,7 @@
 0.0.0.0 nvsqfifrxljrxto.top
 0.0.0.0 nwaxjgcfeffpk.top
 0.0.0.0 nwfhalifax.com
+0.0.0.0 nwgqcwhoqp.com
 0.0.0.0 nwlpjginvhor.top
 0.0.0.0 nwnfxiabeupd.top
 0.0.0.0 nwomxmpqn.xyz
@@ -21742,6 +21743,7 @@
 0.0.0.0 zoupsudy.com
 0.0.0.0 zozolilla.com
 0.0.0.0 zpjkvuyqxu.com
+0.0.0.0 zpxalcnnafyy.com
 0.0.0.0 zqzuiomba.com
 0.0.0.0 zrav2wkbrs.com
 0.0.0.0 zrlcr.com
