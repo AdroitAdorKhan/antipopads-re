@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.032
 # Release: 032
-# Entries: 21,741
-# Updated: Tue, 01 Feb 22 20:02:36 +06
+# Entries: 21,742
+# Updated: Tue, 01 Feb 22 22:02:50 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -5670,6 +5670,7 @@
 0.0.0.0 easygoingtouchybribe.com
 0.0.0.0 easykits.org
 0.0.0.0 easylist-to.xyz
+0.0.0.0 easypassco.com
 0.0.0.0 easystopadblock.com
 0.0.0.0 eaterenhanced.com
 0.0.0.0 eatsidebicep.com

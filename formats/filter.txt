@@ -20,8 +20,8 @@
 ! Version: 22.02.032
 ! Release: 032
 ! Expires: 1 day
-! Entries: 21,741
-! Updated: Tue, 01 Feb 22 20:02:36 +06
+! Entries: 21,742
+! Updated: Tue, 01 Feb 22 22:02:50 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -5671,6 +5671,7 @@
 ||easygoingtouchybribe.com^
 ||easykits.org^
 ||easylist-to.xyz^
+||easypassco.com^
 ||easystopadblock.com^
 ||eaterenhanced.com^
 ||eatsidebicep.com^
