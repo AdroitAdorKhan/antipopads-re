@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.034
 # Release: 034
-# Entries: 21,959
-# Updated: Thu, 03 Feb 22 20:03:07 +06
+# Entries: 21,960
+# Updated: Thu, 03 Feb 22 22:02:51 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -11293,6 +11293,7 @@
 :: maxbounti.com
 :: maxbounty.com
 :: maxgirlgames.com
+:: maximtoaster.com
 :: maxonclick.com
 :: mayhemabjure.com
 :: maylnk.com
