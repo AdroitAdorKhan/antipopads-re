@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.034
 # Release: 034
-# Entries: 21,954
-# Updated: Thu, 03 Feb 22 10:03:07 +06
+# Entries: 21,955
+# Updated: Thu, 03 Feb 22 12:03:39 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -5928,6 +5928,7 @@
 0.0.0.0 elegantluckpersonally.com
 0.0.0.0 eleidinurucuri.casa
 0.0.0.0 elementalantecedent.com
+0.0.0.0 elementdeserts.com
 0.0.0.0 elementsfertilisedfaithful.com
 0.0.0.0 elephant-ads.com
 0.0.0.0 elepocial.pro
