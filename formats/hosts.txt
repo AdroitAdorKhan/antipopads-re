@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.035
 # Release: 035
-# Entries: 22,026
-# Updated: Fri, 04 Feb 22 10:03:10 +06
+# Entries: 22,028
+# Updated: Fri, 04 Feb 22 16:02:05 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -6370,6 +6370,7 @@
 0.0.0.0 expelpoucey.com
 0.0.0.0 expenditurebaneopenly.com
 0.0.0.0 expendituredefeated.com
+0.0.0.0 experimentmelting.com
 0.0.0.0 expertcamomile.com
 0.0.0.0 expertisesweetnessforesight.com
 0.0.0.0 expertist.xyz
@@ -20676,6 +20677,7 @@
 0.0.0.0 www.evgywgur.com
 0.0.0.0 www.excludepops.com
 0.0.0.0 www.exjozegvbaresw.com
+0.0.0.0 www.experimentmelting.com
 0.0.0.0 www.expertcamomile.com
 0.0.0.0 www.expertisesweetnessforesight.com
 0.0.0.0 www.explanationrecognise.com

@@ -20,8 +20,8 @@
 ! Version: 22.02.035
 ! Release: 035
 ! Expires: 1 day
-! Entries: 22,026
-! Updated: Fri, 04 Feb 22 10:03:10 +06
+! Entries: 22,028
+! Updated: Fri, 04 Feb 22 16:02:05 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -6371,6 +6371,7 @@
 ||expelpoucey.com^
 ||expenditurebaneopenly.com^
 ||expendituredefeated.com^
+||experimentmelting.com^
 ||expertcamomile.com^
 ||expertisesweetnessforesight.com^
 ||expertist.xyz^
@@ -20677,6 +20678,7 @@
 ||www.evgywgur.com^
 ||www.excludepops.com^
 ||www.exjozegvbaresw.com^
+||www.experimentmelting.com^
 ||www.expertcamomile.com^
 ||www.expertisesweetnessforesight.com^
 ||www.explanationrecognise.com^
