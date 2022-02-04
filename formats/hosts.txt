@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.035
 # Release: 035
-# Entries: 22,031
-# Updated: Fri, 04 Feb 22 20:02:36 +06
+# Entries: 22,032
+# Updated: Fri, 04 Feb 22 22:03:14 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -6723,6 +6723,7 @@
 0.0.0.0 fgjpvhkxwb.top
 0.0.0.0 fgvephkpveviah.top
 0.0.0.0 fhabqcgxwjaw.top
+0.0.0.0 fhbxpetioxgfgol.xyz
 0.0.0.0 fhgh9sd.com
 0.0.0.0 fhisownkindt.xyz
 0.0.0.0 fhivhfmdifcy.top
