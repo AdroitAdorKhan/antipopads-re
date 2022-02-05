@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.036
 # Release: 036
-# Entries: 22,135
-# Updated: Sat, 05 Feb 22 10:03:07 +06
+# Entries: 22,137
+# Updated: Sat, 05 Feb 22 14:01:58 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -18175,6 +18175,7 @@
 0.0.0.0 thautsie.net
 0.0.0.0 thaveksi.net
 0.0.0.0 thawheek.com
+0.0.0.0 thazukom.net
 0.0.0.0 theadgateway.com
 0.0.0.0 the-adult-lovers1.com
 0.0.0.0 theapple.site
@@ -21005,6 +21006,7 @@
 0.0.0.0 www.pamphletrating.com
 0.0.0.0 www.pawnprime.com
 0.0.0.0 www.payslipsplunge.com
+0.0.0.0 www.pbterra.com
 0.0.0.0 www.pdmtmribgaqctz.com
 0.0.0.0 www.pedestalstall.com
 0.0.0.0 www.peerprevious.com
