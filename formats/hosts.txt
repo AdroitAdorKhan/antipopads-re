@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.037
 # Release: 037
-# Entries: 22,165
-# Updated: Sun, 06 Feb 22 12:03:01 +06
+# Entries: 22,166
+# Updated: Sun, 06 Feb 22 14:04:17 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -14320,6 +14320,7 @@
 0.0.0.0 pompeyperspire.com
 0.0.0.0 pomposityretainerparish.com
 0.0.0.0 pompouseruptionrang.com
+0.0.0.0 pompysxdz.com
 0.0.0.0 ponchowafesargb.com
 0.0.0.0 ponderaura.com
 0.0.0.0 pondgabtom.com
