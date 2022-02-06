@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.037
 # Release: 037
-# Entries: 22,162
-# Updated: Sun, 06 Feb 22 08:01:39 +06
+# Entries: 22,163
+# Updated: Sun, 06 Feb 22 10:02:34 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -20810,6 +20810,7 @@
 0.0.0.0 www.eyevfswxtcij.com
 0.0.0.0 www.ezeraf.com
 0.0.0.0 www.facilitatevoluntarily.com
+0.0.0.0 www.fadedcovertrefuse.com
 0.0.0.0 www.fadverdirect.com
 0.0.0.0 www.faithaiy.com
 0.0.0.0 www.fastestvolcano.com
