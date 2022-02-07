@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.038
 # Release: 038
-# Entries: 22,208
-# Updated: Mon, 07 Feb 22 14:03:54 +06
+# Entries: 22,210
+# Updated: Mon, 07 Feb 22 16:02:02 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3553,6 +3553,7 @@
 0.0.0.0 censusmiles.com
 0.0.0.0 centalsruck.com
 0.0.0.0 centauruspopyou.com
+0.0.0.0 centedeemstacts.com
 0.0.0.0 centeredpleasedfeudal.com
 0.0.0.0 centerwheelswildly.com
 0.0.0.0 centimetresnappeddock.com
@@ -18756,6 +18757,7 @@
 0.0.0.0 trippealbirthda.info
 0.0.0.0 tripsbooth.com
 0.0.0.0 trisxisys.com
+0.0.0.0 tritionstration.com
 0.0.0.0 triumphalslide.com
 0.0.0.0 triumphantplace.com
 0.0.0.0 triumphgeorgianaselfcontrol.com
