@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.040
 # Release: 040
-# Entries: 22,335
-# Updated: Wed, 09 Feb 22 08:01:58 +06
+# Entries: 22,336
+# Updated: Wed, 09 Feb 22 16:05:00 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -4332,6 +4332,7 @@
 0.0.0.0 convincingnotion.com
 0.0.0.0 convrse.media
 0.0.0.0 conyak.com
+0.0.0.0 conyannahedisulin.com
 0.0.0.0 coograma.net
 0.0.0.0 cookliverelk.com
 0.0.0.0 cookoval.com
