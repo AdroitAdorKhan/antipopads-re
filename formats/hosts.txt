@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.040
 # Release: 040
-# Entries: 22,355
-# Updated: Wed, 09 Feb 22 18:02:45 +06
+# Entries: 22,356
+# Updated: Wed, 09 Feb 22 20:03:10 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -10808,6 +10808,7 @@
 0.0.0.0 leveluptrax.com
 0.0.0.0 leveryone.club
 0.0.0.0 levityprogramming.com
+0.0.0.0 lewatchmorated.com
 0.0.0.0 lewritishma.space
 0.0.0.0 lexwwrykoquvrg.com
 0.0.0.0 lfbwmlbdqdqyu.top
