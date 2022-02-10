@@ -19,8 +19,8 @@
 # Format: domains
 # Version: 22.02.041
 # Release: 041
-# Entries: 22,414
-# Updated: Thu, 10 Feb 22 08:02:07 +06
+# Entries: 22,415
+# Updated: Thu, 10 Feb 22 14:04:23 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -536,6 +536,7 @@ aa53df329975c325.com
 aaaaaco.com
 aab-check.me
 aabmxezph.com
+aab-proxy-tests.top
 aaelbndsudycdct.xyz
 aafdcq.com
 aafysksjv.xyz
