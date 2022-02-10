@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.041
 # Release: 041
-# Entries: 22,415
-# Updated: Thu, 10 Feb 22 14:04:23 +06
+# Entries: 22,417
+# Updated: Thu, 10 Feb 22 16:02:23 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -10546,6 +10546,7 @@
 0.0.0.0 kveokjvlkdhxub.top
 0.0.0.0 kvhjkonefeyfdq.top
 0.0.0.0 kvjckkojr.top
+0.0.0.0 kvoyqpxsirr.com
 0.0.0.0 kvpwmditjvy.top
 0.0.0.0 kvunesdditwsnig.top
 0.0.0.0 kvuorludqdxuvbd.top
@@ -21811,6 +21812,7 @@
 0.0.0.0 xtremeserve.xyz
 0.0.0.0 xtroyfwcmn.xyz
 0.0.0.0 xts7fgss.com
+0.0.0.0 xtssfsmpfdgyrw.com
 0.0.0.0 xtycflpacoqopt.xyz
 0.0.0.0 xu5ctufltn.com
 0.0.0.0 xuakak.com
