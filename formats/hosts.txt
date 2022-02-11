@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.042
 # Release: 042
-# Entries: 22,564
-# Updated: Fri, 11 Feb 22 20:02:55 +06
+# Entries: 22,575
+# Updated: Fri, 11 Feb 22 20:16:07 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -30,7 +30,6 @@
 0.0.0.0 006a039c957c142bb.com
 0.0.0.0 00aaa2d81c1d174.com
 0.0.0.0 0127538a552.com
-0.0.0.0 0.20www.bcloudhost.com
 0.0.0.0 0265331.com
 0.0.0.0 02aa19117f396e9.com
 0.0.0.0 039ad0897e6da.com
@@ -66,7 +65,6 @@
 0.0.0.0 0oaqgsk54hm5.com
 0.0.0.0 0pyn37dv3m.com
 0.0.0.0 0redirb.com
-0.0.0.0 0redirc.comwww.profitabledisplaycontent.com
 0.0.0.0 0sntp7dnrr.com
 0.0.0.0 0sywjs4r1x.com
 0.0.0.0 0w1rqq69fi0e.com
@@ -128,7 +126,6 @@
 0.0.0.0 1redira.com
 0.0.0.0 1redirb.com
 0.0.0.0 1web.me
-0.0.0.0 1www.bestdisplayformats.com
 0.0.0.0 1xroom.com
 0.0.0.0 2020mustang.com
 0.0.0.0 203fb7a4cb1.com
@@ -180,7 +177,6 @@
 0.0.0.0 2cnjuh34jbstar.com
 0.0.0.0 2dbd87c7a091b.com
 0.0.0.0 2dpt.com
-0.0.0.0 2fwww.profitabledisplaycontent.com
 0.0.0.0 2g6gj3aojcrj.com
 0.0.0.0 2hanwriten.com
 0.0.0.0 2htg.com
@@ -5526,8 +5522,11 @@
 0.0.0.0 down1oads.com
 0.0.0.0 downloadboutique.com
 0.0.0.0 downloadgot.com
+0.0.0.0 downloadmobilee.info
 0.0.0.0 downloadmobile.info
+0.0.0.0 downloadmoobilee.info
 0.0.0.0 download-performance.com
+0.0.0.0 downloadphone.info
 0.0.0.0 download-readynow.com
 0.0.0.0 downloadss.info
 0.0.0.0 downloadthesefile.com
@@ -6194,6 +6193,7 @@
 0.0.0.0 enlnks.com
 0.0.0.0 enmassstraits.com
 0.0.0.0 enmisindingat.info
+0.0.0.0 enmvnowpx.com
 0.0.0.0 enodiarahnthedon.com
 0.0.0.0 enormitteen.pro
 0.0.0.0 enormouslyauditorium.com
@@ -7254,6 +7254,7 @@
 0.0.0.0 freakspybad.com
 0.0.0.0 freeadultcomix.com
 0.0.0.0 freebiesurveys.com
+0.0.0.0 freechatss.info
 0.0.0.0 freecouponbiz.com
 0.0.0.0 freedating-hookup.life
 0.0.0.0 free-domain.net
@@ -7500,6 +7501,7 @@
 0.0.0.0 gallonranchwhining.com
 0.0.0.0 gallopprisonbanter.com
 0.0.0.0 galyra.com
+0.0.0.0 gambl20bet.pro
 0.0.0.0 gameragematt.com
 0.0.0.0 gamersad.com
 0.0.0.0 gamersbanner.com
@@ -7996,6 +7998,7 @@
 0.0.0.0 goofypismica.com
 0.0.0.0 googleapi.club
 0.0.0.0 gooods4you.com
+0.0.0.0 gooogleupdatee.info
 0.0.0.0 gooseberrystabilitysheet.com
 0.0.0.0 goosebomb.com
 0.0.0.0 goosedetectives.com
@@ -9444,6 +9447,7 @@
 0.0.0.0 installationtray.com
 0.0.0.0 installcdnfile.com
 0.0.0.0 installerleading.com
+0.0.0.0 installlnow.com
 0.0.0.0 installnow.pro
 0.0.0.0 installsbarefootedringer.com
 0.0.0.0 installssmashedbab.com
@@ -12636,6 +12640,7 @@
 0.0.0.0 newtab-media.com
 0.0.0.0 newthuads.com
 0.0.0.0 newtontanrec.casa
+0.0.0.0 newvideoapp.pro
 0.0.0.0 newyearnowmc1.club
 0.0.0.0 nextgencounter.com
 0.0.0.0 nextlyrumbo.cam
@@ -16677,7 +16682,6 @@
 0.0.0.0 samplerpouch.com
 0.0.0.0 samsienshrivel.com
 0.0.0.0 samsungads.com
-0.0.0.0 samsung.com
 0.0.0.0 samtrg.com
 0.0.0.0 samuelgirlism.com
 0.0.0.0 samvaulter.com
@@ -18464,6 +18468,7 @@
 0.0.0.0 testen-und-behalten.club
 0.0.0.0 testexemplify.com
 0.0.0.0 testifyconvent.com
+0.0.0.0 testserverlp.pro
 0.0.0.0 testsite34.com
 0.0.0.0 tesulf.com
 0.0.0.0 tetfer.com
@@ -18838,7 +18843,6 @@
 0.0.0.0 toopjomqdorxxht.xyz
 0.0.0.0 tooptauy.net
 0.0.0.0 tooviolatesymptom.com
-0.0.0.0 tooviolatesymptom.comwww.tooviolatesymptom.com
 0.0.0.0 topadbid.com
 0.0.0.0 topbetfast.com
 0.0.0.0 topbiz.news
@@ -19306,6 +19310,7 @@
 0.0.0.0 ucequwttihxby.top
 0.0.0.0 ucgdychh.top
 0.0.0.0 ucgyxfsreo.com
+0.0.0.0 uckbcroqkb.com
 0.0.0.0 uclerdnrjaafr.com
 0.0.0.0 uctzcsooizikt.com
 0.0.0.0 udarem.com
@@ -19591,9 +19596,13 @@
 0.0.0.0 uovcdfdfscgwbr.top
 0.0.0.0 uozrikpw.com
 0.0.0.0 up4u.me
+0.0.0.0 updatebrowser.pro
 0.0.0.0 updatedbut.com
 0.0.0.0 updatedheavesaid.com
+0.0.0.0 updateenow.com
 0.0.0.0 updateongoingdiving.com
+0.0.0.0 updatepro.pro
+0.0.0.0 updaterecomended.info
 0.0.0.0 upgastlyr.com
 0.0.0.0 upghmvibgb.xyz
 0.0.0.0 upgliscorom.com
@@ -21136,6 +21145,7 @@
 0.0.0.0 www.disruptorgan.com
 0.0.0.0 www.doorbellbadge.com
 0.0.0.0 www.doormancreeping.com
+0.0.0.0 www.downloadmobile.info
 0.0.0.0 www.draughtacted.com
 0.0.0.0 www.droopingmore.com
 0.0.0.0 www.droppedrolling.com
@@ -21148,7 +21158,6 @@
 0.0.0.0 www.eaterenhanced.com
 0.0.0.0 www.eatwinner.com
 0.0.0.0 www.effectivedisplaycontent.com
-0.0.0.0 www.effectivedisplayformat.comwww.effectivedisplayformat.com
 0.0.0.0 www.effectivegatetocontent.com
 0.0.0.0 www.effectiveperformanceformat.com
 0.0.0.0 www.egfqtvewksktz.com
@@ -21285,6 +21294,7 @@
 0.0.0.0 www.initiallogical.com
 0.0.0.0 www.innumerablecaw.com
 0.0.0.0 www.inspirebunwatchful.com
+0.0.0.0 www.installnow.pro
 0.0.0.0 www.intellectualcontradictstuck.com
 0.0.0.0 www.interposedflickhip.com
 0.0.0.0 www.invariablyedacityedacitypeach.com
@@ -22007,6 +22017,7 @@
 0.0.0.0 xxxsexfinder-here2.com
 0.0.0.0 xxxsexfinder-here5.com
 0.0.0.0 xxxsexlocator-here2.com
+0.0.0.0 xxxvideosss.info
 0.0.0.0 xxxvipporno.com
 0.0.0.0 xxxwebtraffic.com
 0.0.0.0 xydbpbnmo.com
