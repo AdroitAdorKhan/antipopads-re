@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.043
 # Release: 043
-# Entries: 22,623
-# Updated: Sat, 12 Feb 22 10:03:08 +06
+# Entries: 22,628
+# Updated: Sat, 12 Feb 22 18:02:18 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -8992,6 +8992,7 @@
 0.0.0.0 hurtfulindelicate.com
 0.0.0.0 hurypswrkjd.top
 0.0.0.0 husbandbazaar.com
+0.0.0.0 husfly.com
 0.0.0.0 hushpub.com
 0.0.0.0 husktheoretical.com
 0.0.0.0 hussarsestop.com
@@ -15154,6 +15155,7 @@
 0.0.0.0 publited.com
 0.0.0.0 pubmaner5.com
 0.0.0.0 pubnation.com
+0.0.0.0 pubpowerplatform.io
 0.0.0.0 pubrain.com
 0.0.0.0 pubted.com
 0.0.0.0 pubtm.com
@@ -18765,6 +18767,9 @@
 0.0.0.0 tistianmaga.top
 0.0.0.0 tisttropolic.biz
 0.0.0.0 titanads1.com
+0.0.0.0 titanads2.com
+0.0.0.0 titanads3.com
+0.0.0.0 titanads4.com
 0.0.0.0 titanads5.com
 0.0.0.0 tithephustu.com
 0.0.0.0 tithewtog.com
