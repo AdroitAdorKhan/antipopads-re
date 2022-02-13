@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.044
 # Release: 044
-# Entries: 22,676
-# Updated: Sun, 13 Feb 22 08:02:06 +06
+# Entries: 22,678
+# Updated: Sun, 13 Feb 22 10:02:26 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -8529,6 +8529,7 @@
 0.0.0.0 heellucent.com
 0.0.0.0 heeteefu.com
 0.0.0.0 heevaush.com
+0.0.0.0 heewuque.com
 0.0.0.0 heextending.com
 0.0.0.0 hegreeks.com
 0.0.0.0 hegrem.com
@@ -21431,6 +21432,7 @@
 0.0.0.0 www.locketamoral.com
 0.0.0.0 www.loohiwez.net
 0.0.0.0 www.lousebankroll.com
+0.0.0.0 www.lucidlydiscretion.com
 0.0.0.0 www.lucylent.com
 0.0.0.0 www.lumiz.com
 0.0.0.0 www.luvnrybocrcgl.com
