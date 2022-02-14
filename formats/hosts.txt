@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.045
 # Release: 045
-# Entries: 22,756
-# Updated: Mon, 14 Feb 22 16:02:02 +06
+# Entries: 22,758
+# Updated: Mon, 14 Feb 22 18:02:36 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -533,6 +533,7 @@
 0.0.0.0 aab-check.me
 0.0.0.0 aabmxezph.com
 0.0.0.0 aab-proxy-tests.top
+0.0.0.0 aabproxytests.top
 0.0.0.0 aaelbndsudycdct.xyz
 0.0.0.0 aafdcq.com
 0.0.0.0 aafysksjv.xyz
@@ -8218,6 +8219,7 @@
 0.0.0.0 grooptie.com
 0.0.0.0 groorgex.net
 0.0.0.0 groosick.net
+0.0.0.0 grootcho.com
 0.0.0.0 gropsanyda.com
 0.0.0.0 gropsyruty.com
 0.0.0.0 grotesquemoviemankind.com

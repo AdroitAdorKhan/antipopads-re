@@ -20,8 +20,8 @@
 ! Version: 22.02.045
 ! Release: 045
 ! Expires: 1 day
-! Entries: 22,756
-! Updated: Mon, 14 Feb 22 16:02:02 +06
+! Entries: 22,758
+! Updated: Mon, 14 Feb 22 18:02:36 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -534,6 +534,7 @@
 ||aab-check.me^
 ||aabmxezph.com^
 ||aab-proxy-tests.top^
+||aabproxytests.top^
 ||aaelbndsudycdct.xyz^
 ||aafdcq.com^
 ||aafysksjv.xyz^
@@ -8219,6 +8220,7 @@
 ||grooptie.com^
 ||groorgex.net^
 ||groosick.net^
+||grootcho.com^
 ||gropsanyda.com^
 ||gropsyruty.com^
 ||grotesquemoviemankind.com^
