@@ -20,8 +20,8 @@
 ! Version: 22.02.046
 ! Release: 046
 ! Expires: 1 day
-! Entries: 22,810
-! Updated: Tue, 15 Feb 22 06:03:38 +06
+! Entries: 22,811
+! Updated: Tue, 15 Feb 22 10:04:16 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -21627,6 +21627,7 @@
 ||www.pacifyrespirator.com^
 ||www.paginx.com^
 ||www.pamphletrating.com^
+||www.pawnoutletprimary.com^
 ||www.pawnprime.com^
 ||www.payslipsplunge.com^
 ||www.pbterra.com^
