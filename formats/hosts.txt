@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.047
 # Release: 047
-# Entries: 22,840
-# Updated: Wed, 16 Feb 22 00:02:56 +06
+# Entries: 22,842
+# Updated: Wed, 16 Feb 22 02:05:07 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -5458,6 +5458,7 @@
 0.0.0.0 dnfmiwlcinfauit.com
 0.0.0.0 dnncysogglhg.com
 0.0.0.0 dnoqfytgvhtux.top
+0.0.0.0 dntchnyghet.com
 0.0.0.0 dntrax.com
 0.0.0.0 dnxqrpiiuqkswxv.com
 0.0.0.0 doagleeh.com
@@ -17430,6 +17431,7 @@
 0.0.0.0 sikhscaid.com
 0.0.0.0 siklgmjs.com
 0.0.0.0 sikogesta.com
+0.0.0.0 sikrlzlq.com
 0.0.0.0 silascandiedfastened.com
 0.0.0.0 silklanguish.com
 0.0.0.0 silkymalgr.casa
