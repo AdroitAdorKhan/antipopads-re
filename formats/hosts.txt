@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.047
 # Release: 047
-# Entries: 22,886
-# Updated: Wed, 16 Feb 22 12:05:35 +06
+# Entries: 22,887
+# Updated: Wed, 16 Feb 22 18:03:51 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -5575,6 +5575,7 @@
 0.0.0.0 douhooke.net
 0.0.0.0 douoblelimpup.com
 0.0.0.0 doupteju.com
+0.0.0.0 dourbanjonament.com
 0.0.0.0 doushoom.net
 0.0.0.0 douthosh.net
 0.0.0.0 doveprovidingyear.com
