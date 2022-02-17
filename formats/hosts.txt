@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.048
 # Release: 048
-# Entries: 22,954
-# Updated: Thu, 17 Feb 22 08:03:13 +06
+# Entries: 22,955
+# Updated: Thu, 17 Feb 22 10:03:06 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -816,6 +816,7 @@
 0.0.0.0 adiquity.com
 0.0.0.0 adjoincomprise.com
 0.0.0.0 adjoiningfollowingaddiction.com
+0.0.0.0 adjoiningrolesuspicious.com
 0.0.0.0 adjointeen.com
 0.0.0.0 adjuabwmsrlxhr.com
 0.0.0.0 adjuggler.net
