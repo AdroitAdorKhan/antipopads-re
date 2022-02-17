@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.049
 # Release: 049
-# Entries: 23,031
-# Updated: Fri, 18 Feb 22 02:05:28 +06
+# Entries: 23,032
+# Updated: Fri, 18 Feb 22 04:04:57 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -19471,6 +19471,7 @@
 0.0.0.0 trustedcpmrevenue.com
 0.0.0.0 trusted.de
 0.0.0.0 trustedgatetocontent.com
+0.0.0.0 trustedpeach.com
 0.0.0.0 trustmeiamcdn.com
 0.0.0.0 trustworthytopmost.com
 0.0.0.0 trustyfine.com
