@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.050
 # Release: 050
-# Entries: 23,115
-# Updated: Sat, 19 Feb 22 02:05:09 +06
+# Entries: 23,116
+# Updated: Sat, 19 Feb 22 04:02:59 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2903,6 +2903,7 @@
 0.0.0.0 bnc4m.com
 0.0.0.0 bnc5m.com
 0.0.0.0 bncelgbt.top
+0.0.0.0 bnglzajikraz.com
 0.0.0.0 bngpst.com
 0.0.0.0 bngpt.com
 0.0.0.0 bngtypqvla.xyz

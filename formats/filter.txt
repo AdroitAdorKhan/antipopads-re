@@ -20,8 +20,8 @@
 ! Version: 22.02.050
 ! Release: 050
 ! Expires: 1 day
-! Entries: 23,115
-! Updated: Sat, 19 Feb 22 02:05:09 +06
+! Entries: 23,116
+! Updated: Sat, 19 Feb 22 04:02:59 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -2904,6 +2904,7 @@
 ||bnc4m.com^
 ||bnc5m.com^
 ||bncelgbt.top^
+||bnglzajikraz.com^
 ||bngpst.com^
 ||bngpt.com^
 ||bngtypqvla.xyz^
