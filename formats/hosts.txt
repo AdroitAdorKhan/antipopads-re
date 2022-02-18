@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.049
 # Release: 049
-# Entries: 23,071
-# Updated: Fri, 18 Feb 22 10:03:03 +06
+# Entries: 23,073
+# Updated: Fri, 18 Feb 22 16:02:36 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3674,6 +3674,7 @@
 0.0.0.0 cerizoug.net
 0.0.0.0 cernrefraidinterva.xyz
 0.0.0.0 cerousfirmest.com
+0.0.0.0 cerseriesacated.com
 0.0.0.0 certainalmostcontent.com
 0.0.0.0 certified-apps.com
 0.0.0.0 certifiedemphasize.com
@@ -19275,6 +19276,7 @@
 0.0.0.0 tororango.com
 0.0.0.0 torpsol.com
 0.0.0.0 torrango.com
+0.0.0.0 torrentmisplace.com
 0.0.0.0 torrentprotection.com
 0.0.0.0 torrentsafeguard.com
 0.0.0.0 torrentvicious.com
