@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.050
 # Release: 050
-# Entries: 23,147
-# Updated: Sat, 19 Feb 22 06:02:43 +06
+# Entries: 23,148
+# Updated: Sat, 19 Feb 22 10:02:58 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -22060,6 +22060,7 @@
 0.0.0.0 www.sempcxjajh.com
 0.0.0.0 www.sensationescalator.com
 0.0.0.0 www.sensitivenessbuttons.com
+0.0.0.0 www.sentineldiscordmm.com
 0.0.0.0 www.sewingdoubtlessperch.com
 0.0.0.0 www.sewingfibber.com
 0.0.0.0 www.shadesconfrontsickle.com
