@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.050
 # Release: 050
-# Entries: 23,169
-# Updated: Sat, 19 Feb 22 20:02:41 +06
+# Entries: 23,170
+# Updated: Sat, 19 Feb 22 22:02:40 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -7857,6 +7857,7 @@
 0.0.0.0 getyour-ladyshere.com
 0.0.0.0 get-your-sexy-now4.com
 0.0.0.0 geudtdngkums.com
+0.0.0.0 geuninebd.com
 0.0.0.0 geuniveruls.top
 0.0.0.0 gfaibqwtjueust.top
 0.0.0.0 gfctkmnixrqygpm.com
