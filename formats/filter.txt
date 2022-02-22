@@ -20,8 +20,8 @@
 ! Version: 22.02.053
 ! Release: 053
 ! Expires: 1 day
-! Entries: 23,346
-! Updated: Tue, 22 Feb 22 10:02:57 +06
+! Entries: 23,347
+! Updated: Tue, 22 Feb 22 16:04:57 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -2155,6 +2155,7 @@
 ||awbbcre.com^
 ||awbbjmp.com^
 ||awblskfbjv.top^
+||awcrpu.com^
 ||awdigit.info^
 ||awebotchunto.work^
 ||awecre.com^
