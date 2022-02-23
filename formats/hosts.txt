@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.054
 # Release: 054
-# Entries: 23,458
-# Updated: Wed, 23 Feb 22 16:02:07 +06
+# Entries: 23,460
+# Updated: Wed, 23 Feb 22 18:03:20 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -16785,6 +16785,7 @@
 0.0.0.0 ridencemoradered.com
 0.0.0.0 riderfabric.com
 0.0.0.0 ridethesisfrankly.com
+0.0.0.0 ridevelsvegorter.com
 0.0.0.0 ridexasperateunstable.com
 0.0.0.0 ridferbad.com
 0.0.0.0 ridgesledge.com
@@ -19638,6 +19639,7 @@
 0.0.0.0 tpyjvuabenof.xyz
 0.0.0.0 tqdarrhactqc.com
 0.0.0.0 tqegpvgli.xyz
+0.0.0.0 tqgumlxwtohl.com
 0.0.0.0 tqhitmrbkq.com
 0.0.0.0 tqigphgai.xyz
 0.0.0.0 tqiobngshqsv.xyz
