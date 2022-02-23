@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.02.054
-! Release: 054
+! Version: 22.02.055
+! Release: 055
 ! Expires: 1 day
-! Entries: 23,491
-! Updated: Wed, 23 Feb 22 22:02:33 +06
+! Entries: 23,492
+! Updated: Thu, 24 Feb 22 00:06:27 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -5845,6 +5845,7 @@
 ||dughault.com^
 ||duginamis.com^
 ||dugothitachan.com^
+||dugvjemey.com^
 ||duhmonkssand.cam^
 ||duhochid.net^
 ||dujcjyyfb.top^
