@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.055
 # Release: 055
-# Entries: 23,514
-# Updated: Thu, 24 Feb 22 08:03:09 +06
+# Entries: 23,516
+# Updated: Thu, 24 Feb 22 10:02:33 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -18929,6 +18929,7 @@
 0.0.0.0 swoodlander.site
 0.0.0.0 swoopclusterbeasts.com
 0.0.0.0 swoste.com
+0.0.0.0 sxirjcfutvuwk.com
 0.0.0.0 sxlpfwckxpqgef.xyz
 0.0.0.0 sxssyxiero.top
 0.0.0.0 sxumsvdocyofyfs.com
@@ -23407,6 +23408,7 @@
 0.0.0.0 zeltooch.net
 0.0.0.0 zel-zel-fie.com
 0.0.0.0 zemqvlylmtu.com
+0.0.0.0 zenaps.com
 0.0.0.0 zenkreka.com
 0.0.0.0 zenoviaexchange.com
 0.0.0.0 zenoviagroup.com
