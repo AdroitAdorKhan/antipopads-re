@@ -20,8 +20,8 @@
 ! Version: 22.02.056
 ! Release: 056
 ! Expires: 1 day
-! Entries: 23,601
-! Updated: Fri, 25 Feb 22 16:05:51 +06
+! Entries: 23,602
+! Updated: Fri, 25 Feb 22 18:05:55 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -22099,6 +22099,7 @@
 ||www.eaesie.com^
 ||www.eaterenhanced.com^
 ||www.eatwinner.com^
+||www.effectivecpmcontent.com^
 ||www.effectivedisplaycontent.com^
 ||www.effectivegatetocontent.com^
 ||www.effectiveperformanceformat.com^

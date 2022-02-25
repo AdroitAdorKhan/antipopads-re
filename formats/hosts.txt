@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.056
 # Release: 056
-# Entries: 23,601
-# Updated: Fri, 25 Feb 22 16:05:51 +06
+# Entries: 23,602
+# Updated: Fri, 25 Feb 22 18:05:55 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -22098,6 +22098,7 @@
 0.0.0.0 www.eaesie.com
 0.0.0.0 www.eaterenhanced.com
 0.0.0.0 www.eatwinner.com
+0.0.0.0 www.effectivecpmcontent.com
 0.0.0.0 www.effectivedisplaycontent.com
 0.0.0.0 www.effectivegatetocontent.com
 0.0.0.0 www.effectiveperformanceformat.com
