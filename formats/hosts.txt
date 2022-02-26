@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.058
 # Release: 058
-# Entries: 23,715
-# Updated: Sun, 27 Feb 22 02:02:47 +06
+# Entries: 23,719
+# Updated: Sun, 27 Feb 22 04:03:07 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2728,6 +2728,7 @@
 0.0.0.0 bfnaqcqrotc.top
 0.0.0.0 bfoxuwwptgexlh.top
 0.0.0.0 bfwnjrxmsugxxbx.xyz
+0.0.0.0 bfybdoqdgowk.xyz
 0.0.0.0 bfypvmnytobqyn.xyz
 0.0.0.0 bg6s0.com
 0.0.0.0 bgaxgjre.xyz
@@ -5603,6 +5604,7 @@
 0.0.0.0 dmgabwtokiaqw.top
 0.0.0.0 dmkkvhcwalgd.xyz
 0.0.0.0 dmnprx.com
+0.0.0.0 dmrygghrhotdpl.xyz
 0.0.0.0 dmstrck.com
 0.0.0.0 dmsxeusjst.com
 0.0.0.0 dmvbdfblevxvx.com
@@ -13844,6 +13846,7 @@
 0.0.0.0 obliteratebedblue.com
 0.0.0.0 oblivionwatcherrebellious.com
 0.0.0.0 obnoxiouspatrolassault.com
+0.0.0.0 obqdefya.xyz
 0.0.0.0 obrqetfu.xyz
 0.0.0.0 obscenitythefodder.com
 0.0.0.0 obscureforum.com
@@ -20179,6 +20182,7 @@
 0.0.0.0 twwfxwgvlnc.com
 0.0.0.0 txcmjo.com
 0.0.0.0 txcsudkymdq.com
+0.0.0.0 txgwscbhqkh.xyz
 0.0.0.0 txhjusffbmoocb.top
 0.0.0.0 txmboigodejgj.xyz
 0.0.0.0 txqafwdutgjx.xyz
