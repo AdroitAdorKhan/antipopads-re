@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.057
 # Release: 057
-# Entries: 23,680
-# Updated: Sat, 26 Feb 22 10:03:44 +06
+# Entries: 23,682
+# Updated: Sat, 26 Feb 22 12:03:37 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1909,6 +1909,7 @@
 0.0.0.0 asmodeusfields.com
 0.0.0.0 asnxcmamb.xyz
 0.0.0.0 aso1.net
+0.0.0.0 asofcfxmvg.com
 0.0.0.0 asoulrox.com
 0.0.0.0 asozelyuz.com
 0.0.0.0 asparagusmeaninglessyearly.com
@@ -2152,6 +2153,7 @@
 0.0.0.0 avickhoseman.cam
 0.0.0.0 avkyu1tesnwy.com
 0.0.0.0 avlxcbdohfqs.xyz
+0.0.0.0 avnkkdvvdpjnks.xyz
 0.0.0.0 avqvrsakvjg.top
 0.0.0.0 avufdeqrsqi.com
 0.0.0.0 avugercqfy.com
