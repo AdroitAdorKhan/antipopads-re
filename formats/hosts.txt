@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.059
 # Release: 059
-# Entries: 23,763
-# Updated: Mon, 28 Feb 22 02:02:53 +06
+# Entries: 23,767
+# Updated: Mon, 28 Feb 22 04:03:08 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -5761,6 +5761,7 @@
 0.0.0.0 dpgawov.com
 0.0.0.0 dpjsfrhklu.top
 0.0.0.0 dpjtbpbigtdhhq.xyz
+0.0.0.0 dpksthogvyarojr.xyz
 0.0.0.0 dplastingt.biz
 0.0.0.0 dpmmbnjkmoqjygf.top
 0.0.0.0 dpmsrv.com
@@ -8563,6 +8564,7 @@
 0.0.0.0 gsbxjrup.com
 0.0.0.0 gscducqnfapoo.top
 0.0.0.0 gscqlkaou.top
+0.0.0.0 gsemtjifsum.xyz
 0.0.0.0 gseqejjb.xyz
 0.0.0.0 gsfjrsrcrn.top
 0.0.0.0 gshvxdylnsiuutl.top
@@ -10026,6 +10028,7 @@
 0.0.0.0 iqcivddok.com
 0.0.0.0 iqhgumpqj.top
 0.0.0.0 iqkfplsez.com
+0.0.0.0 iqqywmamdfw.com
 0.0.0.0 iqsyihsvu.top
 0.0.0.0 iqwczlbxvtcnh.com
 0.0.0.0 iqxjxmqvve.top
@@ -11482,6 +11485,7 @@
 0.0.0.0 lgse.com
 0.0.0.0 lgsmartad.com
 0.0.0.0 lgtweycdb.com
+0.0.0.0 lgvgluvipmynpm.xyz
 0.0.0.0 lgvguopvrncv.com
 0.0.0.0 lhacgsdvkrm.com
 0.0.0.0 lhecebavlvfnfd.top
