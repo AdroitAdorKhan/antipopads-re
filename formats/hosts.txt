@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.058
 # Release: 058
-# Entries: 23,756
-# Updated: Sun, 27 Feb 22 20:02:39 +06
+# Entries: 23,758
+# Updated: Sun, 27 Feb 22 22:03:17 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -12587,6 +12587,7 @@
 0.0.0.0 mlegwhnrnljbw.xyz
 0.0.0.0 mlfaudrsegab.top
 0.0.0.0 mlitylcjgc.top
+0.0.0.0 mllyrwrkuvajo.com
 0.0.0.0 mlmixpqwivsxftw.xyz
 0.0.0.0 mlnadvertising.com
 0.0.0.0 mlsys.xyz
@@ -18658,6 +18659,7 @@
 0.0.0.0 ssbfhoadaqamc.top
 0.0.0.0 ssbyysdaj.com
 0.0.0.0 ssettoourm.com
+0.0.0.0 ssgxiiibyeo.xyz
 0.0.0.0 sshdiwiiqmm.top
 0.0.0.0 ssionsupre.fun
 0.0.0.0 sskmnews.pro
