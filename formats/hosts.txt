@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.02.059
 # Release: 059
-# Entries: 23,781
-# Updated: Mon, 28 Feb 22 12:09:33 +06
+# Entries: 23,782
+# Updated: Mon, 28 Feb 22 14:08:12 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -19136,6 +19136,7 @@
 0.0.0.0 sxvfaihmvcefki.top
 0.0.0.0 sxxmqbnqi.top
 0.0.0.0 syaonaffkxdylm.top
+0.0.0.0 sycuohhruojjsli.com
 0.0.0.0 sydcnomxkgmtssv.xyz
 0.0.0.0 sydneygfpink.com
 0.0.0.0 syduzothu.pro
