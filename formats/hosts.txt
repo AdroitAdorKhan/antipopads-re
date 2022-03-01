@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.060
 # Release: 060
-# Entries: 23,853
-# Updated: Tue, 01 Mar 22 08:07:31 +06
+# Entries: 23,854
+# Updated: Tue, 01 Mar 22 10:11:16 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -18267,6 +18267,7 @@
 0.0.0.0 sksbhetqpye.top
 0.0.0.0 skskbhkmrux.top
 0.0.0.0 skuganuetoesv.xyz
+0.0.0.0 skumuphopuhkun.com
 0.0.0.0 skynetcdn.com
 0.0.0.0 skynightmidm.com
 0.0.0.0 slabshookwasted.com
