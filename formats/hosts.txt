@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.060
 # Release: 060
-# Entries: 23,906
-# Updated: Tue, 01 Mar 22 20:02:56 +06
+# Entries: 23,908
+# Updated: Tue, 01 Mar 22 22:03:45 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -14293,6 +14293,7 @@
 0.0.0.0 onwasrv.com
 0.0.0.0 ooboulry.net
 0.0.0.0 oocevdwyruhdi.info
+0.0.0.0 oocstwvjhxfuajj.xyz
 0.0.0.0 oodraune.com
 0.0.0.0 oodroglu.net
 0.0.0.0 oodsauns.net
@@ -22068,6 +22069,7 @@
 0.0.0.0 woovaust.net
 0.0.0.0 woovooza.net
 0.0.0.0 woowhaiz.net
+0.0.0.0 wooyehnunmi.com
 0.0.0.0 wopsedoaltuwipp.com
 0.0.0.0 wopsedoaltuwn.com
 0.0.0.0 wopsedoaltuwo.com
