@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.060
 # Release: 060
-# Entries: 23,879
-# Updated: Tue, 01 Mar 22 16:04:38 +06
+# Entries: 23,881
+# Updated: Tue, 01 Mar 22 18:03:07 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -5000,6 +5000,7 @@
 0.0.0.0 dairouzy.net
 0.0.0.0 dairyabreast.com
 0.0.0.0 daistoce.com
+0.0.0.0 daisycontroversy.com
 0.0.0.0 daiwhoul.net
 0.0.0.0 daizoode.com
 0.0.0.0 dalarorganic.casa
@@ -14239,6 +14240,7 @@
 0.0.0.0 onfunakbltyb.xyz
 0.0.0.0 onfvkqopxns.top
 0.0.0.0 ongassume.top
+0.0.0.0 ongastlya.com
 0.0.0.0 ongspnmef.xyz
 0.0.0.0 onhowever.fun
 0.0.0.0 onhusband.top
