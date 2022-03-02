@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.061
 # Release: 061
-# Entries: 23,944
-# Updated: Wed, 02 Mar 22 16:04:52 +06
+# Entries: 23,946
+# Updated: Wed, 02 Mar 22 18:06:17 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -19930,6 +19930,7 @@
 0.0.0.0 toobaiji.net
 0.0.0.0 toochofo.com
 0.0.0.0 tookawie.com
+0.0.0.0 tookjvyljyibrah.com
 0.0.0.0 toonikab.com
 0.0.0.0 toonoost.net
 0.0.0.0 tooolsapps.info
@@ -21672,6 +21673,7 @@
 0.0.0.0 wbidder.online
 0.0.0.0 wbidr.com
 0.0.0.0 wblaejqvf.xyz
+0.0.0.0 wbmlkvovpjqeey.com
 0.0.0.0 wboptim.online
 0.0.0.0 wboyxicerdepwhs.top
 0.0.0.0 wbshyjipn.top
