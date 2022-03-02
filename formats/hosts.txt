@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.061
 # Release: 061
-# Entries: 23,923
-# Updated: Wed, 02 Mar 22 04:02:19 +06
+# Entries: 23,924
+# Updated: Wed, 02 Mar 22 06:02:32 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -7457,6 +7457,7 @@
 0.0.0.0 foldedjoke.com
 0.0.0.0 folderbunch.com
 0.0.0.0 foldertopichoot.com
+0.0.0.0 foldexcitedlyevery.com
 0.0.0.0 foldupbriningjeanne.com
 0.0.0.0 folksattunewig.com
 0.0.0.0 followan.xyz
