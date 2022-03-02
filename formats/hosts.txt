@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.03.061
-# Release: 061
-# Entries: 23,967
-# Updated: Wed, 02 Mar 22 22:03:28 +06
+# Version: 22.03.062
+# Release: 062
+# Entries: 23,973
+# Updated: Thu, 03 Mar 22 00:05:11 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -5612,6 +5612,7 @@
 0.0.0.0 dkgbbygxjmlnsxh.top
 0.0.0.0 dkieepjpdawl.top
 0.0.0.0 dkjrvgfozzhc.com
+0.0.0.0 dkksrclpfqmmtp.com
 0.0.0.0 dkmdklhu.com
 0.0.0.0 dkntccpxfpa.top
 0.0.0.0 dkojbppshh.xyz
@@ -14898,6 +14899,7 @@
 0.0.0.0 pcjdrhjergdjo.com
 0.0.0.0 pcmcuumrua.xyz
 0.0.0.0 pcrsmueyhciri.top
+0.0.0.0 pcsyendormup.com
 0.0.0.0 pctlwm.com
 0.0.0.0 pctsrv.com
 0.0.0.0 pcwfhsqyvrveku.com
@@ -16349,6 +16351,7 @@
 0.0.0.0 qlblpyslxciorl.com
 0.0.0.0 qliltideot.xyz
 0.0.0.0 qlmqzznfcb.com
+0.0.0.0 qlmxlgmqi.xyz
 0.0.0.0 qlnbkvkesqor.top
 0.0.0.0 qlnootpcwxx.top
 0.0.0.0 qlpceqckvsopfwv.top
@@ -17197,6 +17200,7 @@
 0.0.0.0 ritualwants.com
 0.0.0.0 ritualwarily.com
 0.0.0.0 riverhit.com
+0.0.0.0 rivulussati.com
 0.0.0.0 rixaka.com
 0.0.0.0 riycecerfpjreyx.xyz
 0.0.0.0 riziftoo.com
@@ -20040,6 +20044,7 @@
 0.0.0.0 tqiobngshqsv.xyz
 0.0.0.0 tqjcvgqc.top
 0.0.0.0 tqmvbnptsq.top
+0.0.0.0 tqrvftsbdagk.xyz
 0.0.0.0 tqybqtsbvu.top
 0.0.0.0 tr563.com
 0.0.0.0 tracepath.cc
@@ -23493,6 +23498,7 @@
 0.0.0.0 yfwlfxuu.top
 0.0.0.0 yg592gpmrh0q.com
 0.0.0.0 ygacpfyrtai.top
+0.0.0.0 ygfwbczu.com
 0.0.0.0 ygiqpclscehxx.top
 0.0.0.0 ygnnqkxheq.com
 0.0.0.0 ygpmbfkd.com
