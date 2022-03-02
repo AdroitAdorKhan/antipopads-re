@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.061
 # Release: 061
-# Entries: 23,946
-# Updated: Wed, 02 Mar 22 18:06:17 +06
+# Entries: 23,963
+# Updated: Wed, 02 Mar 22 20:03:41 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -723,6 +723,7 @@
 0.0.0.0 ad-back.net
 0.0.0.0 ad-balancer.net
 0.0.0.0 ad-bay.com
+0.0.0.0 adbgjvjim.com
 0.0.0.0 adbidgo.com
 0.0.0.0 adbit.co
 0.0.0.0 adblaid.com
@@ -2972,6 +2973,7 @@
 0.0.0.0 bmtdfrwvvnedh.xyz
 0.0.0.0 b-m.xyz
 0.0.0.0 bn5x.net
+0.0.0.0 bnbsagevcuca.com
 0.0.0.0 bnc1m.com
 0.0.0.0 bnc2m.com
 0.0.0.0 bnc3m.com
@@ -3275,6 +3277,7 @@
 0.0.0.0 brxeguketmthry.top
 0.0.0.0 bsdaban.com
 0.0.0.0 bsekahbagj.top
+0.0.0.0 bsfbtkbcskldw.xyz
 0.0.0.0 bsiaheon.com
 0.0.0.0 bsivqdmfu.xyz
 0.0.0.0 bslmlojayigemnq.top
@@ -5599,6 +5602,7 @@
 0.0.0.0 djtxbhkkndqn.top
 0.0.0.0 djunadamsiavx.top
 0.0.0.0 dj-updates.com
+0.0.0.0 djvbrdydmuito.com
 0.0.0.0 djxdudducpdyx.top
 0.0.0.0 djxkjtnt.top
 0.0.0.0 dk4ywix.com
@@ -5995,6 +5999,7 @@
 0.0.0.0 dwngeqlienatcn.top
 0.0.0.0 dwnirrhieagw.com
 0.0.0.0 dwqxnsovyitvv.top
+0.0.0.0 dwrbbkujtnyf.xyz
 0.0.0.0 dwrxoufql.xyz
 0.0.0.0 dwvaolco.xyz
 0.0.0.0 dwysckbnafnswa.xyz
@@ -7952,6 +7957,7 @@
 0.0.0.0 gcgjuexwepo.top
 0.0.0.0 gchgao.com
 0.0.0.0 gclbtcloh.com
+0.0.0.0 gclkxtariyraa.xyz
 0.0.0.0 gcmtyyshrto.top
 0.0.0.0 gconfirmat.fun
 0.0.0.0 gcosbajcycuvxw.xyz
@@ -11987,6 +11993,7 @@
 0.0.0.0 lunggrandfatherhedge.com
 0.0.0.0 lunio.net
 0.0.0.0 lunqagribedginw.top
+0.0.0.0 luomjtajrhaqan.xyz
 0.0.0.0 luopqsao.top
 0.0.0.0 lupoot.com
 0.0.0.0 luppotuppo.top
@@ -16180,6 +16187,7 @@
 0.0.0.0 pwnaegowgrtdso.top
 0.0.0.0 pwnwiltpear.com
 0.0.0.0 pwrads.net
+0.0.0.0 pwshxqwqraqdp.xyz
 0.0.0.0 pwtximcn.top
 0.0.0.0 pwvxtlps.top
 0.0.0.0 pwwghcyzsn.info
@@ -16675,6 +16683,7 @@
 0.0.0.0 rddywd.com
 0.0.0.0 rdhkbnsxet.top
 0.0.0.0 rditatehapp.top
+0.0.0.0 rdlcdsae.com
 0.0.0.0 rdljmctjoqu.top
 0.0.0.0 rdrceting.com
 0.0.0.0 rdrthtdhos.xyz
@@ -17195,6 +17204,7 @@
 0.0.0.0 rjmgpqyswfjif.top
 0.0.0.0 rjpybqvmlgbta.top
 0.0.0.0 rjtcrxzd.com
+0.0.0.0 rjtgbjxfyslvdst.com
 0.0.0.0 rjupyipbjprur.me
 0.0.0.0 rjw4obbw.com
 0.0.0.0 rjwtkvmb.top
@@ -21420,6 +21430,7 @@
 0.0.0.0 vqjktrqkgikswr.top
 0.0.0.0 vqjvgnlil.com
 0.0.0.0 vqlxumqcsmqg.com
+0.0.0.0 vqnabcfeckjrraw.com
 0.0.0.0 vqr3jeu1qi41.com
 0.0.0.0 vqscmydk.xyz
 0.0.0.0 vqskyskpoaphuk.top
@@ -22023,9 +22034,11 @@
 0.0.0.0 wkihmvgilwj.com
 0.0.0.0 wkjaaaduw.com
 0.0.0.0 wkll7glfazgp.com
+0.0.0.0 wkmjxftmsibvx.xyz
 0.0.0.0 wkuskdxgvwqj.top
 0.0.0.0 wlbivjnvlbvb.com
 0.0.0.0 wlbmlxjjbfjoh.top
+0.0.0.0 wlbrlpuxjw.com
 0.0.0.0 wlieivhvqg.top
 0.0.0.0 wllfllujcfvxca.top
 0.0.0.0 wltjuabygorvri.top
@@ -22208,6 +22221,7 @@
 0.0.0.0 wssixfkhhwn.top
 0.0.0.0 wsspyxuuapscgw.xyz
 0.0.0.0 wstvcgfkvc.com
+0.0.0.0 wsuvfidlfs.com
 0.0.0.0 wsyrgjgfg.com
 0.0.0.0 wt2noay3fgjn.com
 0.0.0.0 wtdifvedisldnk.top
@@ -22835,6 +22849,7 @@
 0.0.0.0 www.spenttabsnail.com
 0.0.0.0 www.speop.com
 0.0.0.0 www.spokeninspiredtruck.com
+0.0.0.0 www.sportinggritlouisa.com
 0.0.0.0 www.sqpgncbm.com
 0.0.0.0 www.squeakvegetable.com
 0.0.0.0 www.stairdevolutionexceed.com
@@ -23209,6 +23224,7 @@
 0.0.0.0 xmuinqbim.xyz
 0.0.0.0 xmwvvssypsm.top
 0.0.0.0 xmwwiuly.com
+0.0.0.0 xmxgvfjyrvr.xyz
 0.0.0.0 xnlehgdpvsslk.xyz
 0.0.0.0 xnottjcnqawoex.top
 0.0.0.0 xnyxunjpnyrqcao.xyz
@@ -23717,6 +23733,7 @@
 0.0.0.0 ytsrpoytxs.me
 0.0.0.0 yttemocprixru.top
 0.0.0.0 yttompthree.com
+0.0.0.0 ytuvagmsjhdice.com
 0.0.0.0 ytynyygyutvfit.com
 0.0.0.0 yu0123456.com
 0.0.0.0 yuangbkvxbdryck.com
