@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.063
 # Release: 063
-# Entries: 24,074
-# Updated: Fri, 04 Mar 22 02:02:32 +06
+# Entries: 24,077
+# Updated: Fri, 04 Mar 22 04:04:41 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -5836,6 +5836,7 @@
 0.0.0.0 dqgaephl.xyz
 0.0.0.0 dqhwiivioqjnpgo.top
 0.0.0.0 dqiqacypl.top
+0.0.0.0 dqsccxhftjfkj.xyz
 0.0.0.0 dquanticw.top
 0.0.0.0 dqwegbaubqmqnom.com
 0.0.0.0 drabsize.com
@@ -9404,6 +9405,7 @@
 0.0.0.0 hqsnklubfp.xyz
 0.0.0.0 hqtrk.com
 0.0.0.0 hqvrlkdupmsk.top
+0.0.0.0 hqvuonuls.xyz
 0.0.0.0 hqwhwsbbnr.xyz
 0.0.0.0 hqxmwdngb.com
 0.0.0.0 hqynonkefcx.xyz
@@ -16731,6 +16733,7 @@
 0.0.0.0 raylnk.com
 0.0.0.0 razdvabm.com
 0.0.0.0 razuphyju.com
+0.0.0.0 rbmctmiycjed.com
 0.0.0.0 rbnt.org
 0.0.0.0 rbnwacsf.com
 0.0.0.0 rboprsvakxnol.top
