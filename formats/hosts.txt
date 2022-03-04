@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.063
 # Release: 063
-# Entries: 24,097
-# Updated: Fri, 04 Mar 22 12:04:51 +06
+# Entries: 24,099
+# Updated: Fri, 04 Mar 22 16:02:58 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -12616,6 +12616,7 @@
 0.0.0.0 mhxfdbhjriycgh.top
 0.0.0.0 mhxxescmv.xyz
 0.0.0.0 mhyqssvvp.top
+0.0.0.0 mhyrcvwkxoq.xyz
 0.0.0.0 mi82ltk3veb7.com
 0.0.0.0 miamribud.com
 0.0.0.0 mibsooks.net
@@ -14119,6 +14120,7 @@
 0.0.0.0 oeclysutilufixgegpajbg.me
 0.0.0.0 oedvuoqymvbfwd.top
 0.0.0.0 oeiisnpmh.xyz
+0.0.0.0 oensfffmsyxfl.xyz
 0.0.0.0 oepihvxwaboed.com
 0.0.0.0 oescwmxdmlw.top
 0.0.0.0 oesfriences.fun
