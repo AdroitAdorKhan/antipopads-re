@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.064
 # Release: 064
-# Entries: 24,233
-# Updated: Sat, 05 Mar 22 20:02:49 +06
+# Entries: 24,235
+# Updated: Sat, 05 Mar 22 22:02:31 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -16866,6 +16866,7 @@
 0.0.0.0 rcvlink.com
 0.0.0.0 rcvlinks.com
 0.0.0.0 rcxkiqgpebtf.top
+0.0.0.0 rcxocdfgvur.com
 0.0.0.0 rcyfksmmddl.top
 0.0.0.0 rddlywgroiv.top
 0.0.0.0 rddxfajubexeti.com
@@ -23321,6 +23322,7 @@
 0.0.0.0 xahdkstf.com
 0.0.0.0 xahhjvtjs.xyz
 0.0.0.0 xaholica.com
+0.0.0.0 xaioujvlxusvo.com
 0.0.0.0 xakgoudokp.top
 0.0.0.0 xamaptapsu.com
 0.0.0.0 xameleonads.com
