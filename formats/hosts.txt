@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.064
 # Release: 064
-# Entries: 24,189
-# Updated: Sat, 05 Mar 22 04:03:43 +06
+# Entries: 24,195
+# Updated: Sat, 05 Mar 22 06:03:05 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -4103,6 +4103,7 @@
 0.0.0.0 clbanners16.com
 0.0.0.0 clbjmp.com
 0.0.0.0 clcassd.com
+0.0.0.0 clcknads.pro
 0.0.0.0 clcknipop.com
 0.0.0.0 clckysudks.com
 0.0.0.0 cldlr.com
@@ -7154,6 +7155,7 @@
 0.0.0.0 fdoikwcmqhujaye.top
 0.0.0.0 fdrckondxucy.xyz
 0.0.0.0 fdrgtt9edmej010.com
+0.0.0.0 fdrnffuh.xyz
 0.0.0.0 fe7qygqi2p2h.com
 0.0.0.0 fe95a992e6afb.com
 0.0.0.0 feadrope.net
@@ -8379,6 +8381,7 @@
 0.0.0.0 glugreez.com
 0.0.0.0 glumpaul.net
 0.0.0.0 glumtitu.net
+0.0.0.0 glunkdvm.xyz
 0.0.0.0 gluwhoas.com
 0.0.0.0 glwmlknhrvvg.xyz
 0.0.0.0 glxmnews.pro
@@ -19897,6 +19900,7 @@
 0.0.0.0 thousandimplied.com
 0.0.0.0 thoushan.net
 0.0.0.0 thovetmprrfp.com
+0.0.0.0 thqccwlq.com
 0.0.0.0 threatenlaid.com
 0.0.0.0 threecd.name
 0.0.0.0 thresholdeliminate.com
@@ -22234,6 +22238,7 @@
 0.0.0.0 wjmipkhxeelsekg.top
 0.0.0.0 wjrnjjrowervbj.top
 0.0.0.0 wjtuknniisx.top
+0.0.0.0 wkacpqtl.com
 0.0.0.0 wkatgmqyhunmc.top
 0.0.0.0 wkftrktwvtla.xyz
 0.0.0.0 wkgnfofpabqoqt.top
@@ -22352,6 +22357,7 @@
 0.0.0.0 worthyrid.com
 0.0.0.0 worvsbvltwtfisa.top
 0.0.0.0 wosork.com
+0.0.0.0 woudepib.net
 0.0.0.0 wouijfcfouiewb.com
 0.0.0.0 woujoami.com
 0.0.0.0 woundedassurance.com
