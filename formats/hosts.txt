@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.065
 # Release: 065
-# Entries: 24,262
-# Updated: Sun, 06 Mar 22 12:03:51 +06
+# Entries: 24,264
+# Updated: Sun, 06 Mar 22 14:03:11 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -5052,6 +5052,7 @@
 0.0.0.0 daffaite.com
 0.0.0.0 dafthulksyams.com
 0.0.0.0 d-agency.net
+0.0.0.0 daglatuw.com
 0.0.0.0 dagnar.com
 0.0.0.0 daibusee.com
 0.0.0.0 daichoho.com
@@ -21766,6 +21767,7 @@
 0.0.0.0 vueyebgwk.xyz
 0.0.0.0 vuftouks.com
 0.0.0.0 vugecymi.xyz
+0.0.0.0 vugjkjyogttch.xyz
 0.0.0.0 vugnubier.com
 0.0.0.0 vujhqcemrpqj.com
 0.0.0.0 vujuotkvefuccqk.top
