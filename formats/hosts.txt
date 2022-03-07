@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.066
 # Release: 066
-# Entries: 24,297
-# Updated: Mon, 07 Mar 22 06:02:35 +06
+# Entries: 24,299
+# Updated: Mon, 07 Mar 22 08:02:11 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -6052,6 +6052,7 @@
 0.0.0.0 dwarfsubmerge.com
 0.0.0.0 dwasttgccj.top
 0.0.0.0 dwaterver.xyz
+0.0.0.0 dwddqsjynljhypa.com
 0.0.0.0 dwellingvague.com
 0.0.0.0 dwetwdstom1020.com
 0.0.0.0 dwexchoaapismf.com
@@ -23032,6 +23033,7 @@
 0.0.0.0 www.posehind.com
 0.0.0.0 www.potnormal.com
 0.0.0.0 www.potteryhuman.com
+0.0.0.0 www.pramviable.com
 0.0.0.0 www.predominantaugustchapter.com
 0.0.0.0 www.prepareacquitmeaningless.com
 0.0.0.0 www.priceplaneadulthood.com
