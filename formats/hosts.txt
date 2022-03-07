@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.066
 # Release: 066
-# Entries: 24,299
-# Updated: Mon, 07 Mar 22 08:02:11 +06
+# Entries: 24,302
+# Updated: Mon, 07 Mar 22 10:02:39 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1672,6 +1672,7 @@
 0.0.0.0 anonymousads.com
 0.0.0.0 anothingsev.top
 0.0.0.0 anoxthsvvtm.top
+0.0.0.0 anpklfny.com
 0.0.0.0 anshjxyecu.com
 0.0.0.0 answeredfluency.com
 0.0.0.0 answered-questions.com
@@ -10677,6 +10678,7 @@
 0.0.0.0 jnrpnlsgk.xyz
 0.0.0.0 jnrtavp2x66u.com
 0.0.0.0 jnswvryqjygy.top
+0.0.0.0 jnvjbmeneebywdd.xyz
 0.0.0.0 jnwsrqxrdqct.top
 0.0.0.0 jnxm2.com
 0.0.0.0 jnyrcarhycp.top
@@ -23300,6 +23302,7 @@
 0.0.0.0 www.wastedclassmatemay.com
 0.0.0.0 www.wastedposterapostrophe.com
 0.0.0.0 www.watchercasketremained.com
+0.0.0.0 www.weakradiator.com
 0.0.0.0 www.weepingbead.com
 0.0.0.0 wwww.effectivecpmgate.com
 0.0.0.0 www.wentwidespread.com
