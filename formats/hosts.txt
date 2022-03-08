@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.067
 # Release: 067
-# Entries: 24,418
-# Updated: Tue, 08 Mar 22 16:04:22 +06
+# Entries: 24,420
+# Updated: Tue, 08 Mar 22 18:03:39 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -636,6 +636,7 @@
 0.0.0.0 abuseewarlock.com
 0.0.0.0 abwhyag.com
 0.0.0.0 abyamaskor.com
+0.0.0.0 abyjtyvgmtqgp.com
 0.0.0.0 ac0c95f18a59.com
 0.0.0.0 ac7d539d732.com
 0.0.0.0 acacdn.com
@@ -6329,6 +6330,7 @@
 0.0.0.0 eekdjxqjlrx.com
 0.0.0.0 eekrooha.com
 0.0.0.0 eeksidro.com
+0.0.0.0 eekxdelvold.xyz
 0.0.0.0 eelfadechi.com
 0.0.0.0 eeltaung.com
 0.0.0.0 eemoalie.com
