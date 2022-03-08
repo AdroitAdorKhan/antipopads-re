@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.068
 # Release: 068
-# Entries: 24,458
-# Updated: Wed, 09 Mar 22 00:04:19 +06
+# Entries: 24,462
+# Updated: Wed, 09 Mar 22 02:03:13 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2771,6 +2771,7 @@
 0.0.0.0 bfast.com
 0.0.0.0 bfe4e6d364be199.com
 0.0.0.0 bffcjwhnbppxmh.com
+0.0.0.0 bfjmqmdieipi.xyz
 0.0.0.0 bfldkyjiodpgi.xyz
 0.0.0.0 bfmxltuay.top
 0.0.0.0 bfnaqcqrotc.top
@@ -3484,6 +3485,7 @@
 0.0.0.0 bydluvrxc.top
 0.0.0.0 byduthacho.com
 0.0.0.0 byeej.com
+0.0.0.0 byemdndpetbse.xyz
 0.0.0.0 byfoongusor.com
 0.0.0.0 byibqlhygj.com
 0.0.0.0 byijugypec.xyz
@@ -9039,6 +9041,7 @@
 0.0.0.0 hbrlepuvnabm.top
 0.0.0.0 hbsjqogt.xyz
 0.0.0.0 hbtzzlcxfijk.com
+0.0.0.0 hbvknldhceln.xyz
 0.0.0.0 hcattgdwtw.top
 0.0.0.0 hcblepqht.top
 0.0.0.0 hcbqavvkbdyl.top
@@ -14742,6 +14745,7 @@
 0.0.0.0 ortymarvin.top
 0.0.0.0 orxsefmggpeb.top
 0.0.0.0 oryxrjuw.top
+0.0.0.0 osaceikmxsm.com
 0.0.0.0 oshaugre.com
 0.0.0.0 ositiesloca.top
 0.0.0.0 osjnkhvjx.xyz
