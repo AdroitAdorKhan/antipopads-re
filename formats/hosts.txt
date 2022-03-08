@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.067
 # Release: 067
-# Entries: 24,384
-# Updated: Tue, 08 Mar 22 04:02:51 +06
+# Entries: 24,386
+# Updated: Tue, 08 Mar 22 06:02:21 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2557,6 +2557,7 @@
 0.0.0.0 beastsclassbiscuit.com
 0.0.0.0 beataemusky.com
 0.0.0.0 beatconfessteddy.com
+0.0.0.0 beatcuqa.xyz
 0.0.0.0 beaterspatrick.com
 0.0.0.0 beatpreservelost.com
 0.0.0.0 beaubitternessapplication.com
@@ -5879,6 +5880,7 @@
 0.0.0.0 dpsmkwfucu.xyz
 0.0.0.0 dpsqqaaqbc.com
 0.0.0.0 dpstack.com
+0.0.0.0 dptlxjkvblw.com
 0.0.0.0 dpvjvuxuc.top
 0.0.0.0 dpypzvjarj.com
 0.0.0.0 dqbtlylnujxuoo.com
