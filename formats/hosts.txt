@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.068
 # Release: 068
-# Entries: 24,500
-# Updated: Wed, 09 Mar 22 16:06:14 +06
+# Entries: 24,518
+# Updated: Wed, 09 Mar 22 20:02:51 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1172,6 +1172,7 @@
 0.0.0.0 afa9bdfa63bf7.com
 0.0.0.0 afcontent.net
 0.0.0.0 afcpatrk.com
+0.0.0.0 afcrjsktycrdka.com
 0.0.0.0 afcucjxvccmj.top
 0.0.0.0 aff1xstavka.com
 0.0.0.0 affabilityshelljumper.com
@@ -2792,6 +2793,7 @@
 0.0.0.0 bggpbgul.com
 0.0.0.0 bggzqvjqtwthy.com
 0.0.0.0 bglbvjhoqomumtw.top
+0.0.0.0 bglvbchxjgc.xyz
 0.0.0.0 bgmtracker.com
 0.0.0.0 bgocmpvu.top
 0.0.0.0 bgoexoaykauya.com
@@ -7483,6 +7485,7 @@
 0.0.0.0 fjqobawucp.top
 0.0.0.0 fjswywbtu.com
 0.0.0.0 fjutctwlojdujbm.xyz
+0.0.0.0 fjvjuuobaqsqv.xyz
 0.0.0.0 fjwcpuexpvvatl.com
 0.0.0.0 fkbwtoopwg.com
 0.0.0.0 fkdnfiai.top
@@ -7496,6 +7499,7 @@
 0.0.0.0 fkpnyinj.com
 0.0.0.0 fksfeabnp.top
 0.0.0.0 fksxwfpkdnlggar.com
+0.0.0.0 fkxgmbooixbugd.com
 0.0.0.0 flagads.net
 0.0.0.0 flagros2sii8fdbrh09.com
 0.0.0.0 flahvblcntu.top
@@ -8627,6 +8631,7 @@
 0.0.0.0 gpjyjuwsqkep.xyz
 0.0.0.0 gpnplfcoeioxk.top
 0.0.0.0 gpoxijgq.top
+0.0.0.0 gppovfqtsuhykcq.com
 0.0.0.0 gpppxwvwco.com
 0.0.0.0 gprofessiv.top
 0.0.0.0 gpskgsmgnbiiie.xyz
@@ -10721,6 +10726,7 @@
 0.0.0.0 jleqyvblsegr.xyz
 0.0.0.0 jlklnwmj.com
 0.0.0.0 jlmtvnth.xyz
+0.0.0.0 jlnisbeybrijdn.xyz
 0.0.0.0 jlpopmunawwdo.com
 0.0.0.0 jlpvimvijbgrvjn.com
 0.0.0.0 jlvqhftliz.com
@@ -11174,6 +11180,7 @@
 0.0.0.0 kgxmnhwegtoptmi.top
 0.0.0.0 kgxnaenrozyuh.com
 0.0.0.0 khaate.com
+0.0.0.0 khaiqifq.xyz
 0.0.0.0 khandragthresh.com
 0.0.0.0 khayatarai.com
 0.0.0.0 khewwakrywmgxr.com
@@ -14264,6 +14271,7 @@
 0.0.0.0 obliteratebedblue.com
 0.0.0.0 oblivionwatcherrebellious.com
 0.0.0.0 obnoxiouspatrolassault.com
+0.0.0.0 obpihwmnb.xyz
 0.0.0.0 obqdefya.xyz
 0.0.0.0 obrqetfu.xyz
 0.0.0.0 obscenitythefodder.com
@@ -16662,6 +16670,7 @@
 0.0.0.0 qhlyuxuhso.top
 0.0.0.0 qhnwj.com
 0.0.0.0 qhuyyjoaxtu.top
+0.0.0.0 qiagghxiev.com
 0.0.0.0 qiaovqeomfkvemq.xyz
 0.0.0.0 qiccbjdfi.com
 0.0.0.0 qiheptnm80.com
@@ -17915,6 +17924,7 @@
 0.0.0.0 rwdmrqjjbinmr.xyz
 0.0.0.0 rwhhkiddkr.top
 0.0.0.0 rwlfznyvivh.com
+0.0.0.0 rwltdwkxs.xyz
 0.0.0.0 rwmqktqkic.xyz
 0.0.0.0 rwn1sdb4xqa2.com
 0.0.0.0 rwpads.com
@@ -19981,6 +19991,7 @@
 0.0.0.0 tfxvcjyrjw.top
 0.0.0.0 tgajddao.com
 0.0.0.0 tgbnmxmfllkmc.xyz
+0.0.0.0 tgfhvrkwhaqgkf.xyz
 0.0.0.0 tgilfmlms.xyz
 0.0.0.0 tgivsvjumskqljj.xyz
 0.0.0.0 tgkswchehxpfwff.com
@@ -21244,6 +21255,7 @@
 0.0.0.0 uqhrgynymyfu.top
 0.0.0.0 uqimgeulpygyo.com
 0.0.0.0 uqnwhvsykqxiq.com
+0.0.0.0 uqtsmptxkgcfdm.com
 0.0.0.0 uqvxnutfeonsd.top
 0.0.0.0 uqxdnnqcdwka.com
 0.0.0.0 uramog.com
@@ -21322,6 +21334,7 @@
 0.0.0.0 utarget.co.uk
 0.0.0.0 utarget.pro
 0.0.0.0 utarget.ru
+0.0.0.0 utclnmftxmartht.xyz
 0.0.0.0 utdwtleyycavnj.top
 0.0.0.0 utecctbqli.top
 0.0.0.0 utecer.com
@@ -21696,6 +21709,7 @@
 0.0.0.0 vimmenced.club
 0.0.0.0 vinalsmuffish.com
 0.0.0.0 vindexcravat.com
+0.0.0.0 vinefsnuarlxsso.xyz
 0.0.0.0 vinegarweb.com
 0.0.0.0 vinfdv6b4j.com
 0.0.0.0 vinylcoshery.com
@@ -22508,6 +22522,7 @@
 0.0.0.0 wkll7glfazgp.com
 0.0.0.0 wkmjxftmsibvx.xyz
 0.0.0.0 wkuskdxgvwqj.top
+0.0.0.0 wkxdaqojx.com
 0.0.0.0 wlbivjnvlbvb.com
 0.0.0.0 wlbmlxjjbfjoh.top
 0.0.0.0 wlbrlpuxjw.com
@@ -23556,6 +23571,7 @@
 0.0.0.0 wysyshypti.pro
 0.0.0.0 wytyphoji.pro
 0.0.0.0 wyxodmindfsnem.top
+0.0.0.0 wyypykoenie.xyz
 0.0.0.0 wz5y80ab60p5.com
 0.0.0.0 wzdzht7am5.com
 0.0.0.0 wzuyzy.com
@@ -23881,6 +23897,7 @@
 0.0.0.0 xxxvideosss.info
 0.0.0.0 xxxvipporno.com
 0.0.0.0 xxxwebtraffic.com
+0.0.0.0 xybdcexywys.com
 0.0.0.0 xydbpbnmo.com
 0.0.0.0 xydxrlfwfpau.com
 0.0.0.0 xyhhonyqwjpu.top
@@ -23984,6 +24001,7 @@
 0.0.0.0 yeesshh.com
 0.0.0.0 yefbmjqdjkpr.com
 0.0.0.0 yegsrmqqpg.com
+0.0.0.0 yekiinbd.xyz
 0.0.0.0 yellowacorn.net
 0.0.0.0 yemisleol.xyz
 0.0.0.0 yempid.com
