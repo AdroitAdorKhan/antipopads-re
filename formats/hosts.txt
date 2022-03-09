@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.069
 # Release: 069
-# Entries: 24,543
-# Updated: Thu, 10 Mar 22 02:04:11 +06
+# Entries: 24,545
+# Updated: Thu, 10 Mar 22 04:03:57 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -7859,6 +7859,7 @@
 0.0.0.0 fsalfrwdr.com
 0.0.0.0 fsitel.com
 0.0.0.0 fsjglcadirgupe.com
+0.0.0.0 fsswokpc.com
 0.0.0.0 fstsrv.com
 0.0.0.0 fsysgyfwfvgoce.top
 0.0.0.0 ftajtjcuadbdkuw.xyz
@@ -21067,6 +21068,7 @@
 0.0.0.0 umeyvtsnpcqnv.top
 0.0.0.0 umgangrubbler.com
 0.0.0.0 umipakpxjfib.top
+0.0.0.0 umkgmdhrmqn.com
 0.0.0.0 umnruwtrfjyp.com
 0.0.0.0 umsplgkye.top
 0.0.0.0 umtnycoscl.xyz
