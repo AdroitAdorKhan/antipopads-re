@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.070
 # Release: 070
-# Entries: 24,621
-# Updated: Fri, 11 Mar 22 02:04:05 +06
+# Entries: 24,623
+# Updated: Fri, 11 Mar 22 04:02:51 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -16800,6 +16800,7 @@
 0.0.0.0 qnxjmpoemmlpx.top
 0.0.0.0 qnxoqmhfst.top
 0.0.0.0 qoawwvwqwni.top
+0.0.0.0 qoevjugu.com
 0.0.0.0 qohfwjlt.top
 0.0.0.0 qolobgbpjc.com
 0.0.0.0 qonaobhghfyexf.xyz
@@ -21507,6 +21508,7 @@
 0.0.0.0 uyhgqunqkxnx.pw
 0.0.0.0 uyjgnxgfts.me
 0.0.0.0 uyljrumfe.xyz
+0.0.0.0 uynpzvdvcnpd.com
 0.0.0.0 uzcdnzta.com
 0.0.0.0 uzehen.com
 0.0.0.0 v11media.com
