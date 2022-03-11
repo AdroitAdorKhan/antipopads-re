@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.070
 # Release: 070
-# Entries: 24,623
-# Updated: Fri, 11 Mar 22 04:02:51 +06
+# Entries: 24,624
+# Updated: Fri, 11 Mar 22 06:02:12 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -23004,6 +23004,7 @@
 0.0.0.0 www.dismantlepenantiterrorist.com
 0.0.0.0 www.disorganizedsweatymash.com
 0.0.0.0 www.disruptorgan.com
+0.0.0.0 www.distinctlynobleprosecute.com
 0.0.0.0 www.doorbellbadge.com
 0.0.0.0 www.doormancreeping.com
 0.0.0.0 www.downloadmobile.info
