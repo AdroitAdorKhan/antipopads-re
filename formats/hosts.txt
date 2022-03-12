@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.072
 # Release: 072
-# Entries: 24,747
-# Updated: Sun, 13 Mar 22 00:02:05 +06
+# Entries: 24,749
+# Updated: Sun, 13 Mar 22 02:04:35 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -7406,6 +7406,7 @@
 0.0.0.0 fgaqwtr.com
 0.0.0.0 fgasldkomtnxd.top
 0.0.0.0 fgbmylbc.com
+0.0.0.0 fgbsrtolbscjy.com
 0.0.0.0 fgddl9szdof7.com
 0.0.0.0 fgddrrr.com
 0.0.0.0 fgfgnbmeieorr910.com
@@ -13169,6 +13170,7 @@
 0.0.0.0 modifymaintenance.com
 0.0.0.0 modoro360.com
 0.0.0.0 modulepush.com
+0.0.0.0 moelamkbxx.xyz
 0.0.0.0 moffreelance.biz
 0.0.0.0 moggxoufnxeffl.com
 0.0.0.0 mogihovi.com
