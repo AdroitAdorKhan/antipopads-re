@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.03.071
-! Release: 071
+! Version: 22.03.072
+! Release: 072
 ! Expires: 1 day
-! Entries: 24,746
-! Updated: Sat, 12 Mar 22 22:02:07 +06
+! Entries: 24,747
+! Updated: Sun, 13 Mar 22 00:02:05 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -21371,6 +21371,7 @@
 ||untruecitycheater.com^
 ||untruehypothesiseconomy.com^
 ||untruewring.com^
+||untvwqvrk.com^
 ||unumbonum.com^
 ||unurbs.com^
 ||unusuallygravely.com^
