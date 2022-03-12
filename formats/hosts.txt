@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.071
 # Release: 071
-# Entries: 24,745
-# Updated: Sat, 12 Mar 22 20:02:22 +06
+# Entries: 24,746
+# Updated: Sat, 12 Mar 22 22:02:07 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -18020,6 +18020,7 @@
 0.0.0.0 rufadses.net
 0.0.0.0 rufflycouncil.com
 0.0.0.0 ruftodru.net
+0.0.0.0 rugefinu.net
 0.0.0.0 ruggownsawlog.cam
 0.0.0.0 rugrukoca.com
 0.0.0.0 ruinedpenal.com
