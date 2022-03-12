@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.071
 # Release: 071
-# Entries: 24,734
-# Updated: Sat, 12 Mar 22 12:04:21 +06
+# Entries: 24,736
+# Updated: Sat, 12 Mar 22 14:03:19 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -10393,6 +10393,7 @@
 0.0.0.0 ipngurper.top
 0.0.0.0 ipromcloud.com
 0.0.0.0 iprom.net
+0.0.0.0 iprtwgffds.com
 0.0.0.0 ipsoorel.com
 0.0.0.0 ipsowrite.com
 0.0.0.0 iptautup.com
@@ -13165,6 +13166,7 @@
 0.0.0.0 modoro360.com
 0.0.0.0 modulepush.com
 0.0.0.0 moffreelance.biz
+0.0.0.0 moggxoufnxeffl.com
 0.0.0.0 mogihovi.com
 0.0.0.0 mogointeractive.com
 0.0.0.0 mogybapty.pro
