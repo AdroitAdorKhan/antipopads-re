@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.072
 # Release: 072
-# Entries: 24,783
-# Updated: Sun, 13 Mar 22 12:03:02 +06
+# Entries: 24,785
+# Updated: Sun, 13 Mar 22 14:02:04 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -9775,6 +9775,7 @@
 0.0.0.0 hveikscyql.com
 0.0.0.0 hvfzshrpfueb.com
 0.0.0.0 hvjjiwgx.top
+0.0.0.0 hvlhgitge.com
 0.0.0.0 hvmmyksoegrfv.top
 0.0.0.0 hvnaeffeyewfn.top
 0.0.0.0 hvotpsalhs.top
@@ -10405,6 +10406,7 @@
 0.0.0.0 iphumiki.com
 0.0.0.0 ipidgsnau.top
 0.0.0.0 ipiech.com
+0.0.0.0 ipiyblrhcbgbtk.com
 0.0.0.0 ipjvrkudtfxwodj.top
 0.0.0.0 ipmiumjdgyrqko.top
 0.0.0.0 ipmwebuunmx.info
