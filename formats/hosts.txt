@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.072
 # Release: 072
-# Entries: 24,782
-# Updated: Sun, 13 Mar 22 10:03:30 +06
+# Entries: 24,783
+# Updated: Sun, 13 Mar 22 12:03:02 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -22038,6 +22038,7 @@
 0.0.0.0 vmjmpwdupi.com
 0.0.0.0 vmkhudym.xyz
 0.0.0.0 vmpmmmkajac.top
+0.0.0.0 vmqanpvayp.com
 0.0.0.0 vmraahnmspzy.com
 0.0.0.0 vmtpmvhpehntsy.com
 0.0.0.0 vmuid.com
