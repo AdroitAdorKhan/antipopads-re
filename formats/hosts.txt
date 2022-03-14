@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.073
 # Release: 073
-# Entries: 24,836
-# Updated: Mon, 14 Mar 22 10:03:09 +06
+# Entries: 24,838
+# Updated: Mon, 14 Mar 22 12:02:18 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -9189,6 +9189,7 @@
 0.0.0.0 hdat.xyz
 0.0.0.0 hdbcode.com
 0.0.0.0 hdcabmqp.com
+0.0.0.0 hdccatcyoxp.com
 0.0.0.0 hdnsppaerj.xyz
 0.0.0.0 hdtwwvhkf.xyz
 0.0.0.0 hdvcode.com
@@ -13631,6 +13632,7 @@
 0.0.0.0 napeau.com
 0.0.0.0 napesropes.com
 0.0.0.0 nappybedcandid.com
+0.0.0.0 napsiguk.com
 0.0.0.0 naptaush.com
 0.0.0.0 narkalignevil.com
 0.0.0.0 narrowperennialaffable.com
