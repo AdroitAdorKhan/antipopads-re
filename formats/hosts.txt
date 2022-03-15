@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.074
 # Release: 074
-# Entries: 24,954
-# Updated: Tue, 15 Mar 22 16:04:27 +06
+# Entries: 24,955
+# Updated: Tue, 15 Mar 22 18:02:08 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -16951,6 +16951,7 @@
 0.0.0.0 qgbrrbwvuifxv.top
 0.0.0.0 qgevavwyafjf.com
 0.0.0.0 qggxqbormiyrq.xyz
+0.0.0.0 qgkpngsyi.com
 0.0.0.0 qgnlbjkxrzb.com
 0.0.0.0 qgnqsebea.com
 0.0.0.0 qgogogox.com
