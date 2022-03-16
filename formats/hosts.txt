@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.075
 # Release: 075
-# Entries: 25,066
-# Updated: Wed, 16 Mar 22 16:02:06 +06
+# Entries: 25,068
+# Updated: Wed, 16 Mar 22 18:02:19 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -4751,6 +4751,7 @@
 0.0.0.0 corwrite.com
 0.0.0.0 coryljanty.cam
 0.0.0.0 coseik.com
+0.0.0.0 cosherymudejar.com
 0.0.0.0 cosimolaugh.pro
 0.0.0.0 cosimotable.pro
 0.0.0.0 cosmeticsgenerosity.com
@@ -6125,6 +6126,7 @@
 0.0.0.0 dubvacasept.com
 0.0.0.0 ducapelacunas.cam
 0.0.0.0 duchoono.com
+0.0.0.0 ducina.com
 0.0.0.0 duckswillsmoochyou.com
 0.0.0.0 ducmissy.com
 0.0.0.0 ductstrangledozen.com
