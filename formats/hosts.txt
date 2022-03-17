@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.076
 # Release: 076
-# Entries: 25,126
-# Updated: Thu, 17 Mar 22 04:03:02 +06
+# Entries: 25,127
+# Updated: Thu, 17 Mar 22 08:02:00 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -5085,6 +5085,7 @@
 0.0.0.0 cwxxumyrvngok.com
 0.0.0.0 cwynqltcyctt.xyz
 0.0.0.0 cxckxxrffumcha.xyz
+0.0.0.0 cxdfnewk.xyz
 0.0.0.0 cxfeufrh.com
 0.0.0.0 cxmqmlramfc.top
 0.0.0.0 cxoqsbingllh.xyz
