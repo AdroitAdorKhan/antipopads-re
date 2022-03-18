@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.03.077
-# Release: 077
-# Entries: 25,246
-# Updated: Fri, 18 Mar 22 20:02:19 +06
+# Version: 22.03.078
+# Release: 078
+# Entries: 25,250
+# Updated: Sat, 19 Mar 22 00:02:29 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2512,6 +2512,7 @@
 0.0.0.0 barscreative1.com
 0.0.0.0 bartedusicening.com
 0.0.0.0 basepush.com
+0.0.0.0 basfol.com
 0.0.0.0 basheighthnumerous.com
 0.0.0.0 bashfulweaponsscratch.com
 0.0.0.0 basicapp.online
@@ -5549,6 +5550,7 @@
 0.0.0.0 devoidsagacious.com
 0.0.0.0 dewapsithi.pro
 0.0.0.0 dewbkwortyc.xyz
+0.0.0.0 dewiestsards.com
 0.0.0.0 dewincubiatoll.com
 0.0.0.0 dexchangeinc.com
 0.0.0.0 deximedia.com
@@ -12297,6 +12299,7 @@
 0.0.0.0 livelihoodpracticaloperating.com
 0.0.0.0 livelumber.com
 0.0.0.0 liveparticipationaudience.com
+0.0.0.0 liveredwilton.com
 0.0.0.0 liversely.net
 0.0.0.0 liversimply.com
 0.0.0.0 livestockfeaturenecessary.com
@@ -18213,6 +18216,7 @@
 0.0.0.0 rorserdy.com
 0.0.0.0 rortyshavian.com
 0.0.0.0 rosafun.com
+0.0.0.0 rosalscrite.com
 0.0.0.0 roseltoatoa.cam
 0.0.0.0 rosemand.pro
 0.0.0.0 roserobotx.online
