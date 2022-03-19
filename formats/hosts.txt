@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.078
 # Release: 078
-# Entries: 25,269
-# Updated: Sat, 19 Mar 22 04:02:14 +06
+# Entries: 25,270
+# Updated: Sat, 19 Mar 22 06:03:41 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1324,6 +1324,7 @@
 0.0.0.0 ahhdsply.com
 0.0.0.0 ahidsply.com
 0.0.0.0 ahjdsply.com
+0.0.0.0 ahlstvqonfe.com
 0.0.0.0 ahnsgsjvgsyex.top
 0.0.0.0 ahpjdugrbbfypbc.top
 0.0.0.0 ahqpqpdjpj.com
