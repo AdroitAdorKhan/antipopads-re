@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.080
 # Release: 080
-# Entries: 25,378
-# Updated: Mon, 21 Mar 22 00:03:27 +06
+# Entries: 25,379
+# Updated: Mon, 21 Mar 22 02:02:35 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -16159,6 +16159,7 @@
 0.0.0.0 pkvffbbsxf.top
 0.0.0.0 placedbookmen.com
 0.0.0.0 placidperson.com
+0.0.0.0 placingstandardanthem.com
 0.0.0.0 plaguealacritytwitter.com
 0.0.0.0 plaguemanipulatedrag.com
 0.0.0.0 plaicecapacious.com
