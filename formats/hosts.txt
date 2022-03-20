@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.079
 # Release: 079
-# Entries: 25,376
-# Updated: Sun, 20 Mar 22 20:03:05 +06
+# Entries: 25,377
+# Updated: Sun, 20 Mar 22 22:02:33 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3248,6 +3248,7 @@
 0.0.0.0 bprrabtueorqvm.top
 0.0.0.0 bptracking.com
 0.0.0.0 bqavuvao.top
+0.0.0.0 bqddiixdpri.xyz
 0.0.0.0 bqddylgatu.top
 0.0.0.0 bqfhspuvwuowkf.top
 0.0.0.0 bqiovml.com
