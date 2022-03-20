@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.03.079
-! Release: 079
+! Version: 22.03.080
+! Release: 080
 ! Expires: 1 day
-! Entries: 25,377
-! Updated: Sun, 20 Mar 22 22:02:33 +06
+! Entries: 25,378
+! Updated: Mon, 21 Mar 22 00:03:27 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -5409,6 +5409,7 @@
 ||deferscoop.com^
 ||defiantinfluencedtrustworthy.com^
 ||definedlaunching.com^
+||definitelygreat.com^
 ||definitetransfer.com^
 ||definitial.com^
 ||defkrmqt.com^
