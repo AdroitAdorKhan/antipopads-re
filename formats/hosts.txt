@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.03.080
-# Release: 080
-# Entries: 25,483
-# Updated: Mon, 21 Mar 22 22:02:30 +06
+# Version: 22.03.081
+# Release: 081
+# Entries: 25,485
+# Updated: Tue, 22 Mar 22 00:02:20 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -6587,6 +6587,7 @@
 0.0.0.0 effectivedisplaycontent.comwww.effectivedisplaycontent.com
 0.0.0.0 effectivedisplayformat.com
 0.0.0.0 effectivedisplayformat.comwww.effectivedisplayformat.com
+0.0.0.0 effectivedisplayformats.com
 0.0.0.0 effectivegatetocontent.com
 0.0.0.0 effectivemeasure.net
 0.0.0.0 effectiveperformanceformat.com
@@ -18728,6 +18729,7 @@
 0.0.0.0 safelyawake.com
 0.0.0.0 safereboundmiracle.com
 0.0.0.0 safestcontentgate.com
+0.0.0.0 safestgatetocontent.com
 0.0.0.0 safestsniffingconfessed.com
 0.0.0.0 safestteacherwaiting.com
 0.0.0.0 safesync.com

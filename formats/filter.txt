@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.03.080
-! Release: 080
+! Version: 22.03.081
+! Release: 081
 ! Expires: 1 day
-! Entries: 25,483
-! Updated: Mon, 21 Mar 22 22:02:30 +06
+! Entries: 25,485
+! Updated: Tue, 22 Mar 22 00:02:20 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -6588,6 +6588,7 @@
 ||effectivedisplaycontent.comwww.effectivedisplaycontent.com^
 ||effectivedisplayformat.com^
 ||effectivedisplayformat.comwww.effectivedisplayformat.com^
+||effectivedisplayformats.com^
 ||effectivegatetocontent.com^
 ||effectivemeasure.net^
 ||effectiveperformanceformat.com^
@@ -18729,6 +18730,7 @@
 ||safelyawake.com^
 ||safereboundmiracle.com^
 ||safestcontentgate.com^
+||safestgatetocontent.com^
 ||safestsniffingconfessed.com^
 ||safestteacherwaiting.com^
 ||safesync.com^
