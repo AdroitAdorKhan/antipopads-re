@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.082
 # Release: 082
-# Entries: 25,703
-# Updated: Wed, 23 Mar 22 02:05:06 +06
+# Entries: 25,706
+# Updated: Wed, 23 Mar 22 04:02:46 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -4117,6 +4117,7 @@
 0.0.0.0 chinoismoras.com
 0.0.0.0 chinyeatoy.com
 0.0.0.0 chioneflake.com
+0.0.0.0 chipmanksmochus.com
 0.0.0.0 chipsleapt.com
 0.0.0.0 chipsuziby.com
 0.0.0.0 chiptionics.co
@@ -13604,6 +13605,7 @@
 0.0.0.0 mmoruxyrq.xyz
 0.0.0.0 mmotraffic.com
 0.0.0.0 mmpcqstnkcelx.com
+0.0.0.0 mmrslfdkinv.xyz
 0.0.0.0 mmsuuhtktvps.xyz
 0.0.0.0 mm-syringe.com
 0.0.0.0 mmyjyhkiov.top
@@ -23077,6 +23079,7 @@
 0.0.0.0 wadccytaodr.top
 0.0.0.0 waddlegrammind.com
 0.0.0.0 wadsotch.com
+0.0.0.0 waeshana.com
 0.0.0.0 wafdistpicea.com
 0.0.0.0 wafflescrappyprosperous.com
 0.0.0.0 wafflesgenuine.com
