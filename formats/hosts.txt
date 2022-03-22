@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.03.081
-# Release: 081
-# Entries: 25,696
-# Updated: Tue, 22 Mar 22 22:02:36 +06
+# Version: 22.03.082
+# Release: 082
+# Entries: 25,699
+# Updated: Wed, 23 Mar 22 00:02:35 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -12662,6 +12662,7 @@
 0.0.0.0 lologhfd.com
 0.0.0.0 lolsefti.com
 0.0.0.0 loma.am
+0.0.0.0 lombin.com
 0.0.0.0 lonefutzloop.com
 0.0.0.0 lonreddone.com
 0.0.0.0 loobusir.com
@@ -20032,6 +20033,7 @@
 0.0.0.0 spotxchange.com
 0.0.0.0 spoutable.com
 0.0.0.0 spqwevvysphqcms.xyz
+0.0.0.0 sprayswisha.com
 0.0.0.0 spreadingmulticultural.com
 0.0.0.0 springcorridorworking.com
 0.0.0.0 springmild.com
@@ -22108,6 +22110,7 @@
 0.0.0.0 unmovedfollycomb.com
 0.0.0.0 unmuugujtvgfd.top
 0.0.0.0 unmxfkkjohd.xyz
+0.0.0.0 unnist.com
 0.0.0.0 unoblotto.net
 0.0.0.0 unoseconomin.xyz
 0.0.0.0 unpackbanish.com
