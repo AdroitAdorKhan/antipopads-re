@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.03.082
-# Release: 082
-# Entries: 25,769
-# Updated: Wed, 23 Mar 22 22:06:35 +06
+# Version: 22.03.083
+# Release: 083
+# Entries: 25,776
+# Updated: Thu, 24 Mar 22 02:04:54 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3893,6 +3893,7 @@
 0.0.0.0 cdncqw.com
 0.0.0.0 cdndqw.com
 0.0.0.0 cdngain.com
+0.0.0.0 cdn.house
 0.0.0.0 cdnjke.com
 0.0.0.0 cdnmr.net
 0.0.0.0 cdnondemand.org
@@ -8915,6 +8916,7 @@
 0.0.0.0 godlessabberant.com
 0.0.0.0 godmotherelectricity.com
 0.0.0.0 godspeaks.net
+0.0.0.0 goeobouyt.com
 0.0.0.0 goergleeds.com
 0.0.0.0 gogglemessenger.com
 0.0.0.0 gogiersan.com
@@ -9064,6 +9066,7 @@
 0.0.0.0 gratecowgram.com
 0.0.0.0 graterpartnership.com
 0.0.0.0 grathizi.com
+0.0.0.0 graths.com
 0.0.0.0 gratificationposture.com
 0.0.0.0 gratingprivileged.com
 0.0.0.0 gratingtode.com
@@ -12560,6 +12563,7 @@
 0.0.0.0 liytovvrqkv.xyz
 0.0.0.0 lizautie.net
 0.0.0.0 lizivaje.xyz
+0.0.0.0 lizvojebj.com
 0.0.0.0 lizzietolerance.com
 0.0.0.0 ljasxeulullkxon.xyz
 0.0.0.0 ljbvdscakeaw.com
@@ -17034,6 +17038,7 @@
 0.0.0.0 psugeglapha.com
 0.0.0.0 psughooy.com
 0.0.0.0 psuglymave.com
+0.0.0.0 psuhexitu.pro
 0.0.0.0 psuhuchize.com
 0.0.0.0 psulsobi.net
 0.0.0.0 psupaids.com
@@ -25139,12 +25144,14 @@
 0.0.0.0 yaarlnk.com
 0.0.0.0 yaaruacjsjktk.com
 0.0.0.0 yabacackler.com
+0.0.0.0 yabloomambloo.com
 0.0.0.0 yaccidedap.top
 0.0.0.0 yachtyflams.com
 0.0.0.0 yacihhktw.com
 0.0.0.0 yacurlik.com
 0.0.0.0 yadxmskxjydbnt.xyz
 0.0.0.0 yaeedjvioifllwt.top
+0.0.0.0 yahblemable.com
 0.0.0.0 yajfarudcnwkb.top
 0.0.0.0 yakoneeta.com
 0.0.0.0 yallboen.com
