@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.083
 # Release: 083
-# Entries: 25,776
-# Updated: Thu, 24 Mar 22 02:04:54 +06
+# Entries: 25,777
+# Updated: Thu, 24 Mar 22 04:03:34 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -18439,6 +18439,7 @@
 0.0.0.0 riverhit.com
 0.0.0.0 rivetrearrange.com
 0.0.0.0 rivulussati.com
+0.0.0.0 riwvdymlytiwrm.xyz
 0.0.0.0 rixaka.com
 0.0.0.0 riycecerfpjreyx.xyz
 0.0.0.0 riziftoo.com
