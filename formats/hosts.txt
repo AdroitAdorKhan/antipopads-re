@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.083
 # Release: 083
-# Entries: 25,805
-# Updated: Thu, 24 Mar 22 10:04:40 +06
+# Entries: 25,806
+# Updated: Thu, 24 Mar 22 14:05:35 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -22956,6 +22956,7 @@
 0.0.0.0 voonogoa.net
 0.0.0.0 vooshagy.net
 0.0.0.0 voqfowggj.xyz
+0.0.0.0 voraciousthursdaydaughterinlaw.com
 0.0.0.0 voradu.com
 0.0.0.0 voredi.com
 0.0.0.0 vorseh.com
