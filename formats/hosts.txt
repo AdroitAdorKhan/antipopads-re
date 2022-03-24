@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.084
 # Release: 084
-# Entries: 25,871
-# Updated: Fri, 25 Mar 22 02:04:22 +06
+# Entries: 25,873
+# Updated: Fri, 25 Mar 22 04:05:29 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2444,6 +2444,7 @@
 0.0.0.0 baggageaccomplishfrom.com
 0.0.0.0 baggageconservationcaught.com
 0.0.0.0 baggernuclein.com
+0.0.0.0 baggiebilious.com
 0.0.0.0 baggyritual.com
 0.0.0.0 bagsstepcollations.com
 0.0.0.0 bahfhgfdibgbcegbgg.ru
@@ -19061,6 +19062,7 @@
 0.0.0.0 satneb.com
 0.0.0.0 saturatecats.com
 0.0.0.0 saturdayloathe.com
+0.0.0.0 saturn-j1407b.com
 0.0.0.0 saub27i3os.com
 0.0.0.0 sauceillusionstruggling.com
 0.0.0.0 saucepanshakymemorial.com

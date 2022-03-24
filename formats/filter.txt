@@ -20,8 +20,8 @@
 ! Version: 22.03.084
 ! Release: 084
 ! Expires: 1 day
-! Entries: 25,871
-! Updated: Fri, 25 Mar 22 02:04:22 +06
+! Entries: 25,873
+! Updated: Fri, 25 Mar 22 04:05:29 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter
 ! ----------------------------------------------------------------------------
 !
@@ -2445,6 +2445,7 @@
 ||baggageaccomplishfrom.com^
 ||baggageconservationcaught.com^
 ||baggernuclein.com^
+||baggiebilious.com^
 ||baggyritual.com^
 ||bagsstepcollations.com^
 ||bahfhgfdibgbcegbgg.ru^
@@ -19062,6 +19063,7 @@
 ||satneb.com^
 ||saturatecats.com^
 ||saturdayloathe.com^
+||saturn-j1407b.com^
 ||saub27i3os.com^
 ||sauceillusionstruggling.com^
 ||saucepanshakymemorial.com^
