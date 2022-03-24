@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.083
 # Release: 083
-# Entries: 25,806
-# Updated: Thu, 24 Mar 22 14:05:35 +06
+# Entries: 25,808
+# Updated: Thu, 24 Mar 22 16:03:36 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -10745,6 +10745,7 @@
 0.0.0.0 investing-institute.com
 0.0.0.0 investmentstar.org
 0.0.0.0 investmeny.org
+0.0.0.0 inviderpulicandy.com
 0.0.0.0 invincibledefybegun.com
 0.0.0.0 invisedspill.com
 0.0.0.0 invitationcafeteria.com
@@ -25289,6 +25290,7 @@
 0.0.0.0 yg592gpmrh0q.com
 0.0.0.0 ygacpfyrtai.top
 0.0.0.0 ygfwbczu.com
+0.0.0.0 yggqolmmpdiybm.com
 0.0.0.0 ygiqpclscehxx.top
 0.0.0.0 ygkivvulrajull.com
 0.0.0.0 ygnnqkxheq.com
