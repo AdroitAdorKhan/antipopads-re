@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.084
 # Release: 084
-# Entries: 25,885
-# Updated: Fri, 25 Mar 22 12:08:13 +06
+# Entries: 25,887
+# Updated: Fri, 25 Mar 22 14:03:33 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1894,6 +1894,7 @@
 0.0.0.0 arkalealb.site
 0.0.0.0 arliest.com
 0.0.0.0 arlottencert.club
+0.0.0.0 armamentfollowerdock.com
 0.0.0.0 armashair.site
 0.0.0.0 armaturepaletteopenminded.com
 0.0.0.0 armbay.info
@@ -7921,6 +7922,7 @@
 0.0.0.0 flvpcdnb.com
 0.0.0.0 flxodhyqrcdvjo.top
 0.0.0.0 flycheapen.com
+0.0.0.0 flydeliveringreasonable.com
 0.0.0.0 flyingsquirellsmooch.com
 0.0.0.0 flymob.com
 0.0.0.0 flysoothingate.com
