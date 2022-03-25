@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.084
 # Release: 084
-# Entries: 25,873
-# Updated: Fri, 25 Mar 22 04:05:29 +06
+# Entries: 25,875
+# Updated: Fri, 25 Mar 22 08:02:59 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3919,6 +3919,7 @@
 0.0.0.0 cdrvrs.com
 0.0.0.0 cdsbnrs.com
 0.0.0.0 cdtpugqaosrv.top
+0.0.0.0 cdtxqgal.xyz
 0.0.0.0 cdwcdny.com
 0.0.0.0 ce62e0d222bc5aca.com
 0.0.0.0 ceasechampagneparade.com
@@ -5674,6 +5675,7 @@
 0.0.0.0 dfuqqyvkohh.info
 0.0.0.0 dfwomrrhbryncit.top
 0.0.0.0 dfxfdhtlsavoyth.top
+0.0.0.0 dfxikrxuns.xyz
 0.0.0.0 dfxofvzd.com
 0.0.0.0 dfxwcmnvsnr.top
 0.0.0.0 dfytqvjhr.xyz
