@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.084
 # Release: 084
-# Entries: 25,884
-# Updated: Fri, 25 Mar 22 10:07:02 +06
+# Entries: 25,885
+# Updated: Fri, 25 Mar 22 12:08:13 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -3415,6 +3415,7 @@
 0.0.0.0 brotherhoodminims.com
 0.0.0.0 brotherhoodonionbuttons.com
 0.0.0.0 brotherleadcape.com
+0.0.0.0 brothheadspaste.com
 0.0.0.0 broughtenragesince.com
 0.0.0.0 broworker7.com
 0.0.0.0 browserdownloadz.com
