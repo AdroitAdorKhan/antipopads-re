@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.03.084
-# Release: 084
-# Entries: 25,953
-# Updated: Fri, 25 Mar 22 22:04:20 +06
+# Version: 22.03.085
+# Release: 085
+# Entries: 25,956
+# Updated: Sat, 26 Mar 22 00:03:56 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -5244,6 +5244,7 @@
 0.0.0.0 cymaisefacsim.com
 0.0.0.0 cymetaphy.xyz
 0.0.0.0 cyneburg-yam.com
+0.0.0.0 cynicaugural.com
 0.0.0.0 cynthet.com
 0.0.0.0 cyphersvalure.com
 0.0.0.0 cypressattacksgenial.com
@@ -6814,6 +6815,7 @@
 0.0.0.0 electricitylaxative.com
 0.0.0.0 electrictheatrecompany.com
 0.0.0.0 elegantluckpersonally.com
+0.0.0.0 elegynybble.com
 0.0.0.0 eleidinurucuri.casa
 0.0.0.0 elementalantecedent.com
 0.0.0.0 elementaryrussia.com
@@ -13817,6 +13819,7 @@
 0.0.0.0 modifymaintenance.com
 0.0.0.0 modoro360.com
 0.0.0.0 modulepush.com
+0.0.0.0 moedgapers.com
 0.0.0.0 moekyepkd.com
 0.0.0.0 moelamkbxx.xyz
 0.0.0.0 moffreelance.biz
