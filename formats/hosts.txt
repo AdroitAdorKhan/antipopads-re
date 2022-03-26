@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.085
 # Release: 085
-# Entries: 25,982
-# Updated: Sat, 26 Mar 22 14:03:10 +06
+# Entries: 25,986
+# Updated: Sat, 26 Mar 22 16:06:51 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -11919,6 +11919,7 @@
 0.0.0.0 kitnmedia.com
 0.0.0.0 kitrigthy.com
 0.0.0.0 kittenmilletfoggy.com
+0.0.0.0 kityamurlika.com
 0.0.0.0 kityko.com
 0.0.0.0 kivaphugri.com
 0.0.0.0 kiwi-offers.com
@@ -19539,6 +19540,7 @@
 0.0.0.0 share-server.com
 0.0.0.0 sharieta.com
 0.0.0.0 sharpconnatechamber.com
+0.0.0.0 sharpsharkteeth.com
 0.0.0.0 sharpycurvet.com
 0.0.0.0 shaujoxu.net
 0.0.0.0 shaumtol.com
@@ -19920,6 +19922,7 @@
 0.0.0.0 smgdfrumbjxeh.top
 0.0.0.0 smhqaqhldtdtamv.top
 0.0.0.0 smigro.info
+0.0.0.0 smileoffennec.com
 0.0.0.0 smilingpilgrim.com
 0.0.0.0 smithylampong.com
 0.0.0.0 smjdkmvhar.com
@@ -22401,6 +22404,7 @@
 0.0.0.0 unykxgbla.com
 0.0.0.0 uod2quk646.com
 0.0.0.0 uoefggbuu.top
+0.0.0.0 uoefwsbqrmwuo.xyz
 0.0.0.0 uohcbjeck.xyz
 0.0.0.0 uojjpevjusfoidc.com
 0.0.0.0 uonhokcav.xyz
