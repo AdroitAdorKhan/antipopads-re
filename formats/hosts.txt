@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.03.085
-# Release: 085
-# Entries: 26,030
-# Updated: Sat, 26 Mar 22 20:02:18 +06
+# Version: 22.03.086
+# Release: 086
+# Entries: 26,033
+# Updated: Sun, 27 Mar 22 00:06:56 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -9252,6 +9252,7 @@
 0.0.0.0 grotesquemoviemankind.com
 0.0.0.0 grouac.com
 0.0.0.0 groucign.com
+0.0.0.0 groulrie.com
 0.0.0.0 groundlesscobwebmiller.com
 0.0.0.0 groundlessvisitationamen.com
 0.0.0.0 groundsstationeryglare.com
@@ -11343,6 +11344,7 @@
 0.0.0.0 jjaqyujqbnsxwq.top
 0.0.0.0 jjdtjvydmy.xyz
 0.0.0.0 jjdtrliuftaouhg.xyz
+0.0.0.0 jjestbjsiova.com
 0.0.0.0 jjgmcgajg.xyz
 0.0.0.0 jjievujrpace.xyz
 0.0.0.0 jjnlfd.com
@@ -26001,6 +26003,7 @@
 0.0.0.0 zoologywoof.com
 0.0.0.0 zoonoapt.net
 0.0.0.0 zoopsame.com
+0.0.0.0 zoostaig.com
 0.0.0.0 zop381q5o0q1.com
 0.0.0.0 zorango.com
 0.0.0.0 zordough.com
