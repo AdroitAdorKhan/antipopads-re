@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.087
 # Release: 087
-# Entries: 26,095
-# Updated: Mon, 28 Mar 22 02:02:47 +06
+# Entries: 26,096
+# Updated: Mon, 28 Mar 22 04:05:22 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -4029,6 +4029,7 @@
 0.0.0.0 cfgr1.com
 0.0.0.0 cfgxnjfvlmexhhicqccydxdfr.me
 0.0.0.0 cfhnvuhvwx.top
+0.0.0.0 cfjcjumdwqqc.xyz
 0.0.0.0 cflsxgdu.xyz
 0.0.0.0 cfmjapkwwdf.com
 0.0.0.0 cforvejp.top
