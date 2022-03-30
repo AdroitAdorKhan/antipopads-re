@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.03.089
 # Release: 089
-# Entries: 26,269
-# Updated: Wed, 30 Mar 22 10:04:53 +06
+# Entries: 26,271
+# Updated: Wed, 30 Mar 22 14:03:26 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -11000,6 +11000,7 @@
 0.0.0.0 iptpuwllnhc.xyz
 0.0.0.0 ipybrqiqafc.com
 0.0.0.0 ipyijftycqgknq.top
+0.0.0.0 iqawibvqldtvwg.xyz
 0.0.0.0 iqbkkhhsgk.com
 0.0.0.0 iqbkxlja.com
 0.0.0.0 iqcivddok.com
@@ -12281,6 +12282,7 @@
 0.0.0.0 kuksebel.com
 0.0.0.0 kukury2hf8nd09.com
 0.0.0.0 kulkerbolda.com
+0.0.0.0 kumamxmmrmc.com
 0.0.0.0 kumanaun.net
 0.0.0.0 kumparso.com
 0.0.0.0 kumpulblogger.com
