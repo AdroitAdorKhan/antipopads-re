@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.091
 # Release: 091
-# Entries: 26,414
-# Updated: Fri, 01 Apr 22 10:06:18 +06
+# Entries: 26,415
+# Updated: Fri, 01 Apr 22 14:04:44 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -19075,6 +19075,7 @@
 0.0.0.0 routeserve.info
 0.0.0.0 routgveriprt.com
 0.0.0.0 rouvoute.net
+0.0.0.0 rouwhapt.com
 0.0.0.0 rouwhoor.com
 0.0.0.0 rovalionsa.fun
 0.0.0.0 roverinvolv.bid
