@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.091
 # Release: 091
-# Entries: 26,407
-# Updated: Fri, 01 Apr 22 04:04:18 +06
+# Entries: 26,410
+# Updated: Fri, 01 Apr 22 08:02:56 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -1590,6 +1590,7 @@
 0.0.0.0 am15.net
 0.0.0.0 amads.fun
 0.0.0.0 amajorinryes.com
+0.0.0.0 amalakale.com
 0.0.0.0 amalgullish.com
 0.0.0.0 amandajuliett.com
 0.0.0.0 amarceusan.com
@@ -11724,6 +11725,7 @@
 0.0.0.0 jugeau.com
 0.0.0.0 jugerfowells.com
 0.0.0.0 juggrounds.com
+0.0.0.0 jugojndgyggjdwo.xyz
 0.0.0.0 juiceads.net
 0.0.0.0 juiceadv.com
 0.0.0.0 juiceadv.net
@@ -19138,6 +19140,7 @@
 0.0.0.0 rskillsplu.club
 0.0.0.0 rslfsysvwdrgb.top
 0.0.0.0 rsmgeqldt.top
+0.0.0.0 rsmqihvmlcqij.xyz
 0.0.0.0 rsnojsggpufd.com
 0.0.0.0 rsrwmpsiii.com
 0.0.0.0 rssrwsivmkdhxrt.top
