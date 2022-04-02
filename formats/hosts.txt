@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.092
 # Release: 092
-# Entries: 26,526
-# Updated: Sat, 02 Apr 22 10:07:52 +06
+# Entries: 26,530
+# Updated: Sat, 02 Apr 22 14:04:24 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -5402,6 +5402,7 @@
 0.0.0.0 dailyinterventioncongestion.com
 0.0.0.0 dainaith.net
 0.0.0.0 daintyecstasyspleen.com
+0.0.0.0 daipeept.net
 0.0.0.0 daipsuwi.net
 0.0.0.0 dairma.com
 0.0.0.0 dairouzy.net
@@ -12263,6 +12264,7 @@
 0.0.0.0 knucklecharacteristichairdresser.com
 0.0.0.0 knudykhefmei.xyz
 0.0.0.0 knutenegros.pro
+0.0.0.0 koabausu.com
 0.0.0.0 koabbtvbhqygdl.top
 0.0.0.0 koabukedosi.com
 0.0.0.0 koacojus.net
@@ -21567,6 +21569,7 @@
 0.0.0.0 thaickoo.net
 0.0.0.0 thaihats.net
 0.0.0.0 thaiksee.com
+0.0.0.0 thairdou.com
 0.0.0.0 thaiteth.com
 0.0.0.0 thamsais.com
 0.0.0.0 thaninncoos.com
@@ -23347,6 +23350,7 @@
 0.0.0.0 viapizza.online
 0.0.0.0 viatepigan.com
 0.0.0.0 viatorayme.com
+0.0.0.0 vibsouss.net
 0.0.0.0 viciousdepartment.com
 0.0.0.0 victoriousbanker.com
 0.0.0.0 vidalak.com
