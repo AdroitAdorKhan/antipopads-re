@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.096
 # Release: 096
-# Entries: 26,922
-# Updated: Wed, 06 Apr 22 20:02:20 +06
+# Entries: 26,924
+# Updated: Wed, 06 Apr 22 22:03:35 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -8374,6 +8374,7 @@
 0.0.0.0 fpqgttisajpd.top
 0.0.0.0 fpqlfuenw.xyz
 0.0.0.0 fprxfcch.top
+0.0.0.0 fpskctncgj.xyz
 0.0.0.0 fpvtlnfbydo.com
 0.0.0.0 fpxiridje.top
 0.0.0.0 fpyacdna.com
@@ -11710,6 +11711,7 @@
 0.0.0.0 jjyoibonik.xyz
 0.0.0.0 jjyvwook.xyz
 0.0.0.0 jkamxvoi.com
+0.0.0.0 jkbqkgmqx.xyz
 0.0.0.0 jkccdkhuddyfdl.com
 0.0.0.0 jkdejwcup.com
 0.0.0.0 jkgswirxm.com
