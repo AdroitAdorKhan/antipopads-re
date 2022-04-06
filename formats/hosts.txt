@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.096
 # Release: 096
-# Entries: 26,880
-# Updated: Wed, 06 Apr 22 16:04:17 +06
+# Entries: 26,888
+# Updated: Wed, 06 Apr 22 18:03:04 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -960,6 +960,7 @@
 0.0.0.0 adsbtrk.com
 0.0.0.0 adscale.de
 0.0.0.0 adscarrot.com
+0.0.0.0 adschill.com
 0.0.0.0 adscok.com
 0.0.0.0 adsco.re
 0.0.0.0 adscreendirect.com
@@ -6995,6 +6996,7 @@
 0.0.0.0 ekrvemsgktkcihp.com
 0.0.0.0 ekswdktvvfavnqb.xyz
 0.0.0.0 ektnmxrlr.com
+0.0.0.0 ekttkwbkfbr.com
 0.0.0.0 ekwhwgrxqah.xyz
 0.0.0.0 ekzoclick.com
 0.0.0.0 elasticad.net
@@ -10596,6 +10598,7 @@
 0.0.0.0 i7ece0xrg4nx.com
 0.0.0.0 i864ekhq.com
 0.0.0.0 i99i.org
+0.0.0.0 iadfgqikh.com
 0.0.0.0 iadqqgpjno.com
 0.0.0.0 iaenjrlnqltdtjt.xyz
 0.0.0.0 i-afk.com
@@ -11989,6 +11992,7 @@
 0.0.0.0 juxupsasu.pro
 0.0.0.0 jvicdngqyf.com
 0.0.0.0 jvplujckotxbvl.xyz
+0.0.0.0 jvqwymbeewtwnm.com
 0.0.0.0 jvscrekwsabkp.com
 0.0.0.0 jvshmmecyx.xyz
 0.0.0.0 jvtafkvywlxte.top
@@ -14190,6 +14194,7 @@
 0.0.0.0 mlfaudrsegab.top
 0.0.0.0 mlgwigjfllydvna.com
 0.0.0.0 mlitylcjgc.top
+0.0.0.0 mllxdihqs.com
 0.0.0.0 mllyathrqh.com
 0.0.0.0 mllyrwrkuvajo.com
 0.0.0.0 mlmixpqwivsxftw.xyz
@@ -16240,6 +16245,7 @@
 0.0.0.0 otsjfwxoj.xyz
 0.0.0.0 ottomdisede.club
 0.0.0.0 ouboosta.com
+0.0.0.0 oubvpkedplvdpkv.com
 0.0.0.0 ouchnexcmotthom.xyz
 0.0.0.0 oucuftuthy.com
 0.0.0.0 oucywciij.com
@@ -24076,6 +24082,7 @@
 0.0.0.0 vvnruopychccxn.com
 0.0.0.0 vvqknwws.com
 0.0.0.0 vvqncvgmrroy.top
+0.0.0.0 vvvcpueydsm.com
 0.0.0.0 vvvwalgkgnivoqg.top
 0.0.0.0 vvwielyqsvlru.com
 0.0.0.0 vwcsxemtwfmp.top
@@ -25967,6 +25974,7 @@
 0.0.0.0 xiygaiaq.top
 0.0.0.0 xizupsawo.pro
 0.0.0.0 xjaworrxwomtmed.top
+0.0.0.0 xjcgcjtromqw.com
 0.0.0.0 xjcovoxrnbwa.com
 0.0.0.0 xjepbbgxshpef.xyz
 0.0.0.0 xjpjuchrl.top
