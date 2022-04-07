@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.098
 # Release: 098
-# Entries: 27,031
-# Updated: Fri, 08 Apr 22 00:03:16 +06
+# Entries: 27,035
+# Updated: Fri, 08 Apr 22 02:04:11 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -2316,6 +2316,7 @@
 0.0.0.0 awaitcola.com
 0.0.0.0 awaitdetestableitem.com
 0.0.0.0 awaith.com
+0.0.0.0 awaitingharshlyweakness.com
 0.0.0.0 awaitssnerp.com
 0.0.0.0 awakeexterior.com
 0.0.0.0 awardpodstab.com
@@ -2934,6 +2935,7 @@
 0.0.0.0 bfast.com
 0.0.0.0 bfe4e6d364be199.com
 0.0.0.0 bffcjwhnbppxmh.com
+0.0.0.0 bfhxivpij.com
 0.0.0.0 bfjmqmdieipi.xyz
 0.0.0.0 bfldkyjiodpgi.xyz
 0.0.0.0 bfmxltuay.top
@@ -5238,6 +5240,7 @@
 0.0.0.0 ctdhylltfighs.com
 0.0.0.0 ctdznwavaouc.com
 0.0.0.0 cteosapjp.top
+0.0.0.0 ctexkbns.xyz
 0.0.0.0 ctflqomjystd.com
 0.0.0.0 ctfyetpca.top
 0.0.0.0 cthaic.com
@@ -25119,6 +25122,7 @@
 0.0.0.0 www.audiblytriggersreview.com
 0.0.0.0 www.audienceutmost.com
 0.0.0.0 www.aurjueeh.com
+0.0.0.0 www.awaitingharshlyweakness.com
 0.0.0.0 www.backwardchampionship.com
 0.0.0.0 www.badlybouncing.com
 0.0.0.0 www.baileydoormantdoormantalacrity.com
