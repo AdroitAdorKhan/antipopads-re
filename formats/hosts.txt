@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.097
 # Release: 097
-# Entries: 26,972
-# Updated: Thu, 07 Apr 22 10:03:11 +06
+# Entries: 26,973
+# Updated: Thu, 07 Apr 22 12:04:36 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -18710,6 +18710,7 @@
 0.0.0.0 rcjuxsxbuakm.xyz
 0.0.0.0 rckpwmhqz.com
 0.0.0.0 rclcshtpmpr.top
+0.0.0.0 rcnqvoxghepdvt.xyz
 0.0.0.0 rconand.club
 0.0.0.0 rcpudkfstrocmx.top
 0.0.0.0 rcqaxbyavaogomc.com
