@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.097
 # Release: 097
-# Entries: 26,973
-# Updated: Thu, 07 Apr 22 12:04:36 +06
+# Entries: 26,974
+# Updated: Thu, 07 Apr 22 14:04:16 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -25229,6 +25229,7 @@
 0.0.0.0 www.exportspring.com
 0.0.0.0 www.expressvampire.com
 0.0.0.0 www.extyoasigus.com
+0.0.0.0 www.eyesightladsregiment.com
 0.0.0.0 www.eyevfswxtcij.com
 0.0.0.0 www.ezeraf.com
 0.0.0.0 www.facilitatevoluntarily.com
