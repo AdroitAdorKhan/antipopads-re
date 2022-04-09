@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.099
 # Release: 099
-# Entries: 27,140
-# Updated: Sat, 09 Apr 22 08:02:39 +06
+# Entries: 27,141
+# Updated: Sat, 09 Apr 22 14:03:21 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -7033,6 +7033,7 @@
 0.0.0.0 ejrhtmwm.com
 0.0.0.0 ejurzsax.com
 0.0.0.0 ejvcpeiniaufyp.top
+0.0.0.0 ejvnqlvp.xyz
 0.0.0.0 ejxvdjnd.xyz
 0.0.0.0 ejypwcyxp.top
 0.0.0.0 ekansovi.com
