@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.099
 # Release: 099
-# Entries: 27,133
-# Updated: Sat, 09 Apr 22 04:05:12 +06
+# Entries: 27,135
+# Updated: Sat, 09 Apr 22 06:03:53 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -19901,6 +19901,7 @@
 0.0.0.0 saefirst.com
 0.0.0.0 saellpydbgxv.top
 0.0.0.0 safebrowsdv.com
+0.0.0.0 safecombined.com
 0.0.0.0 safedomkk.com
 0.0.0.0 safelistextreme.com
 0.0.0.0 safelyawake.com
@@ -22327,6 +22328,7 @@
 0.0.0.0 tjcttxdfelb.com
 0.0.0.0 tjdwclhujm.top
 0.0.0.0 tjehimwjvkrbveh.xyz
+0.0.0.0 tjfvhsuqb.com
 0.0.0.0 tjgasbjinlx.xyz
 0.0.0.0 tjgwvdltmiukga.com
 0.0.0.0 tjgynvnmqumreme.com
