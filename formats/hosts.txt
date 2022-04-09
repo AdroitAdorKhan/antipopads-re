@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.099
 # Release: 099
-# Entries: 27,141
-# Updated: Sat, 09 Apr 22 14:03:21 +06
+# Entries: 27,142
+# Updated: Sat, 09 Apr 22 16:02:24 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -14723,6 +14723,7 @@
 0.0.0.0 muvflix.com
 0.0.0.0 muvimtim.com
 0.0.0.0 muvvbhirjqctmu.xyz
+0.0.0.0 muwootch.com
 0.0.0.0 muxaglfocrapmy.top
 0.0.0.0 muxeyipppxwvsj.com
 0.0.0.0 muyoozrkkyr.com
