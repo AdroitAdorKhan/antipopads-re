@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.04.103
-! Release: 103
+! Version: 22.04.104
+! Release: 104
 ! Expires: 1 day
-! Entries: 27,516
-! Updated: Wed, 13 Apr 22 22:03:16 +06
+! Entries: 27,517
+! Updated: Thu, 14 Apr 22 02:03:59 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -6634,6 +6634,7 @@
 ||dupsyduckom.com^
 ||durapendsplauding.com^
 ||durationscuffle.com^
+||duriet.com^
 ||duringsiam.com^
 ||duritt.com^
 ||durnfpqfekwdf.top^
