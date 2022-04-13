@@ -19,8 +19,8 @@
 # Format: domains
 # Version: 22.04.103
 # Release: 103
-# Entries: 27,438
-# Updated: Wed, 13 Apr 22 10:04:44 +06
+# Entries: 27,440
+# Updated: Wed, 13 Apr 22 14:02:19 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -16440,6 +16440,7 @@ opsivesh.net
 opsoomet.net
 opsooque.com
 optad360.io
+optculmination.top
 opteama.com
 opter.co
 optimatic.com
@@ -24262,6 +24263,7 @@ virotc.com
 virtuallycoollybarber.com
 virtuallylend.com
 virusdesslavery.com
+virusdetect.top
 visagedbeard.com
 visariomedia.com
 visiads.com
