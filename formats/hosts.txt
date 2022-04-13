@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.103
 # Release: 103
-# Entries: 27,425
-# Updated: Wed, 13 Apr 22 04:03:05 +06
+# Entries: 27,427
+# Updated: Wed, 13 Apr 22 06:02:18 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts
 # ----------------------------------------------------------------------------
 #
@@ -4017,6 +4017,7 @@
 0.0.0.0 cawxsnkf.top
 0.0.0.0 cba-fed-igh.com
 0.0.0.0 cbbdmxiiceagddn.com
+0.0.0.0 cbbkvhcpabis.com
 0.0.0.0 cbcjpyoayeq.com
 0.0.0.0 cbdzone.online
 0.0.0.0 cbfnsrriou.xyz
@@ -7538,6 +7539,7 @@
 0.0.0.0 evaporatedisturbedbarrier.com
 0.0.0.0 evasiondemandedlearning.com
 0.0.0.0 evcknbym.com
+0.0.0.0 evcldodyj.com
 0.0.0.0 evdfhnicwckijj.com
 0.0.0.0 eveaggravationloosen.com
 0.0.0.0 evealm.com
