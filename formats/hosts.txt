@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.104
 # Release: 104
-# Entries: 27,522
-# Updated: Thu, 14 Apr 22 08:05:33 +06
+# Entries: 27,524
+# Updated: Thu, 14 Apr 22 10:04:16 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -25685,6 +25685,7 @@
 0.0.0.0 www.dismantlepenantiterrorist.com
 0.0.0.0 www.disorganizedsweatymash.com
 0.0.0.0 www.disruptorgan.com
+0.0.0.0 www.dissolveddittoteaspoon.com
 0.0.0.0 www.distinctlynobleprosecute.com
 0.0.0.0 www.doorbellbadge.com
 0.0.0.0 www.doormancreeping.com
@@ -25805,6 +25806,7 @@
 0.0.0.0 www.grilledjut.com
 0.0.0.0 www.grovebrainwashtroubles.com
 0.0.0.0 www.gsvyjunccsw.com
+0.0.0.0 www.guardianinvadecrept.com
 0.0.0.0 www.gustdeficitwry.com
 0.0.0.0 www.gwwhheahisrtld.com
 0.0.0.0 www.gxymlqcnu.com
