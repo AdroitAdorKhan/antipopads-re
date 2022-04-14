@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.104
 # Release: 104
-# Entries: 27,520
-# Updated: Thu, 14 Apr 22 06:02:33 +06
+# Entries: 27,522
+# Updated: Thu, 14 Apr 22 08:05:33 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3007,6 +3007,7 @@
 0.0.0.0 bhsojqwo.top
 0.0.0.0 bhvifhjybclp.com
 0.0.0.0 bhwmghkmaoox.xyz
+0.0.0.0 bhxismdtynv.com
 0.0.0.0 bhygfdaom.top
 0.0.0.0 biasedrepercussion.com
 0.0.0.0 bibagloty.com
@@ -12805,6 +12806,7 @@
 0.0.0.0 kstllbkqjns.xyz
 0.0.0.0 kstylxkx.xyz
 0.0.0.0 ksuubxlh.com
+0.0.0.0 kswndjptg.com
 0.0.0.0 kswueayjuok.top
 0.0.0.0 kt5850pjz0.com
 0.0.0.0 ktaueavyp.com
