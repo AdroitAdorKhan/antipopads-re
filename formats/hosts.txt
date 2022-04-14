@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.105
 # Release: 105
-# Entries: 27,589
-# Updated: Fri, 15 Apr 22 02:04:21 +06
+# Entries: 27,591
+# Updated: Fri, 15 Apr 22 04:02:10 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -658,6 +658,7 @@
 0.0.0.0 acacdn.com
 0.0.0.0 academicexcmathworksft.pw
 0.0.0.0 acalatthen.fun
+0.0.0.0 acaupail.net
 0.0.0.0 acbdmbhhmsfx.com
 0.0.0.0 accedebuzz.com
 0.0.0.0 accedednews.com
@@ -21338,6 +21339,7 @@
 0.0.0.0 souvamoo.net
 0.0.0.0 souvenirsattachedcountenance.com
 0.0.0.0 souvenirwatery.com
+0.0.0.0 souwhair.com
 0.0.0.0 sovarjel.top
 0.0.0.0 sovieashlig.club
 0.0.0.0 sovkofxjc.top
