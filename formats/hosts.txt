@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.104
 # Release: 104
-# Entries: 27,519
-# Updated: Thu, 14 Apr 22 04:02:43 +06
+# Entries: 27,520
+# Updated: Thu, 14 Apr 22 06:02:33 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -17815,6 +17815,7 @@
 0.0.0.0 pqorwmmlkf.com
 0.0.0.0 pqsqnxqbhkuyjn.xyz
 0.0.0.0 pqumdackvaiauvv.top
+0.0.0.0 pqwywmbrndrc.com
 0.0.0.0 pqxadekhqotwkv.com
 0.0.0.0 pqyvunwbdu.top
 0.0.0.0 pqztggmplviyxy.com
