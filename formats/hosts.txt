@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.105
 # Release: 105
-# Entries: 27,591
-# Updated: Fri, 15 Apr 22 04:02:10 +06
+# Entries: 27,594
+# Updated: Fri, 15 Apr 22 06:02:53 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2688,6 +2688,7 @@
 0.0.0.0 baztnnews24.com
 0.0.0.0 bb1acb0ea5ddb1fed8.com
 0.0.0.0 bb4cf48126aab4.com
+0.0.0.0 bbaannrr03.com
 0.0.0.0 bbaannrr11.com
 0.0.0.0 bbhljrxs.top
 0.0.0.0 bbom2b434493.com
@@ -20122,6 +20123,7 @@
 0.0.0.0 rvddfchkj.xyz
 0.0.0.0 rvgolxfml.top
 0.0.0.0 rvhwtbwfidu.top
+0.0.0.0 rvmessage.site
 0.0.0.0 rvpinform.com
 0.0.0.0 rvpmqeoawfedmh.xyz
 0.0.0.0 rvpsrv.com
@@ -24587,6 +24589,7 @@
 0.0.0.0 vqnabcfeckjrraw.com
 0.0.0.0 vqnqrs53.com
 0.0.0.0 vqnqrs54.com
+0.0.0.0 vqnqrs55.com
 0.0.0.0 vqr3jeu1qi41.com
 0.0.0.0 vqscmydk.xyz
 0.0.0.0 vqskyskpoaphuk.top
