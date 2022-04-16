@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.107
 # Release: 107
-# Entries: 27,735
-# Updated: Sun, 17 Apr 22 02:04:21 +06
+# Entries: 27,737
+# Updated: Sun, 17 Apr 22 04:01:52 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8738,6 +8738,7 @@
 0.0.0.0 ftktvlixlcn.top
 0.0.0.0 ftlfrebprgxoncg.top
 0.0.0.0 ftte.fun
+0.0.0.0 ftte.xyz
 0.0.0.0 fttwin.icu
 0.0.0.0 ftv-publicite.fr
 0.0.0.0 ftxabddarlo.xyz
@@ -25662,6 +25663,7 @@
 0.0.0.0 wtnmbilrrsysnxu.me
 0.0.0.0 wtokoieuvc.xyz
 0.0.0.0 wtqgvjnsctaa.com
+0.0.0.0 wtsannqaduebv.com
 0.0.0.0 wttbthswn.top
 0.0.0.0 wtvuhodbndlwv.xyz
 0.0.0.0 wtwbvglzzt.com
