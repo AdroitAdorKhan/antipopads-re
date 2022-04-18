@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.108
 # Release: 108
-# Entries: 27,833
-# Updated: Mon, 18 Apr 22 20:03:31 +06
+# Entries: 27,834
+# Updated: Mon, 18 Apr 22 22:05:11 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -26447,6 +26447,7 @@
 0.0.0.0 www.sinkdeputyjudicious.com
 0.0.0.0 www.skenqaamefeoncfegrytbuvksebpefer.com
 0.0.0.0 www.skilfulbags.com
+0.0.0.0 www.skillravageintrusive.com
 0.0.0.0 www.slavesenviablegrammar.com
 0.0.0.0 www.slidecaffeinecrown.com
 0.0.0.0 www.slipclearing.com
