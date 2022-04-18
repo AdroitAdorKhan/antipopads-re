@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.04.108
-! Release: 108
+! Version: 22.04.109
+! Release: 109
 ! Expires: 1 day
-! Entries: 27,834
-! Updated: Mon, 18 Apr 22 22:05:11 +06
+! Entries: 27,835
+! Updated: Tue, 19 Apr 22 00:05:50 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -1728,6 +1728,7 @@
 ||anedew.com^
 ||aneduker.one^
 ||anelexpres.club^
+||anfndbgsumshfex.com^
 ||anfsiflffmw.top^
 ||angege.com^
 ||angelesfoldingpatsy.com^
