@@ -20,8 +20,8 @@
 ! Version: 22.04.108
 ! Release: 108
 ! Expires: 1 day
-! Entries: 27,792
-! Updated: Mon, 18 Apr 22 08:03:15 +06
+! Entries: 27,793
+! Updated: Mon, 18 Apr 22 12:02:24 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -4323,6 +4323,7 @@
 ||chegostyzi.com^
 ||chegrupsishu.com^
 ||chekaksam.com^
+||chekseme.net^
 ||cheksoam.com^
 ||chelaxeshi.com^
 ||chemicalmarketindication.com^
