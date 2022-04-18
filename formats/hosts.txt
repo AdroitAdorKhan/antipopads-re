@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.108
 # Release: 108
-# Entries: 27,794
-# Updated: Mon, 18 Apr 22 14:02:15 +06
+# Entries: 27,795
+# Updated: Mon, 18 Apr 22 16:02:29 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2205,6 +2205,7 @@
 0.0.0.0 attentionsauditoriummall.com
 0.0.0.0 attentionswhisperingkeynote.com
 0.0.0.0 attenuatecripple.com
+0.0.0.0 attermsbructions.com
 0.0.0.0 attlwoqolnl.xyz
 0.0.0.0 attractiveimpertinencejoint.com
 0.0.0.0 attrapincha.com
