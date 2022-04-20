@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.111
 # Release: 111
-# Entries: 27,992
-# Updated: Thu, 21 Apr 22 02:17:41 +06
+# Entries: 27,994
+# Updated: Thu, 21 Apr 22 04:18:11 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2711,6 +2711,7 @@
 0.0.0.0 bb1acb0ea5ddb1fed8.com
 0.0.0.0 bb4cf48126aab4.com
 0.0.0.0 bbaannrr03.com
+0.0.0.0 bbaannrr05.com
 0.0.0.0 bbaannrr11.com
 0.0.0.0 bbhljrxs.top
 0.0.0.0 bbom2b434493.com
@@ -3283,6 +3284,7 @@
 0.0.0.0 bnc4m.com
 0.0.0.0 bnc5m.com
 0.0.0.0 bncelgbt.top
+0.0.0.0 bngdyn.com
 0.0.0.0 bnglzajikraz.com
 0.0.0.0 bngpst.com
 0.0.0.0 bngpt.com
