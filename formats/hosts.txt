@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.110
 # Release: 110
-# Entries: 27,939
-# Updated: Wed, 20 Apr 22 08:03:23 +06
+# Entries: 27,940
+# Updated: Wed, 20 Apr 22 10:05:15 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -26484,6 +26484,7 @@
 0.0.0.0 www.repetitiongeneticallypresidential.com
 0.0.0.0 www.replygallery.com
 0.0.0.0 www.rescuephrase.com
+0.0.0.0 www.residenceseeingstanding.com
 0.0.0.0 www.residentialsize.com
 0.0.0.0 www.restaurantbubblerub.com
 0.0.0.0 www.retainstorkloin.com
