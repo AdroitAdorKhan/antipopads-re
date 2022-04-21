@@ -20,8 +20,8 @@
 ! Version: 22.04.111
 ! Release: 111
 ! Expires: 1 day
-! Entries: 28,028
-! Updated: Thu, 21 Apr 22 18:03:32 +06
+! Entries: 28,029
+! Updated: Thu, 21 Apr 22 20:04:13 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -3425,6 +3425,7 @@
 ||borotango.com^
 ||borrowedbananaspite.com^
 ||borrowedheating.com^
+||borrowmarmotforester.com^
 ||borrowwaggonerinvestigate.com^
 ||borumis.com^
 ||bosgepkvkq.xyz^
