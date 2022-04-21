@@ -19,8 +19,8 @@
 # Format: domains
 # Version: 22.04.111
 # Release: 111
-# Entries: 28,029
-# Updated: Thu, 21 Apr 22 20:04:13 +06
+# Entries: 28,030
+# Updated: Thu, 21 Apr 22 22:05:29 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/domains.txt
 # ----------------------------------------------------------------------------
 #
@@ -2313,6 +2313,7 @@ automoc.net
 autopilothq.com
 autopsyglossy.com
 autoremerciez.xyz
+autoscorp.club
 autsaubs.net
 auudcptpkpfdu.top
 auweelta.net
