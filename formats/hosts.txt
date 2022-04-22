@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.112
 # Release: 112
-# Entries: 28,034
-# Updated: Fri, 22 Apr 22 00:03:09 +06
+# Entries: 28,036
+# Updated: Fri, 22 Apr 22 16:02:16 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6065,6 +6065,7 @@
 0.0.0.0 dhtmesmxjblb.com
 0.0.0.0 dhundora.com
 0.0.0.0 diagnosedifferentlycompute.com
+0.0.0.0 dialectspeckleather.com
 0.0.0.0 dialgold.com
 0.0.0.0 dialoguehostcreepy.com
 0.0.0.0 dialoguetramppayoff.com
@@ -13226,6 +13227,7 @@
 0.0.0.0 lastqesn.top
 0.0.0.0 lasvkgqc.top
 0.0.0.0 lataurir.com
+0.0.0.0 lateincentiveaspirant.com
 0.0.0.0 latenight-dating.life
 0.0.0.0 lateroffer.com
 0.0.0.0 latestsocial.com
