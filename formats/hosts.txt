@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.112
 # Release: 112
-# Entries: 28,037
-# Updated: Fri, 22 Apr 22 18:03:17 +06
+# Entries: 28,038
+# Updated: Fri, 22 Apr 22 20:03:47 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -23681,6 +23681,7 @@
 0.0.0.0 twvegxewhnra.com
 0.0.0.0 twvekqlge.top
 0.0.0.0 twwfxwgvlnc.com
+0.0.0.0 twwkrcec.com
 0.0.0.0 txcmjo.com
 0.0.0.0 txcsudkymdq.com
 0.0.0.0 txgwscbhqkh.xyz
