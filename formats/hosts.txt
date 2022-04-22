@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.112
 # Release: 112
-# Entries: 28,036
-# Updated: Fri, 22 Apr 22 16:02:16 +06
+# Entries: 28,037
+# Updated: Fri, 22 Apr 22 18:03:17 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11817,6 +11817,7 @@
 0.0.0.0 ivirkyhpoxww.xyz
 0.0.0.0 ivjkdyrjjgxhch.com
 0.0.0.0 ivkrlktsji.top
+0.0.0.0 ivotedfirits.com
 0.0.0.0 ivqcgmkup.top
 0.0.0.0 ivtcdnhshx.com
 0.0.0.0 ivtsqjxkwq.xyz
