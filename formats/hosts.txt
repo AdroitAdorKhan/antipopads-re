@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.113
 # Release: 113
-# Entries: 28,082
-# Updated: Sat, 23 Apr 22 12:06:47 +06
+# Entries: 28,083
+# Updated: Sat, 23 Apr 22 14:10:49 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12214,6 +12214,7 @@
 0.0.0.0 jmtomcgqnsczl.com
 0.0.0.0 jmunpikahv.top
 0.0.0.0 jmvahemada.com
+0.0.0.0 jmvxdkguyv.com
 0.0.0.0 jmwibkbtfxeq.com
 0.0.0.0 jmxpgmmbbnvfxr.xyz
 0.0.0.0 jmxphjxsxd.com
