@@ -20,8 +20,8 @@
 ! Version: 22.04.113
 ! Release: 113
 ! Expires: 1 day
-! Entries: 28,079
-! Updated: Sat, 23 Apr 22 04:02:10 +06
+! Entries: 28,081
+! Updated: Sat, 23 Apr 22 10:06:12 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -4575,6 +4575,7 @@
 ||cldlr.com^
 ||cldom.com^
 ||cldrck.com^
+||cldup.com^
 ||cldyupjsxlvtoag.top^
 ||cleanbrowser.network^
 ||cleanedglistenwhite.com^
@@ -26516,6 +26517,7 @@
 ||www.pamphletrating.com^
 ||www.partieseclipse.com^
 ||www.partyguarantee.com^
+||www.passworddrunkenheating.com^
 ||www.patrons.baledenseabbreviation.com^
 ||www.pawnoutletprimary.com^
 ||www.pawnprime.com^

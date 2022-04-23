@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.113
 # Release: 113
-# Entries: 28,079
-# Updated: Sat, 23 Apr 22 04:02:10 +06
+# Entries: 28,081
+# Updated: Sat, 23 Apr 22 10:06:12 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4574,6 +4574,7 @@
 0.0.0.0 cldlr.com
 0.0.0.0 cldom.com
 0.0.0.0 cldrck.com
+0.0.0.0 cldup.com
 0.0.0.0 cldyupjsxlvtoag.top
 0.0.0.0 cleanbrowser.network
 0.0.0.0 cleanedglistenwhite.com
@@ -26515,6 +26516,7 @@
 0.0.0.0 www.pamphletrating.com
 0.0.0.0 www.partieseclipse.com
 0.0.0.0 www.partyguarantee.com
+0.0.0.0 www.passworddrunkenheating.com
 0.0.0.0 www.patrons.baledenseabbreviation.com
 0.0.0.0 www.pawnoutletprimary.com
 0.0.0.0 www.pawnprime.com
