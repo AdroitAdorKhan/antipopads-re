@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.04.113
-# Release: 113
-# Entries: 28,083
-# Updated: Sat, 23 Apr 22 14:10:49 +06
+# Version: 22.04.114
+# Release: 114
+# Entries: 28,085
+# Updated: Sun, 24 Apr 22 10:45:49 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13469,6 +13469,7 @@
 0.0.0.0 lghbwlpduia.top
 0.0.0.0 lgifepmyciod.top
 0.0.0.0 lgiufpmd.com
+0.0.0.0 lgpihaml.com
 0.0.0.0 lgprmmhtdubto.top
 0.0.0.0 lgqgrsbjh.com
 0.0.0.0 lgse.com
@@ -18194,6 +18195,7 @@
 0.0.0.0 prayersitsskid.com
 0.0.0.0 prayersstingy.com
 0.0.0.0 prayuserparka.com
+0.0.0.0 prbtqjujwzwepv.com
 0.0.0.0 prdredir.com
 0.0.0.0 pre4sentre8dhf.com
 0.0.0.0 preachribbonsummoned.com
