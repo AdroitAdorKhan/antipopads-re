@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.04.114
-! Release: 114
+! Version: 22.04.115
+! Release: 115
 ! Expires: 1 day
-! Entries: 28,086
-! Updated: Sun, 24 Apr 22 18:04:32 +06
+! Entries: 28,088
+! Updated: Mon, 25 Apr 22 00:06:35 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -2613,6 +2613,7 @@
 ||bananastouching.com^
 ||banbqvdmsf.com^
 ||bandelcot.com^
+||banderazzz53.com^
 ||bandernad.com^
 ||bandicamad.com^
 ||bandicamas.com^
@@ -20455,6 +20456,7 @@
 ||rusenov.com^
 ||rusepastryblocks.com^
 ||rushcostscomparison.com^
+||rushonuco.com^
 ||rusinsonatas.cam^
 ||rusitmgysmanaskpikabyatezya.website^
 ||rusiuplj.top^

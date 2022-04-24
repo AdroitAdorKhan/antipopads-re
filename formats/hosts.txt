@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.04.114
-# Release: 114
-# Entries: 28,086
-# Updated: Sun, 24 Apr 22 18:04:32 +06
+# Version: 22.04.115
+# Release: 115
+# Entries: 28,088
+# Updated: Mon, 25 Apr 22 00:06:35 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2612,6 +2612,7 @@
 0.0.0.0 bananastouching.com
 0.0.0.0 banbqvdmsf.com
 0.0.0.0 bandelcot.com
+0.0.0.0 banderazzz53.com
 0.0.0.0 bandernad.com
 0.0.0.0 bandicamad.com
 0.0.0.0 bandicamas.com
@@ -20454,6 +20455,7 @@
 0.0.0.0 rusenov.com
 0.0.0.0 rusepastryblocks.com
 0.0.0.0 rushcostscomparison.com
+0.0.0.0 rushonuco.com
 0.0.0.0 rusinsonatas.cam
 0.0.0.0 rusitmgysmanaskpikabyatezya.website
 0.0.0.0 rusiuplj.top
