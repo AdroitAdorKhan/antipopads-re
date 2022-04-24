@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.114
 # Release: 114
-# Entries: 28,085
-# Updated: Sun, 24 Apr 22 10:45:49 +06
+# Entries: 28,086
+# Updated: Sun, 24 Apr 22 18:04:32 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14601,6 +14601,7 @@
 0.0.0.0 mfylnecbcy.xyz
 0.0.0.0 mg4s1.com
 0.0.0.0 mgawdujmosxxhre.top
+0.0.0.0 mgbid.net
 0.0.0.0 mgcash.com
 0.0.0.0 mgcashgate.com
 0.0.0.0 mgdxsqypqtv.com
