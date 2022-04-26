@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.116
 # Release: 116
-# Entries: 28,137
-# Updated: Tue, 26 Apr 22 02:03:32 +06
+# Entries: 28,139
+# Updated: Tue, 26 Apr 22 18:04:19 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14732,6 +14732,7 @@
 0.0.0.0 mingledunorder.com
 0.0.0.0 mingledventin.com
 0.0.0.0 minimizeglanceanyway.com
+0.0.0.0 minimsfidget.com
 0.0.0.0 minimumgold.com
 0.0.0.0 minimumkilledupdated.com
 0.0.0.0 minimumpay.info
@@ -20706,6 +20707,7 @@
 0.0.0.0 satanquells.com
 0.0.0.0 satcurdcue.com
 0.0.0.0 satdevoted.com
+0.0.0.0 satellitelanguishstop.com
 0.0.0.0 satisfactorilybewitchgreatness.com
 0.0.0.0 satisfactorydipforeman.com
 0.0.0.0 satisfactoryviolin.com
