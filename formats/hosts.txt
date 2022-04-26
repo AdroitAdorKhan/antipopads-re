@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.116
 # Release: 116
-# Entries: 28,147
-# Updated: Tue, 26 Apr 22 20:07:10 +06
+# Entries: 28,149
+# Updated: Tue, 26 Apr 22 22:03:46 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16278,6 +16278,7 @@
 0.0.0.0 nyyhnkqbt.top
 0.0.0.0 nzhfk.com
 0.0.0.0 nzhuswwhd.com
+0.0.0.0 nzihjybdeq.com
 0.0.0.0 nzme-ads.co.nz
 0.0.0.0 nznxgecb.com
 0.0.0.0 nztrimhg5fd1.com
@@ -24917,6 +24918,7 @@
 0.0.0.0 vkkdkvydwrwr.com
 0.0.0.0 vkltclvkjw.com
 0.0.0.0 vklwqdit.top
+0.0.0.0 vknalqcnfxu.com
 0.0.0.0 vknrfwwxhxaxupqp.pro
 0.0.0.0 vkrntoyjqfjeve.com
 0.0.0.0 vkrtvtosibg.xyz
