@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.117
 # Release: 117
-# Entries: 28,181
-# Updated: Wed, 27 Apr 22 16:04:10 +06
+# Entries: 28,182
+# Updated: Wed, 27 Apr 22 18:05:46 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -26462,6 +26462,7 @@
 0.0.0.0 www.imwinnerkur.com
 0.0.0.0 www.inattentivehandymanpresentiment.com
 0.0.0.0 www.incapablepasswordease.com
+0.0.0.0 www.inconsistencyriskyan.com
 0.0.0.0 www.independentendure.com
 0.0.0.0 www.inexhaustiblepatient.com
 0.0.0.0 www.infirmaryglare.com
