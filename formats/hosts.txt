@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.118
 # Release: 118
-# Entries: 28,222
-# Updated: Thu, 28 Apr 22 10:07:19 +06
+# Entries: 28,223
+# Updated: Thu, 28 Apr 22 14:04:25 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -26689,6 +26689,7 @@
 0.0.0.0 www.porridgeenemies.com
 0.0.0.0 www.portserratic.com
 0.0.0.0 www.posehind.com
+0.0.0.0 www.poshhateful.com
 0.0.0.0 www.postureconstituent.com
 0.0.0.0 www.potnormal.com
 0.0.0.0 www.potteryhuman.com
