@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.119
 # Release: 119
-# Entries: 28,234
-# Updated: Fri, 29 Apr 22 00:08:46 +06
+# Entries: 28,235
+# Updated: Fri, 29 Apr 22 02:05:30 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -2428,6 +2428,7 @@
 :: awstaticdn.net
 :: awsurveys.com
 :: awtvnrgwxletd.com
+:: awwhdxzen.com
 :: awwoeoevxnvt.com
 :: awwtkisfm.com
 :: awxecggixh.xyz
