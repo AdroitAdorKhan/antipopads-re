@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.120
 # Release: 120
-# Entries: 28,339
-# Updated: Sat, 30 Apr 22 02:06:02 +06
+# Entries: 28,344
+# Updated: Sat, 30 Apr 22 04:05:23 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -744,6 +744,7 @@
 0.0.0.0 aculdi.com
 0.0.0.0 acweb.online
 0.0.0.0 acwyoynw.com
+0.0.0.0 acxjepzmvqycf.com
 0.0.0.0 acyxhmchvptav.top
 0.0.0.0 ad120m.com
 0.0.0.0 ad123m.com
@@ -1542,6 +1543,7 @@
 0.0.0.0 alipromo.com
 0.0.0.0 alisierboutell.com
 0.0.0.0 alitems.com
+0.0.0.0 alitems.site
 0.0.0.0 aliveperjuryruby.com
 0.0.0.0 aljyiqva.xyz
 0.0.0.0 alklinker.com
@@ -9709,6 +9711,7 @@
 0.0.0.0 gogoartu.net
 0.0.0.0 gogoplexer.com
 0.0.0.0 gohaltuustwtayd.xyz
+0.0.0.0 gohere.pl
 0.0.0.0 gohfojhakcmfxl.com
 0.0.0.0 gohillgo.com
 0.0.0.0 goinformer.com
@@ -13453,6 +13456,7 @@
 0.0.0.0 ldrokcmtkfuem.com
 0.0.0.0 ldutvi.com
 0.0.0.0 ldylyjqbn.top
+0.0.0.0 lead1.pl
 0.0.0.0 leadabrasivedisapproval.com
 0.0.0.0 leadadvert.info
 0.0.0.0 leadcola.com
@@ -27853,6 +27857,7 @@
 0.0.0.0 yllmcyqjppistvr.top
 0.0.0.0 ylonjhcx.com
 0.0.0.0 yloxktosrx.top
+0.0.0.0 ylpujlcu.com
 0.0.0.0 ylvessovi.pro
 0.0.0.0 ylvjrfabncbo.top
 0.0.0.0 ylvyyosfdw.xyz
