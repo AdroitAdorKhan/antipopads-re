@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.119
 # Release: 119
-# Entries: 28,311
-# Updated: Fri, 29 Apr 22 16:04:56 +06
+# Entries: 28,314
+# Updated: Fri, 29 Apr 22 18:07:09 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6722,6 +6722,7 @@
 0.0.0.0 dtcljvfdcwcqhu.com
 0.0.0.0 dtcpdvnojquf.com
 0.0.0.0 dtfjemrr.com
+0.0.0.0 dthmkahofppmr.com
 0.0.0.0 dtipjnraue.top
 0.0.0.0 dtnpyvmqqvvgq.com
 0.0.0.0 dtoo1.space
@@ -9476,6 +9477,7 @@
 0.0.0.0 gkbwuyqjtc.xyz
 0.0.0.0 gkcnmdlstmwgvwv.top
 0.0.0.0 gkdhhbwherinfw.xyz
+0.0.0.0 gkdmqvqj.com
 0.0.0.0 gkenqqgtqwg.com
 0.0.0.0 gkgojxjucutvnt.com
 0.0.0.0 gkhoraicew.top
@@ -22801,6 +22803,7 @@
 0.0.0.0 tbnscruwtnmacva.xyz
 0.0.0.0 tbnsdmspmreo.com
 0.0.0.0 tbrfpycinlcwfgt.xyz
+0.0.0.0 tbtlokvohyx.com
 0.0.0.0 tbv157xq.com
 0.0.0.0 tbvxrpenmyt.com
 0.0.0.0 tcatholicyclea.com
