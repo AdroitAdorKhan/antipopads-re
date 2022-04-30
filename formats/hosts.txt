@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.04.120
 # Release: 120
-# Entries: 28,370
-# Updated: Sat, 30 Apr 22 10:07:04 +06
+# Entries: 28,372
+# Updated: Sat, 30 Apr 22 16:06:36 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2334,6 +2334,7 @@
 0.0.0.0 autopsyglossy.com
 0.0.0.0 autoremerciez.xyz
 0.0.0.0 autoscorp.club
+0.0.0.0 autoscorp.info
 0.0.0.0 autsaubs.net
 0.0.0.0 auudcptpkpfdu.top
 0.0.0.0 auweelta.net
@@ -21741,6 +21742,7 @@
 0.0.0.0 smoothbestialityteam.com
 0.0.0.0 smoothlyconsulatecrossroad.com
 0.0.0.0 smoswadfuhb.top
+0.0.0.0 smotherpeeves.com
 0.0.0.0 smountbeascar.com
 0.0.0.0 smrtlnk18tds.com
 0.0.0.0 smrtsecure-eml.com

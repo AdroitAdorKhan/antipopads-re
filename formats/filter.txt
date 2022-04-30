@@ -20,8 +20,8 @@
 ! Version: 22.04.120
 ! Release: 120
 ! Expires: 1 day
-! Entries: 28,370
-! Updated: Sat, 30 Apr 22 10:07:04 +06
+! Entries: 28,372
+! Updated: Sat, 30 Apr 22 16:06:36 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -2335,6 +2335,7 @@
 ||autopsyglossy.com^
 ||autoremerciez.xyz^
 ||autoscorp.club^
+||autoscorp.info^
 ||autsaubs.net^
 ||auudcptpkpfdu.top^
 ||auweelta.net^
@@ -21742,6 +21743,7 @@
 ||smoothbestialityteam.com^
 ||smoothlyconsulatecrossroad.com^
 ||smoswadfuhb.top^
+||smotherpeeves.com^
 ||smountbeascar.com^
 ||smrtlnk18tds.com^
 ||smrtsecure-eml.com^
