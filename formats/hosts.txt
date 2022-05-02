@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.122
 # Release: 122
-# Entries: 28,415
-# Updated: Mon, 02 May 22 10:08:42 +06
+# Entries: 28,416
+# Updated: Mon, 02 May 22 12:06:05 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -585,6 +585,7 @@
 0.0.0.0 abattoirpleatsprinkle.com
 0.0.0.0 abazelfan.com
 0.0.0.0 abbeyblog.me
+0.0.0.0 abbeyintervalfetched.com
 0.0.0.0 abbeyleefeet.com
 0.0.0.0 abbitbcwtkwkyx.xyz
 0.0.0.0 abbp1.com
