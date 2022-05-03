@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.123
 # Release: 123
-# Entries: 28,421
-# Updated: Tue, 03 May 22 10:05:04 +06
+# Entries: 28,422
+# Updated: Tue, 03 May 22 14:05:20 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -26615,6 +26615,7 @@
 0.0.0.0 www.glogoowo.net
 0.0.0.0 www.glossarysack.com
 0.0.0.0 www.goatassociateraces.com
+0.0.0.0 www.godmotherelectricity.com
 0.0.0.0 www.gooods4you.com
 0.0.0.0 www.goosedetectives.com
 0.0.0.0 www.gorillabrightenarms.com
