@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.123
 # Release: 123
-# Entries: 28,420
-# Updated: Tue, 03 May 22 04:07:48 +06
+# Entries: 28,421
+# Updated: Tue, 03 May 22 10:05:04 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -26425,6 +26425,7 @@
 0.0.0.0 www.bypasseaseboot.com
 0.0.0.0 www.campuscompositionzodiac.com
 0.0.0.0 www.capriceprop.com
+0.0.0.0 www.captivatepestilentstormy.com
 0.0.0.0 www.carpreposition.com
 0.0.0.0 www.carrotraining.com
 0.0.0.0 www.cdnativepush.com
