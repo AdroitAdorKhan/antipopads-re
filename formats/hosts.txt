@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.124
 # Release: 124
-# Entries: 28,456
-# Updated: Wed, 04 May 22 10:05:23 +06
+# Entries: 28,457
+# Updated: Wed, 04 May 22 14:02:25 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -26673,6 +26673,7 @@
 0.0.0.0 www.harsik.am
 0.0.0.0 www.hastejuggle.com
 0.0.0.0 www.hbtzzlcxfijk.com
+0.0.0.0 www.headstonefoamcleaver.com
 0.0.0.0 www.hecticprofitable.com
 0.0.0.0 www.hemquotedchamber.com
 0.0.0.0 www.herdthan.com
