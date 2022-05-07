@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.127
 # Release: 127
-# Entries: 28,567
-# Updated: Sat, 07 May 22 18:03:35 +06
+# Entries: 28,568
+# Updated: Sat, 07 May 22 20:07:22 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11795,6 +11795,7 @@
 0.0.0.0 inurneddoggish.com
 0.0.0.0 inuropag.tk
 0.0.0.0 inurra.com
+0.0.0.0 inuuhtznjglmm.com
 0.0.0.0 invadedwherevoluntary.com
 0.0.0.0 invaluableadapt.com
 0.0.0.0 invariablyedacityedacitypeach.com
