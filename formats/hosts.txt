@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.127
 # Release: 127
-# Entries: 28,540
-# Updated: Sat, 07 May 22 02:04:12 +06
+# Entries: 28,543
+# Updated: Sat, 07 May 22 08:16:05 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11719,6 +11719,7 @@
 0.0.0.0 inswebt.com
 0.0.0.0 intab.fun
 0.0.0.0 intacthomicidal.com
+0.0.0.0 intakestop.com
 0.0.0.0 intangibleconcordant.com
 0.0.0.0 intechads.com
 0.0.0.0 integral-marketing.com
@@ -19856,6 +19857,7 @@
 0.0.0.0 recdirectgo.biz
 0.0.0.0 receiptfastestparameter.com
 0.0.0.0 receitasefinancas.com
+0.0.0.0 receivedealer.com
 0.0.0.0 recentinteriorcrab.com
 0.0.0.0 recentlycollectannihilate.com
 0.0.0.0 recentlyunknowninterested.com
@@ -28287,6 +28289,7 @@
 0.0.0.0 yuluna.name
 0.0.0.0 yulunanews.name
 0.0.0.0 yumenetworks.com
+0.0.0.0 yumkelis.com
 0.0.0.0 yumomis.com
 0.0.0.0 yunshipei.com
 0.0.0.0 yunwelakytqxukk.xyz
