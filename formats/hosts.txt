@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.05.128
-# Release: 128
-# Entries: 28,576
-# Updated: Sun, 08 May 22 22:07:21 +06
+# Version: 22.05.129
+# Release: 129
+# Entries: 28,582
+# Updated: Mon, 09 May 22 04:05:17 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6547,6 +6547,7 @@
 0.0.0.0 donemillio.com
 0.0.0.0 donescaffold.com
 0.0.0.0 donkeyrecentfaith.com
+0.0.0.0 donort.com
 0.0.0.0 doobinooby.com
 0.0.0.0 doobyyooby.com
 0.0.0.0 doolooku.net
@@ -6625,6 +6626,7 @@
 0.0.0.0 downloadmoobilee.info
 0.0.0.0 download-performance.com
 0.0.0.0 downloadphone.info
+0.0.0.0 download-ready.net
 0.0.0.0 download-readynow.com
 0.0.0.0 downloadss.info
 0.0.0.0 downloadthesefile.com
@@ -14127,6 +14129,7 @@
 0.0.0.0 lqjewgpahxbeci.com
 0.0.0.0 lqjklaxsgnrh.com
 0.0.0.0 lqlkjmyypmeyml.com
+0.0.0.0 lqpbkobabvfqvil.com
 0.0.0.0 lqrsgxykaddurqp.com
 0.0.0.0 lqtifreww.top
 0.0.0.0 lqtxjrhweoc.top
@@ -19624,6 +19627,7 @@
 0.0.0.0 qyybswcga.top
 0.0.0.0 qz496amxfh87mst.com
 0.0.0.0 qzbnokxxvvpwf.com
+0.0.0.0 qzfegwpwdugb.com
 0.0.0.0 qzgbhuelut.com
 0.0.0.0 qzvlbjatsgzgn.com
 0.0.0.0 r023m83skv5v.com
@@ -22991,6 +22995,7 @@
 0.0.0.0 tatevowel.com
 0.0.0.0 tathitch.net
 0.0.0.0 tattepush.com
+0.0.0.0 tattid.com
 0.0.0.0 tauchaus.com
 0.0.0.0 taunhhcx.com
 0.0.0.0 tauntdoctrineestablishment.com
@@ -28231,6 +28236,7 @@
 0.0.0.0 yphmgzkojubwxn.com
 0.0.0.0 ypkmppko.top
 0.0.0.0 ypmadserver.com
+0.0.0.0 ypopaycisqh.com
 0.0.0.0 ypreferred.com
 0.0.0.0 yprocedent.co
 0.0.0.0 yptsbriqmeq.xyz
