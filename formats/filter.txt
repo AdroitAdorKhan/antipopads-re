@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.05.127
-! Release: 127
+! Version: 22.05.128
+! Release: 128
 ! Expires: 1 day
-! Entries: 28,568
-! Updated: Sat, 07 May 22 20:07:22 +06
+! Entries: 28,570
+! Updated: Sun, 08 May 22 06:05:42 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -19001,6 +19001,7 @@
 ||pumpmanamenage.casa^
 ||pumpmulticultural.com^
 ||pumtaimp.com^
+||punchhurts.com^
 ||punctualbuzzerleaflet.com^
 ||punctuationbelow.com^
 ||punctuationsesame.com^
@@ -20539,6 +20540,7 @@
 ||romance-net.com^
 ||romanticmonuments.com^
 ||romashk9arfk10.com^
+||romenegotiateadequate.com^
 ||romepoptahul.com^
 ||rompuwit.net^
 ||ronflyueneauh.com^
