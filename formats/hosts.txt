@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.05.129
-# Release: 129
-# Entries: 28,586
-# Updated: Mon, 09 May 22 16:04:58 +06
+# Version: 22.05.130
+# Release: 130
+# Entries: 28,588
+# Updated: Tue, 10 May 22 04:05:02 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15250,6 +15250,7 @@
 0.0.0.0 more1.biz
 0.0.0.0 moresmanomin.com
 0.0.0.0 morguecountryportray.com
+0.0.0.0 moriceprich.com
 0.0.0.0 moritava.com
 0.0.0.0 morningsophisticatedcenter.com
 0.0.0.0 morninguglychampionship.com
@@ -22206,6 +22207,7 @@
 0.0.0.0 splashforgodm.com
 0.0.0.0 splashsjewels.com
 0.0.0.0 spleniafallows.com
+0.0.0.0 splitcursednagging.com
 0.0.0.0 splittingpick.com
 0.0.0.0 spmkxteeawqsvxm.com
 0.0.0.0 spnhfdgcuju.xyz
