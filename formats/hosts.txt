@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.05.131
-# Release: 131
-# Entries: 28,650
-# Updated: Wed, 11 May 22 20:03:39 +06
+# Version: 22.05.132
+# Release: 132
+# Entries: 28,652
+# Updated: Thu, 12 May 22 00:05:19 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9617,6 +9617,7 @@
 0.0.0.0 glaksads.net
 0.0.0.0 glamourgreek.com
 0.0.0.0 glandtest.com
+0.0.0.0 glaoduuyguwqr.com
 0.0.0.0 glaptevaphy.com
 0.0.0.0 glareart.com
 0.0.0.0 glaresling.com
@@ -24895,6 +24896,7 @@
 0.0.0.0 uujdthyg.com
 0.0.0.0 uujofdomcugbrfq.xyz
 0.0.0.0 uulvtpbx.com
+0.0.0.0 uuocyltqnjgj.com
 0.0.0.0 uuoqdiqanpy.me
 0.0.0.0 uuoxsgvu.top
 0.0.0.0 uuphkthpt.xyz
