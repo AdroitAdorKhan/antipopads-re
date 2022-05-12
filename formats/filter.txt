@@ -20,8 +20,8 @@
 ! Version: 22.05.132
 ! Release: 132
 ! Expires: 1 day
-! Entries: 28,688
-! Updated: Thu, 12 May 22 20:05:06 +06
+! Entries: 28,690
+! Updated: Thu, 12 May 22 22:06:05 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -18736,6 +18736,7 @@
 ||profi-para.com^
 ||profitablecpmnetwork.com^
 ||profitabledisplaycontent.com^
+||profitabledisplaycontent.comwww.profitabledisplaycontent.com^
 ||profitablegate.com^
 ||profitabletoothbrushseduce.com^
 ||profitabletrustednetwork.com^
@@ -27142,6 +27143,7 @@
 ||www.printmeantime.com^
 ||www.privacymorrowexecute.com^
 ||www.privilegesurround.com^
+||www.profitabledisplaycontent.comwww.profitabledisplaycontent.com^
 ||www.profitabletrustednetwork.com^
 ||www.pronunciationspecimens.com^
 ||www.propelslaverybenevolent.com^

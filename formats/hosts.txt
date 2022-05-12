@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.132
 # Release: 132
-# Entries: 28,688
-# Updated: Thu, 12 May 22 20:05:06 +06
+# Entries: 28,690
+# Updated: Thu, 12 May 22 22:06:05 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -18735,6 +18735,7 @@
 0.0.0.0 profi-para.com
 0.0.0.0 profitablecpmnetwork.com
 0.0.0.0 profitabledisplaycontent.com
+0.0.0.0 profitabledisplaycontent.comwww.profitabledisplaycontent.com
 0.0.0.0 profitablegate.com
 0.0.0.0 profitabletoothbrushseduce.com
 0.0.0.0 profitabletrustednetwork.com
@@ -27141,6 +27142,7 @@
 0.0.0.0 www.printmeantime.com
 0.0.0.0 www.privacymorrowexecute.com
 0.0.0.0 www.privilegesurround.com
+0.0.0.0 www.profitabledisplaycontent.comwww.profitabledisplaycontent.com
 0.0.0.0 www.profitabletrustednetwork.com
 0.0.0.0 www.pronunciationspecimens.com
 0.0.0.0 www.propelslaverybenevolent.com
