@@ -20,8 +20,8 @@
 ! Version: 22.05.132
 ! Release: 132
 ! Expires: 1 day
-! Entries: 28,685
-! Updated: Thu, 12 May 22 10:03:55 +06
+! Entries: 28,688
+! Updated: Thu, 12 May 22 20:05:06 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -596,6 +596,7 @@
 ||abbronzongor.com^
 ||abbtqpfro.com^
 ||abburmyer.com^
+||a-b-c-d.xyz^
 ||abclefabletor.com^
 ||abcpetulant.com^
 ||abdicatenoise.com^
@@ -6077,6 +6078,7 @@
 ||descgkfypyhc.xyz^
 ||descrepush.com^
 ||descz.ovh^
+||desekansr.com^
 ||desembobelinons.site^
 ||desertedrat.com^
 ||deserterstrugglingdistil.com^
@@ -25529,6 +25531,7 @@
 ||vpnoffers.biz^
 ||vpnoffers.cc^
 ||vpn-offers.com^
+||vpn-offers.info^
 ||vpnoffers.info^
 ||vpnoffers.net^
 ||vpn-offers.org^
