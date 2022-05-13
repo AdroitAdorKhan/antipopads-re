@@ -20,8 +20,8 @@
 ! Version: 22.05.133
 ! Release: 133
 ! Expires: 1 day
-! Entries: 28,700
-! Updated: Fri, 13 May 22 12:05:16 +06
+! Entries: 28,702
+! Updated: Fri, 13 May 22 20:05:57 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -21388,6 +21388,7 @@
 ||sentineldiscordmm.com^
 ||sentphysically.com^
 ||seonto.com^
+||seoteam.marketing^
 ||separatecolonist.com^
 ||separatedcoffin.com^
 ||separateshow.com^
@@ -27250,6 +27251,7 @@
 ||www.sensitivenessbuttons.com^
 ||www.sentimenthypocrisy.com^
 ||www.sentineldiscordmm.com^
+||www.seoteam.marketing^
 ||www.separatecolonist.com^
 ||www.sewingdoubtlessperch.com^
 ||www.sewingfibber.com^

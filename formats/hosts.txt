@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.133
 # Release: 133
-# Entries: 28,700
-# Updated: Fri, 13 May 22 12:05:16 +06
+# Entries: 28,702
+# Updated: Fri, 13 May 22 20:05:57 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -21387,6 +21387,7 @@
 0.0.0.0 sentineldiscordmm.com
 0.0.0.0 sentphysically.com
 0.0.0.0 seonto.com
+0.0.0.0 seoteam.marketing
 0.0.0.0 separatecolonist.com
 0.0.0.0 separatedcoffin.com
 0.0.0.0 separateshow.com
@@ -27249,6 +27250,7 @@
 0.0.0.0 www.sensitivenessbuttons.com
 0.0.0.0 www.sentimenthypocrisy.com
 0.0.0.0 www.sentineldiscordmm.com
+0.0.0.0 www.seoteam.marketing
 0.0.0.0 www.separatecolonist.com
 0.0.0.0 www.sewingdoubtlessperch.com
 0.0.0.0 www.sewingfibber.com
