@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.133
 # Release: 133
-# Entries: 28,697
-# Updated: Fri, 13 May 22 08:04:06 +06
+# Entries: 28,699
+# Updated: Fri, 13 May 22 10:02:40 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9323,6 +9323,7 @@
 0.0.0.0 gcdnsl.com
 0.0.0.0 gcdpleqfwbwio.top
 0.0.0.0 gceglhuarqum.com
+0.0.0.0 gcfowqaazdycb.com
 0.0.0.0 gcgjuexwepo.top
 0.0.0.0 gchgao.com
 0.0.0.0 gclbtcloh.com
@@ -21188,6 +21189,7 @@
 0.0.0.0 scenecomposesharp.com
 0.0.0.0 scenehesitationutility.com
 0.0.0.0 sceptruline.xyz
+0.0.0.0 scgrzlketpica.com
 0.0.0.0 schargesee.xyz
 0.0.0.0 schbmnibqpyuo.xyz
 0.0.0.0 schemedisciplerude.com
