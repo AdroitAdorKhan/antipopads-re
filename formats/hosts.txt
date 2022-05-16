@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.05.136
-# Release: 136
-# Entries: 28,755
-# Updated: Mon, 16 May 22 22:04:23 +06
+# Version: 22.05.137
+# Release: 137
+# Entries: 28,760
+# Updated: Tue, 17 May 22 00:05:07 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2873,6 +2873,7 @@
 0.0.0.0 bedsitetrypa.com
 0.0.0.0 bedspursueclueless.com
 0.0.0.0 bedumbserugate.com
+0.0.0.0 beedifficultyending.com
 0.0.0.0 beeferzak.com
 0.0.0.0 beefrantravelled.com
 0.0.0.0 beefymartpronunciation.com
@@ -6632,6 +6633,7 @@
 0.0.0.0 dothbognib.com
 0.0.0.0 dotomi.com
 0.0.0.0 dotrkme.com
+0.0.0.0 dotsenhanced.com
 0.0.0.0 dotsgalorepage.com
 0.0.0.0 doubleadserve.com
 0.0.0.0 double-check.com
@@ -14150,6 +14152,7 @@
 0.0.0.0 louchees.net
 0.0.0.0 loudaups.com
 0.0.0.0 loudlycorrect.com
+0.0.0.0 loudnotchbrains.com
 0.0.0.0 louisaprocedureegoism.com
 0.0.0.0 loujaovgorhr.com
 0.0.0.0 loukoost.net
@@ -20915,6 +20918,7 @@
 0.0.0.0 runghollow.com
 0.0.0.0 runmewivel.com
 0.0.0.0 runnersgunpowder.com
+0.0.0.0 runningangular.com
 0.0.0.0 runningdestructioncleanliness.com
 0.0.0.0 runnyamowt.com
 0.0.0.0 runreferences.com
@@ -26167,6 +26171,7 @@
 0.0.0.0 whispercustom.com
 0.0.0.0 whisperofisaak.com
 0.0.0.0 whistedsynapte.com
+0.0.0.0 whistleddecadencevending.com
 0.0.0.0 whistlemonument.com
 0.0.0.0 whistlingenrapturereprint.com
 0.0.0.0 whitedisquiet.com
