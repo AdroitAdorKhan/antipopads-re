@@ -20,8 +20,8 @@
 ! Version: 22.05.139
 ! Release: 139
 ! Expires: 1 day
-! Entries: 28,866
-! Updated: Thu, 19 May 22 08:18:40 +06
+! Entries: 28,867
+! Updated: Thu, 19 May 22 12:15:04 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -24372,6 +24372,7 @@
 ||twinpinenetwork.com^
 ||twinrdack.com^
 ||twinrdsrv.com^
+||twinrdsyn.com^
 ||twinsoflave.com^
 ||twinwalnutthy.com^
 ||twirehillers.com^
