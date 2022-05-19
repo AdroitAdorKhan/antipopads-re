@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.140
 # Release: 140
-# Entries: 28,894
-# Updated: Fri, 20 May 22 00:03:56 +06
+# Entries: 28,895
+# Updated: Fri, 20 May 22 02:05:16 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5917,6 +5917,7 @@
 0.0.0.0 dcwslmjqoeqoc.com
 0.0.0.0 dcxitlzzmyxbwn.com
 0.0.0.0 dcznhkojghrl.com
+0.0.0.0 ddajztoum.com
 0.0.0.0 dddomainccc.com
 0.0.0.0 dddwlhiq.top
 0.0.0.0 ddenknowl.com
