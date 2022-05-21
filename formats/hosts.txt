@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.142
 # Release: 142
-# Entries: 28,920
-# Updated: Sun, 22 May 22 00:07:35 +06
+# Entries: 28,922
+# Updated: Sun, 22 May 22 02:06:52 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -25488,6 +25488,7 @@
 0.0.0.0 vighea.com
 0.0.0.0 vignerez.net
 0.0.0.0 vigoroussolidjitter.com
+0.0.0.0 vigpsypoyta.com
 0.0.0.0 vigraghe.net
 0.0.0.0 viguksuaknitpsj.top
 0.0.0.0 vihootch.casa
@@ -27603,6 +27604,7 @@
 0.0.0.0 www.trappedpump.com
 0.0.0.0 www.treasuresensignron.com
 0.0.0.0 www.trektinyreproduce.com
+0.0.0.0 www.tripsthorpelemonade.com
 0.0.0.0 www.trunkmafia.com
 0.0.0.0 www.trustedcpmrevenue.com
 0.0.0.0 www.trustedgatetocontent.com
