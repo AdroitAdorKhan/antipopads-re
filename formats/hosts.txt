@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.142
 # Release: 142
-# Entries: 28,942
-# Updated: Sun, 22 May 22 10:06:17 +06
+# Entries: 28,944
+# Updated: Sun, 22 May 22 16:06:38 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -22431,6 +22431,7 @@
 0.0.0.0 specourview.cam
 0.0.0.0 spectacleopinionatedminds.com
 0.0.0.0 spectaclescasual.com
+0.0.0.0 spectacularidentifiers.com
 0.0.0.0 spectato.com
 0.0.0.0 spectserjol.xyz
 0.0.0.0 spectsnoton.xyz
@@ -27094,6 +27095,7 @@
 0.0.0.0 www.furstraitsbrowse.com
 0.0.0.0 www.fwnowvgk.com
 0.0.0.0 www.gaietyastonished.com
+0.0.0.0 www.gangsterflyerillegimateillegimate.com
 0.0.0.0 www.garmentsdraught.com
 0.0.0.0 www.gbfgvzfcjfs.com
 0.0.0.0 www.generalizationtrifling.com
