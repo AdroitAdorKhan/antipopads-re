@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.05.142
-! Release: 142
+! Version: 22.05.143
+! Release: 143
 ! Expires: 1 day
-! Entries: 28,947
-! Updated: Sun, 22 May 22 22:04:05 +06
+! Entries: 28,948
+! Updated: Mon, 23 May 22 00:06:47 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -17637,6 +17637,7 @@
 ||oxharmonysample.com^
 ||oxidesloot.com^
 ||oximsrhibia.casa^
+||oxiqyxos.com^
 ||oxisjknloe.xyz^
 ||oxktialwynbdmsv.xyz^
 ||oxqvbjitvqqv.com^
