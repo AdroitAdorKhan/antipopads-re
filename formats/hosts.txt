@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.143
 # Release: 143
-# Entries: 28,952
-# Updated: Mon, 23 May 22 10:03:15 +06
+# Entries: 28,953
+# Updated: Mon, 23 May 22 12:03:34 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -23831,6 +23831,7 @@
 0.0.0.0 tkgiqyqyyxku.com
 0.0.0.0 tkickhhylnvm.com
 0.0.0.0 tkixajgd.com
+0.0.0.0 tklaxrrzzo.com
 0.0.0.0 tkojkhsfaplctiu.top
 0.0.0.0 tkpvtltly.top
 0.0.0.0 tktjwrdbjmg.com
