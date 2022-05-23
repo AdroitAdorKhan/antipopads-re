@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.143
 # Release: 143
-# Entries: 28,953
-# Updated: Mon, 23 May 22 12:03:34 +06
+# Entries: 28,954
+# Updated: Mon, 23 May 22 16:06:20 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8544,6 +8544,7 @@
 0.0.0.0 figgynudest.com
 0.0.0.0 fightafore.com
 0.0.0.0 figjnbmrquqqboe.xyz
+0.0.0.0 fignigentsuffeater.com
 0.0.0.0 figuredprovocative.com
 0.0.0.0 fiitqxwiqgaf.xyz
 0.0.0.0 fijekone.com
