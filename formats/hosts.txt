@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.144
 # Release: 144
-# Entries: 28,979
-# Updated: Tue, 24 May 22 02:03:44 +06
+# Entries: 28,981
+# Updated: Tue, 24 May 22 04:03:52 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11643,6 +11643,7 @@
 0.0.0.0 imounsos.com
 0.0.0.0 impact-ad.jp
 0.0.0.0 impactaffirm.com
+0.0.0.0 impactcomparableautumn.com
 0.0.0.0 impactlaterhand.com
 0.0.0.0 impactradius.com
 0.0.0.0 impactradius-go.com
@@ -22958,6 +22959,7 @@
 0.0.0.0 subscriberpursuehum.com
 0.0.0.0 subseaprinker.com
 0.0.0.0 subsequentswim.com
+0.0.0.0 substantialequilibrium.com
 0.0.0.0 subtillglowed.com
 0.0.0.0 subtlemedicineincorporate.com
 0.0.0.0 subtlepeel.com
