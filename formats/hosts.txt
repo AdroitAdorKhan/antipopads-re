@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.144
 # Release: 144
-# Entries: 28,982
-# Updated: Tue, 24 May 22 10:02:42 +06
+# Entries: 28,983
+# Updated: Tue, 24 May 22 12:04:21 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28564,6 +28564,7 @@
 0.0.0.0 yoretxpczr.com
 0.0.0.0 yosoxdqaiehp.xyz
 0.0.0.0 yottacash.com
+0.0.0.0 yottlyscript.com
 0.0.0.0 youearrid.com
 0.0.0.0 yougotacheck.com
 0.0.0.0 youlamedia.com
