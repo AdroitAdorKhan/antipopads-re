@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.145
 # Release: 145
-# Entries: 29,009
-# Updated: Wed, 25 May 22 00:06:25 +06
+# Entries: 29,012
+# Updated: Wed, 25 May 22 02:03:53 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7607,6 +7607,7 @@
 0.0.0.0 encodehelped.com
 0.0.0.0 encodeinflected.com
 0.0.0.0 encogcfklrcpqw.com
+0.0.0.0 en-continue.site
 0.0.0.0 encounterhostage.com
 0.0.0.0 encountryf.pro
 0.0.0.0 encouragementsubwayfather.com
@@ -11628,6 +11629,7 @@
 0.0.0.0 imaginaryspooky.com
 0.0.0.0 imaginelipuria.com
 0.0.0.0 imagineposition.com
+0.0.0.0 i-main.site
 0.0.0.0 imbetan.info
 0.0.0.0 imediarevenue.com
 0.0.0.0 imembe.com
@@ -17538,6 +17540,7 @@
 0.0.0.0 ourcommonnews.com
 0.0.0.0 ourcommonstories.com
 0.0.0.0 ourcoolposts.com
+0.0.0.0 ourdailyfinds.com
 0.0.0.0 ourdailystories.com
 0.0.0.0 oureviewi.club
 0.0.0.0 ourhotfeed.com
