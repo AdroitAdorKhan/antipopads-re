@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.144
 # Release: 144
-# Entries: 28,981
-# Updated: Tue, 24 May 22 04:03:52 +06
+# Entries: 28,982
+# Updated: Tue, 24 May 22 10:02:42 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -27113,6 +27113,7 @@
 0.0.0.0 www.floralrichardapprentice.com
 0.0.0.0 www.flowerbedfedpoultry.com
 0.0.0.0 www.followingsmother.com
+0.0.0.0 www.forearmthrobjanuary.com
 0.0.0.0 www.foreignsentiment.com
 0.0.0.0 www.formationdenehurt.com
 0.0.0.0 www.formationseparation.com
