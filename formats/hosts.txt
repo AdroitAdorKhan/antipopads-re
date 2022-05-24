@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.144
 # Release: 144
-# Entries: 28,983
-# Updated: Tue, 24 May 22 12:04:21 +06
+# Entries: 28,985
+# Updated: Tue, 24 May 22 16:05:21 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12769,6 +12769,7 @@
 0.0.0.0 jsojdmcxaunsxw.top
 0.0.0.0 jsojkyern.xyz
 0.0.0.0 jsontdsexit.com
+0.0.0.0 jspop.xyz
 0.0.0.0 jsppnlcfiaq.com
 0.0.0.0 jsqildjdoreixkv.com
 0.0.0.0 jsretra.com
@@ -28220,6 +28221,7 @@
 0.0.0.0 xxxallaccesspass.com
 0.0.0.0 xxxbannerswap.com
 0.0.0.0 xxxex.com
+0.0.0.0 xxxhd.cc
 0.0.0.0 xxxmov.site
 0.0.0.0 xxxoh.com
 0.0.0.0 xxxrevpushclcdu.com
