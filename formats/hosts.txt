@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.146
 # Release: 146
-# Entries: 29,048
-# Updated: Thu, 26 May 22 00:06:21 +06
+# Entries: 29,050
+# Updated: Thu, 26 May 22 02:03:29 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7482,6 +7482,7 @@
 0.0.0.0 ekexsztsgm.com
 0.0.0.0 ekfottltamc.com
 0.0.0.0 ekfvtddmqcgmqc.xyz
+0.0.0.0 ekgloczbsblg.com
 0.0.0.0 ekkfvdvp.xyz
 0.0.0.0 ekmas.com
 0.0.0.0 eknowin.club
@@ -28056,6 +28057,7 @@
 0.0.0.0 xjrkovbe.top
 0.0.0.0 xjusqurbspwpjb.xyz
 0.0.0.0 xjvwdeehxudl.xyz
+0.0.0.0 xjzcbddnj.com
 0.0.0.0 xkcfrofnitrik.com
 0.0.0.0 xkdmlfamxxuppi.top
 0.0.0.0 xkdnskvkvhbx.xyz
