@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.146
 # Release: 146
-# Entries: 29,052
-# Updated: Thu, 26 May 22 10:02:22 +06
+# Entries: 29,053
+# Updated: Thu, 26 May 22 16:06:42 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -20371,6 +20371,7 @@
 :: releasedfinish.com
 :: releasedrewardexcitedly.com
 :: relentfrance.com
+:: relentlessbelt.com
 :: relentlessmaniacspecies.com
 :: relestar.com
 :: relevantairbornefantastic.com
