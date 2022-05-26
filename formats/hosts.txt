@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.147
 # Release: 147
-# Entries: 29,062
-# Updated: Fri, 27 May 22 00:05:51 +06
+# Entries: 29,063
+# Updated: Fri, 27 May 22 02:03:00 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15129,6 +15129,7 @@
 0.0.0.0 mhshslgylabdmcs.top
 0.0.0.0 mhsmuyuv.top
 0.0.0.0 mhuijbkkwcz.com
+0.0.0.0 mhvllvgrefplg.com
 0.0.0.0 mhwxcrejjtm.top
 0.0.0.0 mhxfdbhjriycgh.top
 0.0.0.0 mhxrnjokswyx.com
