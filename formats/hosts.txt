@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.146
 # Release: 146
-# Entries: 29,050
-# Updated: Thu, 26 May 22 02:03:29 +06
+# Entries: 29,052
+# Updated: Thu, 26 May 22 10:02:22 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4897,6 +4897,7 @@
 0.0.0.0 cntdy.mobi
 0.0.0.0 cnt.my
 0.0.0.0 cntrafficpro.com
+0.0.0.0 cnwww.effectivedisplayformats.com
 0.0.0.0 cnxdztpgjyc.com
 0.0.0.0 cnywhcuyvjc.com
 0.0.0.0 coagricu.net
@@ -12971,6 +12972,7 @@
 0.0.0.0 jzjr2a62iw01zej9tzgquf.com
 0.0.0.0 k5zoom.com
 0.0.0.0 k77hof1z7k.com
+0.0.0.0 k7urmae.cnwww.effectivedisplayformats.com
 0.0.0.0 kaelpossible.pro
 0.0.0.0 kafbkvayolvjwbu.top
 0.0.0.0 kagrooxa.net
