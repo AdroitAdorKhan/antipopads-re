@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.147
 # Release: 147
-# Entries: 29,113
-# Updated: Fri, 27 May 22 12:03:54 +06
+# Entries: 29,115
+# Updated: Fri, 27 May 22 14:03:31 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1028,6 +1028,7 @@
 0.0.0.0 adshell.net
 0.0.0.0 adshexa.com
 0.0.0.0 adshopping.com
+0.0.0.0 adshort.space
 0.0.0.0 adsignals.com
 0.0.0.0 adsimilis.com
 0.0.0.0 adsinimages.com
@@ -20811,6 +20812,7 @@
 0.0.0.0 rjnflanef.xyz
 0.0.0.0 rjoawidlneitc.com
 0.0.0.0 rjpybqvmlgbta.top
+0.0.0.0 rjstusbx.com
 0.0.0.0 rjtcrxzd.com
 0.0.0.0 rjtgbjxfyslvdst.com
 0.0.0.0 rjupyipbjprur.me

@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.147
 # Release: 147
-# Entries: 29,113
-# Updated: Fri, 27 May 22 12:03:54 +06
+# Entries: 29,115
+# Updated: Fri, 27 May 22 14:03:31 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -1028,6 +1028,7 @@
 :: adshell.net
 :: adshexa.com
 :: adshopping.com
+:: adshort.space
 :: adsignals.com
 :: adsimilis.com
 :: adsinimages.com
@@ -20811,6 +20812,7 @@
 :: rjnflanef.xyz
 :: rjoawidlneitc.com
 :: rjpybqvmlgbta.top
+:: rjstusbx.com
 :: rjtcrxzd.com
 :: rjtgbjxfyslvdst.com
 :: rjupyipbjprur.me
