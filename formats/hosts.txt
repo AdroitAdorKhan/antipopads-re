@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.147
 # Release: 147
-# Entries: 29,082
-# Updated: Fri, 27 May 22 10:03:11 +06
+# Entries: 29,113
+# Updated: Fri, 27 May 22 12:03:54 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -101,7 +101,9 @@
 0.0.0.0 1770a379d2.com
 0.0.0.0 188server.com
 0.0.0.0 18clicks.com
+0.0.0.0 19273817.com
 0.0.0.0 192b1a49d57.com
+0.0.0.0 19528681.com
 0.0.0.0 1955dcb2fee1a13.com
 0.0.0.0 196f25ce95a.com
 0.0.0.0 199b8977fc.com
@@ -161,6 +163,7 @@
 0.0.0.0 24x7adservice.com
 0.0.0.0 26554a376a71735.com
 0.0.0.0 268stephe5en3king.com
+0.0.0.0 26968963.com
 0.0.0.0 27ceb2d5631623.com
 0.0.0.0 27vckaccbto7p761.pro
 0.0.0.0 2894c9d5b32.com
@@ -210,6 +213,7 @@
 0.0.0.0 30daychange.co
 0.0.0.0 32a79e2833309ebe.com
 0.0.0.0 32fd7f438cb.com
+0.0.0.0 3338635.com
 0.0.0.0 3381e74f70adfb59.com
 0.0.0.0 33ceaea337.cfd
 0.0.0.0 341073be6e9db7d2.com
@@ -356,6 +360,7 @@
 0.0.0.0 65vk1fba34.com
 0.0.0.0 65xps.com
 0.0.0.0 6657f1d5a25b6.com
+0.0.0.0 6745jj.com
 0.0.0.0 67frzna9e9.com
 0.0.0.0 688de7b3822de.com
 0.0.0.0 68d0d5e26bb0ae.com
@@ -455,6 +460,7 @@
 0.0.0.0 87afbf97c88.com
 0.0.0.0 87gw0fl0rc11.com
 0.0.0.0 888promos.com
+0.0.0.0 889433.com
 0.0.0.0 889fb4992d4e8.com
 0.0.0.0 88d7b6aa44fb8eb.com
 0.0.0.0 88hb7evabd.com
@@ -731,6 +737,7 @@
 0.0.0.0 acloudvideos.com
 0.0.0.0 acmrgdkubf.me
 0.0.0.0 acofrnsr44es3954b.com
+0.0.0.0 acoozzh.top
 0.0.0.0 acquaintedexpectations.com
 0.0.0.0 acquaintedpostman.com
 0.0.0.0 acquawes.xyz
@@ -6543,6 +6550,7 @@
 0.0.0.0 dj-updates.com
 0.0.0.0 djvbrdydmuito.com
 0.0.0.0 djxdudducpdyx.top
+0.0.0.0 djxfar6.com
 0.0.0.0 djxkjtnt.top
 0.0.0.0 dk4ywix.com
 0.0.0.0 dkauifmp.com
@@ -12431,6 +12439,7 @@
 0.0.0.0 jcrlrwwosud.xyz
 0.0.0.0 jcvbsgbto.com
 0.0.0.0 jcxyensduaeed.info
+0.0.0.0 jcyunk2.com
 0.0.0.0 jdbzurmhiixqm.com
 0.0.0.0 jdclredir.com
 0.0.0.0 jdikwsyyvut.xyz
@@ -12818,6 +12827,7 @@
 0.0.0.0 jsmpsi.com
 0.0.0.0 jsmptjmp.com
 0.0.0.0 jsmrpxwj.xyz
+0.0.0.0 jsoctn9.com
 0.0.0.0 jsojdmcxaunsxw.top
 0.0.0.0 jsojkyern.xyz
 0.0.0.0 jsontdsexit.com
@@ -12991,6 +13001,7 @@
 0.0.0.0 jzhzm30o49gv.com
 0.0.0.0 jzjr2a62iw01zej9tzgquf.com
 0.0.0.0 k5zoom.com
+0.0.0.0 k68tkg.com
 0.0.0.0 k77hof1z7k.com
 0.0.0.0 k7urmae.cnwww.effectivedisplayformats.com
 0.0.0.0 kaelpossible.pro
@@ -13558,13 +13569,23 @@
 0.0.0.0 kuttbcfqtlxggn.xyz
 0.0.0.0 kutuheca.com
 0.0.0.0 kuxvblmq.top
+0.0.0.0 kveaa.com
+0.0.0.0 kvecc.com
 0.0.0.0 kvedvkdpc.com
+0.0.0.0 kveii.com
+0.0.0.0 kvemm.com
 0.0.0.0 kveokjvlkdhxub.top
+0.0.0.0 kveww.com
+0.0.0.0 kvexx.com
+0.0.0.0 kvezz.com
 0.0.0.0 kvgeloqtnrdvjoc.com
+0.0.0.0 kvhfff.top
 0.0.0.0 kvhjkonefeyfdq.top
+0.0.0.0 kvhttt.top
 0.0.0.0 kvhuxqatip.xyz
 0.0.0.0 kvjckkojr.top
 0.0.0.0 kvjlujtw.xyz
+0.0.0.0 kvkddd.top
 0.0.0.0 kvlakmbfox.com
 0.0.0.0 kvoyqpxsirr.com
 0.0.0.0 kvpwmditjvy.top
@@ -15888,6 +15909,10 @@
 0.0.0.0 mzcsuuuwox.com
 0.0.0.0 mzlscqarnm.com
 0.0.0.0 mzol7lbm.com
+0.0.0.0 n0299.com
+0.0.0.0 n0355.com
+0.0.0.0 n0400.com
+0.0.0.0 n0433.com
 0.0.0.0 n12qga4ld3zk.com
 0.0.0.0 n161adserv.com
 0.0.0.0 n19.biz
@@ -17527,6 +17552,7 @@
 0.0.0.0 otdsngganpsgru.com
 0.0.0.0 otefauks.link
 0.0.0.0 otevebvuq.com
+0.0.0.0 othbhe2.com
 0.0.0.0 othecheb.net
 0.0.0.0 otheredan.space
 0.0.0.0 othesarialiber.club
@@ -19842,6 +19868,7 @@
 0.0.0.0 qtbmljuuef.top
 0.0.0.0 qtgrxfvhfmvfon.com
 0.0.0.0 qtgtvbkpbcyo.com
+0.0.0.0 qthynj2.com
 0.0.0.0 qtindyjll.xyz
 0.0.0.0 qtirpaed.com
 0.0.0.0 qtkstwmlu.xyz
@@ -21033,6 +21060,7 @@
 0.0.0.0 rrrsnxzkhbwwrs.com
 0.0.0.0 rrsrmqllbss.top
 0.0.0.0 rrsvweqamr.top
+0.0.0.0 rrtwda9.com
 0.0.0.0 rsafrwdr.com
 0.0.0.0 rsalcau.com
 0.0.0.0 rsalcch.com
@@ -24626,6 +24654,8 @@
 0.0.0.0 tyxsulttmyk.com
 0.0.0.0 tzfafzmooqum.com
 0.0.0.0 tzlchxdwreirbv.com
+0.0.0.0 u0054.com
+0.0.0.0 u0064.com
 0.0.0.0 u07k3pqfw5jh.com
 0.0.0.0 u1trkqf.com
 0.0.0.0 u29qnuav3i6p.com
@@ -25079,6 +25109,7 @@
 0.0.0.0 updatepro.pro
 0.0.0.0 update-ready.com
 0.0.0.0 updaterecomended.info
+0.0.0.0 upffxs6.com
 0.0.0.0 upgastlyr.com
 0.0.0.0 upghmvibgb.xyz
 0.0.0.0 upgliscorom.com
