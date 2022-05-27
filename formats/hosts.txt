@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.147
 # Release: 147
-# Entries: 29,079
-# Updated: Fri, 27 May 22 08:05:05 +06
+# Entries: 29,082
+# Updated: Fri, 27 May 22 10:03:11 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2979,6 +2979,7 @@
 0.0.0.0 benelph.de
 0.0.0.0 benevolencegardener.com
 0.0.0.0 benevolencepair.com
+0.0.0.0 benevolentdifferentlymeadow.com
 0.0.0.0 benfathomarticle.com
 0.0.0.0 benkubid.xyz
 0.0.0.0 benonblkd.xyz
@@ -4569,6 +4570,7 @@
 0.0.0.0 chopstick16.com
 0.0.0.0 chordeez.net
 0.0.0.0 chosensoothespeechless.com
+0.0.0.0 choseoffhandsight.com
 0.0.0.0 chosesleptcattish.com
 0.0.0.0 chottsapocha.com
 0.0.0.0 choupsee.com
@@ -10538,6 +10540,7 @@
 0.0.0.0 hastilyantiterrorist.com
 0.0.0.0 hastilyguide.com
 0.0.0.0 hatagashira.com
+0.0.0.0 hatbenchmajestic.com
 0.0.0.0 hatchetlavatory.com
 0.0.0.0 hatchord.com
 0.0.0.0 hatedgeographical.com
