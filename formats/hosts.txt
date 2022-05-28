@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.05.148
-# Release: 148
-# Entries: 29,143
-# Updated: Sat, 28 May 22 22:02:46 +06
+# Version: 22.05.149
+# Release: 149
+# Entries: 29,144
+# Updated: Sun, 29 May 22 02:03:00 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29108,6 +29108,7 @@
 0.0.0.0 zooahm2fx2v1.com
 0.0.0.0 zoologicalavid.com
 0.0.0.0 zoologywoof.com
+0.0.0.0 zoomatempt.com
 0.0.0.0 zoonoapt.net
 0.0.0.0 zoopsame.com
 0.0.0.0 zoostaig.com
