@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.148
 # Release: 148
-# Entries: 29,140
-# Updated: Sat, 28 May 22 06:05:39 +06
+# Entries: 29,142
+# Updated: Sat, 28 May 22 10:02:48 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -17859,6 +17859,7 @@
 0.0.0.0 pagnookr.net
 0.0.0.0 pahoqjlnlljynj.top
 0.0.0.0 paht.tech
+0.0.0.0 pahtwt.tech
 0.0.0.0 pahtzh.tech
 0.0.0.0 pahwggtv.com
 0.0.0.0 paight.com
@@ -27316,6 +27317,7 @@
 0.0.0.0 www.hallucinatecompute.com
 0.0.0.0 www.handymansurrender.com
 0.0.0.0 www.happeningturbandisorganized.com
+0.0.0.0 www.harmonycanyon.com
 0.0.0.0 www.harnesssuccessorspray.com
 0.0.0.0 www.harolddebris.com
 0.0.0.0 www.harrietproverb.com
