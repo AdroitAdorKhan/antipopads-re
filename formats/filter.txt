@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.05.149
-! Release: 149
+! Version: 22.05.150
+! Release: 150
 ! Expires: 1 day
-! Entries: 29,157
-! Updated: Sun, 29 May 22 18:03:10 +06
+! Entries: 29,158
+! Updated: Mon, 30 May 22 08:04:54 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -24979,6 +24979,7 @@
 ||undens.com^
 ||underclick.ru^
 ||undercoverbatch.com^
+||undercoversimplicity.com^
 ||underdividedhowever.com^
 ||underdog.media^
 ||underdorakely.com^
