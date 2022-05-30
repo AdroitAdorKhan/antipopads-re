@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.151
 # Release: 151
-# Entries: 29,196
-# Updated: Tue, 31 May 22 02:03:40 +06
+# Entries: 29,197
+# Updated: Tue, 31 May 22 04:05:36 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9475,6 +9475,7 @@
 0.0.0.0 gazitidi.xyz
 0.0.0.0 gb0rd.com
 0.0.0.0 gbalgumbfn.xyz
+0.0.0.0 gbdixorxxdjykr.com
 0.0.0.0 gbfeexoyo.com
 0.0.0.0 gbfgvzfcjfs.com
 0.0.0.0 gbfpyeqp.com
