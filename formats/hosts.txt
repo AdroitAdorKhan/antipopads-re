@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.150
 # Release: 150
-# Entries: 29,158
-# Updated: Mon, 30 May 22 08:04:54 +06
+# Entries: 29,159
+# Updated: Mon, 30 May 22 14:03:19 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -27453,6 +27453,7 @@
 0.0.0.0 www.lvqnychauf.com
 0.0.0.0 www.mailboxleadsphone.com
 0.0.0.0 www.makespram.com
+0.0.0.0 www.malicecoup.com
 0.0.0.0 www.maltunfaithfulpredominant.com
 0.0.0.0 www.manipulativepublishedblockade.com
 0.0.0.0 www.mankindflatten.com
