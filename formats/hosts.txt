@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.151
 # Release: 151
-# Entries: 29,210
-# Updated: Tue, 31 May 22 12:05:15 +06
+# Entries: 29,211
+# Updated: Tue, 31 May 22 16:05:19 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8799,6 +8799,7 @@
 0.0.0.0 fliedridgin.com
 0.0.0.0 flimsythought.com
 0.0.0.0 flingywalkup.com
+0.0.0.0 flipexplain.com
 0.0.0.0 fliplotincreasingly.com
 0.0.0.0 flipool.com
 0.0.0.0 flippantbliss.com
