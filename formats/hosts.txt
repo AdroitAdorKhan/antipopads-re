@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.152
 # Release: 152
-# Entries: 29,246
-# Updated: Wed, 01 Jun 22 00:05:30 +06
+# Entries: 29,249
+# Updated: Wed, 01 Jun 22 02:06:53 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5710,6 +5710,7 @@
 0.0.0.0 cuterbond.com
 0.0.0.0 cutescale.online
 0.0.0.0 cutestpotting.com
+0.0.0.0 cutetalepassages.com
 0.0.0.0 cuteturkey.com
 0.0.0.0 cutoft.com
 0.0.0.0 cutthqiciqxt.top
@@ -11924,6 +11925,7 @@
 0.0.0.0 ingratitudefunctions.com
 0.0.0.0 inhaletorchesoffended.com
 0.0.0.0 inherentsupposed.com
+0.0.0.0 inheritanceourselves.com
 0.0.0.0 inheritedgeneralrailroad.com
 0.0.0.0 inheritwalter.com
 0.0.0.0 inhonedgean.com
@@ -24234,6 +24236,7 @@
 0.0.0.0 topgirls-here1.com
 0.0.0.0 topgirls-here.com
 0.0.0.0 tophotladies-4you.com
+0.0.0.0 topiccorruption.com
 0.0.0.0 topichawaii.com
 0.0.0.0 toply.eu
 0.0.0.0 topmaincash.com
