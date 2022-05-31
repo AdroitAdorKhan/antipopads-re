@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.05.151
 # Release: 151
-# Entries: 29,209
-# Updated: Tue, 31 May 22 10:02:37 +06
+# Entries: 29,210
+# Updated: Tue, 31 May 22 12:05:15 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4903,6 +4903,7 @@
 0.0.0.0 cmuuoyeoafsm.xyz
 0.0.0.0 cmwamabdmeooxf.com
 0.0.0.0 cmytuorb.xyz
+0.0.0.0 cncflpfw.com
 0.0.0.0 cnchtnejchbefuo.top
 0.0.0.0 cneeittlirec.club
 0.0.0.0 cngcpy.com
