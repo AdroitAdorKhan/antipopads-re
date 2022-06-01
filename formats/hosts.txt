@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.153
 # Release: 153
-# Entries: 29,286
-# Updated: Thu, 02 Jun 22 00:06:40 +06
+# Entries: 29,287
+# Updated: Thu, 02 Jun 22 02:04:11 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13703,6 +13703,7 @@
 0.0.0.0 kysgmnoivrauxirvooy.me
 0.0.0.0 kythodoby.pro
 0.0.0.0 kyydgpyofhmw.top
+0.0.0.0 kyyydxpptcl.com
 0.0.0.0 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 0.0.0.0 l2ksixujfcg5.com
 0.0.0.0 l3g3media.com
