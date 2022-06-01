@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.152
 # Release: 152
-# Entries: 29,249
-# Updated: Wed, 01 Jun 22 02:06:53 +06
+# Entries: 29,251
+# Updated: Wed, 01 Jun 22 06:03:40 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15833,6 +15833,7 @@
 0.0.0.0 mushesarrear.com
 0.0.0.0 mushroomresolved.com
 0.0.0.0 musicaldurabledays.com
+0.0.0.0 musicalsteelequilibrium.com
 0.0.0.0 music-home.info
 0.0.0.0 musicmuskolino.top
 0.0.0.0 musicnote.info
@@ -25107,6 +25108,7 @@
 0.0.0.0 unfrmpgqbfe.com
 0.0.0.0 unfudgetljbf.xyz
 0.0.0.0 unfurlyawweed.casa
+0.0.0.0 ungratefulnaivenearest.com
 0.0.0.0 ungstlateriag.club
 0.0.0.0 unhappywaxdamaging.com
 0.0.0.0 unhcnhbcftenu.top
