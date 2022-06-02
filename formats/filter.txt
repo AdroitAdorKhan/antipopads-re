@@ -20,8 +20,8 @@
 ! Version: 22.06.153
 ! Release: 153
 ! Expires: 1 day
-! Entries: 29,306
-! Updated: Thu, 02 Jun 22 08:08:30 +06
+! Entries: 29,307
+! Updated: Thu, 02 Jun 22 10:02:52 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -2800,6 +2800,7 @@
 ||bathingstage.com^
 ||batsdivannab.com^
 ||batterdisagreement.com^
+||batterserenity.com^
 ||batteryfirmimage.com^
 ||batteusp2hilenor.com^
 ||battlehope.com^
