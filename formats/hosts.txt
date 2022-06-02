@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.154
 # Release: 154
-# Entries: 29,317
-# Updated: Fri, 03 Jun 22 00:07:04 +06
+# Entries: 29,319
+# Updated: Fri, 03 Jun 22 02:04:48 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5997,6 +5997,7 @@
 0.0.0.0 dcpxroykfpnnpm.xyz
 0.0.0.0 dcrecycle.top
 0.0.0.0 dcvaxrdmdovrsgh.com
+0.0.0.0 dcwkgvoeufhnm.com
 0.0.0.0 dcwslmjqoeqoc.com
 0.0.0.0 dcxitlzzmyxbwn.com
 0.0.0.0 dcznhkojghrl.com
@@ -16533,6 +16534,7 @@
 0.0.0.0 nnejnyhrn.top
 0.0.0.0 nngjeadavrctk.top
 0.0.0.0 nnioamayvhg.xyz
+0.0.0.0 nnlczheczlq.com
 0.0.0.0 nnldhfprkgrc.com
 0.0.0.0 nnliejedtbolwkd.xyz
 0.0.0.0 nnmsyxqobyic.top
