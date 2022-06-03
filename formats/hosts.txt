@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.154
 # Release: 154
-# Entries: 29,338
-# Updated: Fri, 03 Jun 22 10:03:25 +06
+# Entries: 29,340
+# Updated: Fri, 03 Jun 22 16:08:04 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15701,6 +15701,7 @@
 0.0.0.0 motosal.net
 0.0.0.0 mottnow.com
 0.0.0.0 mottoanchovygarbage.com
+0.0.0.0 mottoncontial.com
 0.0.0.0 motwkixhple.xyz
 0.0.0.0 moudmarauds.com
 0.0.0.0 moundgrandmotherel.com
@@ -25944,6 +25945,7 @@
 0.0.0.0 visariomedia.com
 0.0.0.0 viscountscanty.com
 0.0.0.0 visesi.com
+0.0.0.0 vishmarkjohnovers.com
 0.0.0.0 visiads.com
 0.0.0.0 visiblegains.com
 0.0.0.0 visiblejoseph.com
