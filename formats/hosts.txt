@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.154
 # Release: 154
-# Entries: 29,340
-# Updated: Fri, 03 Jun 22 16:08:04 +06
+# Entries: 29,341
+# Updated: Fri, 03 Jun 22 20:02:58 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4146,6 +4146,7 @@
 0.0.0.0 capsheirspages.com
 0.0.0.0 capsuleshapen.com
 0.0.0.0 captainad.com
+0.0.0.0 captainconceivedentangled.com
 0.0.0.0 captivatecustomergentlemen.com
 0.0.0.0 captivatepestilentstormy.com
 0.0.0.0 captiveimpossibleimport.com
