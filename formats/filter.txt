@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.06.155
-! Release: 155
+! Version: 22.06.156
+! Release: 156
 ! Expires: 1 day
-! Entries: 29,357
-! Updated: Sat, 04 Jun 22 16:05:12 +06
+! Entries: 29,358
+! Updated: Sun, 05 Jun 22 04:02:27 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -27570,6 +27570,7 @@
 ||www.infirmaryglare.com^
 ||www.inflamesplittingmotel.com^
 ||www.inflectionquake.com^
+||www.ingratitudefunctions.com^
 ||www.initiallogical.com^
 ||www.innumerablecaw.com^
 ||www.insanitynominate.com^

@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.06.155
-# Release: 155
-# Entries: 29,357
-# Updated: Sat, 04 Jun 22 16:05:12 +06
+# Version: 22.06.156
+# Release: 156
+# Entries: 29,358
+# Updated: Sun, 05 Jun 22 04:02:27 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -27569,6 +27569,7 @@
 0.0.0.0 www.infirmaryglare.com
 0.0.0.0 www.inflamesplittingmotel.com
 0.0.0.0 www.inflectionquake.com
+0.0.0.0 www.ingratitudefunctions.com
 0.0.0.0 www.initiallogical.com
 0.0.0.0 www.innumerablecaw.com
 0.0.0.0 www.insanitynominate.com
