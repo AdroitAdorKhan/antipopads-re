@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.06.154
-! Release: 154
+! Version: 22.06.155
+! Release: 155
 ! Expires: 1 day
-! Entries: 29,347
-! Updated: Fri, 03 Jun 22 22:02:45 +06
+! Entries: 29,352
+! Updated: Sat, 04 Jun 22 06:02:48 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -2510,6 +2510,7 @@
 ||aws-ajax.com^
 ||awsatstb.com^
 ||awsclic.com^
+||awscloudfront.ml^
 ||awsharproofed.com^
 ||awskgnigv.com^
 ||awstaticdn.net^
@@ -4882,6 +4883,7 @@
 ||clotherinde.space^
 ||clothetow.com^
 ||clottedpowerlessmade.com^
+||cloudcdn.ml^
 ||cloudiiv.com^
 ||cloudimagesa.com^
 ||cloudimagesb.com^
@@ -7314,6 +7316,7 @@
 ||economyobserver.com^
 ||econverge.top^
 ||ecortb.com^
+||ecossn.com^
 ||ecovhypstu.com^
 ||ecpmrocks.com^
 ||ecpms.net^
@@ -21347,6 +21350,7 @@
 ||runative-syndicate.com^
 ||runawaygreasy.com^
 ||runbornto.com^
+||rundse.com^
 ||runecrispin.com^
 ||runeddivided.casa^
 ||runetki.co^
@@ -27403,6 +27407,7 @@
 ||www.emeraldmistrust.com^
 ||www.employedlawn.com^
 ||www.emxdnfvdnwzx.com^
+||www.encloseddealing.com^
 ||www.encogcfklrcpqw.com^
 ||www.envelopeheadache.com^
 ||www.eooslfyhziubo.com^

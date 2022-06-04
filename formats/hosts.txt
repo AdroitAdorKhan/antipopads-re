@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.06.154
-# Release: 154
-# Entries: 29,347
-# Updated: Fri, 03 Jun 22 22:02:45 +06
+# Version: 22.06.155
+# Release: 155
+# Entries: 29,352
+# Updated: Sat, 04 Jun 22 06:02:48 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2509,6 +2509,7 @@
 0.0.0.0 aws-ajax.com
 0.0.0.0 awsatstb.com
 0.0.0.0 awsclic.com
+0.0.0.0 awscloudfront.ml
 0.0.0.0 awsharproofed.com
 0.0.0.0 awskgnigv.com
 0.0.0.0 awstaticdn.net
@@ -4881,6 +4882,7 @@
 0.0.0.0 clotherinde.space
 0.0.0.0 clothetow.com
 0.0.0.0 clottedpowerlessmade.com
+0.0.0.0 cloudcdn.ml
 0.0.0.0 cloudiiv.com
 0.0.0.0 cloudimagesa.com
 0.0.0.0 cloudimagesb.com
@@ -7313,6 +7315,7 @@
 0.0.0.0 economyobserver.com
 0.0.0.0 econverge.top
 0.0.0.0 ecortb.com
+0.0.0.0 ecossn.com
 0.0.0.0 ecovhypstu.com
 0.0.0.0 ecpmrocks.com
 0.0.0.0 ecpms.net
@@ -21346,6 +21349,7 @@
 0.0.0.0 runative-syndicate.com
 0.0.0.0 runawaygreasy.com
 0.0.0.0 runbornto.com
+0.0.0.0 rundse.com
 0.0.0.0 runecrispin.com
 0.0.0.0 runeddivided.casa
 0.0.0.0 runetki.co
@@ -27402,6 +27406,7 @@
 0.0.0.0 www.emeraldmistrust.com
 0.0.0.0 www.employedlawn.com
 0.0.0.0 www.emxdnfvdnwzx.com
+0.0.0.0 www.encloseddealing.com
 0.0.0.0 www.encogcfklrcpqw.com
 0.0.0.0 www.envelopeheadache.com
 0.0.0.0 www.eooslfyhziubo.com
