@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.155
 # Release: 155
-# Entries: 29,352
-# Updated: Sat, 04 Jun 22 06:02:48 +06
+# Entries: 29,356
+# Updated: Sat, 04 Jun 22 10:02:52 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8012,6 +8012,7 @@
 0.0.0.0 ethnicbrotherhoodunmoved.com
 0.0.0.0 ethnictyrosky.com
 0.0.0.0 etioh.com
+0.0.0.0 etisalatt.com
 0.0.0.0 etivat.com
 0.0.0.0 etlcrfkkfl.com
 0.0.0.0 etmxjglxsthvm.xyz
@@ -18919,6 +18920,7 @@
 0.0.0.0 postback.info
 0.0.0.0 postlnk.com
 0.0.0.0 postrelease.com
+0.0.0.0 posttrendingblog.com
 0.0.0.0 postupset.com
 0.0.0.0 postureconstituent.com
 0.0.0.0 postwarvampire.com
@@ -27418,6 +27420,7 @@
 0.0.0.0 www.establishmentinfluence.com
 0.0.0.0 www.evcknbym.com
 0.0.0.0 www.evgywgur.com
+0.0.0.0 www.exchangediscreditmast.com
 0.0.0.0 www.excludepops.com
 0.0.0.0 www.exjozegvbaresw.com
 0.0.0.0 www.experimentmelting.com
@@ -28398,6 +28401,7 @@
 0.0.0.0 xminxnaioxnwiau.com
 0.0.0.0 xmkniejb.xyz
 0.0.0.0 xmlads.bid
+0.0.0.0 xmlapiclickredirect.com
 0.0.0.0 xml-api.online
 0.0.0.0 xmlgrab.com
 0.0.0.0 xmllover.com
