@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.156
 # Release: 156
-# Entries: 29,380
-# Updated: Sun, 05 Jun 22 10:03:08 +06
+# Entries: 29,381
+# Updated: Sun, 05 Jun 22 18:03:58 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6062,6 +6062,7 @@
 0.0.0.0 deceittoured.com
 0.0.0.0 decemberpedalunfair.com
 0.0.0.0 decenthat.com
+0.0.0.0 decide.dev
 0.0.0.0 decids.com
 0.0.0.0 decisionmark.com
 0.0.0.0 decisionnews.com

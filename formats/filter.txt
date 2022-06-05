@@ -20,8 +20,8 @@
 ! Version: 22.06.156
 ! Release: 156
 ! Expires: 1 day
-! Entries: 29,380
-! Updated: Sun, 05 Jun 22 10:03:08 +06
+! Entries: 29,381
+! Updated: Sun, 05 Jun 22 18:03:58 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -6063,6 +6063,7 @@
 ||deceittoured.com^
 ||decemberpedalunfair.com^
 ||decenthat.com^
+||decide.dev^
 ||decids.com^
 ||decisionmark.com^
 ||decisionnews.com^
