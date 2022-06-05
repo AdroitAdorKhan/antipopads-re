@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.156
 # Release: 156
-# Entries: 29,376
-# Updated: Sun, 05 Jun 22 06:02:50 +06
+# Entries: 29,378
+# Updated: Sun, 05 Jun 22 08:05:38 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -4457,6 +4457,7 @@
 :: chaineky.com
 :: chaingab.net
 :: chaintopdom.nl
+:: chairmanfreelancetravelling.com
 :: chairscrack.com
 :: chairwaydenew.site
 :: chaissoo.com
@@ -20518,6 +20519,7 @@
 :: refbanners.com
 :: refbanners.website
 :: referactsgrey.com
+:: referredhighway.com
 :: refineepisode.com
 :: refingsprice.com
 :: reflatepsoai.casa
