@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.157
 # Release: 157
-# Entries: 29,384
-# Updated: Mon, 06 Jun 22 16:11:00 +06
+# Entries: 29,386
+# Updated: Mon, 06 Jun 22 18:04:36 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12582,6 +12582,7 @@
 0.0.0.0 jebure.com
 0.0.0.0 jechesmacaltont.info
 0.0.0.0 jeclittrecheckrep.info
+0.0.0.0 jecoglegru.com
 0.0.0.0 jectsinteredse.info
 0.0.0.0 jecumapu.com
 0.0.0.0 jeehathu.com
@@ -27009,6 +27010,7 @@
 0.0.0.0 wonderfulprofitforyou.life
 0.0.0.0 wonderhsjnsd.com
 0.0.0.0 wonderlandads.com
+0.0.0.0 wonsegax.net
 0.0.0.0 wontonsnosite.com
 0.0.0.0 woobunpurged.com
 0.0.0.0 woodymotherhood.com
