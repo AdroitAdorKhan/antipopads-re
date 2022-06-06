@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.157
 # Release: 157
-# Entries: 29,383
-# Updated: Mon, 06 Jun 22 14:03:18 +06
+# Entries: 29,384
+# Updated: Mon, 06 Jun 22 16:11:00 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9670,6 +9670,7 @@
 0.0.0.0 geometrystripesgrilled.com
 0.0.0.0 georgh.com
 0.0.0.0 georgianabamboorehearse.com
+0.0.0.0 geouragedproverly.com
 0.0.0.0 geovideo.name
 0.0.0.0 gepbvbwsbolbgqc.xyz
 0.0.0.0 gepsuzogra.com
