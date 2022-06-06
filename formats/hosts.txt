@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.158
 # Release: 158
-# Entries: 29,404
-# Updated: Tue, 07 Jun 22 02:03:53 +06
+# Entries: 29,405
+# Updated: Tue, 07 Jun 22 04:03:24 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14085,6 +14085,7 @@
 0.0.0.0 lfg5jnbi.com
 0.0.0.0 lfgcmddodsyq.com
 0.0.0.0 lfhokjjukrwake.com
+0.0.0.0 lfjaqwwsgyu.com
 0.0.0.0 lfjvvccsucsmxg.com
 0.0.0.0 lflmijcuesburej.com
 0.0.0.0 lfnjocbxxndkfpj.com
