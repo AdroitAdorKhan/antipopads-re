@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.159
 # Release: 159
-# Entries: 29,443
-# Updated: Wed, 08 Jun 22 02:03:17 +06
+# Entries: 29,445
+# Updated: Wed, 08 Jun 22 16:06:15 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2784,6 +2784,7 @@
 0.0.0.0 bars2show.com
 0.0.0.0 barscreative1.com
 0.0.0.0 bartedusicening.com
+0.0.0.0 barthieldaccuteran.com
 0.0.0.0 baseballapproximately.com
 0.0.0.0 baseduser.com
 0.0.0.0 basepush.com
@@ -21396,6 +21397,7 @@
 0.0.0.0 rugefinu.net
 0.0.0.0 ruggownsawlog.cam
 0.0.0.0 rugrukoca.com
+0.0.0.0 ruinedharshlyhere.com
 0.0.0.0 ruinedpenal.com
 0.0.0.0 rujioimped.xyz
 0.0.0.0 rukedgryggfnyu.xyz
