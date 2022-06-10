@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.161
 # Release: 161
-# Entries: 29,515
-# Updated: Fri, 10 Jun 22 18:05:08 +06
+# Entries: 29,516
+# Updated: Fri, 10 Jun 22 20:04:06 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28940,6 +28940,7 @@
 0.0.0.0 yhkrtmeblmcdk.com
 0.0.0.0 yhlbswgllngr.com
 0.0.0.0 yhmamvbqiyhamu.xyz
+0.0.0.0 yhmgqevtybbku.com
 0.0.0.0 yhpwigfvantjmm.top
 0.0.0.0 yhxgwhpvxc.com
 0.0.0.0 yiatelychur.top
