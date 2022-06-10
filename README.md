@@ -8,7 +8,7 @@
   <strong>block pesky malicious pop ads. </strong>
 </div>
 <div align="left">
-  antipopads:<i>re</i>born is highly inspired by <a href="https://github.com/Yhonay/antipopads">Yhonay/antipopads</a>. This antipopads:<i>re</i> has <code>29,498</code> domains in list.
+  antipopads:<i>re</i>born is highly inspired by <a href="https://github.com/Yhonay/antipopads">Yhonay/antipopads</a>. This antipopads:<i>re</i> has <code>29,515</code> domains in list.
 </div>
 
 ## What is this for?
@@ -19,10 +19,10 @@ antipopads:<i>re</i> is designed for Unix-like systems, gets a list of domains t
 
 | FORMAT | ENTRIES | SIZE | LINK | SUBSCRIBE |
 |:------:|:-------:|:----:|:----:|:---------:|
-| `domains` | 29,498 | 501K | [antipopads-re/domains.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/domains.txt) | - |
-| `hosts` | 29,498 | 732K | [antipopads-re/hosts.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/hosts.txt) | - |
-| `hosts ipv6` | 29,498 | 588K | [antipopads-re/hosts-ipv6.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/hosts-ipv6.txt) | - |
-| `adblock filter` | 29,498 | 588K | [antipopads-re/filter.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/filter.txt) | [SUBSCRIBE](https://subscribe.adblockplus.org/?location=https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/filter.txt&title=antipopads:re) |
+| `domains` | 29,515 | 502K | [antipopads-re/domains.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/domains.txt) | - |
+| `hosts` | 29,515 | 732K | [antipopads-re/hosts.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/hosts.txt) | - |
+| `hosts ipv6` | 29,515 | 588K | [antipopads-re/hosts-ipv6.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/hosts-ipv6.txt) | - |
+| `adblock filter` | 29,515 | 588K | [antipopads-re/filter.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/filter.txt) | [SUBSCRIBE](https://subscribe.adblockplus.org/?location=https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/filter.txt&title=antipopads:re) |
 
 
 ## Disclaimer
