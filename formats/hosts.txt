@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.162
 # Release: 162
-# Entries: 29,564
-# Updated: Sat, 11 Jun 22 18:03:07 +06
+# Entries: 29,566
+# Updated: Sat, 11 Jun 22 22:02:07 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5006,6 +5006,7 @@
 0.0.0.0 cocoachviver.com
 0.0.0.0 cocoaladies.com
 0.0.0.0 cococptmcu.com
+0.0.0.0 coconutsoftenedput.com
 0.0.0.0 coconutsumptuousreseptivereseptive.com
 0.0.0.0 codedexchange.com
 0.0.0.0 codefund.app
@@ -5231,6 +5232,7 @@
 0.0.0.0 confideteenyrepute.com
 0.0.0.0 confidethirstyfrightful.com
 0.0.0.0 configurationluxuriantinclination.com
+0.0.0.0 confinedneighthimble.com
 0.0.0.0 confirmationviewsyowl.com
 0.0.0.0 confirmlyr.xyz
 0.0.0.0 confiscatecardboard.com
