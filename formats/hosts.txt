@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.162
 # Release: 162
-# Entries: 29,561
-# Updated: Sat, 11 Jun 22 10:02:54 +06
+# Entries: 29,564
+# Updated: Sat, 11 Jun 22 18:03:07 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1039,6 +1039,7 @@
 0.0.0.0 adshack.com
 0.0.0.0 adshell.net
 0.0.0.0 adshexa.com
+0.0.0.0 adshoper.com
 0.0.0.0 adshopping.com
 0.0.0.0 adshort.space
 0.0.0.0 adsignals.com
@@ -4726,6 +4727,7 @@
 0.0.0.0 citizenshadowrequires.com
 0.0.0.0 citizenshis.com
 0.0.0.0 cityadspix.com
+0.0.0.0 citydsp.com
 0.0.0.0 civadsoo.net
 0.0.0.0 civicskirtblindness.com
 0.0.0.0 civilizefrailoffhand.com
@@ -20888,6 +20890,7 @@
 0.0.0.0 resurnommions.xyz
 0.0.0.0 resvgeeid.biz
 0.0.0.0 retaea.com
+0.0.0.0 retagro.com
 0.0.0.0 retaindeductionperformed.com
 0.0.0.0 retainreproofsnappy.com
 0.0.0.0 retainstorkloin.com
