@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.06.162
-# Release: 162
-# Entries: 29,566
-# Updated: Sat, 11 Jun 22 22:02:07 +06
+# Version: 22.06.163
+# Release: 163
+# Entries: 29,567
+# Updated: Sun, 12 Jun 22 16:05:06 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -24299,6 +24299,7 @@
 0.0.0.0 tinbuadserv.com
 0.0.0.0 tingeffukec.one
 0.0.0.0 tingthenee.biz
+0.0.0.0 tinkermockingmonitor.com
 0.0.0.0 tinkerta.com
 0.0.0.0 tinkerwidth.com
 0.0.0.0 tinquestions.com
