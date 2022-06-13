@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.06.163
-# Release: 163
-# Entries: 29,568
-# Updated: Sun, 12 Jun 22 18:03:07 +06
+# Version: 22.06.164
+# Release: 164
+# Entries: 29,572
+# Updated: Mon, 13 Jun 22 10:03:01 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1498,6 +1498,7 @@
 0.0.0.0 aj1716.online
 0.0.0.0 aj1907.online
 0.0.0.0 aj1913.online
+0.0.0.0 aj2031.online
 0.0.0.0 aj2208.online
 0.0.0.0 aj2373.online
 0.0.0.0 ajagrofy.com
@@ -9918,6 +9919,7 @@
 0.0.0.0 givingsol.com
 0.0.0.0 givirsou.net
 0.0.0.0 giwkwiaagcy.top
+0.0.0.0 gixiluros.com
 0.0.0.0 gixwyjbymbt.top
 0.0.0.0 gjaojhledqtwb.xyz
 0.0.0.0 gjeqejqgjrwxhb.top
@@ -15885,6 +15887,7 @@
 0.0.0.0 mpression.net
 0.0.0.0 mprezchc.com
 0.0.0.0 mprwdjsosx.com
+0.0.0.0 mpsuadv.ru
 0.0.0.0 mptentry.com
 0.0.0.0 mpuqvoa.com
 0.0.0.0 mpuxzyuiyejwe.com
@@ -27739,6 +27742,7 @@
 0.0.0.0 www.higherincomparablehandicraft.com
 0.0.0.0 www.highperformancedisplaycontent.com
 0.0.0.0 www.highperformancedisplaycontent.comwww.highperformancedisplaycontent.com
+0.0.0.0 www.hitchrational.com
 0.0.0.0 www.hnpvnnhzazkl.com
 0.0.0.0 www.homicidearousedhand.com
 0.0.0.0 www.honestlyvicinityscene.com
