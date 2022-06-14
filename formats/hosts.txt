@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.165
 # Release: 165
-# Entries: 29,629
-# Updated: Tue, 14 Jun 22 10:03:02 +06
+# Entries: 29,631
+# Updated: Tue, 14 Jun 22 16:08:25 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -26006,6 +26006,7 @@
 0.0.0.0 veremund-hon.com
 0.0.0.0 vergebravery.com
 0.0.0.0 verifychocolate.com
+0.0.0.0 vernetlaredit.com
 0.0.0.0 verotezzz.com
 0.0.0.0 verseexposurethanksgiving.com
 0.0.0.0 versionsgratersteward.com
@@ -26674,6 +26675,7 @@
 0.0.0.0 wartat.com
 0.0.0.0 warten-sie-mal.xyz
 0.0.0.0 warumbistdusoarm.space
+0.0.0.0 warvernonroodights.com
 0.0.0.0 wasanasset.xyz
 0.0.0.0 washabeach.com
 0.0.0.0 washedinmate.com
