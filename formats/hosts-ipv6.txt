@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.166
 # Release: 166
-# Entries: 29,695
-# Updated: Wed, 15 Jun 22 18:03:56 +06
+# Entries: 29,696
+# Updated: Wed, 15 Jun 22 22:02:51 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -24728,6 +24728,7 @@
 :: trackingaccount.com
 :: trackingapproval.com
 :: tracking.marketing
+:: trackingnotification.com
 :: trackinguser.com
 :: trackingzen.com
 :: trackmundo.com
