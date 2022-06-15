@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.166
 # Release: 166
-# Entries: 29,651
-# Updated: Wed, 15 Jun 22 04:03:28 +06
+# Entries: 29,652
+# Updated: Wed, 15 Jun 22 08:04:55 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -22866,6 +22866,7 @@
 0.0.0.0 solvingdrone.com
 0.0.0.0 somberscarecrow.com
 0.0.0.0 sombes.com
+0.0.0.0 somdielgutta.com
 0.0.0.0 somedayanchovydepressing.com
 0.0.0.0 somehowluxuriousreader.com
 0.0.0.0 somemembersgesture.com
