@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.167
 # Release: 167
-# Entries: 29,715
-# Updated: Thu, 16 Jun 22 14:03:12 +06
+# Entries: 29,716
+# Updated: Thu, 16 Jun 22 16:04:50 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -16539,6 +16539,7 @@
 :: news-central.me
 :: newscredentialrelative.com
 :: news-easy.org
+:: newsformuse.com
 :: newsforyoy.com
 :: news-headlines.co
 :: newsjuices.com
