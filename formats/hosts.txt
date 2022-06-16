@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.167
 # Release: 167
-# Entries: 29,713
-# Updated: Thu, 16 Jun 22 06:02:37 +06
+# Entries: 29,714
+# Updated: Thu, 16 Jun 22 08:04:47 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1590,6 +1590,7 @@
 0.0.0.0 alhypnoom.com
 0.0.0.0 aliadvert.ru
 0.0.0.0 aliascagesboxer.com
+0.0.0.0 alib.com
 0.0.0.0 alibifolksinspired.com
 0.0.0.0 alibistated.com
 0.0.0.0 ali-crm.ru

@@ -20,8 +20,8 @@
 ! Version: 22.06.167
 ! Release: 167
 ! Expires: 1 day
-! Entries: 29,713
-! Updated: Thu, 16 Jun 22 06:02:37 +06
+! Entries: 29,714
+! Updated: Thu, 16 Jun 22 08:04:47 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -1591,6 +1591,7 @@
 ||alhypnoom.com^
 ||aliadvert.ru^
 ||aliascagesboxer.com^
+||alib.com^
 ||alibifolksinspired.com^
 ||alibistated.com^
 ||ali-crm.ru^
