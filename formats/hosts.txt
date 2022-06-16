@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.168
 # Release: 168
-# Entries: 29,767
-# Updated: Fri, 17 Jun 22 00:05:04 +06
+# Entries: 29,768
+# Updated: Fri, 17 Jun 22 02:03:46 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -749,6 +749,7 @@
 0.0.0.0 aclientiret.club
 0.0.0.0 acloudvideos.com
 0.0.0.0 acmrgdkubf.me
+0.0.0.0 acobnnvet.com
 0.0.0.0 acofrnsr44es3954b.com
 0.0.0.0 acoozzh.top
 0.0.0.0 acplat.online
