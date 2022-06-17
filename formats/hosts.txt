@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.168
 # Release: 168
-# Entries: 29,773
-# Updated: Fri, 17 Jun 22 12:04:02 +06
+# Entries: 29,775
+# Updated: Fri, 17 Jun 22 16:06:02 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14923,6 +14923,7 @@
 0.0.0.0 lwlucpro.com
 0.0.0.0 lwmnendb.top
 0.0.0.0 lwnkavbllqjr.com
+0.0.0.0 lwonclbench.com
 0.0.0.0 lwqeamrn.xyz
 0.0.0.0 lwtyfduqj.top
 0.0.0.0 lwvfgyeuo.top
@@ -24892,6 +24893,7 @@
 0.0.0.0 treacherouslongingjunkie.com
 0.0.0.0 treasonmarshalimmortality.com
 0.0.0.0 treasuresensignron.com
+0.0.0.0 treasuryignorantdoodle.com
 0.0.0.0 treateryowler.com
 0.0.0.0 treatlaurelbud.com
 0.0.0.0 trecurlik.com
