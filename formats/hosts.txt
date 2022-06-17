@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.168
 # Release: 168
-# Entries: 29,772
-# Updated: Fri, 17 Jun 22 10:02:24 +06
+# Entries: 29,773
+# Updated: Fri, 17 Jun 22 12:04:02 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16579,6 +16579,7 @@
 0.0.0.0 newscredentialrelative.com
 0.0.0.0 news-easy.org
 0.0.0.0 newsformuse.com
+0.0.0.0 newsforyourmood.com
 0.0.0.0 newsforyoy.com
 0.0.0.0 news-headlines.co
 0.0.0.0 newsjuices.com
