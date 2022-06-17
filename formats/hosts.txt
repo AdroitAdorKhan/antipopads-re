@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.168
 # Release: 168
-# Entries: 29,770
-# Updated: Fri, 17 Jun 22 08:05:57 +06
+# Entries: 29,772
+# Updated: Fri, 17 Jun 22 10:02:24 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -27618,6 +27618,7 @@
 0.0.0.0 www.abattoirpleatsprinkle.com
 0.0.0.0 www.ablebodiedfibre.com
 0.0.0.0 www.absolutionbravery.com
+0.0.0.0 www.absolveparticlesanti.com
 0.0.0.0 www.abundantshells.com
 0.0.0.0 www.accomplishmentstrandedcuddle.com
 0.0.0.0 www.accomplishplunderbreeches.com
@@ -28119,6 +28120,7 @@
 0.0.0.0 www.outlineappearbar.com
 0.0.0.0 www.outragedisgraceful.com
 0.0.0.0 www.overdomadnessmanslaughter.com
+0.0.0.0 www.owewary.com
 0.0.0.0 www.oxenfishtreaty.com
 0.0.0.0 www.ozukoturkiye.site
 0.0.0.0 www.pacifyrespirator.com
