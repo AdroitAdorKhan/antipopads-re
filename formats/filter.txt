@@ -20,8 +20,8 @@
 ! Version: 22.06.168
 ! Release: 168
 ! Expires: 1 day
-! Entries: 29,775
-! Updated: Fri, 17 Jun 22 16:06:02 +06
+! Entries: 29,781
+! Updated: Fri, 17 Jun 22 20:04:53 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -4149,6 +4149,7 @@
 ||callousdisgust.com^
 ||callousoverload.com^
 ||callprintingdetailed.com^
+||callyourinformer.com^
 ||calmcough.com^
 ||calmlydung.com^
 ||calmnessgas.com^
@@ -16577,22 +16578,26 @@
 ||newsatads.com^
 ||news-back.org^
 ||newsbest.org^
+||newscadence.com^
 ||news-central.me^
 ||newscredentialrelative.com^
 ||news-easy.org^
 ||newsformuse.com^
 ||newsforyourmood.com^
 ||newsforyoy.com^
+||newsfrompluto.com^
 ||news-headlines.co^
 ||newsjuices.com^
 ||news-jupiter.com^
 ||newslettermeasure.com^
+||newslikemeds.com^
 ||newsm247.online^
 ||news-mars.com^
 ||newsocko.com^
 ||newsokos.com^
 ||newspaperlove.com^
 ||newstarads.com^
+||newstemptation.com^
 ||newsubscribes.com^
 ||newsunads.com^
 ||news-venere.com^
@@ -20786,6 +20791,7 @@
 ||reductionjogvast.com^
 ||reductionslapsensation.com^
 ||redundancyphilosophicalwest.com^
+||redwingmagazine.com^
 ||reeboksportsclub.com^
 ||reechokelvin.casa^
 ||reedpraised.com^

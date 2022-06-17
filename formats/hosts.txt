@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.168
 # Release: 168
-# Entries: 29,775
-# Updated: Fri, 17 Jun 22 16:06:02 +06
+# Entries: 29,781
+# Updated: Fri, 17 Jun 22 20:04:53 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4148,6 +4148,7 @@
 0.0.0.0 callousdisgust.com
 0.0.0.0 callousoverload.com
 0.0.0.0 callprintingdetailed.com
+0.0.0.0 callyourinformer.com
 0.0.0.0 calmcough.com
 0.0.0.0 calmlydung.com
 0.0.0.0 calmnessgas.com
@@ -16576,22 +16577,26 @@
 0.0.0.0 newsatads.com
 0.0.0.0 news-back.org
 0.0.0.0 newsbest.org
+0.0.0.0 newscadence.com
 0.0.0.0 news-central.me
 0.0.0.0 newscredentialrelative.com
 0.0.0.0 news-easy.org
 0.0.0.0 newsformuse.com
 0.0.0.0 newsforyourmood.com
 0.0.0.0 newsforyoy.com
+0.0.0.0 newsfrompluto.com
 0.0.0.0 news-headlines.co
 0.0.0.0 newsjuices.com
 0.0.0.0 news-jupiter.com
 0.0.0.0 newslettermeasure.com
+0.0.0.0 newslikemeds.com
 0.0.0.0 newsm247.online
 0.0.0.0 news-mars.com
 0.0.0.0 newsocko.com
 0.0.0.0 newsokos.com
 0.0.0.0 newspaperlove.com
 0.0.0.0 newstarads.com
+0.0.0.0 newstemptation.com
 0.0.0.0 newsubscribes.com
 0.0.0.0 newsunads.com
 0.0.0.0 news-venere.com
@@ -20785,6 +20790,7 @@
 0.0.0.0 reductionjogvast.com
 0.0.0.0 reductionslapsensation.com
 0.0.0.0 redundancyphilosophicalwest.com
+0.0.0.0 redwingmagazine.com
 0.0.0.0 reeboksportsclub.com
 0.0.0.0 reechokelvin.casa
 0.0.0.0 reedpraised.com
