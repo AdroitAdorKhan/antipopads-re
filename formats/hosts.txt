@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.168
 # Release: 168
-# Entries: 29,768
-# Updated: Fri, 17 Jun 22 02:03:46 +06
+# Entries: 29,770
+# Updated: Fri, 17 Jun 22 08:05:57 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5193,6 +5193,7 @@
 0.0.0.0 compartmentnovel.com
 0.0.0.0 compartmentnutsnovember.com
 0.0.0.0 compassionateblackthirst.com
+0.0.0.0 compendtorulus.cam
 0.0.0.0 compensions.pro
 0.0.0.0 comperesuccessive.com
 0.0.0.0 competitivediscontent.com
@@ -12190,6 +12191,7 @@
 0.0.0.0 innyweakela.co
 0.0.0.0 inoculatebroadlyduke.com
 0.0.0.0 inoculatemention.com
+0.0.0.0 inonclbench.com
 0.0.0.0 inoradde.com
 0.0.0.0 inoughou.net
 0.0.0.0 in-page-push.com
