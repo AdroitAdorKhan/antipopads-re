@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.168
 # Release: 168
-# Entries: 29,781
-# Updated: Fri, 17 Jun 22 20:04:53 +06
+# Entries: 29,782
+# Updated: Fri, 17 Jun 22 22:03:10 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28474,6 +28474,7 @@
 0.0.0.0 www.untruecitycheater.com
 0.0.0.0 www.untruehypothesiseconomy.com
 0.0.0.0 www.updateongoingdiving.com
+0.0.0.0 www.upsidejolly.com
 0.0.0.0 www.uujdthyg.com
 0.0.0.0 www.uulvtpbx.com
 0.0.0.0 www.uwdtibwk.com
