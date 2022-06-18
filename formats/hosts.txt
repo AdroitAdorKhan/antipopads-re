@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.169
 # Release: 169
-# Entries: 29,788
-# Updated: Sat, 18 Jun 22 12:04:25 +06
+# Entries: 29,789
+# Updated: Sat, 18 Jun 22 16:05:53 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6594,6 +6594,7 @@
 0.0.0.0 disappearingassurance.com
 0.0.0.0 disappearpoliticalamoral.com
 0.0.0.0 disappointingbeef.com
+0.0.0.0 disappointmentoutcrymexican.com
 0.0.0.0 disapprovalaccusedirt.com
 0.0.0.0 disapprovalhardwareenvy.com
 0.0.0.0 disapprovalpulpdiscourteous.com
