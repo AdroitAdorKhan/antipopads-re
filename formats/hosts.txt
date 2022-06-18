@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.169
 # Release: 169
-# Entries: 29,787
-# Updated: Sat, 18 Jun 22 08:06:17 +06
+# Entries: 29,788
+# Updated: Sat, 18 Jun 22 12:04:25 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15882,6 +15882,7 @@
 0.0.0.0 monnishremised.com
 0.0.0.0 monopolypenitentiarynegligence.com
 0.0.0.0 monotonousincessant.com
+0.0.0.0 monsterofnews.com
 0.0.0.0 monthlydespise.com
 0.0.0.0 monthlyindirectelsewhere.com
 0.0.0.0 montikolti.com
