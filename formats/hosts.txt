@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.06.169
-# Release: 169
-# Entries: 29,789
-# Updated: Sat, 18 Jun 22 16:05:53 +06
+# Version: 22.06.170
+# Release: 170
+# Entries: 29,790
+# Updated: Sun, 19 Jun 22 06:02:26 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10168,6 +10168,7 @@
 0.0.0.0 gloumsee.net
 0.0.0.0 gloviphewhe.com
 0.0.0.0 glowdot.com
+0.0.0.0 glowingnews.com
 0.0.0.0 gloxeept.com
 0.0.0.0 glrgvnlsv.xyz
 0.0.0.0 glssp.net
