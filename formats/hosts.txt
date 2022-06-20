@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.171
 # Release: 171
-# Entries: 29,847
-# Updated: Mon, 20 Jun 22 20:04:50 +06
+# Entries: 29,849
+# Updated: Mon, 20 Jun 22 22:03:12 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28250,6 +28250,7 @@
 0.0.0.0 www.prayersstingy.com
 0.0.0.0 www.predominantaugustchapter.com
 0.0.0.0 www.prepareacquitmeaningless.com
+0.0.0.0 www.preposterousdecidedfollowing.com
 0.0.0.0 www.priceplaneadulthood.com
 0.0.0.0 www.prideidiotswarthy.com
 0.0.0.0 www.principlessilas.com
@@ -28453,6 +28454,7 @@
 0.0.0.0 www.supersedeforbes.com
 0.0.0.0 www.supposefright.com
 0.0.0.0 www.supposeperfumebread.com
+0.0.0.0 www.surelyconvinced.com
 0.0.0.0 www.surroundpassed.com
 0.0.0.0 www.surveyedbelieves.com
 0.0.0.0 www.sustainownership.com
