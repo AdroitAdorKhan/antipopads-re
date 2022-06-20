@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.171
 # Release: 171
-# Entries: 29,832
-# Updated: Mon, 20 Jun 22 06:02:16 +06
+# Entries: 29,833
+# Updated: Mon, 20 Jun 22 08:06:27 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10296,6 +10296,7 @@
 0.0.0.0 goodadvert.ru
 0.0.0.0 goodbookbook.com
 0.0.0.0 goodcache.ml
+0.0.0.0 goodcasino.uno
 0.0.0.0 gooderamour.com
 0.0.0.0 goodgamesmanship.com
 0.0.0.0 goods2you.net

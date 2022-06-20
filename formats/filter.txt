@@ -20,8 +20,8 @@
 ! Version: 22.06.171
 ! Release: 171
 ! Expires: 1 day
-! Entries: 29,832
-! Updated: Mon, 20 Jun 22 06:02:16 +06
+! Entries: 29,833
+! Updated: Mon, 20 Jun 22 08:06:27 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -10297,6 +10297,7 @@
 ||goodadvert.ru^
 ||goodbookbook.com^
 ||goodcache.ml^
+||goodcasino.uno^
 ||gooderamour.com^
 ||goodgamesmanship.com^
 ||goods2you.net^
