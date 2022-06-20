@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.171
 # Release: 171
-# Entries: 29,841
-# Updated: Mon, 20 Jun 22 12:04:28 +06
+# Entries: 29,842
+# Updated: Mon, 20 Jun 22 16:07:15 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -8563,6 +8563,7 @@
 :: fastenpaganhelm.com
 :: fastestbesets.com
 :: fastestvolcano.com
+:: fastidiousconsensus.com
 :: fastpopclick.com
 :: fastpopunder.com
 :: fastred.biz
