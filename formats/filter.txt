@@ -20,8 +20,8 @@
 ! Version: 22.06.171
 ! Release: 171
 ! Expires: 1 day
-! Entries: 29,842
-! Updated: Mon, 20 Jun 22 16:07:15 +06
+! Entries: 29,843
+! Updated: Mon, 20 Jun 22 18:04:10 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -24035,6 +24035,7 @@
 ||taroads.com^
 ||tarrilyathenee.com^
 ||tarsuscaul.com^
+||tartator.com^
 ||tartoals.net^
 ||tarubel.com^
 ||tarvemowhay.com^
