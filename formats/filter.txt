@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.06.170
-! Release: 170
+! Version: 22.06.171
+! Release: 171
 ! Expires: 1 day
-! Entries: 29,831
-! Updated: Sun, 19 Jun 22 16:05:32 +06
+! Entries: 29,832
+! Updated: Mon, 20 Jun 22 06:02:16 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -15201,6 +15201,7 @@
 ||massivemark.com^
 ||masslistener.com^
 ||masstech.info^
+||masterfornews.com^
 ||mastermilligram.com^
 ||masternal.com^
 ||master-sad.ru^
