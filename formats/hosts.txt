@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.172
 # Release: 172
-# Entries: 29,892
-# Updated: Tue, 21 Jun 22 20:04:43 +06
+# Entries: 29,893
+# Updated: Tue, 21 Jun 22 22:02:58 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -27779,6 +27779,7 @@
 0.0.0.0 www.bcuuipewdz.com
 0.0.0.0 www.beamedshipwreck.com
 0.0.0.0 www.beamingworked.com
+0.0.0.0 www.beauhoneycomb.com
 0.0.0.0 www.becomesnerveshobble.com
 0.0.0.0 www.bedbwgjjpxiuox.com
 0.0.0.0 www.beefymartpronunciation.com
