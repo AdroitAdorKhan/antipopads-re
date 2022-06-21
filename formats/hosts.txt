@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.172
 # Release: 172
-# Entries: 29,890
-# Updated: Tue, 21 Jun 22 10:02:54 +06
+# Entries: 29,891
+# Updated: Tue, 21 Jun 22 12:04:32 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -27724,6 +27724,7 @@
 0.0.0.0 wwtrxjctjhhu.com
 0.0.0.0 wwvwnxrisos.com
 0.0.0.0 www.1store.am
+0.0.0.0 www.abateall.com
 0.0.0.0 www.abattoirpleatsprinkle.com
 0.0.0.0 www.ablebodiedfibre.com
 0.0.0.0 www.absolutionbravery.com
