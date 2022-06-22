@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.173
 # Release: 173
-# Entries: 29,921
-# Updated: Wed, 22 Jun 22 12:23:14 +06
+# Entries: 29,926
+# Updated: Wed, 22 Jun 22 18:13:11 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6001,6 +6001,7 @@
 0.0.0.0 daibusee.com
 0.0.0.0 daichoho.com
 0.0.0.0 daijopimplo.com
+0.0.0.0 dailyc24.com
 0.0.0.0 dailydistanceparallel.com
 0.0.0.0 dailyinterventioncongestion.com
 0.0.0.0 dainaith.net
@@ -8717,6 +8718,7 @@
 0.0.0.0 feedenquired.com
 0.0.0.0 feedgist.com
 0.0.0.0 feedinburgmands.site
+0.0.0.0 feedyourheadmag.com
 0.0.0.0 feegozoa.com
 0.0.0.0 feekauny.com
 0.0.0.0 feelinedbusin.site
@@ -9599,6 +9601,7 @@
 0.0.0.0 g2546417787.com
 0.0.0.0 g27zkdvsxl.com
 0.0.0.0 g2921554487.com
+0.0.0.0 g33ktr4ck.com
 0.0.0.0 g3j2wzmon8b.com
 0.0.0.0 g5fzq2l.com
 0.0.0.0 g8ads.com
@@ -18908,6 +18911,7 @@
 0.0.0.0 picturesquebutcompassionate.com
 0.0.0.0 pidvcbrvq.top
 0.0.0.0 piecefireworks.com
+0.0.0.0 pieceheardthought.buzz
 0.0.0.0 piercontrivanceconfiguration.com
 0.0.0.0 pierisrapgae.com
 0.0.0.0 pierrottease.com
@@ -23146,6 +23150,7 @@
 0.0.0.0 soycrockarab.com
 0.0.0.0 soysapslad.com
 0.0.0.0 soza6rsz3ezi.com
+0.0.0.0 spacecloudstore.com
 0.0.0.0 spaciouslanentablelanentablepigs.com
 0.0.0.0 spaderonium.com
 0.0.0.0 spamvariationswithin.com
