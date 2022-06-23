@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.174
 # Release: 174
-# Entries: 29,986
-# Updated: Thu, 23 Jun 22 12:12:56 +06
+# Entries: 29,988
+# Updated: Thu, 23 Jun 22 14:07:57 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28972,6 +28972,7 @@
 0.0.0.0 xjpjuchrl.top
 0.0.0.0 xjpnycwqr.com
 0.0.0.0 xjqbftcstq.com
+0.0.0.0 xjqxrpwlfg.com
 0.0.0.0 xjrijeab.top
 0.0.0.0 xjrkovbe.top
 0.0.0.0 xjusqurbspwpjb.xyz
@@ -29665,6 +29666,7 @@
 0.0.0.0 yrnoxshfygj.com
 0.0.0.0 yrntpeas.xyz
 0.0.0.0 yrovmumysrh.top
+0.0.0.0 yrphdyztfgfv.com
 0.0.0.0 yrqgdaljy.top
 0.0.0.0 yrqlopjae.top
 0.0.0.0 yrrhrffmn.com
