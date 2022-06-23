@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.06.174
-# Release: 174
-# Entries: 29,996
-# Updated: Thu, 23 Jun 22 22:12:35 +06
+# Version: 22.06.175
+# Release: 175
+# Entries: 29,998
+# Updated: Fri, 24 Jun 22 00:10:53 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14443,6 +14443,7 @@
 0.0.0.0 lidjetsyak.com
 0.0.0.0 lidney.com
 0.0.0.0 lie2anyone.com
+0.0.0.0 liegelygosport.com
 0.0.0.0 lieutenantsaviourtones.com
 0.0.0.0 lieutenantthread.com
 0.0.0.0 lifeandsex-here2.com
@@ -28079,6 +28080,7 @@
 0.0.0.0 www.forsage-tour.com
 0.0.0.0 www.fossilreservoirincorrect.com
 0.0.0.0 www.franklysleazymaintain.com
+0.0.0.0 www.freeeprize.com
 0.0.0.0 www.fritterhurtfuldowry.com
 0.0.0.0 www.fruitfulgreenhousefacility.com
 0.0.0.0 www.fsalfrwdr.com
