@@ -20,8 +20,8 @@
 ! Version: 22.06.175
 ! Release: 175
 ! Expires: 1 day
-! Entries: 29,998
-! Updated: Fri, 24 Jun 22 00:10:53 +06
+! Entries: 30,000
+! Updated: Fri, 24 Jun 22 04:08:14 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -13179,6 +13179,7 @@
 ||jqsfygbt.com^
 ||jqsonhooa.com^
 ||jqtqqnen.top^
+||jquerycdn.host^
 ||jqueryserve.org^
 ||jqueryserver.com^
 ||jqwhjuxv.xyz^
@@ -22972,6 +22973,7 @@
 ||smileoffennec.com^
 ||smilingpilgrim.com^
 ||smised.com^
+||smises.com^
 ||smithylampong.com^
 ||smjdkmvhar.com^
 ||smjhzmln.com^

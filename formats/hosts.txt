@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.175
 # Release: 175
-# Entries: 29,998
-# Updated: Fri, 24 Jun 22 00:10:53 +06
+# Entries: 30,000
+# Updated: Fri, 24 Jun 22 04:08:14 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13178,6 +13178,7 @@
 0.0.0.0 jqsfygbt.com
 0.0.0.0 jqsonhooa.com
 0.0.0.0 jqtqqnen.top
+0.0.0.0 jquerycdn.host
 0.0.0.0 jqueryserve.org
 0.0.0.0 jqueryserver.com
 0.0.0.0 jqwhjuxv.xyz
@@ -22971,6 +22972,7 @@
 0.0.0.0 smileoffennec.com
 0.0.0.0 smilingpilgrim.com
 0.0.0.0 smised.com
+0.0.0.0 smises.com
 0.0.0.0 smithylampong.com
 0.0.0.0 smjdkmvhar.com
 0.0.0.0 smjhzmln.com
