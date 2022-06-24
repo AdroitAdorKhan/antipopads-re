@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.175
 # Release: 175
-# Entries: 30,036
-# Updated: Fri, 24 Jun 22 10:11:18 +06
+# Entries: 30,037
+# Updated: Fri, 24 Jun 22 16:06:53 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15220,6 +15220,7 @@
 0.0.0.0 mandearersi.club
 0.0.0.0 mandhes.club
 0.0.0.0 mandistreet.top
+0.0.0.0 m-android.com
 0.0.0.0 manfjgo2jgb8mg09.com
 0.0.0.0 mangelobsolden.cam
 0.0.0.0 mangoalmahs.com
