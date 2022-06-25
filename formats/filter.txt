@@ -20,8 +20,8 @@
 ! Version: 22.06.176
 ! Release: 176
 ! Expires: 1 day
-! Entries: 30,075
-! Updated: Sat, 25 Jun 22 10:07:44 +06
+! Entries: 30,077
+! Updated: Sat, 25 Jun 22 20:16:05 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -847,6 +847,7 @@
 ||addaim.com^
 ||ad-delivery.net^
 ||addictedapartlazy.com^
+||addictedsweetness.com^
 ||addiply.com^
 ||additionalcasualcabinet.com^
 ||additionalmedia.com^
@@ -5707,6 +5708,7 @@
 ||croakkeepingstable.com^
 ||crocoads.com^
 ||crocodilemounted.com^
+||crocodileterminal.com^
 ||crocopop.com^
 ||cromo.name^
 ||crookedcareers.com^

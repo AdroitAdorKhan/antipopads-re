@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.176
 # Release: 176
-# Entries: 30,075
-# Updated: Sat, 25 Jun 22 10:07:44 +06
+# Entries: 30,077
+# Updated: Sat, 25 Jun 22 20:16:05 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -846,6 +846,7 @@
 0.0.0.0 addaim.com
 0.0.0.0 ad-delivery.net
 0.0.0.0 addictedapartlazy.com
+0.0.0.0 addictedsweetness.com
 0.0.0.0 addiply.com
 0.0.0.0 additionalcasualcabinet.com
 0.0.0.0 additionalmedia.com
@@ -5706,6 +5707,7 @@
 0.0.0.0 croakkeepingstable.com
 0.0.0.0 crocoads.com
 0.0.0.0 crocodilemounted.com
+0.0.0.0 crocodileterminal.com
 0.0.0.0 crocopop.com
 0.0.0.0 cromo.name
 0.0.0.0 crookedcareers.com
