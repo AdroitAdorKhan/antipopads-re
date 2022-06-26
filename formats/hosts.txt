@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.177
 # Release: 177
-# Entries: 30,093
-# Updated: Sun, 26 Jun 22 08:15:49 +06
+# Entries: 30,095
+# Updated: Sun, 26 Jun 22 10:06:42 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1521,6 +1521,7 @@
 0.0.0.0 aj2208.online
 0.0.0.0 aj2373.online
 0.0.0.0 aj2397.online
+0.0.0.0 aj2430.online
 0.0.0.0 ajagrofy.com
 0.0.0.0 ajarsubscriber.com
 0.0.0.0 ajbqxivmdl.xyz
@@ -27980,6 +27981,7 @@
 0.0.0.0 www.boutiqueignorancegeoffrey.com
 0.0.0.0 www.boutiquerestless.com
 0.0.0.0 www.breakfastinvitingdetergent.com
+0.0.0.0 www.broomacknowledgedpinch.com
 0.0.0.0 www.bruisedcoup.com
 0.0.0.0 www.brunettemattersrefused.com
 0.0.0.0 www.bummershindigeavesdropping.com
