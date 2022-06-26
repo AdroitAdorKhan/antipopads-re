@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.177
 # Release: 177
-# Entries: 30,092
-# Updated: Sun, 26 Jun 22 06:16:44 +06
+# Entries: 30,093
+# Updated: Sun, 26 Jun 22 08:15:49 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16386,6 +16386,7 @@
 0.0.0.0 mycmvkhghej.xyz
 0.0.0.0 mycostaso.com
 0.0.0.0 mycousychgjihs.xyz
+0.0.0.0 mycruhmeaoy.com
 0.0.0.0 mydailynewz.com
 0.0.0.0 mydating-partner2.com
 0.0.0.0 mydiethub.com
