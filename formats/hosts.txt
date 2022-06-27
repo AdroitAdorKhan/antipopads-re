@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.179
 # Release: 179
-# Entries: 30,111
-# Updated: Tue, 28 Jun 22 00:10:26 +06
+# Entries: 30,112
+# Updated: Tue, 28 Jun 22 02:07:34 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12023,6 +12023,7 @@
 0.0.0.0 ijjiii.is
 0.0.0.0 ijnedicpc.xyz
 0.0.0.0 ijnvigujqevyiq.xyz
+0.0.0.0 ijqgefuq.com
 0.0.0.0 ijqqabysw.xyz
 0.0.0.0 ijrotqhvnqd.xyz
 0.0.0.0 ijsjpgcqa.xyz
