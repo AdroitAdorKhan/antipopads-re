@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.178
 # Release: 178
-# Entries: 30,100
-# Updated: Mon, 27 Jun 22 08:09:18 +06
+# Entries: 30,101
+# Updated: Mon, 27 Jun 22 22:05:54 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3160,6 +3160,7 @@
 0.0.0.0 betalonflamechan.com
 0.0.0.0 beta-news.org
 0.0.0.0 betemolgar.com
+0.0.0.0 beterrakionan.com
 0.0.0.0 betflippant.com
 0.0.0.0 betgorebysson.club
 0.0.0.0 beticithy.com
