@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.06.177
-! Release: 177
+! Version: 22.06.178
+! Release: 178
 ! Expires: 1 day
-! Entries: 30,099
-! Updated: Sun, 26 Jun 22 16:08:34 +06
+! Entries: 30,100
+! Updated: Mon, 27 Jun 22 08:09:18 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -9541,6 +9541,7 @@
 ||functionsprecision.com^
 ||fundamentalcoordinatebolt.com^
 ||fundamentalenvironmental.com^
+||fundamentalinefficient.com^
 ||fundardsesaz.club^
 ||fungus.online^
 ||funklicks.com^
