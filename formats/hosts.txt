@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.180
 # Release: 180
-# Entries: 30,146
-# Updated: Wed, 29 Jun 22 04:06:29 +06
+# Entries: 30,147
+# Updated: Wed, 29 Jun 22 10:04:03 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28709,6 +28709,7 @@
 0.0.0.0 www.starkhelperidentifier.com
 0.0.0.0 www.starvationdefence.com
 0.0.0.0 www.statesmancontinuedeacon.com
+0.0.0.0 www.steakeffort.com
 0.0.0.0 www.steppedandelion.com
 0.0.0.0 www.steppevegetationforefather.com
 0.0.0.0 www.sterilecute.com
