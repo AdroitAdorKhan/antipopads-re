@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.180
 # Release: 180
-# Entries: 30,147
-# Updated: Wed, 29 Jun 22 10:04:03 +06
+# Entries: 30,149
+# Updated: Wed, 29 Jun 22 16:06:36 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3011,6 +3011,7 @@
 0.0.0.0 beevakum.net
 0.0.0.0 beevalt.com
 0.0.0.0 beewakiy.com
+0.0.0.0 beforehanddonkeyannouncement.com
 0.0.0.0 beforehandeccentricinhospitable.com
 0.0.0.0 befortugal.club
 0.0.0.0 befsqgyqbw.top
@@ -23392,6 +23393,7 @@
 0.0.0.0 spidersmerithenceforward.com
 0.0.0.0 spidersprimary.com
 0.0.0.0 spigotsmetonym.cam
+0.0.0.0 spihand.com
 0.0.0.0 spikscabrin.com
 0.0.0.0 spillsackterrified.com
 0.0.0.0 spilthcranage.com
