@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.06.181
 # Release: 181
-# Entries: 30,175
-# Updated: Thu, 30 Jun 22 02:03:33 +06
+# Entries: 30,176
+# Updated: Thu, 30 Jun 22 06:14:28 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -23978,6 +23978,7 @@
 0.0.0.0 sunwardamoraic.com
 0.0.0.0 sunyftlaoiiy.com
 0.0.0.0 suomaimrphie.top
+0.0.0.0 suomicgeyser.com
 0.0.0.0 suozmtcc.com
 0.0.0.0 superadbid.com
 0.0.0.0 superadexchange.com
