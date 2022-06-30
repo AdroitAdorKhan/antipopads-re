@@ -20,8 +20,8 @@
 ! Version: 22.06.181
 ! Release: 181
 ! Expires: 1 day
-! Entries: 30,178
-! Updated: Thu, 30 Jun 22 12:08:35 +06
+! Entries: 30,179
+! Updated: Thu, 30 Jun 22 18:06:07 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -14234,6 +14234,7 @@
 ||las4srv.com^
 ||lashquivercakes.com^
 ||lashsketch.com^
+||lassampy.com^
 ||lasticalsdeb.xyz^
 ||lastqesn.top^
 ||lasvkgqc.top^
