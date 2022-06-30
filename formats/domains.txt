@@ -19,8 +19,8 @@
 # Format: domains
 # Version: 22.06.181
 # Release: 181
-# Entries: 30,177
-# Updated: Thu, 30 Jun 22 08:13:20 +06
+# Entries: 30,178
+# Updated: Thu, 30 Jun 22 12:08:35 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/domains.txt
 # ----------------------------------------------------------------------------
 #
@@ -4528,6 +4528,7 @@ cfasync.cf
 cfasync.ga
 cfasync.ml
 cfasync.tk
+cfbenchcl.com
 cfcloudcdn.com
 cfefioygtdfmb.com
 cfesldoetbykv.top
