@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.182
 # Release: 182
-# Entries: 30,193
-# Updated: Fri, 01 Jul 22 04:06:38 +06
+# Entries: 30,194
+# Updated: Fri, 01 Jul 22 14:08:19 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -7603,6 +7603,7 @@
 :: educedstagine.com
 :: educedsteeped.com
 :: educivesakti.com
+:: edukky.com
 :: edvfwlacluo.com
 :: edwhitnes.info
 :: edyobtbnalv.com
