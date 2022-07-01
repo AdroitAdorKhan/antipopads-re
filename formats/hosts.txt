@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.182
 # Release: 182
-# Entries: 30,222
-# Updated: Fri, 01 Jul 22 18:05:21 +06
+# Entries: 30,223
+# Updated: Fri, 01 Jul 22 22:04:49 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2973,6 +2973,7 @@
 0.0.0.0 beauhoneycomb.com
 0.0.0.0 beautystorree.com
 0.0.0.0 beavertron.com
+0.0.0.0 beaxewr.com
 0.0.0.0 bebadu.com
 0.0.0.0 bebaytowns.com
 0.0.0.0 bebosslignes.com
