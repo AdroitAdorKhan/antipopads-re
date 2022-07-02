@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.183
 # Release: 183
-# Entries: 30,225
-# Updated: Sat, 02 Jul 22 00:07:35 +06
+# Entries: 30,227
+# Updated: Sat, 02 Jul 22 06:05:21 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13549,6 +13549,7 @@
 0.0.0.0 katecrochetvanity.com
 0.0.0.0 katerigordas.pro
 0.0.0.0 katoptristhemirr.com
+0.0.0.0 katukaunamiss.com
 0.0.0.0 katurars.com
 0.0.0.0 kaubapsy.com
 0.0.0.0 kaukoany.net
@@ -26027,6 +26028,7 @@
 0.0.0.0 unskilledanna.com
 0.0.0.0 unskilledsqueakjunk.com
 0.0.0.0 unspiltbananas.com
+0.0.0.0 unsternrelease.com
 0.0.0.0 unsuccessfulpensive.com
 0.0.0.0 untaryes.online
 0.0.0.0 untidyquestion.com
