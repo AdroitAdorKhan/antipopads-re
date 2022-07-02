@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.183
 # Release: 183
-# Entries: 30,227
-# Updated: Sat, 02 Jul 22 06:05:21 +06
+# Entries: 30,228
+# Updated: Sat, 02 Jul 22 10:04:36 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28869,6 +28869,7 @@
 0.0.0.0 www.tovsmortiminanri.gq
 0.0.0.0 www.towardadvised.com
 0.0.0.0 www.tracespore.com
+0.0.0.0 www.track.supersavingstips.com
 0.0.0.0 www.track.zoomatempt.com
 0.0.0.0 www.traditionlargest.com
 0.0.0.0 www.trafficmoon.com
