@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.184
 # Release: 184
-# Entries: 30,233
-# Updated: Sun, 03 Jul 22 04:06:08 +06
+# Entries: 30,235
+# Updated: Sun, 03 Jul 22 06:04:28 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4537,6 +4537,7 @@
 0.0.0.0 cfasync.ml
 0.0.0.0 cfasync.tk
 0.0.0.0 cfbenchcl.com
+0.0.0.0 cfbwxgsa.com
 0.0.0.0 cfcloudcdn.com
 0.0.0.0 cfefioygtdfmb.com
 0.0.0.0 cfesldoetbykv.top
@@ -9367,6 +9368,7 @@
 0.0.0.0 fpctraffic3.com
 0.0.0.0 fpeiatypfcsthka.xyz
 0.0.0.0 fpeipedesai.com
+0.0.0.0 fpetwqpzqf.com
 0.0.0.0 fpimttkfxrvgi.com
 0.0.0.0 fpkvvuaieo.top
 0.0.0.0 fpmaypyeegktq.com
