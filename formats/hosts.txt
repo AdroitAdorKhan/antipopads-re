@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.186
 # Release: 186
-# Entries: 30,293
-# Updated: Tue, 05 Jul 22 06:07:15 +06
+# Entries: 30,295
+# Updated: Tue, 05 Jul 22 10:04:46 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28130,6 +28130,7 @@
 0.0.0.0 www.arraignmentinclose.com
 0.0.0.0 www.arshgkcfdhgr.com
 0.0.0.0 www.askedantipathyhappiness.com
+0.0.0.0 www.askedappear.com
 0.0.0.0 www.askedshocking.com
 0.0.0.0 www.attemptsbetween.com
 0.0.0.0 www.audiblytriggersreview.com
@@ -28971,6 +28972,7 @@
 0.0.0.0 www.unforgivablegrowl.com
 0.0.0.0 www.unknowncarp.com
 0.0.0.0 www.unpleasantconcrete.com
+0.0.0.0 www.unsuccessfulpensive.com
 0.0.0.0 www.untruecitycheater.com
 0.0.0.0 www.untruehypothesiseconomy.com
 0.0.0.0 www.updateongoingdiving.com
