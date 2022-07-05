@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.186
 # Release: 186
-# Entries: 30,300
-# Updated: Tue, 05 Jul 22 14:05:28 +06
+# Entries: 30,301
+# Updated: Tue, 05 Jul 22 16:06:48 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -18113,6 +18113,7 @@
 0.0.0.0 opnusjnrmcss.com
 0.0.0.0 opoapibs.net
 0.0.0.0 opolicycrea.xyz
+0.0.0.0 oponixa.com
 0.0.0.0 opootsoa.net
 0.0.0.0 opotey.com
 0.0.0.0 oppersianor.com
