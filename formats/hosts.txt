@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.186
 # Release: 186
-# Entries: 30,301
-# Updated: Tue, 05 Jul 22 16:06:48 +06
+# Entries: 30,302
+# Updated: Tue, 05 Jul 22 20:05:53 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -26855,6 +26855,7 @@
 0.0.0.0 vlmxulyj.top
 0.0.0.0 vlnk.me
 0.0.0.0 vlogoflife.com
+0.0.0.0 vlry5l4j5gbn.com
 0.0.0.0 vlrzhoueyoxw.com
 0.0.0.0 vltwox7zl7h1wv.com
 0.0.0.0 vmfhapnnsq.com
