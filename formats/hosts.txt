@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.187
 # Release: 187
-# Entries: 30,340
-# Updated: Wed, 06 Jul 22 14:03:04 +06
+# Entries: 30,341
+# Updated: Wed, 06 Jul 22 20:03:23 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -25089,6 +25089,7 @@
 0.0.0.0 tolijoob.com
 0.0.0.0 tollholdmeg.cam
 0.0.0.0 tolyafbnjt9dedjj10.com
+0.0.0.0 tomantyker.com
 0.0.0.0 tomatoreach.com
 0.0.0.0 tomawilea.com
 0.0.0.0 tomediumvional.com
