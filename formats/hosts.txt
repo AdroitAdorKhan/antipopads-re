@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.189
 # Release: 189
-# Entries: 30,411
-# Updated: Fri, 08 Jul 22 02:05:22 +06
+# Entries: 30,412
+# Updated: Fri, 08 Jul 22 04:06:52 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29457,6 +29457,7 @@
 0.0.0.0 xnlehgdpvsslk.xyz
 0.0.0.0 xnottjcnqawoex.top
 0.0.0.0 xnyxunjpnyrqcao.xyz
+0.0.0.0 xo28pclotovi.com
 0.0.0.0 xoadfwkpmtsn.com
 0.0.0.0 xoassxowovsrk.com
 0.0.0.0 xobbqmfyep.top
