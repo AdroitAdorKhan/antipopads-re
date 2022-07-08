@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.189
 # Release: 189
-# Entries: 30,412
-# Updated: Fri, 08 Jul 22 04:06:52 +06
+# Entries: 30,414
+# Updated: Fri, 08 Jul 22 08:06:57 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11231,6 +11231,7 @@
 0.0.0.0 henclcpsaqkb.top
 0.0.0.0 hentaibiz.com
 0.0.0.0 hentaifap.land
+0.0.0.0 hentaionline.net
 0.0.0.0 hepmtevjrcynfr.xyz
 0.0.0.0 hepwdoqaseew.top
 0.0.0.0 heraldet.com
@@ -29129,6 +29130,7 @@
 0.0.0.0 www.wantsstruckhall.com
 0.0.0.0 www.wardgrazeunarmed.com
 0.0.0.0 www.warfareblameless.com
+0.0.0.0 www.wasoffspring.com
 0.0.0.0 www.wastedclassmatemay.com
 0.0.0.0 www.wastedposterapostrophe.com
 0.0.0.0 www.watchercasketremained.com
