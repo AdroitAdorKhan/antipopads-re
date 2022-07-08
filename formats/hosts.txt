@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.189
 # Release: 189
-# Entries: 30,421
-# Updated: Fri, 08 Jul 22 16:06:12 +06
+# Entries: 30,423
+# Updated: Fri, 08 Jul 22 18:04:47 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6975,6 +6975,7 @@
 0.0.0.0 doghauky.net
 0.0.0.0 doghoust.net
 0.0.0.0 dogiedimepupae.com
+0.0.0.0 dogilar.com
 0.0.0.0 dogolurkr.com
 0.0.0.0 dogwrite.com
 0.0.0.0 dogwuyrspt.com
@@ -27609,6 +27610,7 @@
 0.0.0.0 wgegyproj.xyz
 0.0.0.0 wgfegafkfesk.com
 0.0.0.0 wgfnjohylbbmlyh.xyz
+0.0.0.0 wggnttju.com
 0.0.0.0 wghkmbokxxlklan.com
 0.0.0.0 wgkypknhsimmd.com
 0.0.0.0 wgluagudpirkla.top
