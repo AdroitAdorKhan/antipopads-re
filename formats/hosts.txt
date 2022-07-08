@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.189
 # Release: 189
-# Entries: 30,419
-# Updated: Fri, 08 Jul 22 12:05:25 +06
+# Entries: 30,421
+# Updated: Fri, 08 Jul 22 16:06:12 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2320,6 +2320,7 @@
 0.0.0.0 athercompet.club
 0.0.0.0 atherenoth.info
 0.0.0.0 athirstinwind.cam
+0.0.0.0 athitmontopon.com
 0.0.0.0 athletethrong.com
 0.0.0.0 athleticssoften.com
 0.0.0.0 athsexten.top
@@ -24728,6 +24729,7 @@
 0.0.0.0 thague.com
 0.0.0.0 thaibeco.com
 0.0.0.0 thaickoo.net
+0.0.0.0 thaiguxu.com
 0.0.0.0 thaihats.net
 0.0.0.0 thaiksee.com
 0.0.0.0 thairdou.com
