@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.07.189
-# Release: 189
-# Entries: 30,425
-# Updated: Fri, 08 Jul 22 22:02:55 +06
+# Version: 22.07.190
+# Release: 190
+# Entries: 30,427
+# Updated: Sat, 09 Jul 22 00:05:51 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13673,6 +13673,7 @@
 0.0.0.0 kbx1sth37s.com
 0.0.0.0 kbyfbw6aaada.com
 0.0.0.0 kbzdxt.com
+0.0.0.0 kc8vo2l73b7j.top
 0.0.0.0 kcadmfeoeuljebo.top
 0.0.0.0 kcchrysy.com
 0.0.0.0 kcclsgfgbgng.xyz
@@ -24905,6 +24906,7 @@
 0.0.0.0 thudywhamy.com
 0.0.0.0 thughighjackcheesy.com
 0.0.0.0 thugtowardhindsight.com
+0.0.0.0 thully.com
 0.0.0.0 thulrlidos.com
 0.0.0.0 thumac.com
 0.0.0.0 thumpssleys.com
