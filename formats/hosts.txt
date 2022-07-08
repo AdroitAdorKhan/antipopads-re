@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.189
 # Release: 189
-# Entries: 30,415
-# Updated: Fri, 08 Jul 22 10:03:16 +06
+# Entries: 30,419
+# Updated: Fri, 08 Jul 22 12:05:25 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4440,6 +4440,7 @@
 0.0.0.0 cdnbmb.com
 0.0.0.0 cdnbqw.com
 0.0.0.0 cdncontentdelivery.com
+0.0.0.0 cdncontentstorage.com
 0.0.0.0 cdncqw.com
 0.0.0.0 cdndqw.com
 0.0.0.0 cdngain.com
@@ -16932,6 +16933,7 @@
 0.0.0.0 newslikemeds.com
 0.0.0.0 newsm247.online
 0.0.0.0 news-mars.com
+0.0.0.0 news-muheji.com
 0.0.0.0 newsocko.com
 0.0.0.0 newsokos.com
 0.0.0.0 newspaperlove.com
@@ -17016,6 +17018,7 @@
 0.0.0.0 nicewistful.com
 0.0.0.0 nicheadmiringadverse.com
 0.0.0.0 nicheads.com
+0.0.0.0 nichedlinks.com
 0.0.0.0 nichools.com
 0.0.0.0 nichrnmxrlplt.com
 0.0.0.0 nickeeha.net
@@ -21288,6 +21291,7 @@
 0.0.0.0 rejjcles.xyz
 0.0.0.0 rejppdoof.com
 0.0.0.0 rejqxhivuslw.com
+0.0.0.0 reklamko.pro
 0.0.0.0 reklamz.com
 0.0.0.0 reknitgude.cam
 0.0.0.0 rekovers.ru
