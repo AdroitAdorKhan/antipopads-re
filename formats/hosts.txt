@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.190
 # Release: 190
-# Entries: 30,451
-# Updated: Sat, 09 Jul 22 10:02:40 +06
+# Entries: 30,453
+# Updated: Sat, 09 Jul 22 12:03:24 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -21833,6 +21833,7 @@
 0.0.0.0 robustcutlery.com
 0.0.0.0 rocenvixn.top
 0.0.0.0 rocexovo.com
+0.0.0.0 rockcloudspace.com
 0.0.0.0 rocketstars.online
 0.0.0.0 rocketyield.com
 0.0.0.0 rockstorageplace.com
@@ -30433,6 +30434,7 @@
 0.0.0.0 zozolilla.com
 0.0.0.0 zpjkvuyqxu.com
 0.0.0.0 zpxalcnnafyy.com
+0.0.0.0 zqvee2re50mr.com
 0.0.0.0 zqzuiomba.com
 0.0.0.0 zrav2wkbrs.com
 0.0.0.0 zrlcr.com
