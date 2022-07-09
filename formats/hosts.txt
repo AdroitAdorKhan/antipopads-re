@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.190
 # Release: 190
-# Entries: 30,453
-# Updated: Sat, 09 Jul 22 12:03:24 +06
+# Entries: 30,454
+# Updated: Sat, 09 Jul 22 14:05:49 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29258,6 +29258,7 @@
 0.0.0.0 wyypykoenie.xyz
 0.0.0.0 wz5y80ab60p5.com
 0.0.0.0 wzdzht7am5.com
+0.0.0.0 wzk5ndpc3x05.com
 0.0.0.0 wzuyzy.com
 0.0.0.0 x40u1vj75ks9.com
 0.0.0.0 x4pollyxxpush.com
