@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.07.190
-# Release: 190
-# Entries: 30,461
-# Updated: Sat, 09 Jul 22 22:02:44 +06
+# Version: 22.07.191
+# Release: 191
+# Entries: 30,463
+# Updated: Sun, 10 Jul 22 00:02:40 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10549,6 +10549,7 @@
 0.0.0.0 goshooph.com
 0.0.0.0 gosnomlgisblss.top
 0.0.0.0 gospecularavch.site
+0.0.0.0 gossipcase.com
 0.0.0.0 gotibetho.pro
 0.0.0.0 gotjobbs.com
 0.0.0.0 got-money.online
@@ -27419,6 +27420,7 @@
 0.0.0.0 waspaortascene.com
 0.0.0.0 wasprenovate.com
 0.0.0.0 wastedclassmatemay.com
+0.0.0.0 wastedperk.com
 0.0.0.0 wastedposterapostrophe.com
 0.0.0.0 wastefulmeanwhileboss.com
 0.0.0.0 wastesshimssat.world
