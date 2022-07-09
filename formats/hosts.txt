@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.190
 # Release: 190
-# Entries: 30,460
-# Updated: Sat, 09 Jul 22 20:02:49 +06
+# Entries: 30,461
+# Updated: Sat, 09 Jul 22 22:02:44 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -27980,6 +27980,7 @@
 0.0.0.0 wokentractorfurnished.com
 0.0.0.0 wokewhoki.pro
 0.0.0.0 wokfirsax.com
+0.0.0.0 wokm8isd4zit.com
 0.0.0.0 wolaufie.com
 0.0.0.0 wolqundera.com
 0.0.0.0 wolurqjak.top
