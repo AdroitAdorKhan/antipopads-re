@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.191
 # Release: 191
-# Entries: 30,464
-# Updated: Sun, 10 Jul 22 02:05:27 +06
+# Entries: 30,465
+# Updated: Sun, 10 Jul 22 08:04:49 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -26724,6 +26724,7 @@
 0.0.0.0 verifychocolate.com
 0.0.0.0 vernetlaredit.com
 0.0.0.0 verotezzz.com
+0.0.0.0 versatileadvancement.com
 0.0.0.0 verseexposurethanksgiving.com
 0.0.0.0 versionsgratersteward.com
 0.0.0.0 versusberryoutdoor.com
