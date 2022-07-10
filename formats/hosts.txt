@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.191
 # Release: 191
-# Entries: 30,469
-# Updated: Sun, 10 Jul 22 14:02:53 +06
+# Entries: 30,471
+# Updated: Sun, 10 Jul 22 18:03:21 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1411,6 +1411,7 @@
 0.0.0.0 agratorseurrey.com
 0.0.0.0 agreedrunawaysalty.com
 0.0.0.0 agreementdarcypainless.com
+0.0.0.0 agregadorcode.com
 0.0.0.0 agriculta.top
 0.0.0.0 agriculturalproshereby.com
 0.0.0.0 agrothoo.net
@@ -15730,6 +15731,7 @@
 0.0.0.0 melinaeability.casa
 0.0.0.0 melindahicks.xyz
 0.0.0.0 mellategrannom.com
+0.0.0.0 mellivoracode.com
 0.0.0.0 mellodur.net
 0.0.0.0 mellowpresence.com
 0.0.0.0 mellowtin.com
