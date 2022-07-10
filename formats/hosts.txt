@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.191
 # Release: 191
-# Entries: 30,467
-# Updated: Sun, 10 Jul 22 10:03:29 +06
+# Entries: 30,469
+# Updated: Sun, 10 Jul 22 14:02:53 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20217,6 +20217,7 @@
 0.0.0.0 puhtml.com
 0.0.0.0 puibhwvbypjphc.com
 0.0.0.0 puihiswvc.xyz
+0.0.0.0 puitaexb.com
 0.0.0.0 pujdtdvo.xyz
 0.0.0.0 pujgasciuxpck.xyz
 0.0.0.0 pujhvwtdhdml.xyz
@@ -22704,6 +22705,7 @@
 0.0.0.0 serversfrenchruse.com
 0.0.0.0 servicecouplemagpie.com
 0.0.0.0 servicegetbook.net
+0.0.0.0 servicesrc.org
 0.0.0.0 serving-system.com
 0.0.0.0 servisverf.com
 0.0.0.0 servtraff97.com
