@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.193
 # Release: 193
-# Entries: 30,484
-# Updated: Tue, 12 Jul 22 02:04:00 +06
+# Entries: 30,485
+# Updated: Tue, 12 Jul 22 04:04:56 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6711,6 +6711,7 @@
 0.0.0.0 dioneperson.pro
 0.0.0.0 dipegrathy.com
 0.0.0.0 diplomadosagedream.com
+0.0.0.0 dipobeds.com
 0.0.0.0 diptaich.com
 0.0.0.0 diqkldlh.com
 0.0.0.0 directaclick.com
