@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.192
 # Release: 192
-# Entries: 30,474
-# Updated: Mon, 11 Jul 22 16:06:56 +06
+# Entries: 30,475
+# Updated: Mon, 11 Jul 22 22:03:27 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -9829,6 +9829,7 @@
 :: gaigroak.com
 :: gaihethu.net
 :: gaijiglo.net
+:: gaimoupy.net
 :: gaindemeanourimprovise.com
 :: gainedcluerelief.com
 :: gainoverprotective.com
