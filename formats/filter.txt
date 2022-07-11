@@ -20,8 +20,8 @@
 ! Version: 22.07.192
 ! Release: 192
 ! Expires: 1 day
-! Entries: 30,473
-! Updated: Mon, 11 Jul 22 08:06:25 +06
+! Entries: 30,474
+! Updated: Mon, 11 Jul 22 16:06:56 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -9366,6 +9366,7 @@
 ||foramoongussor.com^
 ||forarchenchan.com^
 ||forbearcorrectinvolving.com^
+||forbeshey.com^
 ||forced-lose.de^
 ||forcefuldirect.com^
 ||forcefulpacehauled.com^

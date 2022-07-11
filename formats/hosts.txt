@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.192
 # Release: 192
-# Entries: 30,473
-# Updated: Mon, 11 Jul 22 08:06:25 +06
+# Entries: 30,474
+# Updated: Mon, 11 Jul 22 16:06:56 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9365,6 +9365,7 @@
 0.0.0.0 foramoongussor.com
 0.0.0.0 forarchenchan.com
 0.0.0.0 forbearcorrectinvolving.com
+0.0.0.0 forbeshey.com
 0.0.0.0 forced-lose.de
 0.0.0.0 forcefuldirect.com
 0.0.0.0 forcefulpacehauled.com
