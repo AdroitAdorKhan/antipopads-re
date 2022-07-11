@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.07.192
-# Release: 192
-# Entries: 30,475
-# Updated: Mon, 11 Jul 22 22:03:27 +06
+# Version: 22.07.193
+# Release: 193
+# Entries: 30,482
+# Updated: Tue, 12 Jul 22 00:07:21 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2926,6 +2926,7 @@
 0.0.0.0 bbaannrr03.com
 0.0.0.0 bbaannrr05.com
 0.0.0.0 bbaannrr11.com
+0.0.0.0 bbcrgate.com
 0.0.0.0 bbhljrxs.top
 0.0.0.0 bbom2b434493.com
 0.0.0.0 bbqqkcglrgkdwnq.top
@@ -6723,6 +6724,7 @@
 0.0.0.0 directoryexertion.com
 0.0.0.0 directorym.com
 0.0.0.0 directuklye.co
+0.0.0.0 directuklyecon.pics
 0.0.0.0 diresozines.com
 0.0.0.0 dirgywhacks.com
 0.0.0.0 dirntbrqcmstsvyyxcj.me
@@ -16403,6 +16405,7 @@
 0.0.0.0 msbuacjorxgq.com
 0.0.0.0 msbuqruhcefx.xyz
 0.0.0.0 mscklogtxblb.xyz
+0.0.0.0 mscoldness.com
 0.0.0.0 msdhyexj.com
 0.0.0.0 msdwrhwt.com
 0.0.0.0 msgose.com
@@ -16546,6 +16549,7 @@
 0.0.0.0 mwjchueu.top
 0.0.0.0 mwobbgfcxiaxg.com
 0.0.0.0 mwojcelivfturh.com
+0.0.0.0 mworkh.buzz
 0.0.0.0 mworkhovd.com
 0.0.0.0 mwoukrkskills.xyz
 0.0.0.0 mwprotected.com
@@ -16821,11 +16825,13 @@
 0.0.0.0 necklaceboarupstairs.com
 0.0.0.0 necklaceelevatorneatly.com
 0.0.0.0 neckshrinevastly.com
+0.0.0.0 nedassiu.buzz
 0.0.0.0 nedestablish.com
 0.0.0.0 nedmppiilnld.com
 0.0.0.0 nedtewksxn.xyz
 0.0.0.0 nedtvigpmwsigf.com
 0.0.0.0 nedukeratio.com
+0.0.0.0 nedukeratio.lol
 0.0.0.0 neeasiltbpio.top
 0.0.0.0 neechube.net
 0.0.0.0 neechuce.net
@@ -24201,6 +24207,7 @@
 0.0.0.0 suomaimrphie.top
 0.0.0.0 suomicgeyser.com
 0.0.0.0 suozmtcc.com
+0.0.0.0 supapush.net
 0.0.0.0 superadbid.com
 0.0.0.0 superadexchange.com
 0.0.0.0 superbdolly.com
