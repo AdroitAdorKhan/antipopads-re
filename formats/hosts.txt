@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.193
 # Release: 193
-# Entries: 30,485
-# Updated: Tue, 12 Jul 22 04:04:56 +06
+# Entries: 30,486
+# Updated: Tue, 12 Jul 22 08:08:49 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28926,6 +28926,7 @@
 0.0.0.0 www.ritualwarily.com
 0.0.0.0 www.rlomivunesqal.com
 0.0.0.0 www.rmlehtrdzfyonb.com
+0.0.0.0 www.robescampus.com
 0.0.0.0 www.rogeltunukreda.gq
 0.0.0.0 www.romanticmonuments.com
 0.0.0.0 www.roofprison.com
