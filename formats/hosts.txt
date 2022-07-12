@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.193
 # Release: 193
-# Entries: 30,489
-# Updated: Tue, 12 Jul 22 10:18:11 +06
+# Entries: 30,491
+# Updated: Tue, 12 Jul 22 16:12:42 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2864,6 +2864,7 @@
 0.0.0.0 baronmathematics.com
 0.0.0.0 baronrydaters.com
 0.0.0.0 barrari-heingths.com
+0.0.0.0 barreraxyloid.com
 0.0.0.0 barricadefurrydrinks.com
 0.0.0.0 barriercereals.com
 0.0.0.0 bars2show.com
@@ -3339,6 +3340,7 @@
 0.0.0.0 bingooverdosegroom.com
 0.0.0.0 bingtonwr.top
 0.0.0.0 bin-layer.ru
+0.0.0.0 binmenkollast.com
 0.0.0.0 binsaiwo.net
 0.0.0.0 bin-tds.site
 0.0.0.0 bioekfuxasi.top
