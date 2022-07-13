@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.194
 # Release: 194
-# Entries: 30,520
-# Updated: Wed, 13 Jul 22 02:08:14 +06
+# Entries: 30,522
+# Updated: Wed, 13 Jul 22 08:07:58 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -22742,6 +22742,7 @@
 0.0.0.0 servicecouplemagpie.com
 0.0.0.0 servicegetbook.net
 0.0.0.0 servicesrc.org
+0.0.0.0 servingcdn.net
 0.0.0.0 serving-system.com
 0.0.0.0 servisverf.com
 0.0.0.0 servtraff97.com
@@ -28552,6 +28553,7 @@
 0.0.0.0 www.floralrichardapprentice.com
 0.0.0.0 www.flowerbedfedpoultry.com
 0.0.0.0 www.followingsmother.com
+0.0.0.0 www.forcefulpacehauled.com
 0.0.0.0 www.forearmthrobjanuary.com
 0.0.0.0 www.foreignsentiment.com
 0.0.0.0 www.formationdenehurt.com
