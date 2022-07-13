@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.194
 # Release: 194
-# Entries: 30,559
-# Updated: Wed, 13 Jul 22 18:04:15 +06
+# Entries: 30,561
+# Updated: Wed, 13 Jul 22 20:04:59 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7650,6 +7650,7 @@
 0.0.0.0 ecxgfgas.com
 0.0.0.0 ecxotmlrqovtmy.com
 0.0.0.0 ecxpnyhwqsd.top
+0.0.0.0 ecybnxxpeq.com
 0.0.0.0 ed11f01827.com
 0.0.0.0 ed9wkbpy.com
 0.0.0.0 edampeci.com
@@ -29876,6 +29877,7 @@
 0.0.0.0 ycohwgxav.top
 0.0.0.0 ycqshcgupibbn.com
 0.0.0.0 ycrxfjshkhwmr.xyz
+0.0.0.0 yctamonieomgb.com
 0.0.0.0 ycurrentjobis.biz
 0.0.0.0 ycvncqbexrpcj.top
 0.0.0.0 yddcxncf.top
