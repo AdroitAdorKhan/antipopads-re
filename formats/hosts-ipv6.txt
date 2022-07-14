@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.07.195
-# Release: 195
-# Entries: 30,606
-# Updated: Thu, 14 Jul 22 22:11:27 +06
+# Version: 22.07.196
+# Release: 196
+# Entries: 30,607
+# Updated: Fri, 15 Jul 22 00:13:34 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -29047,6 +29047,7 @@
 :: www.rsafrwdr.com
 :: www.rtbpopd.com
 :: www.rtbterra.com
+:: www.ruleconnectexpire.com
 :: www.ruuwkftrtegqj.com
 :: www.rvwtpwmtnfj.com
 :: www.rwlfznyvivh.com
