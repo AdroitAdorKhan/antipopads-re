@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.195
 # Release: 195
-# Entries: 30,585
-# Updated: Thu, 14 Jul 22 10:03:38 +06
+# Entries: 30,586
+# Updated: Thu, 14 Jul 22 12:03:36 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10442,6 +10442,7 @@
 0.0.0.0 gluchair.net
 0.0.0.0 glucinafumose.com
 0.0.0.0 gludraus.com
+0.0.0.0 glugherg.net
 0.0.0.0 glugreez.com
 0.0.0.0 glumpaul.net
 0.0.0.0 glumtitu.net
