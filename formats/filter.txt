@@ -20,8 +20,8 @@
 ! Version: 22.07.195
 ! Release: 195
 ! Expires: 1 day
-! Entries: 30,605
-! Updated: Thu, 14 Jul 22 20:08:02 +06
+! Entries: 30,606
+! Updated: Thu, 14 Jul 22 22:11:27 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -19037,6 +19037,7 @@
 ||pennyotcstock.com^
 ||pennzxycrdmw.com^
 ||pensivecoloredposterity.com^
+||pensiveravine.com^
 ||pentaclaud.com^
 ||pentialin.fun^
 ||peoplewasserwar.casa^
