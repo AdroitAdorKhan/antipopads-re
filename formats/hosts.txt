@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.197
 # Release: 197
-# Entries: 30,623
-# Updated: Sat, 16 Jul 22 00:04:06 +06
+# Entries: 30,624
+# Updated: Sat, 16 Jul 22 02:03:56 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1014,6 +1014,7 @@
 0.0.0.0 adro.pro
 0.0.0.0 adrunnr.com
 0.0.0.0 ads3-adnow.com
+0.0.0.0 ads4g.pl
 0.0.0.0 ads5-adnow.com
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adsafety.net

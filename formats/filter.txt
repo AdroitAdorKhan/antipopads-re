@@ -20,8 +20,8 @@
 ! Version: 22.07.197
 ! Release: 197
 ! Expires: 1 day
-! Entries: 30,623
-! Updated: Sat, 16 Jul 22 00:04:06 +06
+! Entries: 30,624
+! Updated: Sat, 16 Jul 22 02:03:56 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -1015,6 +1015,7 @@
 ||adro.pro^
 ||adrunnr.com^
 ||ads3-adnow.com^
+||ads4g.pl^
 ||ads5-adnow.com^
 ||adsafeprotected.com^
 ||adsafety.net^
