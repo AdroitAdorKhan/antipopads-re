@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.196
 # Release: 196
-# Entries: 30,616
-# Updated: Fri, 15 Jul 22 18:19:04 +06
+# Entries: 30,617
+# Updated: Fri, 15 Jul 22 20:07:41 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5014,6 +5014,7 @@
 0.0.0.0 clickboothlnk.com
 0.0.0.0 clickcash.com
 0.0.0.0 clickcdn.co
+0.0.0.0 click-cdn.com
 0.0.0.0 clickco.net
 0.0.0.0 clickdiler.com
 0.0.0.0 clickequations.net

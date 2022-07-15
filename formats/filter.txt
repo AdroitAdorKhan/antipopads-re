@@ -20,8 +20,8 @@
 ! Version: 22.07.196
 ! Release: 196
 ! Expires: 1 day
-! Entries: 30,616
-! Updated: Fri, 15 Jul 22 18:19:04 +06
+! Entries: 30,617
+! Updated: Fri, 15 Jul 22 20:07:41 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -5015,6 +5015,7 @@
 ||clickboothlnk.com^
 ||clickcash.com^
 ||clickcdn.co^
+||click-cdn.com^
 ||clickco.net^
 ||clickdiler.com^
 ||clickequations.net^
