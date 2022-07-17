@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.07.197
-# Release: 197
-# Entries: 30,646
-# Updated: Sat, 16 Jul 22 10:04:54 +06
+# Version: 22.07.198
+# Release: 198
+# Entries: 30,648
+# Updated: Sun, 17 Jul 22 06:06:22 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7077,6 +7077,7 @@
 0.0.0.0 donescaffold.com
 0.0.0.0 donkeyrecentfaith.com
 0.0.0.0 donort.com
+0.0.0.0 donttbeevils.de
 0.0.0.0 doobinooby.com
 0.0.0.0 doobyyooby.com
 0.0.0.0 doolooku.net
@@ -24408,6 +24409,7 @@
 0.0.0.0 surveyingaltitude.com
 0.0.0.0 surveyspaid.com
 0.0.0.0 survivepronate.com
+0.0.0.0 survrhostngs.xyz
 0.0.0.0 surzoe.com
 0.0.0.0 susandsoc.top
 0.0.0.0 suscepts.xyz
