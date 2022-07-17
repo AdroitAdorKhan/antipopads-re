@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.198
 # Release: 198
-# Entries: 30,710
-# Updated: Sun, 17 Jul 22 10:03:32 +06
+# Entries: 30,726
+# Updated: Sun, 17 Jul 22 12:04:38 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3543,6 +3543,7 @@
 0.0.0.0 bmcdn1.com
 0.0.0.0 bmcdn2.com
 0.0.0.0 bmcdn3.com
+0.0.0.0 bmcdn4.com
 0.0.0.0 bmcwwjfpoxgc.xyz
 0.0.0.0 bmfftnhnxnu.xyz
 0.0.0.0 bmiwjywe.xyz
@@ -5318,6 +5319,7 @@
 0.0.0.0 commencenumerals.com
 0.0.0.0 commentaryharm.com
 0.0.0.0 commentarystrength.com
+0.0.0.0 commentsengine.com
 0.0.0.0 commeral.com
 0.0.0.0 commercialdamagingmuffin.com
 0.0.0.0 commercialvalue.org
@@ -8046,6 +8048,7 @@
 0.0.0.0 emccgujavc.xyz
 0.0.0.0 emediate.dk
 0.0.0.0 ememoricane.info
+0.0.0.0 ementwre.buzz
 0.0.0.0 emeraldmistrust.com
 0.0.0.0 emergedsocietytheft.com
 0.0.0.0 emerizeculler.com
@@ -9507,6 +9510,7 @@
 0.0.0.0 fotsaulr.net
 0.0.0.0 foughtdicecup.com
 0.0.0.0 foughtrefusal.com
+0.0.0.0 fouglisy.net
 0.0.0.0 foujekag.net
 0.0.0.0 foundationbettynapoleon.com
 0.0.0.0 foundedphase.com
@@ -10285,6 +10289,7 @@
 0.0.0.0 gilarditus.com
 0.0.0.0 gilgamesh-amu.com
 0.0.0.0 gilhgiotmsv.com
+0.0.0.0 gillotjugful.com
 0.0.0.0 gillynn.com
 0.0.0.0 gilmandros11.site
 0.0.0.0 giltenmopoke.cam
@@ -10821,6 +10826,7 @@
 0.0.0.0 grichewoza.pro
 0.0.0.0 grideawkwarddepth.com
 0.0.0.0 grifictuberal.site
+0.0.0.0 griksoud.net
 0.0.0.0 grillcheekunfinished.com
 0.0.0.0 grilledjut.com
 0.0.0.0 grilydivy.com
@@ -11098,6 +11104,7 @@
 0.0.0.0 halfmoonsights.com
 0.0.0.0 halfpriceozarks.com
 0.0.0.0 halileo.com
+0.0.0.0 halkie.com
 0.0.0.0 halleyperson.pro
 0.0.0.0 halloasabjurer.com
 0.0.0.0 halltrasy.com
@@ -12240,6 +12247,7 @@
 0.0.0.0 ignup.com
 0.0.0.0 igo.am
 0.0.0.0 igpdsyweigeqtp.com
+0.0.0.0 igreskfq.com
 0.0.0.0 iguldscdnrgutrg.top
 0.0.0.0 igvvoukjxkbwp.top
 0.0.0.0 igwjmshiksgyubd.top
@@ -13905,6 +13913,7 @@
 0.0.0.0 keycrochet.com
 0.0.0.0 keycrowfodder.com
 0.0.0.0 keydawnawe.com
+0.0.0.0 keypush.net
 0.0.0.0 keyrolan.com
 0.0.0.0 keyrunmodel.com
 0.0.0.0 keywordblocks.com
@@ -14423,6 +14432,7 @@
 0.0.0.0 ladwayyfgrphbvf.xyz
 0.0.0.0 lady-datings-here.com
 0.0.0.0 ladyes-is-here.life
+0.0.0.0 ladyphapty.com
 0.0.0.0 laehvatrvicsbtp.xyz
 0.0.0.0 laf1ma3eban85ana.com
 0.0.0.0 lafastnews.com
@@ -16507,6 +16517,7 @@
 0.0.0.0 mqksorsqhqeipwx.top
 0.0.0.0 mqnlgavonacoyturmede.me
 0.0.0.0 mqpiorkowf.xyz
+0.0.0.0 mqqrcdxbnog.com
 0.0.0.0 mqssvkgeegvenq.xyz
 0.0.0.0 mqthslhcj.com
 0.0.0.0 mqvgkrtppupi.xyz
@@ -22736,6 +22747,7 @@
 0.0.0.0 searchdatestoday.com
 0.0.0.0 searchdims.network
 0.0.0.0 searchenhancements.com
+0.0.0.0 searchingfor.lol
 0.0.0.0 searchmulty.com
 0.0.0.0 searchsecurer.com
 0.0.0.0 searsbushelbus.com
@@ -23445,6 +23457,7 @@
 0.0.0.0 sma8clk.com
 0.0.0.0 smac-ad.com
 0.0.0.0 smagod.com
+0.0.0.0 smaleo.com
 0.0.0.0 smallentpation.pro
 0.0.0.0 smallfunnybears.com
 0.0.0.0 smallstrengthen.com
@@ -24635,6 +24648,7 @@
 0.0.0.0 tacticmarshannouncing.com
 0.0.0.0 tacticmuseumbed.com
 0.0.0.0 tadfqbcisjoy.top
+0.0.0.0 taembed.com
 0.0.0.0 taetsiatomia.com
 0.0.0.0 tafaedxxdsdaa.xyz
 0.0.0.0 tafklwgy.top
@@ -25691,6 +25705,7 @@
 0.0.0.0 trixyapieces.com
 0.0.0.0 trk4.com
 0.0.0.0 trk-access.com
+0.0.0.0 trkad.network
 0.0.0.0 trkclk.net
 0.0.0.0 trk-consulatu.com
 0.0.0.0 trkflstr.com
@@ -30494,6 +30509,7 @@
 0.0.0.0 yxmyxtejf.xyz
 0.0.0.0 yxowovop.com
 0.0.0.0 yxporjcfbg.com
+0.0.0.0 yxpyjyhjj.com
 0.0.0.0 yxqsmfvhoja.xyz
 0.0.0.0 yxsgrdxga.com
 0.0.0.0 yxwlhuui.com
