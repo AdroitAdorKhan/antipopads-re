@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.198
 # Release: 198
-# Entries: 30,736
-# Updated: Sun, 17 Jul 22 20:05:10 +06
+# Entries: 30,737
+# Updated: Sun, 17 Jul 22 22:05:39 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6747,6 +6747,7 @@
 0.0.0.0 dilateneedybeyond.com
 0.0.0.0 dilehrpdfohff.top
 0.0.0.0 dilemmaemergencyleisure.com
+0.0.0.0 dilemmafreakish.com
 0.0.0.0 dilemmatryingless.com
 0.0.0.0 dilnvwrohyq.com
 0.0.0.0 dilruwha.net
