@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.198
 # Release: 198
-# Entries: 30,726
-# Updated: Sun, 17 Jul 22 12:04:38 +06
+# Entries: 30,734
+# Updated: Sun, 17 Jul 22 18:05:52 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1895,6 +1895,7 @@
 0.0.0.0 anonima.to
 0.0.0.0 anonolpucka.com
 0.0.0.0 anonymousads.com
+0.0.0.0 anopportuni.lol
 0.0.0.0 anothingsev.top
 0.0.0.0 anoxthsvvtm.top
 0.0.0.0 anpklfny.com
@@ -8086,6 +8087,7 @@
 0.0.0.0 enactmedic.com
 0.0.0.0 enamberchivies.com
 0.0.0.0 ena-native-ads9.com
+0.0.0.0 enationmaleos.website
 0.0.0.0 encamionnerai.xyz
 0.0.0.0 encasedandelionhauled.com
 0.0.0.0 enceansom.club
@@ -11171,6 +11173,7 @@
 0.0.0.0 hasersxewkv.xyz
 0.0.0.0 hash-hash-tag.com
 0.0.0.0 hashutrnuowi.top
+0.0.0.0 haspswashrag.com
 0.0.0.0 hastejuggle.com
 0.0.0.0 hastilyantiterrorist.com
 0.0.0.0 hastilyguide.com
@@ -14311,6 +14314,7 @@
 0.0.0.0 kumteerg.com
 0.0.0.0 kunduxqyxggvju.top
 0.0.0.0 kundwarkdvvqr.top
+0.0.0.0 kuntic.com
 0.0.0.0 kuntzenyt.club
 0.0.0.0 kuptabachy.com
 0.0.0.0 kuqgrgitdniruulxg.me
@@ -15096,6 +15100,7 @@
 0.0.0.0 loftyplunder.com
 0.0.0.0 logfrefqnobwwat.top
 0.0.0.0 logicalmodelvisible.com
+0.0.0.0 logniz.com
 0.0.0.0 logoscollection.com
 0.0.0.0 logragdressy.com
 0.0.0.0 logsobtainedprediction.com
@@ -16914,6 +16919,7 @@
 0.0.0.0 nceinbutiwo.biz
 0.0.0.0 ncepwelcjwdejj.com
 0.0.0.0 ncerningy.club
+0.0.0.0 ncesprin.buzz
 0.0.0.0 ncesspervice.co
 0.0.0.0 nckjysyk.com
 0.0.0.0 ncmyjhkanssgrau.xyz
@@ -26597,6 +26603,7 @@
 0.0.0.0 useednjckedick.top
 0.0.0.0 usefulcreatebid.com
 0.0.0.0 usegraitsotherwisewhere.pw
+0.0.0.0 usekha.com
 0.0.0.0 uselnk.com
 0.0.0.0 usemarketings.com
 0.0.0.0 usemyreferral.link
@@ -27906,6 +27913,7 @@
 0.0.0.0 whaleads.com
 0.0.0.0 whalecashads.com
 0.0.0.0 whalepp.com
+0.0.0.0 whalso.com
 0.0.0.0 whamimepso.pro
 0.0.0.0 whammodrive.com
 0.0.0.0 whampamp.com
