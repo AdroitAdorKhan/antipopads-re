@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.199
 # Release: 199
-# Entries: 30,804
-# Updated: Mon, 18 Jul 22 20:05:29 +06
+# Entries: 30,805
+# Updated: Mon, 18 Jul 22 22:06:28 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -30666,6 +30666,7 @@
 0.0.0.0 zeewepie.net
 0.0.0.0 zefeegnu.com
 0.0.0.0 zefodesty.com
+0.0.0.0 zeikvvbobop.com
 0.0.0.0 zelllwrite.com
 0.0.0.0 zelrasty.net
 0.0.0.0 zeltooch.net
