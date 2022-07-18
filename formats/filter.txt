@@ -20,8 +20,8 @@
 ! Version: 22.07.199
 ! Release: 199
 ! Expires: 1 day
-! Entries: 30,796
-! Updated: Mon, 18 Jul 22 16:03:35 +06
+! Entries: 30,797
+! Updated: Mon, 18 Jul 22 18:04:52 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -13130,6 +13130,7 @@
 ||jarror.com^
 ||jarvispopsu.com^
 ||jashautchord.com^
+||jatsekse.net^
 ||jaubeebe.net^
 ||jauchuwa.net^
 ||jaugloup.com^

@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.199
 # Release: 199
-# Entries: 30,796
-# Updated: Mon, 18 Jul 22 16:03:35 +06
+# Entries: 30,797
+# Updated: Mon, 18 Jul 22 18:04:52 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13129,6 +13129,7 @@
 0.0.0.0 jarror.com
 0.0.0.0 jarvispopsu.com
 0.0.0.0 jashautchord.com
+0.0.0.0 jatsekse.net
 0.0.0.0 jaubeebe.net
 0.0.0.0 jauchuwa.net
 0.0.0.0 jaugloup.com
