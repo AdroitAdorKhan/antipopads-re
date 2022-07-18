@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.200
 # Release: 200
-# Entries: 30,807
-# Updated: Tue, 19 Jul 22 00:08:25 +06
+# Entries: 30,808
+# Updated: Tue, 19 Jul 22 04:06:23 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -17695,6 +17695,7 @@
 0.0.0.0 nuswvdyah.xyz
 0.0.0.0 nutaku.net
 0.0.0.0 nutatesthreip.com
+0.0.0.0 nutattorneyjack.com
 0.0.0.0 nutcropbrute.com
 0.0.0.0 nutlonging.com
 0.0.0.0 nutrientassumptionclaims.com
