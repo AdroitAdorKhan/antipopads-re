@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.07.200
-# Release: 200
-# Entries: 30,840
-# Updated: Tue, 19 Jul 22 22:05:17 +06
+# Version: 22.07.201
+# Release: 201
+# Entries: 30,846
+# Updated: Wed, 20 Jul 22 00:05:33 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -796,6 +796,7 @@
 0.0.0.0 ad127m.com
 0.0.0.0 ad132m.com
 0.0.0.0 ad2up.com
+0.0.0.0 ad999.biz
 0.0.0.0 adactioner.com
 0.0.0.0 adaipjondmc.com
 0.0.0.0 adamtnoypxw.com
@@ -4395,6 +4396,7 @@
 0.0.0.0 cash-program.com
 0.0.0.0 cashtrafic.com
 0.0.0.0 cashtrafic.info
+0.0.0.0 casinal.com
 0.0.0.0 casleygkqvkx.com
 0.0.0.0 caspion.com
 0.0.0.0 casserolehunchcontract.com
@@ -10626,6 +10628,7 @@
 0.0.0.0 gojverpdmytupuu.xyz
 0.0.0.0 gold2762.com
 0.0.0.0 goldenbettingefforlessefforless.com
+0.0.0.0 golden-gateway.com
 0.0.0.0 goldfishnightclubpatronize.com
 0.0.0.0 goldvertise.com
 0.0.0.0 gomain2.pro
@@ -12911,6 +12914,7 @@
 0.0.0.0 isawaalphol.casa
 0.0.0.0 isawthenews.com
 0.0.0.0 isbnrs.com
+0.0.0.0 isboost.co.jp
 0.0.0.0 iscosta.ru
 0.0.0.0 iscxxmuejtqme.com
 0.0.0.0 isdlvtgikrpw.com
@@ -20022,6 +20026,7 @@
 0.0.0.0 pretextexpertisedisappeared.com
 0.0.0.0 pretexthalt.com
 0.0.0.0 prettypasttime.com
+0.0.0.0 preurllvrbrvng.com
 0.0.0.0 prevailedballotcaution.com
 0.0.0.0 preventionbitten.com
 0.0.0.0 preventionpitcherremedy.com
@@ -24155,6 +24160,7 @@
 0.0.0.0 staygg.com
 0.0.0.0 staykidnapcoma.com
 0.0.0.0 stazumik.net
+0.0.0.0 stbvip.co
 0.0.0.0 stbykdafbsn.com
 0.0.0.0 stbzekvyt.com
 0.0.0.0 stdirection.com
