@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.200
 # Release: 200
-# Entries: 30,808
-# Updated: Tue, 19 Jul 22 04:06:23 +06
+# Entries: 30,813
+# Updated: Tue, 19 Jul 22 06:14:06 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3454,6 +3454,7 @@
 0.0.0.0 bladenoddingstepfather.com
 0.0.0.0 bladestechnicalsize.com
 0.0.0.0 bladesthirst.com
+0.0.0.0 bladic.com
 0.0.0.0 bladswetis.com
 0.0.0.0 blaghfpd.com
 0.0.0.0 blamads.com
@@ -6405,6 +6406,7 @@
 0.0.0.0 deemsteppemental.com
 0.0.0.0 deepcolander.com
 0.0.0.0 deeperindoorsrestriction.com
+0.0.0.0 deepermagnes.com
 0.0.0.0 deepmetrix.com
 0.0.0.0 deeprootedpotion.com
 0.0.0.0 deeprootedstranded.com
@@ -8790,6 +8792,7 @@
 0.0.0.0 faithfullyfridge.com
 0.0.0.0 faithknotpositive.com
 0.0.0.0 faithlessdessertdetailed.com
+0.0.0.0 fakeerupriser.com
 0.0.0.0 fakesorange.com
 0.0.0.0 fakinggivewacko.com
 0.0.0.0 falangerewires.com
@@ -19740,6 +19743,7 @@
 0.0.0.0 pollscoopiffy.com
 0.0.0.0 polluxnetwork.com
 0.0.0.0 poltarimus.com
+0.0.0.0 poltbassa.com
 0.0.0.0 polyad.net
 0.0.0.0 polydarth.com
 0.0.0.0 pompeyperspire.com
@@ -24312,6 +24316,7 @@
 0.0.0.0 stripseamanacknowledge.com
 0.0.0.0 strivefoetus.com
 0.0.0.0 strivegasreases.com
+0.0.0.0 strivenramplor.com
 0.0.0.0 strokenail.com
 0.0.0.0 strongexplain.com
 0.0.0.0 strongholdtommycouncilman.com
