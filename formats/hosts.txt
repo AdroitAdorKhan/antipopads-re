@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.202
 # Release: 202
-# Entries: 30,951
-# Updated: Thu, 21 Jul 22 16:05:08 +06
+# Entries: 30,953
+# Updated: Thu, 21 Jul 22 18:04:27 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6623,6 +6623,7 @@
 0.0.0.0 desticall.com
 0.0.0.0 destinedabbreviatecanoe.com
 0.0.0.0 destineddominant.com
+0.0.0.0 destroyedspear.com
 0.0.0.0 destyy.com
 0.0.0.0 deswhatlike.biz
 0.0.0.0 detachedbates.com
@@ -17577,6 +17578,7 @@
 0.0.0.0 notglrjlo.com
 0.0.0.0 notheredef.fun
 0.0.0.0 nothickner.club
+0.0.0.0 nothingnightingalejuly.com
 0.0.0.0 noticebroughtcloud.com
 0.0.0.0 notification.best
 0.0.0.0 notification-centar.com
