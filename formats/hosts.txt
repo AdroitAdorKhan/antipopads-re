@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.202
 # Release: 202
-# Entries: 30,953
-# Updated: Thu, 21 Jul 22 18:04:27 +06
+# Entries: 30,955
+# Updated: Thu, 21 Jul 22 20:04:17 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7145,6 +7145,7 @@
 0.0.0.0 doneeinvict.com
 0.0.0.0 donemillio.com
 0.0.0.0 donescaffold.com
+0.0.0.0 doninjaskr.com
 0.0.0.0 donkeyrecentfaith.com
 0.0.0.0 donort.com
 0.0.0.0 donttbeevils.de
@@ -15303,6 +15304,7 @@
 0.0.0.0 lowrance.top
 0.0.0.0 lowremoraidon.com
 0.0.0.0 lowseelan.com
+0.0.0.0 lowsteelixor.com
 0.0.0.0 lowtyroguer.com
 0.0.0.0 lowtyruntor.com
 0.0.0.0 lowvktopldry.com

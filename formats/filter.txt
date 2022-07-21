@@ -20,8 +20,8 @@
 ! Version: 22.07.202
 ! Release: 202
 ! Expires: 1 day
-! Entries: 30,953
-! Updated: Thu, 21 Jul 22 18:04:27 +06
+! Entries: 30,955
+! Updated: Thu, 21 Jul 22 20:04:17 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -7146,6 +7146,7 @@
 ||doneeinvict.com^
 ||donemillio.com^
 ||donescaffold.com^
+||doninjaskr.com^
 ||donkeyrecentfaith.com^
 ||donort.com^
 ||donttbeevils.de^
@@ -15304,6 +15305,7 @@
 ||lowrance.top^
 ||lowremoraidon.com^
 ||lowseelan.com^
+||lowsteelixor.com^
 ||lowtyroguer.com^
 ||lowtyruntor.com^
 ||lowvktopldry.com^
