@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.203
 # Release: 203
-# Entries: 30,975
-# Updated: Fri, 22 Jul 22 10:04:55 +06
+# Entries: 30,977
+# Updated: Fri, 22 Jul 22 14:03:06 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -634,6 +634,7 @@
 0.0.0.0 abfwmeaqkikyi.xyz
 0.0.0.0 abgeobalancer.com
 0.0.0.0 abgligarchan.com
+0.0.0.0 abhorcarious.com
 0.0.0.0 abjectionremarksdisarm.com
 0.0.0.0 abjectisassiez.xyz
 0.0.0.0 abjwkkabu.com
@@ -9658,6 +9659,7 @@
 0.0.0.0 fqyevgrklcj.xyz
 0.0.0.0 frablettenatoes.com
 0.0.0.0 fractionwhatsoever.com
+0.0.0.0 fractureboyishherring.com
 0.0.0.0 fractureexperience.com
 0.0.0.0 fragba.com
 0.0.0.0 fragilebiggerbetty.com
