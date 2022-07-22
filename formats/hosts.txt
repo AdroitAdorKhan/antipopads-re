@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.203
 # Release: 203
-# Entries: 30,962
-# Updated: Fri, 22 Jul 22 04:03:41 +06
+# Entries: 30,965
+# Updated: Fri, 22 Jul 22 06:02:59 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12056,6 +12056,7 @@
 0.0.0.0 hunchbackimpulse.com
 0.0.0.0 hunchmotherhooddefine.com
 0.0.0.0 hungerundo.com
+0.0.0.0 hungrylongingtile.com
 0.0.0.0 hunoso.com
 0.0.0.0 hunter-hub.com
 0.0.0.0 huntingmutinousindiscreet.com
@@ -12624,6 +12625,7 @@
 0.0.0.0 inflationbreedinghoax.com
 0.0.0.0 inflationmileage.com
 0.0.0.0 inflectionquake.com
+0.0.0.0 inflictgive.com
 0.0.0.0 influencer2020.com
 0.0.0.0 infoliks.com
 0.0.0.0 infopicked.com
@@ -12763,6 +12765,7 @@
 0.0.0.0 intellipopup.com
 0.0.0.0 intellitxt.com
 0.0.0.0 intendalinetang.com
+0.0.0.0 intendedeasiestlost.com
 0.0.0.0 intendspatteremerald.com
 0.0.0.0 intentanalysis.com
 0.0.0.0 intentionalclemencydecree.com
