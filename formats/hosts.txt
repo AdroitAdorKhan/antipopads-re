@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.204
 # Release: 204
-# Entries: 31,030
-# Updated: Sat, 23 Jul 22 12:04:00 +06
+# Entries: 31,031
+# Updated: Sat, 23 Jul 22 14:02:34 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9394,6 +9394,7 @@
 0.0.0.0 flippersticktribute.com
 0.0.0.0 flirtandmeeting.info
 0.0.0.0 flirtbeggar.com
+0.0.0.0 flirt-locator.com
 0.0.0.0 flirtylocalgirls.com
 0.0.0.0 flixcontentshop.com
 0.0.0.0 fllbqrrpbwffwv.me
