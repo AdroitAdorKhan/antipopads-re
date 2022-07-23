@@ -20,8 +20,8 @@
 ! Version: 22.07.205
 ! Release: 205
 ! Expires: 1 day
-! Entries: 31,043
-! Updated: Sun, 24 Jul 22 00:05:08 +06
+! Entries: 31,045
+! Updated: Sun, 24 Jul 22 02:03:18 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -2790,6 +2790,7 @@
 ||badskies.com^
 ||badslopes.com^
 ||badspads.com^
+||badsways.com^
 ||badtopwitch.work^
 ||baetrf.com^
 ||baffledzein.com^
@@ -29098,6 +29099,7 @@
 ||www.harsik.am^
 ||www.hastejuggle.com^
 ||www.hatbenchmajestic.com^
+||www.hauntcontribution.com^
 ||www.hawsuffer.com^
 ||www.hbtzzlcxfijk.com^
 ||www.headstonefoamcleaver.com^

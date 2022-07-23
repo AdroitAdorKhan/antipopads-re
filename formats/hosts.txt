@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.205
 # Release: 205
-# Entries: 31,043
-# Updated: Sun, 24 Jul 22 00:05:08 +06
+# Entries: 31,045
+# Updated: Sun, 24 Jul 22 02:03:18 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2789,6 +2789,7 @@
 0.0.0.0 badskies.com
 0.0.0.0 badslopes.com
 0.0.0.0 badspads.com
+0.0.0.0 badsways.com
 0.0.0.0 badtopwitch.work
 0.0.0.0 baetrf.com
 0.0.0.0 baffledzein.com
@@ -29097,6 +29098,7 @@
 0.0.0.0 www.harsik.am
 0.0.0.0 www.hastejuggle.com
 0.0.0.0 www.hatbenchmajestic.com
+0.0.0.0 www.hauntcontribution.com
 0.0.0.0 www.hawsuffer.com
 0.0.0.0 www.hbtzzlcxfijk.com
 0.0.0.0 www.headstonefoamcleaver.com
