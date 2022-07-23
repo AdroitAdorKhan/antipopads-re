@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.204
 # Release: 204
-# Entries: 31,031
-# Updated: Sat, 23 Jul 22 14:02:34 +06
+# Entries: 31,034
+# Updated: Sat, 23 Jul 22 16:05:12 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8754,6 +8754,7 @@
 0.0.0.0 eyereturn.com
 0.0.0.0 eyersgustier.cam
 0.0.0.0 eyeshadowappellationshady.com
+0.0.0.0 eyeshadowclayindulgence.com
 0.0.0.0 eyesightladsregiment.com
 0.0.0.0 eyetauavxplhjv.top
 0.0.0.0 eyevfswxtcij.com
@@ -27063,6 +27064,7 @@
 0.0.0.0 vamseeds.com
 0.0.0.0 vamsoupowoa.com
 0.0.0.0 vamyceka.com
+0.0.0.0 vandalismblackboard.com
 0.0.0.0 vanderebony.pro
 0.0.0.0 vanderlisten.pro
 0.0.0.0 vanenow.com
@@ -28355,6 +28357,7 @@
 0.0.0.0 wipedhypocrite.com
 0.0.0.0 wipedstuffed.com
 0.0.0.0 wipeneighbour.com
+0.0.0.0 wipeunauthorized.com
 0.0.0.0 wipowaxe.com
 0.0.0.0 wiptisiwo.com
 0.0.0.0 wirelessannexwren.com
