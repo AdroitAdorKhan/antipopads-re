@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.205
 # Release: 205
-# Entries: 31,059
-# Updated: Sun, 24 Jul 22 20:04:18 +06
+# Entries: 31,061
+# Updated: Sun, 24 Jul 22 22:02:46 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10485,6 +10485,7 @@
 0.0.0.0 glailols.com
 0.0.0.0 glaimtug.com
 0.0.0.0 glainsee.com
+0.0.0.0 glaivoun.net
 0.0.0.0 glaiwhee.net
 0.0.0.0 glaixich.net
 0.0.0.0 glaksads.net
@@ -28509,6 +28510,7 @@
 0.0.0.0 wocysuwo.com
 0.0.0.0 wodojqcxwmix.xyz
 0.0.0.0 wodycaha.com
+0.0.0.0 woffxxx.com
 0.0.0.0 wohoretoatckij.top
 0.0.0.0 wohytuddyf.top
 0.0.0.0 wojdn.com
