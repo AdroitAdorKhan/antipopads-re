@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.205
 # Release: 205
-# Entries: 31,056
-# Updated: Sun, 24 Jul 22 12:04:09 +06
+# Entries: 31,057
+# Updated: Sun, 24 Jul 22 14:02:14 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19015,6 +19015,7 @@
 0.0.0.0 painfulpropaganda.com
 0.0.0.0 painlessassumedbeing.com
 0.0.0.0 painmidsummer.com
+0.0.0.0 painsdire.com
 0.0.0.0 painsko.com
 0.0.0.0 paintavoidwitty.com
 0.0.0.0 paintifiercute.club

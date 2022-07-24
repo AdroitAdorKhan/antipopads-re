@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.205
 # Release: 205
-# Entries: 31,056
-# Updated: Sun, 24 Jul 22 12:04:09 +06
+# Entries: 31,057
+# Updated: Sun, 24 Jul 22 14:02:14 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -19015,6 +19015,7 @@
 :: painfulpropaganda.com
 :: painlessassumedbeing.com
 :: painmidsummer.com
+:: painsdire.com
 :: painsko.com
 :: paintavoidwitty.com
 :: paintifiercute.club
