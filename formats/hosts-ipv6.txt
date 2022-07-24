@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.205
 # Release: 205
-# Entries: 31,057
-# Updated: Sun, 24 Jul 22 14:02:14 +06
+# Entries: 31,058
+# Updated: Sun, 24 Jul 22 16:04:49 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -313,6 +313,7 @@
 :: 552239b90400b7.com
 :: 55d6000d6d.com
 :: 55e593878c2d47.com
+:: 562i7aqkxu.com
 :: 563015cf3d.com
 :: 567bets10.com
 :: 56bfc388bf12.com
