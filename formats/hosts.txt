@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.205
 # Release: 205
-# Entries: 31,054
-# Updated: Sun, 24 Jul 22 10:02:55 +06
+# Entries: 31,056
+# Updated: Sun, 24 Jul 22 12:04:09 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -324,6 +324,7 @@
 0.0.0.0 584e8fce1b418.com
 0.0.0.0 58b291f917728a2.com
 0.0.0.0 58gs7b32jy.com
+0.0.0.0 590578zugbr8.com
 0.0.0.0 597437c124.com
 0.0.0.0 59a8e0d6fa2.com
 0.0.0.0 59cn7.com
@@ -29534,6 +29535,7 @@
 0.0.0.0 www.slidecaffeinecrown.com
 0.0.0.0 www.slipclearing.com
 0.0.0.0 www.sma8clk.com
+0.0.0.0 www.smilingdefectcue.com
 0.0.0.0 www.smjdkmvhar.com
 0.0.0.0 www.snappedimpressive.com
 0.0.0.0 www.snitchcompany.com
