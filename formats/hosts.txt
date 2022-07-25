@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.207
 # Release: 207
-# Entries: 31,069
-# Updated: Tue, 26 Jul 22 00:05:34 +06
+# Entries: 31,071
+# Updated: Tue, 26 Jul 22 02:04:01 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -22676,6 +22676,7 @@
 0.0.0.0 ryynoljdarrw.com
 0.0.0.0 ryyulrigi.xyz
 0.0.0.0 rzhcdnsl.com
+0.0.0.0 rzqqpamj.com
 0.0.0.0 s1t2uuenhsfs.com
 0.0.0.0 s20dh7e9dh.com
 0.0.0.0 s24hc8xzag.com
@@ -27299,6 +27300,7 @@
 0.0.0.0 vhjtgoqrxnul.xyz
 0.0.0.0 vhnsuculluw.top
 0.0.0.0 vhpbhmvrji.xyz
+0.0.0.0 vhrtgvzcmrfoo.com
 0.0.0.0 vhsiqogxtwwfnyn.top
 0.0.0.0 vhsiwnunkuj.top
 0.0.0.0 vhxckxnykra.top
