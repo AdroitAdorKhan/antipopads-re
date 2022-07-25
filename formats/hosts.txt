@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.07.205
-# Release: 205
-# Entries: 31,061
-# Updated: Sun, 24 Jul 22 22:02:46 +06
+# Version: 22.07.206
+# Release: 206
+# Entries: 31,062
+# Updated: Mon, 25 Jul 22 18:04:04 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29668,6 +29668,7 @@
 0.0.0.0 www.tragedyadvertisecosmetic.com
 0.0.0.0 www.transfervmadrid.com
 0.0.0.0 www.trappedpump.com
+0.0.0.0 www.trappedtree.com
 0.0.0.0 www.treasureravenvulgar.com
 0.0.0.0 www.treasuresensignron.com
 0.0.0.0 www.trektinyreproduce.com

@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.07.205
-! Release: 205
+! Version: 22.07.206
+! Release: 206
 ! Expires: 1 day
-! Entries: 31,061
-! Updated: Sun, 24 Jul 22 22:02:46 +06
+! Entries: 31,062
+! Updated: Mon, 25 Jul 22 18:04:04 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -29669,6 +29669,7 @@
 ||www.tragedyadvertisecosmetic.com^
 ||www.transfervmadrid.com^
 ||www.trappedpump.com^
+||www.trappedtree.com^
 ||www.treasureravenvulgar.com^
 ||www.treasuresensignron.com^
 ||www.trektinyreproduce.com^
