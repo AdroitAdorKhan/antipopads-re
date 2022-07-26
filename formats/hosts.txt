@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.207
 # Release: 207
-# Entries: 31,073
-# Updated: Tue, 26 Jul 22 04:03:58 +06
+# Entries: 31,074
+# Updated: Tue, 26 Jul 22 14:03:00 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28873,6 +28873,7 @@
 0.0.0.0 www.boutiqueignorancegeoffrey.com
 0.0.0.0 www.boutiquerestless.com
 0.0.0.0 www.breakfastinvitingdetergent.com
+0.0.0.0 www.bringsconserve.com
 0.0.0.0 www.broomacknowledgedpinch.com
 0.0.0.0 www.bruisedcoup.com
 0.0.0.0 www.brunettemattersrefused.com
