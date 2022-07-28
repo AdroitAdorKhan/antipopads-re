@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.07.208
-! Release: 208
+! Version: 22.07.209
+! Release: 209
 ! Expires: 1 day
-! Entries: 31,130
-! Updated: Wed, 27 Jul 22 18:05:18 +06
+! Entries: 31,131
+! Updated: Thu, 28 Jul 22 08:05:49 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -11483,6 +11483,7 @@
 ||hejeyoke.xyz^
 ||hekowutus.com^
 ||heldtenderness.com^
+||helesandoral.com^
 ||helessenge.club^
 ||helic3oniusrcharithonia.com^
 ||helicopterskull.com^
