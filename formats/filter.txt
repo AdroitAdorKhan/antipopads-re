@@ -20,8 +20,8 @@
 ! Version: 22.07.210
 ! Release: 210
 ! Expires: 1 day
-! Entries: 31,166
-! Updated: Fri, 29 Jul 22 10:03:29 +06
+! Entries: 31,167
+! Updated: Fri, 29 Jul 22 14:02:51 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -28381,6 +28381,7 @@
 ||wholewowblog.com^
 ||whompsranch.com^
 ||whoostoo.net^
+||whootapt.com^
 ||whootascots.com^
 ||whootkhankah.com^
 ||whopexesho.pro^
