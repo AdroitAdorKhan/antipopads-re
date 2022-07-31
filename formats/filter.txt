@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.07.210
-! Release: 210
+! Version: 22.07.212
+! Release: 212
 ! Expires: 1 day
-! Entries: 31,167
-! Updated: Fri, 29 Jul 22 14:02:51 +06
+! Entries: 31,168
+! Updated: Sun, 31 Jul 22 08:13:17 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -21632,6 +21632,7 @@
 ||recalledriddle.com^
 ||recastcompellease.com^
 ||recdirectgo.biz^
+||recedearchitect.com^
 ||receiptfastestparameter.com^
 ||receitasefinancas.com^
 ||receivedealer.com^
