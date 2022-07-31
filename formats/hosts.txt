@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.07.212
 # Release: 212
-# Entries: 31,168
-# Updated: Sun, 31 Jul 22 08:13:17 +06
+# Entries: 31,169
+# Updated: Sun, 31 Jul 22 10:14:18 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28977,6 +28977,7 @@
 0.0.0.0 www.captivatepestilentstormy.com
 0.0.0.0 www.carpreposition.com
 0.0.0.0 www.carrotraining.com
+0.0.0.0 www.cataractencroach.com
 0.0.0.0 www.cdnativepush.com
 0.0.0.0 www.cdnondemand.org
 0.0.0.0 www.cellswallpaperstatements.com
