@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.214
 # Release: 214
-# Entries: 31,208
-# Updated: Tue, 02 Aug 22 00:06:20 +06
+# Entries: 31,210
+# Updated: Tue, 02 Aug 22 02:04:23 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6951,6 +6951,7 @@
 0.0.0.0 disloyalmeddling.com
 0.0.0.0 dismantlelabour.com
 0.0.0.0 dismantlepenantiterrorist.com
+0.0.0.0 dismissabuse.com
 0.0.0.0 dismissedjollyhypocrite.com
 0.0.0.0 disorderpoking.com
 0.0.0.0 disorganizedsweatymash.com
@@ -16154,6 +16155,7 @@
 0.0.0.0 mentcomm.fun
 0.0.0.0 mentionedabjection.com
 0.0.0.0 mentionedannulmentsuperstition.com
+0.0.0.0 mentionedrubbing.com
 0.0.0.0 mentredu.top
 0.0.0.0 mentwren.xyz
 0.0.0.0 menuhivewomb.com
