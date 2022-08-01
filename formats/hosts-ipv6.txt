@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.07.212
-# Release: 212
-# Entries: 31,170
-# Updated: Sun, 31 Jul 22 16:11:09 +06
+# Version: 22.08.213
+# Release: 213
+# Entries: 31,171
+# Updated: Mon, 01 Aug 22 06:07:13 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -21254,6 +21254,7 @@
 :: quensillo.com
 :: querylead.com
 :: questionablethird.com
+:: questioningtosscontradiction.com
 :: questionmarket.com
 :: questionsadjournasleep.com
 :: questionsunpleasantaborigines.com
