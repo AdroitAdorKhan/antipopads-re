@@ -20,8 +20,8 @@
 ! Version: 22.08.213
 ! Release: 213
 ! Expires: 1 day
-! Entries: 31,171
-! Updated: Mon, 01 Aug 22 06:07:13 +06
+! Entries: 31,172
+! Updated: Mon, 01 Aug 22 10:08:50 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -19149,6 +19149,7 @@
 ||parkingdeceaseddoctrine.com^
 ||parkinggrumpy.com^
 ||parkurl.com^
+||parlorscenes.com^
 ||parlorsuperhero.com^
 ||parolequailtoll.com^
 ||parringepigene.com^
