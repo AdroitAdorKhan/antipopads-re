@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.214
 # Release: 214
-# Entries: 31,210
-# Updated: Tue, 02 Aug 22 02:04:23 +06
+# Entries: 31,211
+# Updated: Tue, 02 Aug 22 06:05:34 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12285,6 +12285,7 @@
 0.0.0.0 i62e2b4mfy.com
 0.0.0.0 i7ece0xrg4nx.com
 0.0.0.0 i864ekhq.com
+0.0.0.0 i884.info
 0.0.0.0 i8xkjci7nd.com
 0.0.0.0 i99i.org
 0.0.0.0 iadfgqikh.com
