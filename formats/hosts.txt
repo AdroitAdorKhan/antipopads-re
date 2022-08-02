@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.214
 # Release: 214
-# Entries: 31,242
-# Updated: Tue, 02 Aug 22 20:05:16 +06
+# Entries: 31,244
+# Updated: Tue, 02 Aug 22 22:03:47 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6938,6 +6938,7 @@
 0.0.0.0 discountryvc.club
 0.0.0.0 discourageconcurrenceantibiotic.com
 0.0.0.0 discourteousrecitalparole.com
+0.0.0.0 discoverethelwaiter.com
 0.0.0.0 discussmercurydifferently.com
 0.0.0.0 discussneatglobe.com
 0.0.0.0 discuteeves.com
@@ -20750,6 +20751,7 @@
 0.0.0.0 pumpkinrestartburnt.com
 0.0.0.0 pumpmanamenage.casa
 0.0.0.0 pumpmulticultural.com
+0.0.0.0 pumpoofi.net
 0.0.0.0 pumtaimp.com
 0.0.0.0 punchhurts.com
 0.0.0.0 punctualbuzzerleaflet.com
