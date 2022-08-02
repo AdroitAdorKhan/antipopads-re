@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.214
 # Release: 214
-# Entries: 31,232
-# Updated: Tue, 02 Aug 22 12:07:03 +06
+# Entries: 31,233
+# Updated: Tue, 02 Aug 22 14:05:45 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -17927,6 +17927,7 @@
 0.0.0.0 numberspenguinveto.com
 0.0.0.0 numbgradualassertive.com
 0.0.0.0 numbtoobly.com
+0.0.0.0 numeralembody.com
 0.0.0.0 numeralsdare.com
 0.0.0.0 nunailsum.com
 0.0.0.0 nunhoefey.com
