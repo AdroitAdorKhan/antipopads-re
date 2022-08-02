@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.214
 # Release: 214
-# Entries: 31,238
-# Updated: Tue, 02 Aug 22 18:04:28 +06
+# Entries: 31,242
+# Updated: Tue, 02 Aug 22 20:05:16 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2116,6 +2116,7 @@
 0.0.0.0 arcualstymie.com
 0.0.0.0 ardourineptlavender.com
 0.0.0.0 ardsbergmiteon.com
+0.0.0.0 ardslediana.com
 0.0.0.0 ardspalkiator.com
 0.0.0.0 areantaid.site
 0.0.0.0 arearmark.club
@@ -13992,6 +13993,7 @@
 0.0.0.0 kalauxet.com
 0.0.0.0 kalespurhoes.com
 0.0.0.0 kalmloda.com
+0.0.0.0 kamak-mab.com
 0.0.0.0 kamctfvync.xyz
 0.0.0.0 kaminari.club
 0.0.0.0 kamnebo.info
@@ -19207,6 +19209,7 @@
 0.0.0.0 particularmadam.com
 0.0.0.0 partieseclipse.com
 0.0.0.0 partiesrelyfoliage.com
+0.0.0.0 partion-ricism.xyz
 0.0.0.0 partitiondetergenttumor.com
 0.0.0.0 partivers-acting.icu
 0.0.0.0 partnershipknackcloset.com
@@ -20356,6 +20359,7 @@
 0.0.0.0 proclaimincurable.com
 0.0.0.0 proclaimsubjected.com
 0.0.0.0 procuredawestruckpoint.com
+0.0.0.0 prodaddkarl.com
 0.0.0.0 proddoyen.com
 0.0.0.0 producebreed.com
 0.0.0.0 producecopy.com
