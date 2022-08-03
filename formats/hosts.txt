@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.215
 # Release: 215
-# Entries: 31,277
-# Updated: Wed, 03 Aug 22 12:04:34 +06
+# Entries: 31,278
+# Updated: Wed, 03 Aug 22 14:04:06 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -25624,6 +25624,7 @@
 0.0.0.0 ticcslbgu.top
 0.0.0.0 ticketcorpse.com
 0.0.0.0 ticketswinning.com
+0.0.0.0 tickleinclosetried.com
 0.0.0.0 tick-tock.net
 0.0.0.0 ticrite.com
 0.0.0.0 ticsandski.club

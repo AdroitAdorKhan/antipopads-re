@@ -20,8 +20,8 @@
 ! Version: 22.08.215
 ! Release: 215
 ! Expires: 1 day
-! Entries: 31,277
-! Updated: Wed, 03 Aug 22 12:04:34 +06
+! Entries: 31,278
+! Updated: Wed, 03 Aug 22 14:04:06 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -25625,6 +25625,7 @@
 ||ticcslbgu.top^
 ||ticketcorpse.com^
 ||ticketswinning.com^
+||tickleinclosetried.com^
 ||tick-tock.net^
 ||ticrite.com^
 ||ticsandski.club^
