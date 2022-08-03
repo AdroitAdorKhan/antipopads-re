@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.215
 # Release: 215
-# Entries: 31,275
-# Updated: Wed, 03 Aug 22 10:03:55 +06
+# Entries: 31,277
+# Updated: Wed, 03 Aug 22 12:04:34 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13735,6 +13735,7 @@
 0.0.0.0 jouwaist.net
 0.0.0.0 joycreatorheader.com
 0.0.0.0 joyekepus.online
+0.0.0.0 joyfuldwight.com
 0.0.0.0 joyfullysacrificeralph.com
 0.0.0.0 joyhaftsyears.com
 0.0.0.0 joymopwrites.com
@@ -15969,6 +15970,7 @@
 0.0.0.0 materialfirearm.com
 0.0.0.0 materialisticfan.com
 0.0.0.0 materialisticinformal.com
+0.0.0.0 maternalhi.com
 0.0.0.0 matevictim.com
 0.0.0.0 mathafuda.pro
 0.0.0.0 mathcvkonapk.xyz

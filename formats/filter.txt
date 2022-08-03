@@ -20,8 +20,8 @@
 ! Version: 22.08.215
 ! Release: 215
 ! Expires: 1 day
-! Entries: 31,275
-! Updated: Wed, 03 Aug 22 10:03:55 +06
+! Entries: 31,277
+! Updated: Wed, 03 Aug 22 12:04:34 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -13736,6 +13736,7 @@
 ||jouwaist.net^
 ||joycreatorheader.com^
 ||joyekepus.online^
+||joyfuldwight.com^
 ||joyfullysacrificeralph.com^
 ||joyhaftsyears.com^
 ||joymopwrites.com^
@@ -15970,6 +15971,7 @@
 ||materialfirearm.com^
 ||materialisticfan.com^
 ||materialisticinformal.com^
+||maternalhi.com^
 ||matevictim.com^
 ||mathafuda.pro^
 ||mathcvkonapk.xyz^
