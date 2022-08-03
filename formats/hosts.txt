@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.215
 # Release: 215
-# Entries: 31,285
-# Updated: Wed, 03 Aug 22 20:05:13 +06
+# Entries: 31,288
+# Updated: Wed, 03 Aug 22 22:03:30 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10083,6 +10083,7 @@
 0.0.0.0 gadrepsy.com
 0.0.0.0 gadsabs.com
 0.0.0.0 gadsabz.com
+0.0.0.0 gadsatz.com
 0.0.0.0 gadsecs.com
 0.0.0.0 gadsecz.com
 0.0.0.0 gadsims.com
@@ -20215,6 +20216,7 @@
 0.0.0.0 pqztggmplviyxy.com
 0.0.0.0 practeddagek.club
 0.0.0.0 practicableperiodicabrupt.com
+0.0.0.0 practicallysacrificestock.com
 0.0.0.0 practimplete.club
 0.0.0.0 practisecolander.com
 0.0.0.0 practitionermonsieurstable.com
@@ -23256,6 +23258,7 @@
 0.0.0.0 seminarpoorlyconceive.com
 0.0.0.0 seminartacticshiking.com
 0.0.0.0 semirawbatter.com
+0.0.0.0 semjurljffawpt.com
 0.0.0.0 semoit.com
 0.0.0.0 sempcxjajh.com
 0.0.0.0 semsicou.net
