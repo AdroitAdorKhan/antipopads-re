@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.215
 # Release: 215
-# Entries: 31,284
-# Updated: Wed, 03 Aug 22 18:05:47 +06
+# Entries: 31,285
+# Updated: Wed, 03 Aug 22 20:05:13 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -26956,6 +26956,7 @@
 0.0.0.0 uohcbjeck.xyz
 0.0.0.0 uohtnfdrnhqyc.com
 0.0.0.0 uojjpevjusfoidc.com
+0.0.0.0 uomsogicgi.com
 0.0.0.0 uonhokcav.xyz
 0.0.0.0 uooqpwkjxeryj.com
 0.0.0.0 uopmcdnpad.com
