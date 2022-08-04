@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.216
 # Release: 216
-# Entries: 31,297
-# Updated: Thu, 04 Aug 22 04:04:57 +06
+# Entries: 31,299
+# Updated: Thu, 04 Aug 22 06:03:40 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15937,6 +15937,7 @@
 0.0.0.0 markmansonbooklst.com
 0.0.0.0 markofathenaluk.com
 0.0.0.0 markreptiloid.com
+0.0.0.0 markshospitalitymoist.com
 0.0.0.0 markskernelrecorder.com
 0.0.0.0 marphezis.com
 0.0.0.0 marshalmosquito.com
@@ -16670,6 +16671,7 @@
 0.0.0.0 momentumviable.com
 0.0.0.0 momijoy.ru
 0.0.0.0 momknewjgbhr.top
+0.0.0.0 mommygravelyslime.com
 0.0.0.0 monadplug.com
 0.0.0.0 monad-rtb.com
 0.0.0.0 monarchypainting.com
