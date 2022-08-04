@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.08.216
-# Release: 216
-# Entries: 31,351
-# Updated: Thu, 04 Aug 22 22:02:37 +06
+# Version: 22.08.217
+# Release: 217
+# Entries: 31,357
+# Updated: Fri, 05 Aug 22 00:06:41 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1040,6 +1040,7 @@
 0.0.0.0 adsafety.net
 0.0.0.0 adsagony.com
 0.0.0.0 adsame.com
+0.0.0.0 adsandcomputer.com
 0.0.0.0 adsblockkpush.com
 0.0.0.0 adsbreak.com
 0.0.0.0 adsbr.info
@@ -9050,6 +9051,7 @@
 0.0.0.0 faultsspeck.com
 0.0.0.0 faunlesnuff.co
 0.0.0.0 faupikou.com
+0.0.0.0 faused.com
 0.0.0.0 favillafarine.com
 0.0.0.0 favorapologizingpipe.com
 0.0.0.0 favoriteruffle.com
@@ -10880,6 +10882,7 @@
 0.0.0.0 gorskprof2it8og09.com
 0.0.0.0 goscsbefotbxy.com
 0.0.0.0 gosechqofbxlgc.com
+0.0.0.0 goshbiopsy.com
 0.0.0.0 goshcries.com
 0.0.0.0 goshooph.com
 0.0.0.0 gosnomlgisblss.top
@@ -21770,6 +21773,7 @@
 0.0.0.0 receiptfastestparameter.com
 0.0.0.0 receitasefinancas.com
 0.0.0.0 receivedealer.com
+0.0.0.0 receme.com
 0.0.0.0 recentinteriorcrab.com
 0.0.0.0 recentlycollectannihilate.com
 0.0.0.0 recentlyunknowninterested.com
@@ -22952,6 +22956,7 @@
 0.0.0.0 safukfnot.com
 0.0.0.0 safwjxsqvm.com
 0.0.0.0 sagaciousofferingulcer.com
+0.0.0.0 saggrowledetc.com
 0.0.0.0 sagloops.com
 0.0.0.0 sagroagh.com
 0.0.0.0 sahfucdysloguyg.xyz
@@ -24834,6 +24839,7 @@
 0.0.0.0 succeedscene.com
 0.0.0.0 successcompassion.com
 0.0.0.0 successfulpatience.com
+0.0.0.0 successionflimsy.com
 0.0.0.0 successivebaby.com
 0.0.0.0 suchshame.com
 0.0.0.0 sucloe.com
