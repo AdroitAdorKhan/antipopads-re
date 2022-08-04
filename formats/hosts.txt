@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.217
 # Release: 217
-# Entries: 31,357
-# Updated: Fri, 05 Aug 22 00:06:41 +06
+# Entries: 31,358
+# Updated: Fri, 05 Aug 22 04:04:49 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20785,6 +20785,7 @@
 0.0.0.0 pubasks.com
 0.0.0.0 pubdirecte.com
 0.0.0.0 pubejjvfojvo.com
+0.0.0.0 pubfruitlesswording.com
 0.0.0.0 pubhfmoiduywgrl.me
 0.0.0.0 pubhotmax.com
 0.0.0.0 publiclysexistvisibility.com
