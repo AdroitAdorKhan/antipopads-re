@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.216
 # Release: 216
-# Entries: 31,302
-# Updated: Thu, 04 Aug 22 12:04:42 +06
+# Entries: 31,303
+# Updated: Thu, 04 Aug 22 14:03:24 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -3867,6 +3867,7 @@
 :: bradleybackwards.com
 :: braggingreorganizeunderworld.com
 :: bragpsychicsophomore.com
+:: bragram-clarlie.com
 :: braidroll.com
 :: brainian.club
 :: brainient.com
