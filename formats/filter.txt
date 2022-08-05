@@ -20,8 +20,8 @@
 ! Version: 22.08.217
 ! Release: 217
 ! Expires: 1 day
-! Entries: 31,378
-! Updated: Fri, 05 Aug 22 08:05:59 +06
+! Entries: 31,379
+! Updated: Fri, 05 Aug 22 10:06:27 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -236,6 +236,7 @@
 ||360protected.com^
 ||362b643a66026e.com^
 ||366b662cf9.com^
+||368.rocks^
 ||36a5b7eb2808.com^
 ||36c00e71c2df28.com^
 ||3761fcd24ef9281f5.com^
