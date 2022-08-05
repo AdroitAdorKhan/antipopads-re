@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.217
 # Release: 217
-# Entries: 31,386
-# Updated: Fri, 05 Aug 22 18:04:38 +06
+# Entries: 31,389
+# Updated: Fri, 05 Aug 22 20:04:02 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15164,6 +15164,7 @@
 0.0.0.0 lightlycauldron.com
 0.0.0.0 lightlygavetusk.com
 0.0.0.0 lightlyrelinquish.com
+0.0.0.0 lightningbarrelwretch.com
 0.0.0.0 lightningcast.net
 0.0.0.0 lightningprefacegrant.com
 0.0.0.0 ligninenchant.com
@@ -16350,6 +16351,7 @@
 0.0.0.0 mgbid.net
 0.0.0.0 mgcash.com
 0.0.0.0 mgcashgate.com
+0.0.0.0 mgcicjfqyfik.com
 0.0.0.0 mgdxsqypqtv.com
 0.0.0.0 mgfakbndoxe.com
 0.0.0.0 mggckhjvtgc.top
@@ -18720,6 +18722,7 @@
 0.0.0.0 oottjaxnyuqt.top
 0.0.0.0 oouggjayokzx.com
 0.0.0.0 oovoarsy.net
+0.0.0.0 oovofcsyxayy.com
 0.0.0.0 oowelamdgta.com
 0.0.0.0 ooxoatse.com
 0.0.0.0 ooxvlnoxugx.com
