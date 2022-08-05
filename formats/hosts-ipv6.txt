@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.08.217
-# Release: 217
-# Entries: 31,389
-# Updated: Fri, 05 Aug 22 20:04:02 +06
+# Version: 22.08.218
+# Release: 218
+# Entries: 31,390
+# Updated: Sat, 06 Aug 22 00:06:09 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -14056,6 +14056,7 @@
 :: kaiheeci.com
 :: kaikmumms.com
 :: kaiphapt.net
+:: kaisaimy.net
 :: kaiu-marketing.com
 :: kaiwiciy.net
 :: kaiyeuwtyjrjpx.top
