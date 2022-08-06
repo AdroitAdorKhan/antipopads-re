@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.218
 # Release: 218
-# Entries: 31,445
-# Updated: Sat, 06 Aug 22 16:04:29 +06
+# Entries: 31,446
+# Updated: Sat, 06 Aug 22 18:03:21 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14559,6 +14559,7 @@
 0.0.0.0 kowajeed.com
 0.0.0.0 koxeebee.net
 0.0.0.0 koyawtoqfcbg.com
+0.0.0.0 kozuyzcciaygg.com
 0.0.0.0 kpenohtwhqtnmpg.top
 0.0.0.0 kphibkusvvbx.top
 0.0.0.0 kpmmthnpqoc.xyz
