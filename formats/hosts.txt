@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.218
 # Release: 218
-# Entries: 31,446
-# Updated: Sat, 06 Aug 22 18:03:21 +06
+# Entries: 31,449
+# Updated: Sat, 06 Aug 22 20:03:29 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1566,6 +1566,7 @@
 0.0.0.0 aj2373.online
 0.0.0.0 aj2397.online
 0.0.0.0 aj2430.online
+0.0.0.0 aj2495.online
 0.0.0.0 ajagrofy.com
 0.0.0.0 ajarsubscriber.com
 0.0.0.0 ajbqxivmdl.xyz
@@ -9329,6 +9330,7 @@
 0.0.0.0 fiercedental.com
 0.0.0.0 fierceharmlessjacket.com
 0.0.0.0 fierymanurepebble.com
+0.0.0.0 fieslobwg.com
 0.0.0.0 fifoyegflivpk.com
 0.0.0.0 fifteenprefixselfemployed.com
 0.0.0.0 fifteenthdesirenavel.com
@@ -10434,6 +10436,7 @@
 0.0.0.0 getsweetlady1.com
 0.0.0.0 getterobes.cam
 0.0.0.0 gettingtoe.com
+0.0.0.0 gettopple.com
 0.0.0.0 gettraffnews.com
 0.0.0.0 getuivfoteyp.top
 0.0.0.0 getviplocals1.com
