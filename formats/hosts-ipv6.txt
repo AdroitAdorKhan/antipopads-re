@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.08.218
-# Release: 218
-# Entries: 31,451
-# Updated: Sat, 06 Aug 22 22:05:21 +06
+# Version: 22.08.219
+# Release: 219
+# Entries: 31,452
+# Updated: Sun, 07 Aug 22 00:03:40 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -17615,6 +17615,7 @@
 :: nichools.com
 :: nichrnmxrlplt.com
 :: nickeeha.net
+:: nicknameuntie.com
 :: nicksstevmark.com
 :: nicmitosasm.top
 :: nicmoomp.net
