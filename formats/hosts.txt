@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.218
 # Release: 218
-# Entries: 31,434
-# Updated: Sat, 06 Aug 22 10:03:00 +06
+# Entries: 31,435
+# Updated: Sat, 06 Aug 22 14:03:24 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29890,6 +29890,7 @@
 0.0.0.0 www.sidelinesibilant.com
 0.0.0.0 www.siftshortagepopped.com
 0.0.0.0 www.significantoperativeclearance.com
+0.0.0.0 www.silldisappoint.com
 0.0.0.0 www.simbolslot.biz
 0.0.0.0 www.simbolslot.me
 0.0.0.0 www.sinceclairvoyant.com
