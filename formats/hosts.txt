@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.218
 # Release: 218
-# Entries: 31,449
-# Updated: Sat, 06 Aug 22 20:03:29 +06
+# Entries: 31,451
+# Updated: Sat, 06 Aug 22 22:05:21 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -23797,6 +23797,7 @@
 0.0.0.0 silkymalgr.casa
 0.0.0.0 silldisappoint.com
 0.0.0.0 sillinessinterfere.com
+0.0.0.0 sillinesswoollen.com
 0.0.0.0 silloflippo.casa
 0.0.0.0 sillpotentialventilator.com
 0.0.0.0 sillrochester.com
@@ -25118,6 +25119,7 @@
 0.0.0.0 swdlxrsm.com
 0.0.0.0 sweaterwarmly.com
 0.0.0.0 sweatrepercussionpatio.com
+0.0.0.0 sweatyrounded.com
 0.0.0.0 sweatyuprisingshut.com
 0.0.0.0 sweatywakelack.com
 0.0.0.0 sweepawejasper.com
