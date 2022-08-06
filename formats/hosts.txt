@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.218
 # Release: 218
-# Entries: 31,390
-# Updated: Sat, 06 Aug 22 00:06:09 +06
+# Entries: 31,392
+# Updated: Sat, 06 Aug 22 06:02:52 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -21636,6 +21636,7 @@
 0.0.0.0 rareinsane.com
 0.0.0.0 rarelyassortpanel.com
 0.0.0.0 rarseene.com
+0.0.0.0 rashersingle.com
 0.0.0.0 raspberryareaurge.com
 0.0.0.0 raspberrybenefactor.com
 0.0.0.0 raspcontagious.com
@@ -23416,6 +23417,7 @@
 0.0.0.0 setmeg.com
 0.0.0.0 setoyourad.biz
 0.0.0.0 setpadchat.com
+0.0.0.0 setsdowntown.com
 0.0.0.0 settlecohort.com
 0.0.0.0 settledbroadcastabound.com
 0.0.0.0 settledchagrinpass.com
