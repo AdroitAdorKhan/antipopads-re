@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.219
 # Release: 219
-# Entries: 31,466
-# Updated: Sun, 07 Aug 22 16:03:57 +06
+# Entries: 31,467
+# Updated: Sun, 07 Aug 22 20:04:47 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1931,6 +1931,7 @@
 0.0.0.0 annotationcoinboiled.com
 0.0.0.0 annotationpushy.com
 0.0.0.0 annotationsolely.com
+0.0.0.0 annotationwednesdayplayground.com
 0.0.0.0 announceproposition.com
 0.0.0.0 annoynoveltyeel.com
 0.0.0.0 annual-gamers-choice.com

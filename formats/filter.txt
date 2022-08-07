@@ -20,8 +20,8 @@
 ! Version: 22.08.219
 ! Release: 219
 ! Expires: 1 day
-! Entries: 31,466
-! Updated: Sun, 07 Aug 22 16:03:57 +06
+! Entries: 31,467
+! Updated: Sun, 07 Aug 22 20:04:47 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -1932,6 +1932,7 @@
 ||annotationcoinboiled.com^
 ||annotationpushy.com^
 ||annotationsolely.com^
+||annotationwednesdayplayground.com^
 ||announceproposition.com^
 ||annoynoveltyeel.com^
 ||annual-gamers-choice.com^
