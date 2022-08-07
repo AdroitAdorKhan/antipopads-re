@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.219
 # Release: 219
-# Entries: 31,464
-# Updated: Sun, 07 Aug 22 14:03:00 +06
+# Entries: 31,466
+# Updated: Sun, 07 Aug 22 16:03:57 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -17854,6 +17854,7 @@
 0.0.0.0 northernintimate.com
 0.0.0.0 northinmatedepression.com
 0.0.0.0 northmay.com
+0.0.0.0 northokaydesert.com
 0.0.0.0 northtariffgallon.com
 0.0.0.0 northwestlegendary.com
 0.0.0.0 northyap.com
@@ -24833,6 +24834,7 @@
 0.0.0.0 stributedefy.xyz
 0.0.0.0 strickenenergetic.com
 0.0.0.0 strictlyglobe.com
+0.0.0.0 strideneedlework.com
 0.0.0.0 strikeadulteryresound.com
 0.0.0.0 strikeoffer.com
 0.0.0.0 stripseamanacknowledge.com
