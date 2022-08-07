@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.219
 # Release: 219
-# Entries: 31,452
-# Updated: Sun, 07 Aug 22 00:03:40 +06
+# Entries: 31,455
+# Updated: Sun, 07 Aug 22 08:03:43 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29481,6 +29481,7 @@
 0.0.0.0 www.hairoak.com
 0.0.0.0 www.hajoopteg.com
 0.0.0.0 www.hallucinatecompute.com
+0.0.0.0 www.hallucinatepromise.com
 0.0.0.0 www.handymansurrender.com
 0.0.0.0 www.happeningturbandisorganized.com
 0.0.0.0 www.harmonycanyon.com
@@ -29891,6 +29892,7 @@
 0.0.0.0 www.sentineldiscordmm.com
 0.0.0.0 www.seoteam.marketing
 0.0.0.0 www.separatecolonist.com
+0.0.0.0 www.serialwarning.com
 0.0.0.0 www.sewingdoubtlessperch.com
 0.0.0.0 www.sewingfibber.com
 0.0.0.0 www.sexiststurdygather.com
@@ -30102,6 +30104,7 @@
 0.0.0.0 www.velior.ru
 0.0.0.0 www.venisonchemistrydeclared.com
 0.0.0.0 www.venisonhumridicule.com
+0.0.0.0 www.verandahcrease.com
 0.0.0.0 www.versionsgratersteward.com
 0.0.0.0 www.verycastle.com
 0.0.0.0 www.vexturkeyupbrining.com
