@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.08.221
-# Release: 221
-# Entries: 31,500
-# Updated: Tue, 09 Aug 22 16:05:36 +06
+# Version: 22.08.222
+# Release: 222
+# Entries: 31,501
+# Updated: Wed, 10 Aug 22 02:04:47 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -18291,6 +18291,7 @@
 0.0.0.0 objectedsheetrobin.com
 0.0.0.0 objectionsdomesticatednagging.com
 0.0.0.0 objectivestimereproduce.pw
+0.0.0.0 objectlesscowerfuzzy.com
 0.0.0.0 objectsentrust.com
 0.0.0.0 obligationmelonvase.com
 0.0.0.0 obligationsovereign.com
