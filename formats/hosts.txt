@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.221
 # Release: 221
-# Entries: 31,499
-# Updated: Tue, 09 Aug 22 10:02:58 +06
+# Entries: 31,500
+# Updated: Tue, 09 Aug 22 16:05:36 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9188,6 +9188,7 @@
 0.0.0.0 federalcertainty.com
 0.0.0.0 federallissimus.casa
 0.0.0.0 fedethezo.pro
+0.0.0.0 fedistelsfloungela.com
 0.0.0.0 fedrocou.net
 0.0.0.0 fedsit.com
 0.0.0.0 feduthobi.com
