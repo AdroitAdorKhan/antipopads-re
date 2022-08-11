@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.223
 # Release: 223
-# Entries: 31,533
-# Updated: Thu, 11 Aug 22 10:02:39 +06
+# Entries: 31,534
+# Updated: Thu, 11 Aug 22 18:03:50 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16525,6 +16525,7 @@
 0.0.0.0 mindactual.com
 0.0.0.0 mindedcarious.com
 0.0.0.0 minderreconnect.com
+0.0.0.0 mindlessslogan.com
 0.0.0.0 minefieldwanderinghelped.com
 0.0.0.0 minently.com
 0.0.0.0 mineralscreamrobes.com
