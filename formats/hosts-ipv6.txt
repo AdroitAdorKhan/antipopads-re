@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.224
 # Release: 224
-# Entries: 31,538
-# Updated: Fri, 12 Aug 22 08:05:45 +06
+# Entries: 31,541
+# Updated: Fri, 12 Aug 22 16:07:11 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -11704,7 +11704,9 @@
 :: hetaint.com
 :: hetapugs.com
 :: hetapus.com
+:: hetariwg.com
 :: hetartwg.com
+:: hetarust.com
 :: hetaruvg.com
 :: hetaruwg.com
 :: hethereasso.top
@@ -29920,6 +29922,7 @@
 :: www.residentialsize.com
 :: www.restaurantbubblerub.com
 :: www.restorationbowelsunflower.com
+:: www.resultulterior.com
 :: www.retainstorkloin.com
 :: www.retrillthylsber.gq
 :: www.revealedsolid.com

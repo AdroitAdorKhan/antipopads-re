@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.224
 # Release: 224
-# Entries: 31,538
-# Updated: Fri, 12 Aug 22 08:05:45 +06
+# Entries: 31,541
+# Updated: Fri, 12 Aug 22 16:07:11 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11704,7 +11704,9 @@
 0.0.0.0 hetaint.com
 0.0.0.0 hetapugs.com
 0.0.0.0 hetapus.com
+0.0.0.0 hetariwg.com
 0.0.0.0 hetartwg.com
+0.0.0.0 hetarust.com
 0.0.0.0 hetaruvg.com
 0.0.0.0 hetaruwg.com
 0.0.0.0 hethereasso.top
@@ -29920,6 +29922,7 @@
 0.0.0.0 www.residentialsize.com
 0.0.0.0 www.restaurantbubblerub.com
 0.0.0.0 www.restorationbowelsunflower.com
+0.0.0.0 www.resultulterior.com
 0.0.0.0 www.retainstorkloin.com
 0.0.0.0 www.retrillthylsber.gq
 0.0.0.0 www.revealedsolid.com
