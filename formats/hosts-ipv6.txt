@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.08.223
-# Release: 223
-# Entries: 31,536
-# Updated: Thu, 11 Aug 22 20:04:53 +06
+# Version: 22.08.224
+# Release: 224
+# Entries: 31,537
+# Updated: Fri, 12 Aug 22 06:02:59 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -28390,6 +28390,7 @@
 :: wautoosa.net
 :: wavail.com
 :: waveclks.com
+:: wavermerchandiseweird.com
 :: wavermigraineuncle.com
 :: waveteenager.com
 :: wavysumatone.cam
