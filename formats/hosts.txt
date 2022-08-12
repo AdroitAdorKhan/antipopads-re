@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.224
 # Release: 224
-# Entries: 31,537
-# Updated: Fri, 12 Aug 22 06:02:59 +06
+# Entries: 31,538
+# Updated: Fri, 12 Aug 22 08:05:45 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -21938,6 +21938,7 @@
 0.0.0.0 red-direct-n.com
 0.0.0.0 reddsdainful.com
 0.0.0.0 redeemcodes.me
+0.0.0.0 redeemspectacular.com
 0.0.0.0 redewdit.pro
 0.0.0.0 redirect2719.ws
 0.0.0.0 redlele.com
