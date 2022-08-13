@@ -20,8 +20,8 @@
 ! Version: 22.08.225
 ! Release: 225
 ! Expires: 1 day
-! Entries: 31,597
-! Updated: Sat, 13 Aug 22 10:02:31 +06
+! Entries: 31,601
+! Updated: Sat, 13 Aug 22 12:04:10 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -19327,7 +19327,10 @@
 ||pagne4cham4hrobl.com^
 ||pagnookr.net^
 ||pahoqjlnlljynj.top^
+||pahtef.tech^
+||pahtgq.tech^
 ||pahthf.tech^
+||pahtky.tech^
 ||paht.tech^
 ||pahtwt.tech^
 ||pahtzh.tech^
@@ -23539,6 +23542,7 @@
 ||serverbid.com^
 ||serverscurtain.com^
 ||serversfrenchruse.com^
+||servg1.net^
 ||servicecouplemagpie.com^
 ||servicegetbook.net^
 ||servicesrc.org^

@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.225
 # Release: 225
-# Entries: 31,597
-# Updated: Sat, 13 Aug 22 10:02:31 +06
+# Entries: 31,601
+# Updated: Sat, 13 Aug 22 12:04:10 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19326,7 +19326,10 @@
 0.0.0.0 pagne4cham4hrobl.com
 0.0.0.0 pagnookr.net
 0.0.0.0 pahoqjlnlljynj.top
+0.0.0.0 pahtef.tech
+0.0.0.0 pahtgq.tech
 0.0.0.0 pahthf.tech
+0.0.0.0 pahtky.tech
 0.0.0.0 paht.tech
 0.0.0.0 pahtwt.tech
 0.0.0.0 pahtzh.tech
@@ -23538,6 +23541,7 @@
 0.0.0.0 serverbid.com
 0.0.0.0 serverscurtain.com
 0.0.0.0 serversfrenchruse.com
+0.0.0.0 servg1.net
 0.0.0.0 servicecouplemagpie.com
 0.0.0.0 servicegetbook.net
 0.0.0.0 servicesrc.org
