@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.225
 # Release: 225
-# Entries: 31,603
-# Updated: Sat, 13 Aug 22 16:04:45 +06
+# Entries: 31,604
+# Updated: Sat, 13 Aug 22 22:03:12 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -26672,6 +26672,7 @@
 0.0.0.0 tweakdisguisesapplications.com
 0.0.0.0 tweakostensibleinstaller.com
 0.0.0.0 tweestagamis.com
+0.0.0.0 twelfthdistasteful.com
 0.0.0.0 twentiesbarton.com
 0.0.0.0 twentieslegislation.com
 0.0.0.0 twentycolander.com
