@@ -20,8 +20,8 @@
 ! Version: 22.08.225
 ! Release: 225
 ! Expires: 1 day
-! Entries: 31,601
-! Updated: Sat, 13 Aug 22 12:04:10 +06
+! Entries: 31,602
+! Updated: Sat, 13 Aug 22 14:03:01 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -5506,6 +5506,7 @@
 ||competitivediscontent.com^
 ||compileformality.com^
 ||compiletormentboats.com^
+||complainfriendshipperry.com^
 ||complainlapseobserve.com^
 ||complementconversation.com^
 ||completedmisunderstand.com^
