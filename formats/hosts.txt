@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.225
 # Release: 225
-# Entries: 31,602
-# Updated: Sat, 13 Aug 22 14:03:01 +06
+# Entries: 31,603
+# Updated: Sat, 13 Aug 22 16:04:45 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11080,6 +11080,7 @@
 0.0.0.0 grauwaiw.com
 0.0.0.0 gravellocus.com
 0.0.0.0 gravelringer.com
+0.0.0.0 graveltemper.com
 0.0.0.0 gravelycontainsstruggle.com
 0.0.0.0 gravelyelectricthicket.com
 0.0.0.0 gravertoyons.com

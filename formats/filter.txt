@@ -20,8 +20,8 @@
 ! Version: 22.08.225
 ! Release: 225
 ! Expires: 1 day
-! Entries: 31,602
-! Updated: Sat, 13 Aug 22 14:03:01 +06
+! Entries: 31,603
+! Updated: Sat, 13 Aug 22 16:04:45 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -11081,6 +11081,7 @@
 ||grauwaiw.com^
 ||gravellocus.com^
 ||gravelringer.com^
+||graveltemper.com^
 ||gravelycontainsstruggle.com^
 ||gravelyelectricthicket.com^
 ||gravertoyons.com^
