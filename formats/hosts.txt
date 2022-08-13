@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.225
 # Release: 225
-# Entries: 31,589
-# Updated: Sat, 13 Aug 22 08:04:56 +06
+# Entries: 31,597
+# Updated: Sat, 13 Aug 22 10:02:31 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2816,6 +2816,7 @@
 0.0.0.0 backwardchampionship.com
 0.0.0.0 backwardkneesencroach.com
 0.0.0.0 baconaces.pro
+0.0.0.0 baconclank.com
 0.0.0.0 badgirlz.org
 0.0.0.0 badjocks.com
 0.0.0.0 badlybouncing.com
@@ -4946,6 +4947,7 @@
 0.0.0.0 chopstick16.com
 0.0.0.0 choptacache.com
 0.0.0.0 chordeez.net
+0.0.0.0 chordscootinsecure.com
 0.0.0.0 chosensoothespeechless.com
 0.0.0.0 choseoffhandsight.com
 0.0.0.0 chosesleptcattish.com
@@ -6716,6 +6718,7 @@
 0.0.0.0 derbodilehe.top
 0.0.0.0 derevya2sh8ka09.com
 0.0.0.0 derhavious.space
+0.0.0.0 deridebleatacheless.com
 0.0.0.0 derideshuttle.com
 0.0.0.0 deriv.com
 0.0.0.0 deriveseparatelycaptivity.com
@@ -8876,6 +8879,7 @@
 0.0.0.0 exportspring.com
 0.0.0.0 exposuremixed.com
 0.0.0.0 expresentc.top
+0.0.0.0 expressinghomemade.com
 0.0.0.0 expressvampire.com
 0.0.0.0 expressweasellanded.com
 0.0.0.0 expresswebtraffic.com
@@ -18788,6 +18792,7 @@
 0.0.0.0 onwasrv.com
 0.0.0.0 onwiolsqefxn.com
 0.0.0.0 onxquxhoygaji.com
+0.0.0.0 oo00.biz
 0.0.0.0 oobmgckvtcrctc.xyz
 0.0.0.0 ooboulry.net
 0.0.0.0 oocevdwyruhdi.info
@@ -18837,6 +18842,8 @@
 0.0.0.0 ooxvlnoxugx.com
 0.0.0.0 oozrsmpieq.com
 0.0.0.0 oozyunmix.com
+0.0.0.0 op01.biz
+0.0.0.0 op02.biz
 0.0.0.0 opawyzoh.xyz
 0.0.0.0 opcharizardon.com
 0.0.0.0 opchikoritar.com
@@ -19412,6 +19419,7 @@
 0.0.0.0 parringepigene.com
 0.0.0.0 parrynapa.com
 0.0.0.0 partchances.com
+0.0.0.0 partedgirlie.com
 0.0.0.0 parth2enerocis9tsust2ricus7pidata.com
 0.0.0.0 parthanonstatue.com
 0.0.0.0 participatesoninlaw.com
