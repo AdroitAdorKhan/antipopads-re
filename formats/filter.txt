@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.08.225
-! Release: 225
+! Version: 22.08.226
+! Release: 226
 ! Expires: 1 day
-! Entries: 31,604
-! Updated: Sat, 13 Aug 22 22:03:12 +06
+! Entries: 31,605
+! Updated: Sun, 14 Aug 22 06:03:22 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -5410,6 +5410,7 @@
 ||collectorearnammonia.com^
 ||collectrom.com^
 ||collectrum.com^
+||collenwhr.website^
 ||colletsopelu.cam^
 ||collidetunnel.com^
 ||colliersads.com^
