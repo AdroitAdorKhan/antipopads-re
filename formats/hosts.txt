@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.226
 # Release: 226
-# Entries: 31,605
-# Updated: Sun, 14 Aug 22 06:03:22 +06
+# Entries: 31,607
+# Updated: Sun, 14 Aug 22 08:05:20 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12300,6 +12300,7 @@
 0.0.0.0 hullroleifs.com
 0.0.0.0 huluads.info
 0.0.0.0 huluruiner.com
+0.0.0.0 humaffableconsulate.com
 0.0.0.0 humanlikeads.com
 0.0.0.0 humansons.com
 0.0.0.0 humbugplanning.com
@@ -19649,6 +19650,7 @@
 0.0.0.0 pendulumtemporary.com
 0.0.0.0 penetrateinstalmentfacial.com
 0.0.0.0 penitentamaze.com
+0.0.0.0 penitentarduous.com
 0.0.0.0 penitentiaryoverdosetumble.com
 0.0.0.0 penjazzvice.com
 0.0.0.0 penkillingapathy.com
