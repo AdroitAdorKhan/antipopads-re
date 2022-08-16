@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.08.227
-! Release: 227
+! Version: 22.08.228
+! Release: 228
 ! Expires: 1 day
-! Entries: 31,613
-! Updated: Mon, 15 Aug 22 08:06:13 +06
+! Entries: 31,614
+! Updated: Tue, 16 Aug 22 06:02:47 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -28456,6 +28456,7 @@
 ||waterproofsparkle.com^
 ||wateryvan.com^
 ||watgzh.com^
+||watwait.com^
 ||waugeboa.net^
 ||waugique.net^
 ||waust.at^

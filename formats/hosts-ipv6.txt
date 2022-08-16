@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.08.227
-# Release: 227
-# Entries: 31,613
-# Updated: Mon, 15 Aug 22 08:06:13 +06
+# Version: 22.08.228
+# Release: 228
+# Entries: 31,614
+# Updated: Tue, 16 Aug 22 06:02:47 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -28455,6 +28455,7 @@
 :: waterproofsparkle.com
 :: wateryvan.com
 :: watgzh.com
+:: watwait.com
 :: waugeboa.net
 :: waugique.net
 :: waust.at
