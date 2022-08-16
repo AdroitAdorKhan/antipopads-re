@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.228
 # Release: 228
-# Entries: 31,614
-# Updated: Tue, 16 Aug 22 06:02:47 +06
+# Entries: 31,615
+# Updated: Tue, 16 Aug 22 08:06:02 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4357,6 +4357,7 @@
 0.0.0.0 cakbfcbhrsghp.top
 0.0.0.0 cakesinventory.com
 0.0.0.0 calabeshes.xyz
+0.0.0.0 calamityfortuneaudio.com
 0.0.0.0 calcch.com
 0.0.0.0 calcoh.com
 0.0.0.0 calculatorconceivenonetheless.com
