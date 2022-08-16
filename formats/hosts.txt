@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.228
 # Release: 228
-# Entries: 31,615
-# Updated: Tue, 16 Aug 22 08:06:02 +06
+# Entries: 31,616
+# Updated: Tue, 16 Aug 22 10:04:49 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9481,6 +9481,7 @@
 0.0.0.0 fitfulrigorous.com
 0.0.0.0 fitthings.info
 0.0.0.0 fittingcentermonday.com
+0.0.0.0 fittingcentermondaysunday.com
 0.0.0.0 fiurvxlhbedubky.top
 0.0.0.0 fiwhibse.com
 0.0.0.0 fiwlvtlrki.top
