@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.229
 # Release: 229
-# Entries: 31,664
-# Updated: Wed, 17 Aug 22 12:02:59 +06
+# Entries: 31,666
+# Updated: Wed, 17 Aug 22 16:05:48 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9772,6 +9772,7 @@
 0.0.0.0 forextuner.com
 0.0.0.0 forflygonom.com
 0.0.0.0 forfrogadiertor.com
+0.0.0.0 forgerylimit.com
 0.0.0.0 forgetfulpromptlyappointment.com
 0.0.0.0 forgivencardiac.com
 0.0.0.0 forgivenessdaresuck.com
@@ -16092,6 +16093,7 @@
 0.0.0.0 mapekony.com
 0.0.0.0 mapuchesystem.com
 0.0.0.0 maquiags.com
+0.0.0.0 maranet-deless.com
 0.0.0.0 marapcana.online
 0.0.0.0 marateathe.cam
 0.0.0.0 marathongenerositypremiere.com
