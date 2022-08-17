@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.229
 # Release: 229
-# Entries: 31,672
-# Updated: Wed, 17 Aug 22 20:04:58 +06
+# Entries: 31,685
+# Updated: Wed, 17 Aug 22 22:03:22 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1124,6 +1124,7 @@
 0.0.0.0 adstarget.net
 0.0.0.0 adstargets.com
 0.0.0.0 adstook.com
+0.0.0.0 adstopc.com
 0.0.0.0 adstripe.net
 0.0.0.0 adsupplyads.net
 0.0.0.0 adsupply.com
@@ -3558,6 +3559,7 @@
 0.0.0.0 blanketurban.com
 0.0.0.0 blastcahs.com
 0.0.0.0 blastieliatris.com
+0.0.0.0 blastsbigener.com
 0.0.0.0 blatwalm.com
 0.0.0.0 blazingswatstated.com
 0.0.0.0 blbppxychx.xyz
@@ -5258,6 +5260,7 @@
 0.0.0.0 clothetow.com
 0.0.0.0 clottedpowerlessmade.com
 0.0.0.0 cloudcdn.ml
+0.0.0.0 cloudcnfare.com
 0.0.0.0 clouddecrease.com
 0.0.0.0 cloudiiv.com
 0.0.0.0 cloudimagesa.com
@@ -7408,6 +7411,7 @@
 0.0.0.0 doxyspats.com
 0.0.0.0 doxyuqopqjjqwge.top
 0.0.0.0 doyygwch.com
+0.0.0.0 doz1it.com
 0.0.0.0 dozethiwho.com
 0.0.0.0 dozubatan.com
 0.0.0.0 dp25.kr
@@ -10680,6 +10684,7 @@
 0.0.0.0 gkksi.com
 0.0.0.0 gklnokovdaogcdr.com
 0.0.0.0 gkmriksh.xyz
+0.0.0.0 gkngokwjmykp.xyz
 0.0.0.0 gkommvhdl.top
 0.0.0.0 gkpohvff.com
 0.0.0.0 gkpvoebupht.com
@@ -12038,6 +12043,7 @@
 0.0.0.0 hollekeamboina.com
 0.0.0.0 hollercatastrophe.com
 0.0.0.0 hollowafterthought.com
+0.0.0.0 holptimawa.com
 0.0.0.0 holsedacityedacity.com
 0.0.0.0 holydelicatessen.com
 0.0.0.0 holyfrorosebud.com
@@ -16122,6 +16128,7 @@
 0.0.0.0 marketingexceptional.com
 0.0.0.0 marketinghinder.com
 0.0.0.0 marketstroy-msk.ru
+0.0.0.0 markkasgrosses.com
 0.0.0.0 markmansonbooklst.com
 0.0.0.0 markofathenaluk.com
 0.0.0.0 markreptiloid.com
@@ -17802,6 +17809,7 @@
 0.0.0.0 nkidwpmsfinygn.com
 0.0.0.0 nkjrybhnwbd.xyz
 0.0.0.0 nkmsite.com
+0.0.0.0 nknowledcon.one
 0.0.0.0 nkopechijkpgwpk.xyz
 0.0.0.0 nkredir.com
 0.0.0.0 nkrexnnmbl.com
@@ -18497,6 +18505,7 @@
 0.0.0.0 oesfriences.fun
 0.0.0.0 oeurckwhjp.top
 0.0.0.0 oevrqldtctum.top
+0.0.0.0 oextraordu.one
 0.0.0.0 oexubhtwvgxq.top
 0.0.0.0 oeyiamwpj.com
 0.0.0.0 ofapsrvepx.com
@@ -19425,6 +19434,7 @@
 0.0.0.0 paniccursor.com
 0.0.0.0 panicshaggy.com
 0.0.0.0 paniskbourdon.com
+0.0.0.0 pansymerbaby.com
 0.0.0.0 pantafives.com
 0.0.0.0 pantomimethat.com
 0.0.0.0 paoadkikxywwst.top
@@ -22694,6 +22704,7 @@
 0.0.0.0 robspabah.com
 0.0.0.0 robsyhfsoxnabk.xyz
 0.0.0.0 robustcutlery.com
+0.0.0.0 rocces.com
 0.0.0.0 rocenvixn.top
 0.0.0.0 rocexovo.com
 0.0.0.0 rockcloudspace.com
@@ -25916,6 +25927,7 @@
 0.0.0.0 throughhonouredhighest.com
 0.0.0.0 throughlavish.com
 0.0.0.0 throun.com
+0.0.0.0 thrube.com
 0.0.0.0 thrustdeadconsiderably.com
 0.0.0.0 thrustlumpypulse.com
 0.0.0.0 ths9j89.com
@@ -28471,6 +28483,7 @@
 0.0.0.0 waqool.com
 0.0.0.0 wardenchamberensue.com
 0.0.0.0 wardgrazeunarmed.com
+0.0.0.0 waredscots.casa
 0.0.0.0 warfareblameless.com
 0.0.0.0 wargerda.com
 0.0.0.0 warilyaggregation.com
