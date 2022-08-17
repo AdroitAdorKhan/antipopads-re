@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.229
 # Release: 229
-# Entries: 31,663
-# Updated: Wed, 17 Aug 22 06:03:41 +06
+# Entries: 31,664
+# Updated: Wed, 17 Aug 22 12:02:59 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -13966,6 +13966,7 @@
 :: jscdn.online
 :: jscloud.org
 :: jscount.com
+:: jsdelvr.com
 :: jsedeepuujv.com
 :: jsfeedadsget.com
 :: jsffosxqvrtgg.top
