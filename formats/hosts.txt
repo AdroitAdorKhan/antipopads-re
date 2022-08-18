@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.08.230
-# Release: 230
-# Entries: 31,715
-# Updated: Thu, 18 Aug 22 22:04:05 +06
+# Version: 22.08.231
+# Release: 231
+# Entries: 31,717
+# Updated: Fri, 19 Aug 22 00:06:17 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5822,6 +5822,7 @@
 0.0.0.0 cosimotable.pro
 0.0.0.0 cosmeticsgenerosity.com
 0.0.0.0 cosmicpartially.com
+0.0.0.0 cosmicplayer.app
 0.0.0.0 cosmicspecifiedovernight.com
 0.0.0.0 cosmjs.com
 0.0.0.0 cosmopolitisiez.website
@@ -10505,6 +10506,7 @@
 0.0.0.0 getiluda.com
 0.0.0.0 getinclinarss.xyz
 0.0.0.0 getit.am
+0.0.0.0 get-linea.app
 0.0.0.0 getlocalwoman1.com
 0.0.0.0 get-me-wow.in
 0.0.0.0 get-me-wow.xyz
