@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.230
 # Release: 230
-# Entries: 31,710
-# Updated: Thu, 18 Aug 22 12:04:44 +06
+# Entries: 31,715
+# Updated: Thu, 18 Aug 22 22:04:05 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2635,6 +2635,7 @@
 0.0.0.0 awardpodstab.com
 0.0.0.0 awardpool.com
 0.0.0.0 awarentew.xyz
+0.0.0.0 awasrqp.xyz
 0.0.0.0 awayimplemented.com
 0.0.0.0 away-stay.com
 0.0.0.0 awayteemage.com
@@ -9635,6 +9636,7 @@
 0.0.0.0 flounderdance.com
 0.0.0.0 flourlurefiction.com
 0.0.0.0 flowerbedfedpoultry.com
+0.0.0.0 flowerself.xyz
 0.0.0.0 flowln.com
 0.0.0.0 flownabbot.com
 0.0.0.0 flowndescendenttucked.com
@@ -12056,6 +12058,7 @@
 0.0.0.0 holiestcoseys.com
 0.0.0.0 hollekeamboina.com
 0.0.0.0 hollercatastrophe.com
+0.0.0.0 hollerscanelos.com
 0.0.0.0 hollowafterthought.com
 0.0.0.0 holptimawa.com
 0.0.0.0 holsedacityedacity.com
@@ -18023,6 +18026,7 @@
 0.0.0.0 notification.best
 0.0.0.0 notification-centar.com
 0.0.0.0 notification-list.com
+0.0.0.0 notifstar.com
 0.0.0.0 notify-guru.com
 0.0.0.0 notify-master.net
 0.0.0.0 notify-monad.com
@@ -22180,6 +22184,7 @@
 0.0.0.0 reignfusion.com
 0.0.0.0 reindaks.com
 0.0.0.0 reinformaln.top
+0.0.0.0 reinstandpointdumbest.com
 0.0.0.0 reiqwxxd.com
 0.0.0.0 reiseeget.com
 0.0.0.0 reitb.com
