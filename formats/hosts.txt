@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.231
 # Release: 231
-# Entries: 31,717
-# Updated: Fri, 19 Aug 22 00:06:17 +06
+# Entries: 31,719
+# Updated: Fri, 19 Aug 22 08:06:05 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10761,6 +10761,7 @@
 0.0.0.0 gleitmappy.com
 0.0.0.0 glekrush.com
 0.0.0.0 glelylute.com
+0.0.0.0 glenprejudice.com
 0.0.0.0 glentoast.com
 0.0.0.0 glephycyti.pro
 0.0.0.0 glersakr.com
@@ -28069,6 +28070,7 @@
 0.0.0.0 vjafttweylg.xyz
 0.0.0.0 vjavnaxcfnu.top
 0.0.0.0 vjavwsowtua.com
+0.0.0.0 vjdciu.com
 0.0.0.0 vjgenkfqjqng.com
 0.0.0.0 vjhguhewqn.xyz
 0.0.0.0 vjkpwjpuoxyimac.top
