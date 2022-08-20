@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.232
 # Release: 232
-# Entries: 31,748
-# Updated: Sat, 20 Aug 22 18:03:15 +06
+# Entries: 31,749
+# Updated: Sat, 20 Aug 22 20:02:58 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -22222,6 +22222,7 @@
 0.0.0.0 relappro.com
 0.0.0.0 relapsereflectedreplace.com
 0.0.0.0 relationshipregard.com
+0.0.0.0 relationsquiver.com
 0.0.0.0 relativefraudulentprop.com
 0.0.0.0 relaxingovercomeexaggerate.com
 0.0.0.0 relaxtime24.biz
