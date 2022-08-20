@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.08.231
-# Release: 231
-# Entries: 31,742
-# Updated: Fri, 19 Aug 22 16:05:58 +06
+# Version: 22.08.232
+# Release: 232
+# Entries: 31,745
+# Updated: Sat, 20 Aug 22 08:06:37 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7325,6 +7325,7 @@
 0.0.0.0 donescaffold.com
 0.0.0.0 doninjaskr.com
 0.0.0.0 donkeyrecentfaith.com
+0.0.0.0 donnotbipeds.com
 0.0.0.0 donort.com
 0.0.0.0 donttbeevils.de
 0.0.0.0 doobinooby.com
@@ -19473,6 +19474,7 @@
 0.0.0.0 pansymerbaby.com
 0.0.0.0 pantafives.com
 0.0.0.0 pantomimethat.com
+0.0.0.0 panyarspan.com
 0.0.0.0 paoadkikxywwst.top
 0.0.0.0 paonffgc.com
 0.0.0.0 papacityn.fun
@@ -24134,6 +24136,7 @@
 0.0.0.0 sjslvsuqcywrm.top
 0.0.0.0 sjtactic.com
 0.0.0.0 sjuqnahosjhy.xyz
+0.0.0.0 skatestooped.com
 0.0.0.0 skbwlqnnaspxa.com
 0.0.0.0 skenqaamefeoncfegrytbuvksebpefer.com
 0.0.0.0 sketchinferiorunits.com
