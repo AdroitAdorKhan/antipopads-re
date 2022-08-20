@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.232
 # Release: 232
-# Entries: 31,747
-# Updated: Sat, 20 Aug 22 12:02:38 +06
+# Entries: 31,748
+# Updated: Sat, 20 Aug 22 18:03:15 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29652,6 +29652,7 @@
 0.0.0.0 www.evcknbym.com
 0.0.0.0 www.evgywgur.com
 0.0.0.0 www.exchangediscreditmast.com
+0.0.0.0 www.exclamationresound.com
 0.0.0.0 www.excludepops.com
 0.0.0.0 www.exjozegvbaresw.com
 0.0.0.0 www.experimentmelting.com
