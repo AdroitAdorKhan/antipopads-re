@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.232
 # Release: 232
-# Entries: 31,745
-# Updated: Sat, 20 Aug 22 08:06:37 +06
+# Entries: 31,747
+# Updated: Sat, 20 Aug 22 12:02:38 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13319,6 +13319,7 @@
 0.0.0.0 iskkrmwivxfmdjwxme.bid
 0.0.0.0 islecolloquial.com
 0.0.0.0 isletachoisya.cam
+0.0.0.0 ismartdaily.com
 0.0.0.0 ismlks.com
 0.0.0.0 ismovernm.xyz
 0.0.0.0 ismscold.buzz
@@ -24528,6 +24529,7 @@
 0.0.0.0 spacecloudstore.com
 0.0.0.0 spacemainlandmark.com
 0.0.0.0 spaciouslanentablelanentablepigs.com
+0.0.0.0 spadelack.com
 0.0.0.0 spaderonium.com
 0.0.0.0 spamvariationswithin.com
 0.0.0.0 spanhamweb.com
