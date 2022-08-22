@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.234
 # Release: 234
-# Entries: 31,769
-# Updated: Mon, 22 Aug 22 18:04:23 +06
+# Entries: 31,770
+# Updated: Mon, 22 Aug 22 20:03:46 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9192,6 +9192,7 @@
 0.0.0.0 fbtfddhhrsiapq.xyz
 0.0.0.0 fbtrdwaecjk.xyz
 0.0.0.0 fbufrl15br.com
+0.0.0.0 fbwaikol.com
 0.0.0.0 fbxsyqvttedaoh.com
 0.0.0.0 fc2b9b7ce3165.com
 0.0.0.0 fc408d7caec09.com
