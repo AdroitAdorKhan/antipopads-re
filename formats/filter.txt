@@ -20,8 +20,8 @@
 ! Version: 22.08.235
 ! Release: 235
 ! Expires: 1 day
-! Entries: 31,803
-! Updated: Tue, 23 Aug 22 14:04:28 +06
+! Entries: 31,804
+! Updated: Tue, 23 Aug 22 16:07:04 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -17694,6 +17694,7 @@
 ||news-central.me^
 ||newscredentialrelative.com^
 ||news-easy.org^
+||newsfirst-s2s.xyz^
 ||newsformuse.com^
 ||newsforyourmood.com^
 ||newsforyoy.com^
