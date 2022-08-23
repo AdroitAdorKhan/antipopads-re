@@ -19,8 +19,8 @@
 # Format: domains
 # Version: 22.08.235
 # Release: 235
-# Entries: 31,801
-# Updated: Tue, 23 Aug 22 06:03:16 +06
+# Entries: 31,803
+# Updated: Tue, 23 Aug 22 14:04:28 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/domains.txt
 # ----------------------------------------------------------------------------
 #
@@ -136,6 +136,7 @@
 1r8435gsqldr.com
 1redira.com
 1redirb.com
+1redirc.com
 1store.am
 1talking.net
 1ts19.top
@@ -26465,6 +26466,7 @@ trackingzen.com
 trackmundo.com
 track-safe.com
 trackspeeder.com
+tracksystem.online
 tracktraf.com
 track-victoriadates.com
 trackvoluum.com

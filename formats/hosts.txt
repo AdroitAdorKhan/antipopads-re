@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.235
 # Release: 235
-# Entries: 31,801
-# Updated: Tue, 23 Aug 22 06:03:16 +06
+# Entries: 31,803
+# Updated: Tue, 23 Aug 22 14:04:28 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -136,6 +136,7 @@
 0.0.0.0 1r8435gsqldr.com
 0.0.0.0 1redira.com
 0.0.0.0 1redirb.com
+0.0.0.0 1redirc.com
 0.0.0.0 1store.am
 0.0.0.0 1talking.net
 0.0.0.0 1ts19.top
@@ -26465,6 +26466,7 @@
 0.0.0.0 trackmundo.com
 0.0.0.0 track-safe.com
 0.0.0.0 trackspeeder.com
+0.0.0.0 tracksystem.online
 0.0.0.0 tracktraf.com
 0.0.0.0 track-victoriadates.com
 0.0.0.0 trackvoluum.com
