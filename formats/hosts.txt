@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.238
 # Release: 238
-# Entries: 31,908
-# Updated: Fri, 26 Aug 22 00:07:26 +06
+# Entries: 31,909
+# Updated: Fri, 26 Aug 22 04:04:01 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4255,6 +4255,7 @@
 0.0.0.0 bvlwldrrrsnvd.xyz
 0.0.0.0 bvpumglxbux.xyz
 0.0.0.0 bvqlkemf.top
+0.0.0.0 bvrloslwgc.com
 0.0.0.0 bvsjctughd.top
 0.0.0.0 bvsxquec.xyz
 0.0.0.0 bvuglhpgx.com
