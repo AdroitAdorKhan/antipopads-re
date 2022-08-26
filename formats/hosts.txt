@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.238
 # Release: 238
-# Entries: 31,909
-# Updated: Fri, 26 Aug 22 04:04:01 +06
+# Entries: 31,910
+# Updated: Fri, 26 Aug 22 06:03:51 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29696,6 +29696,7 @@
 0.0.0.0 www.colanderofficiallycase.com
 0.0.0.0 www.coldnessstretchedfriendship.com
 0.0.0.0 www.collarchefrage.com
+0.0.0.0 www.collectorcommander.com
 0.0.0.0 www.comfort-rv.am
 0.0.0.0 www.commonplacelion.com
 0.0.0.0 www.companionstormyhusk.com
