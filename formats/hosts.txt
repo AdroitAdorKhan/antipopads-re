@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.239
 # Release: 239
-# Entries: 31,950
-# Updated: Sat, 27 Aug 22 00:05:59 +06
+# Entries: 31,951
+# Updated: Sat, 27 Aug 22 02:04:12 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29107,6 +29107,7 @@
 0.0.0.0 wholesomemillennium.com
 0.0.0.0 wholewowblog.com
 0.0.0.0 whompsranch.com
+0.0.0.0 whoognoz.com
 0.0.0.0 whoostoo.net
 0.0.0.0 whootapt.com
 0.0.0.0 whootascots.com
