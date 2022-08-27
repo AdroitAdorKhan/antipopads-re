@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.239
 # Release: 239
-# Entries: 31,958
-# Updated: Sat, 27 Aug 22 10:04:35 +06
+# Entries: 31,959
+# Updated: Sat, 27 Aug 22 16:05:04 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -3838,6 +3838,7 @@
 :: bopohsage.com
 :: boptal.com
 :: bopvetgel.com
+:: bordsnewsjule.com
 :: boreasinflash.com
 :: boredactress.com
 :: boredomsidion.com
