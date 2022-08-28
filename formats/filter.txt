@@ -20,8 +20,8 @@
 ! Version: 22.08.240
 ! Release: 240
 ! Expires: 1 day
-! Entries: 31,962
-! Updated: Sun, 28 Aug 22 10:03:24 +06
+! Entries: 31,963
+! Updated: Sun, 28 Aug 22 16:05:41 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -29873,6 +29873,7 @@
 ||www.fadverdirect.com^
 ||www.faithaiy.com^
 ||www.falconisleclip.com^
+||www.faltercollection.com^
 ||www.fastestvolcano.com^
 ||www.fastidiousconsensus.com^
 ||www.faultsderange.com^

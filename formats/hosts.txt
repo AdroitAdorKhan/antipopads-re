@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.240
 # Release: 240
-# Entries: 31,962
-# Updated: Sun, 28 Aug 22 10:03:24 +06
+# Entries: 31,963
+# Updated: Sun, 28 Aug 22 16:05:41 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29872,6 +29872,7 @@
 0.0.0.0 www.fadverdirect.com
 0.0.0.0 www.faithaiy.com
 0.0.0.0 www.falconisleclip.com
+0.0.0.0 www.faltercollection.com
 0.0.0.0 www.fastestvolcano.com
 0.0.0.0 www.fastidiousconsensus.com
 0.0.0.0 www.faultsderange.com
