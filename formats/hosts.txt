@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.08.239
-# Release: 239
-# Entries: 31,959
-# Updated: Sat, 27 Aug 22 16:05:04 +06
+# Version: 22.08.240
+# Release: 240
+# Entries: 31,961
+# Updated: Sun, 28 Aug 22 08:05:28 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2253,6 +2253,7 @@
 0.0.0.0 artpever.com
 0.0.0.0 artreconnect.com
 0.0.0.0 artsmalle.pro
+0.0.0.0 arvossold.website
 0.0.0.0 arwartortleer.com
 0.0.0.0 arwhismura.com
 0.0.0.0 arxistenthe.top
@@ -29546,6 +29547,7 @@
 0.0.0.0 wssixfkhhwn.top
 0.0.0.0 wsspyxuuapscgw.xyz
 0.0.0.0 wstvcgfkvc.com
+0.0.0.0 wsuglier.website
 0.0.0.0 wsuvfidlfs.com
 0.0.0.0 wsxwhcgpth.xyz
 0.0.0.0 wsyrgjgfg.com
