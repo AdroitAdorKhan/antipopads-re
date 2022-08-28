@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.240
 # Release: 240
-# Entries: 31,963
-# Updated: Sun, 28 Aug 22 16:05:41 +06
+# Entries: 31,964
+# Updated: Sun, 28 Aug 22 18:04:49 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -21073,6 +21073,7 @@
 0.0.0.0 pspbwcmfboxwbr.top
 0.0.0.0 psqbhoprfbhpyh.com
 0.0.0.0 psrfxigegm.top
+0.0.0.0 pssy.xyz
 0.0.0.0 pstjdcfhqxwjops.com
 0.0.0.0 pstreetma.com
 0.0.0.0 psucnqdrke.com
