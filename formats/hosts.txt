@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.242
 # Release: 242
-# Entries: 31,998
-# Updated: Tue, 30 Aug 22 00:07:54 +06
+# Entries: 31,999
+# Updated: Tue, 30 Aug 22 02:04:01 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14676,6 +14676,7 @@
 0.0.0.0 klenhosnc.com
 0.0.0.0 klfbrslv.com
 0.0.0.0 klickdealer.com
+0.0.0.0 klifabepc.com
 0.0.0.0 klijbhqnqp.top
 0.0.0.0 klikadu.com
 0.0.0.0 klikadvertising.com
