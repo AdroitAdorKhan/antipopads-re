@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.08.242
-# Release: 242
-# Entries: 32,031
-# Updated: Tue, 30 Aug 22 22:03:25 +06
+# Version: 22.08.243
+# Release: 243
+# Entries: 32,036
+# Updated: Wed, 31 Aug 22 00:07:24 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1673,6 +1673,7 @@
 0.0.0.0 alifafdlnjeruif.com
 0.0.0.0 alightbornbell.com
 0.0.0.0 alignclamstram.com
+0.0.0.0 alignmentflattery.com
 0.0.0.0 alikeaddition.com
 0.0.0.0 alimama.com
 0.0.0.0 alinesappels.com
@@ -3562,6 +3563,7 @@
 0.0.0.0 bkojgwewp.com
 0.0.0.0 bkptharsni.com
 0.0.0.0 bkqejymwjkj.xyz
+0.0.0.0 bkrpldhartngvh.com
 0.0.0.0 bksijiunc.com
 0.0.0.0 bkxduggr.top
 0.0.0.0 bl0uxepb4o.com
@@ -21148,6 +21150,7 @@
 0.0.0.0 ptagnair.com
 0.0.0.0 ptaiksah.com
 0.0.0.0 ptaimpeerte.com
+0.0.0.0 ptainses.com
 0.0.0.0 ptairtug.net
 0.0.0.0 ptaissud.com
 0.0.0.0 ptaitoun.net
@@ -27806,6 +27809,7 @@
 0.0.0.0 utktkrys.top
 0.0.0.0 utmostsecond.com
 0.0.0.0 utmyoogrxpesf.xyz
+0.0.0.0 utndln.com
 0.0.0.0 utnmalitddyny.top
 0.0.0.0 utokapa.com
 0.0.0.0 utoumine.net
@@ -31913,6 +31917,7 @@
 0.0.0.0 zeusopuh.com
 0.0.0.0 zeuuwb.com
 0.0.0.0 zewhpnrmykj.com
+0.0.0.0 zewoagoo.com
 0.0.0.0 zexastize.pro
 0.0.0.0 zeyappland.com
 0.0.0.0 zferral.com
