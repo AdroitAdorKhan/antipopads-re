@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.242
 # Release: 242
-# Entries: 32,001
-# Updated: Tue, 30 Aug 22 04:03:50 +06
+# Entries: 32,004
+# Updated: Tue, 30 Aug 22 06:03:15 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15935,6 +15935,7 @@
 0.0.0.0 lubqmukct.top
 0.0.0.0 lubricantentrance.com
 0.0.0.0 lucidahankul.com
+0.0.0.0 luciditybartonbitesize.com
 0.0.0.0 lucidlydiscretion.com
 0.0.0.0 lucidmedia.com
 0.0.0.0 luciusjam.com
@@ -22597,6 +22598,7 @@
 0.0.0.0 reundcwkqvctq.com
 0.0.0.0 rev2pub.com
 0.0.0.0 rev4rtb.com
+0.0.0.0 revadvocacy.com
 0.0.0.0 revbigo.com
 0.0.0.0 revbikecrept.com
 0.0.0.0 revdepo.com
@@ -25159,6 +25161,7 @@
 0.0.0.0 stinkcomedian.com
 0.0.0.0 stinkinterruption.com
 0.0.0.0 stinkwailingbalk.com
+0.0.0.0 stinkyloadeddoctor.com
 0.0.0.0 stinternoctuae.com
 0.0.0.0 stinue.com
 0.0.0.0 stipulatecontinue.com
