@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.242
 # Release: 242
-# Entries: 32,004
-# Updated: Tue, 30 Aug 22 06:03:15 +06
+# Entries: 32,005
+# Updated: Tue, 30 Aug 22 08:06:53 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19986,6 +19986,7 @@
 0.0.0.0 perukesoorial.com
 0.0.0.0 peruseinvitation.com
 0.0.0.0 pervasivebacksrate.com
+0.0.0.0 pervertmine.com
 0.0.0.0 pervialinagile.com
 0.0.0.0 pesdsstlxlyalf.com
 0.0.0.0 peskyclarifysuitcases.com
