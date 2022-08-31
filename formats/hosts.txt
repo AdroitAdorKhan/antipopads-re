@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.243
 # Release: 243
-# Entries: 32,211
-# Updated: Wed, 31 Aug 22 12:03:17 +06
+# Entries: 32,213
+# Updated: Wed, 31 Aug 22 14:05:52 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4470,6 +4470,7 @@
 0.0.0.0 cadsokz.com
 0.0.0.0 cadspms.com
 0.0.0.0 cadspmz.com
+0.0.0.0 caexdaerwplagr.com
 0.0.0.0 cafe58cc6d0ac.com
 0.0.0.0 cafegraha.com
 0.0.0.0 cafeterialadiesdisability.com
@@ -12599,6 +12600,7 @@
 0.0.0.0 hunchmotherhooddefine.com
 0.0.0.0 hungerundo.com
 0.0.0.0 hungrylongingtile.com
+0.0.0.0 hunniumvarted.com
 0.0.0.0 hunoso.com
 0.0.0.0 hunter-hub.com
 0.0.0.0 huntingarroyo.website
