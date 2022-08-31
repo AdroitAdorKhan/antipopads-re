@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.243
 # Release: 243
-# Entries: 32,328
-# Updated: Wed, 31 Aug 22 18:03:55 +06
+# Entries: 32,332
+# Updated: Wed, 31 Aug 22 20:05:24 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -587,6 +587,7 @@
 0.0.0.0 a35c92d96766745.com
 0.0.0.0 a3yqjsrczwwp.com
 0.0.0.0 a40hd1mh5deq.com
+0.0.0.0 a4fbb.xyz
 0.0.0.0 a4mt150303tl.com
 0.0.0.0 a5020fec1701e9f3.com
 0.0.0.0 a5e04df959f1af34.com
@@ -21098,6 +21099,7 @@
 0.0.0.0 prksism.com
 0.0.0.0 prlmspfelvnsfx.com
 0.0.0.0 prm-native.com
+0.0.0.0 prmtracking3.com
 0.0.0.0 prmtracking.com
 0.0.0.0 prmtracks.com
 0.0.0.0 pro-advert.de
@@ -28081,6 +28083,7 @@
 0.0.0.0 utirev.com
 0.0.0.0 utivvyukrmy.com
 0.0.0.0 utjfsbywqskca.com
+0.0.0.0 utkglwrujzfb.com
 0.0.0.0 utkmqqktg.com
 0.0.0.0 utktkrys.top
 0.0.0.0 utmostsecond.com
@@ -30620,6 +30623,7 @@
 0.0.0.0 www.privilegesurround.com
 0.0.0.0 www.profitablecpmgate.com
 0.0.0.0 www.profitabledisplaycontent.comwww.profitabledisplaycontent.com
+0.0.0.0 www.profitablegatetocontent.com
 0.0.0.0 www.profitabletrustednetwork.com
 0.0.0.0 www.progressproceeding.com
 0.0.0.0 www.pronunciationspecimens.com
