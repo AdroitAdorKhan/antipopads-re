@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.08.243
 # Release: 243
-# Entries: 32,054
-# Updated: Wed, 31 Aug 22 08:04:01 +06
+# Entries: 32,058
+# Updated: Wed, 31 Aug 22 10:03:33 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2572,6 +2572,7 @@
 0.0.0.0 ausomsup.net
 0.0.0.0 auspicealibis.com
 0.0.0.0 auspiceguidance.com
+0.0.0.0 auspiceguile.com
 0.0.0.0 auspiceunworthy.com
 0.0.0.0 auspicionfr.fun
 0.0.0.0 auspipe.com
@@ -15340,6 +15341,7 @@
 0.0.0.0 leonodikeu9sj10.com
 0.0.0.0 leontius-eli.com
 0.0.0.0 leopardaddictedenthusiastic.com
+0.0.0.0 leoparddisappearcrumble.com
 0.0.0.0 leotumal.com
 0.0.0.0 lephaush.net
 0.0.0.0 lepinsar.com
@@ -19717,6 +19719,7 @@
 0.0.0.0 particularantler.com
 0.0.0.0 particularmadam.com
 0.0.0.0 partieseclipse.com
+0.0.0.0 partiespenitence.com
 0.0.0.0 partiesrelyfoliage.com
 0.0.0.0 partion-ricism.xyz
 0.0.0.0 partitiondetergenttumor.com
@@ -30529,6 +30532,7 @@
 0.0.0.0 www.specialscammerinitially.com
 0.0.0.0 www.specificallythesisballot.com
 0.0.0.0 www.spectacleopinionatedminds.com
+0.0.0.0 www.speechfountaindigestion.com
 0.0.0.0 www.spellingreasoningexamine.com
 0.0.0.0 www.spentbennet.com
 0.0.0.0 www.spenttabsnail.com
