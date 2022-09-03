@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.246
 # Release: 246
-# Entries: 32,570
-# Updated: Sat, 03 Sep 22 18:04:25 +06
+# Entries: 32,571
+# Updated: Sat, 03 Sep 22 20:03:15 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12798,6 +12798,7 @@
 0.0.0.0 hvvoowxcacw.top
 0.0.0.0 hvwfklkqqocppjm.top
 0.0.0.0 hvwgbomduijoxk.top
+0.0.0.0 hvxqkunspvtln.com
 0.0.0.0 hvyqpgexndorslivehsfotbr.me
 0.0.0.0 hwceotmcqlkr.top
 0.0.0.0 hweinneo.xyz
