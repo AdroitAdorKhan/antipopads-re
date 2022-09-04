@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.247
 # Release: 247
-# Entries: 32,609
-# Updated: Sun, 04 Sep 22 04:03:27 +06
+# Entries: 32,610
+# Updated: Sun, 04 Sep 22 06:03:50 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -718,6 +718,7 @@
 0.0.0.0 absenttwilly.com
 0.0.0.0 abserv123.com
 0.0.0.0 abskursin.com
+0.0.0.0 absolutechapelequation.com
 0.0.0.0 absoluteclickscom.com
 0.0.0.0 absoluteroute.com
 0.0.0.0 absolutionbravery.com
