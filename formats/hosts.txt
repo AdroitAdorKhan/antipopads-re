@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.247
 # Release: 247
-# Entries: 32,611
-# Updated: Sun, 04 Sep 22 08:05:01 +06
+# Entries: 32,612
+# Updated: Sun, 04 Sep 22 10:03:48 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -30272,6 +30272,7 @@
 0.0.0.0 www.antirgiocub.com
 0.0.0.0 www.anymoresentencevirgin.com
 0.0.0.0 www.apgasampbrid.gq
+0.0.0.0 www.applesometimes.com
 0.0.0.0 www.arccdyvgh.com
 0.0.0.0 www.architectwithdraw.com
 0.0.0.0 www.archlythrong.com
