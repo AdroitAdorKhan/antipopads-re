@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.247
 # Release: 247
-# Entries: 32,610
-# Updated: Sun, 04 Sep 22 06:03:50 +06
+# Entries: 32,611
+# Updated: Sun, 04 Sep 22 08:05:01 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10966,6 +10966,7 @@
 0.0.0.0 ghrxervm.top
 0.0.0.0 ghvdwoly.com
 0.0.0.0 giantaffiliates.com
+0.0.0.0 giantchewdisarm.com
 0.0.0.0 gianwho.com
 0.0.0.0 gibbousbalaic.com
 0.0.0.0 gibeleftyeuro.com
