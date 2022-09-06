@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.09.249
-! Release: 249
+! Version: 22.09.250
+! Release: 250
 ! Expires: 1 day
-! Entries: 32,751
-! Updated: Tue, 06 Sep 22 22:03:27 +06
+! Entries: 32,752
+! Updated: Wed, 07 Sep 22 00:05:36 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -19159,6 +19159,7 @@
 ||offshorecockpit.com^
 ||offshoretolerantbenignity.com^
 ||offsigilyphor.com^
+||offslrbeqypf.com^
 ||ofghaidarium.xyz^
 ||ofgjexomvmwo.top^
 ||ofgogoatan.com^
