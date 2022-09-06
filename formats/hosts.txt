@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.250
 # Release: 250
-# Entries: 32,755
-# Updated: Wed, 07 Sep 22 02:04:11 +06
+# Entries: 32,756
+# Updated: Wed, 07 Sep 22 04:06:31 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3305,6 +3305,7 @@
 0.0.0.0 befsqgyqbw.top
 0.0.0.0 begasuthy.com
 0.0.0.0 beggarlyfilmingabreast.com
+0.0.0.0 beggarlyquietlyrabble.com
 0.0.0.0 beggarlywept.com
 0.0.0.0 beggingneglect.com
 0.0.0.0 beginadvisor.com
