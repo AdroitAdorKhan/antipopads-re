@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.249
 # Release: 249
-# Entries: 32,694
-# Updated: Tue, 06 Sep 22 00:04:17 +06
+# Entries: 32,695
+# Updated: Tue, 06 Sep 22 08:03:44 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -30842,6 +30842,7 @@
 0.0.0.0 www.nanfallenconvicted.com
 0.0.0.0 www.ndikvccwz.com
 0.0.0.0 www.necessarilyunkindhanging.com
+0.0.0.0 www.needyscarcasserole.com
 0.0.0.0 www.neighbourcoastearnestly.com
 0.0.0.0 www.netgybiga.gq
 0.0.0.0 www.newlywedequilibrium.com
