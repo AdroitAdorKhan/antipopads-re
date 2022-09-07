@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.250
 # Release: 250
-# Entries: 32,759
-# Updated: Wed, 07 Sep 22 08:05:26 +06
+# Entries: 32,761
+# Updated: Wed, 07 Sep 22 10:05:31 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6288,6 +6288,7 @@
 0.0.0.0 crossingstatedsideway.com
 0.0.0.0 crossrider.com
 0.0.0.0 crossroaddividerecorded.com
+0.0.0.0 crossroadparalysisnutshell.com
 0.0.0.0 crottlerennin.com
 0.0.0.0 crowdgravity.com
 0.0.0.0 crptentry.com
@@ -30512,6 +30513,7 @@
 0.0.0.0 www.crabdefend.com
 0.0.0.0 www.crackerenmity.com
 0.0.0.0 www.crashnoodle.com
+0.0.0.0 www.creationaleprose.com
 0.0.0.0 www.creepingbrings.com
 0.0.0.0 www.crumbtypewriterhome.com
 0.0.0.0 www.csiasvapqrccq.com
