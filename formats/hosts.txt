@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.250
 # Release: 250
-# Entries: 32,758
-# Updated: Wed, 07 Sep 22 06:04:19 +06
+# Entries: 32,759
+# Updated: Wed, 07 Sep 22 08:05:26 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19297,6 +19297,7 @@
 0.0.0.0 olatumal.com
 0.0.0.0 olautnairhpucv.top
 0.0.0.0 olaxmwoymnewxo.xyz
+0.0.0.0 olayomad.com
 0.0.0.0 olbqmsqvitxytb.top
 0.0.0.0 olderdeserved.com
 0.0.0.0 olderdiverge.com
