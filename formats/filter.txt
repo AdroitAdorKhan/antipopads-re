@@ -20,8 +20,8 @@
 ! Version: 22.09.250
 ! Release: 250
 ! Expires: 1 day
-! Entries: 32,756
-! Updated: Wed, 07 Sep 22 04:06:31 +06
+! Entries: 32,758
+! Updated: Wed, 07 Sep 22 06:04:19 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -5726,6 +5726,7 @@
 ||comnwww.highperformancedformats.comnwww.topdisplayformat.com^
 ||comnwww.topdisplayformat.com^
 ||comorw.com^
+||compactdiverse.com^
 ||compactyunker.com^
 ||companionstormyhusk.com^
 ||companycouncilbreeze.com^
@@ -25738,6 +25739,7 @@
 ||stickedsubset.cam^
 ||stickerchapelsailing.com^
 ||stickervillain.com^
+||stickssurelyhomesick.com^
 ||sticksurroundingsconstitutional.com^
 ||stickyharry.com^
 ||stickysheet.com^
