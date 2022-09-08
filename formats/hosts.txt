@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.251
 # Release: 251
-# Entries: 32,828
-# Updated: Thu, 08 Sep 22 18:04:52 +06
+# Entries: 32,830
+# Updated: Thu, 08 Sep 22 20:04:22 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -26954,6 +26954,7 @@
 0.0.0.0 timecrom.com
 0.0.0.0 time-for-dating-now2.com
 0.0.0.0 timeone.pro
+0.0.0.0 timeoutsalaryhaphazard.com
 0.0.0.0 timerobstacle.com
 0.0.0.0 timerseeming.com
 0.0.0.0 timeruniversalreligious.com
@@ -31286,6 +31287,7 @@
 0.0.0.0 www.steppevegetationforefather.com
 0.0.0.0 www.sterilecute.com
 0.0.0.0 www.stewclove.com
+0.0.0.0 www.stickssurelyhomesick.com
 0.0.0.0 www.sticksurroundingsconstitutional.com
 0.0.0.0 www.stinkwailingbalk.com
 0.0.0.0 www.stircalculatormetric.com
