@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.251
 # Release: 251
-# Entries: 32,807
-# Updated: Thu, 08 Sep 22 10:04:02 +06
+# Entries: 32,810
+# Updated: Thu, 08 Sep 22 14:02:50 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3438,6 +3438,7 @@
 0.0.0.0 bestdatingzone.life
 0.0.0.0 bestdisplaycontent.com
 0.0.0.0 bestdisplayformats.com
+0.0.0.0 bestdisplayformats.comwww.bestdisplayformats.com
 0.0.0.0 best-flirt.life
 0.0.0.0 best-flirt-zone.life
 0.0.0.0 bestgames-2022.com
@@ -5789,6 +5790,7 @@
 0.0.0.0 comunicazio.com
 0.0.0.0 comwgi.com
 0.0.0.0 com-wkejf32ljd23409system.net
+0.0.0.0 comwww.bestdisplayformats.com
 0.0.0.0 comwww.effectivedisplaycontent.com
 0.0.0.0 comwww.effectivedisplayformat.com
 0.0.0.0 comwww.effectivedisplayformats.com
@@ -30478,6 +30480,7 @@
 0.0.0.0 www.belongedshark.com
 0.0.0.0 www.belongrobustgreedy.com
 0.0.0.0 www.belowanswerhaste.com
+0.0.0.0 www.bestdisplayformats.comwww.bestdisplayformats.com
 0.0.0.0 www.best-porno.net
 0.0.0.0 www.bett2you.net
 0.0.0.0 www.bettin2you.com
