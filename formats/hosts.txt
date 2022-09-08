@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.251
 # Release: 251
-# Entries: 32,830
-# Updated: Thu, 08 Sep 22 20:04:22 +06
+# Entries: 32,832
+# Updated: Thu, 08 Sep 22 22:03:07 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12103,6 +12103,7 @@
 0.0.0.0 healthplix.com
 0.0.0.0 healthquiltesteem.com
 0.0.0.0 healthsmd.com
+0.0.0.0 healthynews247.com
 0.0.0.0 heardsadly.com
 0.0.0.0 hearewe.com
 0.0.0.0 hearfromyou.biz
@@ -29730,6 +29731,7 @@
 0.0.0.0 wejllklnbhqdbxn.top
 0.0.0.0 wekytxaktt.top
 0.0.0.0 welcomingprotective.com
+0.0.0.0 welfarefit.com
 0.0.0.0 weliketofuckstrangers.com
 0.0.0.0 wellhello.com
 0.0.0.0 welllwrite.com
