@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.251
 # Release: 251
-# Entries: 32,825
-# Updated: Thu, 08 Sep 22 16:13:02 +06
+# Entries: 32,828
+# Updated: Thu, 08 Sep 22 18:04:52 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13049,6 +13049,7 @@
 0.0.0.0 idlinz.com
 0.0.0.0 idmehqovq.xyz
 0.0.0.0 idmmimxwfqfbaa.top
+0.0.0.0 idntsoohucg.com
 0.0.0.0 idorld.com
 0.0.0.0 idownloadgalore.com
 0.0.0.0 idrqgciwoa.com
@@ -18276,6 +18277,7 @@
 0.0.0.0 newslikemeds.com
 0.0.0.0 newsm247.online
 0.0.0.0 news-mars.com
+0.0.0.0 newsmaxfeednetwork.com
 0.0.0.0 news-muheji.com
 0.0.0.0 newsocko.com
 0.0.0.0 newsokos.com
@@ -25785,6 +25787,7 @@
 0.0.0.0 stickervillain.com
 0.0.0.0 stickssurelyhomesick.com
 0.0.0.0 sticksurroundingsconstitutional.com
+0.0.0.0 stickyadstv.com
 0.0.0.0 stickyharry.com
 0.0.0.0 stickysheet.com
 0.0.0.0 sticoats.net
