@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.252
 # Release: 252
-# Entries: 32,843
-# Updated: Fri, 09 Sep 22 02:03:43 +06
+# Entries: 32,847
+# Updated: Fri, 09 Sep 22 08:08:00 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9378,6 +9378,7 @@
 0.0.0.0 facultymoney.com
 0.0.0.0 facyptythu.com
 0.0.0.0 fadbell.com
+0.0.0.0 fadbrain.com
 0.0.0.0 fadedauntrainy.com
 0.0.0.0 fadedcovertrefuse.com
 0.0.0.0 fadedpracticedduly.com
@@ -9419,6 +9420,7 @@
 0.0.0.0 faipeeji.com
 0.0.0.0 fairadsnetwork.com
 0.0.0.0 fairieflame.com
+0.0.0.0 fairlyleadingenquiry.com
 0.0.0.0 fairnessels.com
 0.0.0.0 fairysag.com
 0.0.0.0 faithaiy.com
@@ -12324,6 +12326,7 @@
 0.0.0.0 highconvertingformats.comwww.highconvertingformats.com
 0.0.0.0 higherdebateplume.com
 0.0.0.0 higherincomparablehandicraft.com
+0.0.0.0 highestfollowing.com
 0.0.0.0 higheurest.com
 0.0.0.0 highfalutinbox.com
 0.0.0.0 highfalutinroom.com
@@ -20895,6 +20898,7 @@
 0.0.0.0 plausiblebyeshear.com
 0.0.0.0 plausibleharrietkid.com
 0.0.0.0 play4k.co
+0.0.0.0 playairplanerighty.com
 0.0.0.0 playboymethod.com
 0.0.0.0 playerseo.club
 0.0.0.0 playertraffic.com
