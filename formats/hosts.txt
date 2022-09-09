@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.252
 # Release: 252
-# Entries: 32,847
-# Updated: Fri, 09 Sep 22 08:08:00 +06
+# Entries: 32,848
+# Updated: Fri, 09 Sep 22 10:04:44 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -21114,6 +21114,7 @@
 0.0.0.0 portalisimmo.com
 0.0.0.0 portantreadedagree.info
 0.0.0.0 portedgatesfeel.com
+0.0.0.0 portedmasondarn.com
 0.0.0.0 portenttwinehypothetically.com
 0.0.0.0 portionlilacrig.com
 0.0.0.0 portkingric.net
