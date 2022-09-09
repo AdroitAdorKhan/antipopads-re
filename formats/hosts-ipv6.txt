@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.252
 # Release: 252
-# Entries: 32,848
-# Updated: Fri, 09 Sep 22 10:04:44 +06
+# Entries: 32,849
+# Updated: Fri, 09 Sep 22 12:02:59 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -10921,6 +10921,7 @@
 :: get-me-wow.xyz
 :: getmyads.com
 :: getnotix.co
+:: getonlineuserprotection.com
 :: getpdaiddaily.com
 :: getplumberacting.com
 :: getpopunder.com
