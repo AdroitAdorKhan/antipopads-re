@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.09.253
-# Release: 253
-# Entries: 32,989
-# Updated: Sat, 10 Sep 22 22:02:46 +06
+# Version: 22.09.254
+# Release: 254
+# Entries: 32,990
+# Updated: Sun, 11 Sep 22 00:06:44 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4748,6 +4748,7 @@
 0.0.0.0 casterpretic.com
 0.0.0.0 castpallium.com
 0.0.0.0 casualdatingis-real.com
+0.0.0.0 casualproof.com
 0.0.0.0 cataleyaflowers.com
 0.0.0.0 catalpaaxillae.com
 0.0.0.0 cataractencroach.com

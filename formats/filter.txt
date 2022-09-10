@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.09.253
-! Release: 253
+! Version: 22.09.254
+! Release: 254
 ! Expires: 1 day
-! Entries: 32,989
-! Updated: Sat, 10 Sep 22 22:02:46 +06
+! Entries: 32,990
+! Updated: Sun, 11 Sep 22 00:06:44 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -4749,6 +4749,7 @@
 ||casterpretic.com^
 ||castpallium.com^
 ||casualdatingis-real.com^
+||casualproof.com^
 ||cataleyaflowers.com^
 ||catalpaaxillae.com^
 ||cataractencroach.com^
