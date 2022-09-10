@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.253
 # Release: 253
-# Entries: 32,988
-# Updated: Sat, 10 Sep 22 20:03:09 +06
+# Entries: 32,989
+# Updated: Sat, 10 Sep 22 22:02:46 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9881,6 +9881,7 @@
 0.0.0.0 fimserve.com
 0.0.0.0 finallyoverworktwin.com
 0.0.0.0 finance2you.org
+0.0.0.0 finance-hot-news.com
 0.0.0.0 financemonk.net
 0.0.0.0 financialjaguarnightclub.com
 0.0.0.0 financiallypullover.com

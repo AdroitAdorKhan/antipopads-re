@@ -20,8 +20,8 @@
 ! Version: 22.09.253
 ! Release: 253
 ! Expires: 1 day
-! Entries: 32,988
-! Updated: Sat, 10 Sep 22 20:03:09 +06
+! Entries: 32,989
+! Updated: Sat, 10 Sep 22 22:02:46 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -9882,6 +9882,7 @@
 ||fimserve.com^
 ||finallyoverworktwin.com^
 ||finance2you.org^
+||finance-hot-news.com^
 ||financemonk.net^
 ||financialjaguarnightclub.com^
 ||financiallypullover.com^
