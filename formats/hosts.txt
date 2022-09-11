@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.09.254
-# Release: 254
-# Entries: 33,025
-# Updated: Sun, 11 Sep 22 20:02:57 +06
+# Version: 22.09.255
+# Release: 255
+# Entries: 33,026
+# Updated: Mon, 12 Sep 22 02:03:53 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -30138,6 +30138,7 @@
 0.0.0.0 win-bidding.com
 0.0.0.0 winbuyer.com
 0.0.0.0 windindelicateexclusive.com
+0.0.0.0 windingnegotiation.com
 0.0.0.0 windofaeolus.com
 0.0.0.0 windoorsew.club
 0.0.0.0 windowmentaria.com
