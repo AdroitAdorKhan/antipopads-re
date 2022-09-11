@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.254
 # Release: 254
-# Entries: 32,991
-# Updated: Sun, 11 Sep 22 08:07:00 +06
+# Entries: 32,992
+# Updated: Sun, 11 Sep 22 10:03:50 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -31115,6 +31115,7 @@
 0.0.0.0 www.mostlytreasure.com
 0.0.0.0 www.motorimperturbable.com
 0.0.0.0 www.movementsspentlist.com
+0.0.0.0 www.muchmiller.com
 0.0.0.0 www.muddyjustify.com
 0.0.0.0 www.muggedlancemutilate.com
 0.0.0.0 www.murpic.com
