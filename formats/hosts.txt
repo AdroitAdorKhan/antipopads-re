@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.255
 # Release: 255
-# Entries: 33,026
-# Updated: Mon, 12 Sep 22 02:03:53 +06
+# Entries: 33,029
+# Updated: Mon, 12 Sep 22 06:02:34 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -25260,6 +25260,7 @@
 0.0.0.0 smountbeascar.com
 0.0.0.0 smrtlnk18tds.com
 0.0.0.0 smrtsecure-eml.com
+0.0.0.0 smuggledistance.com
 0.0.0.0 smvocdnxusp.com
 0.0.0.0 smylgagch.xyz
 0.0.0.0 smyvividi.club
@@ -30604,6 +30605,7 @@
 0.0.0.0 www.advertisecountrycrunch.com
 0.0.0.0 www.aeclick.com
 0.0.0.0 www.affecteddetectrome.com
+0.0.0.0 www.affluentshinymulticultural.com
 0.0.0.0 www.afterthoughtdevil.com
 0.0.0.0 www.agagaure.com
 0.0.0.0 www.againirksomefutile.com
@@ -30948,6 +30950,7 @@
 0.0.0.0 www.gustdeficitwry.com
 0.0.0.0 www.gwwhheahisrtld.com
 0.0.0.0 www.gxymlqcnu.com
+0.0.0.0 www.gyoyunikimchoe.com
 0.0.0.0 www.hairoak.com
 0.0.0.0 www.hajoopteg.com
 0.0.0.0 www.hallucinatecompute.com
