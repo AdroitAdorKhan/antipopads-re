@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.09.255
-# Release: 255
-# Entries: 33,095
-# Updated: Mon, 12 Sep 22 22:03:28 +06
+# Version: 22.09.256
+# Release: 256
+# Entries: 33,096
+# Updated: Tue, 13 Sep 22 00:06:33 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -13131,6 +13131,7 @@
 :: icewaterhou.xyz
 :: ichimaip.net
 :: iciclefilament.com
+:: icilyassertiveindoors.com
 :: iciwllwayiumte.top
 :: icjvfvoh.com
 :: iclickcdn.com
