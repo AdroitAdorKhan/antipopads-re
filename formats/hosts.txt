@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.255
 # Release: 255
-# Entries: 33,090
-# Updated: Mon, 12 Sep 22 20:04:23 +06
+# Entries: 33,095
+# Updated: Mon, 12 Sep 22 22:03:28 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -226,6 +226,7 @@
 0.0.0.0 2solo.biz
 0.0.0.0 2tothepollo.top
 0.0.0.0 2tpwcqot22mb.com
+0.0.0.0 2track.info
 0.0.0.0 300daytravel.com
 0.0.0.0 302a67cac6.com
 0.0.0.0 303marketplace.com
@@ -16372,6 +16373,7 @@
 0.0.0.0 lovelydateshere.com
 0.0.0.0 loveradar.life
 0.0.0.0 loverayeyard.com
+0.0.0.0 loverevenue.com
 0.0.0.0 loversagobearable.com
 0.0.0.0 lowdodrioon.com
 0.0.0.0 loweredabhorrenceproposed.com
@@ -19572,6 +19574,7 @@
 0.0.0.0 onautcatholi.xyz
 0.0.0.0 oncavst.com
 0.0.0.0 oncerensky.cam
+0.0.0.0 oncertaino.xyz
 0.0.0.0 onclarck.com
 0.0.0.0 onclasrv.com
 0.0.0.0 onclickads.net
@@ -23444,6 +23447,7 @@
 0.0.0.0 rgahmllbgubakm.com
 0.0.0.0 rgcfllkeio.top
 0.0.0.0 rgcogasi.xyz
+0.0.0.0 rgentssep.xyz
 0.0.0.0 rgfftupf.com
 0.0.0.0 rgfmlmgpx.com
 0.0.0.0 rgggqatcwa.top
@@ -23692,6 +23696,7 @@
 0.0.0.0 rnpntjkhcrgxyoq.top
 0.0.0.0 rnptiyji.com
 0.0.0.0 rntphmiwmqyp.top
+0.0.0.0 rnv.life
 0.0.0.0 ro7s8wo57qnb.com
 0.0.0.0 roaceebulajk.top
 0.0.0.0 roadmapcredulousfang.com
