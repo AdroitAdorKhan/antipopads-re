@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.256
 # Release: 256
-# Entries: 33,152
-# Updated: Tue, 13 Sep 22 16:05:34 +06
+# Entries: 33,153
+# Updated: Tue, 13 Sep 22 18:07:11 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -17173,6 +17173,7 @@
 0.0.0.0 memopilot.com
 0.0.0.0 memorableordealstranger.com
 0.0.0.0 menaceamenitytutor.com
+0.0.0.0 menacehabit.com
 0.0.0.0 mendoledresden.com
 0.0.0.0 mendprayer.com
 0.0.0.0 menepe.com
