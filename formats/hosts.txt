@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.256
 # Release: 256
-# Entries: 33,118
-# Updated: Tue, 13 Sep 22 10:04:44 +06
+# Entries: 33,145
+# Updated: Tue, 13 Sep 22 12:03:46 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1548,6 +1548,7 @@
 0.0.0.0 ahhdsply.com
 0.0.0.0 ahidsply.com
 0.0.0.0 ahjdsply.com
+0.0.0.0 ahlefind.com
 0.0.0.0 ahlstvqonfe.com
 0.0.0.0 ahnsgsjvgsyex.top
 0.0.0.0 ahpjdugrbbfypbc.top
@@ -3998,6 +3999,7 @@
 0.0.0.0 booklstfree.com
 0.0.0.0 bookmsg.com
 0.0.0.0 bookmtpo.com
+0.0.0.0 booknower.com
 0.0.0.0 bookpostponemoreover.com
 0.0.0.0 bookshelfcomplaint.com
 0.0.0.0 bookstaircasenaval.com
@@ -4310,6 +4312,8 @@
 0.0.0.0 btafiyuxlsvtq.com
 0.0.0.0 btagmedia.com
 0.0.0.0 btcadtop.com
+0.0.0.0 btdirectnav.com
+0.0.0.0 btdnav.com
 0.0.0.0 btdxrvhmxnvcn.com
 0.0.0.0 bteogdybj.top
 0.0.0.0 btgndarx.xyz
@@ -4323,7 +4327,10 @@
 0.0.0.0 btogcqplvlegfqt.xyz
 0.0.0.0 btojiflh.top
 0.0.0.0 btonzfjleinuax.com
+0.0.0.0 btpnative.com
 0.0.0.0 btpnav.com
+0.0.0.0 btpremnav.com
+0.0.0.0 btprmnav.com
 0.0.0.0 btqyajjyph.top
 0.0.0.0 btskllkmmcdw.top
 0.0.0.0 bttrack.com
@@ -4332,6 +4339,7 @@
 0.0.0.0 btvhdscr.com
 0.0.0.0 btvxejwwjnaosa.xyz
 0.0.0.0 btxmufth.top
+0.0.0.0 btxxxnav.com
 0.0.0.0 btzgadfn.com
 0.0.0.0 bu3le2lp4t45e6i.com
 0.0.0.0 bubblyalibiappear.com
@@ -7635,6 +7643,8 @@
 0.0.0.0 dmyocilt.com
 0.0.0.0 dmyusjtmiiia.top
 0.0.0.0 dnajdimirtpn.com
+0.0.0.0 dnavexch.com
+0.0.0.0 dnavtbt.com
 0.0.0.0 dnbizcdn.com
 0.0.0.0 dnckawxatc.com
 0.0.0.0 dndcadylxuqgqpw.top
@@ -7662,6 +7672,7 @@
 0.0.0.0 doctorhousing.com
 0.0.0.0 doddpnomvvbf.com
 0.0.0.0 dodgiercuvy.cam
+0.0.0.0 dodurantom.com
 0.0.0.0 doenvumbghubgnr.xyz
 0.0.0.0 doerimpertinent.com
 0.0.0.0 doffingiceboat.com
@@ -7826,6 +7837,7 @@
 0.0.0.0 dp25.kr
 0.0.0.0 dpallyihgtgu.com
 0.0.0.0 dparspmwkmqtdap.top
+0.0.0.0 dpdnav.com
 0.0.0.0 dpgawov.com
 0.0.0.0 dpjsfrhklu.top
 0.0.0.0 dpjstqoecujcgr.xyz
@@ -10794,6 +10806,7 @@
 0.0.0.0 gallonranchwhining.com
 0.0.0.0 gallopprisonbanter.com
 0.0.0.0 galopelikeantelope.com
+0.0.0.0 galoshanseis.com
 0.0.0.0 galyra.com
 0.0.0.0 gambl20bet.pro
 0.0.0.0 gamblingliquidate.com
@@ -12001,6 +12014,7 @@
 0.0.0.0 hadskiz.com
 0.0.0.0 hadsokz.com
 0.0.0.0 hadspmz.com
+0.0.0.0 haffic.com
 0.0.0.0 hafhbxsiplax.xyz
 0.0.0.0 haftobso.net
 0.0.0.0 hagdctrfvghfc.com
@@ -12789,6 +12803,7 @@
 0.0.0.0 houtrelen.top
 0.0.0.0 houuyeqm.top
 0.0.0.0 hovbtsyhiabiev.top
+0.0.0.0 hovcxcvriualrk.com
 0.0.0.0 hoveoilnoun.casa
 0.0.0.0 hovermountedsulphur.com
 0.0.0.0 hoverr.co
@@ -17193,6 +17208,7 @@
 0.0.0.0 mermaidcontemplateadjoining.com
 0.0.0.0 merryemotionally.com
 0.0.0.0 mersionbronze.cam
+0.0.0.0 merterpazar.com
 0.0.0.0 meryjane.pro
 0.0.0.0 merzostueru2hu8jr09.com
 0.0.0.0 meshagreeable.com
@@ -19559,6 +19575,7 @@
 0.0.0.0 omitneitherrover.com
 0.0.0.0 omitsmilesoutbreak.com
 0.0.0.0 ommeowthor.com
+0.0.0.0 omnan.com
 0.0.0.0 omnatuor.com
 0.0.0.0 omngbklucn.top
 0.0.0.0 omni-ads.com
@@ -20081,6 +20098,7 @@
 0.0.0.0 overfreezerperuse.com
 0.0.0.0 overgalladean.com
 0.0.0.0 overhearledgebake.com
+0.0.0.0 overjoyed-balance.com
 0.0.0.0 overkirliaan.com
 0.0.0.0 overlivestrongergruel.com
 0.0.0.0 overloadhomes.com
@@ -23948,15 +23966,19 @@
 0.0.0.0 rtbbnr.com
 0.0.0.0 rtbbnrdip.com
 0.0.0.0 r-tb.com
+0.0.0.0 rtbdnav.com
 0.0.0.0 rtbidder.net
 0.0.0.0 rtb-media.me
 0.0.0.0 rtbnowads.com
 0.0.0.0 rtbpop.com
 0.0.0.0 rtbpopd.com
 0.0.0.0 rtbrennab.com
+0.0.0.0 rtbstream.com
 0.0.0.0 rtbsystem.org
 0.0.0.0 rtbterra.com
 0.0.0.0 rtbtracking.com
+0.0.0.0 rtbtraffic.com
+0.0.0.0 rtbtrail.com
 0.0.0.0 rtbvideobox.com
 0.0.0.0 rtclx.com
 0.0.0.0 rtdppplouxfucpk.com
@@ -24878,6 +24900,7 @@
 0.0.0.0 shingleintelligenceurge.com
 0.0.0.0 shinglelatitude.com
 0.0.0.0 shinyarcadiaproximity.com
+0.0.0.0 shinyshock.pro
 0.0.0.0 shinyspiesyou.com
 0.0.0.0 shionmanc.club
 0.0.0.0 shipmentphraseroof.com
@@ -28730,6 +28753,7 @@
 0.0.0.0 utfmssdygtu.top
 0.0.0.0 uthorner.info
 0.0.0.0 uthounie.com
+0.0.0.0 uthyr-que.com
 0.0.0.0 utiesh.com
 0.0.0.0 utikxreprhln.top
 0.0.0.0 utilitiespridesweat.com
@@ -32331,6 +32355,7 @@
 0.0.0.0 yaeedjvioifllwt.top
 0.0.0.0 yaflihhbtfoq.com
 0.0.0.0 yahblemable.com
+0.0.0.0 yahuu.org
 0.0.0.0 yaiser.com
 0.0.0.0 yajfarudcnwkb.top
 0.0.0.0 yajlpetccbodq.com
@@ -32716,6 +32741,7 @@
 0.0.0.0 youtubecenter.net
 0.0.0.0 yovenbugsha.com
 0.0.0.0 yoweszincoid.com
+0.0.0.0 yowledwarm.website
 0.0.0.0 yoyadsdom.com
 0.0.0.0 yoyxjxdqgg.xyz
 0.0.0.0 yozyboqyiy.com
@@ -32749,6 +32775,7 @@
 0.0.0.0 yqywreeyts.top
 0.0.0.0 yr9n47004g.com
 0.0.0.0 yrecomemu.one
+0.0.0.0 yresumeform.autos
 0.0.0.0 yrfqiiyofnnc.com
 0.0.0.0 yrgxmcjauex.top
 0.0.0.0 yrhnlyshnnataoa.top
