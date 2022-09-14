@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.257
 # Release: 257
-# Entries: 33,188
-# Updated: Wed, 14 Sep 22 04:05:25 +06
+# Entries: 33,190
+# Updated: Wed, 14 Sep 22 20:05:46 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12318,6 +12318,7 @@
 0.0.0.0 helessenge.club
 0.0.0.0 helic3oniusrcharithonia.com
 0.0.0.0 helicopterskull.com
+0.0.0.0 helixmoonz.com
 0.0.0.0 hellersdunnage.com
 0.0.0.0 hellocaterersomeone.com
 0.0.0.0 hellodisappointedscuba.com
@@ -17047,6 +17048,7 @@
 0.0.0.0 mcjppoabgfa.top
 0.0.0.0 mckwoljvcnbaul.top
 0.0.0.0 mcmhatmt.com
+0.0.0.0 mcmo22.com
 0.0.0.0 mcning.com
 0.0.0.0 mcodkicvaq.top
 0.0.0.0 mcpuwpush.com
