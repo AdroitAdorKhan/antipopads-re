@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.09.257
-# Release: 257
-# Entries: 33,218
-# Updated: Wed, 14 Sep 22 22:04:25 +06
+# Version: 22.09.258
+# Release: 258
+# Entries: 33,219
+# Updated: Thu, 15 Sep 22 04:05:29 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14571,6 +14571,7 @@
 0.0.0.0 joeputa.xyz
 0.0.0.0 jofinchnettle.com
 0.0.0.0 jogdosoaf.com
+0.0.0.0 joggingavenge.com
 0.0.0.0 jogglyisohel.com
 0.0.0.0 johalf.com
 0.0.0.0 johays.co
