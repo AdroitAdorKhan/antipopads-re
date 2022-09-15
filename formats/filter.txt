@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.09.258
-! Release: 258
+! Version: 22.09.259
+! Release: 259
 ! Expires: 1 day
-! Entries: 33,228
-! Updated: Thu, 15 Sep 22 22:03:32 +06
+! Entries: 33,229
+! Updated: Fri, 16 Sep 22 00:06:37 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -9949,6 +9949,7 @@
 ||filthslowlycoolly.com^
 ||fimserve.com^
 ||finallyoverworktwin.com^
+||financcesurv.com^
 ||finance2you.org^
 ||finance-hot-news.com^
 ||financemonk.net^
