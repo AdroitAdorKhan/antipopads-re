@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.259
 # Release: 259
-# Entries: 33,278
-# Updated: Fri, 16 Sep 22 18:04:10 +06
+# Entries: 33,279
+# Updated: Fri, 16 Sep 22 20:08:19 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -30970,6 +30970,7 @@
 0.0.0.0 www.convincingnotion.com
 0.0.0.0 www.corkycrazy.com
 0.0.0.0 www.cornchoreconnecting.com
+0.0.0.0 www.coupdisturb.com
 0.0.0.0 www.couriersticky.com
 0.0.0.0 www.crabdefend.com
 0.0.0.0 www.crackerenmity.com
