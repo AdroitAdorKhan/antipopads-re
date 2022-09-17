@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.260
 # Release: 260
-# Entries: 33,330
-# Updated: Sat, 17 Sep 22 16:08:10 +06
+# Entries: 33,331
+# Updated: Sat, 17 Sep 22 18:03:53 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28222,6 +28222,7 @@
 0.0.0.0 tyxsulttmyk.com
 0.0.0.0 tzegilo.com
 0.0.0.0 tzfafzmooqum.com
+0.0.0.0 tzhkydcgdmbz.com
 0.0.0.0 tzlchxdwreirbv.com
 0.0.0.0 u0054.com
 0.0.0.0 u0064.com
