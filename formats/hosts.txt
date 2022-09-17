@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.260
 # Release: 260
-# Entries: 33,310
-# Updated: Sat, 17 Sep 22 08:06:47 +06
+# Entries: 33,311
+# Updated: Sat, 17 Sep 22 10:04:52 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -31329,6 +31329,7 @@
 0.0.0.0 www.largedoubly.com
 0.0.0.0 www.launchingonsetwhirlwind.com
 0.0.0.0 www.laundryrespond.com
+0.0.0.0 www.lavishvanish.com
 0.0.0.0 www.lcjnnojdtzxquj.com
 0.0.0.0 www.learningproportion.com
 0.0.0.0 www.lectpenseluworlta.tk
