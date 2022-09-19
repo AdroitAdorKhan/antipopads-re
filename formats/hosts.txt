@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.262
 # Release: 262
-# Entries: 33,514
-# Updated: Mon, 19 Sep 22 20:04:15 +06
+# Entries: 33,518
+# Updated: Mon, 19 Sep 22 22:02:51 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -31153,6 +31153,7 @@
 0.0.0.0 www.chokefirmbeauty.com
 0.0.0.0 www.cidistoder.gq
 0.0.0.0 www.circumstantialeltondirtiness.com
+0.0.0.0 www.clanklastingfur.com
 0.0.0.0 www.cleanupcokesunny.com
 0.0.0.0 www.clenchedyouthmatching.com
 0.0.0.0 www.clfxjrlui.com
@@ -31403,6 +31404,7 @@
 0.0.0.0 www.hallucinatecompute.com
 0.0.0.0 www.hallucinatepromise.com
 0.0.0.0 www.handymansurrender.com
+0.0.0.0 www.hangoverineffectivecorners.com
 0.0.0.0 www.happeningturbandisorganized.com
 0.0.0.0 www.harmonycanyon.com
 0.0.0.0 www.harnesssuccessorspray.com
@@ -31462,9 +31464,11 @@
 0.0.0.0 www.independentendure.com
 0.0.0.0 www.indooritalian.com
 0.0.0.0 www.inexhaustiblepatient.com
+0.0.0.0 www.infectedrepentearl.com
 0.0.0.0 www.infirmaryglare.com
 0.0.0.0 www.inflamesplittingmotel.com
 0.0.0.0 www.inflectionquake.com
+0.0.0.0 www.informsrelic.com
 0.0.0.0 www.ingratitudefunctions.com
 0.0.0.0 www.initiallogical.com
 0.0.0.0 www.innumerablecaw.com
