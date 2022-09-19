@@ -20,8 +20,8 @@
 ! Version: 22.09.262
 ! Release: 262
 ! Expires: 1 day
-! Entries: 33,445
-! Updated: Mon, 19 Sep 22 06:02:53 +06
+! Entries: 33,446
+! Updated: Mon, 19 Sep 22 08:07:19 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -29403,6 +29403,7 @@
 ||viabeldumchan.com^
 ||viableconferfitting.com^
 ||viafurfrouchan.com^
+||viagengarr.com^
 ||viajandocontenis.com^
 ||viamariller.com^
 ||vianoivernom.com^

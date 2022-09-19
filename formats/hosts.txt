@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.262
 # Release: 262
-# Entries: 33,445
-# Updated: Mon, 19 Sep 22 06:02:53 +06
+# Entries: 33,446
+# Updated: Mon, 19 Sep 22 08:07:19 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29402,6 +29402,7 @@
 0.0.0.0 viabeldumchan.com
 0.0.0.0 viableconferfitting.com
 0.0.0.0 viafurfrouchan.com
+0.0.0.0 viagengarr.com
 0.0.0.0 viajandocontenis.com
 0.0.0.0 viamariller.com
 0.0.0.0 vianoivernom.com
