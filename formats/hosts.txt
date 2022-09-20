@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.263
 # Release: 263
-# Entries: 33,551
-# Updated: Tue, 20 Sep 22 16:12:23 +06
+# Entries: 33,553
+# Updated: Tue, 20 Sep 22 18:11:53 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20371,6 +20371,7 @@
 0.0.0.0 ovibospeseta.com
 0.0.0.0 oviparaatalan.com
 0.0.0.0 ovoute.com
+0.0.0.0 ovqcmbbxppqquc.com
 0.0.0.0 ovrnevnriuen20.site
 0.0.0.0 ovtiqqwfl.xyz
 0.0.0.0 ovulgmeo.com
@@ -25424,6 +25425,7 @@
 0.0.0.0 sinsoftu.com
 0.0.0.0 sinwebads.com
 0.0.0.0 sinyfqrmiqgd.com
+0.0.0.0 siolmkejst.com
 0.0.0.0 sioncenture.fun
 0.0.0.0 sionsrathet.info
 0.0.0.0 sipibowartern.com
