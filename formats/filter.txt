@@ -20,8 +20,8 @@
 ! Version: 22.09.264
 ! Release: 264
 ! Expires: 1 day
-! Entries: 33,590
-! Updated: Wed, 21 Sep 22 02:09:16 +06
+! Entries: 33,591
+! Updated: Wed, 21 Sep 22 06:08:04 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -24932,6 +24932,7 @@
 ||selwrite.com^
 ||semblanceterrifiednoon.com^
 ||semescroute.com^
+||semidapt.com^
 ||semiglorifyseek.com^
 ||seminaraileenreschedule.com^
 ||seminarlardeyelid.com^
