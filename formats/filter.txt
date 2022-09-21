@@ -20,8 +20,8 @@
 ! Version: 22.09.264
 ! Release: 264
 ! Expires: 1 day
-! Entries: 33,595
-! Updated: Wed, 21 Sep 22 08:09:25 +06
+! Entries: 33,597
+! Updated: Wed, 21 Sep 22 10:18:32 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -23432,6 +23432,7 @@
 ||refuserates.com^
 ||refutationexcessiveglamour.com^
 ||refutationoverwhelming.com^
+||refutationtiptoe.com^
 ||regainthong.com^
 ||regardedsaid.com^
 ||regardianpleast.site^
@@ -31862,6 +31863,7 @@
 ||www.reefseasidejunkie.com^
 ||www.reflectedintegrity.com^
 ||www.reflexalright.com^
+||www.refutationtiptoe.com^
 ||www.regardedsaid.com^
 ||www.regionalsuperstitiousfingerprint.com^
 ||www.registeredbabbledrive.com^

@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.264
 # Release: 264
-# Entries: 33,595
-# Updated: Wed, 21 Sep 22 08:09:25 +06
+# Entries: 33,597
+# Updated: Wed, 21 Sep 22 10:18:32 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -23431,6 +23431,7 @@
 0.0.0.0 refuserates.com
 0.0.0.0 refutationexcessiveglamour.com
 0.0.0.0 refutationoverwhelming.com
+0.0.0.0 refutationtiptoe.com
 0.0.0.0 regainthong.com
 0.0.0.0 regardedsaid.com
 0.0.0.0 regardianpleast.site
@@ -31861,6 +31862,7 @@
 0.0.0.0 www.reefseasidejunkie.com
 0.0.0.0 www.reflectedintegrity.com
 0.0.0.0 www.reflexalright.com
+0.0.0.0 www.refutationtiptoe.com
 0.0.0.0 www.regardedsaid.com
 0.0.0.0 www.regionalsuperstitiousfingerprint.com
 0.0.0.0 www.registeredbabbledrive.com
