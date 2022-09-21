@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.265
 # Release: 265
-# Entries: 33,624
-# Updated: Thu, 22 Sep 22 02:04:14 +06
+# Entries: 33,625
+# Updated: Thu, 22 Sep 22 04:07:08 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -31147,6 +31147,7 @@
 0.0.0.0 www.amplitudewassnap.com
 0.0.0.0 www.anchovysuccession.com
 0.0.0.0 www.animatedbothervogue.com
+0.0.0.0 www.annihilationefficient.com
 0.0.0.0 www.antirgiocub.com
 0.0.0.0 www.anymoresentencevirgin.com
 0.0.0.0 www.apgasampbrid.gq
