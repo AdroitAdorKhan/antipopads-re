@@ -20,8 +20,8 @@
 ! Version: 22.09.265
 ! Release: 265
 ! Expires: 1 day
-! Entries: 33,632
-! Updated: Thu, 22 Sep 22 10:03:51 +06
+! Entries: 33,633
+! Updated: Thu, 22 Sep 22 12:02:51 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -31281,6 +31281,7 @@
 ||www.cornchoreconnecting.com^
 ||www.coupdisturb.com^
 ||www.couriersticky.com^
+||www.cousingypsy.com^
 ||www.crabdefend.com^
 ||www.crackerenmity.com^
 ||www.crashnoodle.com^

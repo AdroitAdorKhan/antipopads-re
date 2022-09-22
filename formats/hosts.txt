@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.265
 # Release: 265
-# Entries: 33,632
-# Updated: Thu, 22 Sep 22 10:03:51 +06
+# Entries: 33,633
+# Updated: Thu, 22 Sep 22 12:02:51 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -31280,6 +31280,7 @@
 0.0.0.0 www.cornchoreconnecting.com
 0.0.0.0 www.coupdisturb.com
 0.0.0.0 www.couriersticky.com
+0.0.0.0 www.cousingypsy.com
 0.0.0.0 www.crabdefend.com
 0.0.0.0 www.crackerenmity.com
 0.0.0.0 www.crashnoodle.com
