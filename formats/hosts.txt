@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.265
 # Release: 265
-# Entries: 33,652
-# Updated: Thu, 22 Sep 22 18:07:05 +06
+# Entries: 33,655
+# Updated: Thu, 22 Sep 22 20:05:37 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6811,6 +6811,7 @@
 0.0.0.0 dailyc24.com
 0.0.0.0 dailydistanceparallel.com
 0.0.0.0 dailyinterventioncongestion.com
+0.0.0.0 dailyvaluenews.com
 0.0.0.0 dainaith.net
 0.0.0.0 daincautela.com
 0.0.0.0 daineely.net
@@ -10403,6 +10404,7 @@
 0.0.0.0 followpractice.social
 0.0.0.0 foloatoo.com
 0.0.0.0 fologicsighter.com
+0.0.0.0 fomulex.com
 0.0.0.0 fondlecokecombination.com
 0.0.0.0 fondledcarnose.casa
 0.0.0.0 fondnatural.com
@@ -20799,6 +20801,7 @@
 0.0.0.0 pbaucpamdtnarz.com
 0.0.0.0 pbcde.com
 0.0.0.0 pbcdkqjdqx.top
+0.0.0.0 pbgrklnnvbeudm.com
 0.0.0.0 pbhrxxcuobz.com
 0.0.0.0 pbjcdypkbmcmrc.xyz
 0.0.0.0 pbkqidejmes.ru
