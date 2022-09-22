@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.265
 # Release: 265
-# Entries: 33,626
-# Updated: Thu, 22 Sep 22 06:03:48 +06
+# Entries: 33,630
+# Updated: Thu, 22 Sep 22 08:03:59 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5240,6 +5240,7 @@
 0.0.0.0 chiltogi.com
 0.0.0.0 chimaerason.com
 0.0.0.0 china-netwave.com
+0.0.0.0 chinchasteepen.com
 0.0.0.0 chingmathecia.website
 0.0.0.0 chinikscouxia.com
 0.0.0.0 chinitnam.com
@@ -12665,6 +12666,7 @@
 0.0.0.0 hileatthesa.biz
 0.0.0.0 hilltopads.net
 0.0.0.0 hilltopgo.com
+0.0.0.0 hilltopsprit.com
 0.0.0.0 hilove.life
 0.0.0.0 hilreeds.net
 0.0.0.0 hilsafurud.com
@@ -17134,6 +17136,7 @@
 0.0.0.0 martafatass.pro
 0.0.0.0 martcubic.com
 0.0.0.0 martiniadnetwork.com
+0.0.0.0 martuconfuse.com
 0.0.0.0 martyappear.pro
 0.0.0.0 martyrwashedbarber.com
 0.0.0.0 marvedesderef.info
@@ -23312,6 +23315,7 @@
 0.0.0.0 rebursteaseful.com
 0.0.0.0 recablesaccule.casa
 0.0.0.0 recalledriddle.com
+0.0.0.0 recanesjurel.com
 0.0.0.0 recastcompellease.com
 0.0.0.0 recdirectgo.biz
 0.0.0.0 recedearchitect.com
