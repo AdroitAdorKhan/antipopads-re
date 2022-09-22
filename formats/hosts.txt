@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.265
 # Release: 265
-# Entries: 33,625
-# Updated: Thu, 22 Sep 22 04:07:08 +06
+# Entries: 33,626
+# Updated: Thu, 22 Sep 22 06:03:48 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -31299,6 +31299,7 @@
 0.0.0.0 www.declinedisobey.com
 0.0.0.0 www.defencehungry.com
 0.0.0.0 www.defiantinfluencedtrustworthy.com
+0.0.0.0 www.deityate.com
 0.0.0.0 www.deitynosebleed.com
 0.0.0.0 www.delayeddisembroildisembroil.com
 0.0.0.0 www.denety.com
