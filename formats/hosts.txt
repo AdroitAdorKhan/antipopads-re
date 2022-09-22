@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.266
 # Release: 266
-# Entries: 33,661
-# Updated: Fri, 23 Sep 22 00:04:46 +06
+# Entries: 33,662
+# Updated: Fri, 23 Sep 22 02:04:34 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20351,6 +20351,7 @@
 0.0.0.0 outlaybuymidnight.com
 0.0.0.0 outlieazafran.com
 0.0.0.0 outlineappearbar.com
+0.0.0.0 outloginequity.com
 0.0.0.0 outlookabsorb.com
 0.0.0.0 outmatchtaughtdeparture.com
 0.0.0.0 outoctillerytor.com
