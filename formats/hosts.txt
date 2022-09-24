@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.267
 # Release: 267
-# Entries: 33,743
-# Updated: Sat, 24 Sep 22 14:03:00 +06
+# Entries: 33,744
+# Updated: Sat, 24 Sep 22 16:05:30 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4458,6 +4458,7 @@
 0.0.0.0 buncoswosh.com
 0.0.0.0 buncounsel.com
 0.0.0.0 bundhammam.com
+0.0.0.0 bungalowlame.com
 0.0.0.0 bunintruder.com
 0.0.0.0 bunnymediaserver.com
 0.0.0.0 buoyant-force.pro

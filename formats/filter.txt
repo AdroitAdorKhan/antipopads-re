@@ -20,8 +20,8 @@
 ! Version: 22.09.267
 ! Release: 267
 ! Expires: 1 day
-! Entries: 33,743
-! Updated: Sat, 24 Sep 22 14:03:00 +06
+! Entries: 33,744
+! Updated: Sat, 24 Sep 22 16:05:30 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -4459,6 +4459,7 @@
 ||buncoswosh.com^
 ||buncounsel.com^
 ||bundhammam.com^
+||bungalowlame.com^
 ||bunintruder.com^
 ||bunnymediaserver.com^
 ||buoyant-force.pro^
