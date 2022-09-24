@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.09.267
-# Release: 267
-# Entries: 33,744
-# Updated: Sat, 24 Sep 22 16:05:30 +06
+# Version: 22.09.268
+# Release: 268
+# Entries: 33,745
+# Updated: Sun, 25 Sep 22 04:02:38 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -18417,6 +18417,7 @@
 0.0.0.0 myotictawse.com
 0.0.0.0 mypenny.xyz
 0.0.0.0 mypushz.com
+0.0.0.0 myquotespro.com
 0.0.0.0 myrdrcts.com
 0.0.0.0 myrtleheathenmontleymontley.com
 0.0.0.0 mysagagame.com
