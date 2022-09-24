@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.267
 # Release: 267
-# Entries: 33,742
-# Updated: Sat, 24 Sep 22 08:06:10 +06
+# Entries: 33,743
+# Updated: Sat, 24 Sep 22 14:03:00 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -31599,6 +31599,7 @@
 0.0.0.0 www.gwwhheahisrtld.com
 0.0.0.0 www.gxymlqcnu.com
 0.0.0.0 www.gyoyunikimchoe.com
+0.0.0.0 www.hailstonenerve.com
 0.0.0.0 www.hairoak.com
 0.0.0.0 www.hajoopteg.com
 0.0.0.0 www.hallucinatecompute.com
