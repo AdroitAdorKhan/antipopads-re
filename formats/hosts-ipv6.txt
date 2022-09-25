@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.269
 # Release: 269
-# Entries: 33,750
-# Updated: Mon, 26 Sep 22 02:02:41 +06
+# Entries: 33,751
+# Updated: Mon, 26 Sep 22 04:02:44 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -15899,6 +15899,7 @@
 :: lammasbananas.com
 :: lamplosts.site
 :: lampoled.com
+:: lanaojets.space
 :: lanceabuse.com
 :: lanceload.com
 :: lanchaeanly.pro
