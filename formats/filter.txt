@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: domains
-! Version: 22.09.268
-! Release: 268
+! Version: 22.09.269
+! Release: 269
 ! Expires: 1 day
-! Entries: 33,749
-! Updated: Sun, 25 Sep 22 20:03:30 +06
+! Entries: 33,750
+! Updated: Mon, 26 Sep 22 02:02:41 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -3327,6 +3327,7 @@
 ||beaterspatrick.com^
 ||beatifulapplabland.com^
 ||beatpreservelost.com^
+||beatsnumen.tech^
 ||beaubitternessapplication.com^
 ||beauhoneycomb.com^
 ||beautystorree.com^

@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.09.268
-# Release: 268
-# Entries: 33,749
-# Updated: Sun, 25 Sep 22 20:03:30 +06
+# Version: 22.09.269
+# Release: 269
+# Entries: 33,750
+# Updated: Mon, 26 Sep 22 02:02:41 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3326,6 +3326,7 @@
 0.0.0.0 beaterspatrick.com
 0.0.0.0 beatifulapplabland.com
 0.0.0.0 beatpreservelost.com
+0.0.0.0 beatsnumen.tech
 0.0.0.0 beaubitternessapplication.com
 0.0.0.0 beauhoneycomb.com
 0.0.0.0 beautystorree.com
