@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.268
 # Release: 268
-# Entries: 33,746
-# Updated: Sun, 25 Sep 22 14:02:59 +06
+# Entries: 33,747
+# Updated: Sun, 25 Sep 22 16:06:57 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29954,6 +29954,7 @@
 0.0.0.0 vorseh.com
 0.0.0.0 voryebecho.xyz
 0.0.0.0 votemoodyexcavate.com
+0.0.0.0 votersenweave.digital
 0.0.0.0 voteyapgrade.com
 0.0.0.0 vothaiwi.com
 0.0.0.0 vouceeco.com
