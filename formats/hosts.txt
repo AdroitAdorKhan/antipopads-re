@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.268
 # Release: 268
-# Entries: 33,748
-# Updated: Sun, 25 Sep 22 18:03:58 +06
+# Entries: 33,749
+# Updated: Sun, 25 Sep 22 20:03:30 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10707,6 +10707,7 @@
 0.0.0.0 frookshop-winsive.com
 0.0.0.0 frooter.xyz
 0.0.0.0 frothadditions.com
+0.0.0.0 frowerpalaced.life
 0.0.0.0 frowzyvibex.com
 0.0.0.0 frpiksdeygy.com
 0.0.0.0 frqjfeilul.top
