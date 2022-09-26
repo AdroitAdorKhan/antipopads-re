@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.269
 # Release: 269
-# Entries: 33,779
-# Updated: Mon, 26 Sep 22 18:05:04 +06
+# Entries: 33,781
+# Updated: Mon, 26 Sep 22 22:02:59 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4057,6 +4057,7 @@
 0.0.0.0 bookierenewprovidence.com
 0.0.0.0 bookieunreasonablepriority.com
 0.0.0.0 bookingfreeze.com
+0.0.0.0 bookismduras.guru
 0.0.0.0 bookljlihooli.com
 0.0.0.0 booklstfree.com
 0.0.0.0 bookmsg.com
@@ -28807,6 +28808,7 @@
 0.0.0.0 ulathana.com
 0.0.0.0 ulbackground.com
 0.0.0.0 ulbrrewmcplns.com
+0.0.0.0 ulceredwidths.life
 0.0.0.0 ulcerselfservice.com
 0.0.0.0 ulcerstopers.cam
 0.0.0.0 ulcghkekpvt.com
