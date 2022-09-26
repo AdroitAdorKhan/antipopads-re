@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.269
 # Release: 269
-# Entries: 33,752
-# Updated: Mon, 26 Sep 22 06:02:51 +06
+# Entries: 33,753
+# Updated: Mon, 26 Sep 22 08:08:19 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6381,6 +6381,7 @@
 0.0.0.0 cracts.com
 0.0.0.0 cradleton.xyz
 0.0.0.0 cragbrasyeps.com
+0.0.0.0 craigcaptive.tech
 0.0.0.0 crajeon.com
 0.0.0.0 crajgcno.top
 0.0.0.0 crakbanner.com
