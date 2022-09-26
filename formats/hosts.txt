@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.270
 # Release: 270
-# Entries: 33,796
-# Updated: Tue, 27 Sep 22 00:06:52 +06
+# Entries: 33,797
+# Updated: Tue, 27 Sep 22 04:03:24 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9895,6 +9895,7 @@
 0.0.0.0 featyn.com
 0.0.0.0 febadu.com
 0.0.0.0 febbrarioferraro.pw
+0.0.0.0 febnylhx.com
 0.0.0.0 februarybogus.com
 0.0.0.0 februaryinjectionproudly.com
 0.0.0.0 februarynip.com
