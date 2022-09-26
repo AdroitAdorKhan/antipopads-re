@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.269
 # Release: 269
-# Entries: 33,751
-# Updated: Mon, 26 Sep 22 04:02:44 +06
+# Entries: 33,752
+# Updated: Mon, 26 Sep 22 06:02:51 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7812,6 +7812,7 @@
 0.0.0.0 dogiedimepupae.com
 0.0.0.0 dogilar.com
 0.0.0.0 dogolurkr.com
+0.0.0.0 dogwoodjoshed.digital
 0.0.0.0 dogwrite.com
 0.0.0.0 dogwuyrspt.com
 0.0.0.0 dohealforyou.com
