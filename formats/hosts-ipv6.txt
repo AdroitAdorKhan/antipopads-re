@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.270
 # Release: 270
-# Entries: 33,804
-# Updated: Tue, 27 Sep 22 10:03:55 +06
+# Entries: 33,805
+# Updated: Tue, 27 Sep 22 12:02:37 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -11642,6 +11642,7 @@
 :: gnajwabt.com
 :: gnalmgysmanask4ermanderezya.website
 :: gnarlgp.com
+:: gnashvarahan.space
 :: gnatgrocery.com
 :: gnatneatlyembodiment.com
 :: gnawedhelixes.space
