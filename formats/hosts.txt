@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.270
 # Release: 270
-# Entries: 33,797
-# Updated: Tue, 27 Sep 22 04:03:24 +06
+# Entries: 33,800
+# Updated: Tue, 27 Sep 22 06:03:19 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3272,6 +3272,7 @@
 0.0.0.0 bcbkwjxwmxqyw.top
 0.0.0.0 bccumpmcmo.xyz
 0.0.0.0 bcdnfk.com
+0.0.0.0 b-cdn.net
 0.0.0.0 bcdofnbuxbdal.com
 0.0.0.0 bcduwlcj.xyz
 0.0.0.0 bce97f29c40fc40.com
@@ -24806,6 +24807,7 @@
 0.0.0.0 saumooly.net
 0.0.0.0 saunaloathe.com
 0.0.0.0 saunasupposedly.com
+0.0.0.0 saushoag.net
 0.0.0.0 sautemoo.net
 0.0.0.0 sauwonie.com
 0.0.0.0 savagedestinyconsistent.com
@@ -25411,6 +25413,7 @@
 0.0.0.0 shopuniteclosing.com
 0.0.0.0 shopusuallyvirtue.com
 0.0.0.0 shopworld.info
+0.0.0.0 shorantonto.com
 0.0.0.0 shoreexi.net
 0.0.0.0 shoresmmrnews.com
 0.0.0.0 shortagestriped.com
