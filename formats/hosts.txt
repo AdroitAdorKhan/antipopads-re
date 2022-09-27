@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.271
 # Release: 271
-# Entries: 33,827
-# Updated: Wed, 28 Sep 22 02:04:49 +06
+# Entries: 33,829
+# Updated: Wed, 28 Sep 22 04:05:13 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1966,6 +1966,7 @@
 0.0.0.0 amulagaudish.cam
 0.0.0.0 amuletlatemanagement.com
 0.0.0.0 amuletsld.com
+0.0.0.0 amusedcoating.digital
 0.0.0.0 amusemystic.com
 0.0.0.0 amwoukrks.autos
 0.0.0.0 amygdalbrittle.com
@@ -22418,6 +22419,7 @@
 0.0.0.0 publiclysexistvisibility.com
 0.0.0.0 publicsparedpen.com
 0.0.0.0 publited.com
+0.0.0.0 publzuza.live
 0.0.0.0 pubmaner5.com
 0.0.0.0 pubnation.com
 0.0.0.0 pubpowerplatform.io
