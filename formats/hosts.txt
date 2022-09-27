@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.270
 # Release: 270
-# Entries: 33,805
-# Updated: Tue, 27 Sep 22 12:02:37 +06
+# Entries: 33,806
+# Updated: Tue, 27 Sep 22 14:02:59 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20281,6 +20281,7 @@
 0.0.0.0 orrkkbaghbgk.com
 0.0.0.0 orsrbuhwaxkqnps.top
 0.0.0.0 ortgeqbkelvqi.top
+0.0.0.0 orthianhollows.website
 0.0.0.0 orthitepetrous.com
 0.0.0.0 orthronsmatter.com
 0.0.0.0 ortoenhanc.biz
