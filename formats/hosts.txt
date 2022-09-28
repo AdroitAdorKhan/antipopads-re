@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.271
 # Release: 271
-# Entries: 33,837
-# Updated: Wed, 28 Sep 22 14:03:53 +06
+# Entries: 33,838
+# Updated: Wed, 28 Sep 22 16:05:37 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5640,6 +5640,7 @@
 0.0.0.0 clogrecord.com
 0.0.0.0 closau.com
 0.0.0.0 closestfantasticpoll.com
+0.0.0.0 closetagitation.com
 0.0.0.0 closiner.com
 0.0.0.0 closkeyrespond.com
 0.0.0.0 closkyyodels.com
