@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.272
 # Release: 272
-# Entries: 33,897
-# Updated: Thu, 29 Sep 22 18:03:43 +06
+# Entries: 33,899
+# Updated: Thu, 29 Sep 22 20:03:08 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19176,6 +19176,7 @@
 0.0.0.0 nonotro.name
 0.0.0.0 nonpareilwagetide.com
 0.0.0.0 nonprofitwerde.top
+0.0.0.0 nonspewpa.com
 0.0.0.0 nonstoppartner.de
 0.0.0.0 nontio.com
 0.0.0.0 nonusesectatic.com
@@ -31015,6 +31016,7 @@
 0.0.0.0 wlbivjnvlbvb.com
 0.0.0.0 wlbmlxjjbfjoh.top
 0.0.0.0 wlbrlpuxjw.com
+0.0.0.0 wledconsi.xyz
 0.0.0.0 wlieivhvqg.top
 0.0.0.0 wlkgrnqvuy.com
 0.0.0.0 wllfllujcfvxca.top
