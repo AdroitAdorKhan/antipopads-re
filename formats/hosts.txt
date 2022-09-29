@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.273
 # Release: 273
-# Entries: 33,914
-# Updated: Fri, 30 Sep 22 00:06:46 +06
+# Entries: 33,916
+# Updated: Fri, 30 Sep 22 02:04:27 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10347,6 +10347,7 @@
 0.0.0.0 flmuqa.com
 0.0.0.0 flnqbugygwuv.com
 0.0.0.0 flnrfngajruwvr.top
+0.0.0.0 floatingfolly.com
 0.0.0.0 floccischlump.com
 0.0.0.0 flogmacaroni.com
 0.0.0.0 flomigo.com
@@ -23437,6 +23438,7 @@
 0.0.0.0 rdudxejbyxxcb.com
 0.0.0.0 reacheffectsp.work
 0.0.0.0 reachenvelope.com
+0.0.0.0 reachesowing.live
 0.0.0.0 reachmode.com
 0.0.0.0 reachsubmission.com
 0.0.0.0 reactnurseryjoin.com
