@@ -20,8 +20,8 @@
 ! Version: 22.09.272
 ! Release: 272
 ! Expires: 1 day
-! Entries: 33,887
-! Updated: Thu, 29 Sep 22 10:05:50 +06
+! Entries: 33,888
+! Updated: Thu, 29 Sep 22 12:02:36 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -25482,6 +25482,7 @@
 ||shopusuallyvirtue.com^
 ||shopworld.info^
 ||shorantonto.com^
+||shoreeds.com^
 ||shoreexi.net^
 ||shoresmmrnews.com^
 ||shortagestriped.com^
