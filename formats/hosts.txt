@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.273
 # Release: 273
-# Entries: 33,944
-# Updated: Fri, 30 Sep 22 20:03:37 +06
+# Entries: 33,946
+# Updated: Fri, 30 Sep 22 22:03:18 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10037,6 +10037,7 @@
 0.0.0.0 fetchinstalmenttraffic.com
 0.0.0.0 fethungi.com
 0.0.0.0 fetiseovisac.com
+0.0.0.0 feudalspelter.life
 0.0.0.0 feuingcrche.com
 0.0.0.0 feverfreeman.com
 0.0.0.0 fevlqqnwso.com
@@ -32508,6 +32509,7 @@
 0.0.0.0 www.variousformatscontent.com
 0.0.0.0 www.variousformatscontent.comwww.variousformatscontent.com
 0.0.0.0 www.velior.ru
+0.0.0.0 www.veneeringimpenetrable.com
 0.0.0.0 www.venisonchemistrydeclared.com
 0.0.0.0 www.venisonhumridicule.com
 0.0.0.0 www.verandahcrease.com
