@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.273
 # Release: 273
-# Entries: 33,943
-# Updated: Fri, 30 Sep 22 18:03:53 +06
+# Entries: 33,944
+# Updated: Fri, 30 Sep 22 20:03:37 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -30834,6 +30834,7 @@
 0.0.0.0 whihauve.net
 0.0.0.0 whikgcnxuulyr.xyz
 0.0.0.0 whilefitsaltered.com
+0.0.0.0 whillfortis.life
 0.0.0.0 whilot.com
 0.0.0.0 whimsoplynx.com
 0.0.0.0 whippedfreezerbegun.com
