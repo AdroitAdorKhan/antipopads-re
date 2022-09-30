@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.273
 # Release: 273
-# Entries: 33,939
-# Updated: Fri, 30 Sep 22 10:04:08 +06
+# Entries: 33,940
+# Updated: Fri, 30 Sep 22 12:02:27 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2416,6 +2416,7 @@
 0.0.0.0 ascentmatrimonypistol.com
 0.0.0.0 ascertaincrescenthandbag.com
 0.0.0.0 ascertainedfortnight.com
+0.0.0.0 aschamrotor.live
 0.0.0.0 ascitbhalse.guru
 0.0.0.0 ascomasoprano.website
 0.0.0.0 ascraftan.com
