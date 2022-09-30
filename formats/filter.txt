@@ -20,8 +20,8 @@
 ! Version: 22.09.273
 ! Release: 273
 ! Expires: 1 day
-! Entries: 33,940
-! Updated: Fri, 30 Sep 22 12:02:27 +06
+! Entries: 33,941
+! Updated: Fri, 30 Sep 22 14:03:34 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -2619,6 +2619,7 @@
 ||atoescruffy.fun^
 ||atombearable.com^
 ||atomex.net^
+||atomheal.live^
 ||ato.mx^
 ||atonato.de^
 ||atonementimmersedlacerate.com^

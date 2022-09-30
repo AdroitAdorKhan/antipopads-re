@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.273
 # Release: 273
-# Entries: 33,940
-# Updated: Fri, 30 Sep 22 12:02:27 +06
+# Entries: 33,941
+# Updated: Fri, 30 Sep 22 14:03:34 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2618,6 +2618,7 @@
 0.0.0.0 atoescruffy.fun
 0.0.0.0 atombearable.com
 0.0.0.0 atomex.net
+0.0.0.0 atomheal.live
 0.0.0.0 ato.mx
 0.0.0.0 atonato.de
 0.0.0.0 atonementimmersedlacerate.com
