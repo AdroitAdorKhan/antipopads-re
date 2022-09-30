@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.09.273
-# Release: 273
-# Entries: 33,946
-# Updated: Fri, 30 Sep 22 22:03:18 +06
+# Version: 22.10.274
+# Release: 274
+# Entries: 33,949
+# Updated: Sat, 01 Oct 22 00:06:35 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2805,6 +2805,7 @@
 0.0.0.0 avedav.com
 0.0.0.0 avenuehuminterpretation.com
 0.0.0.0 avenuescrupuloustheological.com
+0.0.0.0 average-champion.pro
 0.0.0.0 averaladmi.info
 0.0.0.0 averalzaedsk.xyz
 0.0.0.0 aversionworkingthankful.com
@@ -16060,6 +16061,7 @@
 0.0.0.0 lativenayl.top
 0.0.0.0 latrinehelves.com
 0.0.0.0 latterinconvenient.com
+0.0.0.0 lattor.com
 0.0.0.0 latuga.com
 0.0.0.0 latury.com
 0.0.0.0 latvianswived.com
@@ -23278,6 +23280,7 @@
 0.0.0.0 ragapa.com
 0.0.0.0 ragenessed.top
 0.0.0.0 raggedselsyn.com
+0.0.0.0 raggedstriking.com
 0.0.0.0 raglogripsa.com
 0.0.0.0 ragsaved.com
 0.0.0.0 ragsfrynotary.com
