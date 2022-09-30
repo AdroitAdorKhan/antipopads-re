@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.09.273
 # Release: 273
-# Entries: 33,941
-# Updated: Fri, 30 Sep 22 14:03:34 +06
+# Entries: 33,943
+# Updated: Fri, 30 Sep 22 18:03:53 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10742,6 +10742,7 @@
 0.0.0.0 friendlyduck.com
 0.0.0.0 frientialfinge.xyz
 0.0.0.0 friesel-mustin.com
+0.0.0.0 friezesrumps.digital
 0.0.0.0 frifqgxpxlewck.top
 0.0.0.0 frightfuljourney.com
 0.0.0.0 frillsretore.casa
@@ -18139,6 +18140,7 @@
 0.0.0.0 mortypush.com
 0.0.0.0 morxopqyrir.top
 0.0.0.0 mosece.com
+0.0.0.0 moseltrabeae.space
 0.0.0.0 mosked.com
 0.0.0.0 mosquedestitute.com
 0.0.0.0 mosqueworking.com
