@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.274
 # Release: 274
-# Entries: 33,984
-# Updated: Sat, 01 Oct 22 18:02:41 +06
+# Entries: 33,985
+# Updated: Sat, 01 Oct 22 20:02:26 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -22107,6 +22107,7 @@
 0.0.0.0 printmeantime.com
 0.0.0.0 prinue.com
 0.0.0.0 priorityinvaderinflation.com
+0.0.0.0 prisageshingle.uno
 0.0.0.0 prisedeluge.com
 0.0.0.0 priseloos.com
 0.0.0.0 prismarrears.com
