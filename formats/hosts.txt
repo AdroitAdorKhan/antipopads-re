@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.274
 # Release: 274
-# Entries: 33,961
-# Updated: Sat, 01 Oct 22 10:03:27 +06
+# Entries: 33,964
+# Updated: Sat, 01 Oct 22 14:03:00 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12414,6 +12414,7 @@
 0.0.0.0 hastejuggle.com
 0.0.0.0 hastilyantiterrorist.com
 0.0.0.0 hastilyguide.com
+0.0.0.0 hastymaillot.tech
 0.0.0.0 hatagashira.com
 0.0.0.0 hatbenchmajestic.com
 0.0.0.0 hatchetlavatory.com
@@ -16048,6 +16049,7 @@
 0.0.0.0 lashsketch.com
 0.0.0.0 lassampy.com
 0.0.0.0 lassue.com
+0.0.0.0 lastedriblets.life
 0.0.0.0 lasticalsdeb.xyz
 0.0.0.0 lastqesn.top
 0.0.0.0 lasvkgqc.top
@@ -31671,6 +31673,7 @@
 0.0.0.0 www.enchantmenthopeless.com
 0.0.0.0 www.encloseddealing.com
 0.0.0.0 www.enclosedhelium.com
+0.0.0.0 www.encodehelped.com
 0.0.0.0 www.encogcfklrcpqw.com
 0.0.0.0 www.entirelysacrament.com
 0.0.0.0 www.envelopeheadache.com
