@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.275
 # Release: 275
-# Entries: 34,000
-# Updated: Sun, 02 Oct 22 10:02:50 +06
+# Entries: 34,001
+# Updated: Sun, 02 Oct 22 12:02:13 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -17262,6 +17262,7 @@
 :: mannernotchnewly.com
 :: mannersbelt.com
 :: mannerstiring.com
+:: mannetenlink.digital
 :: manputupat.xyz
 :: manrxbbpxnw.top
 :: mansavou.net
