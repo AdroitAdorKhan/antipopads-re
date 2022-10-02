@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.275
 # Release: 275
-# Entries: 33,988
-# Updated: Sun, 02 Oct 22 04:02:25 +06
+# Entries: 33,990
+# Updated: Sun, 02 Oct 22 06:03:32 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8457,6 +8457,7 @@
 0.0.0.0 earchmess.fun
 0.0.0.0 eardepth-prisists.com
 0.0.0.0 earewi.com
+0.0.0.0 earfulsstubby.store
 0.0.0.0 eargentssep.one
 0.0.0.0 earlapspur.com
 0.0.0.0 earleene.com
@@ -25003,6 +25004,7 @@
 0.0.0.0 scarletcashwi5.com
 0.0.0.0 scarl.shop
 0.0.0.0 scarofnght.com
+0.0.0.0 scarsdogra.tech
 0.0.0.0 scatholics.com
 0.0.0.0 scatteredoutillicit.com
 0.0.0.0 scaupyfeuwmaxxt.com
