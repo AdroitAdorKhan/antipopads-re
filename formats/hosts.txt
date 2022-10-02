@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.10.275
-# Release: 275
-# Entries: 34,020
-# Updated: Sun, 02 Oct 22 22:02:18 +06
+# Version: 22.10.276
+# Release: 276
+# Entries: 34,022
+# Updated: Mon, 03 Oct 22 02:03:55 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -657,6 +657,7 @@
 0.0.0.0 abbeyblog.me
 0.0.0.0 abbeyintervalfetched.com
 0.0.0.0 abbeyleefeet.com
+0.0.0.0 abbeysrustled.uno
 0.0.0.0 abbitbcwtkwkyx.xyz
 0.0.0.0 abbols.com
 0.0.0.0 abbp1.com
@@ -20548,6 +20549,7 @@
 0.0.0.0 outbursttones.com
 0.0.0.0 outchinchour.com
 0.0.0.0 outelectrodean.com
+0.0.0.0 outensootier.guru
 0.0.0.0 outfunnel.com
 0.0.0.0 outgateniceish.com
 0.0.0.0 outgoingfan.pro
