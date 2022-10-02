@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.275
 # Release: 275
-# Entries: 34,013
-# Updated: Sun, 02 Oct 22 16:04:52 +06
+# Entries: 34,016
+# Updated: Sun, 02 Oct 22 18:04:58 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15411,6 +15411,7 @@
 0.0.0.0 kesmgrstmhnen.xyz
 0.0.0.0 ketadeep.com
 0.0.0.0 ketads.com
+0.0.0.0 ketchesektene.guru
 0.0.0.0 ketchupscreech.com
 0.0.0.0 ketobeparto.xyz
 0.0.0.0 ketodis.com
@@ -21465,6 +21466,7 @@
 0.0.0.0 pietyinputinsult.com
 0.0.0.0 pigamn.com
 0.0.0.0 pigath.com
+0.0.0.0 piglikecold.uno
 0.0.0.0 pignuwoa.com
 0.0.0.0 pigtre.com
 0.0.0.0 piguiqproxy.com
@@ -23355,6 +23357,7 @@
 0.0.0.0 ramatering.club
 0.0.0.0 rambibelk.com
 0.0.0.0 rambleconcernedscar.com
+0.0.0.0 rambomero.space
 0.0.0.0 rameattot.com
 0.0.0.0 rammishruinous.com
 0.0.0.0 ramptariff.com
