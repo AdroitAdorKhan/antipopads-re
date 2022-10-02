@@ -20,8 +20,8 @@
 ! Version: 22.10.275
 ! Release: 275
 ! Expires: 1 day
-! Entries: 34,001
-! Updated: Sun, 02 Oct 22 12:02:13 +06
+! Entries: 34,003
+! Updated: Sun, 02 Oct 22 14:03:09 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -5251,6 +5251,7 @@
 ||cheekugly.com^
 ||cheeltee.net^
 ||cheemtoo.com^
+||cheepayer.life^
 ||cheeradvise.com^
 ||cheerfuldisingenuous.com^
 ||cheerlessfunnelconcealed.com^
@@ -16626,6 +16627,7 @@
 ||lltjfawqaicvf.com^
 ||lltrsknoob.click^
 ||lltscjwisvygnb.xyz^
+||llunlost.uno^
 ||llvipdismtcsb.com^
 ||llytoeovwsbuffv.com^
 ||lmaruhavf.com^

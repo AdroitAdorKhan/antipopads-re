@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.275
 # Release: 275
-# Entries: 34,001
-# Updated: Sun, 02 Oct 22 12:02:13 +06
+# Entries: 34,003
+# Updated: Sun, 02 Oct 22 14:03:09 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5250,6 +5250,7 @@
 0.0.0.0 cheekugly.com
 0.0.0.0 cheeltee.net
 0.0.0.0 cheemtoo.com
+0.0.0.0 cheepayer.life
 0.0.0.0 cheeradvise.com
 0.0.0.0 cheerfuldisingenuous.com
 0.0.0.0 cheerlessfunnelconcealed.com
@@ -16625,6 +16626,7 @@
 0.0.0.0 lltjfawqaicvf.com
 0.0.0.0 lltrsknoob.click
 0.0.0.0 lltscjwisvygnb.xyz
+0.0.0.0 llunlost.uno
 0.0.0.0 llvipdismtcsb.com
 0.0.0.0 llytoeovwsbuffv.com
 0.0.0.0 lmaruhavf.com
