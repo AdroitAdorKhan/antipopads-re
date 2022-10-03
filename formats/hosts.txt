@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.276
 # Release: 276
-# Entries: 34,039
-# Updated: Mon, 03 Oct 22 10:03:57 +06
+# Entries: 34,041
+# Updated: Mon, 03 Oct 22 12:02:15 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10337,6 +10337,7 @@
 0.0.0.0 flashymass.com
 0.0.0.0 flasknstall.click
 0.0.0.0 flaskstationsubsequent.com
+0.0.0.0 flatbedcouthy.space
 0.0.0.0 flatcapspriggy.cam
 0.0.0.0 flatepicbats.com
 0.0.0.0 flatlyforensics.com
@@ -17138,6 +17139,7 @@
 0.0.0.0 macedonjesse.life
 0.0.0.0 machineryvegetable.com
 0.0.0.0 machings.com
+0.0.0.0 machoembathe.live
 0.0.0.0 machogodynamis.com
 0.0.0.0 macknypqwjw.com
 0.0.0.0 macouwou.com
