@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.276
 # Release: 276
-# Entries: 34,055
-# Updated: Mon, 03 Oct 22 18:03:03 +06
+# Entries: 34,057
+# Updated: Mon, 03 Oct 22 20:04:05 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -26876,6 +26876,7 @@
 0.0.0.0 strowedatellan.com
 0.0.0.0 strownstramp.cam
 0.0.0.0 stroydoroga.ru
+0.0.0.0 struckganzie.life
 0.0.0.0 structurerod.com
 0.0.0.0 struggleoppressivecomprise.com
 0.0.0.0 strxqrqfiprwitn.top
@@ -30624,6 +30625,7 @@
 0.0.0.0 watgzh.com
 0.0.0.0 watwait.com
 0.0.0.0 waugeboa.net
+0.0.0.0 waughtruman.live
 0.0.0.0 waugique.net
 0.0.0.0 waust.at
 0.0.0.0 wauthaik.net
