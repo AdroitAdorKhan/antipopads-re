@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.276
 # Release: 276
-# Entries: 34,053
-# Updated: Mon, 03 Oct 22 16:09:19 +06
+# Entries: 34,055
+# Updated: Mon, 03 Oct 22 18:03:03 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12305,6 +12305,7 @@
 0.0.0.0 h3lw971ym6.com
 0.0.0.0 h5tjj3loy2.com
 0.0.0.0 h8bjfdcu.com
+0.0.0.0 h8brccv4zf5h.com
 0.0.0.0 h8vzwpv.com
 0.0.0.0 haamhxlm.top
 0.0.0.0 haaseavy.one
@@ -30021,6 +30022,7 @@
 0.0.0.0 violencegloss.com
 0.0.0.0 violentthinner.com
 0.0.0.0 violetdistasteful.com
+0.0.0.0 violinoincreep.store
 0.0.0.0 vipaicka.net
 0.0.0.0 vipartstudio.ru
 0.0.0.0 vip-city-datesnow.com
