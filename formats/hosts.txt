@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.276
 # Release: 276
-# Entries: 34,041
-# Updated: Mon, 03 Oct 22 12:02:15 +06
+# Entries: 34,045
+# Updated: Mon, 03 Oct 22 14:02:23 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1007,6 +1007,7 @@
 0.0.0.0 ad-indicator.com
 0.0.0.0 adioeghyuxup.top
 0.0.0.0 adiquity.com
+0.0.0.0 adjaco.com
 0.0.0.0 adjoincomprise.com
 0.0.0.0 adjoiningfollowingaddiction.com
 0.0.0.0 adjoiningfoolish.com
@@ -1632,6 +1633,7 @@
 0.0.0.0 aimairou.net
 0.0.0.0 aimamparc.club
 0.0.0.0 aimatch.com
+0.0.0.0 aimeekoipato.guru
 0.0.0.0 aimfulpanicky.com
 0.0.0.0 aimizeslialbert.com
 0.0.0.0 aimpocket.com
@@ -16730,6 +16732,7 @@
 0.0.0.0 lockhosts.com
 0.0.0.0 lockingadmitted.com
 0.0.0.0 lockupaccede.com
+0.0.0.0 locold.com
 0.0.0.0 locomotiveconvenientriddle.com
 0.0.0.0 locothet.com
 0.0.0.0 locretro-conald.icu
@@ -17143,6 +17146,7 @@
 0.0.0.0 machogodynamis.com
 0.0.0.0 macknypqwjw.com
 0.0.0.0 macouwou.com
+0.0.0.0 maculedfalls.com
 0.0.0.0 madadsmedia.com
 0.0.0.0 madampassenger.com
 0.0.0.0 madcent.com
