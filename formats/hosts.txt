@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.277
 # Release: 277
-# Entries: 34,081
-# Updated: Tue, 04 Oct 22 08:07:43 +06
+# Entries: 34,084
+# Updated: Tue, 04 Oct 22 10:02:55 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1640,6 +1640,7 @@
 0.0.0.0 aimizeslialbert.com
 0.0.0.0 aimpocket.com
 0.0.0.0 aimpooft.com
+0.0.0.0 aimvaria.live
 0.0.0.0 ainaksis.com
 0.0.0.0 aino2.com
 0.0.0.0 aintinuumdelos.com
@@ -21429,6 +21430,7 @@
 0.0.0.0 phoashou.com
 0.0.0.0 phoawhap.net
 0.0.0.0 phoaxevu.net
+0.0.0.0 phocidabioses.store
 0.0.0.0 phohothiptu.pro
 0.0.0.0 phokukse.com
 0.0.0.0 pholonyknommises.com
@@ -32703,6 +32705,7 @@
 0.0.0.0 www.wohfowalli.gq
 0.0.0.0 www.wolvescuckooship.com
 0.0.0.0 www.womanlimitless.com
+0.0.0.0 www.woodbeesdainty.com
 0.0.0.0 www.woodygarlicdraw.com
 0.0.0.0 www.workplacelimetree.com
 0.0.0.0 www.woymebsi.com
