@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.277
 # Release: 277
-# Entries: 34,077
-# Updated: Tue, 04 Oct 22 04:03:01 +06
+# Entries: 34,079
+# Updated: Tue, 04 Oct 22 06:02:30 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4044,6 +4044,7 @@
 0.0.0.0 bofbscdjixcki.com
 0.0.0.0 boffinsoft.com
 0.0.0.0 boffoadsfeeds.com
+0.0.0.0 boffosblowby.uno
 0.0.0.0 boftogro.net
 0.0.0.0 bofyshaphi.com
 0.0.0.0 bogripty.net
@@ -7189,6 +7190,7 @@
 0.0.0.0 degryrubi.com
 0.0.0.0 degustswaughts.com
 0.0.0.0 dehairpodley.com
+0.0.0.0 dehornstrigged.live
 0.0.0.0 dehornuplock.com
 0.0.0.0 deicemaptwin.com
 0.0.0.0 deiligejenter.com
