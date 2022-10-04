@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.10.277
-# Release: 277
-# Entries: 34,132
-# Updated: Tue, 04 Oct 22 22:03:16 +06
+# Version: 22.10.278
+# Release: 278
+# Entries: 34,134
+# Updated: Wed, 05 Oct 22 00:07:25 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7430,6 +7430,7 @@
 0.0.0.0 dfmngtubtdfxnq.com
 0.0.0.0 dfmqhoyjarhm.top
 0.0.0.0 dfoqdlovwyxh.xyz
+0.0.0.0 dfpbnfapwcfap.com
 0.0.0.0 dfspqgsuttnr.top
 0.0.0.0 dfswmdxxbkge.top
 0.0.0.0 dfuqqyvkohh.info
@@ -30049,6 +30050,7 @@
 0.0.0.0 viewscout.com
 0.0.0.0 vifyzymo.com
 0.0.0.0 vighea.com
+0.0.0.0 vigllnztz.com
 0.0.0.0 vignerez.net
 0.0.0.0 vigoroussolidjitter.com
 0.0.0.0 vigpsypoyta.com
