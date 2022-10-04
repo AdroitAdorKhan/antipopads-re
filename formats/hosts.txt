@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.277
 # Release: 277
-# Entries: 34,084
-# Updated: Tue, 04 Oct 22 10:02:55 +06
+# Entries: 34,085
+# Updated: Tue, 04 Oct 22 12:02:24 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -21027,6 +21027,7 @@
 0.0.0.0 paumoogo.net
 0.0.0.0 paurif.com
 0.0.0.0 paurozel.net
+0.0.0.0 pausairiatas.guru
 0.0.0.0 pausingrespectfully.com
 0.0.0.0 pauzajoo.net
 0.0.0.0 paverscortaro.com
