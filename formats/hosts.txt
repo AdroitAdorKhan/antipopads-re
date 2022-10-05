@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.278
 # Release: 278
-# Entries: 34,158
-# Updated: Wed, 05 Oct 22 14:02:58 +06
+# Entries: 34,160
+# Updated: Wed, 05 Oct 22 16:06:56 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11667,6 +11667,7 @@
 0.0.0.0 glimtors.net
 0.0.0.0 glirsoss.com
 0.0.0.0 glishais.net
+0.0.0.0 glisskalkvis.live
 0.0.0.0 glitteridentifiernavy.com
 0.0.0.0 glitteringassimilate.com
 0.0.0.0 glitteringcourageous.com
@@ -23596,6 +23597,7 @@
 0.0.0.0 rdrtrk.com
 0.0.0.0 rdsb21.club
 0.0.0.0 rdsb2.club
+0.0.0.0 rdsddand.com
 0.0.0.0 rdsrv.com
 0.0.0.0 rdsxrwuycm.com
 0.0.0.0 rdthoavhkybqo.xyz
