@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.279
 # Release: 279
-# Entries: 34,182
-# Updated: Thu, 06 Oct 22 00:08:30 +06
+# Entries: 34,183
+# Updated: Thu, 06 Oct 22 04:03:48 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16767,6 +16767,7 @@
 0.0.0.0 loathepimpery.com
 0.0.0.0 loatis.com
 0.0.0.0 loaxmxuom.com
+0.0.0.0 loazezoo.net
 0.0.0.0 lobby-x.eu
 0.0.0.0 lobesskier.com
 0.0.0.0 lobimax.com
