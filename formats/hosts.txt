@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.278
 # Release: 278
-# Entries: 34,174
-# Updated: Wed, 05 Oct 22 18:03:56 +06
+# Entries: 34,176
+# Updated: Wed, 05 Oct 22 20:04:02 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20160,6 +20160,7 @@
 0.0.0.0 omeroyoccu.xyz
 0.0.0.0 omgbmtnxj.xyz
 0.0.0.0 omgeihxpmwcn.xyz
+0.0.0.0 omggxbcdqj.com
 0.0.0.0 omgnugokin.top
 0.0.0.0 omisingcur.fun
 0.0.0.0 omitbailey.com
@@ -30282,6 +30283,7 @@
 0.0.0.0 vnr82.com
 0.0.0.0 vnr83.com
 0.0.0.0 vnrherdsxr.com
+0.0.0.0 vnrkbnmoow.com
 0.0.0.0 vnslfje9frslk.info
 0.0.0.0 vnsoyhreh.com
 0.0.0.0 vnuccenky.com
