@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.278
 # Release: 278
-# Entries: 34,135
-# Updated: Wed, 05 Oct 22 04:03:40 +06
+# Entries: 34,136
+# Updated: Wed, 05 Oct 22 06:03:26 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -3076,6 +3076,7 @@
 :: badtopwitch.work
 :: baetrf.com
 :: baffledzein.com
+:: baffsvenging.life
 :: bafsxyiknk.xyz
 :: bagbeam.com
 :: bagfuladjectiveinvade.com
