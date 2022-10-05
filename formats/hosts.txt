@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.278
 # Release: 278
-# Entries: 34,157
-# Updated: Wed, 05 Oct 22 12:03:08 +06
+# Entries: 34,158
+# Updated: Wed, 05 Oct 22 14:02:58 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9749,6 +9749,7 @@
 0.0.0.0 facilitategovernor.com
 0.0.0.0 facilitatevoluntarily.com
 0.0.0.0 facilitystrode.com
+0.0.0.0 facsimrunt.space
 0.0.0.0 factermer.com
 0.0.0.0 factha.com
 0.0.0.0 factoryraces.com
