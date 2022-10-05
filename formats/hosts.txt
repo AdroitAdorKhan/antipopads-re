@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.278
 # Release: 278
-# Entries: 34,154
-# Updated: Wed, 05 Oct 22 08:07:13 +06
+# Entries: 34,156
+# Updated: Wed, 05 Oct 22 10:02:48 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6452,6 +6452,7 @@
 0.0.0.0 cracts.com
 0.0.0.0 cradleton.xyz
 0.0.0.0 cragbrasyeps.com
+0.0.0.0 craharice.com
 0.0.0.0 craigcaptive.tech
 0.0.0.0 crajeon.com
 0.0.0.0 crajgcno.top
@@ -9202,6 +9203,7 @@
 0.0.0.0 eoredi.com
 0.0.0.0 eormneretymoyp.top
 0.0.0.0 eosads.com
+0.0.0.0 eosidezaparo.tech
 0.0.0.0 eossbuqccjrfs.com
 0.0.0.0 eouryfvioeurfoevri.xyz
 0.0.0.0 eovewmix.top
