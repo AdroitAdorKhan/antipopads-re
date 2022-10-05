@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.278
 # Release: 278
-# Entries: 34,156
-# Updated: Wed, 05 Oct 22 10:02:48 +06
+# Entries: 34,157
+# Updated: Wed, 05 Oct 22 12:03:08 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10225,6 +10225,7 @@
 0.0.0.0 financemonk.net
 0.0.0.0 financialjaguarnightclub.com
 0.0.0.0 financiallypullover.com
+0.0.0.0 finchesvaster.website
 0.0.0.0 find-affair3now3.com
 0.0.0.0 findbetterresults.com
 0.0.0.0 findepended.com
