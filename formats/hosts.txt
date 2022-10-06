@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.279
 # Release: 279
-# Entries: 34,203
-# Updated: Thu, 06 Oct 22 10:03:39 +06
+# Entries: 34,204
+# Updated: Thu, 06 Oct 22 16:06:29 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16352,6 +16352,7 @@
 0.0.0.0 legendfrecklessfreckless.com
 0.0.0.0 legerbbs.com
 0.0.0.0 legerikath.com
+0.0.0.0 leggygagbighearted.com
 0.0.0.0 legime.com
 0.0.0.0 leginsi2leopard1oviy1hf.com
 0.0.0.0 legislationopenedinspired.com
