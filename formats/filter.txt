@@ -20,8 +20,8 @@
 ! Version: 22.10.280
 ! Release: 280
 ! Expires: 1 day
-! Entries: 34,235
-! Updated: Fri, 07 Oct 22 00:06:42 +06
+! Entries: 34,237
+! Updated: Fri, 07 Oct 22 02:03:48 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -7051,6 +7051,7 @@
 ||dazhantai.com^
 ||db52cc91beabf7e8.com^
 ||db64500e2426cf.com^
+||dbaujmgikas.com^
 ||dbbsrv.com^
 ||dbcache.fun^
 ||dbclix.com^
@@ -20207,6 +20208,7 @@
 ||omitbailey.com^
 ||omitneitherrover.com^
 ||omitsmilesoutbreak.com^
+||omlktdqrzwrtn.com^
 ||ommeowthor.com^
 ||omnan.com^
 ||omnatuor.com^

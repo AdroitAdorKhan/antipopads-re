@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.280
 # Release: 280
-# Entries: 34,235
-# Updated: Fri, 07 Oct 22 00:06:42 +06
+# Entries: 34,237
+# Updated: Fri, 07 Oct 22 02:03:48 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7050,6 +7050,7 @@
 0.0.0.0 dazhantai.com
 0.0.0.0 db52cc91beabf7e8.com
 0.0.0.0 db64500e2426cf.com
+0.0.0.0 dbaujmgikas.com
 0.0.0.0 dbbsrv.com
 0.0.0.0 dbcache.fun
 0.0.0.0 dbclix.com
@@ -20206,6 +20207,7 @@
 0.0.0.0 omitbailey.com
 0.0.0.0 omitneitherrover.com
 0.0.0.0 omitsmilesoutbreak.com
+0.0.0.0 omlktdqrzwrtn.com
 0.0.0.0 ommeowthor.com
 0.0.0.0 omnan.com
 0.0.0.0 omnatuor.com
