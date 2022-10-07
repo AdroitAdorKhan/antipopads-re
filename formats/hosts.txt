@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.280
 # Release: 280
-# Entries: 34,258
-# Updated: Fri, 07 Oct 22 04:03:36 +06
+# Entries: 34,260
+# Updated: Fri, 07 Oct 22 06:03:16 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4075,6 +4075,7 @@
 0.0.0.0 boilslashtasted.com
 0.0.0.0 boilstaircasehug.com
 0.0.0.0 boinkcash.com
+0.0.0.0 boisterousemblem.com
 0.0.0.0 bojebyze.com
 0.0.0.0 bojgjgqytahqhg.top
 0.0.0.0 bokeden.com
@@ -31127,6 +31128,7 @@
 0.0.0.0 whillfortis.life
 0.0.0.0 whilot.com
 0.0.0.0 whimsoplynx.com
+0.0.0.0 whiningconfessed.com
 0.0.0.0 whippedfreezerbegun.com
 0.0.0.0 whirgoom.com
 0.0.0.0 whirlsblosmy.com
