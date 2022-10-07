@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.10.280
-# Release: 280
-# Entries: 34,281
-# Updated: Fri, 07 Oct 22 20:04:23 +06
+# Version: 22.10.281
+# Release: 281
+# Entries: 34,285
+# Updated: Sat, 08 Oct 22 00:07:59 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -649,6 +649,7 @@
 0.0.0.0 abaflhyoejp.top
 0.0.0.0 abakys.ru
 0.0.0.0 abandonrecommendationwars.com
+0.0.0.0 abange.com
 0.0.0.0 abasgimental.com
 0.0.0.0 abashcoppercocky.com
 0.0.0.0 abasir.com
@@ -5067,6 +5068,7 @@
 0.0.0.0 celebsreflect.com
 0.0.0.0 celeritascdn.com
 0.0.0.0 celeryisolatedproject.com
+0.0.0.0 celign.com
 0.0.0.0 cellaraudacityslack.com
 0.0.0.0 cellarretro.com
 0.0.0.0 cellojapanel.one
@@ -14516,6 +14518,7 @@
 0.0.0.0 itsefficient.com
 0.0.0.0 itstuffnews.com
 0.0.0.0 itswowiota.com
+0.0.0.0 itthatsheis.one
 0.0.0.0 ittogepiom.com
 0.0.0.0 ittorchicer.com
 0.0.0.0 itvalleynews.com
@@ -18544,6 +18547,7 @@
 0.0.0.0 mumosy.com
 0.0.0.0 mumsimso.net
 0.0.0.0 mumtsioc.top
+0.0.0.0 mumuendakuthyfo.xyz
 0.0.0.0 munchenviableski.com
 0.0.0.0 mungfali.com
 0.0.0.0 municalcurit.xyz
