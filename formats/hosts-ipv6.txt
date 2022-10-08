@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.281
 # Release: 281
-# Entries: 34,304
-# Updated: Sat, 08 Oct 22 02:03:28 +06
+# Entries: 34,306
+# Updated: Sat, 08 Oct 22 16:06:23 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -2779,6 +2779,7 @@
 :: autcokncufjp.com
 :: auteboon.net
 :: authenticatetracking.com
+:: authordress.com
 :: authoritiessteering.com
 :: authorityasknimble.com
 :: authoritygratecreed.com
@@ -22272,6 +22273,7 @@
 :: pretextexpertisedisappeared.com
 :: pretexthalt.com
 :: pretextpaincleanup.com
+:: pretextunfinished.com
 :: prettypasttime.com
 :: preurllvrbrvng.com
 :: prevailedballotcaution.com
