@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.282
 # Release: 282
-# Entries: 34,309
-# Updated: Sun, 09 Oct 22 02:02:40 +06
+# Entries: 34,311
+# Updated: Sun, 09 Oct 22 04:03:08 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16698,6 +16698,8 @@
 0.0.0.0 littlecutecats.com
 0.0.0.0 littlecutedogs.com
 0.0.0.0 littlecutelions.com
+0.0.0.0 littleneptunenews.com
+0.0.0.0 littlmarsnews22.com
 0.0.0.0 litusher.com
 0.0.0.0 liveadexchanger.com
 0.0.0.0 livechatflirt.com

@@ -20,8 +20,8 @@
 ! Version: 22.10.282
 ! Release: 282
 ! Expires: 1 day
-! Entries: 34,309
-! Updated: Sun, 09 Oct 22 02:02:40 +06
+! Entries: 34,311
+! Updated: Sun, 09 Oct 22 04:03:08 +06
 ! RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -16699,6 +16699,8 @@
 ||littlecutecats.com^
 ||littlecutedogs.com^
 ||littlecutelions.com^
+||littleneptunenews.com^
+||littlmarsnews22.com^
 ||litusher.com^
 ||liveadexchanger.com^
 ||livechatflirt.com^
