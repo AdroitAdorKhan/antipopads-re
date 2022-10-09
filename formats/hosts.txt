@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 22.10.282
 # Release: 282
-# Entries: 34,312
-# Updated: Sun, 09 Oct 22 08:06:41 +06
+# Entries: 34,313
+# Updated: Sun, 09 Oct 22 10:02:40 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -32826,6 +32826,7 @@
 0.0.0.0 www.trybulgingcoefficient.com
 0.0.0.0 www.tudsxyhpn.com
 0.0.0.0 www.tugnote.com
+0.0.0.0 www.tuitionpancake.com
 0.0.0.0 www.turbanmadman.com
 0.0.0.0 www.turkeybossbare.com
 0.0.0.0 www.twentieslegislation.com
