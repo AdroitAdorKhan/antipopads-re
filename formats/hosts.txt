@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 22.10.282
-# Release: 282
-# Entries: 34,323
-# Updated: Sun, 09 Oct 22 22:03:38 +06
+# Version: 22.10.283
+# Release: 283
+# Entries: 34,324
+# Updated: Mon, 10 Oct 22 10:02:49 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/main/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -32352,6 +32352,7 @@
 0.0.0.0 www.mosece.com
 0.0.0.0 www.mosquedestitute.com
 0.0.0.0 www.mostlytreasure.com
+0.0.0.0 www.motivessuggest.com
 0.0.0.0 www.motorimperturbable.com
 0.0.0.0 www.movementsspentlist.com
 0.0.0.0 www.muchmiller.com
