@@ -8,7 +8,7 @@
   <strong>block pesky malicious pop ads. </strong>
 </div>
 <div align="left">
-  antipopads:<i>re</i>born is highly inspired by <a href="https://github.com/Yhonay/antipopads">Yhonay/antipopads</a>. This antipopads:<i>re</i> has <code>19,486</code> domains in list.
+  antipopads:<i>re</i>born is highly inspired by <a href="https://github.com/Yhonay/antipopads">Yhonay/antipopads</a>. This antipopads:<i>re</i> has <code>19,761</code> domains in list.
 </div>
 
 ## What is this for?
@@ -19,10 +19,10 @@ antipopads:<i>re</i> is designed for Unix-like systems, gets a list of domains t
 
 | FORMAT | ENTRIES | SIZE | LINK | SUBSCRIBE |
 |:------:|:-------:|:----:|:----:|:---------:|
-| `domains` | 19,486 | 321K | [antipopads-re/domains.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/domains.txt) | - |
-| `hosts` | 19,486 | 473K | [antipopads-re/hosts.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/hosts.txt) | - |
-| `hosts ipv6` | 19,486 | 378K | [antipopads-re/hosts-ipv6.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/hosts-ipv6.txt) | - |
-| `adblock filter` | 19,486 | 378K | [antipopads-re/filter.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/filter.txt) | [SUBSCRIBE](https://subscribe.adblockplus.org/?location=https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/filter.txt&title=antipopads:re) |
+| `domains` | 19,761 | 326K | [antipopads-re/domains.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/domains.txt) | - |
+| `hosts` | 19,761 | 480K | [antipopads-re/hosts.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/hosts.txt) | - |
+| `hosts ipv6` | 19,761 | 384K | [antipopads-re/hosts-ipv6.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/hosts-ipv6.txt) | - |
+| `adblock filter` | 19,761 | 384K | [antipopads-re/filter.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/filter.txt) | [SUBSCRIBE](https://subscribe.adblockplus.org/?location=https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/filter.txt&title=antipopads:re) |
 
 
 ## Disclaimer
@@ -41,7 +41,7 @@ The content of this project itself is licensed under the [MIT](https://github.co
 
 <div align="center">
   <h2>Let's make an annoyance free better open internet, altogether!</h2>
-  <sub>A project by <a href="https://nayemador.com" target="_blank">Ador</a> with ❤<pub>
+  <sub>A project by <a href="https://t.me/AdroitAdorKhan" target="_blank">Ador</a> with ❤<pub>
   <br><br><a href="https://saythanks.io/to/AdroitAdorKhan"><img src="https://img.shields.io/badge/Say%20Thanks-Ador-1EAEDB.svg"
                                                                 alt="Say Thanks to Ador!" /></a>
 </div>
