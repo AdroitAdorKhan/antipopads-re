@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.002
 # Release: 002
-# Entries: 22,803
-# Updated: Mon, 02 Jan 23 11:19:37 +06
+# Entries: 22,848
+# Updated: Mon, 02 Jan 23 13:07:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -244,6 +244,7 @@
 0.0.0.0 1yesterdayx.com
 0.0.0.0 2-is.com
 0.0.0.0 2-o.org
+0.0.0.0 2007ip.com
 0.0.0.0 2015search.ru
 0.0.0.0 2020mustang.com
 0.0.0.0 2022.ao
@@ -1127,6 +1128,7 @@
 0.0.0.0 ad999.biz
 0.0.0.0 ad9i3.com
 0.0.0.0 adactioner.com
+0.0.0.0 adamdevos.ca
 0.0.0.0 adaptationbodilypairs.com
 0.0.0.0 adaptingtova.biz
 0.0.0.0 adaptonnerve.xyz
@@ -1243,6 +1245,7 @@
 0.0.0.0 adhunt.net
 0.0.0.0 adioeghyuxup.top
 0.0.0.0 adiquity.com
+0.0.0.0 adit.software
 0.0.0.0 adjaco.com
 0.0.0.0 adjectivedollaralmost.com
 0.0.0.0 adjoincomprise.com
@@ -1746,6 +1749,7 @@
 0.0.0.0 ageore.com
 0.0.0.0 ageory.com
 0.0.0.0 agfdapqal.com
+0.0.0.0 aggarwalrishta.com
 0.0.0.0 aggary.com
 0.0.0.0 aggestose.com
 0.0.0.0 aggravateexaggerate.com
@@ -2354,6 +2358,8 @@
 0.0.0.0 anytimesuggestion.com
 0.0.0.0 anywherefurniture.com
 0.0.0.0 aoa8491.com
+0.0.0.0 aoabet8104.com
+0.0.0.0 aoabet8185.com
 0.0.0.0 aoonbcem.xyz
 0.0.0.0 aoredi.com
 0.0.0.0 aos-share.com
@@ -2928,6 +2934,7 @@
 0.0.0.0 automatedtraffic.com
 0.0.0.0 automateyourlist.com
 0.0.0.0 automaticallyindecisionalarm.com
+0.0.0.0 automuseacollective.com
 0.0.0.0 autopsycarrel.com
 0.0.0.0 autopsyfowl.com
 0.0.0.0 autopsyglossy.com
@@ -3000,6 +3007,7 @@
 0.0.0.0 awepsi.com
 0.0.0.0 awept.com
 0.0.0.0 awesomeallaroundllc.com
+0.0.0.0 awesomecarecds.com
 0.0.0.0 awesomenewspush.com
 0.0.0.0 awestatic.com
 0.0.0.0 awestruckcolleaguediving.com
@@ -3805,6 +3813,7 @@
 0.0.0.0 blackname.biz
 0.0.0.0 blacknesskeepplan.com
 0.0.0.0 blackstonerestoration.com
+0.0.0.0 blackwoodcommerce.com
 0.0.0.0 blacurlik.com
 0.0.0.0 bladeforbes.com
 0.0.0.0 bladenoddingstepfather.com
@@ -3886,6 +3895,7 @@
 0.0.0.0 bludwan.com
 0.0.0.0 blueadvertise.com
 0.0.0.0 bluebet24.com
+0.0.0.0 bluebladeconsulting.com
 0.0.0.0 bluecuphoch.com
 0.0.0.0 bluedawning.com
 0.0.0.0 bluedcrwth.com
@@ -4214,6 +4224,7 @@
 0.0.0.0 btcgenerator.click
 0.0.0.0 btdirectnav.com
 0.0.0.0 btdnav.com
+0.0.0.0 btinetrent.com
 0.0.0.0 btlfllcncfvkouq.top
 0.0.0.0 btnativedirect.com
 0.0.0.0 btnibbler.com
@@ -4442,6 +4453,7 @@
 0.0.0.0 cakycalais.com
 0.0.0.0 calamityfortuneaudio.com
 0.0.0.0 calcch.com
+0.0.0.0 californialossrecovery.com
 0.0.0.0 calizhonia.com
 0.0.0.0 callalelel.info
 0.0.0.0 callansrookish.life
@@ -4514,6 +4526,7 @@
 0.0.0.0 captiveimpossibleimport.com
 0.0.0.0 caraganaarborescenspendula.com
 0.0.0.0 carbonads.com
+0.0.0.0 carburetorconnellys.com
 0.0.0.0 carcakeapagoge.com
 0.0.0.0 carcelshatches.com
 0.0.0.0 carcflma.de
@@ -4521,6 +4534,8 @@
 0.0.0.0 cardiwersg.com
 0.0.0.0 cardloomed.com
 0.0.0.0 cardoembays.com
+0.0.0.0 cardsendme.com
+0.0.0.0 cardsscentwithlove.com
 0.0.0.0 careerjournalonline.com
 0.0.0.0 careful-oven.pro
 0.0.0.0 carenterhosi.xyz
@@ -4782,6 +4797,7 @@
 0.0.0.0 chargestimetablechuckled.com
 0.0.0.0 charityflopchristening.com
 0.0.0.0 charmingcolors.com
+0.0.0.0 charminghouseazores.com
 0.0.0.0 chartlon.skin
 0.0.0.0 chatheez.net
 0.0.0.0 chatteralegars.store
@@ -5506,6 +5522,8 @@
 0.0.0.0 cosherymudejar.com
 0.0.0.0 cosmeticsgenerosity.com
 0.0.0.0 cosmjs.com
+0.0.0.0 cosmosisbeauty.com
+0.0.0.0 cosmosstoybox.com
 0.0.0.0 costhandbookfolder.com
 0.0.0.0 cosydrbrewing.com
 0.0.0.0 cotalles.com
@@ -5644,6 +5662,7 @@
 0.0.0.0 crhneation.xyz
 0.0.0.0 criantsleck.com
 0.0.0.0 cribut.com
+0.0.0.0 cricketexchange.in
 0.0.0.0 cricketunbutton.com
 0.0.0.0 crickonlineid.com
 0.0.0.0 crisdomson.com
@@ -6657,6 +6676,7 @@
 0.0.0.0 dreamintim.net
 0.0.0.0 dreamsaukn.co
 0.0.0.0 dreaty.com
+0.0.0.0 dremran.com
 0.0.0.0 dreyeli.info
 0.0.0.0 dribletbogled.com
 0.0.0.0 driddleurease.com
@@ -7827,6 +7847,7 @@
 0.0.0.0 fensough.xyz
 0.0.0.0 fer2oxheou4nd.com
 0.0.0.0 ferdictivesone.xyz
+0.0.0.0 ferdouse.co.uk
 0.0.0.0 feredletrighro.com
 0.0.0.0 feredletrighro.info
 0.0.0.0 ferelatedmothes.com
@@ -8244,6 +8265,7 @@
 0.0.0.0 free-gay-comics.com
 0.0.0.0 free.get-it-now.pro
 0.0.0.0 free3dgame.xyz
+0.0.0.0 freeaccountssoon.com
 0.0.0.0 freebiesurveys.com
 0.0.0.0 freecouponbiz.com
 0.0.0.0 freedating-hookup.life
@@ -8980,6 +9002,7 @@
 0.0.0.0 goodbusinesspark.com
 0.0.0.0 goodcache.ml
 0.0.0.0 goodcasino.uno
+0.0.0.0 gooddatebaddate.com
 0.0.0.0 goodgamesmanship.com
 0.0.0.0 goods2you.net
 0.0.0.0 goods4you.org
@@ -10450,6 +10473,7 @@
 0.0.0.0 ipmiumjdgyrqko.top
 0.0.0.0 ipo-yaksib.com
 0.0.0.0 ipodreevess.com
+0.0.0.0 iprofitsuccess.com
 0.0.0.0 iprom.net
 0.0.0.0 ipromcloud.com
 0.0.0.0 ipsowrite.com
@@ -10647,6 +10671,7 @@
 0.0.0.0 jarbirdkorait.com
 0.0.0.0 jarvispopsu.com
 0.0.0.0 jashautchord.com
+0.0.0.0 jasonfedelem.com
 0.0.0.0 jatostepa.com
 0.0.0.0 jatsekse.net
 0.0.0.0 jattepush.com
@@ -11301,6 +11326,7 @@
 0.0.0.0 kqkimvrqxf.top
 0.0.0.0 kqpdnmkkvuu.com
 0.0.0.0 kqraetuvkcymbx.top
+0.0.0.0 kqxs88.com
 0.0.0.0 kraism.com
 0.0.0.0 krence.com
 0.0.0.0 kriptotakip.com
@@ -11454,6 +11480,7 @@
 0.0.0.0 lamberserer.club
 0.0.0.0 lambingsyddir.com
 0.0.0.0 lame7bsqu8barters.com
+0.0.0.0 lament.life
 0.0.0.0 lameterthenhep.com
 0.0.0.0 lamforsung.com
 0.0.0.0 lammasbananas.com
@@ -11682,6 +11709,7 @@
 0.0.0.0 levulinmoble.space
 0.0.0.0 lexicoggeegaw.website
 0.0.0.0 lfbwmlbdqdqyu.top
+0.0.0.0 lfc-2018.com
 0.0.0.0 lfeasxwtuqh.com
 0.0.0.0 lfg5jnbi.com
 0.0.0.0 lfport.com
@@ -12486,6 +12514,7 @@
 0.0.0.0 medical-aid.net
 0.0.0.0 medicinepriest.com
 0.0.0.0 medidiasugan.tech
+0.0.0.0 mediodia.org
 0.0.0.0 mediuln.com
 0.0.0.0 medleyads.com
 0.0.0.0 medstandart.biz
@@ -13386,6 +13415,7 @@
 0.0.0.0 news-central.io
 0.0.0.0 news-central.me
 0.0.0.0 news-central.org
+0.0.0.0 news-ganuva.cc
 0.0.0.0 news-headlines.co
 0.0.0.0 news-host.net
 0.0.0.0 news-mars.com
@@ -15007,6 +15037,7 @@
 0.0.0.0 phokruhefeki.com
 0.0.0.0 phokukse.com
 0.0.0.0 phonefilamentembarrassment.com
+0.0.0.0 phonegametips.com
 0.0.0.0 phonestar.info
 0.0.0.0 phoobsoo.net
 0.0.0.0 phoossax.net
@@ -17867,6 +17898,7 @@
 0.0.0.0 singerrespectfuljerk.com
 0.0.0.0 singhdigynia.digital
 0.0.0.0 singingdrawback.com
+0.0.0.0 singledadventure.com
 0.0.0.0 singlesexdates.com
 0.0.0.0 singlesgetmatched.com
 0.0.0.0 singlesternlyshabby.com
@@ -19186,6 +19218,7 @@
 0.0.0.0 theerdax.com
 0.0.0.0 thefacux.com
 0.0.0.0 thefastpush.com
+0.0.0.0 thefloridasunny.us
 0.0.0.0 thefourcoins.com
 0.0.0.0 thefreshposts.com
 0.0.0.0 theftreplica.com
@@ -19430,6 +19463,7 @@
 0.0.0.0 tionandas.com
 0.0.0.0 tipcatscarola.com
 0.0.0.0 tipcupids.com
+0.0.0.0 tipsembankment.com
 0.0.0.0 tipsklub.com
 0.0.0.0 tipsypoll.com
 0.0.0.0 tipsyquest.com
@@ -19477,6 +19511,11 @@
 0.0.0.0 tkpvtltly.top
 0.0.0.0 tkuorkg.com
 0.0.0.0 tl2go.com
+0.0.0.0 tlcdancestudio.com
+0.0.0.0 tlcjunkie.com
+0.0.0.0 tlcsinthechest.com
+0.0.0.0 tldadr.com
+0.0.0.0 tlhmeta.com
 0.0.0.0 tlkighhcitfo.top
 0.0.0.0 tlootas.org
 0.0.0.0 tlyxjkcx.top
@@ -21409,6 +21448,7 @@
 0.0.0.0 whulterprotein.com
 0.0.0.0 whuptaiz.net
 0.0.0.0 whychymithy.com
+0.0.0.0 whykol.com
 0.0.0.0 wianbi.com
 0.0.0.0 wibtntmvox.com
 0.0.0.0 wickedlongingbelfry.com
@@ -21830,6 +21870,7 @@
 0.0.0.0 www.comradeawe.com
 0.0.0.0 www.consciencecollective.club
 0.0.0.0 www.convertmypool.com
+0.0.0.0 www.cosmosisbeauty.com
 0.0.0.0 www.crossingwhile.com
 0.0.0.0 www.crypto-octagon.site
 0.0.0.0 www.cryptomod.tech
@@ -21890,6 +21931,7 @@
 0.0.0.0 www.gfsdloocn.com
 0.0.0.0 www.giris-con.com
 0.0.0.0 www.gjonfartyb.com
+0.0.0.0 www.gooddatebaddate.com
 0.0.0.0 www.gooods4you.com
 0.0.0.0 www.grassrootsaide.com
 0.0.0.0 www.greatdexchange.com
@@ -21987,6 +22029,7 @@
 0.0.0.0 www.peoriabuyermatch.com
 0.0.0.0 www.perpetualbliss.net
 0.0.0.0 www.pgavs.online
+0.0.0.0 www.phonegametips.com
 0.0.0.0 www.pikat4d.info
 0.0.0.0 www.pikat4d.net
 0.0.0.0 www.pikat4d.org
@@ -22044,6 +22087,7 @@
 0.0.0.0 www.shortssibilantcrept.com
 0.0.0.0 www.shugraithou.com
 0.0.0.0 www.simpaisan.com
+0.0.0.0 www.singledadventure.com
 0.0.0.0 www.slaughtergarageparttime.com
 0.0.0.0 www.snaptrip.com
 0.0.0.0 www.stallamenchisel.com
@@ -22094,6 +22138,7 @@
 0.0.0.0 www.wen33dgeneration.com
 0.0.0.0 www.westrogerscircledesigncenter.com
 0.0.0.0 www.whalesongcamp.org
+0.0.0.0 www.whykol.com
 0.0.0.0 www.win-bets.net
 0.0.0.0 www.worldbankpay.online
 0.0.0.0 www.wuwdomain.xyz
