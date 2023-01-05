@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.005
 # Release: 005
-# Entries: 26,454
-# Updated: Thu, 05 Jan 23 18:10:51 +06
+# Entries: 26,498
+# Updated: Thu, 05 Jan 23 20:44:45 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -288,6 +288,7 @@
 0.0.0.0 22dxdx.info
 0.0.0.0 22filexstarted22.com
 0.0.0.0 22k.im
+0.0.0.0 22lmsi1t5.de
 0.0.0.0 233now.com
 0.0.0.0 234p.top
 0.0.0.0 236bfbbd65.1d5d7fb584.com
@@ -511,6 +512,7 @@
 0.0.0.0 4a65d58a18.7a07c25a29.com
 0.0.0.0 4ae63eb9b9.83032d92a4.com
 0.0.0.0 4ahgvhsdas14.monster
+0.0.0.0 4ajvhsjdasd44.monster
 0.0.0.0 4aos.com
 0.0.0.0 4b6994dfa47cee4.com
 0.0.0.0 4bb6jls06l.com
@@ -597,6 +599,7 @@
 0.0.0.0 59cn7.com
 0.0.0.0 59e6ea7248001c.com
 0.0.0.0 5advertise.com
+0.0.0.0 5ajhsja55.monster
 0.0.0.0 5bjsdhfsdf55.monster
 0.0.0.0 5c577fc74618431b.com
 0.0.0.0 5d0ed16eca.com
@@ -813,6 +816,7 @@
 0.0.0.0 8mdphsb8fm.com
 0.0.0.0 8po6fdwjsym3.com
 0.0.0.0 8s32e590un.com
+0.0.0.0 8s58g.cn
 0.0.0.0 8sbdjfsdf88.monster
 0.0.0.0 8shuw.net
 0.0.0.0 8skjdnkfsdf88.monster
@@ -1343,6 +1347,7 @@
 0.0.0.0 adjux.com
 0.0.0.0 adk2.co
 0.0.0.0 adk2.com
+0.0.0.0 adkontrack.com
 0.0.0.0 adl-hunter.com
 0.0.0.0 adlane.info
 0.0.0.0 adlerlestergood.com
@@ -2572,6 +2577,7 @@
 0.0.0.0 applandforbuddies.top
 0.0.0.0 applandlight.com
 0.0.0.0 applaudliteratureconsultant.com
+0.0.0.0 applaudmaturityasunder.com
 0.0.0.0 applausesuch.com
 0.0.0.0 applescringe.com
 0.0.0.0 applesometimes.com
@@ -4695,6 +4701,7 @@
 0.0.0.0 bxacmsvmxb.com
 0.0.0.0 bxaxxhajysim.xyz
 0.0.0.0 bxczchdxynw.com
+0.0.0.0 bxdcapital.com
 0.0.0.0 bxflight.com
 0.0.0.0 by.inhumanhuashi.com
 0.0.0.0 by5134.com
@@ -5087,6 +5094,7 @@
 0.0.0.0 cennter.com
 0.0.0.0 cenrefk.com
 0.0.0.0 censelysoviell.xyz
+0.0.0.0 censuschorus.com
 0.0.0.0 censusmarrydespair.com
 0.0.0.0 censusmiles.com
 0.0.0.0 centauruspopyou.com
@@ -5205,6 +5213,7 @@
 0.0.0.0 chautcho.com
 0.0.0.0 chautchy.net
 0.0.0.0 chazanscapita.com
+0.0.0.0 cheapenleaving.com
 0.0.0.0 cheaplycreateproprietor.com
 0.0.0.0 cheaplyroleinvolved.com
 0.0.0.0 cheatingagricultural.com
@@ -5317,6 +5326,7 @@
 0.0.0.0 choreakrelos.com
 0.0.0.0 choreasoutpour.com
 0.0.0.0 chortletarging.uno
+0.0.0.0 choseoffhandsight.com
 0.0.0.0 chosesleptcattish.com
 0.0.0.0 chottsapocha.com
 0.0.0.0 chouftak.net
@@ -5818,6 +5828,7 @@
 0.0.0.0 comwgi.com
 0.0.0.0 conatysystems.com
 0.0.0.0 concealbeakerdough.com
+0.0.0.0 concealirradiaterisk.com
 0.0.0.0 concentleconse.site
 0.0.0.0 concentratebeauabsolute.com
 0.0.0.0 concentrationminefield.com
@@ -6658,6 +6669,7 @@
 0.0.0.0 delohm.com
 0.0.0.0 deloplen.com
 0.0.0.0 deloton.com
+0.0.0.0 delphinedemy.com
 0.0.0.0 deltoidviragin.com
 0.0.0.0 delubramoneron.tech
 0.0.0.0 deludereflexunderwater.com
@@ -7262,6 +7274,7 @@
 0.0.0.0 dreyeli.info
 0.0.0.0 dribletbogled.com
 0.0.0.0 driddleurease.com
+0.0.0.0 drifor.com
 0.0.0.0 drill-bit.org
 0.0.0.0 drillpatiotrash.com
 0.0.0.0 drini.me
@@ -8578,8 +8591,10 @@
 0.0.0.0 fertilitycommand.com
 0.0.0.0 fertilityundergone.com
 0.0.0.0 fertilizeranaemiaupcoming.com
+0.0.0.0 fertilizerfruitful.com
 0.0.0.0 fertilrouts.com
 0.0.0.0 ferulaecharger.com
+0.0.0.0 fesib.com
 0.0.0.0 fessoovy.com
 0.0.0.0 festivalexcitinghypocrisy.com
 0.0.0.0 festivefranchisetorrent.com
@@ -8953,6 +8968,7 @@
 0.0.0.0 forecastsinglegait.com
 0.0.0.0 foregogabbro.life
 0.0.0.0 foregoingfowl.com
+0.0.0.0 forensicscome.com
 0.0.0.0 foreverhealthsculptor.com
 0.0.0.0 forex-affiliate.net
 0.0.0.0 forexarby.com
@@ -12143,6 +12159,7 @@
 0.0.0.0 justgetitfaster.com
 0.0.0.0 justiceintegral.com
 0.0.0.0 justickedukil.club
+0.0.0.0 justifiedcharmsmoustache.com
 0.0.0.0 justifyillogical.com
 0.0.0.0 justinpressed.com
 0.0.0.0 justonemorenews.com
@@ -15418,6 +15435,7 @@
 0.0.0.0 oalsauwy.net
 0.0.0.0 oalselry.com
 0.0.0.0 oamoatch.com
+0.0.0.0 oamtorsa.net
 0.0.0.0 oandabusinessgroup.com
 0.0.0.0 oanimsen.net
 0.0.0.0 oansaifo.net
@@ -15544,6 +15562,7 @@
 0.0.0.0 offerstrack.net
 0.0.0.0 offfurreton.com
 0.0.0.0 offgate-app-phkr.com
+0.0.0.0 officerolivehaughty.com
 0.0.0.0 officialbanisters.com
 0.0.0.0 officialcardcarryingtexan.com
 0.0.0.0 officialspamfilter.com
@@ -16470,6 +16489,7 @@
 0.0.0.0 paymentsweb.org
 0.0.0.0 payslipsplunge.com
 0.0.0.0 payslipsscowl.com
+0.0.0.0 paythefarmer.com
 0.0.0.0 payvclick.com
 0.0.0.0 pazashevy.com
 0.0.0.0 pazzfun.com
@@ -17924,6 +17944,7 @@
 0.0.0.0 qpnacwltmggs.top
 0.0.0.0 qpuqpwwdaefcsnd.top
 0.0.0.0 qpxntmajs.top
+0.0.0.0 qqjar.ru
 0.0.0.0 qqliffwyy.top
 0.0.0.0 qqqwes.com
 0.0.0.0 qr.roosasurfy.com
@@ -20614,6 +20635,7 @@
 0.0.0.0 stevoglutu.com
 0.0.0.0 stevy.xyz
 0.0.0.0 stevz.xyz
+0.0.0.0 stewardchurch.com
 0.0.0.0 stewlinedull.com
 0.0.0.0 stexbd.com
 0.0.0.0 stheconc.club
@@ -20750,6 +20772,7 @@
 0.0.0.0 sub.pushmeup.art
 0.0.0.0 subeditatresic.com
 0.0.0.0 subeu.rollserver.xyz
+0.0.0.0 subgitrelais.com
 0.0.0.0 subjectsextended.com
 0.0.0.0 submarineundergonedebark.com
 0.0.0.0 submb.com
@@ -20833,6 +20856,7 @@
 0.0.0.0 sunsetpersuadeaffectionately.com
 0.0.0.0 sunstrokeload.com
 0.0.0.0 sunsystek.com
+0.0.0.0 sunvalley-idaho.com
 0.0.0.0 sunwardamoraic.com
 0.0.0.0 sunye1120.com
 0.0.0.0 suomicgeyser.com
@@ -21618,6 +21642,7 @@
 0.0.0.0 tickmatureparties.com
 0.0.0.0 ticmedicareandaca.com
 0.0.0.0 ticrite.com
+0.0.0.0 tictacfrison.com
 0.0.0.0 tidaltv.com
 0.0.0.0 tidepoolpetssitting.com
 0.0.0.0 tidewaterpix.com
@@ -22202,6 +22227,7 @@
 0.0.0.0 traktrafficflow.com
 0.0.0.0 tralerz.com
 0.0.0.0 tramemedea.com
+0.0.0.0 tramshirethf.xyz
 0.0.0.0 tranded-sa.com
 0.0.0.0 trandlife.info
 0.0.0.0 trandyzshop24.com
@@ -23450,6 +23476,7 @@
 0.0.0.0 venuegirtjive.com
 0.0.0.0 venumusa.com
 0.0.0.0 venusantibiotic.com
+0.0.0.0 veobeitkalson.info
 0.0.0.0 veosgrupon.xyz
 0.0.0.0 vepornhd.com
 0.0.0.0 ver-comic-porno.com
@@ -23914,6 +23941,7 @@
 0.0.0.0 wallstrads.com
 0.0.0.0 wallstreetexpos.com
 0.0.0.0 walruscheers.com
+0.0.0.0 walrusintroducing.com
 0.0.0.0 walshperformance.com
 0.0.0.0 walter-larence.com
 0.0.0.0 walwave.com
@@ -24708,6 +24736,7 @@
 0.0.0.0 www.alpinesafes.com
 0.0.0.0 www.amath.world
 0.0.0.0 www.amcclinics.com
+0.0.0.0 www.amenityremorse.com
 0.0.0.0 www.amgrow.com
 0.0.0.0 www.android-devs.top
 0.0.0.0 www.animsup.biz
@@ -24715,6 +24744,7 @@
 0.0.0.0 www.antio-nar.com
 0.0.0.0 www.anywherefurniture.com
 0.0.0.0 www.apanasolutions.com
+0.0.0.0 www.applaudmaturityasunder.com
 0.0.0.0 www.aquascapereality.com
 0.0.0.0 www.aradhyaalamuru.com
 0.0.0.0 www.arcanaloot.com
@@ -24816,10 +24846,14 @@
 0.0.0.0 www.cbarmedia.com
 0.0.0.0 www.cbseastra.com
 0.0.0.0 www.cdnativepush.com
+0.0.0.0 www.cellsmonitor.com
 0.0.0.0 www.cenrefk.com
+0.0.0.0 www.censuschorus.com
+0.0.0.0 www.centeredfailinghotline.com
 0.0.0.0 www.cfpgg.com
 0.0.0.0 www.chadtest2023.com
 0.0.0.0 www.chamomilleoriginal.com
+0.0.0.0 www.chapelcertain.com
 0.0.0.0 www.charsiasiamese.com
 0.0.0.0 www.cheerfullycling.com
 0.0.0.0 www.chesterfieldrealestatesearch.com
@@ -24842,6 +24876,7 @@
 0.0.0.0 www.compasspenitenthollow.com
 0.0.0.0 www.compoundpeeredfrankly.com
 0.0.0.0 www.comradeawe.com
+0.0.0.0 www.concealirradiaterisk.com
 0.0.0.0 www.conformityhedgehog.com
 0.0.0.0 www.consciencecollective.club
 0.0.0.0 www.contradictiondishonestvaried.com
@@ -24917,6 +24952,7 @@
 0.0.0.0 www.elbowcayclub.net
 0.0.0.0 www.elizabethtownfilmfestival.org
 0.0.0.0 www.elmspro.com
+0.0.0.0 www.embarkdisrupt.com
 0.0.0.0 www.emmaparental.com
 0.0.0.0 www.emmavictoriaevents.com
 0.0.0.0 www.emteeveetwo.com
@@ -24947,7 +24983,9 @@
 0.0.0.0 www.favthemes.com
 0.0.0.0 www.fearfulswam.com
 0.0.0.0 www.feelingsdelight.com
+0.0.0.0 www.fesib.com
 0.0.0.0 www.fhxs6.com
+0.0.0.0 www.fidelitybask.com
 0.0.0.0 www.fieldbeseech.com
 0.0.0.0 www.fiinann.com
 0.0.0.0 www.fillerstore.ru
@@ -24980,6 +25018,7 @@
 0.0.0.0 www.g0td0main.com
 0.0.0.0 www.gamingchairz.com
 0.0.0.0 www.gampley.com
+0.0.0.0 www.garglecommunicate.com
 0.0.0.0 www.gatedpeople.net
 0.0.0.0 www.gaursay.com
 0.0.0.0 www.gbuyonline.com
@@ -25295,6 +25334,7 @@
 0.0.0.0 www.projetodelta.site
 0.0.0.0 www.projetozeta.site
 0.0.0.0 www.prosecutevein.com
+0.0.0.0 www.protectheader.com
 0.0.0.0 www.prozon.am
 0.0.0.0 www.psirsoor.com
 0.0.0.0 www.psqena.com
@@ -25346,6 +25386,7 @@
 0.0.0.0 www.rookiesociety.com
 0.0.0.0 www.rosstein.us
 0.0.0.0 www.rrmobile.in
+0.0.0.0 www.rummagemason.com
 0.0.0.0 www.russiaroman.com
 0.0.0.0 www.sac-games.com
 0.0.0.0 www.sadtriggerssupporter.com
@@ -25414,12 +25455,15 @@
 0.0.0.0 www.starwars.academy
 0.0.0.0 www.steamlargelyjustified.com
 0.0.0.0 www.stepbackstepforward.com
+0.0.0.0 www.stewardchurch.com
 0.0.0.0 www.stld2014.com
 0.0.0.0 www.strategicattacksstudied.com
+0.0.0.0 www.studentcrevice.com
 0.0.0.0 www.studentstunnel.com
 0.0.0.0 www.summerripe.com
 0.0.0.0 www.sumosys.net
 0.0.0.0 www.sunkenclogarc.com
+0.0.0.0 www.sunvalley-idaho.com
 0.0.0.0 www.supercounters.com
 0.0.0.0 www.superioritydiningroom.com
 0.0.0.0 www.surechieflyrepulse.com
