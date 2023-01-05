@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.006
 # Release: 006
-# Entries: 26,544
-# Updated: Fri, 06 Jan 23 00:23:27 +06
+# Entries: 26,593
+# Updated: Fri, 06 Jan 23 02:31:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -454,6 +454,7 @@
 0.0.0.0 3commsa.io
 0.0.0.0 3d-bites.com
 0.0.0.0 3dfcff2ec15099df0a24ad2cee74f21a.com
+0.0.0.0 3dnsew.com
 0.0.0.0 3domainscom.com
 0.0.0.0 3eb315e3eb.964e7c340a.com
 0.0.0.0 3ef8a8d533.f57fbf2b51.com
@@ -1015,6 +1016,7 @@
 0.0.0.0 aboelzeek7.com
 0.0.0.0 abolishcareful.com
 0.0.0.0 abolishmentglum.com
+0.0.0.0 abonnementpermissiveenliven.com
 0.0.0.0 aboriginalhubby.com
 0.0.0.0 aborld.com
 0.0.0.0 abortmaydesirable.com
@@ -1161,6 +1163,7 @@
 0.0.0.0 acresupervision.com
 0.0.0.0 acronycgrimes.com
 0.0.0.0 acrossgained.com
+0.0.0.0 acrossheadquartersanchovy.com
 0.0.0.0 acscdn.com
 0.0.0.0 acservicedwarka.in
 0.0.0.0 actifsrealestate.com
@@ -3522,6 +3525,7 @@
 0.0.0.0 bars2show.com
 0.0.0.0 barscreative1.com
 0.0.0.0 bartarinha.it
+0.0.0.0 bartleetgroup.net
 0.0.0.0 baseballapproximately.com
 0.0.0.0 basedcloudata.com
 0.0.0.0 baseduser.com
@@ -4053,6 +4057,7 @@
 0.0.0.0 bitbybitconcepts.com
 0.0.0.0 bitcoin-news.vip
 0.0.0.0 bitcoin2dollars.com
+0.0.0.0 bitcoinsteady.com
 0.0.0.0 bitdiko.com
 0.0.0.0 biteburied.com
 0.0.0.0 biticesar.com
@@ -4309,6 +4314,7 @@
 0.0.0.0 bookmarkpdf.com
 0.0.0.0 bookmsg.com
 0.0.0.0 booknower.com
+0.0.0.0 bookveggies.com
 0.0.0.0 booleanfalces.website
 0.0.0.0 boom-boom-vroom.com
 0.0.0.0 boonsbarcas.uno
@@ -5622,6 +5628,7 @@
 0.0.0.0 clotezar.com
 0.0.0.0 clothetow.com
 0.0.0.0 clothingsphere.com
+0.0.0.0 clothrepublicanbertram.com
 0.0.0.0 clottedpowerlessmade.com
 0.0.0.0 cloud-repository.com
 0.0.0.0 cloudbar.xyz
@@ -5896,6 +5903,7 @@
 0.0.0.0 consensusarticles.com
 0.0.0.0 consentrenovate.com
 0.0.0.0 consequencesgiddyditch.com
+0.0.0.0 consequentlyinjunction.com
 0.0.0.0 consideratepronouncedcar.com
 0.0.0.0 considerationsheltercreed.com
 0.0.0.0 consistent.com
@@ -5930,6 +5938,7 @@
 0.0.0.0 continuousformula.com
 0.0.0.0 continuousprescription.com
 0.0.0.0 contracostadigitalmarketing.com
+0.0.0.0 contractoria.com
 0.0.0.0 contradictiondishonestvaried.com
 0.0.0.0 contradictionweeping.com
 0.0.0.0 contribusourcesyndication.com
@@ -6885,6 +6894,7 @@
 0.0.0.0 dilemiguars.guru
 0.0.0.0 dilemmatryingless.com
 0.0.0.0 dilloncreations.net
+0.0.0.0 dillsloppy.com
 0.0.0.0 dilruwha.net
 0.0.0.0 dimensionuptown.com
 0.0.0.0 dimessing-parker.com
@@ -8604,6 +8614,7 @@
 0.0.0.0 feroffer.com
 0.0.0.0 ferritediener.tech
 0.0.0.0 fertilisedlinealdeceived.com
+0.0.0.0 fertilisedshoe.com
 0.0.0.0 fertilitycommand.com
 0.0.0.0 fertilityundergone.com
 0.0.0.0 fertilizeranaemiaupcoming.com
@@ -9145,6 +9156,7 @@
 0.0.0.0 fronol.com
 0.0.0.0 frookshop-winsive.com
 0.0.0.0 frooter.xyz
+0.0.0.0 frostbannk.com
 0.0.0.0 frothadditions.com
 0.0.0.0 frowny.mambacimaise.com
 0.0.0.0 frowzyvibex.com
@@ -10168,6 +10180,7 @@
 0.0.0.0 guchihyfa.pro
 0.0.0.0 gudangmovie21.com
 0.0.0.0 guerrerevisal.website
+0.0.0.0 guessfumevisited.com
 0.0.0.0 guesswhatnews.com
 0.0.0.0 guesteaten.com
 0.0.0.0 guestsaircondition.com
@@ -12543,6 +12556,7 @@
 0.0.0.0 koocoofy.com
 0.0.0.0 kookarek.com
 0.0.0.0 koolahwelder.com
+0.0.0.0 koolturecr.com
 0.0.0.0 koopheen.com
 0.0.0.0 koora2live.com
 0.0.0.0 koovapou.xyz
@@ -13541,6 +13555,7 @@
 0.0.0.0 m32.media
 0.0.0.0 m365004.com
 0.0.0.0 m3cads.com
+0.0.0.0 m42software.com
 0.0.0.0 m45assachucsh9w7etts.com
 0.0.0.0 m4clicks.com
 0.0.0.0 m73lae5cpmgrv38.com
@@ -17432,6 +17447,7 @@
 0.0.0.0 promenademarket.com
 0.0.0.0 promisecurtainscurrency.com
 0.0.0.0 promisingjournalist.com
+0.0.0.0 prommafederation.org
 0.0.0.0 promo-bc.com
 0.0.0.0 promo-farma.com
 0.0.0.0 promobenef.com
@@ -17676,6 +17692,7 @@
 0.0.0.0 puhtml.com
 0.0.0.0 puitaexb.com
 0.0.0.0 pulavcel.asia
+0.0.0.0 pullitoffwithionic.com
 0.0.0.0 pulpssmuggle.uno
 0.0.0.0 pulpyads.com
 0.0.0.0 pulpybizarre.com
@@ -19881,6 +19898,7 @@
 0.0.0.0 siberiabecrush.com
 0.0.0.0 siccreop.com
 0.0.0.0 sicepegger.com
+0.0.0.0 sickcbdoil.com
 0.0.0.0 sickmakes.com
 0.0.0.0 sicknessfestivity.com
 0.0.0.0 sicksmash.com
@@ -21139,7 +21157,9 @@
 0.0.0.0 tallysaturatesnare.com
 0.0.0.0 talsauve.com
 0.0.0.0 tamilcinemax.com
+0.0.0.0 tamoafuera.com
 0.0.0.0 tamperstationerycultivate.com
+0.0.0.0 tanadong.net
 0.0.0.0 tanandatable.com
 0.0.0.0 tangiblewhereuponprestige.com
 0.0.0.0 taniq.am
@@ -21311,6 +21331,7 @@
 0.0.0.0 tenezratio.com
 0.0.0.0 tengmoneron.com
 0.0.0.0 tennersmirex.guru
+0.0.0.0 tennesseebuildingstone.com
 0.0.0.0 tenniskit.xyz
 0.0.0.0 tennubifaces.com
 0.0.0.0 tensital.rusdate.org
@@ -22316,6 +22337,7 @@
 0.0.0.0 travellingleisureartist.com
 0.0.0.0 travellingleisureartists.com
 0.0.0.0 travelmaniavacation.com
+0.0.0.0 travelmer.com
 0.0.0.0 travelplanexpert.com
 0.0.0.0 travelquilt.com
 0.0.0.0 travelquilts.com
@@ -24717,6 +24739,7 @@
 0.0.0.0 www.2jshbdfs2.monster
 0.0.0.0 www.3-arabi.com
 0.0.0.0 www.3381.ma
+0.0.0.0 www.3dnsew.com
 0.0.0.0 www.3domainscom.com
 0.0.0.0 www.496687.com
 0.0.0.0 www.4jshdbfjsdf44.monster
@@ -24751,9 +24774,11 @@
 0.0.0.0 www.accessoriezworld.com
 0.0.0.0 www.accreditation-services.co.uk
 0.0.0.0 www.acernismedical.com
+0.0.0.0 www.acrossheadquartersanchovy.com
 0.0.0.0 www.adamcomsof.com
 0.0.0.0 www.addictivedjdesigns.com
 0.0.0.0 www.adsjobnow.com
+0.0.0.0 www.adulatorydigestionmanicure.com
 0.0.0.0 www.adultnetdirectory.com
 0.0.0.0 www.advertspheredigital.com
 0.0.0.0 www.affectionsexterminate.com
@@ -24810,6 +24835,7 @@
 0.0.0.0 www.bandittrackernortheast.com
 0.0.0.0 www.bankatfreedom.com
 0.0.0.0 www.bankr.com
+0.0.0.0 www.bartleetgroup.net
 0.0.0.0 www.baskcreations.shop
 0.0.0.0 www.basketlakecamp.com
 0.0.0.0 www.bayonnenj.biz
@@ -24836,6 +24862,7 @@
 0.0.0.0 www.billdoratycustomerforlife.com
 0.0.0.0 www.binaryspeak.com
 0.0.0.0 www.biologicresurrection.com
+0.0.0.0 www.bitcoinsteady.com
 0.0.0.0 www.bjlcny.com
 0.0.0.0 www.bkkf889900bk06.com
 0.0.0.0 www.blackriverlandscaping.com
@@ -24845,6 +24872,7 @@
 0.0.0.0 www.blogpress.id
 0.0.0.0 www.blushrepublicwedding.com
 0.0.0.0 www.bonuswinner.net
+0.0.0.0 www.bookveggies.com
 0.0.0.0 www.boostknifehumidity.com
 0.0.0.0 www.bottomsupqld.com
 0.0.0.0 www.bouquin-coquin.com
@@ -24917,6 +24945,7 @@
 0.0.0.0 www.concealirradiaterisk.com
 0.0.0.0 www.conformityhedgehog.com
 0.0.0.0 www.consciencecollective.club
+0.0.0.0 www.contractoria.com
 0.0.0.0 www.contradictiondishonestvaried.com
 0.0.0.0 www.convertmypool.com
 0.0.0.0 www.coolent.net
@@ -25021,7 +25050,9 @@
 0.0.0.0 www.favorscenes.com
 0.0.0.0 www.favthemes.com
 0.0.0.0 www.fearfulswam.com
+0.0.0.0 www.featbankrupthide.com
 0.0.0.0 www.feelingsdelight.com
+0.0.0.0 www.fertilisedshoe.com
 0.0.0.0 www.fesib.com
 0.0.0.0 www.fhxs6.com
 0.0.0.0 www.fidelitybask.com
@@ -25050,6 +25081,7 @@
 0.0.0.0 www.freelivesex.online
 0.0.0.0 www.freestanding.biz
 0.0.0.0 www.fregtrsatnt.com
+0.0.0.0 www.frostbannk.com
 0.0.0.0 www.fuelcompatibleblaspheme.com
 0.0.0.0 www.funkyaloftdesirable.com
 0.0.0.0 www.funkyziggurat.com
@@ -25071,6 +25103,7 @@
 0.0.0.0 www.gfsdloocn.com
 0.0.0.0 www.giris-con.com
 0.0.0.0 www.gjonfartyb.com
+0.0.0.0 www.glamorousdescend.com
 0.0.0.0 www.gmgmaes.store
 0.0.0.0 www.gooddatebaddate.com
 0.0.0.0 www.googlecoin.org
@@ -25091,6 +25124,7 @@
 0.0.0.0 www.gslpayments.in
 0.0.0.0 www.gstsutra.com
 0.0.0.0 www.gtoonfd.com
+0.0.0.0 www.guessfumevisited.com
 0.0.0.0 www.gupo-pinero.com
 0.0.0.0 www.gustobr.com
 0.0.0.0 www.guvenreklam.net
@@ -25104,6 +25138,7 @@
 0.0.0.0 www.harshlygiraffediscover.com
 0.0.0.0 www.harsik.am
 0.0.0.0 www.hc192.com
+0.0.0.0 www.headusuallyopener.com
 0.0.0.0 www.healthtracking.co
 0.0.0.0 www.heartilyscales.com
 0.0.0.0 www.heythereseth.com
@@ -25148,8 +25183,10 @@
 0.0.0.0 www.incensehubindia.com
 0.0.0.0 www.inchesfacing.com
 0.0.0.0 www.increasingnavigableinsects.com
+0.0.0.0 www.indigestionpious.com
 0.0.0.0 www.inex.exchange
 0.0.0.0 www.inextricableaugmentcompelling.com
+0.0.0.0 www.infirmaryboss.com
 0.0.0.0 www.infogeologi.com
 0.0.0.0 www.ingig-nes.com
 0.0.0.0 www.inheritinghanford.com
@@ -25216,6 +25253,7 @@
 0.0.0.0 www.knotworkshop.com
 0.0.0.0 www.know-cr.com
 0.0.0.0 www.kodaivelfarms.com
+0.0.0.0 www.koolturecr.com
 0.0.0.0 www.korooz.co.uk
 0.0.0.0 www.kreativevue.com
 0.0.0.0 www.krishnadarpannews.live
@@ -25250,10 +25288,12 @@
 0.0.0.0 www.lmzvvyefpe.com
 0.0.0.0 www.lobochat.com
 0.0.0.0 www.loftathailand.com
+0.0.0.0 www.lonelinessapp.com
 0.0.0.0 www.longbayvillas.com
 0.0.0.0 www.luciditymadeupfarfetched.com
 0.0.0.0 www.luckylk.com
 0.0.0.0 www.lullpainlesssurfing.com
+0.0.0.0 www.m42software.com
 0.0.0.0 www.macrosoftware.io
 0.0.0.0 www.magic-moments-flash.com
 0.0.0.0 www.magicalflavour.com
@@ -25377,11 +25417,13 @@
 0.0.0.0 www.projetoalpha.site
 0.0.0.0 www.projetodelta.site
 0.0.0.0 www.projetozeta.site
+0.0.0.0 www.prommafederation.org
 0.0.0.0 www.prosecutevein.com
 0.0.0.0 www.protectheader.com
 0.0.0.0 www.prozon.am
 0.0.0.0 www.psirsoor.com
 0.0.0.0 www.psqena.com
+0.0.0.0 www.pullitoffwithionic.com
 0.0.0.0 www.punoocke.com
 0.0.0.0 www.puremethstore.com
 0.0.0.0 www.pursuingconjunction.com
@@ -25439,6 +25481,7 @@
 0.0.0.0 www.sandiegomobileautodetailing.com
 0.0.0.0 www.santacruzam.com
 0.0.0.0 www.saumeechoa.com
+0.0.0.0 www.scotcheliza.com
 0.0.0.0 www.seatsrehearseinitial.com
 0.0.0.0 www.secondaryobedience.com
 0.0.0.0 www.secondchancerent.com
@@ -25468,6 +25511,7 @@
 0.0.0.0 www.shqiptoolbar.com
 0.0.0.0 www.shreesuryaaagencies.com
 0.0.0.0 www.shugraithou.com
+0.0.0.0 www.sickcbdoil.com
 0.0.0.0 www.simbiworks.org
 0.0.0.0 www.simpaisan.com
 0.0.0.0 www.simplyazfreshsalsa.com
@@ -25516,6 +25560,8 @@
 0.0.0.0 www.swrggntsvmsgv.com
 0.0.0.0 www.sxnkzm.com
 0.0.0.0 www.takepalpablenuisance.com
+0.0.0.0 www.tamoafuera.com
+0.0.0.0 www.tanadong.net
 0.0.0.0 www.tarabergmane.com
 0.0.0.0 www.tayturu3.com
 0.0.0.0 www.teachmefutures.com
@@ -25557,6 +25603,7 @@
 0.0.0.0 www.tracytimm.com
 0.0.0.0 www.transactionlumber.com
 0.0.0.0 www.transfervmadrid.com
+0.0.0.0 www.travelmer.com
 0.0.0.0 www.trcksrvrs.com
 0.0.0.0 www.trehtnoas.com
 0.0.0.0 www.trentjesno.com
@@ -25601,10 +25648,12 @@
 0.0.0.0 www.vjlondonphotography.com
 0.0.0.0 www.vladikin.dev
 0.0.0.0 www.vlasoff.net
+0.0.0.0 www.volcanoimplement.com
 0.0.0.0 www.vpay.website
 0.0.0.0 www.walwave.com
 0.0.0.0 www.wappie.world
 0.0.0.0 www.warehousecanneddental.com
+0.0.0.0 www.warilycommercialconstitutional.com
 0.0.0.0 www.warofmachinesvsmanhasbegun.net
 0.0.0.0 www.webbrowser-downloading.com
 0.0.0.0 www.webmaster21.it
