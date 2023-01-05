@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.006
 # Release: 006
-# Entries: 26,593
-# Updated: Fri, 06 Jan 23 02:31:33 +06
+# Entries: 26,599
+# Updated: Fri, 06 Jan 23 04:41:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4371,6 +4371,7 @@
 0.0.0.0 bouquin-coquin.com
 0.0.0.0 bourranuncurbs.com
 0.0.0.0 boustahe.com
+0.0.0.0 boveda.in
 0.0.0.0 bowed-common.pro
 0.0.0.0 boweddemand.com
 0.0.0.0 bowedsequence.com
@@ -4485,6 +4486,7 @@
 0.0.0.0 briskedmiskept.com
 0.0.0.0 brissapogaic.uno
 0.0.0.0 briticatederfd.site
+0.0.0.0 britishartclub.co.uk
 0.0.0.0 britishinquisitive.com
 0.0.0.0 britonswime.website
 0.0.0.0 bro.kim
@@ -9405,6 +9407,7 @@
 0.0.0.0 gayvideochat.org
 0.0.0.0 gazati.com
 0.0.0.0 gazeesaucier.com
+0.0.0.0 gazetemcesme.com
 0.0.0.0 gb.fuglingkiev.com
 0.0.0.0 gbfgvzfcjfs.com
 0.0.0.0 gbfjcqejritv.com
@@ -20417,6 +20420,7 @@
 0.0.0.0 spellsvolume.com
 0.0.0.0 spendcrazy.net
 0.0.0.0 spenttabsnail.com
+0.0.0.0 sper.org
 0.0.0.0 sperans-beactor.com
 0.0.0.0 spewyelks.com
 0.0.0.0 spicalgosizes.com
@@ -22854,6 +22858,7 @@
 0.0.0.0 udbaa.com
 0.0.0.0 udea.red
 0.0.0.0 udhaarvasuli.com
+0.0.0.0 udinorge.com
 0.0.0.0 udinugoo.com
 0.0.0.0 udmserve.net
 0.0.0.0 udncoeln.com
@@ -25836,6 +25841,7 @@
 0.0.0.0 xm.barthnullary.com
 0.0.0.0 xmas-xmas-wow.com
 0.0.0.0 xmaswrite.com
+0.0.0.0 xmaxent.com
 0.0.0.0 xmkmuadkefzav.com
 0.0.0.0 xml-api.online
 0.0.0.0 xml-v4.adflyer.media
