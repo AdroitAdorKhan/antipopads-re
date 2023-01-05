@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.005
 # Release: 005
-# Entries: 26,498
-# Updated: Thu, 05 Jan 23 20:44:45 +06
+# Entries: 26,505
+# Updated: Thu, 05 Jan 23 22:20:52 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2444,6 +2444,7 @@
 0.0.0.0 anotherconsult.com
 0.0.0.0 anotherdoinass1.com
 0.0.0.0 anpjcoapgd.com
+0.0.0.0 anpost-services.com
 0.0.0.0 anspeechless.com
 0.0.0.0 answered-questions.com
 0.0.0.0 answeredthec.xyz
@@ -7093,6 +7094,7 @@
 0.0.0.0 doerscharre.com
 0.0.0.0 doffingiceboat.com
 0.0.0.0 doflygonan.com
+0.0.0.0 dofunbox.com
 0.0.0.0 dogcollarfavourbluff.com
 0.0.0.0 dogcollarnearest.com
 0.0.0.0 dogconcurrencesauce.com
@@ -17478,6 +17480,7 @@
 0.0.0.0 prpopss.com
 0.0.0.0 prre.ru
 0.0.0.0 prtrackings.com
+0.0.0.0 pruare.com
 0.0.0.0 prudencebeyondfalter.com
 0.0.0.0 prudenttruthfulcarter.com
 0.0.0.0 pruhpilaws.website
@@ -25127,6 +25130,7 @@
 0.0.0.0 www.intimidatekerneljames.com
 0.0.0.0 www.invest.church
 0.0.0.0 www.ipaints.net
+0.0.0.0 www.irreparablewretchsurrogate.com
 0.0.0.0 www.itineraryborn.com
 0.0.0.0 www.itkronus.com
 0.0.0.0 www.itseesy.com
@@ -25200,6 +25204,7 @@
 0.0.0.0 www.levieuxfour.online
 0.0.0.0 www.levieuxfour.site
 0.0.0.0 www.levilles.com
+0.0.0.0 www.libelreader.com
 0.0.0.0 www.lico-ys.com
 0.0.0.0 www.likenaavu.com
 0.0.0.0 www.lintrangg.me
@@ -25216,6 +25221,7 @@
 0.0.0.0 www.macrosoftware.io
 0.0.0.0 www.magic-moments-flash.com
 0.0.0.0 www.magicalflavour.com
+0.0.0.0 www.mailboxleadsphone.com
 0.0.0.0 www.mandhflooringkitchenandbath.com
 0.0.0.0 www.manpreetka.com
 0.0.0.0 www.manualpeasantconnoisseur.com
@@ -25302,6 +25308,7 @@
 0.0.0.0 www.paurozel.net
 0.0.0.0 www.pehsc.net
 0.0.0.0 www.peoriabuyermatch.com
+0.0.0.0 www.permanentswitch.com
 0.0.0.0 www.perpetualbliss.net
 0.0.0.0 www.pgavs.online
 0.0.0.0 www.phertonium.com
