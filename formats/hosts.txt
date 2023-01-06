@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.006
 # Release: 006
-# Entries: 26,659
-# Updated: Fri, 06 Jan 23 10:16:33 +06
+# Entries: 26,702
+# Updated: Fri, 06 Jan 23 12:15:27 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3528,6 +3528,7 @@
 0.0.0.0 barriercereals.com
 0.0.0.0 barriobakery.com
 0.0.0.0 barrowwailing.com
+0.0.0.0 barrywheeler.net
 0.0.0.0 bars2show.com
 0.0.0.0 barscreative1.com
 0.0.0.0 bartarinha.it
@@ -3862,6 +3863,7 @@
 0.0.0.0 bestofmoneysurvey.top
 0.0.0.0 bestoretuba.guru
 0.0.0.0 bestproducttesters.com
+0.0.0.0 bestradio.cz
 0.0.0.0 bestratedmealkits.com
 0.0.0.0 bestrevenuenetwork.com
 0.0.0.0 bestsafefast.com
@@ -4919,6 +4921,7 @@
 0.0.0.0 cardsendme.com
 0.0.0.0 cardsscentwithlove.com
 0.0.0.0 careerjournalonline.com
+0.0.0.0 carefortheaged.com.au
 0.0.0.0 careful-oven.pro
 0.0.0.0 carenterhosi.xyz
 0.0.0.0 careuropecreatures.com
@@ -5442,6 +5445,8 @@
 0.0.0.0 ciwigevy.com
 0.0.0.0 cizby.com
 0.0.0.0 cj.boroniasunback.com
+0.0.0.0 cj.dotomi.com
+0.0.0.0 cj.mplxtms.com
 0.0.0.0 cjf25jklrwqt.com
 0.0.0.0 cjl58f3agc.com
 0.0.0.0 cjmpdtnyqi.top
@@ -22218,11 +22223,13 @@
 0.0.0.0 tr.treckmix.xyz
 0.0.0.0 tr563.com
 0.0.0.0 tracedexplore.com
+0.0.0.0 track-global.cj.akadns.net
 0.0.0.0 track-safe.com
 0.0.0.0 track-victoriadates.com
 0.0.0.0 track.24bitcoin.net
 0.0.0.0 track.adoptim.com
 0.0.0.0 track.app-mobillefree.site
+0.0.0.0 track.cj.akadns.net
 0.0.0.0 track.click-tracker.site
 0.0.0.0 track.cpatrk.site
 0.0.0.0 track.followingfree.com
@@ -22256,6 +22263,7 @@
 0.0.0.0 trackerx.ru
 0.0.0.0 trackeverything.co
 0.0.0.0 trackhost.click
+0.0.0.0 tracking-dc6.cj.com
 0.0.0.0 tracking.boxnnews.com
 0.0.0.0 tracking.daynnews.com
 0.0.0.0 tracking.elusivenews.com
@@ -23001,6 +23009,7 @@
 0.0.0.0 ulourgaz.net
 0.0.0.0 ulried.com
 0.0.0.0 ultanceev.com
+0.0.0.0 ulteegol.com
 0.0.0.0 ultimate-captcha.com
 0.0.0.0 ultimowraxle.com
 0.0.0.0 ultingcoempa.xyz
@@ -24842,6 +24851,7 @@
 0.0.0.0 www.adulatorydigestionmanicure.com
 0.0.0.0 www.adultnetdirectory.com
 0.0.0.0 www.advertspheredigital.com
+0.0.0.0 www.afcyhf.com
 0.0.0.0 www.affectionsexterminate.com
 0.0.0.0 www.afrikamaat.com
 0.0.0.0 www.aktuaity.sk
@@ -24861,10 +24871,12 @@
 0.0.0.0 www.android-devs.top
 0.0.0.0 www.animsup.biz
 0.0.0.0 www.anotherdoinass1.com
+0.0.0.0 www.anrdoezrs.net
 0.0.0.0 www.antio-nar.com
 0.0.0.0 www.antiquariangerm.com
 0.0.0.0 www.anywherefurniture.com
 0.0.0.0 www.apanasolutions.com
+0.0.0.0 www.apmebf.com
 0.0.0.0 www.applaudmaturityasunder.com
 0.0.0.0 www.aquascapereality.com
 0.0.0.0 www.aradhyaalamuru.com
@@ -24885,6 +24897,7 @@
 0.0.0.0 www.atlmobilenotary.com
 0.0.0.0 www.atta33.com
 0.0.0.0 www.autopsyfowl.com
+0.0.0.0 www.awltovhc.com
 0.0.0.0 www.awokeconscious.com
 0.0.0.0 www.azhousingvalues.com
 0.0.0.0 www.balajinetworks.com
@@ -24988,6 +25001,7 @@
 0.0.0.0 www.christiangirlsstrive.com
 0.0.0.0 www.churchalexis.com
 0.0.0.0 www.circles.health
+0.0.0.0 www.cj.conversant.mgr.consensu.org
 0.0.0.0 www.clentrk.com
 0.0.0.0 www.climategate.tv
 0.0.0.0 www.cloakroomreveal.com
@@ -25001,6 +25015,7 @@
 0.0.0.0 www.comdomins1.com
 0.0.0.0 www.comdomins2.com
 0.0.0.0 www.comfort-rv.am
+0.0.0.0 www.commission-junction.com
 0.0.0.0 www.compasspenitenthollow.com
 0.0.0.0 www.compoundpeeredfrankly.com
 0.0.0.0 www.comradeawe.com
@@ -25059,6 +25074,7 @@
 0.0.0.0 www.doownl0ad3s.com
 0.0.0.0 www.dotnetmq.com
 0.0.0.0 www.downtownpharmacynj.com
+0.0.0.0 www.dpbolvw.net
 0.0.0.0 www.dreadfulprofitable.com
 0.0.0.0 www.driverpartially.com
 0.0.0.0 www.drivingshoe.com
@@ -25082,6 +25098,7 @@
 0.0.0.0 www.elizabethtownfilmfestival.org
 0.0.0.0 www.elmspro.com
 0.0.0.0 www.embarkdisrupt.com
+0.0.0.0 www.emjcd.com
 0.0.0.0 www.emmaparental.com
 0.0.0.0 www.emmavictoriaevents.com
 0.0.0.0 www.emteeveetwo.com
@@ -25144,6 +25161,7 @@
 0.0.0.0 www.freestanding.biz
 0.0.0.0 www.fregtrsatnt.com
 0.0.0.0 www.frostbannk.com
+0.0.0.0 www.ftjcfx.com
 0.0.0.0 www.fuelcompatibleblaspheme.com
 0.0.0.0 www.funkyaloftdesirable.com
 0.0.0.0 www.funkyziggurat.com
@@ -25273,6 +25291,7 @@
 0.0.0.0 www.izitrckr.com
 0.0.0.0 www.j1868.com
 0.0.0.0 www.jacksonfirearms.com
+0.0.0.0 www.jdoqocy.com
 0.0.0.0 www.jeandesigns.net
 0.0.0.0 www.jeetbuzz.one
 0.0.0.0 www.jefashivy.com
@@ -25300,6 +25319,7 @@
 0.0.0.0 www.karaoke-list.com
 0.0.0.0 www.karikaturbul.com
 0.0.0.0 www.kartretail.com
+0.0.0.0 www.kdukvh.com
 0.0.0.0 www.kenafah.com
 0.0.0.0 www.kenmember.com
 0.0.0.0 www.keramidasblog.com
@@ -25317,6 +25337,7 @@
 0.0.0.0 www.kodaivelfarms.com
 0.0.0.0 www.koolturecr.com
 0.0.0.0 www.korooz.co.uk
+0.0.0.0 www.kqzyfj.com
 0.0.0.0 www.kreativevue.com
 0.0.0.0 www.krishnadarpannews.live
 0.0.0.0 www.kukrosti.com
@@ -25331,6 +25352,7 @@
 0.0.0.0 www.lanyouplay.com
 0.0.0.0 www.larawilliams.org
 0.0.0.0 www.lawstreetindia.com
+0.0.0.0 www.lduhtrp.net
 0.0.0.0 www.leadgenerat3d.com
 0.0.0.0 www.learncryptocurrencybasics.com
 0.0.0.0 www.leeante.com
@@ -25385,6 +25407,7 @@
 0.0.0.0 www.minefieldallegiance.com
 0.0.0.0 www.mirrorsguide.biz
 0.0.0.0 www.misunderstandlivelinessgargle.com
+0.0.0.0 www.mjbpab.com
 0.0.0.0 www.mm380av.com
 0.0.0.0 www.mmngqvbfuzenlk.com
 0.0.0.0 www.mnmoe.com
@@ -25459,6 +25482,7 @@
 0.0.0.0 www.pikat4d.net
 0.0.0.0 www.pikat4d.org
 0.0.0.0 www.pincnet.com
+0.0.0.0 www.pkracv.com
 0.0.0.0 www.pleasantlyvolatiletiptoe.com
 0.0.0.0 www.plitkadvor.ru
 0.0.0.0 www.plumdelighted.com
@@ -25495,6 +25519,8 @@
 0.0.0.0 www.qdcwml.top
 0.0.0.0 www.qdkcxp.net
 0.0.0.0 www.qhuqzw.top
+0.0.0.0 www.qksrv.net
+0.0.0.0 www.qksz.net
 0.0.0.0 www.quickkiinstallmentloans.org
 0.0.0.0 www.quickvideo.store
 0.0.0.0 www.quickvideo.tech
@@ -25654,6 +25680,7 @@
 0.0.0.0 www.tipitapa.org
 0.0.0.0 www.tirthankar.com
 0.0.0.0 www.tjgoodwinandassociates.com
+0.0.0.0 www.tkqlhce.com
 0.0.0.0 www.tmdbgmhh.com
 0.0.0.0 www.tnrhcp.com
 0.0.0.0 www.toenailplaywright.com
@@ -25661,6 +25688,7 @@
 0.0.0.0 www.tomoprecision.com
 0.0.0.0 www.topdevactions.tech
 0.0.0.0 www.torrentino.online
+0.0.0.0 www.tqlkg.com
 0.0.0.0 www.tracedexplore.com
 0.0.0.0 www.tracytimm.com
 0.0.0.0 www.transactionlumber.com
@@ -25710,6 +25738,7 @@
 0.0.0.0 www.vjlondonphotography.com
 0.0.0.0 www.vladikin.dev
 0.0.0.0 www.vlasoff.net
+0.0.0.0 www.vmcxdaynkhnekp.com
 0.0.0.0 www.volcanoimplement.com
 0.0.0.0 www.vpay.website
 0.0.0.0 www.walwave.com
@@ -25752,6 +25781,7 @@
 0.0.0.0 www.yourmobnotification.com
 0.0.0.0 www.youthstockholm50.global
 0.0.0.0 www.yvesmadame.com
+0.0.0.0 www.zabpbhko.com
 0.0.0.0 www.zagtertda.com
 0.0.0.0 www.zargaron.com
 0.0.0.0 www.zhiyu188.com
@@ -25766,8 +25796,21 @@
 0.0.0.0 wwwowww.xyz
 0.0.0.0 wwwpromoter.com
 0.0.0.0 wwwquailcreekrepublicans.com
+0.0.0.0 wwww.afcyhf.com
+0.0.0.0 wwww.anrdoezrs.net
+0.0.0.0 wwww.awltovhc.com
+0.0.0.0 wwww.emjcd.com
 0.0.0.0 wwww.epmgp.mglep.com
+0.0.0.0 wwww.ftjcfx.com
+0.0.0.0 wwww.jdoqocy.com
+0.0.0.0 wwww.kdukvh.com
+0.0.0.0 wwww.kqzyfj.com
+0.0.0.0 wwww.lduhtrp.net
 0.0.0.0 wwww.mglep.com
+0.0.0.0 wwww.qksrv.net
+0.0.0.0 wwww.qksz.net
+0.0.0.0 wwww.tkqlhce.com
+0.0.0.0 wwww.tqlkg.com
 0.0.0.0 wwwxcs1888.com
 0.0.0.0 wx.pestequitch.com
 0.0.0.0 wx.squetanonym.com
