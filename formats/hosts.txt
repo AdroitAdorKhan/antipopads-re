@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.007
 # Release: 007
-# Entries: 27,404
-# Updated: Sat, 07 Jan 23 18:16:16 +06
+# Entries: 27,431
+# Updated: Sat, 07 Jan 23 20:14:27 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5037,6 +5037,7 @@
 0.0.0.0 cashwin.store
 0.0.0.0 casinal.com
 0.0.0.0 casino-games-free.com
+0.0.0.0 casinobrigadereport.com
 0.0.0.0 casksteam.com
 0.0.0.0 caspion.com
 0.0.0.0 casrc.in
@@ -5861,6 +5862,7 @@
 0.0.0.0 colliersads.com
 0.0.0.0 colmoseshelled.com
 0.0.0.0 colombomyeloid.live
+0.0.0.0 colonave.com
 0.0.0.0 colonistnobilityheroic.com
 0.0.0.0 colorbox.in
 0.0.0.0 colorfullank.com
@@ -6034,6 +6036,7 @@
 0.0.0.0 contentr.net
 0.0.0.0 contextendless.com
 0.0.0.0 contextweb.com
+0.0.0.0 continuallymarinadeinvincible.com
 0.0.0.0 continuedi.club
 0.0.0.0 continuousformula.com
 0.0.0.0 continuousprescription.com
@@ -6076,6 +6079,7 @@
 0.0.0.0 cooljony.com
 0.0.0.0 coollycollegeexpertise.com
 0.0.0.0 coolstreamsearch.com
+0.0.0.0 coolsuperficialacerbity.com
 0.0.0.0 cooperatetimes.com
 0.0.0.0 coordinatedcub.com
 0.0.0.0 coostujina.com
@@ -7116,6 +7120,7 @@
 0.0.0.0 disord-app.com
 0.0.0.0 disparagethence.com
 0.0.0.0 disparitydegenerateconstrict.com
+0.0.0.0 disparityfour.com
 0.0.0.0 dispbaktun.com
 0.0.0.0 displaycontentnetwork.com
 0.0.0.0 displaycontentprofit.com
@@ -9021,6 +9026,7 @@
 0.0.0.0 flaxenvapour.com
 0.0.0.0 flaxierfilmset.com
 0.0.0.0 flaxim.com
+0.0.0.0 flaxlistedleague.com
 0.0.0.0 flaxseedssoenrh4372ojd.com
 0.0.0.0 flcp700.cc
 0.0.0.0 flewssyzygia.casa
@@ -10730,6 +10736,7 @@
 0.0.0.0 heratheacle.com
 0.0.0.0 herbalsaint.com
 0.0.0.0 herbalsaint.in
+0.0.0.0 herconsequence.com
 0.0.0.0 herdethi.net
 0.0.0.0 herdicka.net
 0.0.0.0 herefwukou.com
@@ -14639,6 +14646,7 @@
 0.0.0.0 moneyleden.space
 0.0.0.0 moneymakercdn.com
 0.0.0.0 moneyrevelation.com
+0.0.0.0 moneyspeakslouder.com
 0.0.0.0 monginisonline.com
 0.0.0.0 monglerplots.website
 0.0.0.0 mongrenier-online.com
@@ -16977,6 +16985,7 @@
 0.0.0.0 perfectmovie.pro
 0.0.0.0 perfectplanned.com
 0.0.0.0 perfectprodctchallenge.com
+0.0.0.0 perfectstickyrenewal.com
 0.0.0.0 performance-based.com
 0.0.0.0 performance4life.com
 0.0.0.0 performanceadexchange.com
@@ -18456,6 +18465,7 @@
 0.0.0.0 qyavwmjph.top
 0.0.0.0 qydhjirz.com
 0.0.0.0 qyhugamu.xyz
+0.0.0.0 qykship.com
 0.0.0.0 qyvrjfajcqglm.top
 0.0.0.0 qyxwfe.com
 0.0.0.0 qz.gablockplank.com
@@ -23775,6 +23785,7 @@
 0.0.0.0 usychdifpmhrx.top
 0.0.0.0 ut.akamnikxystos.com
 0.0.0.0 utahlemon.law
+0.0.0.0 utahtechuniversityathletics.com
 0.0.0.0 utantialcottish.xyz
 0.0.0.0 utarget.co.uk
 0.0.0.0 utarget.pro
@@ -25481,6 +25492,7 @@
 0.0.0.0 www.carpasbodegaindustrial.com
 0.0.0.0 www.cashmereapprovalnotwithstanding.com
 0.0.0.0 www.casino-games-free.com
+0.0.0.0 www.casinobrigadereport.com
 0.0.0.0 www.casrc.in
 0.0.0.0 www.catdatarecovery.com
 0.0.0.0 www.cbarmedia.com
@@ -25508,11 +25520,13 @@
 0.0.0.0 www.climategate.tv
 0.0.0.0 www.cloakroomreveal.com
 0.0.0.0 www.clocklink.com
+0.0.0.0 www.clothrepublicanbertram.com
 0.0.0.0 www.clownverticalrussian.com
 0.0.0.0 www.club-india.gives
 0.0.0.0 www.cnsds.net
 0.0.0.0 www.cobrakhabar.com
 0.0.0.0 www.cochranedodgechryslerjeep.com
+0.0.0.0 www.colonave.com
 0.0.0.0 www.combinedunresolved.com
 0.0.0.0 www.comdomains3.com
 0.0.0.0 www.comdomins1.com
@@ -25525,11 +25539,13 @@
 0.0.0.0 www.concealirradiaterisk.com
 0.0.0.0 www.conformityhedgehog.com
 0.0.0.0 www.consciencecollective.club
+0.0.0.0 www.continuallymarinadeinvincible.com
 0.0.0.0 www.contractoria.com
 0.0.0.0 www.contradictiondishonestvaried.com
 0.0.0.0 www.convertmypool.com
 0.0.0.0 www.coolday.online
 0.0.0.0 www.coolent.net
+0.0.0.0 www.coolsuperficialacerbity.com
 0.0.0.0 www.coraltoilbetter.com
 0.0.0.0 www.cosmosisbeauty.com
 0.0.0.0 www.costumegratetenth.com
@@ -25573,6 +25589,7 @@
 0.0.0.0 www.dilutionavailstoker.com
 0.0.0.0 www.disagreegenerator.com
 0.0.0.0 www.discovernative.com
+0.0.0.0 www.disparityfour.com
 0.0.0.0 www.disposableface-shields.com
 0.0.0.0 www.disreputablegenuinelyhonorary.com
 0.0.0.0 www.distance.usertag.online
@@ -25675,6 +25692,7 @@
 0.0.0.0 www.fivestars.es
 0.0.0.0 www.fixosint.com
 0.0.0.0 www.flakesrental.com
+0.0.0.0 www.flaxlistedleague.com
 0.0.0.0 www.flogmacaroni.com
 0.0.0.0 www.floorsafetyexpert.com
 0.0.0.0 www.flukereclaimspleen.com
@@ -25763,6 +25781,7 @@
 0.0.0.0 www.healquite.com
 0.0.0.0 www.healthtracking.co
 0.0.0.0 www.heartilyscales.com
+0.0.0.0 www.herconsequence.com
 0.0.0.0 www.heythereseth.com
 0.0.0.0 www.hgkf7888.com
 0.0.0.0 www.hhcespanol.com
@@ -25993,6 +26012,7 @@
 0.0.0.0 www.modxguitars.com
 0.0.0.0 www.moizen.xyz
 0.0.0.0 www.moneymakercdn.com
+0.0.0.0 www.moneyspeakslouder.com
 0.0.0.0 www.moodokay.com
 0.0.0.0 www.morrison-designs.com
 0.0.0.0 www.mortifyincomparablepeek.com
@@ -26030,6 +26050,7 @@
 0.0.0.0 www.nurserylydia.com
 0.0.0.0 www.oandabusinessgroup.com
 0.0.0.0 www.oarcompartmentexaggerate.com
+0.0.0.0 www.obituaryfuneral.com
 0.0.0.0 www.obtainadopteddeliberately.com
 0.0.0.0 www.oceanpropertynb.com
 0.0.0.0 www.officialcardcarryingtexan.com
@@ -26048,6 +26069,7 @@
 0.0.0.0 www.otheradsads.xyz
 0.0.0.0 www.otherwisesemicolon.com
 0.0.0.0 www.ourwildpreciouslife.com
+0.0.0.0 www.outlawchillpropose.com
 0.0.0.0 www.owestripebastard.com
 0.0.0.0 www.packethierarchy.com
 0.0.0.0 www.paicosoftware.com
@@ -26064,8 +26086,10 @@
 0.0.0.0 www.passablejeepparliament.com
 0.0.0.0 www.patrickbp.store
 0.0.0.0 www.paurozel.net
+0.0.0.0 www.peachrecess.com
 0.0.0.0 www.pehsc.net
 0.0.0.0 www.peoriabuyermatch.com
+0.0.0.0 www.perfectstickyrenewal.com
 0.0.0.0 www.permanentswitch.com
 0.0.0.0 www.perpetualbliss.net
 0.0.0.0 www.pesterclinkaltogether.com
@@ -26262,6 +26286,7 @@
 0.0.0.0 www.speakspurink.com
 0.0.0.0 www.specialityharmoniousgypsy.com
 0.0.0.0 www.specimenspeekzone.com
+0.0.0.0 www.speechfountaindigestion.com
 0.0.0.0 www.spekturm.de
 0.0.0.0 www.spiritualdiscussing.com
 0.0.0.0 www.spookastonishingheap.com
@@ -26415,6 +26440,7 @@
 0.0.0.0 www.vmcxdaynkhnekp.com
 0.0.0.0 www.volcanoimplement.com
 0.0.0.0 www.vpay.website
+0.0.0.0 www.waiterregistrydelusional.com
 0.0.0.0 www.walnutdescendant.com
 0.0.0.0 www.walwave.com
 0.0.0.0 www.wappie.world
@@ -26729,6 +26755,7 @@
 0.0.0.0 xmlv6.fastdxr.com
 0.0.0.0 xmr-wallet.com
 0.0.0.0 xmsflzmygw.com
+0.0.0.0 xn--brooksfutcip-8hb33k.com
 0.0.0.0 xn--impriootaku-dbb.com
 0.0.0.0 xn--lt-3va.com
 0.0.0.0 xn--r1a.website
