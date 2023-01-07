@@ -8,7 +8,7 @@
   <strong>block pesky malicious pop ads. </strong>
 </div>
 <div align="left">
-  antipopads:<i>re</i>born is highly inspired by <a href="https://github.com/Yhonay/antipopads">Yhonay/antipopads</a>. This antipopads:<i>re</i> has <code>27,367</code> domains in list.
+  antipopads:<i>re</i>born is highly inspired by <a href="https://github.com/Yhonay/antipopads">Yhonay/antipopads</a>. This antipopads:<i>re</i> has <code>27,404</code> domains in list.
 </div>
 
 ## What is this for?
@@ -19,10 +19,10 @@ antipopads:<i>re</i> is designed for Unix-like systems, gets a list of domains t
 
 | FORMAT | ENTRIES | SIZE | LINK | SUBSCRIBE | LINK-2 |
 |:------:|:-------:|:----:|:----:|:---------:|:------:|
-| `domains` | 27,367 | 464K | [/domains.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/domains.txt) | - | [MIRROR](https://antipopads-re.energized.pro/formats/domains.txt) |
-| `hosts` | 27,367 | 677K | [/hosts.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/hosts.txt) | - | [MIRROR](https://antipopads-re.energized.pro/formats/hosts.txt) |
-| `hosts ipv6` | 27,367 | 544K | [/hosts-ipv6.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/hosts-ipv6.txt) | - | [MIRROR](https://antipopads-re.energized.pro/formats/hosts-ipv6.txt) |
-| `adblock filter` | 27,367 | 544K | [/filter.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/filter.txt) | [1](https://subscribe.adblockplus.org/?location=https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/filter.txt&title=antipopads:re) [2](https://subscribe.adblockplus.org/?location=https://antipopads-re.energized.pro/formats/filter.txt&title=antipopads:re) | [MIRROR](https://antipopads-re.energized.pro/formats/filter.txt) |
+| `domains` | 27,404 | 464K | [/domains.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/domains.txt) | - | [MIRROR](https://antipopads-re.energized.pro/formats/domains.txt) |
+| `hosts` | 27,404 | 678K | [/hosts.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/hosts.txt) | - | [MIRROR](https://antipopads-re.energized.pro/formats/hosts.txt) |
+| `hosts ipv6` | 27,404 | 545K | [/hosts-ipv6.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/hosts-ipv6.txt) | - | [MIRROR](https://antipopads-re.energized.pro/formats/hosts-ipv6.txt) |
+| `adblock filter` | 27,404 | 545K | [/filter.txt](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/filter.txt) | [1](https://subscribe.adblockplus.org/?location=https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/filter.txt&title=antipopads:re) [2](https://subscribe.adblockplus.org/?location=https://antipopads-re.energized.pro/formats/filter.txt&title=antipopads:re) | [MIRROR](https://antipopads-re.energized.pro/formats/filter.txt) |
 
 
 ## Disclaimer
