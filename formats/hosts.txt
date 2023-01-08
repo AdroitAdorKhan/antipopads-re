@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.008
 # Release: 008
-# Entries: 27,562
-# Updated: Sun, 08 Jan 23 08:12:14 +06
+# Entries: 27,564
+# Updated: Sun, 08 Jan 23 10:08:13 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1141,6 +1141,7 @@
 0.0.0.0 accustomreview.com
 0.0.0.0 acdcdn.com
 0.0.0.0 acdn.adnxs.com
+0.0.0.0 acediscover.com
 0.0.0.0 aceekroo.net
 0.0.0.0 acelabelclothing.com
 0.0.0.0 acelacien.com
@@ -6288,6 +6289,7 @@
 0.0.0.0 crediliopro.in
 0.0.0.0 creditorapido.xyz
 0.0.0.0 creditspontaneousvicious.com
+0.0.0.0 creditszajm.xyz
 0.0.0.0 creedaileenboiler.com
 0.0.0.0 creepingbrings.com
 0.0.0.0 cremateretainedsurname.com

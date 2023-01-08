@@ -20,8 +20,8 @@
 ! Version: 23.01.008
 ! Release: 008
 ! Expires: 1 day
-! Entries: 27,562
-! Updated: Sun, 08 Jan 23 08:12:14 +06
+! Entries: 27,564
+! Updated: Sun, 08 Jan 23 10:08:13 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -1142,6 +1142,7 @@
 ||accustomreview.com^
 ||acdcdn.com^
 ||acdn.adnxs.com^
+||acediscover.com^
 ||aceekroo.net^
 ||acelabelclothing.com^
 ||acelacien.com^
@@ -6289,6 +6290,7 @@
 ||crediliopro.in^
 ||creditorapido.xyz^
 ||creditspontaneousvicious.com^
+||creditszajm.xyz^
 ||creedaileenboiler.com^
 ||creepingbrings.com^
 ||cremateretainedsurname.com^
