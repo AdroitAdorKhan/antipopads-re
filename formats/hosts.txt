@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.008
 # Release: 008
-# Entries: 27,601
-# Updated: Sun, 08 Jan 23 12:13:22 +06
+# Entries: 27,607
+# Updated: Sun, 08 Jan 23 14:08:04 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7410,6 +7410,7 @@
 0.0.0.0 downloadfullfile.info
 0.0.0.0 downloadmobile.pro
 0.0.0.0 downloadthesefile.com
+0.0.0.0 downloadtvtime.com
 0.0.0.0 downloadyt.com
 0.0.0.0 downtownpharmacynj.com
 0.0.0.0 dowseskelia.website
@@ -12792,6 +12793,7 @@
 0.0.0.0 kmckayqhjlkbre.top
 0.0.0.0 kmfwrqdp.com
 0.0.0.0 kmisln.com
+0.0.0.0 kmmewm.com
 0.0.0.0 kmqkdhqaqt.com
 0.0.0.0 kmuvaerfumy.com
 0.0.0.0 kmwsmlwudyukcg.top
@@ -21826,6 +21828,7 @@
 0.0.0.0 technotology.com
 0.0.0.0 techosophy.com
 0.0.0.0 techuni.tech
+0.0.0.0 tecmactrade.org
 0.0.0.0 tecnolad.com
 0.0.0.0 tecominchisel.com
 0.0.0.0 tecuil.com
@@ -22097,6 +22100,7 @@
 0.0.0.0 theporn293.cc
 0.0.0.0 thepreneurnetwork.com
 0.0.0.0 theprintquarter.com
+0.0.0.0 thequalitygroup.biz
 0.0.0.0 therapistpopulationcommentary.com
 0.0.0.0 theraprecramp.com
 0.0.0.0 therealtordianys.com
@@ -26057,6 +26061,7 @@
 0.0.0.0 www.kitchenmatts.com
 0.0.0.0 www.kittle.app
 0.0.0.0 www.kl-df-a4.com
+0.0.0.0 www.kmmewm.com
 0.0.0.0 www.knockoutantipathy.com
 0.0.0.0 www.knotworkshop.com
 0.0.0.0 www.know-cr.com
@@ -26517,6 +26522,7 @@
 0.0.0.0 www.thelocaldistro.com
 0.0.0.0 www.thepackingshed.com.au
 0.0.0.0 www.thepreneurnetwork.com
+0.0.0.0 www.thequalitygroup.biz
 0.0.0.0 www.therebycapablerising.com
 0.0.0.0 www.thereshotowner.com
 0.0.0.0 www.thesandykingteam.com
