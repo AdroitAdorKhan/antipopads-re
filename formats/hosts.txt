@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.010
 # Release: 010
-# Entries: 28,373
-# Updated: Tue, 10 Jan 23 12:08:43 +06
+# Entries: 28,384
+# Updated: Tue, 10 Jan 23 14:08:42 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5395,6 +5395,7 @@
 0.0.0.0 chautcho.com
 0.0.0.0 chautchy.net
 0.0.0.0 chazanscapita.com
+0.0.0.0 chcl.tech
 0.0.0.0 cheapenleaving.com
 0.0.0.0 cheaplycreateproprietor.com
 0.0.0.0 cheaplyroleinvolved.com
@@ -10982,6 +10983,7 @@
 0.0.0.0 hey-brazil.com
 0.0.0.0 hey-brazil.net
 0.0.0.0 hey-brazil.org
+0.0.0.0 heycdn65.xyz
 0.0.0.0 heycdn68.xyz
 0.0.0.0 heythereseth.com
 0.0.0.0 hfc195b.com
@@ -12504,6 +12506,7 @@
 0.0.0.0 jockeryfgtu.club
 0.0.0.0 jocowhab.com
 0.0.0.0 joctar.org
+0.0.0.0 jod-news1.club
 0.0.0.0 jodellvideos.pro
 0.0.0.0 jodsempu.com
 0.0.0.0 joe3.co
@@ -13908,6 +13911,7 @@
 0.0.0.0 lopzitpup.com
 0.0.0.0 lorageiros.com
 0.0.0.0 loralana.com
+0.0.0.0 lordsfilmz.online
 0.0.0.0 lorybnfh.com
 0.0.0.0 loshrhaphae.com
 0.0.0.0 losingfoundation.com
@@ -23057,6 +23061,7 @@
 0.0.0.0 toro-tree.com
 0.0.0.0 toroadvertisingmedia.com
 0.0.0.0 toronfto.com
+0.0.0.0 torontoroyalty.exchange
 0.0.0.0 torooptudaiz.com
 0.0.0.0 tororango.com
 0.0.0.0 torpsol.com
@@ -26187,6 +26192,7 @@
 0.0.0.0 www.charsiasiamese.com
 0.0.0.0 www.chastepaddlesynthesis.com
 0.0.0.0 www.chaubseet.com
+0.0.0.0 www.chcl.tech
 0.0.0.0 www.cheaptoursiceland.com
 0.0.0.0 www.cheerfullycling.com
 0.0.0.0 www.chesterfieldrealestatesearch.com
@@ -26545,6 +26551,7 @@
 0.0.0.0 www.heartilyscales.com
 0.0.0.0 www.herconsequence.com
 0.0.0.0 www.herebybondagesidenote.com
+0.0.0.0 www.heycdn65.xyz
 0.0.0.0 www.heythereseth.com
 0.0.0.0 www.hgkf7888.com
 0.0.0.0 www.hhcespanol.com
@@ -26656,6 +26663,7 @@
 0.0.0.0 www.jjldevelopment.com
 0.0.0.0 www.jkbrandmenswear.com
 0.0.0.0 www.joakopalomar.com
+0.0.0.0 www.jod-news1.club
 0.0.0.0 www.johntoritsemotse.com
 0.0.0.0 www.joker327.xyz
 0.0.0.0 www.joker330.xyz
@@ -26727,6 +26735,7 @@
 0.0.0.0 www.leggygagbighearted.com
 0.0.0.0 www.letsgro.app
 0.0.0.0 www.leubsdorf.com
+0.0.0.0 www.leveragetypicalreflections.com
 0.0.0.0 www.levieuxfour.online
 0.0.0.0 www.levieuxfour.site
 0.0.0.0 www.levilles.com
@@ -26750,6 +26759,7 @@
 0.0.0.0 www.lonelinessapp.com
 0.0.0.0 www.lonestarstate.app
 0.0.0.0 www.longbayvillas.com
+0.0.0.0 www.lordsfilmz.online
 0.0.0.0 www.lovedate.online
 0.0.0.0 www.loyalcustomer.app
 0.0.0.0 www.lqcqhkgoer.com
@@ -27276,6 +27286,7 @@
 0.0.0.0 www.toinstagram.com
 0.0.0.0 www.tomoprecision.com
 0.0.0.0 www.topdevactions.tech
+0.0.0.0 www.torontoroyalty.exchange
 0.0.0.0 www.torrentdia35.com
 0.0.0.0 www.torrentino.online
 0.0.0.0 www.towardstapleleaflet.com
