@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.012
 # Release: 012
-# Entries: 29,065
-# Updated: Thu, 12 Jan 23 08:08:05 +06
+# Entries: 29,096
+# Updated: Thu, 12 Jan 23 10:11:36 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -936,6 +936,8 @@
 0.0.0.0 a14refresh.com
 0.0.0.0 a14tdsa.com
 0.0.0.0 a15c5009bcbe272.com
+0.0.0.0 a1768.xyz
+0.0.0.0 a1788.xyz
 0.0.0.0 a1airandgasco.in
 0.0.0.0 a1bonac.com
 0.0.0.0 a22d397e96.com
@@ -948,6 +950,7 @@
 0.0.0.0 a2nn5eri7ce.com
 0.0.0.0 a2tw6yoodsag.com
 0.0.0.0 a31e4a98f6.b094e3477d.com
+0.0.0.0 a3258.xyz
 0.0.0.0 a353364ec1bd19a.com
 0.0.0.0 a3c3ad05bc.560fe03925.com
 0.0.0.0 a3yqjsrczwwp.com
@@ -958,6 +961,8 @@
 0.0.0.0 a5e04df959f1af34.com
 0.0.0.0 a676ab6743.824fde6e63.com
 0.0.0.0 a67z.com
+0.0.0.0 a7288.xyz
+0.0.0.0 a7378.xyz
 0.0.0.0 a8pck.cn
 0.0.0.0 a8rm1m4msbbh.com
 0.0.0.0 a91dcb249b.click
@@ -1922,6 +1927,7 @@
 0.0.0.0 agefans.best
 0.0.0.0 ageismvipery.com
 0.0.0.0 agenduret.com
+0.0.0.0 agengdesignllc.com
 0.0.0.0 ageore.com
 0.0.0.0 ageory.com
 0.0.0.0 agfdapqal.com
@@ -4590,6 +4596,7 @@
 0.0.0.0 brandclik.com
 0.0.0.0 branddnewcode1.me
 0.0.0.0 brandreachsys.com
+0.0.0.0 brandstds.com
 0.0.0.0 brandvoice.online
 0.0.0.0 brandwatches.uk
 0.0.0.0 brasherfolious.store
@@ -4723,6 +4730,7 @@
 0.0.0.0 bs-gg.cam
 0.0.0.0 bs.ointtoga.com
 0.0.0.0 bs.pactionpolab.com
+0.0.0.0 bs50tds.com
 0.0.0.0 bsahbewwfiihaxk.com
 0.0.0.0 bsbinter.com
 0.0.0.0 bsgeneral.com
@@ -5549,6 +5557,7 @@
 0.0.0.0 choachim.com
 0.0.0.0 choahees.net
 0.0.0.0 choanabethump.com
+0.0.0.0 choawuram.com
 0.0.0.0 chobsang.net
 0.0.0.0 chocohjuanfhdhf.com
 0.0.0.0 chocolatebushbunny.com
@@ -6306,6 +6315,7 @@
 0.0.0.0 costhandbookfolder.com
 0.0.0.0 costumegratetenth.com
 0.0.0.0 cosydrbrewing.com
+0.0.0.0 cosymeditatepub.com
 0.0.0.0 cotalles.com
 0.0.0.0 cotchaug.com
 0.0.0.0 coterybulrush.com
@@ -6740,6 +6750,7 @@
 0.0.0.0 daichoho.com
 0.0.0.0 daigrouchest.com
 0.0.0.0 daijopimplo.com
+0.0.0.0 daikeethoo.com
 0.0.0.0 dailanh.website
 0.0.0.0 dailyc24.com
 0.0.0.0 dailyfoodfacts.com
@@ -6768,6 +6779,7 @@
 0.0.0.0 damdiversereadiness.com
 0.0.0.0 damedamehoy.xyz
 0.0.0.0 damnpresume.com
+0.0.0.0 damrooh.vodka
 0.0.0.0 damskiy.xyz
 0.0.0.0 dana123.com
 0.0.0.0 danaglafeasor.live
@@ -7242,6 +7254,7 @@
 0.0.0.0 digitalberries.com
 0.0.0.0 digitaldsp.com
 0.0.0.0 digitalmediapp.com
+0.0.0.0 digivetcare.org
 0.0.0.0 digressremarkableconfide.com
 0.0.0.0 diguver.com
 0.0.0.0 diiojifu.top
@@ -7325,6 +7338,7 @@
 0.0.0.0 disbow.com
 0.0.0.0 dischargedecent.com
 0.0.0.0 discordclosure.com
+0.0.0.0 discountbasistinge.com
 0.0.0.0 discountryvc.club
 0.0.0.0 discounts4shops.com
 0.0.0.0 discountwound.com
@@ -9260,6 +9274,7 @@
 0.0.0.0 firexclamation.com
 0.0.0.0 firist.com
 0.0.0.0 firmenia.com
+0.0.0.0 firmingpanung.live
 0.0.0.0 firon.xyz
 0.0.0.0 first-rate.com
 0.0.0.0 firstadsolution.com
@@ -9622,6 +9637,7 @@
 0.0.0.0 frenin.com
 0.0.0.0 fresh8.co
 0.0.0.0 freshandlocal.store
+0.0.0.0 freshannouncement.com
 0.0.0.0 freshintimate.com
 0.0.0.0 freshmanuals.com
 0.0.0.0 fretfulcarpers.website
@@ -10137,6 +10153,7 @@
 0.0.0.0 gilgqrec.com
 0.0.0.0 gillotjugful.com
 0.0.0.0 gillynn.com
+0.0.0.0 gilsesavanna.uno
 0.0.0.0 giltenmopoke.cam
 0.0.0.0 gimiliminibi.com
 0.0.0.0 gimpybedderump.com
@@ -10280,6 +10297,7 @@
 0.0.0.0 glodsool.net
 0.0.0.0 glogoowo.net
 0.0.0.0 gloodsie.com
+0.0.0.0 gloognoogrix.com
 0.0.0.0 glookalr.com
 0.0.0.0 glookroz.net
 0.0.0.0 gloolrey.com
@@ -10298,6 +10316,7 @@
 0.0.0.0 gloudsel.net
 0.0.0.0 gloufteglouw.com
 0.0.0.0 gloumsee.net
+0.0.0.0 gloushekra.com
 0.0.0.0 glowdot.com
 0.0.0.0 glowingboardbrite.com
 0.0.0.0 glowingcupid.com
@@ -10506,6 +10525,7 @@
 0.0.0.0 gotoplaymillion.com
 0.0.0.0 gotwakinrollet.xyz
 0.0.0.0 goucejugra.com
+0.0.0.0 gouloupt.com
 0.0.0.0 goupeecy.com
 0.0.0.0 gouryvouster.com
 0.0.0.0 gousouse.com
@@ -12918,6 +12938,7 @@
 0.0.0.0 jursp.com
 0.0.0.0 juryinvolving.com
 0.0.0.0 jusbertimla4ke2.com
+0.0.0.0 jussiwhauds.com
 0.0.0.0 justdating.online
 0.0.0.0 justgetitfaster.com
 0.0.0.0 justiceintegral.com
@@ -13184,6 +13205,7 @@
 0.0.0.0 kinsecutiony.club
 0.0.0.0 kinsmenmislies.com
 0.0.0.0 kinz189.com
+0.0.0.0 kiretafly.com
 0.0.0.0 kirgatch.com
 0.0.0.0 kirgeemo.com
 0.0.0.0 kirnscraps.com
@@ -13286,6 +13308,7 @@
 0.0.0.0 knutenegros.pro
 0.0.0.0 ko.parralltaxator.com
 0.0.0.0 koabausu.com
+0.0.0.0 koabukedosi.com
 0.0.0.0 koacojus.net
 0.0.0.0 koadoasi.net
 0.0.0.0 koalababy.net
@@ -13615,6 +13638,7 @@
 0.0.0.0 latenight-dating.life
 0.0.0.0 latentcreeper.com
 0.0.0.0 lateralbook.com
+0.0.0.0 latestsocial.com
 0.0.0.0 latheendsmoo.com
 0.0.0.0 latinboyz4play.com
 0.0.0.0 latinnathathem.com
@@ -13702,6 +13726,7 @@
 0.0.0.0 leading-fishing.pro
 0.0.0.0 leadinghunch.com
 0.0.0.0 leadmediapartners.com
+0.0.0.0 leadseek.biz
 0.0.0.0 leadzutw.com
 0.0.0.0 leafingcoitus.website
 0.0.0.0 leagent.info
@@ -14006,6 +14031,7 @@
 0.0.0.0 livelihoodskills.com
 0.0.0.0 liveredwilton.com
 0.0.0.0 liversely.net
+0.0.0.0 livesharepersonals.com
 0.0.0.0 livetalisay.com
 0.0.0.0 livetellsspatter.com
 0.0.0.0 liveunderestimate.com
@@ -14177,6 +14203,7 @@
 0.0.0.0 losingoldfry.com
 0.0.0.0 lotinerhelengood.com
 0.0.0.0 lotionmodule.com
+0.0.0.0 lotocase.xyz
 0.0.0.0 lotosmarkkaa.com
 0.0.0.0 lotreal.com
 0.0.0.0 lotsnippier.cam
@@ -15545,6 +15572,8 @@
 0.0.0.0 myclickbankads.com
 0.0.0.0 myclickpush.com
 0.0.0.0 myconnections.online
+0.0.0.0 mycoolfeed.com
+0.0.0.0 mycoolnewz.com
 0.0.0.0 mycrappyneighbor.com
 0.0.0.0 mydailynewz.com
 0.0.0.0 mydating-partner2.com
@@ -18827,6 +18856,7 @@
 0.0.0.0 pupiec.com
 0.0.0.0 pupsotdub.com
 0.0.0.0 puqrubvugmr.com
+0.0.0.0 purazucar.org
 0.0.0.0 purchasefastidiouswindfall.com
 0.0.0.0 purchaserteddy.com
 0.0.0.0 purchasertormentscoundrel.com
@@ -23467,6 +23497,7 @@
 0.0.0.0 toptipz.xyz
 0.0.0.0 toptruyenmau.com
 0.0.0.0 toptvprovider.com
+0.0.0.0 topviralnewz.com
 0.0.0.0 topvisitnow.com
 0.0.0.0 topwwnews.com
 0.0.0.0 torchesfervid.com
