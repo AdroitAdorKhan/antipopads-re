@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.013
 # Release: 013
-# Entries: 29,419
-# Updated: Fri, 13 Jan 23 00:14:05 +06
+# Entries: 29,433
+# Updated: Fri, 13 Jan 23 02:07:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4529,6 +4529,7 @@
 0.0.0.0 boredomsidion.com
 0.0.0.0 borgach.com
 0.0.0.0 boriskink.com
+0.0.0.0 bornegypsy.com
 0.0.0.0 borofez.com
 0.0.0.0 bororango.com
 0.0.0.0 borotango.com
@@ -8559,6 +8560,7 @@
 0.0.0.0 ericanteeho.com
 0.0.0.0 ericantpas.com
 0.0.0.0 ericaunct.com
+0.0.0.0 ericedge.co.uk
 0.0.0.0 erimal.com
 0.0.0.0 erm5aranwt7hucs.com
 0.0.0.0 ermitteedi.biz
@@ -12314,6 +12316,7 @@
 0.0.0.0 interesteddeterminedeurope.com
 0.0.0.0 interestingclear.com
 0.0.0.0 interfacewarrefrain.com
+0.0.0.0 interiordesignleicestershire.co.uk
 0.0.0.0 interiorprof.ru
 0.0.0.0 interlibre.net
 0.0.0.0 intermediarymarkswe.com
@@ -14101,6 +14104,7 @@
 0.0.0.0 liongetme.com
 0.0.0.0 lionlogistics.com
 0.0.0.0 lionpunks.org
+0.0.0.0 lionsbloodcenter.org
 0.0.0.0 lipsgig.com
 0.0.0.0 lipuriareswell.website
 0.0.0.0 liqufanli.com
@@ -15210,6 +15214,7 @@
 0.0.0.0 mirithobu.com
 0.0.0.0 mirrorsguide.biz
 0.0.0.0 misbornsubitem.space
+0.0.0.0 misear.com
 0.0.0.0 misguidedstork.com
 0.0.0.0 mismakequoters.space
 0.0.0.0 misplacebrokerscared.com
@@ -15752,6 +15757,7 @@
 0.0.0.0 mystictamil.com
 0.0.0.0 mystighty.info
 0.0.0.0 mysweetteam.com
+0.0.0.0 mytataplay.biz
 0.0.0.0 mytataplay.info
 0.0.0.0 mythincredibly.com
 0.0.0.0 mythings.com
@@ -16473,6 +16479,7 @@
 0.0.0.0 nufuglou.net
 0.0.0.0 nuggetschou.com
 0.0.0.0 nui.media
+0.0.0.0 nula.digital
 0.0.0.0 nulats.com
 0.0.0.0 nuleedsa.net
 0.0.0.0 nulez.xyz
@@ -18748,6 +18755,7 @@
 0.0.0.0 propertyees.com
 0.0.0.0 propertyofnews.com
 0.0.0.0 propertyservices.info
+0.0.0.0 propertysurveysnorwich.uk
 0.0.0.0 propgoservice.com
 0.0.0.0 prophecyrehabilitationcardboard.com
 0.0.0.0 prophetachybrief.com
@@ -19906,6 +19914,7 @@
 0.0.0.0 residencen.xyz
 0.0.0.0 residenceseeingstanding.com
 0.0.0.0 residentialsize.com
+0.0.0.0 residentsinbox.uk
 0.0.0.0 resiliencetrumpsaces.org
 0.0.0.0 resistancefrustrating.com
 0.0.0.0 resistcorrectly.com
@@ -21627,6 +21636,7 @@
 0.0.0.0 smartsecuretataplay.org
 0.0.0.0 smarttopchain.nl
 0.0.0.0 smartworldonedxpcenter.com
+0.0.0.0 smartyr.uk
 0.0.0.0 smashnewtab.com
 0.0.0.0 smashseek.com
 0.0.0.0 smct-history.com
@@ -23020,6 +23030,7 @@
 0.0.0.0 tgracefulc.one
 0.0.0.0 th.beeweedisomer.com
 0.0.0.0 th1202.com
+0.0.0.0 thabethemarketing.co.za
 0.0.0.0 thaged.com
 0.0.0.0 thagic.com
 0.0.0.0 thague.com
@@ -26093,6 +26104,7 @@
 0.0.0.0 wererxrzmp.com
 0.0.0.0 werese.com
 0.0.0.0 werial.com
+0.0.0.0 wesanahealth.uk
 0.0.0.0 wesicuros.com
 0.0.0.0 wesingram.com
 0.0.0.0 weslaan.com
@@ -28224,6 +28236,7 @@
 0.0.0.0 www.testingmetriksbre.ru
 0.0.0.0 www.tffd7k.click
 0.0.0.0 www.th1202.com
+0.0.0.0 www.thabethemarketing.co.za
 0.0.0.0 www.theadvantedge.site
 0.0.0.0 www.thebitcoinfuture.org
 0.0.0.0 www.thecannabisreporter.com
@@ -28551,6 +28564,7 @@
 0.0.0.0 xiaomi-maroc.shop
 0.0.0.0 xiaomi-maroc.site
 0.0.0.0 xiaomi-store-maroc.org
+0.0.0.0 xiaomimaroc.shop
 0.0.0.0 xiaomistoremaroc.shop
 0.0.0.0 xiaomorom.com
 0.0.0.0 xidx.org
