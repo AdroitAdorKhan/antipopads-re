@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.012
 # Release: 012
-# Entries: 29,096
-# Updated: Thu, 12 Jan 23 10:11:36 +06
+# Entries: 29,108
+# Updated: Thu, 12 Jan 23 12:09:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2653,6 +2653,7 @@
 0.0.0.0 apollo-comptech.in
 0.0.0.0 apollocradle.care
 0.0.0.0 apollomedicalcentre.health
+0.0.0.0 apollosugar.care
 0.0.0.0 apollosugar.health
 0.0.0.0 apologiesbackyardbayonet.com
 0.0.0.0 apologiesneedleworkrising.com
@@ -4126,6 +4127,7 @@
 0.0.0.0 biggersplinterrattle.com
 0.0.0.0 biggestgainsurvey.top
 0.0.0.0 bigheartedresentfulailment.com
+0.0.0.0 biglifegoalschool.com
 0.0.0.0 bigmuzzytrckr.com
 0.0.0.0 bigneptunesept.com
 0.0.0.0 bigog.xyz
@@ -8042,6 +8044,7 @@
 0.0.0.0 edcritessuspi.com
 0.0.0.0 eddiclucilia.com
 0.0.0.0 eddiesbloglist.rocks
+0.0.0.0 edenrama.co.uk
 0.0.0.0 edenscommunityenrichment.net
 0.0.0.0 edentour.am
 0.0.0.0 ederrassi.com
@@ -8229,6 +8232,7 @@
 0.0.0.0 electosake.com
 0.0.0.0 electricalbicyclelistnonfiction.com
 0.0.0.0 electricitylaxative.com
+0.0.0.0 electrocardiologylab.ru
 0.0.0.0 electromotors.info
 0.0.0.0 electromusic.top
 0.0.0.0 electronicc.it
@@ -8548,6 +8552,7 @@
 0.0.0.0 esportmom.org
 0.0.0.0 esportsbulgaria.eu
 0.0.0.0 esportsgambit.com
+0.0.0.0 esportsrama.co.uk
 0.0.0.0 espotl.com
 0.0.0.0 essayshelpers.com
 0.0.0.0 essentiallyitemoutrageous.com
@@ -10508,6 +10513,7 @@
 0.0.0.0 gororn.com
 0.0.0.0 gorplitka.ru
 0.0.0.0 gorskprof2it8og09.com
+0.0.0.0 gosamarkand.org
 0.0.0.0 goshcries.com
 0.0.0.0 gospelmusicinstruction.com
 0.0.0.0 gossipcase.com
@@ -13918,6 +13924,7 @@
 0.0.0.0 ligatus.com
 0.0.0.0 ligeia-gip.com
 0.0.0.0 ligero.uk
+0.0.0.0 lighter.business
 0.0.0.0 lighterobliterate.com
 0.0.0.0 lightlygavetusk.com
 0.0.0.0 lightlyrelinquish.com
@@ -16445,6 +16452,7 @@
 0.0.0.0 oa.tolterfranz.com
 0.0.0.0 oaboudsi.com
 0.0.0.0 oacaighy.com
+0.0.0.0 oacertified.org
 0.0.0.0 oachaigin.com
 0.0.0.0 oackoubs.com
 0.0.0.0 oadaheba.net
@@ -17340,6 +17348,7 @@
 0.0.0.0 padp5arja8dgsd9cha.com
 0.0.0.0 padpitnon.site
 0.0.0.0 padpullpact.com
+0.0.0.0 padreisland.app
 0.0.0.0 padsabs.com
 0.0.0.0 padsans.com
 0.0.0.0 padsanz.com
@@ -19718,6 +19727,7 @@
 0.0.0.0 reproofdiningiris.com
 0.0.0.0 repruggob.com
 0.0.0.0 repsrowedpay.com
+0.0.0.0 republicanparty.scot
 0.0.0.0 repuge.com
 0.0.0.0 reputedaytrade.com
 0.0.0.0 requentlyfths.club
@@ -19837,6 +19847,7 @@
 0.0.0.0 reversionhubbypole.com
 0.0.0.0 reverysteno.com
 0.0.0.0 revfusion.net
+0.0.0.0 revherlution.org
 0.0.0.0 reviewedreads.com
 0.0.0.0 revigorspiered.com
 0.0.0.0 revilerseptum.com
@@ -26638,6 +26649,7 @@
 0.0.0.0 www.bidderads.com
 0.0.0.0 www.biggerluck.com
 0.0.0.0 www.bigheartedresentfulailment.com
+0.0.0.0 www.biglifegoalschool.com
 0.0.0.0 www.bigotpenniless.com
 0.0.0.0 www.billdoratycustomerforlife.com
 0.0.0.0 www.billydropfarther.com
