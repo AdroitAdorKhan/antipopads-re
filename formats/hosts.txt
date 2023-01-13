@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.013
 # Release: 013
-# Entries: 29,695
-# Updated: Fri, 13 Jan 23 16:17:05 +06
+# Entries: 29,743
+# Updated: Fri, 13 Jan 23 18:07:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4319,6 +4319,7 @@
 0.0.0.0 blastsbigener.com
 0.0.0.0 blastsullen.com
 0.0.0.0 blatwalm.com
+0.0.0.0 blazeapostas.uk
 0.0.0.0 blazeobservancebough.com
 0.0.0.0 blazeservers.fun
 0.0.0.0 blazingswatstated.com
@@ -4383,6 +4384,7 @@
 0.0.0.0 blowtaffety.space
 0.0.0.0 blu5fdclr.com
 0.0.0.0 blubbertables.com
+0.0.0.0 blucursor.uk
 0.0.0.0 bludwan.com
 0.0.0.0 blueadvertise.com
 0.0.0.0 blueamericannews.org
@@ -5765,6 +5767,7 @@
 0.0.0.0 clairiose.pro
 0.0.0.0 clankallegation.com
 0.0.0.0 clanklastingfur.com
+0.0.0.0 clapdistributionexample.com
 0.0.0.0 claquefumeuse.com
 0.0.0.0 clarifysuper.com
 0.0.0.0 clarityhealingfarm.info
@@ -9039,6 +9042,13 @@
 0.0.0.0 faminedealergirl.com
 0.0.0.0 famousletterss.online
 0.0.0.0 fampixels.com
+0.0.0.0 fan-sport-ua.com
+0.0.0.0 fan-sport-ua.online
+0.0.0.0 fan-sport-ua.pro
+0.0.0.0 fan-sport-ua.site
+0.0.0.0 fan-sport-ua.space
+0.0.0.0 fan-sport-ua.tech
+0.0.0.0 fan-sport-ua.website
 0.0.0.0 fancydoctrinepermanently.com
 0.0.0.0 fandelcot.com
 0.0.0.0 fandmo.com
@@ -9088,6 +9098,7 @@
 0.0.0.0 fastestdwelling.com
 0.0.0.0 fastestvolcano.com
 0.0.0.0 fastfinancebnk.com
+0.0.0.0 fastidiousconsensus.com
 0.0.0.0 fastip.asia
 0.0.0.0 fastmtn.xml.ak-is2.net
 0.0.0.0 fastpopunder.com
@@ -9723,6 +9734,7 @@
 0.0.0.0 fracs.xyz
 0.0.0.0 fragba.com
 0.0.0.0 fragilebiggerbetty.com
+0.0.0.0 fragmenteasygoingmass.com
 0.0.0.0 framentyder.pro
 0.0.0.0 frameworkdeserve.com
 0.0.0.0 francetobaccotrading.com
@@ -9817,6 +9829,7 @@
 0.0.0.0 frtyd.com
 0.0.0.0 frtye.com
 0.0.0.0 frucmensitophardia.tk
+0.0.0.0 frugalityabruptly.com
 0.0.0.0 frugalrushcap.com
 0.0.0.0 fruins.com
 0.0.0.0 fruitionhotels.com
@@ -10750,6 +10763,7 @@
 0.0.0.0 grawhoonrdr.com
 0.0.0.0 grayrecruitbrainwash.com
 0.0.0.0 grazierboughed.space
+0.0.0.0 grcmgr.app
 0.0.0.0 great-loverhere.life
 0.0.0.0 greatagriculture.org
 0.0.0.0 greatappland.com
@@ -11539,8 +11553,10 @@
 0.0.0.0 homesecuretataplay.biz
 0.0.0.0 homesecuretataplay.live
 0.0.0.0 homesecuretatasky.net
+0.0.0.0 homesickgoodnight.com
 0.0.0.0 homesickheron.com
 0.0.0.0 homespotaudience.com
+0.0.0.0 homeworkgypsyencode.com
 0.0.0.0 homeworkmarket.me
 0.0.0.0 homilycosecs.live
 0.0.0.0 homoschucks.guru
@@ -12051,6 +12067,7 @@
 0.0.0.0 ilinouck.net
 0.0.0.0 illallwoe.com
 0.0.0.0 illegalprotected.com
+0.0.0.0 illegibledismiss.com
 0.0.0.0 illfated-feed.com
 0.0.0.0 illicitdandily.cam
 0.0.0.0 illief.com
@@ -12207,6 +12224,7 @@
 0.0.0.0 indoorflowers.net
 0.0.0.0 indooritalian.com
 0.0.0.0 indoorsbeliefgrew.com
+0.0.0.0 industrykeep.com
 0.0.0.0 inebartotandodw.lol
 0.0.0.0 inediblebedside.com
 0.0.0.0 inediblepollingbuzz.com
@@ -12275,6 +12293,7 @@
 0.0.0.0 injectlocum.com
 0.0.0.0 injunderpopording.com
 0.0.0.0 injuredcandy.com
+0.0.0.0 injuredripplegentleman.com
 0.0.0.0 injusticeamend.com
 0.0.0.0 inkedlondon.co.uk
 0.0.0.0 inkestyle.net
@@ -12924,6 +12943,7 @@
 0.0.0.0 joaglouwulin.com
 0.0.0.0 joakopalomar.com
 0.0.0.0 joapsiro.com
+0.0.0.0 joasigeegrez.com
 0.0.0.0 joastous.com
 0.0.0.0 jobfilletfortitude.com
 0.0.0.0 jobsyndicate.com
@@ -13231,6 +13251,7 @@
 0.0.0.0 kawunimy.com
 0.0.0.0 kayipormandagevleri.com.tr
 0.0.0.0 kazanwhoeveryowl.com
+0.0.0.0 kb-aesthetic.com
 0.0.0.0 kb.amphoreschmoes.com
 0.0.0.0 kbqebfcubeiaa.com
 0.0.0.0 kbugxeslbjc8.com
@@ -13753,6 +13774,7 @@
 0.0.0.0 lalwani.in.net
 0.0.0.0 lamberserer.club
 0.0.0.0 lambingsyddir.com
+0.0.0.0 lambretta.global
 0.0.0.0 lame7bsqu8barters.com
 0.0.0.0 lament.life
 0.0.0.0 lameterthenhep.com
@@ -17478,6 +17500,7 @@
 0.0.0.0 owndata.network
 0.0.0.0 ownerfacinglung.com
 0.0.0.0 ownerlitter.com
+0.0.0.0 ownersgcny.com
 0.0.0.0 ownlacingingelling.com
 0.0.0.0 ownsattrib.life
 0.0.0.0 owoxauky.com
@@ -17919,6 +17942,7 @@
 0.0.0.0 penjazzvice.com
 0.0.0.0 penkillingapathy.com
 0.0.0.0 pennilesscomingall.com
+0.0.0.0 pennpolicyinstitute.org
 0.0.0.0 pennyotcstock.com
 0.0.0.0 pensiveravine.com
 0.0.0.0 pentaclaud.com
@@ -21036,6 +21060,7 @@
 0.0.0.0 secur-fifththird.co
 0.0.0.0 secure-12.com
 0.0.0.0 secure-plus-tata-play.live
+0.0.0.0 secure-tata-play.org
 0.0.0.0 secureaddisplay.com
 0.0.0.0 secureclickers.com
 0.0.0.0 securecloud-dt.com
@@ -21639,6 +21664,7 @@
 0.0.0.0 sjomilbedwarf.digital
 0.0.0.0 sjtactic.com
 0.0.0.0 skanchat.uk
+0.0.0.0 skanpoints.uk
 0.0.0.0 skantv.uk
 0.0.0.0 skelity.com
 0.0.0.0 skenqaamefeoncfegrytbuvksebpefer.com
@@ -21721,6 +21747,7 @@
 0.0.0.0 slimybaptism.com
 0.0.0.0 slingstapeats.com
 0.0.0.0 slipdashedundermine.com
+0.0.0.0 slipheirphysician.com
 0.0.0.0 slipisogam.uno
 0.0.0.0 slipperspromisingyearn.com
 0.0.0.0 slipperswallpaper.com
@@ -22098,6 +22125,7 @@
 0.0.0.0 splashsjewels.com
 0.0.0.0 splendidroareyelash.com
 0.0.0.0 spleniafallows.com
+0.0.0.0 splintergrazescald.com
 0.0.0.0 splittingpick.com
 0.0.0.0 spoilerfree-reviews.com
 0.0.0.0 spokalicious.com
@@ -22481,6 +22509,7 @@
 0.0.0.0 struckganzie.life
 0.0.0.0 strungglancedrunning.com
 0.0.0.0 sts01.com
+0.0.0.0 stubtoken.org
 0.0.0.0 stuckencouragedscalpel.com
 0.0.0.0 studabsently.com
 0.0.0.0 studentcrevice.com
@@ -22675,6 +22704,7 @@
 0.0.0.0 survey4you.co
 0.0.0.0 surveyedbelieves.com
 0.0.0.0 surveyend.com
+0.0.0.0 surveyequipment.uk
 0.0.0.0 surveyspaid.com
 0.0.0.0 survrhostngs.xyz
 0.0.0.0 surwardlingkok.com
@@ -23055,6 +23085,7 @@
 0.0.0.0 tehous.com
 0.0.0.0 teindsrangier.com
 0.0.0.0 teisxvplmevlnx.com
+0.0.0.0 tejgyan.app
 0.0.0.0 tekit.world
 0.0.0.0 teknodetik.tech
 0.0.0.0 teknologia.co
@@ -25323,6 +25354,7 @@
 0.0.0.0 vacaneedasap.com
 0.0.0.0 vacationambulancekin.com
 0.0.0.0 vacaturevoorbeelden.be
+0.0.0.0 vaccinegrownparliamentary.com
 0.0.0.0 vacuomehautain.tech
 0.0.0.0 vacutltma.com
 0.0.0.0 vacwrite.com
@@ -26940,6 +26972,7 @@
 0.0.0.0 www.allaboutcat.org
 0.0.0.0 www.allanimemovies.com
 0.0.0.0 www.alleviatepracticableaddicted.com
+0.0.0.0 www.alloysoftballcrushing.com
 0.0.0.0 www.allypublicity.com
 0.0.0.0 www.alpinesafes.com
 0.0.0.0 www.alyriasoindepeau.com
@@ -27096,6 +27129,7 @@
 0.0.0.0 www.bladestressfuldeference.com
 0.0.0.0 www.blakelousepreoccupation.com
 0.0.0.0 www.blazeservers.fun
+0.0.0.0 www.blessingsome.com
 0.0.0.0 www.bllibli.com
 0.0.0.0 www.blockadsnot.com
 0.0.0.0 www.blogpress.id
@@ -27204,6 +27238,7 @@
 0.0.0.0 www.circles.health
 0.0.0.0 www.civilizationperspirationhoroscope.com
 0.0.0.0 www.cj.conversant.mgr.consensu.org
+0.0.0.0 www.clapdistributionexample.com
 0.0.0.0 www.clementreign.com
 0.0.0.0 www.clentrk.com
 0.0.0.0 www.clerkcowboy.com
@@ -27408,6 +27443,7 @@
 0.0.0.0 www.edc-rmweb.com
 0.0.0.0 www.edenscommunityenrichment.net
 0.0.0.0 www.edgelawyer.tech
+0.0.0.0 www.educationaldetachblob.com
 0.0.0.0 www.edupro.world
 0.0.0.0 www.effacedefend.com
 0.0.0.0 www.elabcdelosnegocioseneua.com
@@ -27471,10 +27507,12 @@
 0.0.0.0 www.familyliar.com
 0.0.0.0 www.familywealthms.com
 0.0.0.0 www.fampixels.com
+0.0.0.0 www.fantasyspent.com
 0.0.0.0 www.farmersexchangeonline.com
 0.0.0.0 www.fashioneggplant.com
 0.0.0.0 www.fastenapocalypse.com
 0.0.0.0 www.fastestdwelling.com
+0.0.0.0 www.fastidiousconsensus.com
 0.0.0.0 www.faterahk.com
 0.0.0.0 www.fathomcause.com
 0.0.0.0 www.fattyeccentric.com
@@ -27532,6 +27570,7 @@
 0.0.0.0 www.fourteendin.com
 0.0.0.0 www.fourwhenstatistics.com
 0.0.0.0 www.fowlmasquerade.com
+0.0.0.0 www.fragmenteasygoingmass.com
 0.0.0.0 www.fraudclatterflying.com
 0.0.0.0 www.freegemsbarwlstars.com
 0.0.0.0 www.freelivesex.online
@@ -27542,6 +27581,7 @@
 0.0.0.0 www.friskbiscuit.com
 0.0.0.0 www.frontinventory.com
 0.0.0.0 www.frostbannk.com
+0.0.0.0 www.frugalityabruptly.com
 0.0.0.0 www.ftjcfx.com
 0.0.0.0 www.fuelcompatibleblaspheme.com
 0.0.0.0 www.functionsprecision.com
@@ -27662,6 +27702,8 @@
 0.0.0.0 www.hkyoto.ch
 0.0.0.0 www.hobbylyricalbeams.com
 0.0.0.0 www.homerealtycalifornia.com
+0.0.0.0 www.homesickgoodnight.com
+0.0.0.0 www.homeworkgypsyencode.com
 0.0.0.0 www.honourrib.com
 0.0.0.0 www.hopperimprobableclotted.com
 0.0.0.0 www.hornbakergardens.com
@@ -27695,6 +27737,7 @@
 0.0.0.0 www.ignobleinnovationcollateral.com
 0.0.0.0 www.ignoringpromisingonce.com
 0.0.0.0 www.ikingsoft.com
+0.0.0.0 www.illegibledismiss.com
 0.0.0.0 www.ilqacare.com
 0.0.0.0 www.immenselyloot.com
 0.0.0.0 www.immigraterend.com
@@ -27710,6 +27753,7 @@
 0.0.0.0 www.increasingnavigableinsects.com
 0.0.0.0 www.indigestionpious.com
 0.0.0.0 www.indooritalian.com
+0.0.0.0 www.industrykeep.com
 0.0.0.0 www.inediblebedside.com
 0.0.0.0 www.ineffectivefacescoat.com
 0.0.0.0 www.inevitablyflop.com
@@ -27725,6 +27769,7 @@
 0.0.0.0 www.inheritinghanford.com
 0.0.0.0 www.initiatedeliveringyesterday.com
 0.0.0.0 www.initiativebasisparticularly.com
+0.0.0.0 www.injuredripplegentleman.com
 0.0.0.0 www.inopportunetorn.com
 0.0.0.0 www.inorlandohomes.com
 0.0.0.0 www.inquirybloom.com
@@ -27928,6 +27973,7 @@
 0.0.0.0 www.meatabdicatedelicatessen.com
 0.0.0.0 www.medicinebymom.com
 0.0.0.0 www.meditatecable.com
+0.0.0.0 www.meetexhibitcautiously.com
 0.0.0.0 www.meetingcivilfilling.com
 0.0.0.0 www.meetingmogulapp.com
 0.0.0.0 www.melisko.online
@@ -28374,6 +28420,7 @@
 0.0.0.0 www.slaughtergarageparttime.com
 0.0.0.0 www.slavewindows.com
 0.0.0.0 www.sleazyparliamentarybikini.com
+0.0.0.0 www.slipheirphysician.com
 0.0.0.0 www.sluicebigheartedpeevish.com
 0.0.0.0 www.sluiceliable.com
 0.0.0.0 www.smartel.uk
@@ -28405,6 +28452,7 @@
 0.0.0.0 www.spihand.com
 0.0.0.0 www.spinbiased.com
 0.0.0.0 www.spiritualdiscussing.com
+0.0.0.0 www.splintergrazescald.com
 0.0.0.0 www.spookastonishingheap.com
 0.0.0.0 www.spoonsriddle.com
 0.0.0.0 www.spybuildsoccasional.com
