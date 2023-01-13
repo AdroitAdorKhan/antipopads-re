@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.013
 # Release: 013
-# Entries: 29,609
-# Updated: Fri, 13 Jan 23 12:08:36 +06
+# Entries: 29,629
+# Updated: Fri, 13 Jan 23 14:16:40 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -105,6 +105,7 @@
 0.0.0.0 10desires.com
 0.0.0.0 10fbb07a4b0.se
 0.0.0.0 10kasbkda100.monster
+0.0.0.0 10ksbjdasd00.monster
 0.0.0.0 10kshbdhjf10.monster
 0.0.0.0 10ksjbdkfsdf10.monster
 0.0.0.0 10kwjbkjf100.monster
@@ -471,6 +472,7 @@
 0.0.0.0 39785fe3f1.com
 0.0.0.0 39irqwnzlv.com
 0.0.0.0 3ahgsdasd33.monster
+0.0.0.0 3ajhbjdad33.monster
 0.0.0.0 3ajhsvjdasd12.monster
 0.0.0.0 3bdb296887d8227400e0c69a793ee85d.com
 0.0.0.0 3cmmas.io
@@ -710,6 +712,7 @@
 0.0.0.0 6aabc74318.82a89f6527.com
 0.0.0.0 6absjda66.monster
 0.0.0.0 6af461b907c5b.com
+0.0.0.0 6ahbja66.monster
 0.0.0.0 6b5c418918ebb008cc6.com
 0.0.0.0 6bc4bde2a7.com
 0.0.0.0 6bgaput9ullc.com
@@ -754,6 +757,7 @@
 0.0.0.0 7285da5a0e.8739792a55.com
 0.0.0.0 729dcbaa57e80c1e.com
 0.0.0.0 73-j-pinnable.com
+0.0.0.0 735454.org
 0.0.0.0 735a0662e8.ff9ffc838f.com
 0.0.0.0 736db92639.0abdab4d27.com
 0.0.0.0 7370f02cc1.0c98edaa39.com
@@ -4272,6 +4276,7 @@
 0.0.0.0 blablahub.com
 0.0.0.0 blablatterbicycle.com
 0.0.0.0 black112.co.kr
+0.0.0.0 blackcine.org
 0.0.0.0 blackcurrantspent.com
 0.0.0.0 blackcurrantwereattempt.com
 0.0.0.0 blackenatom.com
@@ -4376,6 +4381,7 @@
 0.0.0.0 blubbertables.com
 0.0.0.0 bludwan.com
 0.0.0.0 blueadvertise.com
+0.0.0.0 blueamericannews.org
 0.0.0.0 bluebet24.com
 0.0.0.0 bluebladeconsulting.com
 0.0.0.0 bluecuphoch.com
@@ -5118,6 +5124,7 @@
 0.0.0.0 candjscrabshack.com
 0.0.0.0 candyapp.in
 0.0.0.0 candyheartsblog.com
+0.0.0.0 canineconversationsdevon.uk
 0.0.0.0 canjarltaox.com
 0.0.0.0 cannibis.church
 0.0.0.0 cannonjudo.com
@@ -5183,6 +5190,7 @@
 0.0.0.0 carpi3fnusbetgu5lus.com
 0.0.0.0 carredwithblao.xyz
 0.0.0.0 carrellsubdit.com
+0.0.0.0 carronheritageradiators.co.uk
 0.0.0.0 carrotraining.com
 0.0.0.0 carsandbarks.com
 0.0.0.0 carter.news
@@ -6921,6 +6929,7 @@
 0.0.0.0 daugloon.net
 0.0.0.0 daurifek.net
 0.0.0.0 davaifoa.com
+0.0.0.0 davenicholsonphotography.scot
 0.0.0.0 davidbuoys.ca
 0.0.0.0 davidepicchi.com
 0.0.0.0 davzwyavjm.com
@@ -8405,6 +8414,7 @@
 0.0.0.0 emptim.com
 0.0.0.0 emptyspaceads.com
 0.0.0.0 emrickins.com
+0.0.0.0 emrsyn.org
 0.0.0.0 emteeveetwo.com
 0.0.0.0 emukentha.xyz
 0.0.0.0 emulatecereal.com
@@ -11280,6 +11290,7 @@
 0.0.0.0 herconsequence.com
 0.0.0.0 herdethi.net
 0.0.0.0 herdicka.net
+0.0.0.0 hereafterhouse.net
 0.0.0.0 herebybondagesidenote.com
 0.0.0.0 hereditarylenientparents.com
 0.0.0.0 herefwukou.com
@@ -11502,6 +11513,7 @@
 0.0.0.0 holptimawa.com
 0.0.0.0 holydelicatessen.com
 0.0.0.0 holyph.com
+0.0.0.0 home-secure-tata-play.live
 0.0.0.0 home-token.com
 0.0.0.0 homerealtycalifornia.com
 0.0.0.0 homerewardstoday.com
@@ -12164,6 +12176,7 @@
 0.0.0.0 indexesinsist.com
 0.0.0.0 indfor.com
 0.0.0.0 india-luxury-trains.org
+0.0.0.0 indiamarketplace.org
 0.0.0.0 indianaantiqueartheirloomfurniturerestorationguild.com
 0.0.0.0 indicatordevotedriver.com
 0.0.0.0 indictmentspan.com
@@ -18817,6 +18830,7 @@
 0.0.0.0 properbunch.pro
 0.0.0.0 propersuitcase.com
 0.0.0.0 property-maintenance-manchester.co.uk
+0.0.0.0 property-maintenance-manchester.uk
 0.0.0.0 propertyees.com
 0.0.0.0 propertyofnews.com
 0.0.0.0 propertyservices.info
@@ -20376,6 +20390,7 @@
 0.0.0.0 roomys.app
 0.0.0.0 roosteem.net
 0.0.0.0 root4you.world
+0.0.0.0 rootstourism.eu
 0.0.0.0 ropeanres.com
 0.0.0.0 ropemoon.com
 0.0.0.0 roredi.com
@@ -22883,6 +22898,7 @@
 0.0.0.0 tata-playhomesecure.live
 0.0.0.0 tataplay.info
 0.0.0.0 tataplaybeauty.org
+0.0.0.0 tataplayhelpline.org
 0.0.0.0 tataplayindia.org
 0.0.0.0 tataplaypay.org
 0.0.0.0 tataplaysecure.info
@@ -23174,6 +23190,7 @@
 0.0.0.0 thebobbinsnest.com
 0.0.0.0 thebromudragroup.com
 0.0.0.0 thecannabisreporter.com
+0.0.0.0 thecc.rocks
 0.0.0.0 thechleads.pro
 0.0.0.0 thechuskii.com
 0.0.0.0 theclouddiosleepcompany.org
@@ -24145,6 +24162,7 @@
 0.0.0.0 travionix.com
 0.0.0.0 travisnode.tech
 0.0.0.0 travistripuckarealestate.com
+0.0.0.0 travl.social
 0.0.0.0 travotrend.com
 0.0.0.0 travoxivrsolutions.com
 0.0.0.0 trawahdh2hd8nbvy09.com
@@ -24670,6 +24688,7 @@
 0.0.0.0 uavsgklwxsx.xyz
 0.0.0.0 ub.tribalstrived.com
 0.0.0.0 ub.zekedisco.com
+0.0.0.0 ub2023.org
 0.0.0.0 ubbfpm.com
 0.0.0.0 ubjectsandie.biz
 0.0.0.0 ubm4dmasuk.com
@@ -25556,6 +25575,7 @@
 0.0.0.0 videovideee881.com
 0.0.0.0 videovideee991.com
 0.0.0.0 vidox.net
+0.0.0.0 vidrohimaratha.in
 0.0.0.0 vidverto.io
 0.0.0.0 vidyavid.com
 0.0.0.0 vietlachkiemtien.com
