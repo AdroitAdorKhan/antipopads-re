@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.014
 # Release: 014
-# Entries: 30,004
-# Updated: Sat, 14 Jan 23 12:08:33 +06
+# Entries: 30,031
+# Updated: Sat, 14 Jan 23 14:08:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3325,6 +3325,7 @@
 0.0.0.0 avalanchemight.com
 0.0.0.0 avalancheofnews.com
 0.0.0.0 avalanchers.com
+0.0.0.0 avantscale.org
 0.0.0.0 avatartransaction.com
 0.0.0.0 avatroom.com
 0.0.0.0 avauck.com
@@ -3619,6 +3620,7 @@
 0.0.0.0 balvalur.com
 0.0.0.0 bam-bam-slam.com
 0.0.0.0 bamagamalama.com
+0.0.0.0 bambamstudios.uk
 0.0.0.0 bambarmedia.com
 0.0.0.0 bambluagamgona.com
 0.0.0.0 bamcoltd.in
@@ -4136,6 +4138,7 @@
 0.0.0.0 bh.puppeddemigod.com
 0.0.0.0 bh3.net
 0.0.0.0 bhagyodayengineering.com
+0.0.0.0 bharatnutyum.com
 0.0.0.0 bharatstartupawards.com
 0.0.0.0 bhbtmipjiqn.com
 0.0.0.0 bhcumsc.com
@@ -6115,6 +6118,7 @@
 0.0.0.0 colintoxicate.com
 0.0.0.0 collaborateinstructorgrow.com
 0.0.0.0 collabplumify.com
+0.0.0.0 collapsology-network.org
 0.0.0.0 collationstrend.com
 0.0.0.0 colldy.net
 0.0.0.0 collect-opolis.co.uk
@@ -7176,6 +7180,7 @@
 0.0.0.0 delusionalrevolt.com
 0.0.0.0 demand.supply
 0.0.0.0 demandbrigde.com
+0.0.0.0 demandedhalfmoon.com
 0.0.0.0 demeepsi.xyz
 0.0.0.0 demersekeld.com
 0.0.0.0 democracyendlesslyzoo.com
@@ -7820,6 +7825,7 @@
 0.0.0.0 dramasoloist.com
 0.0.0.0 dramechecker.tech
 0.0.0.0 dramwh.com
+0.0.0.0 drankitjain.co.uk
 0.0.0.0 draokrojba.com
 0.0.0.0 drapefabric.com
 0.0.0.0 drasticdrama.com
@@ -8133,6 +8139,7 @@
 0.0.0.0 easygoingtouchybribe.com
 0.0.0.0 easykits.org
 0.0.0.0 easylist-to.xyz
+0.0.0.0 easyridermovie.net
 0.0.0.0 eatinerhitles.xyz
 0.0.0.0 eatmenttog.xyz
 0.0.0.0 eaton-grp.com
@@ -8880,6 +8887,7 @@
 0.0.0.0 ewruuqe5p8ca.com
 0.0.0.0 exaltationinsufficientintentional.com
 0.0.0.0 examateurporn.com
+0.0.0.0 examswrath.com
 0.0.0.0 exarchykhu.store
 0.0.0.0 exceedinglydiscovered.com
 0.0.0.0 excellenceads.com
@@ -9214,6 +9222,7 @@
 0.0.0.0 fdrgtt9edmej010.com
 0.0.0.0 fdyirusevt.com
 0.0.0.0 fe.junglyaspiree.com
+0.0.0.0 fe028f0519.com
 0.0.0.0 fe7fd7fb7b.cc4a8a3861.com
 0.0.0.0 fe7qygqi2p2h.com
 0.0.0.0 fe95a992e6afb.com
@@ -9840,6 +9849,7 @@
 0.0.0.0 freestanding.biz
 0.0.0.0 freestar.io
 0.0.0.0 freezeanything.com
+0.0.0.0 freezelacking.com
 0.0.0.0 fregtrsatnt.com
 0.0.0.0 freighthealaudience.com
 0.0.0.0 frenchequal.pro
@@ -11181,6 +11191,7 @@
 0.0.0.0 hansinaugurate.com
 0.0.0.0 hanstransportation.org
 0.0.0.0 haofamily.net
+0.0.0.0 haphazardbleeding.com
 0.0.0.0 haphazardfraudulent.com
 0.0.0.0 haphazardhum.com
 0.0.0.0 happilydestructive.com
@@ -13738,6 +13749,7 @@
 0.0.0.0 kuntic.com
 0.0.0.0 kupharlutetia.com
 0.0.0.0 kuqdtug.com
+0.0.0.0 kurkureacher.life
 0.0.0.0 kurlipush.com
 0.0.0.0 kuroid.com
 0.0.0.0 kursatarak.com
@@ -18971,6 +18983,7 @@
 0.0.0.0 profoundrollcompatibility.com
 0.0.0.0 profsitu.com
 0.0.0.0 programminghonourable.com
+0.0.0.0 programmingpastimepeep.com
 0.0.0.0 programwrest.com
 0.0.0.0 progressproceeding.com
 0.0.0.0 projectagora.net
@@ -20914,6 +20927,7 @@
 0.0.0.0 sagargupta.tech
 0.0.0.0 sageanalyst.net
 0.0.0.0 sagedeportflorist.com
+0.0.0.0 sagesicl.org
 0.0.0.0 saggrowledetc.com
 0.0.0.0 sagonoll.com
 0.0.0.0 sagroagh.com
@@ -22679,6 +22693,7 @@
 0.0.0.0 studentstunnel.com
 0.0.0.0 studiocustomers.com
 0.0.0.0 studiodogimo.com
+0.0.0.0 studioferroarchitettura.it
 0.0.0.0 studiouspedal.com
 0.0.0.0 stuffedprofessional.com
 0.0.0.0 stuffedstudy.com
@@ -27271,6 +27286,7 @@
 0.0.0.0 www.barrowwailing.com
 0.0.0.0 www.bartleetgroup.net
 0.0.0.0 www.baseleagueagree.com
+0.0.0.0 www.bashnourish.com
 0.0.0.0 www.baskcreations.shop
 0.0.0.0 www.basketlakecamp.com
 0.0.0.0 www.batchcousin.com
@@ -27565,6 +27581,7 @@
 0.0.0.0 www.defenderprovidedleash.com
 0.0.0.0 www.delayeddisembroildisembroil.com
 0.0.0.0 www.deludemanageinvite.com
+0.0.0.0 www.demandedhalfmoon.com
 0.0.0.0 www.democratspreadingbeing.com
 0.0.0.0 www.demolitionpourorganizer.com
 0.0.0.0 www.demonstrata.org
@@ -27698,6 +27715,7 @@
 0.0.0.0 www.eventifratellimantello.com
 0.0.0.0 www.everettwaterfrontapartments.com
 0.0.0.0 www.everywhereyelp.com
+0.0.0.0 www.examswrath.com
 0.0.0.0 www.exclamationresound.com
 0.0.0.0 www.excruciationfracturestrategy.com
 0.0.0.0 www.exileinstinct.com
@@ -27789,6 +27807,7 @@
 0.0.0.0 www.freelivesex.online
 0.0.0.0 www.freestanding.biz
 0.0.0.0 www.freezeanything.com
+0.0.0.0 www.freezelacking.com
 0.0.0.0 www.fregtrsatnt.com
 0.0.0.0 www.freighthealaudience.com
 0.0.0.0 www.friskbiscuit.com
@@ -27887,6 +27906,7 @@
 0.0.0.0 www.handlingblare.com
 0.0.0.0 www.hansinaugurate.com
 0.0.0.0 www.haofamily.net
+0.0.0.0 www.haphazardbleeding.com
 0.0.0.0 www.happywombat.net
 0.0.0.0 www.harborpte.com
 0.0.0.0 www.harlanbullock.com
@@ -28036,6 +28056,7 @@
 0.0.0.0 www.javatroll.biz
 0.0.0.0 www.jdoqocy.com
 0.0.0.0 www.jeandesigns.net
+0.0.0.0 www.jeerinfluencemedical.com
 0.0.0.0 www.jeetbuzz.one
 0.0.0.0 www.jefashivy.com
 0.0.0.0 www.jennijonesmusic.com
@@ -28277,6 +28298,7 @@
 0.0.0.0 www.negotiationmajestic.com
 0.0.0.0 www.neixue.org
 0.0.0.0 www.nerdtutors.com
+0.0.0.0 www.neutralityrecommendstretched.com
 0.0.0.0 www.neutralsaxophoneaspect.com
 0.0.0.0 www.neutraltoxicpreposition.com
 0.0.0.0 www.neutramix.com
@@ -28376,6 +28398,7 @@
 0.0.0.0 www.phoenixcontractorsolutions.com
 0.0.0.0 www.phonegametips.com
 0.0.0.0 www.photographediblefiend.com
+0.0.0.0 www.pickupfaxmultitude.com
 0.0.0.0 www.pictureoutwardaltitude.com
 0.0.0.0 www.pieldeminotauro.com
 0.0.0.0 www.pierremarkeraffliction.com
@@ -28442,8 +28465,11 @@
 0.0.0.0 www.primroselegitimate.com
 0.0.0.0 www.problemhaltrivulet.com
 0.0.0.0 www.procare-connect.com
+0.0.0.0 www.proclaimincurable.com
 0.0.0.0 www.professionalpractice.org
 0.0.0.0 www.profoundrollcompatibility.com
+0.0.0.0 www.programmingpastimepeep.com
+0.0.0.0 www.programwrest.com
 0.0.0.0 www.projetoalpha.site
 0.0.0.0 www.projetodelta.site
 0.0.0.0 www.projetozeta.site
@@ -28497,6 +28523,7 @@
 0.0.0.0 www.rankersllc.com
 0.0.0.0 www.rantsundaydish.com
 0.0.0.0 www.rapidhooray.com
+0.0.0.0 www.rareinsane.com
 0.0.0.0 www.rarrepairtool.com
 0.0.0.0 www.rashiphotostudio.com
 0.0.0.0 www.ravivaru.com
