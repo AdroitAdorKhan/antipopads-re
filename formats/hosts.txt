@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.014
 # Release: 014
-# Entries: 29,977
-# Updated: Sat, 14 Jan 23 10:08:38 +06
+# Entries: 30,004
+# Updated: Sat, 14 Jan 23 12:08:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2342,6 +2342,7 @@
 0.0.0.0 alsthonronghe.xyz
 0.0.0.0 alstrome9riya10.com
 0.0.0.0 alt415.com
+0.0.0.0 altamerica.org
 0.0.0.0 alterationappealprison.com
 0.0.0.0 alternads.info
 0.0.0.0 alternativeafrika.com
@@ -3630,11 +3631,13 @@
 0.0.0.0 bande1az.com
 0.0.0.0 bande2az.com
 0.0.0.0 bandeapart.ru
+0.0.0.0 bandeapartparis.co.uk
 0.0.0.0 bandelcot.com
 0.0.0.0 bandera.bar
 0.0.0.0 banderazzz33.com
 0.0.0.0 banderazzz53.com
 0.0.0.0 banderazzz73.com
+0.0.0.0 bandhuprovision.in
 0.0.0.0 bandittrackernortheast.com
 0.0.0.0 bandjengineering.com
 0.0.0.0 bandovincas.com
@@ -3659,6 +3662,7 @@
 0.0.0.0 bankingconcede.com
 0.0.0.0 bankingfiginland.com
 0.0.0.0 bankneyminist.xyz
+0.0.0.0 bankofelmwood.com
 0.0.0.0 bankr.com
 0.0.0.0 banneradsday.com
 0.0.0.0 bannkongrao.com
@@ -5254,6 +5258,7 @@
 0.0.0.0 casserolehunchcontract.com
 0.0.0.0 cassetteflask.com
 0.0.0.0 cassettelancefriday.com
+0.0.0.0 cassinoonline.co.uk
 0.0.0.0 castcloudywhereby.com
 0.0.0.0 castenet.digital
 0.0.0.0 casterpretic.com
@@ -7348,6 +7353,7 @@
 0.0.0.0 dibjaahejdaeejhhaacd.ru
 0.0.0.0 dibkgys.xyz
 0.0.0.0 dibsemey.com
+0.0.0.0 dicksonconnections.com
 0.0.0.0 diclotrans.com
 0.0.0.0 dicrol.com
 0.0.0.0 dictatepantry.com
@@ -10248,6 +10254,7 @@
 0.0.0.0 gestionpacientespostcovid.co
 0.0.0.0 get-betabeta.com
 0.0.0.0 get-datinghere.life
+0.0.0.0 get-discounts.ru
 0.0.0.0 get-it-now.pro
 0.0.0.0 get-me-wow.in
 0.0.0.0 get-my-prize-n1w.live
@@ -10729,6 +10736,7 @@
 0.0.0.0 gorskprof2it8og09.com
 0.0.0.0 gosamarkand.org
 0.0.0.0 goshcries.com
+0.0.0.0 goshores.org
 0.0.0.0 gospelmusicinstruction.com
 0.0.0.0 gossipcase.com
 0.0.0.0 got-to-be.com
@@ -12801,6 +12809,7 @@
 0.0.0.0 jailabridge.com
 0.0.0.0 jailershowmen.com
 0.0.0.0 jainaritzily.com
+0.0.0.0 jainlearning.org
 0.0.0.0 jaizouji.com
 0.0.0.0 jakhgeteum.top
 0.0.0.0 jaleepsorous.website
@@ -15632,6 +15641,7 @@
 0.0.0.0 monsterofnews.com
 0.0.0.0 monsterteam.info
 0.0.0.0 montano-design.com
+0.0.0.0 montessoriyans.org
 0.0.0.0 monthlydespise.com
 0.0.0.0 monthlyindirectelsewhere.com
 0.0.0.0 monthlyplanner.info
@@ -17302,6 +17312,7 @@
 0.0.0.0 op00.biz
 0.0.0.0 op01.biz
 0.0.0.0 op02.biz
+0.0.0.0 opalkelly.net
 0.0.0.0 opcharizardon.com
 0.0.0.0 opchikoritaan.com
 0.0.0.0 opchikoritar.com
@@ -19867,6 +19878,7 @@
 0.0.0.0 reachesowing.live
 0.0.0.0 reachmode.com
 0.0.0.0 reachsubmission.com
+0.0.0.0 reactive-therapy.co.uk
 0.0.0.0 readbygrade3.com
 0.0.0.0 readiong.net
 0.0.0.0 readly-renterval.icu
@@ -22642,6 +22654,7 @@
 0.0.0.0 stretchingcognitioncommission.com
 0.0.0.0 stretchingfervid.com
 0.0.0.0 strewjaunty.com
+0.0.0.0 strickenenergetic.com
 0.0.0.0 strigh.com
 0.0.0.0 strike.coop
 0.0.0.0 strivefoetus.com
@@ -23115,6 +23128,7 @@
 0.0.0.0 tataplayhelpline.org
 0.0.0.0 tataplayindia.org
 0.0.0.0 tataplaypay.org
+0.0.0.0 tataplaypvr.org
 0.0.0.0 tataplaysecure.info
 0.0.0.0 tataplaywizkids.org
 0.0.0.0 tataplaywizteens.org
@@ -23205,6 +23219,7 @@
 0.0.0.0 technoratimedia.com
 0.0.0.0 technoshadows.com
 0.0.0.0 technotology.com
+0.0.0.0 techorilla.org
 0.0.0.0 techosophy.com
 0.0.0.0 techuni.tech
 0.0.0.0 tecmactrade.org
@@ -25565,6 +25580,7 @@
 0.0.0.0 vaojxivjyayk.xyz
 0.0.0.0 vapedia.com
 0.0.0.0 vapfuwlkuzz.com
+0.0.0.0 varadha.org
 0.0.0.0 vardasvideo.com
 0.0.0.0 vardesvideo.com
 0.0.0.0 vardosvideo.com
@@ -25996,6 +26012,7 @@
 0.0.0.0 voastauz.net
 0.0.0.0 vodkas.vodka
 0.0.0.0 vodobyve.pro
+0.0.0.0 vodusoft.com
 0.0.0.0 voeunblk.com
 0.0.0.0 vogmlpzlnrj.com
 0.0.0.0 vogo-vogo.ru
@@ -27147,6 +27164,7 @@
 0.0.0.0 www.alloysoftballcrushing.com
 0.0.0.0 www.allypublicity.com
 0.0.0.0 www.alpinesafes.com
+0.0.0.0 www.altamerica.org
 0.0.0.0 www.alyriasoindepeau.com
 0.0.0.0 www.amath.world
 0.0.0.0 www.amcclinics.com
@@ -27289,6 +27307,7 @@
 0.0.0.0 www.bettin2you.com
 0.0.0.0 www.bettingpremier.com
 0.0.0.0 www.bhntnfj.com
+0.0.0.0 www.bicyclelistworst.com
 0.0.0.0 www.bidderads.com
 0.0.0.0 www.biggerluck.com
 0.0.0.0 www.bigheartedresentfulailment.com
@@ -27983,6 +28002,7 @@
 0.0.0.0 www.installwasd.com
 0.0.0.0 www.instancetonsil.com
 0.0.0.0 www.instructorstudied.com
+0.0.0.0 www.intactscattered.com
 0.0.0.0 www.integertenantcontinue.com
 0.0.0.0 www.integritydeceptive.com
 0.0.0.0 www.interlibre.net
@@ -28298,6 +28318,7 @@
 0.0.0.0 www.onwardfertilizerlinger.com
 0.0.0.0 www.openairintervalcompanion.com
 0.0.0.0 www.optionsdisk.com
+0.0.0.0 www.orchidreducedbleak.com
 0.0.0.0 www.order-maximrestaurant.ca
 0.0.0.0 www.organicvastu.in
 0.0.0.0 www.otheradsads.xyz
@@ -28309,6 +28330,7 @@
 0.0.0.0 www.outrepublicanshelf.com
 0.0.0.0 www.overnightpicture.com
 0.0.0.0 www.owestripebastard.com
+0.0.0.0 www.owewary.com
 0.0.0.0 www.pacifyinvalid.com
 0.0.0.0 www.packethierarchy.com
 0.0.0.0 www.paddlerefreshments.com
@@ -28666,6 +28688,7 @@
 0.0.0.0 www.specimenspeekzone.com
 0.0.0.0 www.speechfountaindigestion.com
 0.0.0.0 www.spekturm.de
+0.0.0.0 www.spellingreasoningexamine.com
 0.0.0.0 www.spiderdisturbing.com
 0.0.0.0 www.spihand.com
 0.0.0.0 www.spinbiased.com
@@ -28698,6 +28721,7 @@
 0.0.0.0 www.stopsrepetitious.com
 0.0.0.0 www.stowsentimental.com
 0.0.0.0 www.strategicattacksstudied.com
+0.0.0.0 www.strickenenergetic.com
 0.0.0.0 www.strike.coop
 0.0.0.0 www.strollcurepinching.com
 0.0.0.0 www.stronglydolefulejection.com
@@ -28731,6 +28755,7 @@
 0.0.0.0 www.sxcpt.org
 0.0.0.0 www.sxnkzm.com
 0.0.0.0 www.sympathyrant.com
+0.0.0.0 www.tabledownstairsprovocative.com
 0.0.0.0 www.tackymust.com
 0.0.0.0 www.takepalpablenuisance.com
 0.0.0.0 www.tamoafuera.com
@@ -28873,6 +28898,7 @@
 0.0.0.0 www.verdigolf.com
 0.0.0.0 www.veridon.social
 0.0.0.0 www.version-info.com
+0.0.0.0 www.victoriouspastimeculture.com
 0.0.0.0 www.videogifer.com
 0.0.0.0 www.vietlachkiemtien.com
 0.0.0.0 www.viewermainlymerger.com
@@ -28890,6 +28916,7 @@
 0.0.0.0 www.vladikin.dev
 0.0.0.0 www.vlasoff.net
 0.0.0.0 www.vmcxdaynkhnekp.com
+0.0.0.0 www.vodusoft.com
 0.0.0.0 www.volcanoimplement.com
 0.0.0.0 www.votemoodyexcavate.com
 0.0.0.0 www.vpay.website
