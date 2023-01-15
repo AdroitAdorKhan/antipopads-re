@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.015
 # Release: 015
-# Entries: 30,275
-# Updated: Sun, 15 Jan 23 12:08:28 +06
+# Entries: 30,285
+# Updated: Sun, 15 Jan 23 14:08:19 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3315,6 +3315,7 @@
 0.0.0.0 auto-im.com
 0.0.0.0 auto-vox.de
 0.0.0.0 autoblitz.repair
+0.0.0.0 autology.app
 0.0.0.0 automatedtraffic.com
 0.0.0.0 automateyourlist.com
 0.0.0.0 automaticallyindecisionalarm.com
@@ -4965,6 +4966,7 @@
 0.0.0.0 burydibase.com
 0.0.0.0 burymewithmyiphone.com
 0.0.0.0 busdminingpool.com
+0.0.0.0 bushnek.co.za
 0.0.0.0 businessenviron.com
 0.0.0.0 businessessities.com
 0.0.0.0 businesslinenow.com
@@ -6223,6 +6225,7 @@
 0.0.0.0 commentarystrength.com
 0.0.0.0 commercial-i30.com
 0.0.0.0 commercialenergyconsultant.co.uk
+0.0.0.0 commercialgatespecialist.uk
 0.0.0.0 commercialvalue.org
 0.0.0.0 commiseratelavishness.com
 0.0.0.0 commissionkings.ag
@@ -6651,6 +6654,7 @@
 0.0.0.0 crocodileterminal.com
 0.0.0.0 crocopop.com
 0.0.0.0 cromo.name
+0.0.0.0 cromospharma.ru
 0.0.0.0 crookedchange.com
 0.0.0.0 croplake.com
 0.0.0.0 crossingwhile.com
@@ -6678,6 +6682,7 @@
 0.0.0.0 crushlaunces.digital
 0.0.0.0 crusier.com
 0.0.0.0 cryartarm.online
+0.0.0.0 cryparena.org
 0.0.0.0 cryptogramwines.org
 0.0.0.0 cryptokia.app
 0.0.0.0 cryptomod.tech
@@ -18670,6 +18675,7 @@
 0.0.0.0 pnrblholty.com
 0.0.0.0 pnreceiver.com
 0.0.0.0 pnsqsv.com
+0.0.0.0 pnuval.org
 0.0.0.0 pnwygdlnymuc.top
 0.0.0.0 poacawhe.net
 0.0.0.0 poagroul.com
@@ -20284,6 +20290,7 @@
 0.0.0.0 repairbaadshah.com
 0.0.0.0 repairedbringstale.com
 0.0.0.0 repaul.com
+0.0.0.0 repayments.io
 0.0.0.0 repeatresolve.com
 0.0.0.0 repentancematernity.com
 0.0.0.0 repentbits.com
@@ -23058,6 +23065,7 @@
 0.0.0.0 swampgillspersonnel.com
 0.0.0.0 swan-swan-goose.com
 0.0.0.0 swansshoeskelso.com
+0.0.0.0 swapnadaltheatre.org
 0.0.0.0 swarnimsavera.com
 0.0.0.0 swatad.com
 0.0.0.0 swaycomplymishandle.com
@@ -23282,6 +23290,7 @@
 0.0.0.0 tatagamesindia.org
 0.0.0.0 tataplay.info
 0.0.0.0 tataplaybeauty.org
+0.0.0.0 tataplaybinge.org
 0.0.0.0 tataplayhelpline.org
 0.0.0.0 tataplayindia.org
 0.0.0.0 tataplaypay.org
@@ -27437,6 +27446,7 @@
 0.0.0.0 www.auntieemployedbureau.com
 0.0.0.0 www.auravineyard.com
 0.0.0.0 www.austinmh.com
+0.0.0.0 www.autology.app
 0.0.0.0 www.autopsyfowl.com
 0.0.0.0 www.autoservicedepot.webflo.io
 0.0.0.0 www.avalanchemight.com
