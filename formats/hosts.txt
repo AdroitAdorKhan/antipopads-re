@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.016
 # Release: 016
-# Entries: 30,653
-# Updated: Mon, 16 Jan 23 12:08:39 +06
+# Entries: 30,664
+# Updated: Mon, 16 Jan 23 14:08:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -141,6 +141,7 @@
 0.0.0.0 123movies.to
 0.0.0.0 123movies.town
 0.0.0.0 123taxi.be
+0.0.0.0 123vids.com
 0.0.0.0 123vidz.com
 0.0.0.0 123w0w.com
 0.0.0.0 1298bab69bbc4.com
@@ -1469,6 +1470,7 @@
 0.0.0.0 admiralbrace.com
 0.0.0.0 admiredexcrete.com
 0.0.0.0 admiredexpansioncollege.com
+0.0.0.0 admitad.com
 0.0.0.0 admittedfaults.com
 0.0.0.0 admob.com
 0.0.0.0 admobe.com
@@ -2491,6 +2493,7 @@
 0.0.0.0 an.diritymirkish.com
 0.0.0.0 an.gownletinfamy.com
 0.0.0.0 an.pintaentrep.com
+0.0.0.0 anaahathamusic.org
 0.0.0.0 anagabriel.online
 0.0.0.0 anaguahoagies.com
 0.0.0.0 analiz90.com
@@ -4991,6 +4994,7 @@
 0.0.0.0 businessvisuals.in
 0.0.0.0 busingcoryzal.com
 0.0.0.0 busions.com
+0.0.0.0 bussehomes.com
 0.0.0.0 bustlemiszone.com
 0.0.0.0 butalksuw9dj10.com
 0.0.0.0 butashasp.site
@@ -10719,6 +10723,7 @@
 0.0.0.0 gmyze.com
 0.0.0.0 gmzdaily.com
 0.0.0.0 gnakfxsl.com
+0.0.0.0 gnanakarmayoga.org
 0.0.0.0 gnarlgp.com
 0.0.0.0 gnatgrocery.com
 0.0.0.0 gnawedhelixes.space
@@ -15247,6 +15252,7 @@
 0.0.0.0 mastfiguredrussell.com
 0.0.0.0 masticsvorlage.website
 0.0.0.0 masture.mobi
+0.0.0.0 mat5tube.com
 0.0.0.0 matchaix.net
 0.0.0.0 matchingstubborn.com
 0.0.0.0 matchuph.com
@@ -16109,6 +16115,7 @@
 0.0.0.0 mutcheng.net
 0.0.0.0 mutecrane.com
 0.0.0.0 mutenessdollyheadlong.com
+0.0.0.0 mutiarabuah.com
 0.0.0.0 mutury.com
 0.0.0.0 muvflix.com
 0.0.0.0 muvimtim.com
@@ -21096,6 +21103,7 @@
 0.0.0.0 rurate.com
 0.0.0.0 rusenov.com
 0.0.0.0 rusheemeso.digital
+0.0.0.0 rushingrentals.com
 0.0.0.0 rushonuco.com
 0.0.0.0 rushpushy.com
 0.0.0.0 russiaroman.com
@@ -27836,6 +27844,7 @@
 0.0.0.0 www.buoydeparturediscontent.com
 0.0.0.0 www.burstingdipper.com
 0.0.0.0 www.businessmencrib.com
+0.0.0.0 www.bussehomes.com
 0.0.0.0 www.buyone.guru
 0.0.0.0 www.buysalebiz.com
 0.0.0.0 www.bxflight.com
@@ -27935,6 +27944,7 @@
 0.0.0.0 www.coffeesinceunwanted.com
 0.0.0.0 www.cognateparsley.com
 0.0.0.0 www.cohereteddy.com
+0.0.0.0 www.colintoxicate.com
 0.0.0.0 www.colonave.com
 0.0.0.0 www.colorfullank.com
 0.0.0.0 www.colorfulwiped.com
@@ -29148,6 +29158,7 @@
 0.0.0.0 www.rulestiming.com
 0.0.0.0 www.rummagemason.com
 0.0.0.0 www.rungglasses.com
+0.0.0.0 www.rushingrentals.com
 0.0.0.0 www.russiaroman.com
 0.0.0.0 www.rusticswollenbelonged.com
 0.0.0.0 www.rutsophisticatededaciousedacious.com
