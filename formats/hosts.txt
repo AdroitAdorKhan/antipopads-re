@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.017
 # Release: 017
-# Entries: 31,115
-# Updated: Tue, 17 Jan 23 18:08:30 +06
+# Entries: 31,132
+# Updated: Tue, 17 Jan 23 20:09:06 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3844,6 +3844,7 @@
 0.0.0.0 batsdivannab.com
 0.0.0.0 battepush.com
 0.0.0.0 batterdisagreement.com
+0.0.0.0 batteries2go.co.uk
 0.0.0.0 batterserenity.com
 0.0.0.0 batteryfirmimage.com
 0.0.0.0 batteusp2hilenor.com
@@ -4426,6 +4427,7 @@
 0.0.0.0 blaghfpd.com
 0.0.0.0 blakeelses.tech
 0.0.0.0 blakelousepreoccupation.com
+0.0.0.0 blakeneymanagement.co.uk
 0.0.0.0 blaketommyecology.com
 0.0.0.0 blamads.com
 0.0.0.0 blamedbuckie.fun
@@ -5321,6 +5323,7 @@
 0.0.0.0 cardoembays.com
 0.0.0.0 cardsendme.com
 0.0.0.0 cardsscentwithlove.com
+0.0.0.0 careamplifier.org
 0.0.0.0 careerguidelive.com
 0.0.0.0 careerjournalonline.com
 0.0.0.0 carefortheaged.com.au
@@ -8802,6 +8805,7 @@
 0.0.0.0 enrichyummy.com
 0.0.0.0 enrilov.info
 0.0.0.0 enrobeddhuti.space
+0.0.0.0 enroes.com
 0.0.0.0 ensueswill.com
 0.0.0.0 entailresponded.com
 0.0.0.0 entalsindust.one
@@ -9196,6 +9200,7 @@
 0.0.0.0 expressivediscoveredprominent.com
 0.0.0.0 expressvampire.com
 0.0.0.0 exrtbsrv.com
+0.0.0.0 exsmart-link-totp99018388.org.ru
 0.0.0.0 extend.tv
 0.0.0.0 extendedcocktailchapel.com
 0.0.0.0 extenderlypoit.xyz
@@ -11093,6 +11098,7 @@
 0.0.0.0 grairtoorgey.com
 0.0.0.0 graivaik.com
 0.0.0.0 graizoah.com
+0.0.0.0 grameenhub.org
 0.0.0.0 gramrebecca.com
 0.0.0.0 granarybroughtfun.com
 0.0.0.0 granarymedia.co.uk
@@ -11664,6 +11670,7 @@
 0.0.0.0 heleric.com
 0.0.0.0 helesandoral.com
 0.0.0.0 helic3oniusrcharithonia.com
+0.0.0.0 helicopterpilottraining.co.uk
 0.0.0.0 heligh.com
 0.0.0.0 helixmoonz.com
 0.0.0.0 helixsun.net
@@ -12130,6 +12137,7 @@
 0.0.0.0 htl.bid
 0.0.0.0 htlbid.com
 0.0.0.0 htmonster.com
+0.0.0.0 htnrl.co.uk
 0.0.0.0 htthereflewove.xyz
 0.0.0.0 httpmercari.com
 0.0.0.0 httpsecurity.org
@@ -16447,6 +16455,7 @@
 0.0.0.0 n5rthy.com
 0.0.0.0 n9s74npl.de
 0.0.0.0 na.woohoobiolith.com
+0.0.0.0 na1ver.com
 0.0.0.0 naambonder.com
 0.0.0.0 naatookyois.com
 0.0.0.0 naazrghwxj.com
@@ -20927,6 +20936,7 @@
 0.0.0.0 riadelaassal.com
 0.0.0.0 ribrattle.com
 0.0.0.0 ribsaiji.com
+0.0.0.0 ribtrader.co.uk
 0.0.0.0 ribunews.com
 0.0.0.0 ric-ric-rum.com
 0.0.0.0 ricead.com
@@ -21511,6 +21521,7 @@
 0.0.0.0 sailif.com
 0.0.0.0 sailorbottleaskew.com
 0.0.0.0 saimary.com
+0.0.0.0 saimary.net
 0.0.0.0 saimifoa.net
 0.0.0.0 saininglcm.live
 0.0.0.0 saipel.com
@@ -23047,6 +23058,7 @@
 0.0.0.0 ssqyuvavse.com
 0.0.0.0 sssqnimchpad.com
 0.0.0.0 ssurvey2you.com
+0.0.0.0 st-computindo.com
 0.0.0.0 st.capreolprlate.com
 0.0.0.0 st.naiviteusuress.com
 0.0.0.0 st.razzpetered.com
@@ -23248,6 +23260,7 @@
 0.0.0.0 stop-adblocker.info
 0.0.0.0 stoppardons.org
 0.0.0.0 stopsrepetitious.com
+0.0.0.0 stopthepardons.org
 0.0.0.0 storage-ad.com
 0.0.0.0 storagelassitudeblend.com
 0.0.0.0 store-notifications.online
@@ -24106,6 +24119,7 @@
 0.0.0.0 thecannabisreporter.com
 0.0.0.0 thecc.rocks
 0.0.0.0 thechiefdynamic.com
+0.0.0.0 thechildrenssite.co.uk
 0.0.0.0 thechleads.pro
 0.0.0.0 thechuskii.com
 0.0.0.0 theclouddiosleepcompany.org
@@ -25671,6 +25685,7 @@
 0.0.0.0 ubbfpm.com
 0.0.0.0 ubjectsandie.biz
 0.0.0.0 ubm4dmasuk.com
+0.0.0.0 ubmzxodp.com
 0.0.0.0 uboungera.com
 0.0.0.0 uc.cn
 0.0.0.0 ucconn.live
@@ -29379,6 +29394,7 @@
 0.0.0.0 www.pkracv.com
 0.0.0.0 www.plaitincriminatediscard.com
 0.0.0.0 www.plaitvaccination.com
+0.0.0.0 www.planesknob.com
 0.0.0.0 www.plantationexhaust.com
 0.0.0.0 www.plantpreventioncrab.com
 0.0.0.0 www.plantravel.app
@@ -29586,6 +29602,7 @@
 0.0.0.0 www.sadtriggerssupporter.com
 0.0.0.0 www.saidflightmusician.com
 0.0.0.0 www.saimary.com
+0.0.0.0 www.saimary.net
 0.0.0.0 www.salutationdove.com
 0.0.0.0 www.samphire.org
 0.0.0.0 www.sandiegomobileautodetailing.com
