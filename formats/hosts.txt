@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.017
 # Release: 017
-# Entries: 31,132
-# Updated: Tue, 17 Jan 23 20:09:06 +06
+# Entries: 31,140
+# Updated: Tue, 17 Jan 23 22:08:39 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4813,6 +4813,7 @@
 0.0.0.0 bricius-ing.com
 0.0.0.0 brickcontaining.com
 0.0.0.0 bricker.us
+0.0.0.0 bricklang.uk
 0.0.0.0 bridae.com
 0.0.0.0 bridepov.com
 0.0.0.0 bridesmaidcleft.com
@@ -6560,6 +6561,7 @@
 0.0.0.0 coreignpetered.store
 0.0.0.0 coreportions.com
 0.0.0.0 corepsh.top
+0.0.0.0 corinahealth.co.uk
 0.0.0.0 corkiteihp.website
 0.0.0.0 corkycrazy.com
 0.0.0.0 corkysegment.com
@@ -7129,6 +7131,7 @@
 0.0.0.0 data-data-vac.com
 0.0.0.0 data-px.services
 0.0.0.0 datajsext.com
+0.0.0.0 datamuni.org
 0.0.0.0 datascienceinitiative.eu
 0.0.0.0 datatechone.com
 0.0.0.0 datatechonert.com
@@ -9204,6 +9207,7 @@
 0.0.0.0 extend.tv
 0.0.0.0 extendedcocktailchapel.com
 0.0.0.0 extenderlypoit.xyz
+0.0.0.0 extensionlincolnshire.co.uk
 0.0.0.0 extentitle.space
 0.0.0.0 extra33.com
 0.0.0.0 extractionwilliam.com
@@ -16992,6 +16996,7 @@
 0.0.0.0 nominalpowerlessunable.com
 0.0.0.0 nomnemtalions.com
 0.0.0.0 nomorepecans.com
+0.0.0.0 nonatechnologies.org
 0.0.0.0 nonbasekick.com
 0.0.0.0 nondestructivetestingequipment.co.uk
 0.0.0.0 nonerr.com
@@ -22269,6 +22274,7 @@
 0.0.0.0 shusacem.net
 0.0.0.0 shuswapwitness.store
 0.0.0.0 shutesaroph.com
+0.0.0.0 shutupsale.org
 0.0.0.0 shuveenvcfzk.com
 0.0.0.0 shuxqvgp.top
 0.0.0.0 shuzugakutoo.com
@@ -24722,6 +24728,7 @@
 0.0.0.0 topbwihotel.com
 0.0.0.0 topcertifiedmovers.com
 0.0.0.0 topclickguru.com
+0.0.0.0 topdeal.co.in
 0.0.0.0 topdealad.com
 0.0.0.0 topdesign-marketing.com
 0.0.0.0 topdevactions.tech
@@ -26605,6 +26612,7 @@
 0.0.0.0 videjere.com
 0.0.0.0 video-adblocker.com
 0.0.0.0 video-serve.com
+0.0.0.0 video.in
 0.0.0.0 video.your-notice.com
 0.0.0.0 videoaccess.xyz
 0.0.0.0 videobridge.tv
