@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.019
 # Release: 019
-# Entries: 31,588
-# Updated: Thu, 19 Jan 23 12:08:50 +06
+# Entries: 31,602
+# Updated: Thu, 19 Jan 23 14:08:27 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -927,6 +927,7 @@
 0.0.0.0 97sandandgravel.com
 0.0.0.0 98tang.la
 0.0.0.0 996.energy
+0.0.0.0 996.works
 0.0.0.0 9996777888.com
 0.0.0.0 99bhiwandigodowns.com
 0.0.0.0 99bhiwandigodowns.in
@@ -3535,6 +3536,7 @@
 0.0.0.0 axiomszanjona.com
 0.0.0.0 axisaxis.fun
 0.0.0.0 axisnuisance.com
+0.0.0.0 axisvistara.business
 0.0.0.0 axiumeuropa.com
 0.0.0.0 axkgwislaspkp.com
 0.0.0.0 axlokxnm.com
@@ -9479,6 +9481,7 @@
 0.0.0.0 fasciaekatcina.com
 0.0.0.0 fascialtaqua.uno
 0.0.0.0 fascinatedgreetedgerminate.com
+0.0.0.0 fascinatedpetulantfrail.com
 0.0.0.0 fashionablegangsterexplosion.com
 0.0.0.0 fashioneggplant.com
 0.0.0.0 fashionsareekendra.co.in
@@ -15099,6 +15102,7 @@
 0.0.0.0 longteng52.com
 0.0.0.0 lonreddone.com
 0.0.0.0 loocil.com
+0.0.0.0 loodha.com
 0.0.0.0 looew.club
 0.0.0.0 loohiwez.net
 0.0.0.0 lookandfind.me
@@ -15117,6 +15121,7 @@
 0.0.0.0 loopanews.com
 0.0.0.0 loopme.me
 0.0.0.0 loopoohy.com
+0.0.0.0 lootypay.com
 0.0.0.0 lopzitpup.com
 0.0.0.0 lorageiros.com
 0.0.0.0 loralana.com
@@ -15697,6 +15702,7 @@
 0.0.0.0 maxserving.com
 0.0.0.0 maxsuperspecialityhospital.com
 0.0.0.0 maxxstore.net
+0.0.0.0 mayaverse.org
 0.0.0.0 maygrant.com
 0.0.0.0 mayhemabjure.com
 0.0.0.0 mayhemsixtydeserves.com
@@ -19566,6 +19572,7 @@
 0.0.0.0 prahfoleruna.com
 0.0.0.0 prajhagroup.org
 0.0.0.0 prakritinfixed.com
+0.0.0.0 prantikpos.com
 0.0.0.0 praterswhally.com
 0.0.0.0 pratipay.com
 0.0.0.0 pravinmhatre.com
@@ -22464,6 +22471,7 @@
 0.0.0.0 shitcustody.com
 0.0.0.0 shitiphu.com
 0.0.0.0 shitucka.net
+0.0.0.0 shivamagencyfire.com
 0.0.0.0 shivammultirecharge.online
 0.0.0.0 shivenseatrans.com
 0.0.0.0 shivoaps.net
@@ -27574,6 +27582,7 @@
 0.0.0.0 web-mania.xyz
 0.0.0.0 web-opera.website
 0.0.0.0 web-security.cloud
+0.0.0.0 web3-0.ru
 0.0.0.0 web3ads.net
 0.0.0.0 webahli.tech
 0.0.0.0 webanalyzer.io
@@ -28342,6 +28351,7 @@
 0.0.0.0 www.91yy9.com
 0.0.0.0 www.937r.com
 0.0.0.0 www.9522faf9d6.com
+0.0.0.0 www.996.works
 0.0.0.0 www.9akjsbjkdasd99.monster
 0.0.0.0 www.9kbkfsf99.monster
 0.0.0.0 www.9sjdnkfsdf99.monster
@@ -29541,6 +29551,8 @@
 0.0.0.0 www.lonelinessapp.com
 0.0.0.0 www.lonestarstate.app
 0.0.0.0 www.longbayvillas.com
+0.0.0.0 www.loodha.com
+0.0.0.0 www.lootypay.com
 0.0.0.0 www.lordsfilmz.online
 0.0.0.0 www.loungeagain.com
 0.0.0.0 www.lovedate.online
@@ -30084,6 +30096,7 @@
 0.0.0.0 www.shiftdimplelocum.com
 0.0.0.0 www.shineabnormalstranded.com
 0.0.0.0 www.shinglelatitude.com
+0.0.0.0 www.shivamagencyfire.com
 0.0.0.0 www.shivvani.com
 0.0.0.0 www.shok.am
 0.0.0.0 www.shookcooperassociate.com
@@ -31134,6 +31147,7 @@
 0.0.0.0 yogsnrlvwm.xyz
 0.0.0.0 yohny.tech
 0.0.0.0 yohoho.online
+0.0.0.0 yohporn.com
 0.0.0.0 yoifjfbzrkcz.com
 0.0.0.0 yoiprqtykkhhfq.com
 0.0.0.0 yokeeroud.com
