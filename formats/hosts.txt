@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.020
 # Release: 020
-# Entries: 32,056
-# Updated: Fri, 20 Jan 23 10:08:35 +06
+# Entries: 32,082
+# Updated: Fri, 20 Jan 23 12:07:58 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -89,6 +89,7 @@
 0.0.0.0 0w1rqq69fi0e.com
 0.0.0.0 0x01n2ptpuz3.com
 0.0.0.0 1001days.org
+0.0.0.0 100cheapjordans.com
 0.0.0.0 103-applefibernet.com
 0.0.0.0 103-gazonindia.com
 0.0.0.0 103092804.com
@@ -149,6 +150,7 @@
 0.0.0.0 123vidz.com
 0.0.0.0 123w0w.com
 0.0.0.0 1298bab69bbc4.com
+0.0.0.0 12am.tech
 0.0.0.0 12betwin.cn
 0.0.0.0 12dc71b7cb820f2a.com
 0.0.0.0 12place.com
@@ -198,6 +200,7 @@
 0.0.0.0 1b14e0ee42d5e195c9aa1a2f5b42c710.com
 0.0.0.0 1bc1daf1a7.com
 0.0.0.0 1bet1.icu
+0.0.0.0 1bet1.kim
 0.0.0.0 1bm3n8sld.de
 0.0.0.0 1buxie.com
 0.0.0.0 1c204c05d2898056fd.com
@@ -1854,6 +1857,7 @@
 0.0.0.0 aegid-bal.com
 0.0.0.0 aegyo.uk
 0.0.0.0 aeijanotxo.xyz
+0.0.0.0 aeis.guru
 0.0.0.0 aeolismtact.com
 0.0.0.0 aeolus-test.com
 0.0.0.0 aeonfantasybj.com
@@ -2409,6 +2413,7 @@
 0.0.0.0 alpha-digital.fr
 0.0.0.0 alpha-news.org
 0.0.0.0 alphabird.com
+0.0.0.0 alphaorina.tech
 0.0.0.0 alphatraders.live
 0.0.0.0 alphonso.tv
 0.0.0.0 alpidoveon.com
@@ -3081,6 +3086,7 @@
 0.0.0.0 ascitbhalse.guru
 0.0.0.0 ascomamizzen.com
 0.0.0.0 ascomasoprano.website
+0.0.0.0 ascp.vip
 0.0.0.0 ascraftan.com
 0.0.0.0 ascx15.com
 0.0.0.0 asd880.com
@@ -3089,6 +3095,7 @@
 0.0.0.0 asdguswfys.com
 0.0.0.0 asdpnu.com
 0.0.0.0 asdpoi.com
+0.0.0.0 asdz.bet
 0.0.0.0 asecarenterhosi.xyz
 0.0.0.0 asecw.xyz
 0.0.0.0 asev.xyz
@@ -3149,6 +3156,7 @@
 0.0.0.0 aspiredcapitol.com
 0.0.0.0 aspiresofts.com
 0.0.0.0 asptechniques.com
+0.0.0.0 asqp.vip
 0.0.0.0 asrbfyagqow.com
 0.0.0.0 asrety.com
 0.0.0.0 asricewaterh.com
@@ -3214,6 +3222,7 @@
 0.0.0.0 astspewpaor.com
 0.0.0.0 astumbreonon.com
 0.0.0.0 astumeimplitles.com
+0.0.0.0 asty.vip
 0.0.0.0 asukedrev.com
 0.0.0.0 asunderdestructmuddy.com
 0.0.0.0 asuntiljusttyere.xyz
@@ -11242,6 +11251,7 @@
 0.0.0.0 gomain.pro
 0.0.0.0 gomain2.pro
 0.0.0.0 gombointill.com
+0.0.0.0 gomerch.shop
 0.0.0.0 gomnlt.com
 0.0.0.0 gomo.cc
 0.0.0.0 gomountmiguel.org
@@ -12625,6 +12635,7 @@
 0.0.0.0 ibqobdxjryirwg.top
 0.0.0.0 ibrapush.com
 0.0.0.0 ibryte.com
+0.0.0.0 ibtinfracon.com
 0.0.0.0 ibugreeza.com
 0.0.0.0 ic.aguehalved.com
 0.0.0.0 ic.peartpaeon.com
@@ -16780,6 +16791,7 @@
 0.0.0.0 mycrappyneighbor.com
 0.0.0.0 mydailynewz.com
 0.0.0.0 mydating-partner2.com
+0.0.0.0 mydigiverse.marketing
 0.0.0.0 myeasetrack.com
 0.0.0.0 myetherwayllet.com
 0.0.0.0 myfantasylegue.com
@@ -24887,6 +24899,7 @@
 0.0.0.0 theribbonsandballoons.com
 0.0.0.0 thertoldimnver.xyz
 0.0.0.0 therubiqube.com
+0.0.0.0 thesalestax.team
 0.0.0.0 thesandykingteam.com
 0.0.0.0 thesaurussurf.com
 0.0.0.0 theseluckydays.com
@@ -28667,10 +28680,12 @@
 0.0.0.0 www.114la8.com
 0.0.0.0 www.114la9.com
 0.0.0.0 www.11domani123.com
+0.0.0.0 www.12am.tech
 0.0.0.0 www.12w3.net
 0.0.0.0 www.1anoth3rdoman1.com
 0.0.0.0 www.1anotherdomains1.com
 0.0.0.0 www.1anothetrmoda.com
+0.0.0.0 www.1bet1.kim
 0.0.0.0 www.1domainq1.com
 0.0.0.0 www.1domianscom.com
 0.0.0.0 www.1fr00insta11.com
@@ -28764,6 +28779,7 @@
 0.0.0.0 www.advantageoutlayreeds.com
 0.0.0.0 www.adversesuffering.com
 0.0.0.0 www.advertspheredigital.com
+0.0.0.0 www.aeis.guru
 0.0.0.0 www.aereobus.com
 0.0.0.0 www.afcyhf.com
 0.0.0.0 www.affectionatelypartiesdependant.com
@@ -28790,6 +28806,7 @@
 0.0.0.0 www.alleviatepracticableaddicted.com
 0.0.0.0 www.alloysoftballcrushing.com
 0.0.0.0 www.allypublicity.com
+0.0.0.0 www.alphaorina.tech
 0.0.0.0 www.alpinesafes.com
 0.0.0.0 www.altamerica.org
 0.0.0.0 www.alyriasoindepeau.com
@@ -28844,6 +28861,8 @@
 0.0.0.0 www.arvinds.works
 0.0.0.0 www.arvindworks.click
 0.0.0.0 www.ascendcolonel.com
+0.0.0.0 www.ascp.vip
+0.0.0.0 www.asdz.bet
 0.0.0.0 www.ashamemafia.com
 0.0.0.0 www.askcoefficient.com
 0.0.0.0 www.askedappear.com
@@ -28852,6 +28871,7 @@
 0.0.0.0 www.aslau-cre.info
 0.0.0.0 www.asmadness.com
 0.0.0.0 www.asoft99.dev
+0.0.0.0 www.asqp.vip
 0.0.0.0 www.assignedmilitantcommit.com
 0.0.0.0 www.assignments.tvidak.com
 0.0.0.0 www.assistantelizabethraw.com
@@ -28859,6 +28879,7 @@
 0.0.0.0 www.assuranceapprobationblackbird.com
 0.0.0.0 www.assurednesssalesmanmaud.com
 0.0.0.0 www.astonishmentfuneral.com
+0.0.0.0 www.asty.vip
 0.0.0.0 www.asunderdestructmuddy.com
 0.0.0.0 www.atcoordinate.com
 0.0.0.0 www.atheismashamedcomfort.com
@@ -29596,6 +29617,7 @@
 0.0.0.0 www.goddessclad.com
 0.0.0.0 www.gogggg.com
 0.0.0.0 www.goldfishquestion.com
+0.0.0.0 www.gomerch.shop
 0.0.0.0 www.gooddatebaddate.com
 0.0.0.0 www.goodnightdeduce.com
 0.0.0.0 www.googlecoin.org
@@ -30072,6 +30094,7 @@
 0.0.0.0 www.musselchangeableskier.com
 0.0.0.0 www.mv8.app
 0.0.0.0 www.my77741.com
+0.0.0.0 www.mydigiverse.marketing
 0.0.0.0 www.myfillers.ru
 0.0.0.0 www.myfirstmeet.space
 0.0.0.0 www.myjagran.com
@@ -30498,6 +30521,7 @@
 0.0.0.0 www.sevenstoneswineryestate.com
 0.0.0.0 www.sextoys.am
 0.0.0.0 www.seychellescarhire.com
+0.0.0.0 www.shabazanjum.tech
 0.0.0.0 www.shaigan.info
 0.0.0.0 www.shaigan.org
 0.0.0.0 www.shamime.co.uk
@@ -30710,6 +30734,7 @@
 0.0.0.0 www.therebycapablerising.com
 0.0.0.0 www.thereforetreadvoluntarily.com
 0.0.0.0 www.thereshotowner.com
+0.0.0.0 www.thesalestax.team
 0.0.0.0 www.thesandykingteam.com
 0.0.0.0 www.theseluckydays.com
 0.0.0.0 www.theskinspecialistblog.com
@@ -30787,6 +30812,7 @@
 0.0.0.0 www.tuseefanjum.com
 0.0.0.0 www.twelfthdistasteful.com
 0.0.0.0 www.twentyalight.com
+0.0.0.0 www.uae-hotpromo.website
 0.0.0.0 www.udhaarvasuli.com
 0.0.0.0 www.uesl.net
 0.0.0.0 www.uglynewyork.com
