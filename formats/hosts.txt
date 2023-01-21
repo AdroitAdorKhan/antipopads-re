@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.021
 # Release: 021
-# Entries: 32,333
-# Updated: Sat, 21 Jan 23 06:08:04 +06
+# Entries: 32,369
+# Updated: Sat, 21 Jan 23 08:16:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -55,6 +55,7 @@
 0.0.0.0 0757wzjs.com
 0.0.0.0 077072.com
 0.0.0.0 0798654322.com
+0.0.0.0 08.sk
 0.0.0.0 0898hhh.com
 0.0.0.0 089c42d0b4.f28fda58c5.com
 0.0.0.0 08bb1fn3t4.com
@@ -1049,6 +1050,7 @@
 0.0.0.0 aabproxytests.top
 0.0.0.0 aabproxytestsdomain.top
 0.0.0.0 aacharya.net
+0.0.0.0 aadat.co.in
 0.0.0.0 aadat.online
 0.0.0.0 aadat.store
 0.0.0.0 aadhyainstruments.com
@@ -1070,6 +1072,7 @@
 0.0.0.0 aaucwbe.com
 0.0.0.0 aavv4444.com
 0.0.0.0 aaxkiegg.com
+0.0.0.0 aayadi.in
 0.0.0.0 aaycxyjofju.top
 0.0.0.0 ab3yssin4i6an.com
 0.0.0.0 ab66e3fea0.61b6eab774.com
@@ -2072,6 +2075,7 @@
 0.0.0.0 agraglie.net
 0.0.0.0 agrarianbeepsensitivity.com
 0.0.0.0 agrarianeruption.com
+0.0.0.0 agreatergood.co
 0.0.0.0 agreedrunawaysalty.com
 0.0.0.0 agreeingflippantointment.com
 0.0.0.0 agreementdarcypainless.com
@@ -2173,6 +2177,7 @@
 0.0.0.0 airdoamoord.com
 0.0.0.0 airdropemboil.com
 0.0.0.0 airent.io
+0.0.0.0 aireport.ca
 0.0.0.0 airigh.scot
 0.0.0.0 airlaza.co.uk
 0.0.0.0 airlessquotationtroubled.com
@@ -2216,6 +2221,7 @@
 0.0.0.0 ajestigie.com
 0.0.0.0 ajflwavi.com
 0.0.0.0 ajfnee.com
+0.0.0.0 ajgroupofcompany.in
 0.0.0.0 ajillionmax.com
 0.0.0.0 ajjhtetv87.com
 0.0.0.0 ajkcmuazxf.com
@@ -2256,6 +2262,7 @@
 0.0.0.0 alanticgecking.uno
 0.0.0.0 alas4kanmfa6a4mubte.com
 0.0.0.0 alaskan4kleeskai.com
+0.0.0.0 alastorcero.space
 0.0.0.0 alasvow.com
 0.0.0.0 alatedsoccers.com
 0.0.0.0 alballaim.com
@@ -3078,6 +3085,7 @@
 0.0.0.0 artpever.com
 0.0.0.0 artreconnect.com
 0.0.0.0 artsrookpassed.com
+0.0.0.0 arunfood.in
 0.0.0.0 arvid.io
 0.0.0.0 arvinds.works
 0.0.0.0 arvindworks.click
@@ -3621,6 +3629,7 @@
 0.0.0.0 ayfobsvpymybn.xyz
 0.0.0.0 ayhereabit.xyz
 0.0.0.0 ayprokwbpc.com
+0.0.0.0 ayralearning.in
 0.0.0.0 ayrovalcontain.com
 0.0.0.0 aytsuqwpokedw.com
 0.0.0.0 ayurvidhi.org
@@ -4414,6 +4423,7 @@
 0.0.0.0 billydropfarther.com
 0.0.0.0 bilqi-omv.com
 0.0.0.0 bilsyndication.com
+0.0.0.0 bimaconsultancy.in
 0.0.0.0 bimathyphy.com
 0.0.0.0 bimbim.com
 0.0.0.0 bimlocal.com
@@ -4479,6 +4489,7 @@
 0.0.0.0 bittyrail.com
 0.0.0.0 bitx.tv
 0.0.0.0 biz-newsfeed1.com
+0.0.0.0 bizkye.in
 0.0.0.0 biznewsinsider.com
 0.0.0.0 bizrotator.com
 0.0.0.0 bj.danakilaskarel.com
@@ -5207,6 +5218,7 @@
 0.0.0.0 buycoughpermit.com
 0.0.0.0 buyeasiee.in
 0.0.0.0 buyeasy.by
+0.0.0.0 buygolisoda.in
 0.0.0.0 buygyjrjojosleu.xyz
 0.0.0.0 buyhandbookshop.gives
 0.0.0.0 buylnk.com
@@ -5508,6 +5520,7 @@
 0.0.0.0 cash-duck.com
 0.0.0.0 cash-program.com
 0.0.0.0 cash4members.com
+0.0.0.0 cashbusiness.in
 0.0.0.0 cashewsforlife208.com
 0.0.0.0 cashlayer.com
 0.0.0.0 cashmereapprovalnotwithstanding.com
@@ -6580,6 +6593,8 @@
 0.0.0.0 concertstop.com
 0.0.0.0 concisepressing.com
 0.0.0.0 concitecomedo.live
+0.0.0.0 concordevalves.co.in
+0.0.0.0 concordevalves.in
 0.0.0.0 concordia.co.in
 0.0.0.0 concoursehost.org
 0.0.0.0 concoursestrickenpuppy.com
@@ -7374,6 +7389,7 @@
 0.0.0.0 davaifoa.com
 0.0.0.0 davenicholsonphotography.scot
 0.0.0.0 davidbuoys.ca
+0.0.0.0 davidemonda.it
 0.0.0.0 davidepicchi.com
 0.0.0.0 davzwyavjm.com
 0.0.0.0 dawmal.com
@@ -7583,6 +7599,7 @@
 0.0.0.0 demolitionpourorganizer.com
 0.0.0.0 demoltionmanchester.co.uk
 0.0.0.0 demonstrata.org
+0.0.0.0 denaa.co
 0.0.0.0 denansgdfier.info
 0.0.0.0 denbeigemark.com
 0.0.0.0 dendranthe4edm7um.com
@@ -8580,6 +8597,7 @@
 0.0.0.0 easiesttangle.com
 0.0.0.0 eastermass.com
 0.0.0.0 easternnewfoundland.com
+0.0.0.0 eastmanenergy.in
 0.0.0.0 eastrk-lg.com
 0.0.0.0 easurf.com
 0.0.0.0 easy-ad-blocker.net
@@ -8713,6 +8731,7 @@
 0.0.0.0 educedsteeped.com
 0.0.0.0 educivesakti.com
 0.0.0.0 edupro.world
+0.0.0.0 eduprotips.xyz
 0.0.0.0 edvforeveretest.com
 0.0.0.0 edvfwlacluo.com
 0.0.0.0 edwardambulanceservices.com
@@ -9472,6 +9491,7 @@
 0.0.0.0 expocrack.com
 0.0.0.0 expomadeexperts.com
 0.0.0.0 exporder-patuility.com
+0.0.0.0 exportjobs.in
 0.0.0.0 exportspring.com
 0.0.0.0 expos-investor.com
 0.0.0.0 exposuremixed.com
@@ -9801,6 +9821,7 @@
 0.0.0.0 feinthonouredadornment.com
 0.0.0.0 fejla.com
 0.0.0.0 fekrahit.com
+0.0.0.0 fekrekhoub.ir
 0.0.0.0 felicitychill.com
 0.0.0.0 felipecarol.com
 0.0.0.0 fellap.com
@@ -9987,6 +10008,7 @@
 0.0.0.0 findthedate3.com
 0.0.0.0 findyour-lady-here.com
 0.0.0.0 finedergotic.com
+0.0.0.0 finefinders.co
 0.0.0.0 fineporno.com
 0.0.0.0 finesseboisterous.com
 0.0.0.0 finestflirtcudgel.com
@@ -10036,6 +10058,7 @@
 0.0.0.0 firsthanddisagree.com
 0.0.0.0 firstlightera.com
 0.0.0.0 firstnationsenergyltd.com
+0.0.0.0 firstnft.in
 0.0.0.0 firstsclassbiz.com
 0.0.0.0 firstumpire.com
 0.0.0.0 firstverifyemigrant.com
@@ -10157,6 +10180,7 @@
 0.0.0.0 flopinclose.com
 0.0.0.0 floralicense.org
 0.0.0.0 florasubur.com
+0.0.0.0 floreseca.us
 0.0.0.0 floridachildcarebroker.com
 0.0.0.0 floridavacations.online
 0.0.0.0 floundercomeback.com
@@ -10189,6 +10213,7 @@
 0.0.0.0 fluxy.xyz
 0.0.0.0 flyingsquirellsmooch.com
 0.0.0.0 flymob.com
+0.0.0.0 flynto.in
 0.0.0.0 flytechb.com
 0.0.0.0 fm.chassescoothay.com
 0.0.0.0 fm.delbertbisalt.com
@@ -11271,6 +11296,7 @@
 0.0.0.0 goblocker.xyz
 0.0.0.0 gobmodfoe.com
 0.0.0.0 gobosclatchy.com
+0.0.0.0 gocrazyoffers.in
 0.0.0.0 goddamnhowks.tech
 0.0.0.0 goddessclad.com
 0.0.0.0 godescargas.xyz
@@ -11279,8 +11305,10 @@
 0.0.0.0 godpvqnszo.com
 0.0.0.0 godrej-bliss-at-ananda.co.in
 0.0.0.0 godrej-countryestate-manor.in
+0.0.0.0 godrej-pimpripunenexus.co.in
 0.0.0.0 godrej-vibeatnoida.com
 0.0.0.0 godrejambivaliriviera.net
+0.0.0.0 godrejurbanretreat-pune.co.in
 0.0.0.0 godspeaks.net
 0.0.0.0 goercoshes.com
 0.0.0.0 goergleeds.com
@@ -11833,6 +11861,7 @@
 0.0.0.0 hangfly.net
 0.0.0.0 hangoverineffectivecorners.com
 0.0.0.0 hangoverrapidlygreat.com
+0.0.0.0 hanli.tv
 0.0.0.0 hannasilver.net
 0.0.0.0 hansinaugurate.com
 0.0.0.0 hanstransportation.org
@@ -12168,6 +12197,7 @@
 0.0.0.0 higgiens23c5l8asfrk.com
 0.0.0.0 highconvertingformats.com
 0.0.0.0 highcpmrevenuenetwork.com
+0.0.0.0 highdeen.in
 0.0.0.0 highest.nl
 0.0.0.0 highestfidelity.tech
 0.0.0.0 higheurest.com
@@ -17221,6 +17251,7 @@
 0.0.0.0 netgreatlyavailable.com
 0.0.0.0 netkas.org
 0.0.0.0 netpatas.com
+0.0.0.0 netprotect.rs
 0.0.0.0 netrox.sc
 0.0.0.0 netstaff.club
 0.0.0.0 netstam.com
@@ -24784,6 +24815,7 @@
 0.0.0.0 tensorsbancos.com
 0.0.0.0 tenthsfrumpy.com
 0.0.0.0 tentmess.com
+0.0.0.0 tentorycomales.space
 0.0.0.0 teokevin.tech
 0.0.0.0 teqeupyyiipuoi.top
 0.0.0.0 teqnosys.com
@@ -25605,6 +25637,7 @@
 0.0.0.0 toprankimages.com
 0.0.0.0 toprevenuecpmnetwork.com
 0.0.0.0 toprevenuenetwork.com
+0.0.0.0 topsecret.in
 0.0.0.0 topsecretmotorsports.com
 0.0.0.0 topsinmybook.com
 0.0.0.0 topslip.org
@@ -27638,6 +27671,7 @@
 0.0.0.0 vishwakarmatrust.com
 0.0.0.0 vishwasmakhija.com
 0.0.0.0 visiads.com
+0.0.0.0 visibilitymondaydisappeared.com
 0.0.0.0 visiblegains.com
 0.0.0.0 visiblejoseph.com
 0.0.0.0 visiblemeasures.com
@@ -29601,6 +29635,7 @@
 0.0.0.0 www.educationaldetachblob.com
 0.0.0.0 www.edupro.world
 0.0.0.0 www.effacedefend.com
+0.0.0.0 www.egoviator.com
 0.0.0.0 www.eibiifiieedbjdacabf.ru
 0.0.0.0 www.eivbjsegbino.com
 0.0.0.0 www.elabcdelosnegocioseneua.com
@@ -30996,6 +31031,7 @@
 0.0.0.0 www.tomoprecision.com
 0.0.0.0 www.tongsihai.top
 0.0.0.0 www.topdevactions.tech
+0.0.0.0 www.topsecret.in
 0.0.0.0 www.torchestanreason.com
 0.0.0.0 www.torontoroyalty.exchange
 0.0.0.0 www.torrentdia35.com
