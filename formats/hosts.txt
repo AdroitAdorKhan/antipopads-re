@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.021
 # Release: 021
-# Entries: 32,490
-# Updated: Sat, 21 Jan 23 20:08:38 +06
+# Entries: 32,517
+# Updated: Sat, 21 Jan 23 22:08:10 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -980,6 +980,7 @@
 0.0.0.0 9gg23.com
 0.0.0.0 9goal.cc
 0.0.0.0 9itmr1lzaltn.com
+0.0.0.0 9kabjdwkw9.monster
 0.0.0.0 9kbkfsf99.monster
 0.0.0.0 9kkf51ovqex1.com
 0.0.0.0 9purdfe9xg.com
@@ -2769,6 +2770,8 @@
 0.0.0.0 anytimeoutstandingcharges.com
 0.0.0.0 anytimesuggestion.com
 0.0.0.0 anywherefurniture.com
+0.0.0.0 anzpatent.com
+0.0.0.0 anztrademark.com
 0.0.0.0 ao.tuscanyaskant.com
 0.0.0.0 aoa8491.com
 0.0.0.0 aoabet8104.com
@@ -3792,6 +3795,7 @@
 0.0.0.0 bakquka.com
 0.0.0.0 bakteso.ru
 0.0.0.0 balajinetworks.com
+0.0.0.0 balamakina.com
 0.0.0.0 balancedbooksbs.com
 0.0.0.0 balancedweakness.com
 0.0.0.0 balancemailbox.com
@@ -9503,6 +9507,7 @@
 0.0.0.0 expelpoucey.com
 0.0.0.0 expelsleeken.website
 0.0.0.0 expendituredefeated.com
+0.0.0.0 expensestumble.top
 0.0.0.0 expertcamomile.com
 0.0.0.0 expertnifg.com
 0.0.0.0 experts-gossip.com
@@ -11870,6 +11875,7 @@
 0.0.0.0 halkie.com
 0.0.0.0 hallalifondish.space
 0.0.0.0 halleyperson.pro
+0.0.0.0 halloweeninthecastro.com
 0.0.0.0 halltrasy.com
 0.0.0.0 hallucinatecompute.com
 0.0.0.0 hallucinatepromise.com
@@ -13643,6 +13649,7 @@
 0.0.0.0 jaggiertridii.com
 0.0.0.0 jagoketik.com
 0.0.0.0 jahajraj.in
+0.0.0.0 jahbsjdawdw88.monster
 0.0.0.0 jailabridge.com
 0.0.0.0 jailershowmen.com
 0.0.0.0 jainaritzily.com
@@ -15719,6 +15726,7 @@
 0.0.0.0 m-rtb.com
 0.0.0.0 m-shes.ru
 0.0.0.0 m-trk.online
+0.0.0.0 m.expensestumble.top
 0.0.0.0 m.www.yourbestlandever.com
 0.0.0.0 m0hcppadsnq8.com
 0.0.0.0 m2.ai
@@ -19126,6 +19134,7 @@
 0.0.0.0 pasxfixs.com
 0.0.0.0 patalogs.com
 0.0.0.0 patchovercome.com
+0.0.0.0 patentanz.com
 0.0.0.0 paternalhumiliate.com
 0.0.0.0 patgsrv.com
 0.0.0.0 pathloaded.com
@@ -22604,6 +22613,8 @@
 0.0.0.0 sdasasyydd.com
 0.0.0.0 sdbvveonb1.com
 0.0.0.0 sdhfbvd.com
+0.0.0.0 sdjhfsjdfii7.monster
+0.0.0.0 sdjhsbjdfsdf6.monster
 0.0.0.0 sdkfjxjertertry.com
 0.0.0.0 sdnihyxlqiws.com
 0.0.0.0 sdnygannce.com
@@ -24760,6 +24771,7 @@
 0.0.0.0 tbmlrwprmprtd.xyz
 0.0.0.0 tboscoin.com
 0.0.0.0 tbplcam.com
+0.0.0.0 tbpolicylab.org
 0.0.0.0 tbtcolat.com
 0.0.0.0 tc.reachicepick.com
 0.0.0.0 tcaadwa.com
@@ -25070,6 +25082,7 @@
 0.0.0.0 thecred.info
 0.0.0.0 thecrypto-genius.net
 0.0.0.0 thecurtainied.xyz
+0.0.0.0 thedecentralizedalliance.org
 0.0.0.0 thediabeticdialysiscook.com
 0.0.0.0 thedietingdietitian.com
 0.0.0.0 thedigitalmaniac.online
@@ -25961,6 +25974,7 @@
 0.0.0.0 tradeinbox.uk
 0.0.0.0 tradeinvesthub.com
 0.0.0.0 tradekalshi.com
+0.0.0.0 trademarkanz.com
 0.0.0.0 traderinbox.uk
 0.0.0.0 tradey.market
 0.0.0.0 tradguitarlessons.com
@@ -29096,6 +29110,7 @@
 0.0.0.0 www.accordaudienceeducational.com
 0.0.0.0 www.accreditation-services.co.uk
 0.0.0.0 www.accusationankle.com
+0.0.0.0 www.acediscover.com
 0.0.0.0 www.acernismedical.com
 0.0.0.0 www.achyrepeatitchy.com
 0.0.0.0 www.acrossheadquartersanchovy.com
@@ -29255,6 +29270,7 @@
 0.0.0.0 www.bagsmartname.com
 0.0.0.0 www.bakeryembedded.com
 0.0.0.0 www.balajinetworks.com
+0.0.0.0 www.balamakina.com
 0.0.0.0 www.balloonnails.com
 0.0.0.0 www.balsnehi.com
 0.0.0.0 www.bamcoltd.in
@@ -30031,6 +30047,7 @@
 0.0.0.0 www.happybabygames.com
 0.0.0.0 www.happywombat.net
 0.0.0.0 www.harborpte.com
+0.0.0.0 www.hardboiledraspexisting.com
 0.0.0.0 www.harlanbullock.com
 0.0.0.0 www.harshlygiraffediscover.com
 0.0.0.0 www.harsik.am
@@ -30073,6 +30090,7 @@
 0.0.0.0 www.hornbakergardens.com
 0.0.0.0 www.horsesafaris.in
 0.0.0.0 www.hostaric.live
+0.0.0.0 www.hotelbowfeast.com
 0.0.0.0 www.houseworkproductdeplete.com
 0.0.0.0 www.hpinno.org
 0.0.0.0 www.hputigroup.com
@@ -30160,6 +30178,7 @@
 0.0.0.0 www.installmentloanvatv.org
 0.0.0.0 www.installwasd.com
 0.0.0.0 www.instancetonsil.com
+0.0.0.0 www.institutepigeonsfinger.com
 0.0.0.0 www.instructorstudied.com
 0.0.0.0 www.intactscattered.com
 0.0.0.0 www.integertenantcontinue.com
@@ -30288,6 +30307,7 @@
 0.0.0.0 www.largegiganticcounting.com
 0.0.0.0 www.laughtermation.com
 0.0.0.0 www.launchreliantcleaver.com
+0.0.0.0 www.lavatorybrandnew.com
 0.0.0.0 www.lawstreetindia.com
 0.0.0.0 www.layingprocuregather.com
 0.0.0.0 www.lazypeacefullyutterly.com
@@ -30613,7 +30633,9 @@
 0.0.0.0 www.phoenixcontractorsolutions.com
 0.0.0.0 www.phonegametips.com
 0.0.0.0 www.photographediblefiend.com
+0.0.0.0 www.photographingmiddleagedsuccessive.com
 0.0.0.0 www.physicalblueberry.com
+0.0.0.0 www.physiqueusualconsulting.com
 0.0.0.0 www.pickupfaxmultitude.com
 0.0.0.0 www.pictureoutwardaltitude.com
 0.0.0.0 www.pieldeminotauro.com
@@ -30706,6 +30728,7 @@
 0.0.0.0 www.pronajmisi.me
 0.0.0.0 www.propelsanctuaryteapot.com
 0.0.0.0 www.prosecutevein.com
+0.0.0.0 www.prosecutorlorry.com
 0.0.0.0 www.protectheader.com
 0.0.0.0 www.protectionabate.com
 0.0.0.0 www.protectspokesmancalendar.com
@@ -31023,6 +31046,7 @@
 0.0.0.0 www.stld2014.com
 0.0.0.0 www.stoolsymphony.com
 0.0.0.0 www.stopsrepetitious.com
+0.0.0.0 www.storagelassitudeblend.com
 0.0.0.0 www.stowsentimental.com
 0.0.0.0 www.strategicattacksstudied.com
 0.0.0.0 www.strickenenergetic.com
@@ -31210,6 +31234,7 @@
 0.0.0.0 www.unloadpoetry.com
 0.0.0.0 www.unluckywashing.com
 0.0.0.0 www.unpackalwaysdearest.com
+0.0.0.0 www.unpackgreaterbulk.com
 0.0.0.0 www.unpredictablehateagent.com
 0.0.0.0 www.unusualwalkmugged.com
 0.0.0.0 www.upnpups.com
@@ -32246,6 +32271,7 @@
 0.0.0.0 zanjabeelkw.com
 0.0.0.0 zanjerotrippet.website
 0.0.0.0 zaparena.com
+0.0.0.0 zapatosclarksespana.com
 0.0.0.0 zapcargousa.com
 0.0.0.0 zapdescendant.com
 0.0.0.0 zaphakesleigh.com
@@ -32389,6 +32415,7 @@
 0.0.0.0 zivohfmh.com
 0.0.0.0 ziwyduke.xyz
 0.0.0.0 zizoxozoox.com
+0.0.0.0 zjd842.com
 0.0.0.0 zjkypuacaawx.com
 0.0.0.0 zjo0tjqpm1.com
 0.0.0.0 zkczzltlhp6y.com
