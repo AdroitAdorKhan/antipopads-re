@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.021
 # Release: 021
-# Entries: 32,379
-# Updated: Sat, 21 Jan 23 10:08:02 +06
+# Entries: 32,380
+# Updated: Sat, 21 Jan 23 12:08:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8992,6 +8992,7 @@
 0.0.0.0 employerarab.com
 0.0.0.0 employerpartingbikini.com
 0.0.0.0 empowered4all.org
+0.0.0.0 empoweringhumanitybytaf.org
 0.0.0.0 empreendedora.top
 0.0.0.0 emptim.com
 0.0.0.0 emptivetss.space
