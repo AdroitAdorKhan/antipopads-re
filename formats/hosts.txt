@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.022
 # Release: 022
-# Entries: 32,681
-# Updated: Sun, 22 Jan 23 12:08:03 +06
+# Entries: 32,689
+# Updated: Sun, 22 Jan 23 14:07:58 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6460,6 +6460,7 @@
 0.0.0.0 codezap.com
 0.0.0.0 codojo.net
 0.0.0.0 codplex.com
+0.0.0.0 codwide.com
 0.0.0.0 coedmediagroup.com
 0.0.0.0 coefficientpayslipssuicide.com
 0.0.0.0 coeliacclung.com
@@ -16319,6 +16320,7 @@
 0.0.0.0 membersfifteenthintent.com
 0.0.0.0 memopilot.com
 0.0.0.0 memorandumdismissquietly.com
+0.0.0.0 memotype.net
 0.0.0.0 memunjcvfv.xyz
 0.0.0.0 menchumble.guru
 0.0.0.0 mendoledresden.com
@@ -18636,6 +18638,7 @@
 0.0.0.0 orchivebooks.co.uk
 0.0.0.0 orcjagpox.com
 0.0.0.0 orcundemir.com
+0.0.0.0 ordemparanormalrpg.com
 0.0.0.0 order-maximrestaurant.ca
 0.0.0.0 orderramsouthcarolina.com
 0.0.0.0 orderz.lol
@@ -23531,6 +23534,7 @@
 0.0.0.0 smallelboswore.xyz
 0.0.0.0 smallestunrealilliterate.com
 0.0.0.0 smallfunnybears.com
+0.0.0.0 smallgameshunting.com
 0.0.0.0 smalltiberbridge.com
 0.0.0.0 smart-building.cloud
 0.0.0.0 smart-name.pro
@@ -24757,6 +24761,7 @@
 0.0.0.0 takiparkrb.site
 0.0.0.0 takychasing.com
 0.0.0.0 talamk3.beauty
+0.0.0.0 talblogs.org
 0.0.0.0 talkchess.org
 0.0.0.0 talkmego.com
 0.0.0.0 talliedhorrors.digital
@@ -27938,6 +27943,7 @@
 0.0.0.0 vivemomentos.com
 0.0.0.0 vivi-enterprises.com
 0.0.0.0 vivilabs.com
+0.0.0.0 vivrevi.in
 0.0.0.0 vixdcmmwj.com
 0.0.0.0 vixoafte.xyz
 0.0.0.0 vixtream.net
@@ -29650,6 +29656,7 @@
 0.0.0.0 www.cockophile.com
 0.0.0.0 www.coconutsoftenedput.com
 0.0.0.0 www.codedtec.co.uk
+0.0.0.0 www.codwide.com
 0.0.0.0 www.coefficientpayslipssuicide.com
 0.0.0.0 www.coffeesinceunwanted.com
 0.0.0.0 www.cognateparsley.com
@@ -30561,6 +30568,7 @@
 0.0.0.0 www.mega-offers.net
 0.0.0.0 www.melisko.online
 0.0.0.0 www.memorandumdismissquietly.com
+0.0.0.0 www.memotype.net
 0.0.0.0 www.mentallychristeningwearisome.com
 0.0.0.0 www.mentoris.online
 0.0.0.0 www.merakiclayjewelry.com
