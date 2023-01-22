@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.023
 # Release: 023
-# Entries: 32,941
-# Updated: Mon, 23 Jan 23 02:08:17 +06
+# Entries: 32,954
+# Updated: Mon, 23 Jan 23 04:08:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1503,6 +1503,7 @@
 0.0.0.0 adherenceprosperous.com
 0.0.0.0 adherencestated.com
 0.0.0.0 adhimunc.com
+0.0.0.0 adhub.digital
 0.0.0.0 adhubbd.com
 0.0.0.0 adhunt.net
 0.0.0.0 adimmix.com
@@ -3580,6 +3581,7 @@
 0.0.0.0 awakeexterior.com
 0.0.0.0 awakeningmasters.com
 0.0.0.0 awakeningmindbodyspirit.com
+0.0.0.0 awaltundo.com
 0.0.0.0 awarebit.com
 0.0.0.0 awasrqp.xyz
 0.0.0.0 away-stay.com
@@ -7528,6 +7530,7 @@
 0.0.0.0 dchoseitfromt.com.ua
 0.0.0.0 dcjfebjtkwjb.xyz
 0.0.0.0 dcoifqpsjpg.xyz
+0.0.0.0 dcovesaysh.xyz
 0.0.0.0 dctipshax.xyz
 0.0.0.0 dcynwezfon.com
 0.0.0.0 dcyohrarsa.com
@@ -12187,6 +12190,7 @@
 0.0.0.0 heathertravelledpast.com
 0.0.0.0 heatlyanalytics.com
 0.0.0.0 heavenly-test.pro
+0.0.0.0 heavie.land
 0.0.0.0 heavig.com
 0.0.0.0 heavilyalacrity.com
 0.0.0.0 heavyrnews.name
@@ -12782,6 +12786,7 @@
 0.0.0.0 hunter-hub.com
 0.0.0.0 huntingarroyo.website
 0.0.0.0 huntingmutinousindiscreet.com
+0.0.0.0 huobi.ong
 0.0.0.0 huppahshoras.com
 0.0.0.0 huqcbpcqbijhxd.com
 0.0.0.0 hurajp.net
@@ -14089,6 +14094,7 @@
 0.0.0.0 jonaswhittier.top
 0.0.0.0 jonathansofoakville.com
 0.0.0.0 jonaur.com
+0.0.0.0 joncoghill.info
 0.0.0.0 joodoush.com
 0.0.0.0 joogivestou.com
 0.0.0.0 joomlink.com
@@ -17744,6 +17750,7 @@
 0.0.0.0 niwooghu.com
 0.0.0.0 nixopho.com
 0.0.0.0 nixops.me
+0.0.0.0 niyamabusiest.casa
 0.0.0.0 niyigo.xyz
 0.0.0.0 nization.com
 0.0.0.0 nizationsuch.com
@@ -18535,6 +18542,7 @@
 0.0.0.0 onclklnd.com
 0.0.0.0 oncomeannuals.com
 0.0.0.0 oncomingpainless.com
+0.0.0.0 ondbarrowat.xyz
 0.0.0.0 ondeerlingan.com
 0.0.0.0 ondemandautos.com
 0.0.0.0 onderc07.net
@@ -18574,6 +18582,7 @@
 0.0.0.0 onetrackesolution.com
 0.0.0.0 onetwohub.com
 0.0.0.0 onevenadvllc.com
+0.0.0.0 onfcwaif.xyz
 0.0.0.0 onfreedom.ru
 0.0.0.0 ongaromusket.com
 0.0.0.0 ongastlya.com
@@ -22991,6 +23000,7 @@
 0.0.0.0 selectmedia.asia
 0.0.0.0 selectr.net
 0.0.0.0 selfasheode.work
+0.0.0.0 selfassesmrntbradford.co.uk
 0.0.0.0 selfconfidencecap.com
 0.0.0.0 selfcontrolenquirytyran.com
 0.0.0.0 selfemployedbalconycane.com
@@ -25014,6 +25024,7 @@
 0.0.0.0 tastingraise.com
 0.0.0.0 tasty-election.com
 0.0.0.0 tata-games.biz
+0.0.0.0 tata-play-smart-secure.info
 0.0.0.0 tata-play.org
 0.0.0.0 tata-playhomesecure.live
 0.0.0.0 tata-playsmartsecure.info
@@ -25032,6 +25043,7 @@
 0.0.0.0 tataplaypvr.org
 0.0.0.0 tataplayrecharge.org
 0.0.0.0 tataplaysecure.info
+0.0.0.0 tataplaywallet.info
 0.0.0.0 tataplaywallet.net
 0.0.0.0 tataplaywizkids.org
 0.0.0.0 tataplaywizteens.org
@@ -32764,6 +32776,7 @@
 0.0.0.0 zepazupi.com
 0.0.0.0 zepihoju.xyz
 0.0.0.0 zer1ads.com
+0.0.0.0 zerbei.com
 0.0.0.0 zerg.pro
 0.0.0.0 zeroidtech.com
 0.0.0.0 zeropeace.top
