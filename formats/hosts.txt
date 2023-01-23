@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.023
 # Release: 023
-# Entries: 32,979
-# Updated: Mon, 23 Jan 23 10:12:23 +06
+# Entries: 32,983
+# Updated: Mon, 23 Jan 23 12:11:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14589,6 +14589,7 @@
 0.0.0.0 kirgatch.com
 0.0.0.0 kirgeemo.com
 0.0.0.0 kirnscraps.com
+0.0.0.0 kissasian.ac
 0.0.0.0 kissmenowcosmetics.co
 0.0.0.0 kissoffering.com
 0.0.0.0 kistutch.net
@@ -20733,6 +20734,7 @@
 0.0.0.0 ptoockee.net
 0.0.0.0 ptookaih.net
 0.0.0.0 ptoosteg.com
+0.0.0.0 ptoowhou.com
 0.0.0.0 ptougain.com
 0.0.0.0 ptoumsid.net
 0.0.0.0 ptoushoa.com
@@ -24037,6 +24039,7 @@
 0.0.0.0 sparkle-industries-i-205.site
 0.0.0.0 sparklesocketsufficiently.com
 0.0.0.0 sparkling-decision.pro
+0.0.0.0 sparksdozzled.guru
 0.0.0.0 sparksne.com
 0.0.0.0 sparkstudios.com
 0.0.0.0 sparsh.info
@@ -26871,6 +26874,7 @@
 0.0.0.0 turboadv.com
 0.0.0.0 turbocap.net
 0.0.0.0 turboluck.net
+0.0.0.0 turbospeeder.com
 0.0.0.0 turf1lighting.com
 0.0.0.0 turfedtaboret.com
 0.0.0.0 turfnf.com
