@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.023
 # Release: 023
-# Entries: 32,976
-# Updated: Mon, 23 Jan 23 08:16:57 +06
+# Entries: 32,979
+# Updated: Mon, 23 Jan 23 10:12:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10282,6 +10282,7 @@
 0.0.0.0 flameorganizer.com
 0.0.0.0 flamingsubdivideprominent.com
 0.0.0.0 flanebiriba.guru
+0.0.0.0 flankertechnology.com
 0.0.0.0 flapnoncommittal.com
 0.0.0.0 flashclicks.com
 0.0.0.0 flashesmouches.store
@@ -25804,6 +25805,7 @@
 0.0.0.0 tipitapa.org
 0.0.0.0 tipsembankment.com
 0.0.0.0 tipsklub.com
+0.0.0.0 tipstoeveryone.in
 0.0.0.0 tipstrickphoto.com
 0.0.0.0 tipsypoll.com
 0.0.0.0 tipsyquest.com
@@ -30298,6 +30300,7 @@
 0.0.0.0 www.fizzystrm.com
 0.0.0.0 www.flakesrental.com
 0.0.0.0 www.flamingsubdivideprominent.com
+0.0.0.0 www.flankertechnology.com
 0.0.0.0 www.flavourpilotwing.com
 0.0.0.0 www.flaxlistedleague.com
 0.0.0.0 www.fleabutton.com
