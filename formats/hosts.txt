@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.023
 # Release: 023
-# Entries: 32,983
-# Updated: Mon, 23 Jan 23 12:11:49 +06
+# Entries: 32,994
+# Updated: Mon, 23 Jan 23 14:09:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13917,6 +13917,7 @@
 0.0.0.0 jeetbuzz.one
 0.0.0.0 jeetyetmedia.com
 0.0.0.0 jefashivy.com
+0.0.0.0 jeffclarkpaydirt.com
 0.0.0.0 jeffstrategic.com
 0.0.0.0 jehealis.com
 0.0.0.0 jehobsee.com
@@ -17900,6 +17901,10 @@
 0.0.0.0 northcreekcommerce.com
 0.0.0.0 northislandtonewoods.com
 0.0.0.0 northmay.com
+0.0.0.0 northwestpharmacy.pm
+0.0.0.0 northwestpharmacy.re
+0.0.0.0 northwestpharmacy.wf
+0.0.0.0 northwestpharmacy.yt
 0.0.0.0 nortue.com
 0.0.0.0 norwichyogaroom.uk
 0.0.0.0 nosaul.com
@@ -30642,6 +30647,7 @@
 0.0.0.0 www.jeerinfluencemedical.com
 0.0.0.0 www.jeetbuzz.one
 0.0.0.0 www.jefashivy.com
+0.0.0.0 www.jeffclarkpaydirt.com
 0.0.0.0 www.jennijonesmusic.com
 0.0.0.0 www.jennyvisits.com
 0.0.0.0 www.jeremylubbock.co
@@ -30946,6 +30952,10 @@
 0.0.0.0 www.noorjewelrygallery.com
 0.0.0.0 www.northcoastcrm.com
 0.0.0.0 www.northislandtonewoods.com
+0.0.0.0 www.northwestpharmacy.pm
+0.0.0.0 www.northwestpharmacy.re
+0.0.0.0 www.northwestpharmacy.wf
+0.0.0.0 www.northwestpharmacy.yt
 0.0.0.0 www.nostrilquarryprecursor.com
 0.0.0.0 www.notallowedscript6222f43ba7acegooglesyndication.com
 0.0.0.0 www.nurserylydia.com
@@ -32336,6 +32346,7 @@
 0.0.0.0 yatdykmngdhjm.xyz
 0.0.0.0 yathi.xyz
 0.0.0.0 yauryqvecn.com
+0.0.0.0 yavli.com
 0.0.0.0 yawcoynag.com
 0.0.0.0 yawpslaputan.life
 0.0.0.0 yazaral20.net
