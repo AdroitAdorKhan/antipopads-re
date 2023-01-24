@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.024
 # Release: 024
-# Entries: 33,252
-# Updated: Tue, 24 Jan 23 12:07:33 +06
+# Entries: 33,256
+# Updated: Tue, 24 Jan 23 14:12:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11691,6 +11691,7 @@
 0.0.0.0 govbusi.info
 0.0.0.0 govels.com
 0.0.0.0 governessmagnituderecoil.com
+0.0.0.0 governorretired.com
 0.0.0.0 goverua.com
 0.0.0.0 goverytra.com
 0.0.0.0 govowhaca.com
@@ -12535,6 +12536,7 @@
 0.0.0.0 hiredpetro.com
 0.0.0.0 hisens.de
 0.0.0.0 histats.com
+0.0.0.0 histats.me
 0.0.0.0 historicalcarawayammonia.com
 0.0.0.0 historine.website
 0.0.0.0 histormedengi.xyz
@@ -16944,6 +16946,7 @@
 0.0.0.0 mobuppsrtb.xml-v4.ak-is2.net
 0.0.0.0 mocean.mobi
 0.0.0.0 mockedslavify.website
+0.0.0.0 mockroxket.io
 0.0.0.0 mocmubse.net
 0.0.0.0 modeledresawer.store
 0.0.0.0 modelwhite.com
@@ -29220,6 +29223,7 @@
 0.0.0.0 widowstercio.life
 0.0.0.0 widton.com
 0.0.0.0 wifhnbtckyjqbbd.com
+0.0.0.0 wififrecce.it
 0.0.0.0 wifitool.net
 0.0.0.0 wigandmitre.pub
 0.0.0.0 wigetmedia.com
