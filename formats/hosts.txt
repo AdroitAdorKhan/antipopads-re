@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.025
 # Release: 025
-# Entries: 33,574
-# Updated: Wed, 25 Jan 23 18:08:06 +06
+# Entries: 33,610
+# Updated: Wed, 25 Jan 23 20:14:01 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -241,6 +241,7 @@
 0.0.0.0 1gldnstrofhkybypdsknubjobaleestranre24.com
 0.0.0.0 1gnyn1v3ak78.com
 0.0.0.0 1hbxjdhfasd1.monster
+0.0.0.0 1helixdowns1.com
 0.0.0.0 1hg1088.com
 0.0.0.0 1hrapsiw1.com
 0.0.0.0 1hx60gjebbfr.com
@@ -457,6 +458,7 @@
 0.0.0.0 2tpwcqot22mb.com
 0.0.0.0 2track.info
 0.0.0.0 2vid.top
+0.0.0.0 2wetrsohelix.com
 0.0.0.0 2x2mfeed.com
 0.0.0.0 3-arabi.com
 0.0.0.0 3-mobiappu.com
@@ -887,6 +889,8 @@
 0.0.0.0 7tpw.com
 0.0.0.0 7wa.me
 0.0.0.0 7wtic7ru.com
+0.0.0.0 7zip-archiver.top
+0.0.0.0 7zip-lab.top
 0.0.0.0 80c7aeb9f3.106c6423c3.com
 0.0.0.0 810f3cd649.c9072c600c.com
 0.0.0.0 811d0a760a.ca3362de0f.com
@@ -3022,6 +3026,7 @@
 0.0.0.0 archipelagowiped.com
 0.0.0.0 architectwithdraw.com
 0.0.0.0 archiveofuorown.org
+0.0.0.0 archiver-7zip.top
 0.0.0.0 archivesheliumangeles.com
 0.0.0.0 archivesleadership.com
 0.0.0.0 archspytagmeme.guru
@@ -4854,6 +4859,7 @@
 0.0.0.0 bodiff.com
 0.0.0.0 bodilywondering.com
 0.0.0.0 bodisc.com
+0.0.0.0 bodroom.co.uk
 0.0.0.0 bodrumshuttle.net
 0.0.0.0 bodsoakr.xyz
 0.0.0.0 bodyofpossibility.co.uk
@@ -5788,6 +5794,7 @@
 0.0.0.0 cddcda.com
 0.0.0.0 cdjgtfq.com
 0.0.0.0 cdl-management.info
+0.0.0.0 cdn-download.top
 0.0.0.0 cdn-server.cc
 0.0.0.0 cdn-server.top
 0.0.0.0 cdn.1uckyme.net
@@ -6656,6 +6663,7 @@
 0.0.0.0 collectivemath.org
 0.0.0.0 collectloopblown.com
 0.0.0.0 collectmpmusic.xyz
+0.0.0.0 collecto-polis.co.uk
 0.0.0.0 collecto-polis.uk
 0.0.0.0 collectopolis.uk
 0.0.0.0 collector-cps-live.omnitrend.biz
@@ -8499,9 +8507,11 @@
 0.0.0.0 downelink.nyc
 0.0.0.0 download-file.org
 0.0.0.0 download-performance.com
+0.0.0.0 download-pool.top
 0.0.0.0 download-portal.net
 0.0.0.0 download-ready.net
 0.0.0.0 download-readynow.com
+0.0.0.0 download-rufus.top
 0.0.0.0 downloadboutique.com
 0.0.0.0 downloader1.com
 0.0.0.0 downloadfullfile.info
@@ -8951,6 +8961,7 @@
 0.0.0.0 ecound.com
 0.0.0.0 ecpmrocks.com
 0.0.0.0 ecpms.net
+0.0.0.0 ecran-artistes.com
 0.0.0.0 ecthymaalgodon.com
 0.0.0.0 ectinhoratio.lol
 0.0.0.0 ectresulto.com
@@ -15631,6 +15642,8 @@
 0.0.0.0 lightlygavetusk.com
 0.0.0.0 lightlyrelinquish.com
 0.0.0.0 lightningcast.net
+0.0.0.0 lightshoot.top
+0.0.0.0 lightshot-screen.top
 0.0.0.0 lightssyrupdecree.com
 0.0.0.0 ligninenchant.com
 0.0.0.0 ligulaeideated.guru
@@ -16625,6 +16638,7 @@
 0.0.0.0 media-sapiens.com
 0.0.0.0 media-servers.net
 0.0.0.0 media-serving.com
+0.0.0.0 media-vlc.top
 0.0.0.0 media6degrees.com
 0.0.0.0 media970.com
 0.0.0.0 mediaappletree.com
@@ -18256,6 +18270,7 @@
 0.0.0.0 novartensemble.com
 0.0.0.0 novelas360.cc
 0.0.0.0 novellhost.com
+0.0.0.0 novelshark.top
 0.0.0.0 novelty.media
 0.0.0.0 november-lax.com
 0.0.0.0 novemberswan.asia
@@ -21728,6 +21743,8 @@
 0.0.0.0 rapiet.com
 0.0.0.0 rapite.com
 0.0.0.0 raptapee.com
+0.0.0.0 rar-archiver.top
+0.0.0.0 rar-lab.top
 0.0.0.0 rarath.com
 0.0.0.0 rareghoa.net
 0.0.0.0 rareinsane.com
@@ -22572,6 +22589,7 @@
 0.0.0.0 rollected.com
 0.0.0.0 rollersadnessstranded.com
 0.0.0.0 rollmeout.xyz
+0.0.0.0 rollupgarageessex.co.uk
 0.0.0.0 rollupgarageessex.uk
 0.0.0.0 romagetukio.xyz
 0.0.0.0 romalitod.com
@@ -22796,6 +22814,7 @@
 0.0.0.0 rufodeey.net
 0.0.0.0 rufoxhd.com
 0.0.0.0 ruftodru.net
+0.0.0.0 rufus-download.top
 0.0.0.0 rugbymentalads.com
 0.0.0.0 rugefinu.net
 0.0.0.0 ruggownsawlog.cam
@@ -23897,6 +23916,7 @@
 0.0.0.0 silverlifehomes.com
 0.0.0.0 silversecurity.in
 0.0.0.0 silverundergofold.com
+0.0.0.0 silverwoodrecyclery.com
 0.0.0.0 silvialeonesrealtor.com
 0.0.0.0 simaowilliams.com
 0.0.0.0 simbiworks.org
@@ -23979,6 +23999,7 @@
 0.0.0.0 siterdm.com
 0.0.0.0 sitesify.net
 0.0.0.0 sitewithg.com
+0.0.0.0 sitf.top
 0.0.0.0 sitiosaojorge.com.br
 0.0.0.0 sitisaoukn.com
 0.0.0.0 sitiveadditio.biz
@@ -24287,6 +24308,7 @@
 0.0.0.0 sofcryingfo.xyz
 0.0.0.0 sofinpushpile.com
 0.0.0.0 soft-com.biz
+0.0.0.0 soft-rufus.top
 0.0.0.0 soft4dle.com
 0.0.0.0 softballwaiting.com
 0.0.0.0 softbox.fun
@@ -25699,6 +25721,7 @@
 0.0.0.0 terhousoopeuk.work
 0.0.0.0 terialnevitiesini.com
 0.0.0.0 termadodad.com
+0.0.0.0 terminal-tradingview.top
 0.0.0.0 terminaldeipiales.com
 0.0.0.0 terminargal.com
 0.0.0.0 terminuspaganscience.com
@@ -25815,6 +25838,7 @@
 0.0.0.0 theapple.site
 0.0.0.0 theartventure.co.uk
 0.0.0.0 theasian.tech
+0.0.0.0 theatomikbomb.com
 0.0.0.0 theatrialmero.club
 0.0.0.0 theatronproductions.com
 0.0.0.0 theautopeoplereport.com
@@ -25878,6 +25902,7 @@
 0.0.0.0 thegatheringtype.net
 0.0.0.0 thegirlfriendsbrunch.com
 0.0.0.0 theglossonline.com
+0.0.0.0 thegreatestguyintheworld.com
 0.0.0.0 thegreatindiastory.com
 0.0.0.0 thegreenheroindia.org
 0.0.0.0 thegreenside.co.za
@@ -25964,6 +25989,7 @@
 0.0.0.0 theporn293.cc
 0.0.0.0 thepreneurnetwork.com
 0.0.0.0 theprintquarter.com
+0.0.0.0 thepromisedlanduk.com
 0.0.0.0 theproperprepper.com
 0.0.0.0 thequalitygroup.biz
 0.0.0.0 therapistpopulationcommentary.com
@@ -26004,6 +26030,7 @@
 0.0.0.0 thetodapp.com
 0.0.0.0 thetoughofthetrack.co.uk
 0.0.0.0 thetrendyjournal.com
+0.0.0.0 thetruthaboutplasticbags.com
 0.0.0.0 thetruthbehindthepost.org
 0.0.0.0 theusualsuspects.biz
 0.0.0.0 theuxurycloset.com
@@ -26768,10 +26795,12 @@
 0.0.0.0 tradey.market
 0.0.0.0 tradguitarlessons.com
 0.0.0.0 trading-pits.com
+0.0.0.0 trading-terminal.top
 0.0.0.0 trading21s.com
 0.0.0.0 tradinggamesnft.com
 0.0.0.0 tradingpro360.com
 0.0.0.0 tradingtees-us.xyz
+0.0.0.0 tradingview-terminal.top
 0.0.0.0 traditionallymeasuringwire.com
 0.0.0.0 traditionallyobjectlessblinked.com
 0.0.0.0 traditionsmokers.com
@@ -28057,6 +28086,7 @@
 0.0.0.0 utilityarborists.co.uk
 0.0.0.0 utillib.xyz
 0.0.0.0 utipmjay.com
+0.0.0.0 utipmjay.org
 0.0.0.0 utkblrilbsjbjua.com
 0.0.0.0 utmostsecond.com
 0.0.0.0 utndln.com
@@ -28673,6 +28703,8 @@
 0.0.0.0 vladikin.dev
 0.0.0.0 vladimirtheterrible.ru
 0.0.0.0 vlasoff.net
+0.0.0.0 vlc-media.top
+0.0.0.0 vlc-mediaplayer.top
 0.0.0.0 vldlueibomhp.top
 0.0.0.0 vliplatform.com
 0.0.0.0 vlitag.com
@@ -29522,6 +29554,8 @@
 0.0.0.0 winpbn.com
 0.0.0.0 winr.online
 0.0.0.0 winr4all.com
+0.0.0.0 winrar-archiver.top
+0.0.0.0 winrar-lab.top
 0.0.0.0 wins4d-tergacor.world
 0.0.0.0 winterlabs.tech
 0.0.0.0 winternewsnow.name
@@ -29767,6 +29801,7 @@
 0.0.0.0 wovazaix.com
 0.0.0.0 wovensur.com
 0.0.0.0 wowcamper.com
+0.0.0.0 wowdevhorus.com
 0.0.0.0 wowebahugoo.com
 0.0.0.0 wowjogsot.com
 0.0.0.0 wowlnk.com
@@ -32942,6 +32977,7 @@
 0.0.0.0 yealnk.com
 0.0.0.0 yeaonesad.com
 0.0.0.0 yearbookhobblespinal.com
+0.0.0.0 yeargrooty.digital
 0.0.0.0 yearil.com
 0.0.0.0 yearlingpreferablyperiods.com
 0.0.0.0 yearlylight.com
