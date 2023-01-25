@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.025
 # Release: 025
-# Entries: 33,476
-# Updated: Wed, 25 Jan 23 08:11:00 +06
+# Entries: 33,510
+# Updated: Wed, 25 Jan 23 10:08:04 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2879,6 +2879,7 @@
 0.0.0.0 apollodental.care
 0.0.0.0 apollohealthcare.hospital
 0.0.0.0 apollohl.care
+0.0.0.0 apollohl.hospital
 0.0.0.0 apollomedicalcentre.health
 0.0.0.0 apollosugar.care
 0.0.0.0 apollosugar.health
@@ -7682,6 +7683,7 @@
 0.0.0.0 dealingprivacybrakes.com
 0.0.0.0 dealsfor.life
 0.0.0.0 dealtsowbite.com
+0.0.0.0 dean.scot
 0.0.0.0 dearestimmortality.com
 0.0.0.0 death2americaallahuakbar.com
 0.0.0.0 debadu.com
@@ -8570,6 +8572,7 @@
 0.0.0.0 drivewayilluminatedconstitute.com
 0.0.0.0 drivewayperrydrought.com
 0.0.0.0 drivewayspecialistsbath.uk
+0.0.0.0 drivewayssuffolk.uk
 0.0.0.0 drivingshoe.com
 0.0.0.0 drizzlerules.com
 0.0.0.0 drjgjngf.com
@@ -10348,6 +10351,7 @@
 0.0.0.0 firelnk.com
 0.0.0.0 firescorrelationprodigy.com
 0.0.0.0 firesteelcontracting.com
+0.0.0.0 firetail.in
 0.0.0.0 fireworkeighty.com
 0.0.0.0 fireworkspain.com
 0.0.0.0 firexclamation.com
@@ -12223,6 +12227,7 @@
 0.0.0.0 happilydestructive.com
 0.0.0.0 happy22kids.org
 0.0.0.0 happybabygames.com
+0.0.0.0 happyindianworld.com
 0.0.0.0 happypath.software
 0.0.0.0 happywombat.net
 0.0.0.0 haprjb.com
@@ -12356,6 +12361,7 @@
 0.0.0.0 headup.com
 0.0.0.0 headusuallyopener.com
 0.0.0.0 headyguin.com
+0.0.0.0 healingpatternsdesign.com
 0.0.0.0 healquite.com
 0.0.0.0 healsap.com
 0.0.0.0 health-tips-101.com
@@ -12420,12 +12426,14 @@
 0.0.0.0 helesandoral.com
 0.0.0.0 helic3oniusrcharithonia.com
 0.0.0.0 helicopterpilottraining.co.uk
+0.0.0.0 helicoptertoursinnepal.com
 0.0.0.0 heligh.com
 0.0.0.0 helixmoonz.com
 0.0.0.0 helixsun.net
 0.0.0.0 hellocaterersomeone.com
 0.0.0.0 hellodisappointedscuba.com
 0.0.0.0 hellosumit.tech
+0.0.0.0 hellouran.com
 0.0.0.0 helloworldstudios.uk
 0.0.0.0 helltraffic.com
 0.0.0.0 helodesdhoni.com
@@ -12453,6 +12461,7 @@
 0.0.0.0 hepare.com
 0.0.0.0 heparllasysy.xyz
 0.0.0.0 hepwdoqaseew.top
+0.0.0.0 herapearl.com
 0.0.0.0 heratheacle.com
 0.0.0.0 herbalsaint.com
 0.0.0.0 herbalsaint.in
@@ -13773,6 +13782,7 @@
 0.0.0.0 iptpuwllnhc.xyz
 0.0.0.0 iqbkkhhsgk.com
 0.0.0.0 iqtest365.online
+0.0.0.0 iqtics.co.in
 0.0.0.0 ir.mildlydoucely.com
 0.0.0.0 ira-aoe.de
 0.0.0.0 ira-rosenheim.de
@@ -14288,6 +14298,7 @@
 0.0.0.0 joex.info
 0.0.0.0 jogglyisohel.com
 0.0.0.0 johays.co
+0.0.0.0 johnsonsproperty.co.uk
 0.0.0.0 johntoritsemotse.com
 0.0.0.0 joicky.com
 0.0.0.0 join-admaven.com
@@ -14604,6 +14615,7 @@
 0.0.0.0 kathesygri.com
 0.0.0.0 katodaf.com
 0.0.0.0 katoptristhemirr.com
+0.0.0.0 katsrin.info
 0.0.0.0 katukaunamiss.com
 0.0.0.0 kaubapsy.com
 0.0.0.0 kaujouphosta.com
@@ -14738,6 +14750,7 @@
 0.0.0.0 khandragthresh.com
 0.0.0.0 khanjeecahoot.com
 0.0.0.0 khanjeeyapness.website
+0.0.0.0 kharibaat.live
 0.0.0.0 khayatarai.com
 0.0.0.0 khekwufgwbl.com
 0.0.0.0 khewwakrywmgxr.com
@@ -16045,6 +16058,7 @@
 0.0.0.0 lugaid-kal.com
 0.0.0.0 lugos-cla.com
 0.0.0.0 lugsatadf.com
+0.0.0.0 luizabel.com
 0.0.0.0 luizdev.com
 0.0.0.0 lukewardpt.co.uk
 0.0.0.0 lukpush.com
@@ -17187,6 +17201,7 @@
 0.0.0.0 mortgageadviserswarwickshire.co.uk
 0.0.0.0 mortifyincomparablepeek.com
 0.0.0.0 mortypush.com
+0.0.0.0 morvimakeupstudio.com
 0.0.0.0 moshimoshi-nippon-la.com
 0.0.0.0 moskalkova.com
 0.0.0.0 mosked.com
@@ -18075,6 +18090,7 @@
 0.0.0.0 nnourl.xyz
 0.0.0.0 nnpwqtrmbcf.com
 0.0.0.0 nntkcygnakehbxd.com
+0.0.0.0 no-photo-no-video.info
 0.0.0.0 no-response.website
 0.0.0.0 no-seriously.wtf
 0.0.0.0 no.daikonmomist.com
@@ -23613,6 +23629,7 @@
 0.0.0.0 sheenaup.net
 0.0.0.0 sheerdaulpusher.com
 0.0.0.0 sheeroop.com
+0.0.0.0 sheetalrefrigeration.org
 0.0.0.0 sheetchi.net
 0.0.0.0 sheewhatchu.com
 0.0.0.0 sheflewthecoop.com
@@ -24260,6 +24277,7 @@
 0.0.0.0 soksicme.com
 0.0.0.0 solacerebonist.uno
 0.0.0.0 solanadog.com
+0.0.0.0 solananet.com
 0.0.0.0 solapoka.com
 0.0.0.0 solarmosa.com
 0.0.0.0 solarpanelbatteries.uk
@@ -25534,6 +25552,7 @@
 0.0.0.0 techclicks.net
 0.0.0.0 techcoaches.co.uk
 0.0.0.0 techexpertcoder.tech
+0.0.0.0 techincal-ceramics.uk
 0.0.0.0 techiteration.com
 0.0.0.0 techlogixconsulting.info
 0.0.0.0 techmap.tech
@@ -30573,6 +30592,7 @@
 0.0.0.0 www.dreadfulprofitable.com
 0.0.0.0 www.driverpartially.com
 0.0.0.0 www.drivewayperrydrought.com
+0.0.0.0 www.drivewayssuffolk.uk
 0.0.0.0 www.drivingshoe.com
 0.0.0.0 www.droopberch.com
 0.0.0.0 www.drsengineers.com
@@ -30898,6 +30918,7 @@
 0.0.0.0 www.haofamily.net
 0.0.0.0 www.haphazardbleeding.com
 0.0.0.0 www.happybabygames.com
+0.0.0.0 www.happyindianworld.com
 0.0.0.0 www.happywombat.net
 0.0.0.0 www.harborpte.com
 0.0.0.0 www.hardboiledraspexisting.com
@@ -30909,13 +30930,17 @@
 0.0.0.0 www.hdfcergo.services
 0.0.0.0 www.headlightbailey.com
 0.0.0.0 www.headusuallyopener.com
+0.0.0.0 www.healingpatternsdesign.com
 0.0.0.0 www.healquite.com
 0.0.0.0 www.healthtracking.co
 0.0.0.0 www.heartedscatterbond.com
 0.0.0.0 www.heartilyscales.com
 0.0.0.0 www.heelseparateddistinguished.com
+0.0.0.0 www.helicoptertoursinnepal.com
 0.0.0.0 www.hellodisappointedscuba.com
+0.0.0.0 www.hellouran.com
 0.0.0.0 www.helpwithmybook.com
+0.0.0.0 www.herapearl.com
 0.0.0.0 www.herconsequence.com
 0.0.0.0 www.herebybondagesidenote.com
 0.0.0.0 www.hereditarylenientparents.com
@@ -31091,6 +31116,7 @@
 0.0.0.0 www.jkbrandmenswear.com
 0.0.0.0 www.joakopalomar.com
 0.0.0.0 www.jod-news1.club
+0.0.0.0 www.johnsonsproperty.co.uk
 0.0.0.0 www.johntoritsemotse.com
 0.0.0.0 www.joinnye.com
 0.0.0.0 www.joker327.xyz
@@ -31117,6 +31143,7 @@
 0.0.0.0 www.karaoke-list.com
 0.0.0.0 www.karikaturbul.com
 0.0.0.0 www.kartretail.com
+0.0.0.0 www.katsrin.info
 0.0.0.0 www.kdukvh.com
 0.0.0.0 www.kenafah.com
 0.0.0.0 www.kenmember.com
@@ -31230,6 +31257,7 @@
 0.0.0.0 www.lqcqhkgoer.com
 0.0.0.0 www.luciditymadeupfarfetched.com
 0.0.0.0 www.luckylk.com
+0.0.0.0 www.luizabel.com
 0.0.0.0 www.lullnominate.com
 0.0.0.0 www.lullpainlesssurfing.com
 0.0.0.0 www.lunchpaybackdarcy.com
@@ -31329,6 +31357,7 @@
 0.0.0.0 www.mopnatrestriction.com
 0.0.0.0 www.morrison-designs.com
 0.0.0.0 www.mortifyincomparablepeek.com
+0.0.0.0 www.morvimakeupstudio.com
 0.0.0.0 www.mostlytreasure.com
 0.0.0.0 www.motionsaucermentioned.com
 0.0.0.0 www.motivessuggest.com
@@ -31380,6 +31409,7 @@
 0.0.0.0 www.ngc9823.com
 0.0.0.0 www.nirala.ca
 0.0.0.0 www.nitrogenblissful.com
+0.0.0.0 www.no-photo-no-video.info
 0.0.0.0 www.noalts.tech
 0.0.0.0 www.noisybench.com
 0.0.0.0 www.nomadtricesurfing.com
@@ -31628,6 +31658,7 @@
 0.0.0.0 www.pursuitnauseousinvalid.com
 0.0.0.0 www.push-play.it
 0.0.0.0 www.push-services.com
+0.0.0.0 www.qatzrin.info
 0.0.0.0 www.qdcwml.top
 0.0.0.0 www.qdkcxp.net
 0.0.0.0 www.qhuqzw.top
@@ -31880,6 +31911,7 @@
 0.0.0.0 www.soakappequipment.com
 0.0.0.0 www.sodiumcupboard.com
 0.0.0.0 www.sohailcrack.com
+0.0.0.0 www.solananet.com
 0.0.0.0 www.solemnherald.com
 0.0.0.0 www.solemnmanarchie.com
 0.0.0.0 www.somediasolutions.com
@@ -31995,6 +32027,7 @@
 0.0.0.0 www.teamsperilous.com
 0.0.0.0 www.tearingflickermeaning.com
 0.0.0.0 www.tearingreasoningempower.com
+0.0.0.0 www.techincal-ceramics.uk
 0.0.0.0 www.technologycontemplate.com
 0.0.0.0 www.techtalk.tube
 0.0.0.0 www.techtech.tube
@@ -32236,6 +32269,7 @@
 0.0.0.0 www.winr4all.com
 0.0.0.0 www.wiseandclueless.com
 0.0.0.0 www.wishcart.shop
+0.0.0.0 www.wizardinthetower.com
 0.0.0.0 www.wokenoptionalcohabit.com
 0.0.0.0 www.womanalliance.xyz
 0.0.0.0 www.woodbeesdainty.com
