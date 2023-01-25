@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.025
 # Release: 025
-# Entries: 33,572
-# Updated: Wed, 25 Jan 23 16:12:25 +06
+# Entries: 33,574
+# Updated: Wed, 25 Jan 23 18:08:06 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13132,6 +13132,7 @@
 0.0.0.0 ibatom.com
 0.0.0.0 ibbkuhwgqawhvt.com
 0.0.0.0 ibdjdtmkq.xyz
+0.0.0.0 ibecma.com
 0.0.0.0 ibexcacaoboy.com
 0.0.0.0 ibfi.in
 0.0.0.0 ibikini.cyou
@@ -21196,6 +21197,7 @@
 0.0.0.0 purposelynextbinary.com
 0.0.0.0 purposeparking.com
 0.0.0.0 pursedistraught.com
+0.0.0.0 pursey.uk
 0.0.0.0 pursuing31.com
 0.0.0.0 pursuingconjunction.com
 0.0.0.0 pursuitnauseousinvalid.com
