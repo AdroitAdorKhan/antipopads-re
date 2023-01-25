@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.025
 # Release: 025
-# Entries: 33,534
-# Updated: Wed, 25 Jan 23 12:07:54 +06
+# Entries: 33,545
+# Updated: Wed, 25 Jan 23 14:11:34 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4974,6 +4974,7 @@
 0.0.0.0 bouncingbalconysuperior.com
 0.0.0.0 boundlozenge.com
 0.0.0.0 bountynasalbits.com
+0.0.0.0 bouptosaive.com
 0.0.0.0 bouqets.xyz
 0.0.0.0 bouquin-coquin.com
 0.0.0.0 bourranuncurbs.com
@@ -6200,6 +6201,7 @@
 0.0.0.0 church-water.com
 0.0.0.0 churchalexis.com
 0.0.0.0 churchillalmighty.com
+0.0.0.0 churchinbox.uk
 0.0.0.0 churci.com
 0.0.0.0 chusewhereer.com
 0.0.0.0 chushywoce.com
@@ -9410,6 +9412,7 @@
 0.0.0.0 ep5banners.com
 0.0.0.0 epacash.com
 0.0.0.0 epagogerepines.com
+0.0.0.0 epailseptox.com
 0.0.0.0 epdminstallation.co.uk
 0.0.0.0 eperuaangels.com
 0.0.0.0 epfes.com
@@ -10032,6 +10035,7 @@
 0.0.0.0 fattyeccentric.com
 0.0.0.0 fatulichin.com
 0.0.0.0 fatwalkinger.club
+0.0.0.0 faudouglaitu.com
 0.0.0.0 faultspiano.com
 0.0.0.0 faultsspeck.com
 0.0.0.0 faused.com
@@ -13542,6 +13546,7 @@
 0.0.0.0 inhonedgean.com
 0.0.0.0 ininanceen.co
 0.0.0.0 init.in
+0.0.0.0 initialbanisters.com
 0.0.0.0 initiallycoffee.com
 0.0.0.0 initiallycompetitionunderwear.com
 0.0.0.0 initiatedeliveringyesterday.com
@@ -15324,6 +15329,7 @@
 0.0.0.0 launchreliantcleaver.com
 0.0.0.0 launct.com
 0.0.0.0 launderzeroed.tech
+0.0.0.0 laundryjets.co.uk
 0.0.0.0 laundryrespond.com
 0.0.0.0 laurentia-kor.com
 0.0.0.0 laurieinevitablyhistorian.com
@@ -19011,6 +19017,7 @@
 0.0.0.0 openinfoservice.com
 0.0.0.0 openingpairpaternal.com
 0.0.0.0 openkerja.tech
+0.0.0.0 openlog.co.kr
 0.0.0.0 openmindter.com
 0.0.0.0 openobjstack.com
 0.0.0.0 openpubliclab.org
@@ -20871,6 +20878,7 @@
 0.0.0.0 propertyinbox.uk
 0.0.0.0 propertyofnews.com
 0.0.0.0 propertyservices.info
+0.0.0.0 propertysurveynorfolk.uk
 0.0.0.0 propertysurveysnorwich.co.uk
 0.0.0.0 propertysurveysnorwich.uk
 0.0.0.0 propgoservice.com
@@ -25049,6 +25057,7 @@
 0.0.0.0 suncenturyautumn.com
 0.0.0.0 sundaeekphore.life
 0.0.0.0 sundayceremonytitanic.com
+0.0.0.0 sundaysale.app
 0.0.0.0 sundayscrewinsulting.com
 0.0.0.0 sundersetrgh.site
 0.0.0.0 sunderstudios.xyz
@@ -25448,6 +25457,7 @@
 0.0.0.0 tatagamesindia.org
 0.0.0.0 tatakhelotv.org
 0.0.0.0 tataplay-secure.live
+0.0.0.0 tataplay-secureplus.live
 0.0.0.0 tataplay.info
 0.0.0.0 tataplaybeauty.org
 0.0.0.0 tataplaybinge.org
@@ -25562,6 +25572,7 @@
 0.0.0.0 techahv.com
 0.0.0.0 techclicks.net
 0.0.0.0 techcoaches.co.uk
+0.0.0.0 techdial.in
 0.0.0.0 techexpertcoder.tech
 0.0.0.0 techincal-ceramics.uk
 0.0.0.0 techiteration.com
