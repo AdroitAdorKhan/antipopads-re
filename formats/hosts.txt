@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.026
 # Release: 026
-# Entries: 33,698
-# Updated: Thu, 26 Jan 23 08:29:33 +06
+# Entries: 33,704
+# Updated: Thu, 26 Jan 23 10:09:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2352,6 +2352,7 @@
 0.0.0.0 alespeonor.com
 0.0.0.0 aletheiafulfillment.com
 0.0.0.0 aleuteasted.guru
+0.0.0.0 alex-bankegy.com
 0.0.0.0 alexander-haighnewsandreviews.co.uk
 0.0.0.0 alexasrandy.website
 0.0.0.0 alexatracker.com
@@ -5226,6 +5227,7 @@
 0.0.0.0 btcadtop.com
 0.0.0.0 btcblock.app
 0.0.0.0 btcgenerator.click
+0.0.0.0 btchdtv.com
 0.0.0.0 btdduyfubumw.com
 0.0.0.0 btdirectnav.com
 0.0.0.0 btdnav.com
@@ -5879,6 +5881,7 @@
 0.0.0.0 ceawoment.info
 0.0.0.0 ceboidbusting.com
 0.0.0.0 cecilsdolia.com
+0.0.0.0 cecitool.net
 0.0.0.0 cecmuthejooz.com
 0.0.0.0 ceeglagu.net
 0.0.0.0 ceehimur.uk
@@ -7702,6 +7705,7 @@
 0.0.0.0 ddedfearin.buzz
 0.0.0.0 ddenknowl.com
 0.0.0.0 ddhjxakewpp.com
+0.0.0.0 ddji.in
 0.0.0.0 ddlesswale.co
 0.0.0.0 ddnmzrpp.com
 0.0.0.0 ddnnxx.com
@@ -17671,6 +17675,7 @@
 0.0.0.0 naewynn.com
 0.0.0.0 nafulltiuk.com
 0.0.0.0 naganoadigei.com
+0.0.0.0 nagarholetigerreserve.in
 0.0.0.0 nagarikdrishti.com
 0.0.0.0 naggedhechtia.tech
 0.0.0.0 naggingrugcolossal.com
@@ -25580,6 +25585,7 @@
 0.0.0.0 tataplaybinge.org
 0.0.0.0 tataplayclassiccinema.org
 0.0.0.0 tataplaycooking.org
+0.0.0.0 tataplaydish.biz
 0.0.0.0 tataplayhelpline.org
 0.0.0.0 tataplayindia.org
 0.0.0.0 tataplaymalayalamcinema.org
