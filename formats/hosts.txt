@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.026
 # Release: 026
-# Entries: 33,689
-# Updated: Thu, 26 Jan 23 06:32:34 +06
+# Entries: 33,698
+# Updated: Thu, 26 Jan 23 08:29:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5787,6 +5787,7 @@
 0.0.0.0 cb.logwaysentea.com
 0.0.0.0 cba-fed-igh.com
 0.0.0.0 cbarmedia.com
+0.0.0.0 cbdcanteen.net
 0.0.0.0 cbdzone.online
 0.0.0.0 cbilrirtqyawue.com
 0.0.0.0 cbleads.com
@@ -7008,6 +7009,7 @@
 0.0.0.0 corneey.com
 0.0.0.0 cornflowershallow.com
 0.0.0.0 cornuspurfled.com
+0.0.0.0 cornwallmusicnetwork.org.uk
 0.0.0.0 coronaattorneyflorida.com
 0.0.0.0 corporal.com
 0.0.0.0 corpulentoverdoselucius.com
@@ -11808,6 +11810,7 @@
 0.0.0.0 got-to-be.com
 0.0.0.0 got-to-be.in
 0.0.0.0 got-to-be.me
+0.0.0.0 got.gt
 0.0.0.0 gotakemedia1.ru
 0.0.0.0 gotibetho.pro
 0.0.0.0 gotinbode.com
@@ -13680,6 +13683,7 @@
 0.0.0.0 insta11e3d.com
 0.0.0.0 instadatings-here.life
 0.0.0.0 instaflrt.com
+0.0.0.0 instafooda.app
 0.0.0.0 install1nstall1.com
 0.0.0.0 installapp.info
 0.0.0.0 installationmidterm.com
@@ -16815,6 +16819,7 @@
 0.0.0.0 meoprugeugxd.com
 0.0.0.0 meowpushnot.com
 0.0.0.0 meproductive.com
+0.0.0.0 merabooks.in
 0.0.0.0 merakiclayjewelry.com
 0.0.0.0 meratsignons.com
 0.0.0.0 mercedesus.com
@@ -19591,6 +19596,7 @@
 0.0.0.0 paicosoftware.com
 0.0.0.0 paifemouchoa.com
 0.0.0.0 paigipto.net
+0.0.0.0 paikaufy.com
 0.0.0.0 painfulpropaganda.com
 0.0.0.0 painlessassumedbeing.com
 0.0.0.0 painmidsummer.com
@@ -19704,6 +19710,7 @@
 0.0.0.0 parolropmo.com
 0.0.0.0 parolropmo.xyz
 0.0.0.0 paroup.com
+0.0.0.0 parquecaracoli.com.co
 0.0.0.0 parrecleftne.com
 0.0.0.0 parrecleftne.xyz
 0.0.0.0 parringepigene.com
@@ -26480,6 +26487,7 @@
 0.0.0.0 tokmein.com
 0.0.0.0 tokofyttes.com
 0.0.0.0 tokyoredcirce.com
+0.0.0.0 tokyoshido.com
 0.0.0.0 toledoceramiccoating.com
 0.0.0.0 tolerableinflectionkazan.com
 0.0.0.0 tolihuertas.com
@@ -26856,6 +26864,7 @@
 0.0.0.0 tradeinbox.uk
 0.0.0.0 tradeinvesthub.com
 0.0.0.0 tradekalshi.com
+0.0.0.0 tradeking.uk
 0.0.0.0 trademarkanz.com
 0.0.0.0 traderinbox.uk
 0.0.0.0 traderogre.life
