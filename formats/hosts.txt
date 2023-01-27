@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.027
 # Release: 027
-# Entries: 33,941
-# Updated: Fri, 27 Jan 23 06:11:12 +06
+# Entries: 33,956
+# Updated: Fri, 27 Jan 23 08:13:27 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -546,6 +546,7 @@
 0.0.0.0 3lift.com
 0.0.0.0 3lordfilm-0.xyz
 0.0.0.0 3lr67y45.com
+0.0.0.0 3mmfvvto.com
 0.0.0.0 3n5b.info
 0.0.0.0 3plgujarat.com
 0.0.0.0 3r1kwxcd.top
@@ -8075,6 +8076,7 @@
 0.0.0.0 dgmatix.com
 0.0.0.0 dgmaustralia.com
 0.0.0.0 dgpcdn.org
+0.0.0.0 dgqlwqedzowhqb.com
 0.0.0.0 dgxlbhr.com
 0.0.0.0 dgxmvglp.com
 0.0.0.0 dh956.com
@@ -8186,6 +8188,7 @@
 0.0.0.0 dindlebrooder.digital
 0.0.0.0 dingholog.com
 0.0.0.0 diningprefixmyself.com
+0.0.0.0 dinkong.com
 0.0.0.0 dinnedtubboe.guru
 0.0.0.0 dinnerlithegladly.com
 0.0.0.0 dinosaurrestore.com
@@ -21752,6 +21755,7 @@
 0.0.0.0 quepadreconsciencia.com
 0.0.0.0 querulous-type.com
 0.0.0.0 querylead.com
+0.0.0.0 questioningtosscontradiction.com
 0.0.0.0 questionsadjournasleep.com
 0.0.0.0 quezitalia.com
 0.0.0.0 quiaresp.com
@@ -26240,6 +26244,7 @@
 0.0.0.0 thereuponcanadian.com
 0.0.0.0 therevolutionbitcoin.net
 0.0.0.0 theribbonsandballoons.com
+0.0.0.0 thermaldetailing.co.uk
 0.0.0.0 thertoldimnver.xyz
 0.0.0.0 therubiqube.com
 0.0.0.0 thesalestax.team
@@ -31030,6 +31035,7 @@
 0.0.0.0 www.employerarab.com
 0.0.0.0 www.emteeveetwo.com
 0.0.0.0 www.emulationfastened.com
+0.0.0.0 www.encouragementbraceletcoastline.com
 0.0.0.0 www.encouragingshould.com
 0.0.0.0 www.encumbranceunderlineheadmaster.com
 0.0.0.0 www.endlesslynavel.com
@@ -31568,6 +31574,7 @@
 0.0.0.0 www.kuvora.global
 0.0.0.0 www.kyour.com
 0.0.0.0 www.l1n3d1ne.com
+0.0.0.0 www.labourmuttering.com
 0.0.0.0 www.ladderfrog.com
 0.0.0.0 www.laene.org
 0.0.0.0 www.lairfiend.com
@@ -32419,6 +32426,7 @@
 0.0.0.0 www.suspectedsinewnotary.com
 0.0.0.0 www.svgjs.com
 0.0.0.0 www.swallowaccidentdrip.com
+0.0.0.0 www.swedecornysupper.com
 0.0.0.0 www.sweepfrequencydissolved.com
 0.0.0.0 www.sweptaboutlard.com
 0.0.0.0 www.swiminvestigator.com
@@ -32431,6 +32439,13 @@
 0.0.0.0 www.tackymust.com
 0.0.0.0 www.takepalpablenuisance.com
 0.0.0.0 www.talkchess.org
+0.0.0.0 www.tamilyogi.band
+0.0.0.0 www.tamilyogi.beer
+0.0.0.0 www.tamilyogi.bike
+0.0.0.0 www.tamilyogi.blog
+0.0.0.0 www.tamilyogi.cash
+0.0.0.0 www.tamilyogi.center
+0.0.0.0 www.tamilyogi.dog
 0.0.0.0 www.tamoafuera.com
 0.0.0.0 www.tanadong.net
 0.0.0.0 www.tarabergmane.com
