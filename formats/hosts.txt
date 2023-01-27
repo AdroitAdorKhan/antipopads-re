@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.027
 # Release: 027
-# Entries: 34,168
-# Updated: Fri, 27 Jan 23 20:08:56 +06
+# Entries: 34,184
+# Updated: Fri, 27 Jan 23 22:08:27 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3367,6 +3367,7 @@
 0.0.0.0 astrologylive.online
 0.0.0.0 astronomycider.com
 0.0.0.0 astroo.online
+0.0.0.0 astrosimulation.link
 0.0.0.0 astscolipedeor.com
 0.0.0.0 astspewpaor.com
 0.0.0.0 astumbreonon.com
@@ -3568,6 +3569,7 @@
 0.0.0.0 auravineyard.com
 0.0.0.0 aurdosti.com
 0.0.0.0 aureigabelle.com
+0.0.0.0 aurich-invest.de
 0.0.0.0 aurjueeh.com
 0.0.0.0 aus-mobidev1.com
 0.0.0.0 ausoafab.net
@@ -5443,6 +5445,7 @@
 0.0.0.0 buzzadnetwork.com
 0.0.0.0 buzzing-hot-news.com
 0.0.0.0 buzzing-trending-news.com
+0.0.0.0 buzztimebusiness.com
 0.0.0.0 buzzvids-direct.com
 0.0.0.0 bvhgcdgfjekw.top
 0.0.0.0 bvirtual.work
@@ -6411,6 +6414,7 @@
 0.0.0.0 claspluke.com
 0.0.0.0 class2deal.com
 0.0.0.0 classerhyponym.store
+0.0.0.0 classicalhathayoga.uk
 0.0.0.0 classicbf.com
 0.0.0.0 classionreactice.info
 0.0.0.0 classypod.xyz
@@ -7119,6 +7123,7 @@
 0.0.0.0 councerned.com
 0.0.0.0 counciladvertising.net
 0.0.0.0 councilcoveauto.com
+0.0.0.0 councilrockproductions.org
 0.0.0.0 counct.com
 0.0.0.0 counda.com
 0.0.0.0 countdowncars.uk
@@ -7436,6 +7441,7 @@
 0.0.0.0 curbexotic.com
 0.0.0.0 curbimpress.com
 0.0.0.0 curbside-bride.org
+0.0.0.0 curbsidebride.org
 0.0.0.0 curcumin-biobdmc.com
 0.0.0.0 curdiercoffee.com
 0.0.0.0 curdlecobiron.com
@@ -7688,6 +7694,7 @@
 0.0.0.0 dasgeschenk.net
 0.0.0.0 dashbida.com
 0.0.0.0 dashbo15myapp.com
+0.0.0.0 dashboo.uk
 0.0.0.0 dashervpromo.com
 0.0.0.0 dasperdolus.com
 0.0.0.0 daspiratioty.co
@@ -14135,6 +14142,7 @@
 0.0.0.0 itskavz.net
 0.0.0.0 itsshreyaarora.com
 0.0.0.0 itstuffnews.com
+0.0.0.0 itsupportwise.com
 0.0.0.0 itthatsheis.one
 0.0.0.0 ittogepiom.com
 0.0.0.0 ittorchicer.com
@@ -17300,6 +17308,7 @@
 0.0.0.0 mnmoe.com
 0.0.0.0 mnnuhtvnubdg.xyz
 0.0.0.0 mnrki.com
+0.0.0.0 mnrkmusic.org
 0.0.0.0 mo.proteasdlvy.com
 0.0.0.0 mo6.in
 0.0.0.0 mo9jr8ie6sier3an.com
@@ -18006,6 +18015,7 @@
 0.0.0.0 ndpjgpfctmqxrrl.top
 0.0.0.0 ndroip.com
 0.0.0.0 ndtequipment.uk
+0.0.0.0 ndtequipmentsales.co.uk
 0.0.0.0 ndweandthe.xyz
 0.0.0.0 ndweandthep.xyz
 0.0.0.0 ndyuuvsjwa.com
@@ -22056,6 +22066,7 @@
 0.0.0.0 rartengg.com
 0.0.0.0 rasaboxes.org
 0.0.0.0 rascalsgiantry.com
+0.0.0.0 rashidindce.tech
 0.0.0.0 rashiphotostudio.com
 0.0.0.0 rashparron.buzz
 0.0.0.0 rashtravaarta.com
@@ -26349,6 +26360,7 @@
 0.0.0.0 theporn264.com
 0.0.0.0 theporn292.cc
 0.0.0.0 theporn293.cc
+0.0.0.0 thepothigaipalace.com
 0.0.0.0 thepreneurnetwork.com
 0.0.0.0 theprintquarter.com
 0.0.0.0 thepromisedlanduk.com
@@ -30781,6 +30793,7 @@
 0.0.0.0 www.buyhandbookshop.gives
 0.0.0.0 www.buyone.guru
 0.0.0.0 www.buysalebiz.com
+0.0.0.0 www.buzztimebusiness.com
 0.0.0.0 www.bxflight.com
 0.0.0.0 www.by51222.com
 0.0.0.0 www.by5134.com
@@ -30821,6 +30834,7 @@
 0.0.0.0 www.casserolehunchcontract.com
 0.0.0.0 www.castcloudywhereby.com
 0.0.0.0 www.catdatarecovery.com
+0.0.0.0 www.catscanty.com
 0.0.0.0 www.cbarmedia.com
 0.0.0.0 www.cbseastra.com
 0.0.0.0 www.cdn29-okzy.com
@@ -32082,6 +32096,7 @@
 0.0.0.0 www.paintoppo.com
 0.0.0.0 www.pairaffirmative.com
 0.0.0.0 www.pairstolerancepaint.com
+0.0.0.0 www.palpablefungussome.com
 0.0.0.0 www.palpatethinkinginflate.com
 0.0.0.0 www.panafricanmaritime.net
 0.0.0.0 www.pandcpaintingfl.com
@@ -32682,6 +32697,7 @@
 0.0.0.0 www.thenorth39.yourarchitects.in
 0.0.0.0 www.thepackingshed.com.au
 0.0.0.0 www.theporn255.com
+0.0.0.0 www.thepothigaipalace.com
 0.0.0.0 www.thepreneurnetwork.com
 0.0.0.0 www.thequalitygroup.biz
 0.0.0.0 www.therebycapablerising.com
