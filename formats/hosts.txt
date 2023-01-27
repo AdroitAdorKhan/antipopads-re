@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.027
 # Release: 027
-# Entries: 33,988
-# Updated: Fri, 27 Jan 23 10:08:11 +06
+# Entries: 33,991
+# Updated: Fri, 27 Jan 23 12:08:06 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2950,6 +2950,7 @@
 0.0.0.0 applenfcu.org
 0.0.0.0 applescringe.com
 0.0.0.0 applesometimes.com
+0.0.0.0 applevfcu.org
 0.0.0.0 applfc.org
 0.0.0.0 applfcunion.org
 0.0.0.0 applicantpoachmeat.com
@@ -7400,6 +7401,7 @@
 0.0.0.0 cupseshupse.com
 0.0.0.0 cuqvlpxjj.xyz
 0.0.0.0 curacaohaloing.website
+0.0.0.0 curakshadistribution.com
 0.0.0.0 curakshaservices.org
 0.0.0.0 curbaffluencenicer.com
 0.0.0.0 curbexotic.com
@@ -25758,6 +25760,7 @@
 0.0.0.0 tataplaypvr.org
 0.0.0.0 tataplayrecharge.org
 0.0.0.0 tataplaysecure.info
+0.0.0.0 tataplaytoons.org
 0.0.0.0 tataplaywallet.info
 0.0.0.0 tataplaywallet.net
 0.0.0.0 tataplaywizkids.org
