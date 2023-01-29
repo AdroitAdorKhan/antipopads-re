@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.029
 # Release: 029
-# Entries: 34,710
-# Updated: Sun, 29 Jan 23 10:07:48 +06
+# Entries: 34,720
+# Updated: Sun, 29 Jan 23 12:11:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1288,6 +1288,7 @@
 0.0.0.0 acceptable.a-ads.com
 0.0.0.0 acceptabletally.com
 0.0.0.0 access.gift
+0.0.0.0 accessableairport.com
 0.0.0.0 accesshme.com
 0.0.0.0 accessiblescopevisitor.com
 0.0.0.0 accessoriezworld.com
@@ -2375,6 +2376,7 @@
 0.0.0.0 aleftransmissioncenter.com
 0.0.0.0 alegnoackerg.com
 0.0.0.0 aleilu.com
+0.0.0.0 alemna.uk
 0.0.0.0 alemnainvestments.uk
 0.0.0.0 alerti4-useroncha7seweb.com
 0.0.0.0 alertlogsemployer.com
@@ -3837,6 +3839,7 @@
 0.0.0.0 b18a21ab3c9cb53.com
 0.0.0.0 b1f6fe5e3f0c3c8ba6.com
 0.0.0.0 b1fb813dc806b7d.com
+0.0.0.0 b1soul.org
 0.0.0.0 b2o6b39taril.com
 0.0.0.0 b3kyo0de1fr0.com
 0.0.0.0 b3ra6hmstrioek54er.com
@@ -8154,6 +8157,7 @@
 0.0.0.0 deuted.com
 0.0.0.0 dev0.buzz
 0.0.0.0 devastateddisarraybackpack.com
+0.0.0.0 devavrindavan.org
 0.0.0.0 deveincyanids.com
 0.0.0.0 developdomestic.fun
 0.0.0.0 developercleavemillions.com
@@ -12890,6 +12894,7 @@
 0.0.0.0 hey-brazil.org
 0.0.0.0 heycdn65.xyz
 0.0.0.0 heycdn68.xyz
+0.0.0.0 heycdn89.xyz
 0.0.0.0 heythereseth.com
 0.0.0.0 heyzi.com
 0.0.0.0 hfc195b.com
@@ -20471,6 +20476,7 @@
 0.0.0.0 pentaclaud.com
 0.0.0.0 pentalime.com
 0.0.0.0 pentasniaga.com
+0.0.0.0 pentomono.com
 0.0.0.0 pentucketbank-startwithheart.com
 0.0.0.0 pentucketbank-startwithheart.net
 0.0.0.0 pentucketbank-startwithheart.org
@@ -25810,6 +25816,7 @@
 0.0.0.0 sundaeekphore.life
 0.0.0.0 sundayceremonytitanic.com
 0.0.0.0 sundaysale.app
+0.0.0.0 sundaysale.in
 0.0.0.0 sundayscrewinsulting.com
 0.0.0.0 sundersetrgh.site
 0.0.0.0 sunderstudios.xyz
@@ -26987,6 +26994,7 @@
 0.0.0.0 timewarpaircraft.com
 0.0.0.0 timexcompany.com
 0.0.0.0 timingaskew.com
+0.0.0.0 timlos.com
 0.0.0.0 timoncaviya.casa
 0.0.0.0 timpanosheng.com
 0.0.0.0 timxrio.com
@@ -32123,6 +32131,7 @@
 0.0.0.0 www.janglemankind.com
 0.0.0.0 www.janitorcanvass.com
 0.0.0.0 www.javatroll.biz
+0.0.0.0 www.jdnje.com
 0.0.0.0 www.jdoqocy.com
 0.0.0.0 www.jeandesigns.net
 0.0.0.0 www.jeerinfluencemedical.com
@@ -34266,6 +34275,7 @@
 0.0.0.0 yourbestlandever.com
 0.0.0.0 yourbigexplosivewin.life
 0.0.0.0 yourcommonfeed.com
+0.0.0.0 yourconsigliera.co.uk
 0.0.0.0 yourconsigliera.uk
 0.0.0.0 yourcoolfeed.com
 0.0.0.0 yourealtymarrakech.com
