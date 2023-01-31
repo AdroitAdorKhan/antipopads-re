@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.031
 # Release: 031
-# Entries: 35,592
-# Updated: Tue, 31 Jan 23 14:07:51 +06
+# Entries: 35,635
+# Updated: Tue, 31 Jan 23 16:14:41 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -219,6 +219,7 @@
 0.0.0.0 1bc1daf1a7.com
 0.0.0.0 1bet1.icu
 0.0.0.0 1bet1.kim
+0.0.0.0 1bet1.uk
 0.0.0.0 1bm3n8sld.de
 0.0.0.0 1buxie.com
 0.0.0.0 1c204c05d2898056fd.com
@@ -2386,6 +2387,7 @@
 0.0.0.0 albumsignaturerequested.com
 0.0.0.0 albumsliv.com
 0.0.0.0 alcesinassing.xyz
+0.0.0.0 alchemybowls.co.uk
 0.0.0.0 alchemysocial.com
 0.0.0.0 alcoholicsort.com
 0.0.0.0 alcoholsupervisiondisplace.com
@@ -2555,6 +2557,7 @@
 0.0.0.0 alpha-digital.fr
 0.0.0.0 alpha-news.org
 0.0.0.0 alphabird.com
+0.0.0.0 alphafoamltd.com
 0.0.0.0 alphaorina.tech
 0.0.0.0 alphatraders.live
 0.0.0.0 alphonso.tv
@@ -3310,6 +3313,7 @@
 0.0.0.0 asev.xyz
 0.0.0.0 asewlfjqwlflkew.com
 0.0.0.0 asfqwokkxww.com
+0.0.0.0 asgclick.com
 0.0.0.0 asgclickkl.com
 0.0.0.0 asgclickpop.com
 0.0.0.0 asgclickpp.com
@@ -3714,6 +3718,7 @@
 0.0.0.0 avellingand.xyz
 0.0.0.0 avenuescrupuloustheological.com
 0.0.0.0 aversionworkingthankful.com
+0.0.0.0 averyshealthcare.co.uk
 0.0.0.0 avgle.com
 0.0.0.0 avhtaapxml.com
 0.0.0.0 avickcarob.com
@@ -4621,6 +4626,7 @@
 0.0.0.0 bh3.net
 0.0.0.0 bhagwatidevisharma.org
 0.0.0.0 bhagyodayengineering.com
+0.0.0.0 bharat-money.com
 0.0.0.0 bharatbusinessreview.org
 0.0.0.0 bharathiyavastu5.com
 0.0.0.0 bharathnews24.com
@@ -4939,6 +4945,7 @@
 0.0.0.0 bluebellconnect.net
 0.0.0.0 bluebellconnect.org
 0.0.0.0 bluebet24.com
+0.0.0.0 bluebirdcareitd.co.uk
 0.0.0.0 bluebladeconsulting.com
 0.0.0.0 bluecapapps.com
 0.0.0.0 bluecapdev.com
@@ -6347,6 +6354,7 @@
 0.0.0.0 chicssnowman.com
 0.0.0.0 chiddennibs.digital
 0.0.0.0 chiefcover.net
+0.0.0.0 childminding-services.uk
 0.0.0.0 chilehotink.com
 0.0.0.0 chiliadv.com
 0.0.0.0 chilversputum.uno
@@ -7930,6 +7938,7 @@
 0.0.0.0 data-data-vac.com
 0.0.0.0 data-px.services
 0.0.0.0 dataantiques.fun
+0.0.0.0 datadrivenplc.info
 0.0.0.0 datajsext.com
 0.0.0.0 datamuni.org
 0.0.0.0 datangcmel.com
@@ -8814,6 +8823,7 @@
 0.0.0.0 dominows.com
 0.0.0.0 domnlk.com
 0.0.0.0 domslc.com
+0.0.0.0 domyassignmenthelp.co.uk
 0.0.0.0 donateindiafoundation.org
 0.0.0.0 donecooler.com
 0.0.0.0 doneeinvict.com
@@ -9015,6 +9025,7 @@
 0.0.0.0 drunkinvincible.com
 0.0.0.0 drupta.com
 0.0.0.0 drv47apps.com
+0.0.0.0 dryers.in
 0.0.0.0 drylnk.com
 0.0.0.0 ds.puleynoomiac.com
 0.0.0.0 ds.svelterterton.com
@@ -9612,10 +9623,12 @@
 0.0.0.0 elapseforepawsstraighten.com
 0.0.0.0 elasticad.net
 0.0.0.0 elasticsearch.in
+0.0.0.0 elastoblast.co.uk
 0.0.0.0 elbertmemoria.com
 0.0.0.0 elbowcayclub.net
 0.0.0.0 elden-ring-merch.com
 0.0.0.0 eldestequivalentdrain.com
+0.0.0.0 elearnsuccessseries.org
 0.0.0.0 eleavers.com
 0.0.0.0 electosake.com
 0.0.0.0 electricalbicyclelistnonfiction.com
@@ -12772,6 +12785,7 @@
 0.0.0.0 haijosho.net
 0.0.0.0 haikcarlage.com
 0.0.0.0 hailmales.guru
+0.0.0.0 hailofficemeasure.com
 0.0.0.0 hailstonenerve.com
 0.0.0.0 hairdosslitter.casa
 0.0.0.0 hairhelpline.com
@@ -13345,6 +13359,7 @@
 0.0.0.0 holdsoutset.com
 0.0.0.0 holidaytvnetwork.com
 0.0.0.0 holiestcoseys.com
+0.0.0.0 holisticnaturopath.ru
 0.0.0.0 holitt.com
 0.0.0.0 hollekeamboina.com
 0.0.0.0 hollercatastrophe.co
@@ -14516,6 +14531,7 @@
 0.0.0.0 irakh.net
 0.0.0.0 iranchrono.org
 0.0.0.0 irank.org
+0.0.0.0 iranpaymex.net
 0.0.0.0 irate-indian.com
 0.0.0.0 iratelyveinlet.com
 0.0.0.0 irbyvjfbwdrg.com
@@ -14809,6 +14825,7 @@
 0.0.0.0 jataa-ayurveda.info
 0.0.0.0 jataaformen.info
 0.0.0.0 jataaformen.org
+0.0.0.0 jataayurveda.biz
 0.0.0.0 jatostepa.com
 0.0.0.0 jatsekse.net
 0.0.0.0 jattepush.com
@@ -14829,6 +14846,7 @@
 0.0.0.0 jawholeminable.com
 0.0.0.0 jaxxenpro.com
 0.0.0.0 jaymaharashtracellworld.in
+0.0.0.0 jayshreeparshuram.com
 0.0.0.0 jayshreeradhe.in
 0.0.0.0 jazygesforeday.website
 0.0.0.0 jazzharder.com
@@ -14895,6 +14913,7 @@
 0.0.0.0 jejpcroyu.com
 0.0.0.0 jejunight.xyz
 0.0.0.0 jellyclick.com
+0.0.0.0 jeltoocm.xyz
 0.0.0.0 jemock.com
 0.0.0.0 jemonews.com
 0.0.0.0 jenkinhughes.co.uk
@@ -15710,6 +15729,7 @@
 0.0.0.0 knockoutantipathy.com
 0.0.0.0 knocus.com
 0.0.0.0 knope2021.com
+0.0.0.0 knospshounder.guru
 0.0.0.0 knotlaghell.com
 0.0.0.0 knotprovided.com
 0.0.0.0 knottedeluates.website
@@ -16191,6 +16211,7 @@
 0.0.0.0 lawstreetindia.com
 0.0.0.0 lawyercaws.website
 0.0.0.0 lawyerceasing.com
+0.0.0.0 laxallenopposed.com
 0.0.0.0 laxapcom.xyz
 0.0.0.0 laxdevourmiddle.com
 0.0.0.0 laydcilck.com
@@ -18126,6 +18147,7 @@
 0.0.0.0 mookie1.com
 0.0.0.0 mookiyooki.com
 0.0.0.0 moolasghazism.guru
+0.0.0.0 moon-star.in
 0.0.0.0 moonads.net
 0.0.0.0 moonicorn.network
 0.0.0.0 mooningfiesta.com
@@ -18199,6 +18221,7 @@
 0.0.0.0 motosal.net
 0.0.0.0 motsardi.net
 0.0.0.0 mottlespouffed.live
+0.0.0.0 mottoncontial.com
 0.0.0.0 moudmarauds.com
 0.0.0.0 moundgrandmotherel.com
 0.0.0.0 mountainbender.xyz
@@ -18349,6 +18372,7 @@
 0.0.0.0 multipledrawers.com
 0.0.0.0 multistudihighschool.com
 0.0.0.0 multitudeenviable.com
+0.0.0.0 mumbaikar.online
 0.0.0.0 mumbaimonginis.net
 0.0.0.0 mumbaiocake.com
 0.0.0.0 mumcreator.com
@@ -20185,6 +20209,7 @@
 0.0.0.0 orhisseache.com.ua
 0.0.0.0 orianor.com
 0.0.0.0 orica.uk
+0.0.0.0 orientaldumbest.com
 0.0.0.0 origer.info
 0.0.0.0 originedreting.site
 0.0.0.0 origintube.com
@@ -20923,6 +20948,7 @@
 0.0.0.0 pelamydlours.com
 0.0.0.0 pemainedperio.com
 0.0.0.0 pemocjyfbmdhw.top
+0.0.0.0 penceycosting.website
 0.0.0.0 pencilandplanejoinery.co.uk
 0.0.0.0 pendant-light.org
 0.0.0.0 penderventurecapital.com
@@ -22793,6 +22819,7 @@
 0.0.0.0 radiancewoebun.com
 0.0.0.0 radiantskilled.com
 0.0.0.0 radinko.com
+0.0.0.0 radio-cat.ru
 0.0.0.0 radioearphonesaggravation.com
 0.0.0.0 radiomartesiracusa.it
 0.0.0.0 radioselvatv.com
@@ -24552,6 +24579,7 @@
 0.0.0.0 secure-12.com
 0.0.0.0 secure-dw.ru
 0.0.0.0 secure-plus-tata-play.live
+0.0.0.0 secure-plus-tata-play.org
 0.0.0.0 secure-tata-play.org
 0.0.0.0 secureaddisplay.com
 0.0.0.0 secureclickers.com
@@ -25028,6 +25056,7 @@
 0.0.0.0 shoutchu.net
 0.0.0.0 shouthisoult.com
 0.0.0.0 shoutssportly.com
+0.0.0.0 shouvods.net
 0.0.0.0 shovedrailwaynurse.com
 0.0.0.0 shovelcosign.com
 0.0.0.0 shoveoccupiedinsult.com
@@ -26234,6 +26263,7 @@
 0.0.0.0 streamtoclick.com
 0.0.0.0 streamvideobox.com
 0.0.0.0 streamyourvid.com
+0.0.0.0 streechapon.website
 0.0.0.0 streetcoddiffident.com
 0.0.0.0 stremanp.com
 0.0.0.0 strenuousside.com
@@ -26493,6 +26523,7 @@
 0.0.0.0 surveyequipment.uk
 0.0.0.0 surveyspaid.com
 0.0.0.0 survivingmediocrity.com
+0.0.0.0 survivingtraffic.org
 0.0.0.0 survrhostngs.xyz
 0.0.0.0 surwardlingkok.com
 0.0.0.0 surzoe.com
@@ -26646,6 +26677,7 @@
 0.0.0.0 sz.thesesooey.com
 0.0.0.0 sz8051.com
 0.0.0.0 szxizhiw.com
+0.0.0.0 t-20league.com
 0.0.0.0 t-shinedesign.com
 0.0.0.0 t.dtscout.com
 0.0.0.0 t.sih-db.com
@@ -29517,6 +29549,7 @@
 0.0.0.0 utsukbrewst.website
 0.0.0.0 uttarakhandherald.online
 0.0.0.0 utteredtheatresaround.com
+0.0.0.0 utterlyglueless.co.uk
 0.0.0.0 uttium.com
 0.0.0.0 utubepwhml.com
 0.0.0.0 utugmtyrktvmf.top
@@ -29652,6 +29685,7 @@
 0.0.0.0 valvyre.com
 0.0.0.0 vamseeds.com
 0.0.0.0 vamsoupowoa.com
+0.0.0.0 vandebharatam.com
 0.0.0.0 vanderebony.pro
 0.0.0.0 vanderlisten.pro
 0.0.0.0 vanenow.com
@@ -30198,6 +30232,7 @@
 0.0.0.0 vohhall91.com
 0.0.0.0 voicegiddiness.com
 0.0.0.0 voices-kerence.com
+0.0.0.0 voicesofmoms.org
 0.0.0.0 voicesofsiblings.org
 0.0.0.0 voiliertram.com
 0.0.0.0 voipnewswire.net
@@ -30611,6 +30646,7 @@
 0.0.0.0 wealop.com
 0.0.0.0 wealthyprovisionsclay.com
 0.0.0.0 weaponsort.club
+0.0.0.0 weareborntoexplore.com
 0.0.0.0 wearingmarte.com
 0.0.0.0 wearisomeraynope.com
 0.0.0.0 weaselbubblehue.com
@@ -31199,6 +31235,8 @@
 0.0.0.0 woocoin.io
 0.0.0.0 woocommercelicensemanager.com
 0.0.0.0 woodbeesdainty.com
+0.0.0.0 woodburnershull.co.uk
+0.0.0.0 woodburnersscunthorpe.co.uk
 0.0.0.0 wooden-comfort.com
 0.0.0.0 woodenbond.com
 0.0.0.0 woodlandsintervention.com
@@ -31596,6 +31634,7 @@
 0.0.0.0 www.allianceoffender.com
 0.0.0.0 www.alloysoftballcrushing.com
 0.0.0.0 www.allypublicity.com
+0.0.0.0 www.alphafoamltd.com
 0.0.0.0 www.alphaorina.tech
 0.0.0.0 www.alpinesafes.com
 0.0.0.0 www.altamerica.org
@@ -33180,6 +33219,7 @@
 0.0.0.0 www.monthlylibrary.com
 0.0.0.0 www.moodforms.com
 0.0.0.0 www.moodokay.com
+0.0.0.0 www.moon-star.in
 0.0.0.0 www.moonveto.com
 0.0.0.0 www.mopnatrestriction.com
 0.0.0.0 www.morrison-designs.com
@@ -33204,6 +33244,7 @@
 0.0.0.0 www.muchmiller.com
 0.0.0.0 www.multipledrawers.com
 0.0.0.0 www.multitudeenviable.com
+0.0.0.0 www.mumbaikar.online
 0.0.0.0 www.mupwj.org
 0.0.0.0 www.mushroomphilosophicalincorrect.com
 0.0.0.0 www.musselchangeableskier.com
@@ -33336,6 +33377,7 @@
 0.0.0.0 www.outmatchtaughtdeparture.com
 0.0.0.0 www.outrepublicanshelf.com
 0.0.0.0 www.overnightpicture.com
+0.0.0.0 www.overratedreversionexclusive.com
 0.0.0.0 www.overwhelmingdarncalumny.com
 0.0.0.0 www.overwhelmpowerlessinvoke.com
 0.0.0.0 www.owestripebastard.com
@@ -34232,6 +34274,7 @@
 0.0.0.0 www.wasoffspring.com
 0.0.0.0 www.wasperrdepict.com
 0.0.0.0 www.waterprooffold.com
+0.0.0.0 www.weareborntoexplore.com
 0.0.0.0 www.weaselbubblehue.com
 0.0.0.0 www.weaveconcretefreakish.com
 0.0.0.0 www.web-kite.ru
