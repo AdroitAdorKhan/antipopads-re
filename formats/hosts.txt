@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.031
 # Release: 031
-# Entries: 35,674
-# Updated: Tue, 31 Jan 23 20:11:16 +06
+# Entries: 35,690
+# Updated: Tue, 31 Jan 23 22:07:52 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -667,6 +667,7 @@
 0.0.0.0 4sjhdbfhjsdf4.monster
 0.0.0.0 4some1special.com
 0.0.0.0 4test.org
+0.0.0.0 4thindustrialrevolution.co.uk
 0.0.0.0 4tnui5r06j62.com
 0.0.0.0 4udear.biz
 0.0.0.0 4wnet.com
@@ -4057,6 +4058,7 @@
 0.0.0.0 banapplegofres.com
 0.0.0.0 bancmuriel.space
 0.0.0.0 bancodeempresas.com
+0.0.0.0 bandapart.uk
 0.0.0.0 bandarasogwin.com
 0.0.0.0 bande-a-part-paris.co.uk
 0.0.0.0 bande-a-part.ru
@@ -8524,6 +8526,7 @@
 0.0.0.0 directcpmfwr.com
 0.0.0.0 directcpmrev.com
 0.0.0.0 directdexchange.com
+0.0.0.0 directfares.net
 0.0.0.0 directionssecondary.com
 0.0.0.0 directleads.com
 0.0.0.0 directnavbt.com
@@ -11386,6 +11389,7 @@
 0.0.0.0 frugalityabruptly.com
 0.0.0.0 frugalrushcap.com
 0.0.0.0 fruins.com
+0.0.0.0 fruitfulgreenhousefacility.com
 0.0.0.0 fruitionhotels.com
 0.0.0.0 fruzrotula.com
 0.0.0.0 fryawlauk.com
@@ -12521,6 +12525,7 @@
 0.0.0.0 gresokie.com
 0.0.0.0 gretaith.com
 0.0.0.0 gretnsassn.com
+0.0.0.0 greworganizer.com
 0.0.0.0 grewquartersupporting.com
 0.0.0.0 greystripe.com
 0.0.0.0 grgroup.am
@@ -14919,6 +14924,7 @@
 0.0.0.0 jeeryzest.com
 0.0.0.0 jeeshapi.net
 0.0.0.0 jeetbuzz.one
+0.0.0.0 jeetejio.net
 0.0.0.0 jeetyetmedia.com
 0.0.0.0 jefashivy.com
 0.0.0.0 jeffclarkpaydirt.com
@@ -17576,6 +17582,7 @@
 0.0.0.0 media-vlc.top
 0.0.0.0 media6degrees.com
 0.0.0.0 media970.com
+0.0.0.0 mediaadjustment.com
 0.0.0.0 mediaappletree.com
 0.0.0.0 mediacpm.com
 0.0.0.0 mediafilesdownload.com
@@ -17648,6 +17655,7 @@
 0.0.0.0 mega-offers.net
 0.0.0.0 mega-site.in
 0.0.0.0 mega555kf7lsmb54yd.com
+0.0.0.0 mega555kf7lsmb54yds.com
 0.0.0.0 megacdn.top
 0.0.0.0 megadeliveryn.com
 0.0.0.0 megapopads.com
@@ -18231,6 +18239,7 @@
 0.0.0.0 motleyanybody.com
 0.0.0.0 moto.law
 0.0.0.0 motong.app
+0.0.0.0 motorhomedealers.uk
 0.0.0.0 motoriesm.com
 0.0.0.0 motorisedgrills.co.uk
 0.0.0.0 motorwardso.com.ua
@@ -18903,6 +18912,7 @@
 0.0.0.0 newaprads.com
 0.0.0.0 newbiemart.com
 0.0.0.0 newbuildslincolnshire.co.uk
+0.0.0.0 newbuildslincolnshire.uk
 0.0.0.0 newcitycolorado.org
 0.0.0.0 newcitykirk.org
 0.0.0.0 newdemeanourhunchback.com
@@ -20491,6 +20501,7 @@
 0.0.0.0 oxfordfreepress.co.uk
 0.0.0.0 oxharmonysample.com
 0.0.0.0 oxhkrapa.com
+0.0.0.0 oxigeniabestrestaurants.org
 0.0.0.0 oxmkhuotcz.com
 0.0.0.0 oxrdusxse.top
 0.0.0.0 oxrendflare.com
@@ -32307,6 +32318,7 @@
 0.0.0.0 www.dinosaurenchantment.com
 0.0.0.0 www.dinosaurrestore.com
 0.0.0.0 www.diplomasewerivory.com
+0.0.0.0 www.directfares.net
 0.0.0.0 www.directionssecondary.com
 0.0.0.0 www.disagreegenerator.com
 0.0.0.0 www.disappearingstayingdamaging.com
@@ -32609,6 +32621,7 @@
 0.0.0.0 www.frostbannk.com
 0.0.0.0 www.fructus.app
 0.0.0.0 www.frugalityabruptly.com
+0.0.0.0 www.fruitfulgreenhousefacility.com
 0.0.0.0 www.ftjcfx.com
 0.0.0.0 www.fuelcompatibleblaspheme.com
 0.0.0.0 www.fuli2023.com
@@ -32701,6 +32714,7 @@
 0.0.0.0 www.greenhousecape.com
 0.0.0.0 www.greenretails.com
 0.0.0.0 www.grehtrsan.com
+0.0.0.0 www.greworganizer.com
 0.0.0.0 www.grimaceattirebright.com
 0.0.0.0 www.grimdiscord.com
 0.0.0.0 www.grishamkansal.com
@@ -33963,6 +33977,7 @@
 0.0.0.0 www.stagetortoiseinfatuated.com
 0.0.0.0 www.stallamenchisel.com
 0.0.0.0 www.stampburpcolored.com
+0.0.0.0 www.standardclockspacious.com
 0.0.0.0 www.standup.bio
 0.0.0.0 www.stardom1in11.com
 0.0.0.0 www.staredfishyscout.com
@@ -34246,6 +34261,7 @@
 0.0.0.0 www.usuallyformal.com
 0.0.0.0 www.v2rty.xyz
 0.0.0.0 www.vaccinegrownparliamentary.com
+0.0.0.0 www.validsquatcyber.com
 0.0.0.0 www.valleylamentclass.com
 0.0.0.0 www.valuabletuskbadge.com
 0.0.0.0 www.valuationbothertoo.com
