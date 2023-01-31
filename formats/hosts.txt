@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.01.031
 # Release: 031
-# Entries: 35,654
-# Updated: Tue, 31 Jan 23 18:08:06 +06
+# Entries: 35,674
+# Updated: Tue, 31 Jan 23 20:11:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -312,8 +312,10 @@
 0.0.0.0 1xdtscudjemp.com
 0.0.0.0 1xroom.com
 0.0.0.0 1yangchenghudzx.com
+0.0.0.0 1yertsreds1.com
 0.0.0.0 1yesteray1.com
 0.0.0.0 1yesterdayx.com
+0.0.0.0 1ypersters1.com
 0.0.0.0 2-0-2-2.fun
 0.0.0.0 2-is.com
 0.0.0.0 2-o.org
@@ -1850,6 +1852,7 @@
 0.0.0.0 adv.money
 0.0.0.0 adv9.net
 0.0.0.0 advabnqu.com
+0.0.0.0 advanappstore.com
 0.0.0.0 advancedphysiques.com
 0.0.0.0 advancementaccrue.com
 0.0.0.0 advancemultimedia.online
@@ -2076,6 +2079,7 @@
 0.0.0.0 africaewgrhdtb.com
 0.0.0.0 africanunionsc.org
 0.0.0.0 africastores.co.uk
+0.0.0.0 africatraveling.com
 0.0.0.0 africawin.com
 0.0.0.0 afrier.com
 0.0.0.0 afriet.com
@@ -5186,6 +5190,7 @@
 0.0.0.0 bowlsolicitor.com
 0.0.0.0 bowmoolog.com
 0.0.0.0 bowpinfrow.com
+0.0.0.0 box-ed.org
 0.0.0.0 boximerch.com
 0.0.0.0 boxipeer.com
 0.0.0.0 boxofficeliterally.com
@@ -6015,6 +6020,7 @@
 0.0.0.0 ccaojkdacab.com
 0.0.0.0 ccbaitco.com
 0.0.0.0 ccjzuavqrh.com
+0.0.0.0 ccletterart.org
 0.0.0.0 ccmengmeng.com
 0.0.0.0 ccn08sth.de
 0.0.0.0 ccs.scot
@@ -6279,6 +6285,7 @@
 0.0.0.0 chatheez.net
 0.0.0.0 chattanooganeighborhood.com
 0.0.0.0 chatteralegars.store
+0.0.0.0 chatterboxtardy.com
 0.0.0.0 chattertasty.com
 0.0.0.0 chaubseet.com
 0.0.0.0 chaudrep.net
@@ -6941,6 +6948,7 @@
 0.0.0.0 collationstrend.com
 0.0.0.0 colldy.net
 0.0.0.0 collect-opolis.co.uk
+0.0.0.0 collect-opolis.uk
 0.0.0.0 collection-day.com
 0.0.0.0 collectionmpmusic.xyz
 0.0.0.0 collectionspriestcardiac.com
@@ -11268,6 +11276,7 @@
 0.0.0.0 francetobaccotrading.com
 0.0.0.0 franchaise.in
 0.0.0.0 franchise-kwt.com
+0.0.0.0 franchiseaccountingservices.co.uk
 0.0.0.0 francoistsjacqu.info
 0.0.0.0 franecki.net
 0.0.0.0 franeski.net
@@ -12257,6 +12266,7 @@
 0.0.0.0 going.app.br
 0.0.0.0 goingprayer.com
 0.0.0.0 goingtoothachemagician.com
+0.0.0.0 gojurassic.co.uk
 0.0.0.0 gokedoas.xyz
 0.0.0.0 gokshur.com
 0.0.0.0 gold2762.com
@@ -15221,6 +15231,7 @@
 0.0.0.0 jstatic.org
 0.0.0.0 jstiz.shop
 0.0.0.0 jsw1.biz
+0.0.0.0 jswone.org
 0.0.0.0 jswretail.org
 0.0.0.0 jswxly.com
 0.0.0.0 jsyfqeynrvg.com
@@ -19579,6 +19590,7 @@
 0.0.0.0 oasazedy.com
 0.0.0.0 oaseafood.org
 0.0.0.0 oasentsbrininner.com
+0.0.0.0 oasseafood.org
 0.0.0.0 oastalra.net
 0.0.0.0 oataltaul.com
 0.0.0.0 oatmealaspectpulp.com
@@ -20251,6 +20263,7 @@
 0.0.0.0 osfjiqj.com
 0.0.0.0 oshfmwrjfdki.com
 0.0.0.0 oshxhofaf.com
+0.0.0.0 osiextantly.com
 0.0.0.0 osifelanseante.lol
 0.0.0.0 ositic.com
 0.0.0.0 osjttqqlpkodn.top
@@ -24983,6 +24996,7 @@
 0.0.0.0 shifoagn.uk
 0.0.0.0 shiftclang.com
 0.0.0.0 shiftdimplelocum.com
+0.0.0.0 shihewoo.com
 0.0.0.0 shikroux.net
 0.0.0.0 shillivee.pro
 0.0.0.0 shiltirs.com
@@ -26641,6 +26655,7 @@
 0.0.0.0 sydneysharpestudio.ca
 0.0.0.0 syenitetatler.tech
 0.0.0.0 syllin.com
+0.0.0.0 sylvatealonely.com
 0.0.0.0 symbioticdependancies.com
 0.0.0.0 symbolstudents.com
 0.0.0.0 symbolultrasound.com
@@ -29244,6 +29259,7 @@
 0.0.0.0 uniswap.space
 0.0.0.0 uniswap.wiki
 0.0.0.0 unitedaidbangladesh.com
+0.0.0.0 unitedpeopleofcanada.com
 0.0.0.0 unitedsavingspros.com
 0.0.0.0 unitepoisonousdetest.com
 0.0.0.0 unitethecows.com
@@ -31625,6 +31641,7 @@
 0.0.0.0 www.affluentmirth.com
 0.0.0.0 www.affordability.app
 0.0.0.0 www.affordspoonsgray.com
+0.0.0.0 www.africatraveling.com
 0.0.0.0 www.afrikamaat.com
 0.0.0.0 www.aggravateexaggerate.com
 0.0.0.0 www.ahagreatlypromised.com
@@ -31943,6 +31960,7 @@
 0.0.0.0 www.buffaloexemptdropped.com
 0.0.0.0 www.buieslanding.com
 0.0.0.0 www.buildingabettercolumbus.com
+0.0.0.0 www.bullnunname.com
 0.0.0.0 www.buncounsel.com
 0.0.0.0 www.bunintruder.com
 0.0.0.0 www.bunquaver.com
@@ -33388,6 +33406,7 @@
 0.0.0.0 www.otheradsads.xyz
 0.0.0.0 www.otherwisesemicolon.com
 0.0.0.0 www.ourwildpreciouslife.com
+0.0.0.0 www.outbalancejeff.com
 0.0.0.0 www.outbidashes.com
 0.0.0.0 www.outlawchillpropose.com
 0.0.0.0 www.outmatchtaughtdeparture.com
@@ -34201,6 +34220,7 @@
 0.0.0.0 www.unfinishedheir.com
 0.0.0.0 www.unicornlaboratories.com
 0.0.0.0 www.uniformutilitiesexpressing.com
+0.0.0.0 www.unitedpeopleofcanada.com
 0.0.0.0 www.unitepoisonousdetest.com
 0.0.0.0 www.unjustsubmerge.com
 0.0.0.0 www.unkindvanilla.com
