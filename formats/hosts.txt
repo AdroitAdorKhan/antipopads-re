@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.033
 # Release: 033
-# Entries: 36,300
-# Updated: Thu, 02 Feb 23 12:12:07 +06
+# Entries: 36,309
+# Updated: Thu, 02 Feb 23 14:07:59 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3004,6 +3004,7 @@
 0.0.0.0 apollohl.care
 0.0.0.0 apollohl.hospital
 0.0.0.0 apollomedicalcentre.health
+0.0.0.0 apollospectra.care
 0.0.0.0 apollosugar.care
 0.0.0.0 apollosugar.health
 0.0.0.0 apologiesbackyardbayonet.com
@@ -3050,6 +3051,7 @@
 0.0.0.0 applekfcu.org
 0.0.0.0 applemagicsauce.com
 0.0.0.0 applenfcu.org
+0.0.0.0 applepreschool.uk
 0.0.0.0 applescringe.com
 0.0.0.0 applesometimes.com
 0.0.0.0 applevfcu.org
@@ -5540,6 +5542,7 @@
 0.0.0.0 buhatfjrk9dje10eme.com
 0.0.0.0 buieslanding.com
 0.0.0.0 buikolered.com
+0.0.0.0 builderinbristol.uk
 0.0.0.0 buildersinbox.uk
 0.0.0.0 buildingabettercolumbus.com
 0.0.0.0 buildingcontractorslincolnshire.co.uk
@@ -10715,6 +10718,7 @@
 0.0.0.0 faultsspeck.com
 0.0.0.0 faused.com
 0.0.0.0 fauvesez.net
+0.0.0.0 fauxpausej.top
 0.0.0.0 favcstct.com
 0.0.0.0 favikre.top
 0.0.0.0 favorable-lady.pro
@@ -17578,6 +17582,7 @@
 0.0.0.0 mannarora.com
 0.0.0.0 mannerstiring.com
 0.0.0.0 mannetenlink.digital
+0.0.0.0 mannobrothers.net
 0.0.0.0 mannocorp.info
 0.0.0.0 mannocorp.net
 0.0.0.0 mannocorp.org
@@ -18823,6 +18828,7 @@
 0.0.0.0 myimagetracking.com
 0.0.0.0 myjagran.com
 0.0.0.0 myjollyrudder.com
+0.0.0.0 mykalkanrentals.co.uk
 0.0.0.0 mykennettnow.com
 0.0.0.0 mykhtesikvuz.com
 0.0.0.0 mykiger.com
@@ -24485,6 +24491,7 @@
 0.0.0.0 ruperparverew.xyz
 0.0.0.0 rurate.com
 0.0.0.0 rusenov.com
+0.0.0.0 rushcreekyc.org
 0.0.0.0 rusheemeso.digital
 0.0.0.0 rushingrentals.com
 0.0.0.0 rushonuco.com
@@ -27307,6 +27314,7 @@
 0.0.0.0 tataplayclassiccinema.org
 0.0.0.0 tataplaycooking.org
 0.0.0.0 tataplaydish.biz
+0.0.0.0 tataplayfibre.org
 0.0.0.0 tataplayfitness.org
 0.0.0.0 tataplayguide.biz
 0.0.0.0 tataplayhd.biz
@@ -33053,6 +33061,7 @@
 0.0.0.0 www.featoutline.com
 0.0.0.0 www.feelbattletroop.com
 0.0.0.0 www.feelingsdelight.com
+0.0.0.0 www.feignthat.com
 0.0.0.0 www.felicitychill.com
 0.0.0.0 www.femalenurture.com
 0.0.0.0 www.fenacheaverage.com
