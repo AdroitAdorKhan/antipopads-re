@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.033
 # Release: 033
-# Entries: 36,286
-# Updated: Thu, 02 Feb 23 10:08:13 +06
+# Entries: 36,300
+# Updated: Thu, 02 Feb 23 12:12:07 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2812,6 +2812,7 @@
 0.0.0.0 anguishleague.com
 0.0.0.0 angularconstitution.com
 0.0.0.0 anielaelzanowska.com
+0.0.0.0 aniesup.biz
 0.0.0.0 anightsregalia.cam
 0.0.0.0 animalgiftingfacts.org
 0.0.0.0 animated-button.pro
@@ -2997,6 +2998,7 @@
 0.0.0.0 apollodental.care
 0.0.0.0 apollodental.health
 0.0.0.0 apollodialysis.care
+0.0.0.0 apollodialysis.hospital
 0.0.0.0 apollohealthcare.health
 0.0.0.0 apollohealthcare.hospital
 0.0.0.0 apollohl.care
@@ -6064,6 +6066,7 @@
 0.0.0.0 cauthaushoas.com
 0.0.0.0 cautiouscooperativegentlemen.com
 0.0.0.0 cav12.xyz
+0.0.0.0 cavalrydoomeddoorbell.com
 0.0.0.0 cavelyamun.com
 0.0.0.0 cavernousshift.pro
 0.0.0.0 cavip678.com
@@ -8373,6 +8376,7 @@
 0.0.0.0 dersoova.net
 0.0.0.0 desabrator.com
 0.0.0.0 desadu.com
+0.0.0.0 desbravacrossfit.com
 0.0.0.0 descargasxyz.com
 0.0.0.0 descendantmystery.com
 0.0.0.0 descow.com
@@ -12607,6 +12611,7 @@
 0.0.0.0 graizoah.com
 0.0.0.0 graja.top
 0.0.0.0 grameenhub.org
+0.0.0.0 graminhub.org
 0.0.0.0 grammarselfish.com
 0.0.0.0 gramrebecca.com
 0.0.0.0 granarybroughtfun.com
@@ -14199,6 +14204,7 @@
 0.0.0.0 ik.kibejoyant.com
 0.0.0.0 ikcaru.com
 0.0.0.0 ikcyxcbqmoptk.com
+0.0.0.0 ikf-holding.it
 0.0.0.0 ikingsoft.com
 0.0.0.0 ikjipoximhdorya.top
 0.0.0.0 iklghjooyj.com
@@ -16542,6 +16548,7 @@
 0.0.0.0 learningaware.com
 0.0.0.0 learningblink.com
 0.0.0.0 learningproportion.com
+0.0.0.0 learningrama.co.uk
 0.0.0.0 learnlifescience.com
 0.0.0.0 learntinga.com
 0.0.0.0 learntjubilee.com
@@ -17286,6 +17293,7 @@
 0.0.0.0 luvthecov.org
 0.0.0.0 luwherupt.com
 0.0.0.0 luwiakgcxhclz.com
+0.0.0.0 lux4luv.org
 0.0.0.0 luxadv.com
 0.0.0.0 luxins.net
 0.0.0.0 luxlnk.com
@@ -22735,6 +22743,7 @@
 0.0.0.0 purposeparking.com
 0.0.0.0 pursedistraught.com
 0.0.0.0 pursey.uk
+0.0.0.0 pursuedfourteenth.com
 0.0.0.0 pursuing31.com
 0.0.0.0 pursuingconjunction.com
 0.0.0.0 pursuitnauseousinvalid.com
@@ -27789,6 +27798,8 @@
 0.0.0.0 themereplacebiopsy.com
 0.0.0.0 themesh.xyz
 0.0.0.0 themetamask.io
+0.0.0.0 themexlican.com
+0.0.0.0 themoveison.org
 0.0.0.0 themoviesflix.art
 0.0.0.0 themselphenyls.com
 0.0.0.0 themusicmissionnow.org
@@ -28796,6 +28807,7 @@
 0.0.0.0 trashyepochabsorbing.com
 0.0.0.0 trashyfindconfront.com
 0.0.0.0 trasportestramosa.com
+0.0.0.0 trasportiperoni.it
 0.0.0.0 trasteandoencontre.com
 0.0.0.0 tratamentocapilar.top
 0.0.0.0 trathe.com
@@ -32520,6 +32532,7 @@
 0.0.0.0 www.cataracttragedy.com
 0.0.0.0 www.catdatarecovery.com
 0.0.0.0 www.catscanty.com
+0.0.0.0 www.cavalrydoomeddoorbell.com
 0.0.0.0 www.cbarmedia.com
 0.0.0.0 www.cbseastra.com
 0.0.0.0 www.cc-compass.org
@@ -33373,6 +33386,7 @@
 0.0.0.0 www.iglesiacristoelrey.com
 0.0.0.0 www.ignobleinnovationcollateral.com
 0.0.0.0 www.ignoringpromisingonce.com
+0.0.0.0 www.ikf-holding.it
 0.0.0.0 www.ikingsoft.com
 0.0.0.0 www.illegibledismiss.com
 0.0.0.0 www.illuminatelocks.com
