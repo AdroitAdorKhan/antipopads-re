@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.034
 # Release: 034
-# Entries: 36,919
-# Updated: Fri, 03 Feb 23 16:11:30 +06
+# Entries: 36,946
+# Updated: Fri, 03 Feb 23 18:10:57 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2091,6 +2091,7 @@
 0.0.0.0 afgr7.com
 0.0.0.0 afgr8.com
 0.0.0.0 afgr9.com
+0.0.0.0 afieldoflove.org
 0.0.0.0 afinti.com
 0.0.0.0 afk-i.com
 0.0.0.0 aflozym.org
@@ -4098,6 +4099,7 @@
 0.0.0.0 balancedbooksbs.com
 0.0.0.0 balancedweakness.com
 0.0.0.0 balancemailbox.com
+0.0.0.0 balaxipharmaceuticals.org
 0.0.0.0 balcekonspn.com
 0.0.0.0 balconypeer.com
 0.0.0.0 baldbaptismrisk.com
@@ -5618,6 +5620,7 @@
 0.0.0.0 bulkybawler.com
 0.0.0.0 bullads.net
 0.0.0.0 bullcrypt.org
+0.0.0.0 bullesdesens.top
 0.0.0.0 bulletprofitads.com
 0.0.0.0 bulletprofitpop.com
 0.0.0.0 bullionyield.com
@@ -7246,6 +7249,7 @@
 0.0.0.0 compulsionspotsbeacon.com
 0.0.0.0 computashare.com
 0.0.0.0 computebailiff.com
+0.0.0.0 computiny.com
 0.0.0.0 comradeattend.com
 0.0.0.0 comradeawe.com
 0.0.0.0 comradecrumblehari.com
@@ -10293,6 +10297,7 @@
 0.0.0.0 et.harmoutguereza.com
 0.0.0.0 et.inclusahonkie.com
 0.0.0.0 etacisthighest.space
+0.0.0.0 etap.link
 0.0.0.0 etapescaisse.com
 0.0.0.0 etaptec.com
 0.0.0.0 etcodes.com
@@ -11848,6 +11853,7 @@
 0.0.0.0 gaejbsjai.com
 0.0.0.0 gaelsdaniele.website
 0.0.0.0 gagacon.com
+0.0.0.0 gageitevanlay.uno
 0.0.0.0 gaghygienetheir.com
 0.0.0.0 gagpetwet.com
 0.0.0.0 gagtheir.com
@@ -13134,6 +13140,7 @@
 0.0.0.0 halaljapan.info
 0.0.0.0 halchludwig.com
 0.0.0.0 halffullglassnews.com
+0.0.0.0 halfhaled.com
 0.0.0.0 halfhourholidays.co.uk
 0.0.0.0 halfmoonsights.com
 0.0.0.0 halfpriceozarks.com
@@ -18370,6 +18377,7 @@
 0.0.0.0 min.co
 0.0.0.0 mincethingsmarch.com
 0.0.0.0 mindactual.com
+0.0.0.0 mindamender.com
 0.0.0.0 mindedcarious.com
 0.0.0.0 mindfulbharatabhiyan.com
 0.0.0.0 mindless-series.pro
@@ -23663,6 +23671,7 @@
 0.0.0.0 raigluce.net
 0.0.0.0 raigns.com
 0.0.0.0 railfrog.com
+0.0.0.0 railport.in
 0.0.0.0 railroadfatherenlargement.com
 0.0.0.0 railroadignorant.com
 0.0.0.0 railroadtomato.com
@@ -24210,6 +24219,7 @@
 0.0.0.0 resolutioncomplexionfinishing.com
 0.0.0.0 resonance.pk
 0.0.0.0 resonantbrush.com
+0.0.0.0 resonantvoices.co.uk
 0.0.0.0 resoprime.com
 0.0.0.0 resortinspireresolution.com
 0.0.0.0 resourceagrarianhavoc.com
@@ -26174,6 +26184,7 @@
 0.0.0.0 skaninbox.uk
 0.0.0.0 skanindex.uk
 0.0.0.0 skanpoints.uk
+0.0.0.0 skanproperty.uk
 0.0.0.0 skanshopping.uk
 0.0.0.0 skantrader.uk
 0.0.0.0 skantv.uk
@@ -26334,10 +26345,12 @@
 0.0.0.0 smartmarthandyman.co.uk
 0.0.0.0 smartmnews.pro
 0.0.0.0 smartnmc.com
+0.0.0.0 smartonfood.co.uk
 0.0.0.0 smartredesign.org
 0.0.0.0 smartsecure-tata-play.info
 0.0.0.0 smartsecure-tata-play.live
 0.0.0.0 smartsecure-tata-play.org
+0.0.0.0 smartsecure-tataplay.org
 0.0.0.0 smartsecuretataplay.biz
 0.0.0.0 smartsecuretataplay.live
 0.0.0.0 smartsecuretataplay.org
@@ -29183,6 +29196,7 @@
 0.0.0.0 traffic.club
 0.0.0.0 traffic.marketbiz.net
 0.0.0.0 traffic.name
+0.0.0.0 trafficbass.com
 0.0.0.0 trafficdok.com
 0.0.0.0 trafficforce.com
 0.0.0.0 traffichaus.com
@@ -30969,6 +30983,7 @@
 0.0.0.0 victoriospizzasplus.com
 0.0.0.0 victoriouspastimeculture.com
 0.0.0.0 victorioussingles.com
+0.0.0.0 victorstoveparts.com
 0.0.0.0 victoryoutdoorlighting.com
 0.0.0.0 victorysurfshop.com
 0.0.0.0 vicunashazelly.uno
@@ -32986,6 +33001,7 @@
 0.0.0.0 www.buffaloexemptdropped.com
 0.0.0.0 www.buieslanding.com
 0.0.0.0 www.buildingabettercolumbus.com
+0.0.0.0 www.bullesdesens.top
 0.0.0.0 www.bullnunname.com
 0.0.0.0 www.buncounsel.com
 0.0.0.0 www.bunintruder.com
@@ -33057,6 +33073,7 @@
 0.0.0.0 www.cellsmonitor.com
 0.0.0.0 www.celsiusours.com
 0.0.0.0 www.cenrefk.com
+0.0.0.0 www.censorcolonizegreatness.com
 0.0.0.0 www.censuschorus.com
 0.0.0.0 www.centeredfailinghotline.com
 0.0.0.0 www.centpopped.com
@@ -33386,6 +33403,7 @@
 0.0.0.0 www.dns9323323898.com
 0.0.0.0 www.dnseasy1.org
 0.0.0.0 www.dnsgeoip.org
+0.0.0.0 www.dnwine.com
 0.0.0.0 www.doaminsq.com
 0.0.0.0 www.docomo.network
 0.0.0.0 www.doctovc.com
@@ -33993,6 +34011,7 @@
 0.0.0.0 www.installmentloanvatv.org
 0.0.0.0 www.installwasd.com
 0.0.0.0 www.instancetonsil.com
+0.0.0.0 www.instinctcringe.com
 0.0.0.0 www.institutepigeonsfinger.com
 0.0.0.0 www.instructorstudied.com
 0.0.0.0 www.insuranceripenslender.com
@@ -34043,6 +34062,7 @@
 0.0.0.0 www.janglemankind.com
 0.0.0.0 www.janitorcanvass.com
 0.0.0.0 www.javatroll.biz
+0.0.0.0 www.javd007.com
 0.0.0.0 www.jdnje.com
 0.0.0.0 www.jdoqocy.com
 0.0.0.0 www.jeandesigns.net
@@ -34598,6 +34618,7 @@
 0.0.0.0 www.peachrecess.com
 0.0.0.0 www.peacockdienook.com
 0.0.0.0 www.peanutsurrogatesurrogate.com
+0.0.0.0 www.pedinformatika.ru
 0.0.0.0 www.peepacquisitionavalanche.com
 0.0.0.0 www.peepholeconceiveupside.com
 0.0.0.0 www.peevishchasingstir.com
@@ -35144,6 +35165,7 @@
 0.0.0.0 www.stacklegion.com
 0.0.0.0 www.stagetortoiseinfatuated.com
 0.0.0.0 www.stallamenchisel.com
+0.0.0.0 www.stalleugenebounce.com
 0.0.0.0 www.stampburpcolored.com
 0.0.0.0 www.standardclockspacious.com
 0.0.0.0 www.standup.bio
@@ -35227,6 +35249,7 @@
 0.0.0.0 www.sxnkzm.com
 0.0.0.0 www.syedretsed.com
 0.0.0.0 www.sympathyrant.com
+0.0.0.0 www.sz8051.com
 0.0.0.0 www.tabledownstairsprovocative.com
 0.0.0.0 www.tackymust.com
 0.0.0.0 www.takepalpablenuisance.com
@@ -35307,6 +35330,7 @@
 0.0.0.0 www.thickcharityinextricable.com
 0.0.0.0 www.threatenedpersonnel.com
 0.0.0.0 www.threefortressfork.com
+0.0.0.0 www.thresholdfunction.com
 0.0.0.0 www.thriveradioactivecheers.com
 0.0.0.0 www.throwsynchronizesavoury.com
 0.0.0.0 www.thutm-bru.com
@@ -35546,6 +35570,7 @@
 0.0.0.0 www.widezealconstant.com
 0.0.0.0 www.wilfridscandalconceived.com
 0.0.0.0 www.win-bets.net
+0.0.0.0 www.win7simu.com
 0.0.0.0 www.winarmy.com
 0.0.0.0 www.windealsday.com
 0.0.0.0 www.windowsforus.com
@@ -35633,6 +35658,7 @@
 0.0.0.0 www.ytmp4.nu
 0.0.0.0 www.yump3s.com
 0.0.0.0 www.yvesmadame.com
+0.0.0.0 www.yw3azp558q8slfedm1ox2ehqah.com
 0.0.0.0 www.yymh853.com
 0.0.0.0 www.zabpbhko.com
 0.0.0.0 www.zagtertda.com
@@ -36650,6 +36676,7 @@
 0.0.0.0 zaphakesleigh.com
 0.0.0.0 zapper-fi.foundation
 0.0.0.0 zapunited.com
+0.0.0.0 zaracampbell.scot
 0.0.0.0 zaratllc.com
 0.0.0.0 zargaron.com
 0.0.0.0 zarishmaritime.com
