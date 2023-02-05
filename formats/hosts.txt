@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.036
 # Release: 036
-# Entries: 37,390
-# Updated: Sun, 05 Feb 23 10:07:38 +06
+# Entries: 37,392
+# Updated: Sun, 05 Feb 23 12:08:07 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20533,6 +20533,7 @@
 0.0.0.0 offerstrack.net
 0.0.0.0 offfurreton.com
 0.0.0.0 offgate-app-phkr.com
+0.0.0.0 office365email.tech
 0.0.0.0 officerolivehaughty.com
 0.0.0.0 officialbanisters.com
 0.0.0.0 officialcardcarryingtexan.com
@@ -33926,6 +33927,7 @@
 0.0.0.0 www.essentiallyscramble.com
 0.0.0.0 www.establishbrightestsavvy.com
 0.0.0.0 www.esvastickers.com
+0.0.0.0 www.eternitycounsellor.com
 0.0.0.0 www.etheldintimacy.com
 0.0.0.0 www.eti-code.com
 0.0.0.0 www.eukiert.com
