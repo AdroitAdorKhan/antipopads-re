@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.036
 # Release: 036
-# Entries: 37,392
-# Updated: Sun, 05 Feb 23 12:08:07 +06
+# Entries: 37,396
+# Updated: Sun, 05 Feb 23 14:07:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -34199,6 +34199,7 @@
 0.0.0.0 www.grishamkansal.com
 0.0.0.0 www.grodtur.com
 0.0.0.0 www.grtaanmdu.com
+0.0.0.0 www.grubrebukevenus.com
 0.0.0.0 www.grudgemotivate.com
 0.0.0.0 www.grungertsersew.com
 0.0.0.0 www.grupif.com
@@ -34739,6 +34740,7 @@
 0.0.0.0 www.medicinebymom.com
 0.0.0.0 www.medilinkers.com
 0.0.0.0 www.meditatecable.com
+0.0.0.0 www.medscriptowl.com
 0.0.0.0 www.medynsky.co.uk
 0.0.0.0 www.meetexhibitcautiously.com
 0.0.0.0 www.meetingcivilfilling.com
@@ -34825,6 +34827,7 @@
 0.0.0.0 www.multitudeenviable.com
 0.0.0.0 www.mumbaikar.online
 0.0.0.0 www.mumbaitrends.com.mumbaikar.online
+0.0.0.0 www.mumcreator.com
 0.0.0.0 www.mupwj.org
 0.0.0.0 www.muralshelvesdeposition.com
 0.0.0.0 www.mushroomphilosophicalincorrect.com
@@ -35512,6 +35515,7 @@
 0.0.0.0 www.sjhs001.com
 0.0.0.0 www.skidgleambrand.com
 0.0.0.0 www.skillgames.biz
+0.0.0.0 www.skinsdefinitely.com
 0.0.0.0 www.slaughtergarageparttime.com
 0.0.0.0 www.slavewindows.com
 0.0.0.0 www.sleazyparliamentarybikini.com
