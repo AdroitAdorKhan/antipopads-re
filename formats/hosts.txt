@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.037
 # Release: 037
-# Entries: 37,719
-# Updated: Mon, 06 Feb 23 20:07:16 +06
+# Entries: 37,787
+# Updated: Mon, 06 Feb 23 22:08:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -377,8 +377,25 @@
 0.0.0.0 23936a.com
 0.0.0.0 239florida.life
 0.0.0.0 239floridalife.com
+0.0.0.0 23ark.net
+0.0.0.0 23ark.org
+0.0.0.0 23ark.pro
 0.0.0.0 23bd96f59c.a9e8387c9e.com
+0.0.0.0 23btc.io
+0.0.0.0 23btc.net
+0.0.0.0 23btc.pro
 0.0.0.0 23dy.info
+0.0.0.0 23eth.io
+0.0.0.0 23eth.net
+0.0.0.0 23eth.org
+0.0.0.0 23eth.pro
+0.0.0.0 23ms.pro
+0.0.0.0 23tesla.com
+0.0.0.0 23tesla.net
+0.0.0.0 23tesla.pro
+0.0.0.0 23xrp.com
+0.0.0.0 23xrp.net
+0.0.0.0 23xrp.pro
 0.0.0.0 24-sportnews.com
 0.0.0.0 242d9882a2.com
 0.0.0.0 244367.cc
@@ -500,6 +517,7 @@
 0.0.0.0 2vid.top
 0.0.0.0 2wetrsohelix.com
 0.0.0.0 2x2mfeed.com
+0.0.0.0 2xtsla.io
 0.0.0.0 3-arabi.com
 0.0.0.0 3-mobiappu.com
 0.0.0.0 300daytravel.com
@@ -3289,10 +3307,15 @@
 0.0.0.0 ariseoluwafesobi.tech
 0.0.0.0 aristotle-lib.com
 0.0.0.0 arithmeticshovel.com
+0.0.0.0 ark2023.org
+0.0.0.0 ark23.net
+0.0.0.0 ark23.org
+0.0.0.0 ark23.pro
 0.0.0.0 arkalealb.site
 0.0.0.0 arkbahale.club
 0.0.0.0 arkfacialdaybreak.com
 0.0.0.0 arkinhechershedt.xyz
+0.0.0.0 arklnvest.org
 0.0.0.0 arkosicginkgo.digital
 0.0.0.0 arlyreven.top
 0.0.0.0 armacentremala.com
@@ -5615,6 +5638,9 @@
 0.0.0.0 btaihe.com
 0.0.0.0 btaoc.xyz
 0.0.0.0 btbdys001.com
+0.0.0.0 btc23.io
+0.0.0.0 btc23.net
+0.0.0.0 btc23.pro
 0.0.0.0 btcadtop.com
 0.0.0.0 btcblock.app
 0.0.0.0 btcgenerator.click
@@ -7883,6 +7909,7 @@
 0.0.0.0 cryllex.org
 0.0.0.0 cryparena.biz
 0.0.0.0 cryparena.org
+0.0.0.0 crypto2x.io
 0.0.0.0 cryptocexchange.online
 0.0.0.0 cryptogramwines.org
 0.0.0.0 cryptokia.app
@@ -10099,6 +10126,9 @@
 0.0.0.0 ellpaniers.com
 0.0.0.0 elmspro.com
 0.0.0.0 elnufiae.fun
+0.0.0.0 elon23.com
+0.0.0.0 elon23.net
+0.0.0.0 elon23.org
 0.0.0.0 elonreptiloid.com
 0.0.0.0 elooksjustli.one
 0.0.0.0 eloquencer.com
@@ -10489,6 +10519,10 @@
 0.0.0.0 etelooks.buzz
 0.0.0.0 etereyouma.info
 0.0.0.0 eternitycounsellor.com
+0.0.0.0 eth2023.io
+0.0.0.0 eth2023.org
+0.0.0.0 eth2023.pro
+0.0.0.0 eth23.org
 0.0.0.0 ethatwasallw.xyz
 0.0.0.0 etheldintimacy.com
 0.0.0.0 etheopportu.biz
@@ -14862,6 +14896,7 @@
 0.0.0.0 indoorflowers.net
 0.0.0.0 indooritalian.com
 0.0.0.0 indoorsbeliefgrew.com
+0.0.0.0 indraneelconsultants.tech
 0.0.0.0 industrialflooringcontractor.co.uk
 0.0.0.0 industrykeep.com
 0.0.0.0 indutus.co.uk
@@ -15581,6 +15616,7 @@
 0.0.0.0 jcscarautoservice.com
 0.0.0.0 jcyunk2.com
 0.0.0.0 jdclredir.com
+0.0.0.0 jdidi.tech
 0.0.0.0 jdnje.com
 0.0.0.0 jdtpa.org
 0.0.0.0 jdufvnoytl.com
@@ -19219,6 +19255,7 @@
 0.0.0.0 mrzikj.com
 0.0.0.0 ms.florasfurca.com
 0.0.0.0 ms.hoppersaedilic.com
+0.0.0.0 ms23.io
 0.0.0.0 ms3t.club
 0.0.0.0 ms900.info
 0.0.0.0 mscoldness.com
@@ -19227,6 +19264,10 @@
 0.0.0.0 mslafttenburner.online
 0.0.0.0 msload.com
 0.0.0.0 mstorer.net
+0.0.0.0 mstr23.com
+0.0.0.0 mstr23.io
+0.0.0.0 mstr23.org
+0.0.0.0 mstr23.pro
 0.0.0.0 msypr.com
 0.0.0.0 mt.rtmark.net
 0.0.0.0 mt34iofvjay.com
@@ -20439,6 +20480,7 @@
 0.0.0.0 nvqjpzxufp.com
 0.0.0.0 nvrblk.xyz
 0.0.0.0 nvyrgsqdqh.com
+0.0.0.0 nvzrirxwhj.com
 0.0.0.0 nw.stomachcinuran.com
 0.0.0.0 nwapartyvan.com
 0.0.0.0 nwayoo.world
@@ -25633,6 +25675,7 @@
 0.0.0.0 sameeksha.tech
 0.0.0.0 samentspersche.com
 0.0.0.0 sameplace.lol
+0.0.0.0 samerzayer.net
 0.0.0.0 samghasps.com
 0.0.0.0 sami21.tech
 0.0.0.0 samizdat.uk
@@ -25756,6 +25799,9 @@
 0.0.0.0 saxos.xyz
 0.0.0.0 saycasksabnegation.com
 0.0.0.0 saylnk.com
+0.0.0.0 saylor23.com
+0.0.0.0 saylor23.net
+0.0.0.0 saylor23.org
 0.0.0.0 sb-stat1.com
 0.0.0.0 sb.sockeyebrattle.com
 0.0.0.0 sb4you1.com
@@ -26342,6 +26388,7 @@
 0.0.0.0 shewaglumpy.tech
 0.0.0.0 shexawhy.net
 0.0.0.0 shgsdhfsdfbbe5.monster
+0.0.0.0 shiba23.org
 0.0.0.0 shidn.com
 0.0.0.0 shieldof5adam.com
 0.0.0.0 shieldthanks.com
@@ -27003,6 +27050,7 @@
 0.0.0.0 sodiumcupboard.com
 0.0.0.0 sofakoe.info
 0.0.0.0 sofcryingfo.xyz
+0.0.0.0 sofiacolpatriaredmultibanca.com
 0.0.0.0 sofinpushpile.com
 0.0.0.0 soft-com.biz
 0.0.0.0 soft-rufus.top
@@ -27733,6 +27781,7 @@
 0.0.0.0 stroveraved.com
 0.0.0.0 strowedatellan.com
 0.0.0.0 stroydoroga.ru
+0.0.0.0 strubmola.guru
 0.0.0.0 struckganzie.life
 0.0.0.0 strungglancedrunning.com
 0.0.0.0 sts01.com
@@ -28576,6 +28625,13 @@
 0.0.0.0 terrysoshkoshwi.com
 0.0.0.0 tersactlydeuppends.com
 0.0.0.0 tescomoblie.com
+0.0.0.0 tesla2023.io
+0.0.0.0 tesla2023.net
+0.0.0.0 tesla23.io
+0.0.0.0 tesla23.net
+0.0.0.0 tesla23.org
+0.0.0.0 teslabig.io
+0.0.0.0 teslatime.net
 0.0.0.0 tesplan.com
 0.0.0.0 tesswithoughcle.com
 0.0.0.0 test943.online
@@ -29138,6 +29194,7 @@
 0.0.0.0 timerichceo.com
 0.0.0.0 timerseeming.com
 0.0.0.0 timesletsfightdiabetes.org
+0.0.0.0 timesroadmapwed.com
 0.0.0.0 timessmalldraught.com
 0.0.0.0 timetraveltrades.com
 0.0.0.0 timewarpaircraft.com
@@ -30172,6 +30229,7 @@
 0.0.0.0 tsiwqtng8huauw30n.com
 0.0.0.0 tskayahic.com
 0.0.0.0 tskipadz.info
+0.0.0.0 tslax2.io
 0.0.0.0 tslomhfys.com
 0.0.0.0 tsml.fun
 0.0.0.0 tsmmanagementgroup.com
@@ -31424,6 +31482,7 @@
 0.0.0.0 vendorspro.org
 0.0.0.0 veneeringimpenetrable.com
 0.0.0.0 venfioletadas.com
+0.0.0.0 vengeful-egg.com
 0.0.0.0 venisonhumridicule.com
 0.0.0.0 venkrana.com
 0.0.0.0 venmanisatio.work
@@ -31818,6 +31877,7 @@
 0.0.0.0 vnbegthmqtdapep.com
 0.0.0.0 vneffwecka.com
 0.0.0.0 vnfunsvrtm.com
+0.0.0.0 vnjvupnrboobpz.com
 0.0.0.0 vnlpurlocx.com
 0.0.0.0 vnncnnmnn.com
 0.0.0.0 vnq33.com
@@ -34655,6 +34715,7 @@
 0.0.0.0 www.indigestionpious.com
 0.0.0.0 www.individualdavid.com
 0.0.0.0 www.indooritalian.com
+0.0.0.0 www.indraneelconsultants.tech
 0.0.0.0 www.industrykeep.com
 0.0.0.0 www.inediblebedside.com
 0.0.0.0 www.ineffectivefacescoat.com
@@ -35552,6 +35613,7 @@
 0.0.0.0 www.ravivaru.com
 0.0.0.0 www.rayrecollect.com
 0.0.0.0 www.rds.com.ng
+0.0.0.0 www.re-jc.com
 0.0.0.0 www.reachenvelope.com
 0.0.0.0 www.readbygrade3.com
 0.0.0.0 www.readydolphinpoverty.com
@@ -36476,6 +36538,8 @@
 0.0.0.0 wzogiwfapo.com
 0.0.0.0 wzuisptxzqbb.com
 0.0.0.0 x-adservice.com
+0.0.0.0 x2pal.com
+0.0.0.0 x2spacex.io
 0.0.0.0 x39showandtell.com
 0.0.0.0 x40u1vj75ks9.com
 0.0.0.0 x4pollyxxpush.com
@@ -36802,6 +36866,9 @@
 0.0.0.0 xrclusejukvakd.com
 0.0.0.0 xrdinchga.com
 0.0.0.0 xrossfoods.com
+0.0.0.0 xrp23.net
+0.0.0.0 xrp23.org
+0.0.0.0 xrp23.pro
 0.0.0.0 xrpl.international
 0.0.0.0 xrsjntdsr.xyz
 0.0.0.0 xrspeclottuilim.xyz
@@ -37156,6 +37223,7 @@
 0.0.0.0 yogauniversoytierra.com
 0.0.0.0 yogawrite.com
 0.0.0.0 yogeshaher.com
+0.0.0.0 yoginisairbus.com
 0.0.0.0 yogsnrlvwm.xyz
 0.0.0.0 yohny.tech
 0.0.0.0 yohoho.online
