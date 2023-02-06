@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.037
 # Release: 037
-# Entries: 37,714
-# Updated: Mon, 06 Feb 23 18:15:05 +06
+# Entries: 37,719
+# Updated: Mon, 06 Feb 23 20:07:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6486,6 +6486,7 @@
 0.0.0.0 chambersthanweed.com
 0.0.0.0 chameleon.ad
 0.0.0.0 chameleostudios.xml-v4.ak-is2.net
+0.0.0.0 chamib.com
 0.0.0.0 chamomilleoriginal.com
 0.0.0.0 champaup.com
 0.0.0.0 champi8n.com
@@ -15873,6 +15874,7 @@
 0.0.0.0 jourch.com
 0.0.0.0 journalijiar.com
 0.0.0.0 journalismdived.com
+0.0.0.0 journeyvancouver.com
 0.0.0.0 jouteetu.net
 0.0.0.0 jouwaist.net
 0.0.0.0 jouzoapi.com
@@ -28821,6 +28823,7 @@
 0.0.0.0 thenaturemama.com
 0.0.0.0 thenceafeard.com
 0.0.0.0 thenceextremeeyewitness.com
+0.0.0.0 thenewagephilosopher.store
 0.0.0.0 thenewmanteam.homes
 0.0.0.0 thenewstreams.com
 0.0.0.0 thenewzsense.com
@@ -34389,6 +34392,7 @@
 0.0.0.0 www.fusionwishful.com
 0.0.0.0 www.g0td0main.com
 0.0.0.0 www.g6h165y6.online
+0.0.0.0 www.gamber.bet
 0.0.0.0 www.gamingchairz.com
 0.0.0.0 www.gampley.com
 0.0.0.0 www.gangstervideoethnic.com
@@ -34780,6 +34784,7 @@
 0.0.0.0 www.jorbfstarn.com
 0.0.0.0 www.joshualewis.net
 0.0.0.0 www.journalijiar.com
+0.0.0.0 www.journeyvancouver.com
 0.0.0.0 www.joycreatorheader.com
 0.0.0.0 www.joyfuldwight.com
 0.0.0.0 www.joyhetail.com
