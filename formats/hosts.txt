@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.038
 # Release: 038
-# Entries: 37,790
-# Updated: Tue, 07 Feb 23 00:07:25 +06
+# Entries: 37,816
+# Updated: Tue, 07 Feb 23 02:15:43 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1502,6 +1502,7 @@
 0.0.0.0 ad-clicks.com
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad-flow.com
+0.0.0.0 ad-free.info
 0.0.0.0 ad-indicator.com
 0.0.0.0 ad-maven.com
 0.0.0.0 ad-nex.com
@@ -2966,6 +2967,7 @@
 0.0.0.0 answered-questions.com
 0.0.0.0 answeredthec.xyz
 0.0.0.0 answerroad.com
+0.0.0.0 answig.com
 0.0.0.0 antaciddjebel.com
 0.0.0.0 antalithate.website
 0.0.0.0 antananarbdivu.com
@@ -4397,6 +4399,7 @@
 0.0.0.0 baysexthy.com
 0.0.0.0 baywednesday.com
 0.0.0.0 baywhgdimomx.com
+0.0.0.0 baywoodkbps.space
 0.0.0.0 bazamodov.ru
 0.0.0.0 bazarrepublic.org
 0.0.0.0 baztab.education
@@ -8199,6 +8202,7 @@
 0.0.0.0 daikeethoo.com
 0.0.0.0 dailanh.website
 0.0.0.0 dailyc24.com
+0.0.0.0 dailyenoplan.website
 0.0.0.0 dailyfoodfacts.com
 0.0.0.0 dailyfurnitureoffers.com
 0.0.0.0 dailytech.info
@@ -9229,6 +9233,7 @@
 0.0.0.0 domicileperil.com
 0.0.0.0 dominantcodes.com
 0.0.0.0 dominantroute.com
+0.0.0.0 dominioneastern.com
 0.0.0.0 dominoeds.com
 0.0.0.0 dominows.com
 0.0.0.0 domislica.com
@@ -9605,6 +9610,7 @@
 0.0.0.0 dwiden.com
 0.0.0.0 dwightadjoining.com
 0.0.0.0 dwightandrusinsurance.org
+0.0.0.0 dwlodvideo.com
 0.0.0.0 dwrdrupcbwj.xyz
 0.0.0.0 dwwboxlnrlek.xyz
 0.0.0.0 dwxpsiixsrrk.com
@@ -10019,6 +10025,7 @@
 0.0.0.0 eikipedia.com
 0.0.0.0 eincre.com
 0.0.0.0 eiorwithitofsti.com.ua
+0.0.0.0 eiorwithitofstwe.xyz
 0.0.0.0 eircleanwhitepi.xyz
 0.0.0.0 eiretotalaccess.com.au
 0.0.0.0 eiryabba.com
@@ -13344,6 +13351,7 @@
 0.0.0.0 gyppedsquiss.com
 0.0.0.0 gypsiedjilt.com
 0.0.0.0 gypsyardently.com
+0.0.0.0 gyratesequal.website
 0.0.0.0 gyteras.top
 0.0.0.0 gytvydhatnxgt.com
 0.0.0.0 gytychuna.com
@@ -14837,6 +14845,7 @@
 0.0.0.0 incitelabs.net
 0.0.0.0 inclk.com
 0.0.0.0 incloak.com
+0.0.0.0 inclusionmirthwitty.com
 0.0.0.0 incmvagwicujui.top
 0.0.0.0 incomerse.com
 0.0.0.0 incomethoroughabjure.com
@@ -15190,6 +15199,7 @@
 0.0.0.0 invibravaa.com
 0.0.0.0 invioce-corroes-espana-pay.com
 0.0.0.0 invisiblepine.com
+0.0.0.0 inviteprodigalpinprick.com
 0.0.0.0 invitewingorphan.com
 0.0.0.0 invitingdoubloons.com
 0.0.0.0 involveclank.com
@@ -16773,6 +16783,7 @@
 0.0.0.0 kyour.com
 0.0.0.0 kyriod.com
 0.0.0.0 kysrusiwgevnie.xyz
+0.0.0.0 kytoonburlies.website
 0.0.0.0 kyufqusjrt.com
 0.0.0.0 kz.appealsfini.com
 0.0.0.0 kz.oakssterile.com
@@ -17286,6 +17297,7 @@
 0.0.0.0 libedgolart.com
 0.0.0.0 libedt.com
 0.0.0.0 libelreader.com
+0.0.0.0 liberalmuhafazakarkomunistparti.com
 0.0.0.0 liberia.artertapirus.com
 0.0.0.0 libertychurchwashington.com
 0.0.0.0 libertystmedia.com
@@ -18248,6 +18260,7 @@
 0.0.0.0 marketingdigitalct.com
 0.0.0.0 marketingenhanced.com
 0.0.0.0 marketinggroupofflorida.com
+0.0.0.0 marketinghinder.com
 0.0.0.0 marketingtools.app
 0.0.0.0 marketshaheen.com
 0.0.0.0 marketstroy-msk.ru
@@ -18354,6 +18367,7 @@
 0.0.0.0 maulupoa.com
 0.0.0.0 maumetsvowers.com
 0.0.0.0 mauptaub.com
+0.0.0.0 mauricesignors.website
 0.0.0.0 maustiwy.net
 0.0.0.0 mavenlohi.com
 0.0.0.0 mavitechs.com
@@ -22361,6 +22375,7 @@
 0.0.0.0 pinocularoud.xyz
 0.0.0.0 pinoffence.com
 0.0.0.0 pinprickplums.com
+0.0.0.0 pinsportentpork.com
 0.0.0.0 pinwalerompers.com
 0.0.0.0 piomnkvssfrnl.com
 0.0.0.0 pioneerhardshipfarewell.com
@@ -23338,6 +23353,7 @@
 0.0.0.0 propgoservice.com
 0.0.0.0 prophecyrehabilitationcardboard.com
 0.0.0.0 prophetachybrief.com
+0.0.0.0 proposalpearlpleasantly.com
 0.0.0.0 proposedpartly.com
 0.0.0.0 propositiondisinterested.com
 0.0.0.0 propu.sh
@@ -24562,6 +24578,7 @@
 0.0.0.0 regmataleaver.com
 0.0.0.0 regrowsmudless.com
 0.0.0.0 regrrid.com
+0.0.0.0 regrupontihe.com
 0.0.0.0 regularinstructgorilla.com
 0.0.0.0 regulars6.info
 0.0.0.0 regulationprivilegescan.top
@@ -24756,6 +24773,7 @@
 0.0.0.0 responsibleassociation.com
 0.0.0.0 responsidejo.xyz
 0.0.0.0 responsivefebruary.com
+0.0.0.0 responsiverender.com
 0.0.0.0 restartburgerremembrance.com
 0.0.0.0 restedhope.com
 0.0.0.0 resteepmucedin.digital
@@ -25809,6 +25827,7 @@
 0.0.0.0 sb89347.com
 0.0.0.0 sbadaflouk.com
 0.0.0.0 sbbyonline.com
+0.0.0.0 sbchill.com
 0.0.0.0 sbcreativestudios.com
 0.0.0.0 sbeemrvdd.xyz
 0.0.0.0 sbeforeuka.xyz
@@ -26308,6 +26327,7 @@
 0.0.0.0 shamefreegigi.com
 0.0.0.0 shamelessmessengerdescription.com
 0.0.0.0 shamelessnullneutrality.com
+0.0.0.0 shamelessspank.com
 0.0.0.0 shamelinternational.com
 0.0.0.0 shamime.co.uk
 0.0.0.0 shamyouthattach.com
@@ -26348,6 +26368,7 @@
 0.0.0.0 shauptab.net
 0.0.0.0 shaursar.net
 0.0.0.0 shaurya-g.tech
+0.0.0.0 shauvucm.com
 0.0.0.0 shaviesbrowny.tech
 0.0.0.0 shavz.xyz
 0.0.0.0 shawashygy.com
@@ -32255,6 +32276,7 @@
 0.0.0.0 watchingssu.com
 0.0.0.0 watchingthat.com
 0.0.0.0 watchmytopapp.top
+0.0.0.0 watchnewpics.info
 0.0.0.0 watchtaro.com
 0.0.0.0 watchthistop.net
 0.0.0.0 wateronefoundation.org
@@ -32735,6 +32757,7 @@
 0.0.0.0 wilfridamendment.com
 0.0.0.0 wilfridscandalconceived.com
 0.0.0.0 wilfulkilometre.com
+0.0.0.0 wilfulknives.com
 0.0.0.0 wilfulpessimistic.com
 0.0.0.0 willetslibbet.digital
 0.0.0.0 williams.enterprises
@@ -33959,6 +33982,7 @@
 0.0.0.0 www.crackexclusively.com
 0.0.0.0 www.craigscarclassics.com
 0.0.0.0 www.crankysneak.com
+0.0.0.0 www.crashlund.org
 0.0.0.0 www.crawlingmat.com
 0.0.0.0 www.crazgamas.com
 0.0.0.0 www.creatorcloakroomborrowed.com
@@ -34984,6 +35008,7 @@
 0.0.0.0 www.lexadvocatus.com
 0.0.0.0 www.liaisonwonderplaice.com
 0.0.0.0 www.libelreader.com
+0.0.0.0 www.liberalmuhafazakarkomunistparti.com
 0.0.0.0 www.lico-ys.com
 0.0.0.0 www.liejinvr.com
 0.0.0.0 www.lifearchaicwhipped.com
@@ -35755,6 +35780,7 @@
 0.0.0.0 www.saucepancharms.com
 0.0.0.0 www.sauceresources.com
 0.0.0.0 www.saumeechoa.com
+0.0.0.0 www.sbchill.com
 0.0.0.0 www.scanunderstiff.com
 0.0.0.0 www.scarflaremorally.com
 0.0.0.0 www.schemeabsolutejanuary.com
