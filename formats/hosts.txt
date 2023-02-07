@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.038
 # Release: 038
-# Entries: 37,885
-# Updated: Tue, 07 Feb 23 10:11:18 +06
+# Entries: 37,890
+# Updated: Tue, 07 Feb 23 12:08:19 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3270,6 +3270,7 @@
 0.0.0.0 arcost54ujkaphylosuvaursi.com
 0.0.0.0 arcquestioningjersey.com
 0.0.0.0 arcualstymie.com
+0.0.0.0 ardawatia.org
 0.0.0.0 ardnamurchanchurch.co.uk
 0.0.0.0 ardourineptlavender.com
 0.0.0.0 ardsdusknoiron.com
@@ -6446,6 +6447,7 @@
 0.0.0.0 cerebralvortexgames.com
 0.0.0.0 cerfoillycea.website
 0.0.0.0 cermetsdibbles.uno
+0.0.0.0 cernerasp-build-lsbuild.com
 0.0.0.0 cerosync.com
 0.0.0.0 cerousfirmest.com
 0.0.0.0 certainalmostcontent.com
@@ -7159,6 +7161,7 @@
 0.0.0.0 cntrafficpro.com
 0.0.0.0 cnywhcuyvjc.com
 0.0.0.0 co.kagosswoun.com
+0.0.0.0 co.mn
 0.0.0.0 co5n3nerm6arapo7ny.com
 0.0.0.0 coaboowie.com
 0.0.0.0 coacheematic.net
@@ -22022,6 +22025,7 @@
 0.0.0.0 peckleooze.com
 0.0.0.0 pectationselea.xyz
 0.0.0.0 pectlj.com
+0.0.0.0 peculiaritiesdiarrhoeareproduce.com
 0.0.0.0 pedestalstall.com
 0.0.0.0 pedestalturner.com
 0.0.0.0 pedestrianneighbourly.com
@@ -31241,6 +31245,7 @@
 0.0.0.0 uthounie.com
 0.0.0.0 uthyr-que.com
 0.0.0.0 utiitslpan.org
+0.0.0.0 utiitslpancard.org
 0.0.0.0 utiitslpanonline.com
 0.0.0.0 utiitslpanonline.org
 0.0.0.0 utilbyte.com
