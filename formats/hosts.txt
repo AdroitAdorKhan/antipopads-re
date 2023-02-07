@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.038
 # Release: 038
-# Entries: 37,890
-# Updated: Tue, 07 Feb 23 12:08:19 +06
+# Entries: 37,903
+# Updated: Tue, 07 Feb 23 14:07:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9527,6 +9527,7 @@
 0.0.0.0 duapwsqijxtxy.top
 0.0.0.0 dubinexperienced.com
 0.0.0.0 dubiousdiscreditcambridge.com
+0.0.0.0 dubrovnikairline.com
 0.0.0.0 dubshub.com
 0.0.0.0 dubvacasept.com
 0.0.0.0 ducatglfez.com
@@ -19528,6 +19529,7 @@
 0.0.0.0 mykiger.com
 0.0.0.0 mylemans-it.be
 0.0.0.0 mylinkbox.com
+0.0.0.0 mymantech.com
 0.0.0.0 mymarked.com
 0.0.0.0 mynativeads.com
 0.0.0.0 mynetworkprotector.com
@@ -19585,6 +19587,7 @@
 0.0.0.0 mzol7lbm.com
 0.0.0.0 mzunuvof.com
 0.0.0.0 mzurugaf.com
+0.0.0.0 mzyoutube.com
 0.0.0.0 n.gooods4you.com
 0.0.0.0 n0299.com
 0.0.0.0 n0355.com
@@ -21541,6 +21544,7 @@
 0.0.0.0 owi795.com
 0.0.0.0 owjviwxt.com
 0.0.0.0 owkkutiuxxvfb.com
+0.0.0.0 owl21.de
 0.0.0.0 owlcongratulate.com
 0.0.0.0 owlerydominos.cam
 0.0.0.0 owlsfogyabd.top
@@ -25627,6 +25631,7 @@
 0.0.0.0 saasstack.xyz
 0.0.0.0 saasworks.org
 0.0.0.0 saatwitted.com
+0.0.0.0 saave.it
 0.0.0.0 sabat.tech
 0.0.0.0 sabergood.com
 0.0.0.0 sabredwillble.com
@@ -28113,6 +28118,7 @@
 0.0.0.0 suspectedsinewnotary.com
 0.0.0.0 suspendedflesh.com
 0.0.0.0 susseinp.co
+0.0.0.0 sustainabletradeinstitute.org
 0.0.0.0 sustainspleengunpowder.com
 0.0.0.0 sustainstores.website
 0.0.0.0 sutiletoroid.com
@@ -28758,6 +28764,7 @@
 0.0.0.0 tghjyh.anutic.xyz
 0.0.0.0 tgpsew.com
 0.0.0.0 tgracefulc.one
+0.0.0.0 tgroden.com
 0.0.0.0 tgscxevfd.com
 0.0.0.0 tgymexba.com
 0.0.0.0 th.beeweedisomer.com
@@ -30259,6 +30266,7 @@
 0.0.0.0 trutattooremoval.com
 0.0.0.0 truteaco.com
 0.0.0.0 truthaboutthatbitch.com
+0.0.0.0 truthbehindthepost.org
 0.0.0.0 truthbehindtheposts.org
 0.0.0.0 truthful-quote.pro
 0.0.0.0 truthfulsensor.com
@@ -35286,9 +35294,11 @@
 0.0.0.0 www.myfillers.ru
 0.0.0.0 www.myfirstmeet.space
 0.0.0.0 www.myjagran.com
+0.0.0.0 www.mymantech.com
 0.0.0.0 www.mysacredspace.org
 0.0.0.0 www.mythincredibly.com
 0.0.0.0 www.mythostrategies.com
+0.0.0.0 www.mzyoutube.com
 0.0.0.0 www.nabbaseballsling.com
 0.0.0.0 www.nacsandbox.com
 0.0.0.0 www.nancycerelli.com
@@ -35802,6 +35812,7 @@
 0.0.0.0 www.roseza.co.za
 0.0.0.0 www.rosstein.us
 0.0.0.0 www.rowansportstriped.com
+0.0.0.0 www.rp-kassel.owl21.de
 0.0.0.0 www.rpagrid.com
 0.0.0.0 www.rparity.com
 0.0.0.0 www.rrmobile.in
@@ -35824,6 +35835,7 @@
 0.0.0.0 www.rvparksitemaps.com
 0.0.0.0 www.s-mart.app
 0.0.0.0 www.saasstack.xyz
+0.0.0.0 www.saave.it
 0.0.0.0 www.sac-games.com
 0.0.0.0 www.sadnesscontemporary.com
 0.0.0.0 www.sadtriggerssupporter.com
@@ -36742,6 +36754,7 @@
 0.0.0.0 xiaomi-maroc.org
 0.0.0.0 xiaomi-maroc.shop
 0.0.0.0 xiaomi-maroc.site
+0.0.0.0 xiaomi-shop-maroc.shop
 0.0.0.0 xiaomi-shop.shop
 0.0.0.0 xiaomi-store-maroc.org
 0.0.0.0 xiaomi-store-maroc.shop
