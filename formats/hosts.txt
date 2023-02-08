@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.039
 # Release: 039
-# Entries: 38,254
-# Updated: Wed, 08 Feb 23 18:12:05 +06
+# Entries: 38,271
+# Updated: Wed, 08 Feb 23 20:23:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3120,6 +3120,7 @@
 0.0.0.0 apollo-comptech.in
 0.0.0.0 apolloclinic.care
 0.0.0.0 apollocradle.care
+0.0.0.0 apollocradle.hospital
 0.0.0.0 apollodental.care
 0.0.0.0 apollodental.health
 0.0.0.0 apollodialysis.care
@@ -5854,6 +5855,7 @@
 0.0.0.0 busions.com
 0.0.0.0 bussehomes.com
 0.0.0.0 bustlemiszone.com
+0.0.0.0 busyfriends.org
 0.0.0.0 butalksuw9dj10.com
 0.0.0.0 butashasp.site
 0.0.0.0 butsenox.net
@@ -12962,6 +12964,7 @@
 0.0.0.0 godrejpimpri-punenexus.co.in
 0.0.0.0 godrejpunepimprinexus.co.in
 0.0.0.0 godrejurbanretreat-pune.co.in
+0.0.0.0 godsays.ca
 0.0.0.0 godspeaks.net
 0.0.0.0 goercoshes.com
 0.0.0.0 goergleeds.com
@@ -12979,6 +12982,7 @@
 0.0.0.0 gogreatlakes.org
 0.0.0.0 gohere.pl
 0.0.0.0 gohillgo.com
+0.0.0.0 goholmstad.org
 0.0.0.0 goined.com
 0.0.0.0 goinformer.com
 0.0.0.0 going.app.br
@@ -17815,6 +17819,7 @@
 0.0.0.0 logoaurtos.com
 0.0.0.0 logoscollection.com
 0.0.0.0 logotiips.com
+0.0.0.0 logpile-studio.co.uk
 0.0.0.0 logwaysupdraw.guru
 0.0.0.0 logystowtencon.info
 0.0.0.0 lohbcdqgomwjr.com
@@ -20096,6 +20101,7 @@
 0.0.0.0 newmayads.com
 0.0.0.0 newmedicaldevices.in
 0.0.0.0 newoctads.com
+0.0.0.0 newpanuti.org
 0.0.0.0 newprofitcontrol.com
 0.0.0.0 newprogrammatic.click
 0.0.0.0 newreven.com
@@ -21343,6 +21349,8 @@
 0.0.0.0 oorwithabitofst.info
 0.0.0.0 ootchaig.xyz
 0.0.0.0 ootchoft.com
+0.0.0.0 ootibsay.xyz
+0.0.0.0 oovaufty.com
 0.0.0.0 oovilsol.com
 0.0.0.0 ooxookrekaun.com
 0.0.0.0 oozoaseric.guru
@@ -24832,6 +24840,7 @@
 0.0.0.0 regizm.com
 0.0.0.0 regmacimbia.com
 0.0.0.0 regmataleaver.com
+0.0.0.0 regretfactor.com
 0.0.0.0 regrowsmudless.com
 0.0.0.0 regrrid.com
 0.0.0.0 regrupontihe.com
@@ -26474,6 +26483,7 @@
 0.0.0.0 serverscurtain.com
 0.0.0.0 serversmatrixaggregation.com
 0.0.0.0 servg1.net
+0.0.0.0 service.qa
 0.0.0.0 service.supercounters.com
 0.0.0.0 servicecloister.com
 0.0.0.0 servicegetbook.net
@@ -28657,6 +28667,7 @@
 0.0.0.0 tasty-election.com
 0.0.0.0 tata-games.biz
 0.0.0.0 tata-games.info
+0.0.0.0 tata-play-homesecure.info
 0.0.0.0 tata-play-smart-secure.info
 0.0.0.0 tata-play.org
 0.0.0.0 tata-playhomesecure.live
@@ -29188,6 +29199,7 @@
 0.0.0.0 thelistplus.com
 0.0.0.0 thelitelogic.com
 0.0.0.0 thelocaldistro.com
+0.0.0.0 thelockdownkid.co.uk
 0.0.0.0 thelockdownkid.org
 0.0.0.0 thelogitech.in
 0.0.0.0 theloremasters.org
@@ -31304,6 +31316,7 @@
 0.0.0.0 unwillingsnick.com
 0.0.0.0 unwisecommence.com
 0.0.0.0 unwivedpewdom.digital
+0.0.0.0 unwoobater.com
 0.0.0.0 unwroteorcinus.com
 0.0.0.0 uo.drawbaroddly.com
 0.0.0.0 uod2quk646.com
@@ -34034,6 +34047,7 @@
 0.0.0.0 www.blockadsnot.com
 0.0.0.0 www.blockedpriority.com
 0.0.0.0 www.blogpress.id
+0.0.0.0 www.blondeopinion.com
 0.0.0.0 www.blondhoverhesitation.com
 0.0.0.0 www.bloodyfrighten.com
 0.0.0.0 www.bluishgeologicallimitless.com
@@ -34619,6 +34633,7 @@
 0.0.0.0 www.elbowcayclub.net
 0.0.0.0 www.element-okna.com
 0.0.0.0 www.elementarycleaver.com
+0.0.0.0 www.eligiblebraceelitist.com
 0.0.0.0 www.elitego.xyz
 0.0.0.0 www.elizabethtownfilmfestival.org
 0.0.0.0 www.elmspro.com
@@ -35441,6 +35456,7 @@
 0.0.0.0 www.loontribune.org
 0.0.0.0 www.lootypay.com
 0.0.0.0 www.lordsfilmz.online
+0.0.0.0 www.losswitchrancid.com
 0.0.0.0 www.loungeagain.com
 0.0.0.0 www.lovedate.online
 0.0.0.0 www.loyalbodieshans.com
@@ -36081,6 +36097,7 @@
 0.0.0.0 www.regardingpectoralcollapse.com
 0.0.0.0 www.regardparticlesimpeccable.com
 0.0.0.0 www.regeniohealthcare.com
+0.0.0.0 www.regretfactor.com
 0.0.0.0 www.rehearsemeltdownrust.com
 0.0.0.0 www.rejoineddivertoverwork.com
 0.0.0.0 www.relategist.com
