@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.039
 # Release: 039
-# Entries: 38,108
-# Updated: Wed, 08 Feb 23 12:07:30 +06
+# Entries: 38,122
+# Updated: Wed, 08 Feb 23 14:07:31 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4970,6 +4970,7 @@
 0.0.0.0 binorf.com
 0.0.0.0 binsaiwo.net
 0.0.0.0 bioambience.ca
+0.0.0.0 bioanosia.co.uk
 0.0.0.0 bioanosia.org.uk
 0.0.0.0 bioanosia.uk
 0.0.0.0 bioedgear.com
@@ -6288,6 +6289,7 @@
 0.0.0.0 cba-fed-igh.com
 0.0.0.0 cbarmedia.com
 0.0.0.0 cbdcanteen.net
+0.0.0.0 cbdcanteen.org
 0.0.0.0 cbdzone.online
 0.0.0.0 cbilrirtqyawue.com
 0.0.0.0 cbleads.com
@@ -12723,6 +12725,7 @@
 0.0.0.0 gloaphoo.net
 0.0.0.0 global-dates-here.com
 0.0.0.0 global-dates-here.life
+0.0.0.0 global-financial-benefits.com
 0.0.0.0 global-news-blog.com
 0.0.0.0 globaladmedia.com
 0.0.0.0 globaladmedia.net
@@ -15625,6 +15628,7 @@
 0.0.0.0 jaininfo.info
 0.0.0.0 jainlearning.org
 0.0.0.0 jaisharma.tech
+0.0.0.0 jaitdp.live
 0.0.0.0 jaizouji.com
 0.0.0.0 jakhgeteum.top
 0.0.0.0 jaleepsorous.website
@@ -15641,6 +15645,7 @@
 0.0.0.0 jamils.org
 0.0.0.0 jams.wiki
 0.0.0.0 jamsoulsfriday.com
+0.0.0.0 jamuionline.in
 0.0.0.0 janamtamil.tv
 0.0.0.0 janapadnews.in
 0.0.0.0 janendark.life
@@ -16435,6 +16440,7 @@
 0.0.0.0 ketone-bhb-ba.com
 0.0.0.0 ketoo.com
 0.0.0.0 kettakihome.com
+0.0.0.0 kettleheedless.com
 0.0.0.0 kevabs.com
 0.0.0.0 kevelandean.com
 0.0.0.0 kevinbobbitt.com
@@ -19506,6 +19512,7 @@
 0.0.0.0 muzarabeponym.website
 0.0.0.0 muzdownloads.ru
 0.0.0.0 muzmino.ru
+0.0.0.0 muztron.com
 0.0.0.0 muzzleabbot.com
 0.0.0.0 muzzyjigsawn.uno
 0.0.0.0 mv8.app
@@ -20581,6 +20588,7 @@
 0.0.0.0 nunhoefey.com
 0.0.0.0 nuniceberg.com
 0.0.0.0 nunnarivu.org
+0.0.0.0 nunyabank.org
 0.0.0.0 nunyaprofit.org
 0.0.0.0 nuovtighmtxflsa.com
 0.0.0.0 nupharbakongo.com
@@ -24377,6 +24385,7 @@
 0.0.0.0 ralphabnegation.com
 0.0.0.0 rama-bac.com
 0.0.0.0 rambleconcernedscar.com
+0.0.0.0 rambleonroseco.com
 0.0.0.0 rambomero.space
 0.0.0.0 rammishruinous.com
 0.0.0.0 ramosz.lol
@@ -26196,6 +26205,7 @@
 0.0.0.0 secureplustataplay.live
 0.0.0.0 securesmrt-dt.com
 0.0.0.0 securesurf.biz
+0.0.0.0 securetataplay.info
 0.0.0.0 securetataplay.live
 0.0.0.0 secybunsen.tech
 0.0.0.0 sedaret.top
@@ -26846,6 +26856,7 @@
 0.0.0.0 simultaneouslyagreeingcontradiction.com
 0.0.0.0 sinagporebroadbandprice.com
 0.0.0.0 sinaunrelean.info
+0.0.0.0 sinavedu.net
 0.0.0.0 sinceclairvoyant.com
 0.0.0.0 sincerelyinnovationturner.com
 0.0.0.0 sinceresubstance.com
@@ -28575,6 +28586,7 @@
 0.0.0.0 tataplayrecharge.net
 0.0.0.0 tataplayrecharge.org
 0.0.0.0 tataplaysecure.info
+0.0.0.0 tataplaysmartsecure.live
 0.0.0.0 tataplaytamilcinema.org
 0.0.0.0 tataplaytoons.org
 0.0.0.0 tataplayuniverse.biz
@@ -28786,6 +28798,7 @@
 0.0.0.0 tendencysanction.com
 0.0.0.0 tendertest.com
 0.0.0.0 tendyshop.xyz
+0.0.0.0 teneda-corp.net
 0.0.0.0 tenezratio.com
 0.0.0.0 tengmoneron.com
 0.0.0.0 tennersmirex.guru
@@ -35895,6 +35908,7 @@
 0.0.0.0 www.raisedirectionsaccede.com
 0.0.0.0 www.rajasthangk.co.in
 0.0.0.0 www.rambleconcernedscar.com
+0.0.0.0 www.rambleonroseco.com
 0.0.0.0 www.ramstripedbull.com
 0.0.0.0 www.randomaccesssoftware.com
 0.0.0.0 www.rankersllc.com
