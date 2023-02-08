@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.040
 # Release: 040
-# Entries: 38,325
-# Updated: Thu, 09 Feb 23 00:07:31 +06
+# Entries: 38,336
+# Updated: Thu, 09 Feb 23 02:07:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3130,6 +3130,7 @@
 0.0.0.0 apollohealthcare.hospital
 0.0.0.0 apollohl.care
 0.0.0.0 apollohl.hospital
+0.0.0.0 apollomedicalcentre.care
 0.0.0.0 apollomedicalcentre.health
 0.0.0.0 apollospectra.care
 0.0.0.0 apollosugar.care
@@ -3456,6 +3457,7 @@
 0.0.0.0 asacomma.club
 0.0.0.0 asafesite.com
 0.0.0.0 asakserbian.guru
+0.0.0.0 asaplabs.io
 0.0.0.0 asbestosdamages.com
 0.0.0.0 asbinacler.com
 0.0.0.0 asby.me
@@ -5043,6 +5045,7 @@
 0.0.0.0 bittyrail.com
 0.0.0.0 bitx.tv
 0.0.0.0 biz-newsfeed1.com
+0.0.0.0 biz2credit.company
 0.0.0.0 bizarrewhereupon.com
 0.0.0.0 bizkye.in
 0.0.0.0 biznewsinsider.com
@@ -6862,6 +6865,7 @@
 0.0.0.0 circlegrandsonnod.com
 0.0.0.0 circles.health
 0.0.0.0 circlesquareconstruction.com
+0.0.0.0 circuitedmund.com
 0.0.0.0 circuitingratitude.com
 0.0.0.0 circumscribevetofurther.com
 0.0.0.0 circumstancesrectangle.com
@@ -14152,6 +14156,7 @@
 0.0.0.0 hl5.club
 0.0.0.0 hldjgfveifgfhe.top
 0.0.0.0 hledoziequt.com
+0.0.0.0 hlj.one
 0.0.0.0 hllowvsion.click
 0.0.0.0 hlm2.xyz
 0.0.0.0 hlmiq.com
@@ -15055,6 +15060,7 @@
 0.0.0.0 indictmentspan.com
 0.0.0.0 indictmentvehemently.com
 0.0.0.0 indictoutgain.com
+0.0.0.0 indifferencefeed.com
 0.0.0.0 indigenousvarious.com
 0.0.0.0 indigestionmarried.com
 0.0.0.0 indigestionpious.com
@@ -17124,6 +17130,7 @@
 0.0.0.0 landscapeuproar.com
 0.0.0.0 landslidechoreloft.com
 0.0.0.0 landupoatour.com.ua
+0.0.0.0 landupoatouwe.xyz
 0.0.0.0 langoumachu.com
 0.0.0.0 langtool.tech
 0.0.0.0 languagelake.com
@@ -18337,6 +18344,7 @@
 0.0.0.0 majorityevaluatewiped.com
 0.0.0.0 majorworkertop.com
 0.0.0.0 makatearepasts.com
+0.0.0.0 makemehappy.pro
 0.0.0.0 makemyvids.com
 0.0.0.0 makerinindia.in
 0.0.0.0 makeroomforyou.org
@@ -26381,6 +26389,7 @@
 0.0.0.0 segurancaonline.website
 0.0.0.0 segutv.com
 0.0.0.0 sehlicegxy.com
+0.0.0.0 seibertspart.com
 0.0.0.0 seifqfembl.com
 0.0.0.0 seila.xyz
 0.0.0.0 seinpounday.com
@@ -28415,6 +28424,7 @@
 0.0.0.0 swabscorves.digital
 0.0.0.0 swaeras.top
 0.0.0.0 swaggaboxxapp.ca
+0.0.0.0 swagnepal.tech
 0.0.0.0 swahim.com
 0.0.0.0 swailsmenison.com
 0.0.0.0 swallowaccidentdrip.com
@@ -37818,6 +37828,7 @@
 0.0.0.0 your-notice.com
 0.0.0.0 your-pick-up-point.com
 0.0.0.0 your-pickup-point.com
+0.0.0.0 your-sugar-girls.com
 0.0.0.0 youractualblog.com
 0.0.0.0 youractualwords.com
 0.0.0.0 youradexchange.com
