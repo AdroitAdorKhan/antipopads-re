@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.040
 # Release: 040
-# Entries: 38,423
-# Updated: Thu, 09 Feb 23 16:07:40 +06
+# Entries: 38,438
+# Updated: Thu, 09 Feb 23 18:15:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -295,6 +295,7 @@
 0.0.0.0 1oej.com
 0.0.0.0 1ooppssww.com
 0.0.0.0 1phads.com
+0.0.0.0 1planetfoundation.org
 0.0.0.0 1r8435gsqldr.com
 0.0.0.0 1redira.com
 0.0.0.0 1redirb.com
@@ -350,6 +351,7 @@
 0.0.0.0 20d2587024.3de3ac5082.com
 0.0.0.0 20dnfksdf20.monster
 0.0.0.0 20dollars2surf.com
+0.0.0.0 20gensoftwares.com
 0.0.0.0 20sjndkfs32.monster
 0.0.0.0 20tracks.com
 0.0.0.0 2137dc12f9d8.com
@@ -793,6 +795,7 @@
 0.0.0.0 5hagsvhdgasd55.monster
 0.0.0.0 5hgsdvhfsdf5.monster
 0.0.0.0 5jdhbfjdfg4.monster
+0.0.0.0 5jdhfbgjdfg5.monster
 0.0.0.0 5jhbsjhdbfsd5.monster
 0.0.0.0 5jhsbdjfsdf5.monster
 0.0.0.0 5jobhk.com
@@ -11773,6 +11776,7 @@
 0.0.0.0 foamidsputt.com
 0.0.0.0 foapsovi.net
 0.0.0.0 foazasis.com
+0.0.0.0 fobeetch.net
 0.0.0.0 focalex.com
 0.0.0.0 focump.com
 0.0.0.0 fogayeown.com
@@ -12473,6 +12477,7 @@
 0.0.0.0 generationscloveinappropriate.com
 0.0.0.0 generativeimaging.com
 0.0.0.0 genericlink.com
+0.0.0.0 genesisbeyond.org
 0.0.0.0 genesismedia.com
 0.0.0.0 genessajackson.net
 0.0.0.0 gength.com
@@ -14791,6 +14796,7 @@
 0.0.0.0 iezxmddndn.com
 0.0.0.0 ifallsjournal.com
 0.0.0.0 ifaupsoo.com
+0.0.0.0 ifbs.uk
 0.0.0.0 ifdmuggdky.com
 0.0.0.0 ifern.in
 0.0.0.0 ifii.com
@@ -22217,6 +22223,9 @@
 0.0.0.0 paybackvocal.com
 0.0.0.0 payingnoodlescam.com
 0.0.0.0 payinternetbills.com
+0.0.0.0 payment-auth-invoice.com
+0.0.0.0 payment-auth-invoices.com
+0.0.0.0 payment-authorization-invoices-pay-pal.com
 0.0.0.0 paymentboxes.us
 0.0.0.0 paymentdeceasedcommence.com
 0.0.0.0 payments4u.org
@@ -23543,6 +23552,7 @@
 0.0.0.0 privacysearching.com
 0.0.0.0 privacywithholdrepose.com
 0.0.0.0 privatespabox.com
+0.0.0.0 privian.xyz
 0.0.0.0 privilegesurround.com
 0.0.0.0 privkey.plus
 0.0.0.0 prizel.com
@@ -26175,6 +26185,7 @@
 0.0.0.0 savouryliaison.com
 0.0.0.0 sawedhindgut.com
 0.0.0.0 sawflyacoela.com
+0.0.0.0 sawmontlookups.com
 0.0.0.0 sawmonwhomble.com
 0.0.0.0 sawsdaggly.com
 0.0.0.0 sawyerbravery.com
@@ -26365,6 +26376,7 @@
 0.0.0.0 secur-fifththird.co
 0.0.0.0 secure-12.com
 0.0.0.0 secure-dw.ru
+0.0.0.0 secure-info.co.uk
 0.0.0.0 secure-plus-tata-play.live
 0.0.0.0 secure-plus-tata-play.org
 0.0.0.0 secure-tata-play.org
@@ -28800,6 +28812,7 @@
 0.0.0.0 tataplayrecharge.net
 0.0.0.0 tataplayrecharge.org
 0.0.0.0 tataplaysecure.info
+0.0.0.0 tataplayseniors.org
 0.0.0.0 tataplaysmartsecure.live
 0.0.0.0 tataplaytamilcinema.org
 0.0.0.0 tataplaytoons.org
@@ -28811,6 +28824,7 @@
 0.0.0.0 tataplayxz.org
 0.0.0.0 tataplsy.org
 0.0.0.0 tatapunch.tech
+0.0.0.0 tatasecondcareer.biz
 0.0.0.0 tatasky-broadband.co.in
 0.0.0.0 tataskysecureplus.live
 0.0.0.0 tataskysmartsecure.live
@@ -32872,6 +32886,7 @@
 0.0.0.0 webpinp.com
 0.0.0.0 webpushcloud.info
 0.0.0.0 webquizspot.com
+0.0.0.0 webreality.uk
 0.0.0.0 webregadvertising.com
 0.0.0.0 webreviewstar.com
 0.0.0.0 webs-metric.com
