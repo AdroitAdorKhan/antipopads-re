@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.040
 # Release: 040
-# Entries: 38,379
-# Updated: Thu, 09 Feb 23 10:07:50 +06
+# Entries: 38,389
+# Updated: Thu, 09 Feb 23 12:12:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6759,6 +6759,7 @@
 0.0.0.0 choanabethump.com
 0.0.0.0 choawuram.com
 0.0.0.0 chobsang.net
+0.0.0.0 chocofinna.co.uk
 0.0.0.0 chocohjuanfhdhf.com
 0.0.0.0 chocolatebushbunny.com
 0.0.0.0 choconart.com
@@ -27441,6 +27442,7 @@
 0.0.0.0 softboxik1.ru
 0.0.0.0 softboxis2.ru
 0.0.0.0 softclicks.ru
+0.0.0.0 softclique.biz
 0.0.0.0 softechsystemsus.com
 0.0.0.0 softenedimmortalityprocedure.com
 0.0.0.0 softgluenet.org
@@ -27869,6 +27871,7 @@
 0.0.0.0 stackattacka.com
 0.0.0.0 stacklegion.com
 0.0.0.0 stacksatsnow.buzz
+0.0.0.0 stackverse.org
 0.0.0.0 stadiumembezzlementoil.com
 0.0.0.0 stagepopkek.com
 0.0.0.0 stagetortoiseinfatuated.com
@@ -28105,6 +28108,7 @@
 0.0.0.0 store-notifications.online
 0.0.0.0 store.zmails.co.in
 0.0.0.0 storescissors.com
+0.0.0.0 storeslots.fun
 0.0.0.0 stormyproposal.pro
 0.0.0.0 storners.com
 0.0.0.0 stornoway.scot
@@ -31489,6 +31493,9 @@
 0.0.0.0 urbandecaysta.com
 0.0.0.0 urbaninsights.co.uk
 0.0.0.0 urbantools.tech
+0.0.0.0 urbanvalley.online
+0.0.0.0 urbanvalley.shop
+0.0.0.0 urbanvalley.store
 0.0.0.0 urbard.com
 0.0.0.0 urbatt.com
 0.0.0.0 urbegcacotnu.xyz
@@ -36817,6 +36824,9 @@
 0.0.0.0 www.upperpadreisland.org
 0.0.0.0 www.uptodatefinishconference.com
 0.0.0.0 www.urbaninsights.co.uk
+0.0.0.0 www.urbanvalley.online
+0.0.0.0 www.urbanvalley.shop
+0.0.0.0 www.urbanvalley.store
 0.0.0.0 www.urinle.com
 0.0.0.0 www.usedunderstood.com
 0.0.0.0 www.userful.info
