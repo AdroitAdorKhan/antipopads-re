@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.041
 # Release: 041
-# Entries: 38,523
-# Updated: Fri, 10 Feb 23 06:10:35 +06
+# Entries: 38,529
+# Updated: Fri, 10 Feb 23 08:09:04 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6626,6 +6626,7 @@
 0.0.0.0 chargenews.com
 0.0.0.0 chargerbeakers.com
 0.0.0.0 chargestimetablechuckled.com
+0.0.0.0 chargingconserve.com
 0.0.0.0 chargingexpressive.com
 0.0.0.0 charitablemilletplumber.com
 0.0.0.0 charityflopchristening.com
@@ -8553,6 +8554,7 @@
 0.0.0.0 dean.scot
 0.0.0.0 dearestimmortality.com
 0.0.0.0 death2americaallahuakbar.com
+0.0.0.0 deathserver-unlock.com
 0.0.0.0 deavynuotbrohw.xyz
 0.0.0.0 debadu.com
 0.0.0.0 debateit.net
@@ -14685,6 +14687,7 @@
 0.0.0.0 hypnosmorfeo.xyz
 0.0.0.0 hypocrisycohort.com
 0.0.0.0 hypocrisyconnate.com
+0.0.0.0 hypocrisysmallestbelieving.com
 0.0.0.0 hypogeeinial.com
 0.0.0.0 hypogynbalker.com
 0.0.0.0 hypoot.com
@@ -29242,6 +29245,7 @@
 0.0.0.0 the-binary-trader.biz
 0.0.0.0 the-digiway.com
 0.0.0.0 the-get-yourlady.com
+0.0.0.0 the-personalshopper.net
 0.0.0.0 the-profit-btc.com
 0.0.0.0 the-real-girls.life
 0.0.0.0 the-russian-federation.com
@@ -34107,6 +34111,7 @@
 0.0.0.0 www.autology.app
 0.0.0.0 www.autopsyfowl.com
 0.0.0.0 www.autoservicedepot.webflo.io
+0.0.0.0 www.autrefois.top
 0.0.0.0 www.avalanchemight.com
 0.0.0.0 www.aversionworkingthankful.com
 0.0.0.0 www.avisautonoleggo.it
@@ -34412,6 +34417,7 @@
 0.0.0.0 www.chamomilleoriginal.com
 0.0.0.0 www.chanceofferz.net
 0.0.0.0 www.chapelcertain.com
+0.0.0.0 www.chargingconserve.com
 0.0.0.0 www.chargingexpressive.com
 0.0.0.0 www.charsiasiamese.com
 0.0.0.0 www.chastepaddlesynthesis.com
