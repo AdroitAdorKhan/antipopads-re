@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.042
 # Release: 042
-# Entries: 38,754
-# Updated: Sat, 11 Feb 23 00:07:53 +06
+# Entries: 38,763
+# Updated: Sat, 11 Feb 23 02:12:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3149,6 +3149,7 @@
 0.0.0.0 apollomedicalcentre.care
 0.0.0.0 apollomedicalcentre.health
 0.0.0.0 apollospectra.care
+0.0.0.0 apollospectra.hospital
 0.0.0.0 apollosugar.care
 0.0.0.0 apollosugar.health
 0.0.0.0 apologiesbackyardbayonet.com
@@ -3737,6 +3738,7 @@
 0.0.0.0 atriumarchitecture.uk
 0.0.0.0 atriumplanning.uk
 0.0.0.0 atriumplanningconsultants.co.uk
+0.0.0.0 atriumplanninglimited.co.uk
 0.0.0.0 atriumplanninglimited.uk
 0.0.0.0 atriumplanningltd.co.uk
 0.0.0.0 atriumplanningltd.uk
@@ -7999,6 +8001,7 @@
 0.0.0.0 crimsondozeprofessional.com
 0.0.0.0 crisdomson.com
 0.0.0.0 crisiscaresolution.co.uk
+0.0.0.0 crisistuesdayartillery.com
 0.0.0.0 crismara.com
 0.0.0.0 cristianonaldo.com
 0.0.0.0 cristifibster.life
@@ -9486,6 +9489,7 @@
 0.0.0.0 doublepimpssl.com
 0.0.0.0 doubleprofit-now.life
 0.0.0.0 doublerecall.com
+0.0.0.0 doublycharacteristic.com
 0.0.0.0 doublyconversion.com
 0.0.0.0 doubtcigardug.com
 0.0.0.0 doubtedidentifiers.com
@@ -10134,6 +10138,7 @@
 0.0.0.0 eetyed.com
 0.0.0.0 eewhaukr.xyz
 0.0.0.0 eewheeds.com
+0.0.0.0 eez.gi
 0.0.0.0 eezavops.net
 0.0.0.0 eezegrip.net
 0.0.0.0 eezoulru.com
@@ -14693,6 +14698,7 @@
 0.0.0.0 hushpub.com
 0.0.0.0 huskyhearthscoundrel.com
 0.0.0.0 huskypartydance.com
+0.0.0.0 huskyz.uk
 0.0.0.0 huspelatropia.website
 0.0.0.0 hutabsolutionsubdivide.com
 0.0.0.0 hutati.com
@@ -15373,6 +15379,7 @@
 0.0.0.0 insideoftech.com
 0.0.0.0 insightexpress.com
 0.0.0.0 insightexpressai.com
+0.0.0.0 insightstem.org
 0.0.0.0 insigit.com
 0.0.0.0 insignificantdoggie.com
 0.0.0.0 insistinestimable.com
@@ -26821,6 +26828,7 @@
 0.0.0.0 sevenedgesteve.com
 0.0.0.0 sevenstoneswineryestate.com
 0.0.0.0 seventeencheckcurtain.com
+0.0.0.0 sevenvipspin.xyz
 0.0.0.0 severalbagel.com
 0.0.0.0 severegaze.com
 0.0.0.0 sevierxx.com
@@ -35029,6 +35037,7 @@
 0.0.0.0 www.edshareproject.org
 0.0.0.0 www.educationaldetachblob.com
 0.0.0.0 www.edupro.world
+0.0.0.0 www.eez.gi
 0.0.0.0 www.effacedefend.com
 0.0.0.0 www.effectuallydeliriumparalysis.com
 0.0.0.0 www.egoviator.com
