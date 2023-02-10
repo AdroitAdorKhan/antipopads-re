@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.041
 # Release: 041
-# Entries: 38,695
-# Updated: Fri, 10 Feb 23 18:13:45 +06
+# Entries: 38,697
+# Updated: Fri, 10 Feb 23 20:07:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2784,6 +2784,7 @@
 0.0.0.0 amazinelistrun.xyz
 0.0.0.0 amazingbangladesh.net
 0.0.0.0 amazingdomain.sbs
+0.0.0.0 amazonprime-amazonaccout.com
 0.0.0.0 amazyno.online
 0.0.0.0 ambaab.com
 0.0.0.0 ambassadorpotentsummer.com
@@ -7967,6 +7968,7 @@
 0.0.0.0 creditunionsofontario.com
 0.0.0.0 creedaileenboiler.com
 0.0.0.0 creepingbrings.com
+0.0.0.0 cref.in
 0.0.0.0 cremateretainedsurname.com
 0.0.0.0 crengate.com
 0.0.0.0 crentexgate.com
