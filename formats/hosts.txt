@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.042
 # Release: 042
-# Entries: 38,763
-# Updated: Sat, 11 Feb 23 02:12:55 +06
+# Entries: 38,771
+# Updated: Sat, 11 Feb 23 04:11:17 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4281,6 +4281,7 @@
 0.0.0.0 bambao.lol
 0.0.0.0 bambarmedia.com
 0.0.0.0 bambluagamgona.com
+0.0.0.0 bamboo.hr
 0.0.0.0 bamcoltd.in
 0.0.0.0 bamfam.uk
 0.0.0.0 banagonatural.tech
@@ -15913,6 +15914,7 @@
 0.0.0.0 jasmineofficial.ir
 0.0.0.0 jasonfedelem.com
 0.0.0.0 jataa-ayurveda.info
+0.0.0.0 jataa-ayurveda.mobi
 0.0.0.0 jataa-ayurveda.org
 0.0.0.0 jataaformen.info
 0.0.0.0 jataaformen.org
@@ -16205,6 +16207,7 @@
 0.0.0.0 joesmithwebsite.com
 0.0.0.0 joex.info
 0.0.0.0 jogglyisohel.com
+0.0.0.0 johanarabinovich.org
 0.0.0.0 johays.co
 0.0.0.0 johnsonsproperty.co.uk
 0.0.0.0 johntoritsemotse.com
@@ -26981,6 +26984,7 @@
 0.0.0.0 sheeroop.com
 0.0.0.0 sheetalrefrigeration.org
 0.0.0.0 sheetchi.net
+0.0.0.0 sheetvibe.com
 0.0.0.0 sheewhatchu.com
 0.0.0.0 sheezahealthcare.com
 0.0.0.0 sheflewthecoop.com
@@ -28108,6 +28112,7 @@
 0.0.0.0 st.razzpetered.com
 0.0.0.0 staaqwe.com
 0.0.0.0 staarnest.in
+0.0.0.0 stabam.com
 0.0.0.0 stabbr.com
 0.0.0.0 stabilecordy.com
 0.0.0.0 stabilityvatinventory.com
@@ -29377,6 +29382,7 @@
 0.0.0.0 thague.com
 0.0.0.0 thaickoo.net
 0.0.0.0 thaidapps.com
+0.0.0.0 thaignax.net
 0.0.0.0 thaiguxu.com
 0.0.0.0 thaistiboa.com
 0.0.0.0 thanenewlaunches.com
@@ -30264,6 +30270,7 @@
 0.0.0.0 topvisitnow.com
 0.0.0.0 topvpn.pro
 0.0.0.0 topwwnews.com
+0.0.0.0 torbayguesthouse.co.uk
 0.0.0.0 torchesfervid.com
 0.0.0.0 torchestanreason.com
 0.0.0.0 torchideas.com
@@ -33125,6 +33132,7 @@
 0.0.0.0 webcybermax.com
 0.0.0.0 webemm.com
 0.0.0.0 weberdarogah.life
+0.0.0.0 webfeetdaidled.com
 0.0.0.0 webflo.io
 0.0.0.0 webgains.com
 0.0.0.0 webhashtags.com
