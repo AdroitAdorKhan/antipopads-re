@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.043
 # Release: 043
-# Entries: 38,948
-# Updated: Sun, 12 Feb 23 02:13:36 +06
+# Entries: 38,950
+# Updated: Sun, 12 Feb 23 04:10:04 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3335,6 +3335,7 @@
 0.0.0.0 ardsdusknoiron.com
 0.0.0.0 ardslediana.com
 0.0.0.0 ardspalkiator.com
+0.0.0.0 area56.org
 0.0.0.0 area730-casper.com
 0.0.0.0 areantaid.site
 0.0.0.0 areasnap.com
@@ -34416,6 +34417,7 @@
 0.0.0.0 www.archiecheekydecline.com
 0.0.0.0 www.archiveofuorown.org
 0.0.0.0 www.ardourineptlavender.com
+0.0.0.0 www.area56.org
 0.0.0.0 www.arevelk.am
 0.0.0.0 www.argumentsmaymadly.com
 0.0.0.0 www.arianroid.com
