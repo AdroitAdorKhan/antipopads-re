@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.042
 # Release: 042
-# Entries: 38,861
-# Updated: Sat, 11 Feb 23 18:09:51 +06
+# Entries: 38,874
+# Updated: Sat, 11 Feb 23 20:09:27 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6973,6 +6973,7 @@
 0.0.0.0 cityofvermilionohio.gov
 0.0.0.0 cityonlinenews.com
 0.0.0.0 cityrealnews.com
+0.0.0.0 citystern.com
 0.0.0.0 cityvipnews.com
 0.0.0.0 citznbk01i.us
 0.0.0.0 ciudadelamontecarlos.com
@@ -13458,6 +13459,7 @@
 0.0.0.0 grimdiscord.com
 0.0.0.0 grimlypub.com
 0.0.0.0 grinchsycoses.tech
+0.0.0.0 grinnymohels.com
 0.0.0.0 griotsspeos.com
 0.0.0.0 gripehealth.com
 0.0.0.0 gripelive.com
@@ -15053,6 +15055,7 @@
 0.0.0.0 ikahnruntx.com
 0.0.0.0 ikcaru.com
 0.0.0.0 ikcyxcbqmoptk.com
+0.0.0.0 ikea-business.hu
 0.0.0.0 ikf-holding.it
 0.0.0.0 ikingsoft.com
 0.0.0.0 ikjipoximhdorya.top
@@ -16342,6 +16345,7 @@
 0.0.0.0 joylessstarted.com
 0.0.0.0 joymusicllc.org
 0.0.0.0 joyvowdig.com
+0.0.0.0 jozzby.uk
 0.0.0.0 jp.dugwayaswing.com
 0.0.0.0 jp.galosheconsent.com
 0.0.0.0 jp.septanepickles.com
@@ -17942,6 +17946,7 @@
 0.0.0.0 liveredwilton.com
 0.0.0.0 liverpooldiggerhire.co.uk
 0.0.0.0 liverpooldiggerhire.uk
+0.0.0.0 liverpoolfan.co.uk
 0.0.0.0 liversely.net
 0.0.0.0 livesexguru.online
 0.0.0.0 livesharepersonals.com
@@ -27061,6 +27066,7 @@
 0.0.0.0 sheflewthecoop.com
 0.0.0.0 shefssnacks.in
 0.0.0.0 sheglach.net
+0.0.0.0 sheiselectric.com
 0.0.0.0 shelf2shelf.com
 0.0.0.0 shelvesandthings.com
 0.0.0.0 shelvesdeserve.com
@@ -27432,6 +27438,7 @@
 0.0.0.0 skanshopping.uk
 0.0.0.0 skantrader.uk
 0.0.0.0 skantv.uk
+0.0.0.0 skanwave.co.uk
 0.0.0.0 skanwave.uk
 0.0.0.0 skelity.com
 0.0.0.0 skenqaamefeoncfegrytbuvksebpefer.com
@@ -28421,6 +28428,7 @@
 0.0.0.0 stootsou.net
 0.0.0.0 stop-adblocker.info
 0.0.0.0 stopadblocker.com
+0.0.0.0 stopfallingnow.org
 0.0.0.0 stoppardons.org
 0.0.0.0 stopsrepetitious.com
 0.0.0.0 stopthepardons.org
@@ -28904,6 +28912,7 @@
 0.0.0.0 syrsple2se8nyu09.com
 0.0.0.0 sys.lv
 0.0.0.0 sysdmt.com
+0.0.0.0 syskonx.co.uk
 0.0.0.0 syskonx.uk
 0.0.0.0 system-notify.app
 0.0.0.0 systemhostess.com
@@ -31019,6 +31028,7 @@
 0.0.0.0 tsarpettish.store
 0.0.0.0 tsatwushcyiihh.com
 0.0.0.0 tsbhypermarket.com
+0.0.0.0 tsbinge.live
 0.0.0.0 tsbinge.org
 0.0.0.0 tsgirg.org
 0.0.0.0 tshirtvender.com
@@ -32653,6 +32663,7 @@
 0.0.0.0 visualsteel.net
 0.0.0.0 visuzh.com
 0.0.0.0 vitalhero.com
+0.0.0.0 vitalnaenergija.net
 0.0.0.0 vitaminasparatodos.com
 0.0.0.0 vitchanou.com
 0.0.0.0 vitcory.com
@@ -34733,6 +34744,7 @@
 0.0.0.0 www.circumstantialeltondirtiness.com
 0.0.0.0 www.circumventpeaceabledivorce.com
 0.0.0.0 www.circusfloggers.com
+0.0.0.0 www.citystern.com
 0.0.0.0 www.civilizationperspirationhoroscope.com
 0.0.0.0 www.civilizationrequestsshops.com
 0.0.0.0 www.cj.conversant.mgr.consensu.org
@@ -35634,6 +35646,7 @@
 0.0.0.0 www.iglesiacristoelrey.com
 0.0.0.0 www.ignobleinnovationcollateral.com
 0.0.0.0 www.ignoringpromisingonce.com
+0.0.0.0 www.ikea-business.hu
 0.0.0.0 www.ikf-holding.it
 0.0.0.0 www.ikingsoft.com
 0.0.0.0 www.illegibledismiss.com
