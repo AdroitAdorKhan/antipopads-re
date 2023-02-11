@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.042
 # Release: 042
-# Entries: 38,781
-# Updated: Sat, 11 Feb 23 06:07:12 +06
+# Entries: 38,788
+# Updated: Sat, 11 Feb 23 08:08:35 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3150,6 +3150,7 @@
 0.0.0.0 apollomedicalcentre.care
 0.0.0.0 apollomedicalcentre.health
 0.0.0.0 apollospectra.care
+0.0.0.0 apollospectra.health
 0.0.0.0 apollospectra.hospital
 0.0.0.0 apollosugar.care
 0.0.0.0 apollosugar.health
@@ -11227,6 +11228,7 @@
 0.0.0.0 fashionablegangsterexplosion.com
 0.0.0.0 fashionbazshop.xyz
 0.0.0.0 fashioneggplant.com
+0.0.0.0 fashionsalemart.com
 0.0.0.0 fashionsareekendra.co.in
 0.0.0.0 fashionsareekendra.in
 0.0.0.0 fashionsleague.com
@@ -14704,6 +14706,7 @@
 0.0.0.0 husbandnights.com
 0.0.0.0 husfly.com
 0.0.0.0 hushpub.com
+0.0.0.0 huskeez.uk
 0.0.0.0 huskyhearthscoundrel.com
 0.0.0.0 huskypartydance.com
 0.0.0.0 huskyz.uk
@@ -24414,6 +24417,7 @@
 0.0.0.0 qbluwddjm.top
 0.0.0.0 qbmdlvijixx.top
 0.0.0.0 qbrejpaccmtodu.com
+0.0.0.0 qbxucdgggl.com
 0.0.0.0 qc.rubesacephal.com
 0.0.0.0 qc.rupeesoldish.com
 0.0.0.0 qcffrrsyaxcccx.xyz
@@ -31178,6 +31182,7 @@
 0.0.0.0 twangedcored.com
 0.0.0.0 twazzyoidwlfe.com
 0.0.0.0 tweeseconable.website
+0.0.0.0 tweetfirm.net
 0.0.0.0 twelfthdistasteful.com
 0.0.0.0 twenosgiaopns.com
 0.0.0.0 twentyalight.com
@@ -32719,6 +32724,7 @@
 0.0.0.0 vowdistractingbuoyancy.com
 0.0.0.0 voxabem.site
 0.0.0.0 voxfind.com
+0.0.0.0 voxludio.com
 0.0.0.0 voyageconcise.com
 0.0.0.0 vozastane.com
 0.0.0.0 vozito.net
@@ -37259,6 +37265,7 @@
 0.0.0.0 www.volkswagenunionville.com
 0.0.0.0 www.votemoodyexcavate.com
 0.0.0.0 www.vowdistractingbuoyancy.com
+0.0.0.0 www.voxludio.com
 0.0.0.0 www.vpay.website
 0.0.0.0 www.w1360.com
 0.0.0.0 www.wagedustermet.com
