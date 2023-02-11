@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.042
 # Release: 042
-# Entries: 38,826
-# Updated: Sat, 11 Feb 23 12:11:32 +06
+# Entries: 38,837
+# Updated: Sat, 11 Feb 23 14:07:36 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5124,6 +5124,7 @@
 0.0.0.0 blablahub.com
 0.0.0.0 blablatterbicycle.com
 0.0.0.0 black112.co.kr
+0.0.0.0 blackblue.uk
 0.0.0.0 blackcine.org
 0.0.0.0 blackcurrantspent.com
 0.0.0.0 blackcurrantwereattempt.com
@@ -14218,6 +14219,7 @@
 0.0.0.0 highestfidelity.tech
 0.0.0.0 higheurest.com
 0.0.0.0 highfalutinbox.com
+0.0.0.0 highfunctioninganxiety.org
 0.0.0.0 highmaidfhr.com
 0.0.0.0 highnets.com
 0.0.0.0 highperformancecpm.com
@@ -14458,6 +14460,7 @@
 0.0.0.0 hoothaglow.com
 0.0.0.0 hoowooze.net
 0.0.0.0 hopedwishfulpercent.com
+0.0.0.0 hopeforgaza.org
 0.0.0.0 hopefullyactively.com
 0.0.0.0 hopefullyadults.com
 0.0.0.0 hopefullyapricot.com
@@ -18652,6 +18655,7 @@
 0.0.0.0 mannocorp.info
 0.0.0.0 mannocorp.net
 0.0.0.0 mannocorp.org
+0.0.0.0 mannoenterprises.info
 0.0.0.0 manorcountry-estate-godrej.co.in
 0.0.0.0 manorcountry-estate.com
 0.0.0.0 manorcountryestate.com
@@ -18670,6 +18674,7 @@
 0.0.0.0 manywayswellbeing.co.uk
 0.0.0.0 maomaotang.com
 0.0.0.0 maonderndbeco.com.ua
+0.0.0.0 map-gps.pw
 0.0.0.0 map.in
 0.0.0.0 mapamnni.com
 0.0.0.0 mapaupotting.com
@@ -20115,6 +20120,7 @@
 0.0.0.0 narrowstaredmaking.com
 0.0.0.0 narutowhy.site
 0.0.0.0 nasalburglarthomas.com
+0.0.0.0 nascertified.org
 0.0.0.0 naseafood.org
 0.0.0.0 nasrolaugers.com
 0.0.0.0 natalerut.website
@@ -24762,6 +24768,7 @@
 0.0.0.0 radiantskilled.com
 0.0.0.0 radinko.com
 0.0.0.0 radio-cat.ru
+0.0.0.0 radiocodecalculator.com
 0.0.0.0 radioearphonesaggravation.com
 0.0.0.0 radiomartesiracusa.it
 0.0.0.0 radioselvatv.com
@@ -26657,6 +26664,7 @@
 0.0.0.0 secureplus-tata-play.org
 0.0.0.0 secureplus-tataplay.info
 0.0.0.0 secureplus-tataplay.live
+0.0.0.0 secureplus-tataplay.org
 0.0.0.0 secureplustataplay.info
 0.0.0.0 secureplustataplay.live
 0.0.0.0 securesmrt-dt.com
@@ -29048,6 +29056,7 @@
 0.0.0.0 tata-games.biz
 0.0.0.0 tata-games.info
 0.0.0.0 tata-play-homesecure.info
+0.0.0.0 tata-play-secure.info
 0.0.0.0 tata-play-smart-secure.info
 0.0.0.0 tata-play.org
 0.0.0.0 tata-playhomesecure.live
@@ -30734,6 +30743,7 @@
 0.0.0.0 treebilee.co.uk
 0.0.0.0 treecareia.com
 0.0.0.0 treegardenstate.com
+0.0.0.0 treegraph.org
 0.0.0.0 treehouservk.com
 0.0.0.0 treehundredarmament.com
 0.0.0.0 treeifyicon.com
@@ -32309,6 +32319,7 @@
 0.0.0.0 verbalconnoisseurstoppage.com
 0.0.0.0 verblife-2.co
 0.0.0.0 verdad.social
+0.0.0.0 verdesil.org
 0.0.0.0 verdictdisingenuousfruitless.com
 0.0.0.0 verdigolf.com
 0.0.0.0 vergiakademisi.com
