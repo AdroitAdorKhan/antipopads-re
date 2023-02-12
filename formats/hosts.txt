@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.043
 # Release: 043
-# Entries: 38,950
-# Updated: Sun, 12 Feb 23 04:10:04 +06
+# Entries: 38,955
+# Updated: Sun, 12 Feb 23 06:13:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9341,6 +9341,7 @@
 0.0.0.0 dmartapp.com
 0.0.0.0 dmcxvpmbqwomghx.com
 0.0.0.0 dmdtmyxmjqmd.com
+0.0.0.0 dmhzqokylmkc.com
 0.0.0.0 dmnprx.com
 0.0.0.0 dmocracynao.org
 0.0.0.0 dmumcoo.com
@@ -15198,6 +15199,7 @@
 0.0.0.0 implix.com
 0.0.0.0 impore.com
 0.0.0.0 importancediscipline.com
+0.0.0.0 impregnablehunt.com
 0.0.0.0 impresix.com
 0.0.0.0 impresseastsolo.com
 0.0.0.0 impressionamuletblubber.com
@@ -19155,6 +19157,7 @@
 0.0.0.0 mergerreclaim.com
 0.0.0.0 mergleft.com
 0.0.0.0 meridiance.com
+0.0.0.0 meridiusbio.com
 0.0.0.0 meried.co
 0.0.0.0 merilynship.in
 0.0.0.0 meritbay.org
@@ -28452,6 +28455,7 @@
 0.0.0.0 stitue.com
 0.0.0.0 stiwhugn.net
 0.0.0.0 stixeepou.com
+0.0.0.0 stized.com
 0.0.0.0 stizoolr.com
 0.0.0.0 stlanesas.com
 0.0.0.0 stld2014.com
@@ -36160,6 +36164,7 @@
 0.0.0.0 www.merakiclayjewelry.com
 0.0.0.0 www.mergerreclaim.com
 0.0.0.0 www.mergleft.com
+0.0.0.0 www.meridiusbio.com
 0.0.0.0 www.meshagreeable.com
 0.0.0.0 www.mesolucky.com
 0.0.0.0 www.meta11webservices.com
