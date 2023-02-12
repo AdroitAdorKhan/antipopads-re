@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.043
 # Release: 043
-# Entries: 38,955
-# Updated: Sun, 12 Feb 23 06:13:23 +06
+# Entries: 38,961
+# Updated: Sun, 12 Feb 23 08:08:11 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2027,6 +2027,7 @@
 0.0.0.0 advise.co
 0.0.0.0 advisedlyremove.com
 0.0.0.0 advisor.mn
+0.0.0.0 advisoramplifier.com
 0.0.0.0 advisorded.com
 0.0.0.0 adviva.net
 0.0.0.0 advmaker.ru
@@ -14269,6 +14270,7 @@
 0.0.0.0 highwalker.in
 0.0.0.0 hijoaja.top
 0.0.0.0 hijragain.com
+0.0.0.0 hikimate.com
 0.0.0.0 hikvar.ru
 0.0.0.0 hilarion-lar.com
 0.0.0.0 hilarioussewingartsy.com
@@ -17000,6 +17002,7 @@
 0.0.0.0 knightsyllabusimprobable.com
 0.0.0.0 knigm.com
 0.0.0.0 knittedcourthouse.com
+0.0.0.0 knittedplus.com
 0.0.0.0 knlrfijhvch.com
 0.0.0.0 knndaepnnunyac.com
 0.0.0.0 knobpredestinecontradiction.com
@@ -20014,6 +20017,7 @@
 0.0.0.0 myfreshposts.com
 0.0.0.0 myfreshspot.com
 0.0.0.0 mygoodlives.com
+0.0.0.0 mygovnincomtax.info
 0.0.0.0 mygpuid.com
 0.0.0.0 mygtmn.com
 0.0.0.0 myhomefoundation.org
@@ -34311,6 +34315,7 @@
 0.0.0.0 www.advantageoutlayreeds.com
 0.0.0.0 www.adversesuffering.com
 0.0.0.0 www.advertspheredigital.com
+0.0.0.0 www.advisoramplifier.com
 0.0.0.0 www.advomation.com
 0.0.0.0 www.aeis.guru
 0.0.0.0 www.aereobus.com
@@ -35649,6 +35654,7 @@
 0.0.0.0 www.hhcespanol.com
 0.0.0.0 www.hidayahmohamad.com
 0.0.0.0 www.highperformancedformats.com
+0.0.0.0 www.hikimate.com
 0.0.0.0 www.hilarion-lar.com
 0.0.0.0 www.historicalcarawayammonia.com
 0.0.0.0 www.hitbrilliantcollective.com
