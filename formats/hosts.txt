@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.044
 # Release: 044
-# Entries: 39,023
-# Updated: Mon, 13 Feb 23 00:09:50 +06
+# Entries: 39,024
+# Updated: Mon, 13 Feb 23 02:07:10 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1251,6 +1251,7 @@
 0.0.0.0 abange.com
 0.0.0.0 abaphosis.guru
 0.0.0.0 abasgimental.com
+0.0.0.0 abashfireworks.com
 0.0.0.0 abashinstructor.com
 0.0.0.0 abateall.com
 0.0.0.0 abattoirpleatsprinkle.com
