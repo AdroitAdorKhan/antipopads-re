@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.044
 # Release: 044
-# Entries: 39,024
-# Updated: Mon, 13 Feb 23 02:07:10 +06
+# Entries: 39,027
+# Updated: Mon, 13 Feb 23 04:07:14 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5264,6 +5264,7 @@
 0.0.0.0 bluebellcapitalgroup.in
 0.0.0.0 bluebellconnect.net
 0.0.0.0 bluebellconnect.org
+0.0.0.0 blueberrydanelarger.com
 0.0.0.0 bluebet24.com
 0.0.0.0 bluebirdcareitd.co.uk
 0.0.0.0 bluebladeconsulting.com
@@ -20190,6 +20191,7 @@
 0.0.0.0 nanoadexchange.com
 0.0.0.0 nanouwho.com
 0.0.0.0 naosou.info
+0.0.0.0 napabvi.com
 0.0.0.0 napcinfeyvcgypd.com
 0.0.0.0 napeau.com
 0.0.0.0 napesropes.com
@@ -36321,6 +36323,7 @@
 0.0.0.0 www.nabbaseballsling.com
 0.0.0.0 www.nacsandbox.com
 0.0.0.0 www.nancycerelli.com
+0.0.0.0 www.napabvi.com
 0.0.0.0 www.nasalburglarthomas.com
 0.0.0.0 www.natspiders.com
 0.0.0.0 www.natuliquetx.com
