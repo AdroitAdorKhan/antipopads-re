@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.043
 # Release: 043
-# Entries: 38,964
-# Updated: Sun, 12 Feb 23 10:07:50 +06
+# Entries: 38,965
+# Updated: Sun, 12 Feb 23 12:07:05 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -34200,6 +34200,7 @@
 0.0.0.0 www.2020microclinic.org
 0.0.0.0 www.20cambridgesideplace.com
 0.0.0.0 www.20csplace.com
+0.0.0.0 www.239.life
 0.0.0.0 www.23936a.com
 0.0.0.0 www.23dy.info
 0.0.0.0 www.242ef57d.com
