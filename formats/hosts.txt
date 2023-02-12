@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.043
 # Release: 043
-# Entries: 38,982
-# Updated: Sun, 12 Feb 23 20:07:09 +06
+# Entries: 38,984
+# Updated: Sun, 12 Feb 23 22:10:15 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -181,6 +181,7 @@
 0.0.0.0 136ffb81df.df253f3b96.com
 0.0.0.0 1377xxx.to
 0.0.0.0 138290.com
+0.0.0.0 138332c4a6.com
 0.0.0.0 138dav.com
 0.0.0.0 14072www.logiquest.com.br
 0.0.0.0 1435b9649d.85c0a6a0ea.com
@@ -38183,6 +38184,7 @@
 0.0.0.0 yamahasports.us
 0.0.0.0 yamahasxsparts.us
 0.0.0.0 yamspunkdew.com
+0.0.0.0 yanaapparel.net
 0.0.0.0 yankpainkiller.com
 0.0.0.0 yantranetwork.com
 0.0.0.0 yantrasbarges.com
