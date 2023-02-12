@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.043
 # Release: 043
-# Entries: 38,961
-# Updated: Sun, 12 Feb 23 08:08:11 +06
+# Entries: 38,964
+# Updated: Sun, 12 Feb 23 10:07:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1223,6 +1223,7 @@
 0.0.0.0 aajkeoffers.com
 0.0.0.0 aalconsultants.co.uk
 0.0.0.0 aanantbisht-healing.online
+0.0.0.0 aandbproperties.co.uk
 0.0.0.0 aaoeavlyxdjatqe.xyz
 0.0.0.0 aaroncartermemorial.com
 0.0.0.0 aaroncartertribute.com
@@ -33587,6 +33588,7 @@
 0.0.0.0 wholecommonposts.com
 0.0.0.0 wholecoolstories.com
 0.0.0.0 wholedailyfeed.com
+0.0.0.0 wholefamdamnily.net
 0.0.0.0 wholefreshposts.com
 0.0.0.0 wholegrady.com
 0.0.0.0 wholehugestories.com
@@ -34271,6 +34273,7 @@
 0.0.0.0 www.a1tas.net
 0.0.0.0 www.a4or.com
 0.0.0.0 www.aa1411.com
+0.0.0.0 www.aandbproperties.co.uk
 0.0.0.0 www.aaroncartermemorial.com
 0.0.0.0 www.aaroncartertribute.com
 0.0.0.0 www.abdullahakhtar.com
