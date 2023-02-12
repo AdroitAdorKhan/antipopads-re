@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.043
 # Release: 043
-# Entries: 38,970
-# Updated: Sun, 12 Feb 23 14:12:58 +06
+# Entries: 38,973
+# Updated: Sun, 12 Feb 23 16:09:52 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19873,6 +19873,7 @@
 0.0.0.0 multicolorpets.net
 0.0.0.0 multicolorpets.org
 0.0.0.0 multifarewell.com
+0.0.0.0 multilinker.org
 0.0.0.0 multimater.com
 0.0.0.0 multimorphes.tech
 0.0.0.0 multipledrawers.com
@@ -25575,6 +25576,7 @@
 0.0.0.0 revsci.net
 0.0.0.0 revupads.com
 0.0.0.0 reward-win.site
+0.0.0.0 rewardcash.in
 0.0.0.0 rewarding-design.pro
 0.0.0.0 rewardsaffiliates.com
 0.0.0.0 rewardtk.com
@@ -36782,6 +36784,7 @@
 0.0.0.0 www.reverely.app
 0.0.0.0 www.revitalizedretreats.com
 0.0.0.0 www.revokepolygraph.com
+0.0.0.0 www.rewardcash.in
 0.0.0.0 www.rhinoceroscoketooth.com
 0.0.0.0 www.ribrattle.com
 0.0.0.0 www.ridelo.in
