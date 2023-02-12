@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.043
 # Release: 043
-# Entries: 38,965
-# Updated: Sun, 12 Feb 23 12:07:05 +06
+# Entries: 38,970
+# Updated: Sun, 12 Feb 23 14:12:58 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -481,6 +481,7 @@
 0.0.0.0 2fb8or7ai.de
 0.0.0.0 2fwww.logiquest.com.br
 0.0.0.0 2fwww.pinkwinkers.com
+0.0.0.0 2fwww.surpluscomputers.com
 0.0.0.0 2g6gj3aojcrj.com
 0.0.0.0 2go7v1nes8.com
 0.0.0.0 2h6skj2da.de
@@ -3468,6 +3469,7 @@
 0.0.0.0 artificialgrassfittersbirmingham.co.uk
 0.0.0.0 artisanalcode.dev
 0.0.0.0 artistbazaar.live
+0.0.0.0 artistdavidb.com
 0.0.0.0 artisticbitten.com
 0.0.0.0 artisticbuoyemphasize.com
 0.0.0.0 artistperhapscomfort.com
@@ -7587,6 +7589,7 @@
 0.0.0.0 concernedcommon.com
 0.0.0.0 concernederase.com
 0.0.0.0 concerninggills.com
+0.0.0.0 concernrest.com
 0.0.0.0 concertainwqa.club
 0.0.0.0 concertstop.com
 0.0.0.0 concisepressing.com
@@ -28804,6 +28807,7 @@
 0.0.0.0 surgermystem.xyz
 0.0.0.0 surgharmin.uno
 0.0.0.0 surnamesubqueryaloft.com
+0.0.0.0 surpluscomputers.com
 0.0.0.0 surplussolutions.org
 0.0.0.0 surprisinglycouncil.com
 0.0.0.0 surrelvr.com
@@ -35812,6 +35816,7 @@
 0.0.0.0 www.institutepigeonsfinger.com
 0.0.0.0 www.instructorstudied.com
 0.0.0.0 www.insuranceripenslender.com
+0.0.0.0 www.insurrection-llc.com
 0.0.0.0 www.intactscattered.com
 0.0.0.0 www.integertenantcontinue.com
 0.0.0.0 www.integritydeceptive.com
