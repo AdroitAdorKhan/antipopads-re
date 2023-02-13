@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.044
 # Release: 044
-# Entries: 39,041
-# Updated: Mon, 13 Feb 23 12:07:10 +06
+# Entries: 39,047
+# Updated: Mon, 13 Feb 23 14:13:53 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1005,6 +1005,7 @@
 0.0.0.0 7zip-archiver.top
 0.0.0.0 7zip-lab.top
 0.0.0.0 80c7aeb9f3.106c6423c3.com
+0.0.0.0 80zk.cn
 0.0.0.0 810f3cd649.c9072c600c.com
 0.0.0.0 811d0a760a.ca3362de0f.com
 0.0.0.0 811health.com
@@ -10503,6 +10504,7 @@
 0.0.0.0 enclosedhelium.com
 0.0.0.0 enclosedrapplural.com
 0.0.0.0 encloseinediblerenewal.com
+0.0.0.0 encodeinflected.com
 0.0.0.0 encoremovement.org
 0.0.0.0 encouragementbraceletcoastline.com
 0.0.0.0 encouragingpast.com
@@ -14006,6 +14008,7 @@
 0.0.0.0 hdyc.co.uk
 0.0.0.0 he.chiasmsshoals.com
 0.0.0.0 he.starrygaj.com
+0.0.0.0 he11.cn
 0.0.0.0 he3mero6calli4s.com
 0.0.0.0 he7ll.com
 0.0.0.0 headedtamhemp.com
@@ -20462,6 +20465,7 @@
 0.0.0.0 newadslab.com
 0.0.0.0 newadsshop.com
 0.0.0.0 newaprads.com
+0.0.0.0 newbeevip.com.cn
 0.0.0.0 newbiemart.com
 0.0.0.0 newbuildslincolnshire.co.uk
 0.0.0.0 newbuildslincolnshire.uk
@@ -29617,6 +29621,7 @@
 0.0.0.0 thazukom.net
 0.0.0.0 thdebtbox.online
 0.0.0.0 thdifferuken.com
+0.0.0.0 the-asteroid.xyz
 0.0.0.0 the-binary-trader.biz
 0.0.0.0 the-dhl.com
 0.0.0.0 the-digiway.com
@@ -35973,6 +35978,7 @@
 0.0.0.0 www.jqqewvxp.life
 0.0.0.0 www.jrk2023.com
 0.0.0.0 www.jrksn365.com
+0.0.0.0 www.jsjfhheeq4.monster
 0.0.0.0 www.jtechinstruments.com
 0.0.0.0 www.judgeduchessbennet.com
 0.0.0.0 www.judgeruinous.com
