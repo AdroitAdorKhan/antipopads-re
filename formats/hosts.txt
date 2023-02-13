@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.044
 # Release: 044
-# Entries: 39,031
-# Updated: Mon, 13 Feb 23 06:13:43 +06
+# Entries: 39,032
+# Updated: Mon, 13 Feb 23 08:09:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9051,6 +9051,7 @@
 0.0.0.0 dieselhircine.com
 0.0.0.0 dietalmatax.com
 0.0.0.0 dietaryexpanded.com
+0.0.0.0 dietnow.in
 0.0.0.0 dieved.com
 0.0.0.0 dievel.com
 0.0.0.0 diffdemo.com
