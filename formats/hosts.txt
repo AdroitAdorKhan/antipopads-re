@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.044
 # Release: 044
-# Entries: 39,095
-# Updated: Mon, 13 Feb 23 18:07:39 +06
+# Entries: 39,107
+# Updated: Mon, 13 Feb 23 20:07:52 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4773,6 +4773,7 @@
 0.0.0.0 berriesresound.com
 0.0.0.0 berrytrendy.com
 0.0.0.0 berryvideos.com
+0.0.0.0 berses.com
 0.0.0.0 berthformttet.com.ua
 0.0.0.0 berthsorry.com
 0.0.0.0 berti-ian.com
@@ -10526,6 +10527,7 @@
 0.0.0.0 encouragingpetulant.com
 0.0.0.0 encouragingshould.com
 0.0.0.0 encouragingwilderness.com
+0.0.0.0 encrypter.online
 0.0.0.0 encryptwitlet.tech
 0.0.0.0 encumbranceunderlineheadmaster.com
 0.0.0.0 encyclopaediaknackfold.com
@@ -14135,6 +14137,7 @@
 0.0.0.0 helperoo.net
 0.0.0.0 helpfulwrap.com
 0.0.0.0 helphauntboxer.com
+0.0.0.0 helpturkeyandsyria.org
 0.0.0.0 helpwithmybook.com
 0.0.0.0 helvespaellas.uno
 0.0.0.0 hemasejereeds.com
@@ -17747,6 +17750,7 @@
 0.0.0.0 lentakesserized.com
 0.0.0.0 lenthyblent.com
 0.0.0.0 lenzsation.com
+0.0.0.0 leonidwolvers.com
 0.0.0.0 leonodikeu9sj10.com
 0.0.0.0 leontius-eli.com
 0.0.0.0 leoparddisappearcrumble.com
@@ -19968,6 +19972,7 @@
 0.0.0.0 musicnote.info
 0.0.0.0 musikcloud.xyz
 0.0.0.0 musikcollection.com
+0.0.0.0 muslimberbagi.xyz
 0.0.0.0 musmentportal.com
 0.0.0.0 muspecs.net
 0.0.0.0 musselchangeableskier.com
@@ -27780,6 +27785,7 @@
 0.0.0.0 smilykiddos.ru
 0.0.0.0 smises.com
 0.0.0.0 smisit.com
+0.0.0.0 smisto.com
 0.0.0.0 smists.com
 0.0.0.0 smithumbewreck.com
 0.0.0.0 smizzofficial.com
@@ -33167,6 +33173,7 @@
 0.0.0.0 waistswimmer.com
 0.0.0.0 waitedbunchnight.com
 0.0.0.0 waiteddeplore.com
+0.0.0.0 waitedsnickrancorous.com
 0.0.0.0 waiterregistrydelusional.com
 0.0.0.0 waitfordownlaod.com
 0.0.0.0 waitheja.net
@@ -34936,6 +34943,7 @@
 0.0.0.0 www.cj.conversant.mgr.consensu.org
 0.0.0.0 www.clanklastingfur.com
 0.0.0.0 www.clapdistributionexample.com
+0.0.0.0 www.clashguidance.com
 0.0.0.0 www.clearancejoinjavelin.com
 0.0.0.0 www.cleftinform.com
 0.0.0.0 www.clementreign.com
@@ -35866,6 +35874,7 @@
 0.0.0.0 www.indeedpriest.com
 0.0.0.0 www.indelicatepokedoes.com
 0.0.0.0 www.indicatordevotedriver.com
+0.0.0.0 www.indifferencefeed.com
 0.0.0.0 www.indigestionpious.com
 0.0.0.0 www.indignationmapprohibited.com
 0.0.0.0 www.individualdavid.com
@@ -36364,6 +36373,7 @@
 0.0.0.0 www.mupwj.org
 0.0.0.0 www.muralshelvesdeposition.com
 0.0.0.0 www.mushroomphilosophicalincorrect.com
+0.0.0.0 www.muslimberbagi.xyz
 0.0.0.0 www.musselchangeableskier.com
 0.0.0.0 www.muzzleabbot.com
 0.0.0.0 www.mv8.app
@@ -37041,6 +37051,7 @@
 0.0.0.0 www.shapeonefoldonefoldmagistrate.com
 0.0.0.0 www.sharonedensmith.com
 0.0.0.0 www.shawneehillfarm.com
+0.0.0.0 www.sheepforgivedismount.com
 0.0.0.0 www.sheflewthecoop.com
 0.0.0.0 www.shelvesdeserve.com
 0.0.0.0 www.shelvesragged.com
@@ -37565,6 +37576,7 @@
 0.0.0.0 www.vpay.website
 0.0.0.0 www.w1360.com
 0.0.0.0 www.wagedustermet.com
+0.0.0.0 www.waitedsnickrancorous.com
 0.0.0.0 www.waiterregistrydelusional.com
 0.0.0.0 www.walnutdescendant.com
 0.0.0.0 www.walrusintroducing.com
