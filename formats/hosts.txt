@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.044
 # Release: 044
-# Entries: 39,032
-# Updated: Mon, 13 Feb 23 08:09:51 +06
+# Entries: 39,036
+# Updated: Mon, 13 Feb 23 10:07:14 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5854,6 +5854,7 @@
 0.0.0.0 bulakreiner.guru
 0.0.0.0 bulcqmteuc.com
 0.0.0.0 bulgae.com
+0.0.0.0 buliang183.com
 0.0.0.0 bulium.com
 0.0.0.0 bulkaapricot.com
 0.0.0.0 bulkemailchecker2.com
@@ -34763,6 +34764,7 @@
 0.0.0.0 www.buffaloexemptdropped.com
 0.0.0.0 www.buieslanding.com
 0.0.0.0 www.buildingabettercolumbus.com
+0.0.0.0 www.buliang183.com
 0.0.0.0 www.bullesdesens.top
 0.0.0.0 www.bullnunname.com
 0.0.0.0 www.buncounsel.com
@@ -36009,6 +36011,7 @@
 0.0.0.0 www.kissmenowcosmetics.co
 0.0.0.0 www.kitchenmatts.com
 0.0.0.0 www.kittle.app
+0.0.0.0 www.kkoohkade.com
 0.0.0.0 www.kkzwvd.com
 0.0.0.0 www.kl-df-a4.com
 0.0.0.0 www.klingeltonemp3.info
@@ -36051,6 +36054,7 @@
 0.0.0.0 www.langtool.tech
 0.0.0.0 www.lanyouplay.com
 0.0.0.0 www.lanzonb.com
+0.0.0.0 www.lanzouij.com
 0.0.0.0 www.laodeshun.com
 0.0.0.0 www.laqddcc.com
 0.0.0.0 www.larawilliams.org
