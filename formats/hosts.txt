@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.047
 # Release: 047
-# Entries: 39,910
-# Updated: Thu, 16 Feb 23 00:11:30 +06
+# Entries: 39,920
+# Updated: Thu, 16 Feb 23 02:13:38 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -161,6 +161,7 @@
 0.0.0.0 123camquiz.com
 0.0.0.0 123hello.net
 0.0.0.0 123moviehub.ws
+0.0.0.0 123movies.baby
 0.0.0.0 123movies.to
 0.0.0.0 123movies.town
 0.0.0.0 123taxi.be
@@ -1335,6 +1336,7 @@
 0.0.0.0 abhorboring.com
 0.0.0.0 abhorcarious.com
 0.0.0.0 abiastate.pw
+0.0.0.0 abidepeachy.com
 0.0.0.0 abiderestless.com
 0.0.0.0 abitotorino.it
 0.0.0.0 abiyemi.com
@@ -5599,6 +5601,7 @@
 0.0.0.0 bosuch.com
 0.0.0.0 bot-checker.com
 0.0.0.0 botanyshop.org
+0.0.0.0 bothererune.com
 0.0.0.0 bothinghalloy.com
 0.0.0.0 bottlerobust.com
 0.0.0.0 bottleschance.com
@@ -5680,6 +5683,7 @@
 0.0.0.0 brainian.club
 0.0.0.0 brainlyads.com
 0.0.0.0 brainsensueddusty.com
+0.0.0.0 brakescucumbersubjects.com
 0.0.0.0 brakesoutright.com
 0.0.0.0 braleak.com
 0.0.0.0 brall11.com
@@ -10552,6 +10556,7 @@
 0.0.0.0 elbowcayclub.net
 0.0.0.0 elburrote.com
 0.0.0.0 elden-ring-merch.com
+0.0.0.0 elderlyevictdeliberately.com
 0.0.0.0 eldestequivalentdrain.com
 0.0.0.0 elearn.foundation
 0.0.0.0 elearnsuccessseries.org
@@ -15219,6 +15224,7 @@
 0.0.0.0 ia.bisetsoliped.com
 0.0.0.0 iadoremakingpics.com
 0.0.0.0 iaff2585.org
+0.0.0.0 iageandinone.com
 0.0.0.0 iam9p3eri3as5lc6hllege.com
 0.0.0.0 iamcurrently.lol
 0.0.0.0 iamllanero.com
@@ -15985,6 +15991,7 @@
 0.0.0.0 ioffuwfjfu.com
 0.0.0.0 iogjhbnoypg.com
 0.0.0.0 ioheiy.com
+0.0.0.0 iokenattharmiinl.xyz
 0.0.0.0 iolchwlwrvt.top
 0.0.0.0 iolenproces.asia
 0.0.0.0 ionakasulba.xyz
@@ -23492,6 +23499,7 @@
 0.0.0.0 picnicnorthernincompetent.com
 0.0.0.0 picopresentation.com
 0.0.0.0 picpicacg.xyz
+0.0.0.0 picscity.info
 0.0.0.0 picsgroup.org
 0.0.0.0 picsofdream.today
 0.0.0.0 picsservices.info
@@ -26093,6 +26101,7 @@
 0.0.0.0 retagro.com
 0.0.0.0 retainstorkloin.com
 0.0.0.0 retaintreacherous.com
+0.0.0.0 retardstocks.com
 0.0.0.0 retarget2core.com
 0.0.0.0 retargetcore.com
 0.0.0.0 retargeter.com
@@ -33115,6 +33124,7 @@
 0.0.0.0 vehead.com
 0.0.0.0 vehese.com
 0.0.0.0 vehicletracking.top
+0.0.0.0 vehine.com
 0.0.0.0 vehjlsmsj.com
 0.0.0.0 veilingchaufer.life
 0.0.0.0 veilsuccessfully.com
