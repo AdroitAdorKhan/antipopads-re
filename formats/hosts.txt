@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.046
 # Release: 046
-# Entries: 39,634
-# Updated: Wed, 15 Feb 23 04:10:27 +06
+# Entries: 39,651
+# Updated: Wed, 15 Feb 23 06:07:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -590,6 +590,7 @@
 0.0.0.0 365online.net
 0.0.0.0 366300.org
 0.0.0.0 366xsw.com
+0.0.0.0 369hezi.com
 0.0.0.0 36io.co
 0.0.0.0 3761fcd24ef9281f5.com
 0.0.0.0 37fq.com
@@ -13453,6 +13454,7 @@
 0.0.0.0 gooods4you.com
 0.0.0.0 gooogleapi.com
 0.0.0.0 goosebomb.com
+0.0.0.0 goosedigitals.com
 0.0.0.0 goosimes.com
 0.0.0.0 goostist.com
 0.0.0.0 goourl.me
@@ -14001,6 +14003,7 @@
 0.0.0.0 hakeyelled.website
 0.0.0.0 halaljapan.info
 0.0.0.0 halchludwig.com
+0.0.0.0 halerugeogeny.com
 0.0.0.0 halffullglassnews.com
 0.0.0.0 halfhaled.com
 0.0.0.0 halfhourholidays.co.uk
@@ -16265,6 +16268,7 @@
 0.0.0.0 jataa-ayurveda.info
 0.0.0.0 jataa-ayurveda.mobi
 0.0.0.0 jataa-ayurveda.org
+0.0.0.0 jataaformen.biz
 0.0.0.0 jataaformen.info
 0.0.0.0 jataaformen.org
 0.0.0.0 jataayurveda.biz
@@ -19147,6 +19151,7 @@
 0.0.0.0 master-sad.ru
 0.0.0.0 master365k.com
 0.0.0.0 masterbola228.net
+0.0.0.0 mastercarautomarcas.com
 0.0.0.0 masterfornews.com
 0.0.0.0 mastermilligram.com
 0.0.0.0 masterpeace-lady.ru
@@ -22838,6 +22843,7 @@
 0.0.0.0 passingcelebrate.com
 0.0.0.0 passionateconductorstow.com
 0.0.0.0 passionfruitads.com
+0.0.0.0 passive500.com
 0.0.0.0 passivefreedomcashplan.com
 0.0.0.0 passivemarcoanyhow.com
 0.0.0.0 passportsailingadventures.com
@@ -27061,6 +27067,7 @@
 0.0.0.0 scientistuneasiness.com
 0.0.0.0 sciets.com
 0.0.0.0 scillathemons.com
+0.0.0.0 scintillapro.com
 0.0.0.0 sciscoqv.xyz
 0.0.0.0 scissorstenantplot.com
 0.0.0.0 sciting.org
@@ -27903,6 +27910,7 @@
 0.0.0.0 sinwebads.com
 0.0.0.0 sipibowartern.com
 0.0.0.0 sippansy.com
+0.0.0.0 sipsconstructionservices.co.uk
 0.0.0.0 siredonlacs.com
 0.0.0.0 sirepisode.com
 0.0.0.0 sireundermineoperative.com
@@ -28124,6 +28132,7 @@
 0.0.0.0 smartnmc.com
 0.0.0.0 smartonfood.co.uk
 0.0.0.0 smartredesign.org
+0.0.0.0 smartsecure-tata-play.biz
 0.0.0.0 smartsecure-tata-play.info
 0.0.0.0 smartsecure-tata-play.live
 0.0.0.0 smartsecure-tata-play.org
@@ -28565,6 +28574,7 @@
 0.0.0.0 splintergrazescald.com
 0.0.0.0 splittingpick.com
 0.0.0.0 spnankbang.com
+0.0.0.0 spochet.com
 0.0.0.0 spoilerfree-reviews.com
 0.0.0.0 spokalicious.com
 0.0.0.0 spokanunwindy.life
@@ -29023,6 +29033,7 @@
 0.0.0.0 strenuoustarget.com
 0.0.0.0 stressfulconsumerdumbest.com
 0.0.0.0 stressfulloudly.com
+0.0.0.0 stretchedbarbarian.com
 0.0.0.0 stretchedcreepy.com
 0.0.0.0 stretchingcognitioncommission.com
 0.0.0.0 stretchingfervid.com
@@ -33761,6 +33772,7 @@
 0.0.0.0 wayktnliwafh.xyz
 0.0.0.0 waylaidangelim.com
 0.0.0.0 waylonjimi.net
+0.0.0.0 waylonjimi69.com
 0.0.0.0 waymarkgentiin.com
 0.0.0.0 waymentbuoyage.uno
 0.0.0.0 waymentriddel.com
@@ -34772,6 +34784,7 @@
 0.0.0.0 www.3381.ma
 0.0.0.0 www.35593c.com
 0.0.0.0 www.366xsw.com
+0.0.0.0 www.369hezi.com
 0.0.0.0 www.37e5693aa7.com
 0.0.0.0 www.3dnsew.com
 0.0.0.0 www.3domainscom.com
@@ -36132,6 +36145,7 @@
 0.0.0.0 www.googlecoin.org
 0.0.0.0 www.googtion.com
 0.0.0.0 www.gooods4you.com
+0.0.0.0 www.goosedigitals.com
 0.0.0.0 www.goshcries.com
 0.0.0.0 www.gotohr.com
 0.0.0.0 www.governorretired.com
@@ -37052,6 +37066,7 @@
 0.0.0.0 www.passablejeepparliament.com
 0.0.0.0 www.passannouncing.com
 0.0.0.0 www.passdoorstepcol.com
+0.0.0.0 www.passive500.com
 0.0.0.0 www.patioeasternopera.com
 0.0.0.0 www.patiotheoretical.com
 0.0.0.0 www.patrickbp.store
@@ -37472,6 +37487,7 @@
 0.0.0.0 www.scarflaremorally.com
 0.0.0.0 www.schemeabsolutejanuary.com
 0.0.0.0 www.scholarovertakealimony.com
+0.0.0.0 www.scintillapro.com
 0.0.0.0 www.scooby-dooby-offers.com
 0.0.0.0 www.scorchidentifiersauce.com
 0.0.0.0 www.scotcheliza.com
@@ -38084,6 +38100,7 @@
 0.0.0.0 www.wasoffspring.com
 0.0.0.0 www.wasperrdepict.com
 0.0.0.0 www.waterprooffold.com
+0.0.0.0 www.waylonjimi69.com
 0.0.0.0 www.wealth-management-coach.com
 0.0.0.0 www.weareborntoexplore.com
 0.0.0.0 www.weaselbubblehue.com
