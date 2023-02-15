@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.047
 # Release: 047
-# Entries: 39,920
-# Updated: Thu, 16 Feb 23 02:13:38 +06
+# Entries: 39,923
+# Updated: Thu, 16 Feb 23 04:10:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -17085,6 +17085,7 @@
 0.0.0.0 kckntb.com
 0.0.0.0 kcorfetas.com
 0.0.0.0 kcpicmgwddbpclu.com
+0.0.0.0 kcsdns.com
 0.0.0.0 kcsnyyglb.com
 0.0.0.0 kd.caboclearrayan.com
 0.0.0.0 kdcieiunujb.com
@@ -22357,6 +22358,7 @@
 0.0.0.0 orbmatchingenough.com
 0.0.0.0 orbsclawand.com
 0.0.0.0 orcayacht.net
+0.0.0.0 orcayacht.org
 0.0.0.0 orcayachttransport.net
 0.0.0.0 orcend.com
 0.0.0.0 orcept.com
@@ -23361,6 +23363,7 @@
 0.0.0.0 ph.acedyshrill.com
 0.0.0.0 ph.preezeaorist.com
 0.0.0.0 phabycebe.com
+0.0.0.0 phague.com
 0.0.0.0 phagueq.cn
 0.0.0.0 phaikroo.net
 0.0.0.0 phaiksul.net
