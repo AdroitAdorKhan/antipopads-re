@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.047
 # Release: 047
-# Entries: 39,965
-# Updated: Thu, 16 Feb 23 12:08:13 +06
+# Entries: 39,968
+# Updated: Thu, 16 Feb 23 14:08:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4129,6 +4129,7 @@
 0.0.0.0 awfulresolvedraised.com
 0.0.0.0 awgfargnrw.xyz
 0.0.0.0 awhalzmmyot.com
+0.0.0.0 awi-it.it
 0.0.0.0 awkwardtelegram.com
 0.0.0.0 awledconside.xyz
 0.0.0.0 awmbed.com
@@ -6920,6 +6921,7 @@
 0.0.0.0 cheksoam.com
 0.0.0.0 chemitug.net
 0.0.0.0 chemmit.com
+0.0.0.0 chemtoaxeehy.com
 0.0.0.0 chengaib.net
 0.0.0.0 chengoassa.com
 0.0.0.0 chenlun03.com
@@ -36408,6 +36410,7 @@
 0.0.0.0 www.goldfishquestion.com
 0.0.0.0 www.goldmoncler.top
 0.0.0.0 www.gomerch.shop
+0.0.0.0 www.goo1111gie-analytics.su
 0.0.0.0 www.gooddatebaddate.com
 0.0.0.0 www.goodnightdeduce.com
 0.0.0.0 www.googlecoin.org
