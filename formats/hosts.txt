@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.047
 # Release: 047
-# Entries: 39,962
-# Updated: Thu, 16 Feb 23 10:12:33 +06
+# Entries: 39,965
+# Updated: Thu, 16 Feb 23 12:08:13 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3185,6 +3185,7 @@
 0.0.0.0 ap.gouramibizones.com
 0.0.0.0 ap.topteledu.com
 0.0.0.0 ap3lorf0il.com
+0.0.0.0 apachew.com
 0.0.0.0 apaeat.com
 0.0.0.0 apanasolutions.com
 0.0.0.0 apartblot.com
@@ -5562,6 +5563,7 @@
 0.0.0.0 bookveggies.com
 0.0.0.0 booleanfalces.website
 0.0.0.0 boom-boom-vroom.com
+0.0.0.0 boomslot88.site
 0.0.0.0 boonsbarcas.uno
 0.0.0.0 booptuwa.net
 0.0.0.0 booshoune.com
@@ -37711,6 +37713,7 @@
 0.0.0.0 www.rlg.world
 0.0.0.0 www.robberyfurthermore.com
 0.0.0.0 www.robescampus.com
+0.0.0.0 www.rocksnot.org
 0.0.0.0 www.rohitvermaphotography.com
 0.0.0.0 www.rohlicek.name
 0.0.0.0 www.romewicked.com
