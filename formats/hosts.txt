@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.048
 # Release: 048
-# Entries: 40,293
-# Updated: Fri, 17 Feb 23 16:15:52 +06
+# Entries: 40,306
+# Updated: Fri, 17 Feb 23 18:07:39 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1532,6 +1532,7 @@
 0.0.0.0 ackcdn.net
 0.0.0.0 aclickads.com
 0.0.0.0 aclientiret.club
+0.0.0.0 aclisp.com
 0.0.0.0 acloudvideos.com
 0.0.0.0 aclytatcula.ga
 0.0.0.0 acmzraqcixa.com
@@ -2769,6 +2770,8 @@
 0.0.0.0 almaty22.eu
 0.0.0.0 almaty24.eu
 0.0.0.0 almaty27.eu
+0.0.0.0 almaty28.eu
+0.0.0.0 almaty30.eu
 0.0.0.0 almightypush.com
 0.0.0.0 almkwhssgqtbxeb.com
 0.0.0.0 almostspend.com
@@ -4716,6 +4719,7 @@
 0.0.0.0 becond.com
 0.0.0.0 becoquin.com
 0.0.0.0 becorsolaom.com
+0.0.0.0 becramcreeky.com
 0.0.0.0 becrustleom.com
 0.0.0.0 becuboneor.com
 0.0.0.0 bed-sheets.org
@@ -8393,6 +8397,7 @@
 0.0.0.0 cubztyjhypa.com
 0.0.0.0 cuckoiz.lol
 0.0.0.0 cuckooretire.com
+0.0.0.0 cucod.net
 0.0.0.0 cuculf.name
 0.0.0.0 cucumberabbotrecommended.com
 0.0.0.0 cuddlethehyena.com
@@ -8661,6 +8666,7 @@
 0.0.0.0 daishouk.net
 0.0.0.0 daisyboredom.com
 0.0.0.0 daisycontroversy.com
+0.0.0.0 daisylandrescue.org
 0.0.0.0 daisywolf.top
 0.0.0.0 daitoase.com
 0.0.0.0 daiwheew.com
@@ -9864,6 +9870,7 @@
 0.0.0.0 dp25.kr
 0.0.0.0 dpbxtrqyljhse.xyz
 0.0.0.0 dpdnav.com
+0.0.0.0 dpefjzuq.com
 0.0.0.0 dpfciqqxa.com
 0.0.0.0 dphmmqhslvb.com
 0.0.0.0 dpipel.com
@@ -17108,6 +17115,7 @@
 0.0.0.0 kaiwaipo.net
 0.0.0.0 kaiyu.xyz
 0.0.0.0 kaizenfit.org
+0.0.0.0 kaizer3d.com
 0.0.0.0 kakazy-yun.com
 0.0.0.0 kalapuri.org
 0.0.0.0 kalauxet.com
@@ -23239,6 +23247,7 @@
 0.0.0.0 payment-auth-invoice.com
 0.0.0.0 payment-auth-invoices.com
 0.0.0.0 payment-authorization-invoices-pay-pal.com
+0.0.0.0 payment-authorized-pay-pal.com
 0.0.0.0 paymentboxes.us
 0.0.0.0 paymentdeceasedcommence.com
 0.0.0.0 payments4u.org
@@ -25295,6 +25304,7 @@
 0.0.0.0 qbkzvophvva.com
 0.0.0.0 qbluwddjm.top
 0.0.0.0 qbmdlvijixx.top
+0.0.0.0 qbnexzps.com
 0.0.0.0 qbrejpaccmtodu.com
 0.0.0.0 qbxucdgggl.com
 0.0.0.0 qc.rubesacephal.com
@@ -36033,6 +36043,7 @@
 0.0.0.0 www.conclusionnatural.com
 0.0.0.0 www.condescendingolivejustly.com
 0.0.0.0 www.conditionsentangle.com
+0.0.0.0 www.condodgy.com
 0.0.0.0 www.condolencesbig.com
 0.0.0.0 www.conductedlatitudeshoot.com
 0.0.0.0 www.conductiveruthless.com
@@ -37653,6 +37664,7 @@
 0.0.0.0 www.passannouncing.com
 0.0.0.0 www.passdoorstepcol.com
 0.0.0.0 www.passive500.com
+0.0.0.0 www.patienceboostboss.com
 0.0.0.0 www.patioeasternopera.com
 0.0.0.0 www.patiotheoretical.com
 0.0.0.0 www.patrickbp.store
@@ -37695,6 +37707,7 @@
 0.0.0.0 www.petaecon.com
 0.0.0.0 www.petasiaexpo.com
 0.0.0.0 www.pettowermummy.com
+0.0.0.0 www.pewizard.com
 0.0.0.0 www.pfdbs.org
 0.0.0.0 www.pgavs.online
 0.0.0.0 www.phanmemquetso.com
