@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.048
 # Release: 048
-# Entries: 40,147
-# Updated: Fri, 17 Feb 23 08:15:30 +06
+# Entries: 40,153
+# Updated: Fri, 17 Feb 23 10:07:54 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2764,6 +2764,7 @@
 0.0.0.0 almapa2.com
 0.0.0.0 almareepom.com
 0.0.0.0 almasatten.com
+0.0.0.0 almaty22.eu
 0.0.0.0 almaty24.eu
 0.0.0.0 almaty27.eu
 0.0.0.0 almightypush.com
@@ -7156,6 +7157,7 @@
 0.0.0.0 citatumpity.com
 0.0.0.0 citemesabourer.xyz
 0.0.0.0 citgeneraltrading.com
+0.0.0.0 citibank-login.com
 0.0.0.0 citiccardcdn.com
 0.0.0.0 citicso.com
 0.0.0.0 citizen-check.com
@@ -7825,6 +7827,7 @@
 0.0.0.0 conductiveruthless.com
 0.0.0.0 conductmassage.com
 0.0.0.0 conduit-banners.com
+0.0.0.0 conecta-com.org
 0.0.0.0 coneenpien.com
 0.0.0.0 conexionpuma.info
 0.0.0.0 confdatabase.com
@@ -17948,6 +17951,7 @@
 0.0.0.0 lastdance.online
 0.0.0.0 lastedriblets.life
 0.0.0.0 lataperiachippenham.co.uk
+0.0.0.0 latarjetaroja.com
 0.0.0.0 latasitadecafe.com
 0.0.0.0 latenight-dating.life
 0.0.0.0 latentcreeper.com
@@ -22934,6 +22938,7 @@
 0.0.0.0 painsdire.com
 0.0.0.0 painsko.com
 0.0.0.0 paintifiercute.club
+0.0.0.0 paintjunction.in
 0.0.0.0 paintoppo.co.uk
 0.0.0.0 paintoppo.com
 0.0.0.0 paintversion.com
@@ -35320,6 +35325,7 @@
 0.0.0.0 www.afrikamaat.com
 0.0.0.0 www.aggravateexaggerate.com
 0.0.0.0 www.ahagreatlypromised.com
+0.0.0.0 www.aiiaiafrzrueuedur.ru
 0.0.0.0 www.airlessquotationtroubled.com
 0.0.0.0 www.airlinerlibrariesfavour.com
 0.0.0.0 www.airydeservesannounce.com
