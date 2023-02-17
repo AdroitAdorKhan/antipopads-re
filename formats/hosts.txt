@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.049
 # Release: 049
-# Entries: 40,385
-# Updated: Sat, 18 Feb 23 02:07:35 +06
+# Entries: 40,387
+# Updated: Sat, 18 Feb 23 04:07:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -30887,6 +30887,7 @@
 0.0.0.0 thisamodaaninal.com
 0.0.0.0 thisbetsa.com
 0.0.0.0 thiscdn.com
+0.0.0.0 thischarmingcandy.com
 0.0.0.0 thisisthestew.com
 0.0.0.0 thisistvfordogs.com
 0.0.0.0 thisiswaldo.com
@@ -38554,6 +38555,7 @@
 0.0.0.0 www.thewarmillion.com
 0.0.0.0 www.thewnewz.com
 0.0.0.0 www.thickcharityinextricable.com
+0.0.0.0 www.thischarmingcandy.com
 0.0.0.0 www.threatenedpersonnel.com
 0.0.0.0 www.threefortressfork.com
 0.0.0.0 www.thresholdfunction.com
