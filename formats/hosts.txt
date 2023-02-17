@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.048
 # Release: 048
-# Entries: 40,306
-# Updated: Fri, 17 Feb 23 18:07:39 +06
+# Entries: 40,318
+# Updated: Fri, 17 Feb 23 20:08:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2769,6 +2769,7 @@
 0.0.0.0 almasatten.com
 0.0.0.0 almaty22.eu
 0.0.0.0 almaty24.eu
+0.0.0.0 almaty26.eu
 0.0.0.0 almaty27.eu
 0.0.0.0 almaty28.eu
 0.0.0.0 almaty30.eu
@@ -8861,6 +8862,7 @@
 0.0.0.0 dddwlhiq.top
 0.0.0.0 ddedfearin.buzz
 0.0.0.0 ddenknowl.com
+0.0.0.0 ddgunsmithing.org
 0.0.0.0 ddhjxakewpp.com
 0.0.0.0 ddji.in
 0.0.0.0 ddlesswale.co
@@ -8963,6 +8965,7 @@
 0.0.0.0 deeprootedstranded.com
 0.0.0.0 deethout.net
 0.0.0.0 deewansturacin.com
+0.0.0.0 deewo.org
 0.0.0.0 defaceproudlybarnacle.com
 0.0.0.0 defas.site
 0.0.0.0 defaulttabjs.info
@@ -9004,6 +9007,7 @@
 0.0.0.0 dehornuplock.com
 0.0.0.0 deicemaptwin.com
 0.0.0.0 deiligejenter.com
+0.0.0.0 deimoscorp.org
 0.0.0.0 deityate.com
 0.0.0.0 deitynosebleed.com
 0.0.0.0 dejame.xyz
@@ -17438,6 +17442,7 @@
 0.0.0.0 kitchencafeso.com
 0.0.0.0 kitchenmatts.com
 0.0.0.0 kitchenobject.in
+0.0.0.0 kithoasou.com
 0.0.0.0 kitnmedia.com
 0.0.0.0 kitokit.com
 0.0.0.0 kitrigthy.com
@@ -24980,6 +24985,7 @@
 0.0.0.0 ptougain.com
 0.0.0.0 ptoumsid.net
 0.0.0.0 ptoushoa.com
+0.0.0.0 ptousteg.net
 0.0.0.0 ptoutsexe.com
 0.0.0.0 ptp22.com
 0.0.0.0 ptp24.com
@@ -31917,6 +31923,7 @@
 0.0.0.0 trinitytradingcorporation.com
 0.0.0.0 trinitywishful.com
 0.0.0.0 triodiaimprasa.live
+0.0.0.0 tripadviso.fr
 0.0.0.0 triple-tfitness.com
 0.0.0.0 triplekdpropertysolutions.com
 0.0.0.0 triplelops.com
@@ -35116,6 +35123,7 @@
 0.0.0.0 wp-stats-php.info
 0.0.0.0 wp.mashlumgibers.com
 0.0.0.0 wphmavwgay.xyz
+0.0.0.0 wphostingserver.com
 0.0.0.0 wpjaniwjffwems.top
 0.0.0.0 wplace.tech
 0.0.0.0 wpnjrm.com
@@ -37183,6 +37191,7 @@
 0.0.0.0 www.lardyfascinated.com
 0.0.0.0 www.largegiganticcounting.com
 0.0.0.0 www.latervoluntaryarise.com
+0.0.0.0 www.latestgrace.com
 0.0.0.0 www.laughtermation.com
 0.0.0.0 www.launchreliantcleaver.com
 0.0.0.0 www.laundryrespond.com
@@ -37742,6 +37751,7 @@
 0.0.0.0 www.pistolmuteness.com
 0.0.0.0 www.pitifulharmless.com
 0.0.0.0 www.pkracv.com
+0.0.0.0 www.pl18286915.highcpmrevenuenetwork.com
 0.0.0.0 www.plaitincriminatediscard.com
 0.0.0.0 www.plaittest.com
 0.0.0.0 www.plaitvaccination.com
@@ -38181,6 +38191,7 @@
 0.0.0.0 www.shockadviceinsult.com
 0.0.0.0 www.shok.am
 0.0.0.0 www.shookcooperassociate.com
+0.0.0.0 www.shopkr.online
 0.0.0.0 www.shopshoist.com
 0.0.0.0 www.shoptoday1.shop
 0.0.0.0 www.shopuniteclosing.com
@@ -38777,6 +38788,7 @@
 0.0.0.0 www.wipeilluminationlocomotive.com
 0.0.0.0 www.wiseandclueless.com
 0.0.0.0 www.wishcart.shop
+0.0.0.0 www.withenvisagehurt.com
 0.0.0.0 www.wixycloud.com
 0.0.0.0 www.wizardinthetower.com
 0.0.0.0 www.wokenoptionalcohabit.com
