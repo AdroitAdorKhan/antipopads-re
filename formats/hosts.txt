@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.048
 # Release: 048
-# Entries: 40,173
-# Updated: Fri, 17 Feb 23 12:07:46 +06
+# Entries: 40,178
+# Updated: Fri, 17 Feb 23 14:07:52 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12392,6 +12392,7 @@
 0.0.0.0 foxcdn.life
 0.0.0.0 foxcdn.live
 0.0.0.0 foxiosolutions.com
+0.0.0.0 foxitapp.pw
 0.0.0.0 foxmeadowstudio.ca
 0.0.0.0 foxrevenue.com
 0.0.0.0 foxuapgsuhlc.com
@@ -12827,6 +12828,7 @@
 0.0.0.0 gampley.com
 0.0.0.0 gandrad.org
 0.0.0.0 ganemur.com
+0.0.0.0 ganeshjoshi.in
 0.0.0.0 gangidance.com
 0.0.0.0 gangoffilmmakers.live
 0.0.0.0 gangsstowapps.com
@@ -21012,6 +21014,7 @@
 0.0.0.0 nettvservices.com
 0.0.0.0 netu.io
 0.0.0.0 netvahidaa.com
+0.0.0.0 netwww.844644.com
 0.0.0.0 neutralityrecommendstretched.com
 0.0.0.0 neutralsaxophoneaspect.com
 0.0.0.0 neutraltoxicpreposition.com
@@ -27686,6 +27689,7 @@
 0.0.0.0 sequelswosbird.com
 0.0.0.0 sequencethrobbing.com
 0.0.0.0 seracnetwork.net
+0.0.0.0 seraingallayer.live
 0.0.0.0 seratea.top
 0.0.0.0 serbailmu.live
 0.0.0.0 serbianstonish.com
@@ -34141,6 +34145,7 @@
 0.0.0.0 watchingthat.com
 0.0.0.0 watchmytopapp.top
 0.0.0.0 watchnewpics.info
+0.0.0.0 watchsully.xyz
 0.0.0.0 watchtaro.com
 0.0.0.0 watchthistop.net
 0.0.0.0 wateronefoundation.org
