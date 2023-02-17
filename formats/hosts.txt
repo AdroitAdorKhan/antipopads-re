@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.048
 # Release: 048
-# Entries: 40,144
-# Updated: Fri, 17 Feb 23 06:08:14 +06
+# Entries: 40,147
+# Updated: Fri, 17 Feb 23 08:15:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2764,6 +2764,7 @@
 0.0.0.0 almapa2.com
 0.0.0.0 almareepom.com
 0.0.0.0 almasatten.com
+0.0.0.0 almaty24.eu
 0.0.0.0 almaty27.eu
 0.0.0.0 almightypush.com
 0.0.0.0 almkwhssgqtbxeb.com
@@ -19060,6 +19061,7 @@
 0.0.0.0 maddeningpowder.com
 0.0.0.0 maddenword.com
 0.0.0.0 madehimn.xyz
+0.0.0.0 madnessindians.com
 0.0.0.0 madridnorte.top
 0.0.0.0 madriyelowd.com
 0.0.0.0 madsabs.com
@@ -21759,6 +21761,7 @@
 0.0.0.0 oafsevasive.com
 0.0.0.0 oaftaijo.net
 0.0.0.0 oagnatch.com
+0.0.0.0 oagoalee.xyz
 0.0.0.0 oahaurti.com
 0.0.0.0 oainternetservices.com
 0.0.0.0 oajagroax.com
