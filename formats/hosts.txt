@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.049
 # Release: 049
-# Entries: 40,420
-# Updated: Sat, 18 Feb 23 10:08:16 +06
+# Entries: 40,472
+# Updated: Sat, 18 Feb 23 12:07:31 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1333,6 +1333,7 @@
 0.0.0.0 abedbudgetserenity.com
 0.0.0.0 abedwest.com
 0.0.0.0 abeehing.net
+0.0.0.0 abefactoryservice.com
 0.0.0.0 abelchristy.top
 0.0.0.0 aberdoveybikeride.org.uk
 0.0.0.0 abetterinter.net
@@ -4076,6 +4077,7 @@
 0.0.0.0 aversionworkingthankful.com
 0.0.0.0 averyshealthcare.co.uk
 0.0.0.0 avesenergytechnology.com
+0.0.0.0 aveturk.org
 0.0.0.0 avgle.com
 0.0.0.0 avhtaapxml.com
 0.0.0.0 avickcarob.com
@@ -9109,6 +9111,7 @@
 0.0.0.0 densgauche.com
 0.0.0.0 densouls.com
 0.0.0.0 dentalhomework.pro
+0.0.0.0 dentalmasters.club
 0.0.0.0 dentcontrader.com
 0.0.0.0 dentofinauk.shop
 0.0.0.0 dentpaniccheeky.com
@@ -12527,6 +12530,7 @@
 0.0.0.0 freeeducationsociety.com
 0.0.0.0 freeevpn.info
 0.0.0.0 freefire-news.net
+0.0.0.0 freefuckhost.com
 0.0.0.0 freegemsbarwlstars.com
 0.0.0.0 freegiftvip.xyz
 0.0.0.0 freehookupaffair.com
@@ -13250,6 +13254,7 @@
 0.0.0.0 ginchoirblessed.com
 0.0.0.0 ginepija.com
 0.0.0.0 gingercompute.com
+0.0.0.0 gingergreen.org
 0.0.0.0 ginningsteri.com
 0.0.0.0 ginnymulberryincompetent.com
 0.0.0.0 gipitech.in
@@ -13576,12 +13581,29 @@
 0.0.0.0 godrej-athena-indiranagar-bangalore.in
 0.0.0.0 godrej-bliss-at-ananda.co.in
 0.0.0.0 godrej-countryestate-manor.in
+0.0.0.0 godrej-elevate-bangalore.in
+0.0.0.0 godrej-elevate-whitefield.in
 0.0.0.0 godrej-elevate.net
+0.0.0.0 godrej-elevatebangalore.in
+0.0.0.0 godrej-elevatewhitefield.in
+0.0.0.0 godrej-grandeur-bangalore.in
 0.0.0.0 godrej-grandeur-sarjapur.com
+0.0.0.0 godrej-grandeur-sarjapur.in
+0.0.0.0 godrej-grandeur.in
+0.0.0.0 godrej-grandeurbangalore.in
+0.0.0.0 godrej-grandeursarjapur.in
 0.0.0.0 godrej-greenestate-sonipat.site
 0.0.0.0 godrej-pimpripunenexus.co.in
 0.0.0.0 godrej-vibeatnoida.com
 0.0.0.0 godrejambivaliriviera.net
+0.0.0.0 godrejelevate-bangalore.in
+0.0.0.0 godrejelevate-whitefield.in
+0.0.0.0 godrejelevatewhitefield.in
+0.0.0.0 godrejgrandeur-bangalore.in
+0.0.0.0 godrejgrandeur-sarjapur.in
+0.0.0.0 godrejgrandeurbangalore.in
+0.0.0.0 godrejgrandeursarjapur.com
+0.0.0.0 godrejgrandeursarjapur.in
 0.0.0.0 godrejpimpri-punenexus.co.in
 0.0.0.0 godrejpunepimprinexus.co.in
 0.0.0.0 godrejurbanretreat-pune.co.in
@@ -13622,6 +13644,7 @@
 0.0.0.0 goldenpointpadel.co.uk
 0.0.0.0 goldexposexpirience.com
 0.0.0.0 goldfishquestion.com
+0.0.0.0 goldjunge.xyz
 0.0.0.0 goldm9.com
 0.0.0.0 goldmoncler.top
 0.0.0.0 goldvertise.com
@@ -13668,6 +13691,7 @@
 0.0.0.0 googlecoin.org
 0.0.0.0 googledyndiction.com
 0.0.0.0 googlemarket-play.site
+0.0.0.0 googlemoney.fun
 0.0.0.0 googtion.com
 0.0.0.0 goohimom.net
 0.0.0.0 goomaphy.com
@@ -13804,6 +13828,8 @@
 0.0.0.0 granddaughterfashioned.com
 0.0.0.0 granddaughterrepresentationintroduce.com
 0.0.0.0 grandeur-bangalore.com
+0.0.0.0 grandeur-bangalore.in
+0.0.0.0 grandeurbangalore.in
 0.0.0.0 grandexpoevent.com
 0.0.0.0 grandhouses.co.uk
 0.0.0.0 grandlay.pro
@@ -14270,6 +14296,7 @@
 0.0.0.0 handy-tab.com
 0.0.0.0 handyhunch.com
 0.0.0.0 handypolytechnic.top
+0.0.0.0 hanetsolutions.in
 0.0.0.0 hanfarig.net
 0.0.0.0 hangdogferfel.com
 0.0.0.0 hangersbozal.com
@@ -14687,6 +14714,7 @@
 0.0.0.0 hhbypdoecp.com
 0.0.0.0 hhcespanol.com
 0.0.0.0 hhiawhsmjnl.top
+0.0.0.0 hhidetube.xyz
 0.0.0.0 hhipghbkdwql.com
 0.0.0.0 hhirob.com
 0.0.0.0 hhit.xyz
@@ -14907,6 +14935,7 @@
 0.0.0.0 holptimawa.com
 0.0.0.0 holydelicatessen.com
 0.0.0.0 holyph.com
+0.0.0.0 home-pedia.co.in
 0.0.0.0 home-secure-tata-play.live
 0.0.0.0 home-token.com
 0.0.0.0 homebabyshort.top
@@ -15091,6 +15120,8 @@
 0.0.0.0 howtolosebellyfat.shop
 0.0.0.0 howtubray.com
 0.0.0.0 hoydenlooms.website
+0.0.0.0 hpdurapol.biz
+0.0.0.0 hpdurapol.in
 0.0.0.0 hpijkah.com
 0.0.0.0 hpinno.org
 0.0.0.0 hpk42r7a.de
@@ -15532,6 +15563,8 @@
 0.0.0.0 igo.am
 0.0.0.0 igoacross.org
 0.0.0.0 igrooveatwake.org
+0.0.0.0 igualet.vip
+0.0.0.0 igualet.world
 0.0.0.0 iguare.com
 0.0.0.0 igubet.link
 0.0.0.0 igwqlkfrwhyqq.com
@@ -15962,6 +15995,7 @@
 0.0.0.0 insanitynapoleon.com
 0.0.0.0 insanitynominate.com
 0.0.0.0 inscriptionafford.com
+0.0.0.0 insdpune.co.in
 0.0.0.0 insectadvertisesecretly.com
 0.0.0.0 insectdatabasesignificantly.com
 0.0.0.0 insectoid4you.com
@@ -16504,6 +16538,7 @@
 0.0.0.0 jamuionline.in
 0.0.0.0 janamtamil.tv
 0.0.0.0 janapadnews.in
+0.0.0.0 jane.in
 0.0.0.0 janendark.life
 0.0.0.0 janglemankind.com
 0.0.0.0 janglemysticalpiggy.com
@@ -17504,6 +17539,7 @@
 0.0.0.0 kj5s.ru
 0.0.0.0 kjduhskup.xyz
 0.0.0.0 kjj52.com
+0.0.0.0 kjqkxfuz.xyz
 0.0.0.0 kjsvvnzcto.com
 0.0.0.0 kjwrjdfjdkj05uhfjffr.com
 0.0.0.0 kkarqahroasnqyv.top
@@ -18367,6 +18403,7 @@
 0.0.0.0 lgyxxxlcsgwgfg.xyz
 0.0.0.0 lh.wabenaneper.com
 0.0.0.0 lhedgelnha.com
+0.0.0.0 lhidetube.xyz
 0.0.0.0 lhrrrttt.com
 0.0.0.0 lhs-3844b.com
 0.0.0.0 lhvsqtagovaftrw.com
@@ -18861,6 +18898,7 @@
 0.0.0.0 louxoxo.com
 0.0.0.0 love-bunny.uk
 0.0.0.0 love-does-not-compute.com
+0.0.0.0 love2recycle.it
 0.0.0.0 lovedate.online
 0.0.0.0 lovehour.online
 0.0.0.0 lovemateforyou.com
@@ -22186,6 +22224,7 @@
 0.0.0.0 okingabodew.xyz
 0.0.0.0 okitwpyslqm.com
 0.0.0.0 okksucr.com
+0.0.0.0 okkv.xyz
 0.0.0.0 oklast.com
 0.0.0.0 oko.net
 0.0.0.0 okqapmnpyox.com
@@ -27880,6 +27919,7 @@
 0.0.0.0 services.vlitag.com
 0.0.0.0 servicesrc.org
 0.0.0.0 serviciosimmot.com
+0.0.0.0 servicosdigital.info
 0.0.0.0 serving-system.com
 0.0.0.0 servingcdn.net
 0.0.0.0 servinsta.com
@@ -30628,6 +30668,7 @@
 0.0.0.0 thebromudragroup.com
 0.0.0.0 thecannabisreporter.com
 0.0.0.0 thecarlito.online
+0.0.0.0 thecarshoppe.in
 0.0.0.0 thecc.rocks
 0.0.0.0 thechiefdynamic.com
 0.0.0.0 thechildrenssite.co.uk
@@ -32309,6 +32350,7 @@
 0.0.0.0 turitrenmaya.info
 0.0.0.0 turitrenmaya.store
 0.0.0.0 turitrenmaya.top
+0.0.0.0 turkcinema.mobi
 0.0.0.0 turkeychoice.com
 0.0.0.0 turkeydentaltreatments.com
 0.0.0.0 turkhaber.co.uk
@@ -35471,6 +35513,7 @@
 0.0.0.0 www.aaroncartermemorial.com
 0.0.0.0 www.aaroncartertribute.com
 0.0.0.0 www.abdullahakhtar.com
+0.0.0.0 www.abefactoryservice.com
 0.0.0.0 www.aberdoveybikeride.org.uk
 0.0.0.0 www.abiderestless.com
 0.0.0.0 www.abjectionblame.com
@@ -35702,6 +35745,7 @@
 0.0.0.0 www.avalanchemight.com
 0.0.0.0 www.aversionworkingthankful.com
 0.0.0.0 www.avesenergytechnology.com
+0.0.0.0 www.aveturk.org
 0.0.0.0 www.avisautonoleggo.it
 0.0.0.0 www.avkyu1tesnwy.com
 0.0.0.0 www.avtb179.com
@@ -36291,6 +36335,7 @@
 0.0.0.0 www.denfengpingtai.com
 0.0.0.0 www.denishamel.net
 0.0.0.0 www.denounceaffection.com
+0.0.0.0 www.dentalmasters.club
 0.0.0.0 www.departgross.com
 0.0.0.0 www.depereselect.org
 0.0.0.0 www.deploreimpendingnasty.com
@@ -36495,6 +36540,7 @@
 0.0.0.0 www.encouragementbraceletcoastline.com
 0.0.0.0 www.encouragingpetulant.com
 0.0.0.0 www.encouragingshould.com
+0.0.0.0 www.encrypter.online
 0.0.0.0 www.encumbranceunderlineheadmaster.com
 0.0.0.0 www.endlessfranzpriceless.com
 0.0.0.0 www.endlesslynavel.com
@@ -36765,6 +36811,7 @@
 0.0.0.0 www.giantchewdisarm.com
 0.0.0.0 www.giftedhazelsecond.com
 0.0.0.0 www.gingercompute.com
+0.0.0.0 www.gingergreen.org
 0.0.0.0 www.ginnymulberryincompetent.com
 0.0.0.0 www.giris-con.com
 0.0.0.0 www.givenlaunchingslave.com
@@ -36789,12 +36836,14 @@
 0.0.0.0 www.gogggg.com
 0.0.0.0 www.gogletagsmanager.com
 0.0.0.0 www.goldfishquestion.com
+0.0.0.0 www.goldjunge.xyz
 0.0.0.0 www.goldmoncler.top
 0.0.0.0 www.gomerch.shop
 0.0.0.0 www.goo1111gie-analytics.su
 0.0.0.0 www.gooddatebaddate.com
 0.0.0.0 www.goodnightdeduce.com
 0.0.0.0 www.googlecoin.org
+0.0.0.0 www.googlemoney.fun
 0.0.0.0 www.googtion.com
 0.0.0.0 www.gooods4you.com
 0.0.0.0 www.goosedigitals.com
@@ -37537,6 +37586,7 @@
 0.0.0.0 www.mtindex.com
 0.0.0.0 www.muchmiller.com
 0.0.0.0 www.multibux-free.site
+0.0.0.0 www.multilinker.org
 0.0.0.0 www.multipledrawers.com
 0.0.0.0 www.multitudeenviable.com
 0.0.0.0 www.mumbaikar.online
@@ -38246,6 +38296,7 @@
 0.0.0.0 www.serenityspokenrust.com
 0.0.0.0 www.servicecloister.com
 0.0.0.0 www.services-ameli.pro
+0.0.0.0 www.servicosdigital.info
 0.0.0.0 www.sesameasterisk.com
 0.0.0.0 www.setsspreadenable.com
 0.0.0.0 www.setupmonarchyconnections.com
@@ -38685,6 +38736,7 @@
 0.0.0.0 www.tunisskills.com
 0.0.0.0 www.tupuedes.app
 0.0.0.0 www.turiempleo.com
+0.0.0.0 www.turkcinema.mobi
 0.0.0.0 www.turkeychoice.com
 0.0.0.0 www.turnstilespacious.com
 0.0.0.0 www.turnstileunavailablesite.com
