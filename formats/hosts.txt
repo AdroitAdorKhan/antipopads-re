@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.049
 # Release: 049
-# Entries: 40,387
-# Updated: Sat, 18 Feb 23 04:07:51 +06
+# Entries: 40,390
+# Updated: Sat, 18 Feb 23 06:07:38 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -35316,6 +35316,7 @@
 0.0.0.0 www.12w3.net
 0.0.0.0 www.150cambridgesideplace.com
 0.0.0.0 www.150csplace.com
+0.0.0.0 www.1573.site
 0.0.0.0 www.181yue.com
 0.0.0.0 www.1anoth3rdoman1.com
 0.0.0.0 www.1anotherdomains1.com
@@ -38915,6 +38916,7 @@
 0.0.0.0 www.yinhe630.com
 0.0.0.0 www.yiport.com
 0.0.0.0 www.ykazaka.com
+0.0.0.0 www.ymyryg.ru
 0.0.0.0 www.ynlssc.com
 0.0.0.0 www.yogacomplyfuel.com
 0.0.0.0 www.yogaschoolnepal.com
@@ -39757,6 +39759,7 @@
 0.0.0.0 ymqhiigpnt.com
 0.0.0.0 ymu45luj7h2gceb3g9sfb7u45luj.com
 0.0.0.0 ymwnkmsyhxd.com
+0.0.0.0 ymyryg.ru
 0.0.0.0 ymzrrizntbhde.com
 0.0.0.0 yn.acridylpinhold.com
 0.0.0.0 yneationsliee.xyz
