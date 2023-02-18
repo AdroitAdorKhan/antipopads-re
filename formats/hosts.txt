@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.050
 # Release: 050
-# Entries: 40,599
-# Updated: Sun, 19 Feb 23 02:07:47 +06
+# Entries: 40,607
+# Updated: Sun, 19 Feb 23 04:07:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3571,6 +3571,7 @@
 0.0.0.0 arswabluchan.com
 0.0.0.0 art-genesis.com
 0.0.0.0 artemisinvestments.us
+0.0.0.0 artemisrelocation.com
 0.0.0.0 arterybasin.com
 0.0.0.0 arterywily.life
 0.0.0.0 artespipe.com
@@ -8448,6 +8449,7 @@
 0.0.0.0 cucumberabbotrecommended.com
 0.0.0.0 cuddlethehyena.com
 0.0.0.0 cudgelridge.com
+0.0.0.0 cudwortflurr.uno
 0.0.0.0 cuesingle.com
 0.0.0.0 cueyetwee.site
 0.0.0.0 cugiphepty.com
@@ -27070,6 +27072,7 @@
 0.0.0.0 rtbvideobox.com
 0.0.0.0 rtclx.com
 0.0.0.0 rtewgfsxd.com
+0.0.0.0 rtgmkt.com
 0.0.0.0 rtmark.net
 0.0.0.0 rtnjfwvmqanggut.com
 0.0.0.0 rtoukfareputf.com
@@ -29989,6 +29992,7 @@
 0.0.0.0 sweepprolong.com
 0.0.0.0 sweet-sweet-ladys.com
 0.0.0.0 sweetestate.co.uk
+0.0.0.0 sweetgirls-dating3.com
 0.0.0.0 sweetpie.online
 0.0.0.0 sweetrnd.net
 0.0.0.0 sweetromance.life
@@ -33260,6 +33264,7 @@
 0.0.0.0 usskbr.com
 0.0.0.0 ussqmgrbiky.com
 0.0.0.0 ustithoo.net
+0.0.0.0 usuade.com
 0.0.0.0 usuadr.com
 0.0.0.0 usuage.com
 0.0.0.0 usualaurated.com
@@ -34517,6 +34522,7 @@
 0.0.0.0 wbidder.online
 0.0.0.0 wbidder2.com
 0.0.0.0 wbidr.com
+0.0.0.0 wbmwsjxrcph.com
 0.0.0.0 wboptim.online
 0.0.0.0 wbphplqsrdexvt.com
 0.0.0.0 wbxfbyeihhwa.xyz
@@ -35780,6 +35786,7 @@
 0.0.0.0 www.arrivalselfcontrolrealization.com
 0.0.0.0 www.arrowdevastatingconstruction.com
 0.0.0.0 www.art-genesis.com
+0.0.0.0 www.artemisrelocation.com
 0.0.0.0 www.arvinds.works
 0.0.0.0 www.arvindworks.click
 0.0.0.0 www.ascendcolonel.com
@@ -39837,6 +39844,7 @@
 0.0.0.0 yellow-record.pro
 0.0.0.0 yellowacorn.net
 0.0.0.0 yellowtaraph.live
+0.0.0.0 yelp.www.init.in
 0.0.0.0 yemecotum.com
 0.0.0.0 yemislabs.tech
 0.0.0.0 yemonisoni.com
