@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.050
 # Release: 050
-# Entries: 40,625
-# Updated: Sun, 19 Feb 23 08:15:34 +06
+# Entries: 40,648
+# Updated: Sun, 19 Feb 23 10:07:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4015,6 +4015,7 @@
 0.0.0.0 aupsarda.com
 0.0.0.0 aupteeds.net
 0.0.0.0 aupteens.com
+0.0.0.0 aurabar.net
 0.0.0.0 aurallyhypaton.com
 0.0.0.0 auravineyard.com
 0.0.0.0 aurdosti.com
@@ -4048,6 +4049,7 @@
 0.0.0.0 auto-vox.de
 0.0.0.0 autoblitz.repair
 0.0.0.0 autographnutmegassail.com
+0.0.0.0 autolearnings.info
 0.0.0.0 autology.app
 0.0.0.0 automatedtraffic.com
 0.0.0.0 automateyourlist.com
@@ -7857,6 +7859,7 @@
 0.0.0.0 concentleconse.site
 0.0.0.0 concentratebeauabsolute.com
 0.0.0.0 concentrationminefield.com
+0.0.0.0 conceptcreations.org
 0.0.0.0 conceptualization-noddies-candlemaker.online
 0.0.0.0 concernedcommon.com
 0.0.0.0 concernederase.com
@@ -7929,6 +7932,7 @@
 0.0.0.0 conjunctionbanner.com
 0.0.0.0 connateautobiography.com
 0.0.0.0 connatedresspint.com
+0.0.0.0 connect-auth.fr
 0.0.0.0 connectad.io
 0.0.0.0 connectedit.co
 0.0.0.0 connectignite.com
@@ -9139,10 +9143,12 @@
 0.0.0.0 densouls.com
 0.0.0.0 dentalhomework.pro
 0.0.0.0 dentalmasters.club
+0.0.0.0 dentalmasters.net
 0.0.0.0 dentcontrader.com
 0.0.0.0 dentofinauk.shop
 0.0.0.0 dentpaniccheeky.com
 0.0.0.0 denunciationinterior.com
+0.0.0.0 denvai.net
 0.0.0.0 denz-grs.com
 0.0.0.0 denza.pro
 0.0.0.0 deorganizati.co
@@ -9573,6 +9579,7 @@
 0.0.0.0 dispop.com
 0.0.0.0 disposableface-shields.com
 0.0.0.0 disposemuteprowl.com
+0.0.0.0 dispositionadverb.com
 0.0.0.0 disproveknob.com
 0.0.0.0 disqualifybatesclung.com
 0.0.0.0 disrae.com
@@ -10755,6 +10762,7 @@
 0.0.0.0 elkconsistbirch.com
 0.0.0.0 ellcurvth.com
 0.0.0.0 elleetlui.me
+0.0.0.0 ellenandrea.com
 0.0.0.0 ellentmatchwi.com
 0.0.0.0 elliotretained.com
 0.0.0.0 ellorafestival.in
@@ -14531,6 +14539,7 @@
 0.0.0.0 healderednavation.com
 0.0.0.0 healedfamily.org
 0.0.0.0 healingpatternsdesign.com
+0.0.0.0 healingthebighurt.org
 0.0.0.0 healquite.com
 0.0.0.0 healsap.com
 0.0.0.0 health-tips-101.com
@@ -14539,6 +14548,7 @@
 0.0.0.0 healthandwealth.lawyer
 0.0.0.0 healthbank5km.net
 0.0.0.0 healthboxaccelerator.com
+0.0.0.0 healthsluke.info
 0.0.0.0 healthsmd.com
 0.0.0.0 healthytut.com
 0.0.0.0 healwildsanctuary.org
@@ -18885,6 +18895,7 @@
 0.0.0.0 lookedpieter.uno
 0.0.0.0 lookereras.casa
 0.0.0.0 lookoutboccies.com
+0.0.0.0 lookoutcultural.com
 0.0.0.0 lookslikenews.com
 0.0.0.0 looksmart.com
 0.0.0.0 looksmartppc.xml.wowcon.net
@@ -21872,6 +21883,7 @@
 0.0.0.0 nusall.com
 0.0.0.0 nusci.net
 0.0.0.0 nuseek.com
+0.0.0.0 nushoulder.net
 0.0.0.0 nutaku.net
 0.0.0.0 nutattorneyjack.com
 0.0.0.0 nutikuw.top
@@ -27488,6 +27500,7 @@
 0.0.0.0 saqqutajgmbcwgt.xyz
 0.0.0.0 sarafpdu.com
 0.0.0.0 sarahmasters.net
+0.0.0.0 saralsatyalegacy.org
 0.0.0.0 sarasconsulting.com
 0.0.0.0 sarcasmhickbits.com
 0.0.0.0 sarcasticnotarycontrived.com
@@ -35849,8 +35862,10 @@
 0.0.0.0 www.augusticky.com
 0.0.0.0 www.aunthunter.com
 0.0.0.0 www.auntieemployedbureau.com
+0.0.0.0 www.aurabar.net
 0.0.0.0 www.auravineyard.com
 0.0.0.0 www.austinmh.com
+0.0.0.0 www.autolearnings.info
 0.0.0.0 www.autology.app
 0.0.0.0 www.autopsyfowl.com
 0.0.0.0 www.autoservicedepot.webflo.io
@@ -36284,6 +36299,7 @@
 0.0.0.0 www.comradecrumblehari.com
 0.0.0.0 www.comradeglorious.com
 0.0.0.0 www.concealirradiaterisk.com
+0.0.0.0 www.conceptcreations.org
 0.0.0.0 www.concertstop.com
 0.0.0.0 www.concisepressing.com
 0.0.0.0 www.conclusionnatural.com
@@ -36458,6 +36474,8 @@
 0.0.0.0 www.denishamel.net
 0.0.0.0 www.denounceaffection.com
 0.0.0.0 www.dentalmasters.club
+0.0.0.0 www.dentalmasters.net
+0.0.0.0 www.denvai.net
 0.0.0.0 www.departgross.com
 0.0.0.0 www.depereselect.org
 0.0.0.0 www.deploreimpendingnasty.com
@@ -37055,7 +37073,9 @@
 0.0.0.0 www.headusuallyopener.com
 0.0.0.0 www.healedfamily.org
 0.0.0.0 www.healingpatternsdesign.com
+0.0.0.0 www.healingthebighurt.org
 0.0.0.0 www.healquite.com
+0.0.0.0 www.healthsluke.info
 0.0.0.0 www.healthtracking.co
 0.0.0.0 www.heartedscatterbond.com
 0.0.0.0 www.heartilyscales.com
@@ -37815,6 +37835,7 @@
 0.0.0.0 www.nuggettree.org
 0.0.0.0 www.number1mango.com
 0.0.0.0 www.nurserylydia.com
+0.0.0.0 www.nushoulder.net
 0.0.0.0 www.nutattorneyjack.com
 0.0.0.0 www.nutritionrumblelocus.com
 0.0.0.0 www.nwayoo.world
@@ -38377,6 +38398,7 @@
 0.0.0.0 www.sanguineescalatorhairpin.com
 0.0.0.0 www.sansakucomplex.com
 0.0.0.0 www.santacruzam.com
+0.0.0.0 www.saralsatyalegacy.org
 0.0.0.0 www.sarcasticnotarycontrived.com
 0.0.0.0 www.sarovarporticosonipat.com
 0.0.0.0 www.satisfactionpredictmusic.com
@@ -38708,6 +38730,7 @@
 0.0.0.0 www.tarabergmane.com
 0.0.0.0 www.tayturu3.com
 0.0.0.0 www.teachmefutures.com
+0.0.0.0 www.teambd.xyz
 0.0.0.0 www.teamsperilous.com
 0.0.0.0 www.tearingdubnought.com
 0.0.0.0 www.tearingflickermeaning.com
