@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.050
 # Release: 050
-# Entries: 40,652
-# Updated: Sun, 19 Feb 23 12:07:50 +06
+# Entries: 40,668
+# Updated: Sun, 19 Feb 23 14:07:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -884,6 +884,7 @@
 0.0.0.0 61739011039d41a.com
 0.0.0.0 6198399e4910e66-ovc.com
 0.0.0.0 620c663bca9a4.com
+0.0.0.0 622722.comwww.601122.com
 0.0.0.0 623eec0df3.23182b9851.com
 0.0.0.0 625c9289e60793.com
 0.0.0.0 62ah.com
@@ -989,6 +990,7 @@
 0.0.0.0 769372a0a8.4073284684.com
 0.0.0.0 76a7doiet256.com
 0.0.0.0 76df5972d5.479457698a.com
+0.0.0.0 770088.comwww.88896.comwww.622722.comwww.601122.com
 0.0.0.0 7765.in
 0.0.0.0 777-junk.com
 0.0.0.0 777dy.net
@@ -1077,6 +1079,7 @@
 0.0.0.0 87seaa.com
 0.0.0.0 8848mk.com
 0.0.0.0 88597.net
+0.0.0.0 88896.comwww.622722.comwww.601122.com
 0.0.0.0 888media.net
 0.0.0.0 888promos.com
 0.0.0.0 888x.cyou
@@ -7848,6 +7851,8 @@
 0.0.0.0 comunicazio.com
 0.0.0.0 comwgi.com
 0.0.0.0 comwww.601122.com
+0.0.0.0 comwww.622722.comwww.601122.com
+0.0.0.0 comwww.88896.comwww.622722.comwww.601122.com
 0.0.0.0 comwww.effectivecreativeformat.com
 0.0.0.0 comwww.profitabledisplayformat.com
 0.0.0.0 comyoutu.be
@@ -22202,6 +22207,7 @@
 0.0.0.0 offvmuf.com
 0.0.0.0 ofghaidarium.xyz
 0.0.0.0 ofgogoatan.com
+0.0.0.0 ofgogooatan.com
 0.0.0.0 ofhappinyer.com
 0.0.0.0 ofhypnoer.com
 0.0.0.0 ofismxehutbm.com
@@ -27395,6 +27401,7 @@
 0.0.0.0 saitours.org
 0.0.0.0 saiwhute.com
 0.0.0.0 sajidsorker.com
+0.0.0.0 sajiwoluhurx.top
 0.0.0.0 sakalhindusamaj.org
 0.0.0.0 sakefahlore.cam
 0.0.0.0 sakeoxidelunch.com
@@ -27750,6 +27757,7 @@
 0.0.0.0 secondaryobedience.com
 0.0.0.0 secondboy.pro
 0.0.0.0 secondchancerent.com
+0.0.0.0 secondspain.es
 0.0.0.0 secondunderminecalm.com
 0.0.0.0 secondwindhealing.com
 0.0.0.0 secrecysatisfy.com
@@ -33120,6 +33128,7 @@
 0.0.0.0 updaterecomended.pro
 0.0.0.0 updates.digital
 0.0.0.0 updatestoday.tech
+0.0.0.0 upedkaaw.xyz
 0.0.0.0 upeyganpell.website
 0.0.0.0 upffxs6.com
 0.0.0.0 upfile.tech
@@ -35747,6 +35756,7 @@
 0.0.0.0 www.analogisdigital.com
 0.0.0.0 www.analogousintentionallyleads.com
 0.0.0.0 www.analysecrappy.com
+0.0.0.0 www.anarcholife.info
 0.0.0.0 www.anchovysuccession.com
 0.0.0.0 www.andicooper.info
 0.0.0.0 www.android-devs.top
@@ -36406,6 +36416,7 @@
 0.0.0.0 www.cunningthong.com
 0.0.0.0 www.cupbiologicaljourney.com
 0.0.0.0 www.cupinvip.com
+0.0.0.0 www.curatedcoastal.life
 0.0.0.0 www.curcumin-biobdmc.com
 0.0.0.0 www.curselaunch.com
 0.0.0.0 www.curvedchimera.com
@@ -37182,6 +37193,7 @@
 0.0.0.0 www.idfcbank.co.uk
 0.0.0.0 www.ifallsjournal.com
 0.0.0.0 www.ifii.com
+0.0.0.0 www.ifla.life
 0.0.0.0 www.igcedgjbfifgibjfafc.ru
 0.0.0.0 www.ighelpsite.com
 0.0.0.0 www.iglesiacristoelrey.com
@@ -37192,6 +37204,7 @@
 0.0.0.0 www.ikf-holding.it
 0.0.0.0 www.ikingsoft.com
 0.0.0.0 www.illegibledismiss.com
+0.0.0.0 www.illuminateflorida.life
 0.0.0.0 www.illuminatelocks.com
 0.0.0.0 www.ilqacare.com
 0.0.0.0 www.imadfoundation.org
@@ -37540,8 +37553,10 @@
 0.0.0.0 www.littertradition.com
 0.0.0.0 www.live1powerlife.com
 0.0.0.0 www.liveandrestinpeace.com
+0.0.0.0 www.liveflorida.life
 0.0.0.0 www.livelihoodskills.com
 0.0.0.0 www.livetellsspatter.com
+0.0.0.0 www.livingflorida.life
 0.0.0.0 www.llab.fr
 0.0.0.0 www.lmzvvyefpe.com
 0.0.0.0 www.lng.reviews
@@ -40306,6 +40321,7 @@
 0.0.0.0 yyptyrrjba.xyz
 0.0.0.0 yyrssdpbhdxbmru.xyz
 0.0.0.0 yyselrqpyu.com
+0.0.0.0 yytihtrp.xyz
 0.0.0.0 yyvqkformvik.com
 0.0.0.0 yyvxkqgqu.com
 0.0.0.0 yyxfhd.com
