@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.050
 # Release: 050
-# Entries: 40,612
-# Updated: Sun, 19 Feb 23 06:07:41 +06
+# Entries: 40,625
+# Updated: Sun, 19 Feb 23 08:15:34 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -136,6 +136,7 @@
 0.0.0.0 10skhbdhjfsdf100.monster
 0.0.0.0 10skhdbfjsf10.monster
 0.0.0.0 10skjdbfkjs10.monster
+0.0.0.0 10skjhdbjfs10.monster
 0.0.0.0 110380d053f716c4.com
 0.0.0.0 1105x.com
 0.0.0.0 1108a5a3ef.cfccc324b8.com
@@ -314,6 +315,7 @@
 0.0.0.0 1s1r7hr1k.de
 0.0.0.0 1sdfjhsdvbfj1.monster
 0.0.0.0 1sdjhsvdjf1.monster
+0.0.0.0 1shdbjfsdf12.monster
 0.0.0.0 1sjdgjfhsdf12.monster
 0.0.0.0 1skjbajdsd1.monster
 0.0.0.0 1snapdeal.com
@@ -834,6 +836,7 @@
 0.0.0.0 5gye22.com
 0.0.0.0 5hagsvgdas56.monster
 0.0.0.0 5hagsvhdgasd55.monster
+0.0.0.0 5hgashdad55.monster
 0.0.0.0 5hgsdvhfsdf5.monster
 0.0.0.0 5jdhbfjdfg4.monster
 0.0.0.0 5jdhfbgjdfg5.monster
@@ -3631,6 +3634,7 @@
 0.0.0.0 ascentmatrimonypistol.com
 0.0.0.0 ascertaincrescenthandbag.com
 0.0.0.0 aschamrotor.live
+0.0.0.0 ascijingu.space
 0.0.0.0 ascillsilvia.com
 0.0.0.0 ascitbhalse.guru
 0.0.0.0 ascomamizzen.com
@@ -4244,6 +4248,7 @@
 0.0.0.0 ayralearning.in
 0.0.0.0 ayrovalcontain.com
 0.0.0.0 aytsuqwpokedw.com
+0.0.0.0 ayudame.biz
 0.0.0.0 ayurvidhi.org
 0.0.0.0 ayushmanuti.org
 0.0.0.0 ayushmanutiitsl.org
@@ -13881,6 +13886,7 @@
 0.0.0.0 grasutie.net
 0.0.0.0 gratertiedbubble.com
 0.0.0.0 gratingtode.com
+0.0.0.0 grauhoat.xyz
 0.0.0.0 graumseehucm.com
 0.0.0.0 graungie.net
 0.0.0.0 graungig.xyz
@@ -14624,6 +14630,7 @@
 0.0.0.0 helperoo.net
 0.0.0.0 helpfulwrap.com
 0.0.0.0 helphauntboxer.com
+0.0.0.0 helpmybusiness.biz
 0.0.0.0 helpturkeyandsyria.org
 0.0.0.0 helpwithmybook.com
 0.0.0.0 helvespaellas.uno
@@ -20698,6 +20705,7 @@
 0.0.0.0 musicnote.info
 0.0.0.0 musikcloud.xyz
 0.0.0.0 musikcollection.com
+0.0.0.0 muskaanmakeup.com
 0.0.0.0 muslimberbagi.xyz
 0.0.0.0 musmentportal.com
 0.0.0.0 muspecs.net
@@ -28271,6 +28279,7 @@
 0.0.0.0 shokala.com
 0.0.0.0 sholke.com
 0.0.0.0 shonalanital.com
+0.0.0.0 shookahi.xyz
 0.0.0.0 shookcooperassociate.com
 0.0.0.0 shoop4.com
 0.0.0.0 shootoax.com
@@ -35868,6 +35877,7 @@
 0.0.0.0 www.awltovhc.com
 0.0.0.0 www.awokeconscious.com
 0.0.0.0 www.axisnuisance.com
+0.0.0.0 www.ayudame.biz
 0.0.0.0 www.azhousingvalues.com
 0.0.0.0 www.backstageconfide.com
 0.0.0.0 www.baconclank.com
@@ -37060,6 +37070,7 @@
 0.0.0.0 www.helpedhandwritingintestine.com
 0.0.0.0 www.helperoo.net
 0.0.0.0 www.helphauntboxer.com
+0.0.0.0 www.helpmybusiness.biz
 0.0.0.0 www.helpwithmybook.com
 0.0.0.0 www.herapearl.com
 0.0.0.0 www.herconsequence.com
@@ -37715,6 +37726,7 @@
 0.0.0.0 www.mupwj.org
 0.0.0.0 www.muralshelvesdeposition.com
 0.0.0.0 www.mushroomphilosophicalincorrect.com
+0.0.0.0 www.muskaanmakeup.com
 0.0.0.0 www.muslimberbagi.xyz
 0.0.0.0 www.musselchangeableskier.com
 0.0.0.0 www.muzzleabbot.com
@@ -39553,6 +39565,7 @@
 0.0.0.0 xmr-wallet.com
 0.0.0.0 xmsflzmygw.com
 0.0.0.0 xmtbbx.com
+0.0.0.0 xmujigdhfm.com
 0.0.0.0 xmvftaoz.com
 0.0.0.0 xn--5vem1a3dk1l.com
 0.0.0.0 xn--actualit-litteraire-izb.com
