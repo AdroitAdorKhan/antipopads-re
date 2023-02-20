@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.051
 # Release: 051
-# Entries: 41,020
-# Updated: Mon, 20 Feb 23 10:07:20 +06
+# Entries: 41,035
+# Updated: Mon, 20 Feb 23 12:07:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6421,6 +6421,7 @@
 0.0.0.0 canadiancitytours.com
 0.0.0.0 cancer-code-lac.org
 0.0.0.0 cancer-code-latamcaribbean.org
+0.0.0.0 cancer-report.com
 0.0.0.0 canceranswers101.org
 0.0.0.0 candbremovals.com
 0.0.0.0 candiedvolatilepeep.com
@@ -7793,6 +7794,7 @@
 0.0.0.0 comdrbonum.website
 0.0.0.0 comeadvertisewithus.com
 0.0.0.0 comedian-avail.com
+0.0.0.0 comedianbrown.com
 0.0.0.0 comedyauto.com
 0.0.0.0 comedyrent.com
 0.0.0.0 comedyrepair.com
@@ -13891,6 +13893,7 @@
 0.0.0.0 gotohr.com
 0.0.0.0 gotonewsoftik.ru
 0.0.0.0 gotoplaymillion.com
+0.0.0.0 goturlock.org
 0.0.0.0 gotwakinrollet.xyz
 0.0.0.0 goucejugra.com
 0.0.0.0 goudgctjcgan.com
@@ -16297,6 +16300,7 @@
 0.0.0.0 interviewdegenerateperspective.com
 0.0.0.0 interviewzealdowry.com
 0.0.0.0 inteukrestinaf.work
+0.0.0.0 inthazone.com
 0.0.0.0 inthazoneband.com
 0.0.0.0 inthe470.com
 0.0.0.0 inthe520.com
@@ -18243,6 +18247,7 @@
 0.0.0.0 largegiganticcounting.com
 0.0.0.0 largeharass.com
 0.0.0.0 largeordier.fun
+0.0.0.0 largernauseous.com
 0.0.0.0 lariod.com
 0.0.0.0 larisa-and-lauren.com
 0.0.0.0 larochemartel.com
@@ -22561,6 +22566,7 @@
 0.0.0.0 onaugan.com
 0.0.0.0 onautcatholi.xyz
 0.0.0.0 onawheelandaprayer.com
+0.0.0.0 onboardshow.com
 0.0.0.0 oncavst.com
 0.0.0.0 oncbrubuw.com
 0.0.0.0 oncertaino.xyz
@@ -25875,6 +25881,7 @@
 0.0.0.0 quilescornual.uno
 0.0.0.0 quillyatik.digital
 0.0.0.0 quiltobserve.com
+0.0.0.0 quiltshiverpowerless.com
 0.0.0.0 quinctus-isb.com
 0.0.0.0 quinizechoel.com
 0.0.0.0 quinnsdumpingandhauling.com
@@ -26301,6 +26308,7 @@
 0.0.0.0 redecanais.se
 0.0.0.0 redeemcodes.me
 0.0.0.0 redeemspectacular.com
+0.0.0.0 redeg10.com
 0.0.0.0 redesteleco.com
 0.0.0.0 redewdit.pro
 0.0.0.0 redirect.bestbsdatingservices.com
@@ -36401,6 +36409,7 @@
 0.0.0.0 www.campgroundsitemap.com
 0.0.0.0 www.campsecure.top
 0.0.0.0 www.canadasurrogacyconsultants.com
+0.0.0.0 www.cancer-report.com
 0.0.0.0 www.candiedvolatilepeep.com
 0.0.0.0 www.candjscrabshack.com
 0.0.0.0 www.candlinglather.com
@@ -36552,6 +36561,7 @@
 0.0.0.0 www.comdomins1.com
 0.0.0.0 www.comdomins2.com
 0.0.0.0 www.comedian-avail.com
+0.0.0.0 www.comedianbrown.com
 0.0.0.0 www.comedyshiver.com
 0.0.0.0 www.comfort-rv.am
 0.0.0.0 www.comfortabledocumentationdefense.com
@@ -37597,6 +37607,7 @@
 0.0.0.0 www.interruptlogic.com
 0.0.0.0 www.intersectionmodest.com
 0.0.0.0 www.interviewzealdowry.com
+0.0.0.0 www.inthazone.com
 0.0.0.0 www.intimateexhibitedcontempt.com
 0.0.0.0 www.intimidatekerneljames.com
 0.0.0.0 www.intricatering.com
@@ -38201,6 +38212,7 @@
 0.0.0.0 www.olympicsappointment.com
 0.0.0.0 www.omnipresenttrifleclosed.com
 0.0.0.0 www.omnitrend.biz
+0.0.0.0 www.onboardshow.com
 0.0.0.0 www.oncomingpainless.com
 0.0.0.0 www.one43edu.ru
 0.0.0.0 www.onedaynashville.com
@@ -38545,6 +38557,7 @@
 0.0.0.0 www.qiqi8dongman.com
 0.0.0.0 www.qksrv.net
 0.0.0.0 www.qksz.net
+0.0.0.0 www.quackdamaging.com
 0.0.0.0 www.quakeharrow.com
 0.0.0.0 www.quakingbogbotanicals.com
 0.0.0.0 www.qualitiesawarenesshard.com
@@ -38555,6 +38568,7 @@
 0.0.0.0 www.quickvideo.tech
 0.0.0.0 www.quietlyrosebudagreeing.com
 0.0.0.0 www.quietsewing.com
+0.0.0.0 www.quiltshiverpowerless.com
 0.0.0.0 www.quinctus-isb.com
 0.0.0.0 www.quiveringriddance.com
 0.0.0.0 www.qusibaaiwangxue.com
@@ -38565,6 +38579,7 @@
 0.0.0.0 www.racistexasperate.com
 0.0.0.0 www.radarproposalunfortunately.com
 0.0.0.0 www.radiancethedevice.com
+0.0.0.0 www.radiancewoebun.com
 0.0.0.0 www.radio-cat.ru
 0.0.0.0 www.radiomartesiracusa.it
 0.0.0.0 www.raftmomentarywed.com
