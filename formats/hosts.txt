@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.053
 # Release: 053
-# Entries: 41,640
-# Updated: Wed, 22 Feb 23 00:45:41 +06
+# Entries: 41,666
+# Updated: Wed, 22 Feb 23 02:16:40 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -159,6 +159,7 @@
 0.0.0.0 11xoxo.info
 0.0.0.0 120217977.world
 0.0.0.0 1221e236c3f8703.com
+0.0.0.0 123-movies.bz
 0.0.0.0 123756565.com
 0.0.0.0 123996c.com
 0.0.0.0 123camquiz.com
@@ -2718,14 +2719,21 @@
 0.0.0.0 aliensold.com
 0.0.0.0 alifafdlnjeruif.com
 0.0.0.0 alifbo.com
+0.0.0.0 aligedgam.com
 0.0.0.0 aligedgam.net
 0.0.0.0 alightbornbell.com
 0.0.0.0 alignclamstram.com
+0.0.0.0 alignedalternatives.com
 0.0.0.0 alignedalternatives.net
+0.0.0.0 alignedalts.com
 0.0.0.0 alignedalts.net
+0.0.0.0 alignedam.com
 0.0.0.0 alignedam.net
+0.0.0.0 alignedprivatewealth.com
 0.0.0.0 alignedprivatewealth.net
+0.0.0.0 alignedpw.com
 0.0.0.0 alignedpw.net
+0.0.0.0 alignedventure.com
 0.0.0.0 alignedventure.net
 0.0.0.0 alignmentflattery.com
 0.0.0.0 alihutan.com
@@ -3026,6 +3034,7 @@
 0.0.0.0 amylatesating.com
 0.0.0.0 amyrinunshoed.com
 0.0.0.0 amysaghurtful.com
+0.0.0.0 amzosmcuhci.com
 0.0.0.0 amzpzylzo.com
 0.0.0.0 an-post-feepayment.com
 0.0.0.0 an-postdeliverycharge.com
@@ -4485,6 +4494,7 @@
 0.0.0.0 bakongojotted.com
 0.0.0.0 bakquka.com
 0.0.0.0 bakteso.ru
+0.0.0.0 baku-ix.org
 0.0.0.0 balajinetworks.com
 0.0.0.0 balamakina.com
 0.0.0.0 balancedbooksbs.com
@@ -5026,6 +5036,7 @@
 0.0.0.0 best-zb.com
 0.0.0.0 best2017games.com
 0.0.0.0 best2019-games-web1.com
+0.0.0.0 best4fuck.com
 0.0.0.0 bestadbid.com
 0.0.0.0 bestadmax.com
 0.0.0.0 bestapplandever.com
@@ -10559,6 +10570,7 @@
 0.0.0.0 eastermass.com
 0.0.0.0 easternlabour.com
 0.0.0.0 easternnewfoundland.com
+0.0.0.0 easterstrengthenbranches.com
 0.0.0.0 easthartfordlogisticsconstruction.com
 0.0.0.0 eastmanenergy.in
 0.0.0.0 eastrk-lg.com
@@ -17969,6 +17981,7 @@
 0.0.0.0 kiznzerigo.com
 0.0.0.0 kj5s.ru
 0.0.0.0 kjduhskup.xyz
+0.0.0.0 kjheamwouk.xyz
 0.0.0.0 kjj52.com
 0.0.0.0 kjqkxfuz.xyz
 0.0.0.0 kjsvvnzcto.com
@@ -22486,6 +22499,7 @@
 0.0.0.0 oberoiforestville-forestville.info
 0.0.0.0 oberoiforestville.com
 0.0.0.0 obeus.com
+0.0.0.0 obeyedortostr.cc
 0.0.0.0 obeyerwhanged.live
 0.0.0.0 obeyroman.com
 0.0.0.0 obeysatman.com
@@ -25599,6 +25613,7 @@
 0.0.0.0 psossoot.com
 0.0.0.0 psothoms.com
 0.0.0.0 psoudulto.com
+0.0.0.0 psougoar.com
 0.0.0.0 psougrie.com
 0.0.0.0 psoukesh.com
 0.0.0.0 psozoult.net
@@ -27478,6 +27493,7 @@
 0.0.0.0 rosqb6vb1cqp.com
 0.0.0.0 rosstein.us
 0.0.0.0 rosteldicycle.cam
+0.0.0.0 rosymap.pro
 0.0.0.0 rosyruffian.com
 0.0.0.0 rotabol.com
 0.0.0.0 rotarb.bid
@@ -28281,6 +28297,7 @@
 0.0.0.0 seacth.com
 0.0.0.0 seafoodclickwaited.com
 0.0.0.0 seaingredients.com
+0.0.0.0 sealerysuppler.com
 0.0.0.0 seamankidding.com
 0.0.0.0 seamchristmas.com
 0.0.0.0 seapolo.com
@@ -30530,6 +30547,7 @@
 0.0.0.0 surftraditioncommonplace.com
 0.0.0.0 surgermystem.xyz
 0.0.0.0 surgharmin.uno
+0.0.0.0 surmal.com
 0.0.0.0 surnamesubqueryaloft.com
 0.0.0.0 surpluscomputers.com
 0.0.0.0 surplussolutions.org
@@ -36446,6 +36464,13 @@
 0.0.0.0 www.alexnourafshan.com
 0.0.0.0 www.alfayed.com
 0.0.0.0 www.algobeacon.yourarchitects.in
+0.0.0.0 www.aligedgam.com
+0.0.0.0 www.alignedalternatives.com
+0.0.0.0 www.alignedalts.com
+0.0.0.0 www.alignedam.com
+0.0.0.0 www.alignedprivatewealth.com
+0.0.0.0 www.alignedpw.com
+0.0.0.0 www.alignedventure.com
 0.0.0.0 www.alignmentflattery.com
 0.0.0.0 www.alihutan.com
 0.0.0.0 www.allaboutcat.org
@@ -38873,6 +38898,7 @@
 0.0.0.0 www.peachrecess.com
 0.0.0.0 www.peacockdienook.com
 0.0.0.0 www.peanutsurrogatesurrogate.com
+0.0.0.0 www.peculiaritiesdiarrhoeareproduce.com
 0.0.0.0 www.pedinformatika.ru
 0.0.0.0 www.peeksdragoncontinually.com
 0.0.0.0 www.peepacquisitionavalanche.com
