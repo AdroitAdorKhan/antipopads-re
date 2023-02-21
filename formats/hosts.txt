@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.052
 # Release: 052
-# Entries: 41,386
-# Updated: Tue, 21 Feb 23 08:14:29 +06
+# Entries: 41,408
+# Updated: Tue, 21 Feb 23 10:07:41 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4664,6 +4664,7 @@
 0.0.0.0 batesafraidacquit.com
 0.0.0.0 batespecializecoal.com
 0.0.0.0 batheattendancewreck.com
+0.0.0.0 bathepoliteness.com
 0.0.0.0 bathesscasely.guru
 0.0.0.0 batheunits.com
 0.0.0.0 batmenmessily.website
@@ -5372,6 +5373,7 @@
 0.0.0.0 blabla.mobengine.xyz
 0.0.0.0 blablahub.com
 0.0.0.0 blablatterbicycle.com
+0.0.0.0 blabtextmessagephotocopy.com
 0.0.0.0 black112.co.kr
 0.0.0.0 blackblue.uk
 0.0.0.0 blackcine.org
@@ -6855,6 +6857,7 @@
 0.0.0.0 celsiusours.com
 0.0.0.0 cematuran.com
 0.0.0.0 cementencourage.com
+0.0.0.0 cemeterysimilar.com
 0.0.0.0 cemsidomi.co
 0.0.0.0 cemsidomidedrug.net
 0.0.0.0 cemukentha.xyz
@@ -6883,6 +6886,7 @@
 0.0.0.0 centralnewz.com
 0.0.0.0 centrinfusion.coffee
 0.0.0.0 centrogastronomicodelvalle.com
+0.0.0.0 centurylandscapeface.com
 0.0.0.0 centwrite.com
 0.0.0.0 cenvel.co.uk
 0.0.0.0 ceorlsrajasic.com
@@ -13117,6 +13121,7 @@
 0.0.0.0 gambolspumicer.com
 0.0.0.0 gameads.io
 0.0.0.0 gameapiv1.com
+0.0.0.0 gamecranedomestic.com
 0.0.0.0 gamefowldaily.com
 0.0.0.0 gameistaan.net
 0.0.0.0 gameistan.net
@@ -14022,6 +14027,7 @@
 0.0.0.0 gowattsun.org
 0.0.0.0 gowhutho.com
 0.0.0.0 gp1n63l.cn
+0.0.0.0 gpbifgfjhgezk.com
 0.0.0.0 gpc.avacadocleaner.com
 0.0.0.0 gpc.cleaneraddontom.com
 0.0.0.0 gpc.cleaningtooladdon.com
@@ -20335,6 +20341,7 @@
 0.0.0.0 miamribud.com
 0.0.0.0 miaomiaoserver.xyz
 0.0.0.0 miaotvs.com
+0.0.0.0 miaspetitepanties.com
 0.0.0.0 micakidaugust.com
 0.0.0.0 micghiga2n7ahjnnsar0fbor.com
 0.0.0.0 michaelcargill.com
@@ -20355,6 +20362,7 @@
 0.0.0.0 midastouchrt.com
 0.0.0.0 middayexcessive.com
 0.0.0.0 middaysbedaff.com
+0.0.0.0 middaysonnyguffaw.com
 0.0.0.0 middestkarsha.com
 0.0.0.0 middleagedbabysitting.com
 0.0.0.0 middlesswal.com
@@ -26271,6 +26279,7 @@
 0.0.0.0 rapgasyogin.com
 0.0.0.0 raphidewakener.com
 0.0.0.0 raphra.com
+0.0.0.0 rapidfireround.com
 0.0.0.0 rapidhooray.com
 0.0.0.0 rapidjob.ma
 0.0.0.0 rapidshop.tech
@@ -30100,6 +30109,7 @@
 0.0.0.0 strenuoustarget.com
 0.0.0.0 stressfulconsumerdumbest.com
 0.0.0.0 stressfulloudly.com
+0.0.0.0 stretchearomission.com
 0.0.0.0 stretchedbarbarian.com
 0.0.0.0 stretchedcreepy.com
 0.0.0.0 stretchingcognitioncommission.com
@@ -33605,6 +33615,7 @@
 0.0.0.0 upgrademydatingprofile.com
 0.0.0.0 upgulpinon.com
 0.0.0.0 uphelyacurrier.com
+0.0.0.0 upholdobstacleanthony.com
 0.0.0.0 uphovelodha.com
 0.0.0.0 upintheair.travel
 0.0.0.0 upliftsearch.com
@@ -36660,6 +36671,7 @@
 0.0.0.0 www.bunquaver.com
 0.0.0.0 www.buondia.com
 0.0.0.0 www.buoydeparturediscontent.com
+0.0.0.0 www.burlapvocation.com
 0.0.0.0 www.burstingdipper.com
 0.0.0.0 www.businessagencynetwork.com
 0.0.0.0 www.businessmencrib.com
@@ -36738,11 +36750,13 @@
 0.0.0.0 www.celeb-scandal.com
 0.0.0.0 www.cellsmonitor.com
 0.0.0.0 www.celsiusours.com
+0.0.0.0 www.cemeterysimilar.com
 0.0.0.0 www.cenrefk.com
 0.0.0.0 www.censorcolonizegreatness.com
 0.0.0.0 www.censuschorus.com
 0.0.0.0 www.centeredfailinghotline.com
 0.0.0.0 www.centpopped.com
+0.0.0.0 www.centurylandscapeface.com
 0.0.0.0 www.cerebralvortexgames.com
 0.0.0.0 www.cerosync.com
 0.0.0.0 www.certaintysurroundingcab.com
@@ -37530,6 +37544,7 @@
 0.0.0.0 www.g6h165y6.online
 0.0.0.0 www.gabyscaferhinebeck.com
 0.0.0.0 www.gamber.bet
+0.0.0.0 www.gamecranedomestic.com
 0.0.0.0 www.gamingchairz.com
 0.0.0.0 www.gampley.com
 0.0.0.0 www.gangstervideoethnic.com
@@ -38001,6 +38016,7 @@
 0.0.0.0 www.joomlink.com
 0.0.0.0 www.jopoleryet.com
 0.0.0.0 www.jorbfstarn.com
+0.0.0.0 www.josephinegrey.com
 0.0.0.0 www.joshualewis.net
 0.0.0.0 www.journalijiar.com
 0.0.0.0 www.journeyvancouver.com
@@ -38322,6 +38338,7 @@
 0.0.0.0 www.michalgav.com
 0.0.0.0 www.michellestorment.com
 0.0.0.0 www.microscopeshake.com
+0.0.0.0 www.middaysonnyguffaw.com
 0.0.0.0 www.middleagedbabysitting.com
 0.0.0.0 www.migrantspiteconnecting.com
 0.0.0.0 www.milanuncios.com
@@ -38475,6 +38492,7 @@
 0.0.0.0 www.noorjewelrygallery.com
 0.0.0.0 www.nopithere.com
 0.0.0.0 www.normaldownsupportive.com
+0.0.0.0 www.normallydirtenterprising.com
 0.0.0.0 www.northcoastcrm.com
 0.0.0.0 www.northislandtonewoods.com
 0.0.0.0 www.northwestpharmacy.pm
@@ -38996,6 +39014,7 @@
 0.0.0.0 www.respectfullysavvy.com
 0.0.0.0 www.respectlodgingfoil.com
 0.0.0.0 www.respecttallitem.com
+0.0.0.0 www.respondenemy.com
 0.0.0.0 www.responsivefebruary.com
 0.0.0.0 www.restartburgerremembrance.com
 0.0.0.0 www.restlesscompeldescend.com
@@ -39354,6 +39373,8 @@
 0.0.0.0 www.storagelassitudeblend.com
 0.0.0.0 www.stowsentimental.com
 0.0.0.0 www.strategicattacksstudied.com
+0.0.0.0 www.strategicperplexanswered.com
+0.0.0.0 www.stretchearomission.com
 0.0.0.0 www.stretchingwicked.com
 0.0.0.0 www.strewjaunty.com
 0.0.0.0 www.strickenenergetic.com
@@ -39657,6 +39678,7 @@
 0.0.0.0 www.unverified.ooo
 0.0.0.0 www.unwisecommence.com
 0.0.0.0 www.updoni.ir
+0.0.0.0 www.upholdobstacleanthony.com
 0.0.0.0 www.upnpups.com
 0.0.0.0 www.upperbeautylab.com
 0.0.0.0 www.upperpadreisland.org
