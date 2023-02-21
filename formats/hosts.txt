@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.053
 # Release: 053
-# Entries: 41,666
-# Updated: Wed, 22 Feb 23 02:16:40 +06
+# Entries: 41,695
+# Updated: Wed, 22 Feb 23 04:25:07 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1742,6 +1742,7 @@
 0.0.0.0 adelinemycoach.com
 0.0.0.0 adenza.dev
 0.0.0.0 adeptexcessivewatches.com
+0.0.0.0 adeptfleamisjudge.com
 0.0.0.0 aderstono.com
 0.0.0.0 adex.media
 0.0.0.0 adexchange.io
@@ -2721,20 +2722,27 @@
 0.0.0.0 alifbo.com
 0.0.0.0 aligedgam.com
 0.0.0.0 aligedgam.net
+0.0.0.0 aligedgam.org
 0.0.0.0 alightbornbell.com
 0.0.0.0 alignclamstram.com
 0.0.0.0 alignedalternatives.com
 0.0.0.0 alignedalternatives.net
+0.0.0.0 alignedalternatives.org
 0.0.0.0 alignedalts.com
 0.0.0.0 alignedalts.net
+0.0.0.0 alignedalts.org
 0.0.0.0 alignedam.com
 0.0.0.0 alignedam.net
+0.0.0.0 alignedam.org
 0.0.0.0 alignedprivatewealth.com
 0.0.0.0 alignedprivatewealth.net
+0.0.0.0 alignedprivatewealth.org
 0.0.0.0 alignedpw.com
 0.0.0.0 alignedpw.net
+0.0.0.0 alignedpw.org
 0.0.0.0 alignedventure.com
 0.0.0.0 alignedventure.net
+0.0.0.0 alignedventure.org
 0.0.0.0 alignmentflattery.com
 0.0.0.0 alihutan.com
 0.0.0.0 alikapro.com
@@ -3374,6 +3382,7 @@
 0.0.0.0 applaudliteratureconsultant.com
 0.0.0.0 applaudmaturityasunder.com
 0.0.0.0 applausesuch.com
+0.0.0.0 applebrookacademy.org
 0.0.0.0 applecufcu.org
 0.0.0.0 appledaycare.uk
 0.0.0.0 applefccu.org
@@ -3653,6 +3662,7 @@
 0.0.0.0 artisticbuoyemphasize.com
 0.0.0.0 artistperhapscomfort.com
 0.0.0.0 artistraulgonzalezwerks.com
+0.0.0.0 artistruth.art
 0.0.0.0 artlessdevote.com
 0.0.0.0 artonpaper.uk
 0.0.0.0 artpever.com
@@ -3826,6 +3836,7 @@
 0.0.0.0 assurancecounselling.com
 0.0.0.0 assurancelocusmat.com
 0.0.0.0 assurednesssalesmanmaud.com
+0.0.0.0 assurehandicappedbonus.com
 0.0.0.0 assuremath.com
 0.0.0.0 assuremoving.in
 0.0.0.0 ast2ya4ee8wtnax.com
@@ -7916,6 +7927,7 @@
 0.0.0.0 comiock.com
 0.0.0.0 comitechokier.com
 0.0.0.0 comivolo.com
+0.0.0.0 commaeagermonkey.com
 0.0.0.0 commencenumerals.com
 0.0.0.0 commentaffable.com
 0.0.0.0 commentarystrength.com
@@ -8024,6 +8036,7 @@
 0.0.0.0 concretepumphirekent.uk
 0.0.0.0 concupypricker.space
 0.0.0.0 concurfickle.com
+0.0.0.0 concussionpollutioncrummy.com
 0.0.0.0 condescendingolivejustly.com
 0.0.0.0 conditionsentangle.com
 0.0.0.0 condles-temark.com
@@ -9777,6 +9790,7 @@
 0.0.0.0 displaynetworkprofit.com
 0.0.0.0 displaynews.live
 0.0.0.0 displayvertising.com
+0.0.0.0 displeasurepigeons.com
 0.0.0.0 disploot.com
 0.0.0.0 dispop.com
 0.0.0.0 disposableface-shields.com
@@ -15892,6 +15906,7 @@
 0.0.0.0 ideorganizatio.work
 0.0.0.0 idesce.com
 0.0.0.0 idfcbank.co.uk
+0.0.0.0 idhrohax.xyz
 0.0.0.0 idiafix.com
 0.0.0.0 idiasmural.com
 0.0.0.0 idiothungryensue.com
@@ -21641,6 +21656,7 @@
 0.0.0.0 nesoaghu.net
 0.0.0.0 nessainy.net
 0.0.0.0 nessendencec.com
+0.0.0.0 nessunalacrima.it
 0.0.0.0 nestcook.com
 0.0.0.0 nesteggbullion.co.uk
 0.0.0.0 nesteggexchange.co.uk
@@ -28111,6 +28127,7 @@
 0.0.0.0 saucepanassociationscale.com
 0.0.0.0 saucepancharms.com
 0.0.0.0 sauceresources.com
+0.0.0.0 saugeeth.net
 0.0.0.0 saumeechoa.com
 0.0.0.0 saumonpipidae.com
 0.0.0.0 saunafortyeasy.com
@@ -34029,6 +34046,7 @@
 0.0.0.0 utopicmobile.com
 0.0.0.0 utoumine.net
 0.0.0.0 utqgdl.com
+0.0.0.0 utript.com
 0.0.0.0 utstancecaricit.com
 0.0.0.0 utsukbrewst.website
 0.0.0.0 uttarakhandherald.online
@@ -36465,12 +36483,19 @@
 0.0.0.0 www.alfayed.com
 0.0.0.0 www.algobeacon.yourarchitects.in
 0.0.0.0 www.aligedgam.com
+0.0.0.0 www.aligedgam.org
 0.0.0.0 www.alignedalternatives.com
+0.0.0.0 www.alignedalternatives.org
 0.0.0.0 www.alignedalts.com
+0.0.0.0 www.alignedalts.org
 0.0.0.0 www.alignedam.com
+0.0.0.0 www.alignedam.org
 0.0.0.0 www.alignedprivatewealth.com
+0.0.0.0 www.alignedprivatewealth.org
 0.0.0.0 www.alignedpw.com
+0.0.0.0 www.alignedpw.org
 0.0.0.0 www.alignedventure.com
+0.0.0.0 www.alignedventure.org
 0.0.0.0 www.alignmentflattery.com
 0.0.0.0 www.alihutan.com
 0.0.0.0 www.allaboutcat.org
@@ -36545,6 +36570,7 @@
 0.0.0.0 www.appendixballroom.com
 0.0.0.0 www.applabzzeydoo.com
 0.0.0.0 www.applaudmaturityasunder.com
+0.0.0.0 www.applebrookacademy.org
 0.0.0.0 www.applemagicsauce.com
 0.0.0.0 www.applesometimes.com
 0.0.0.0 www.applicationsluck.com
@@ -36576,6 +36602,7 @@
 0.0.0.0 www.arrowdevastatingconstruction.com
 0.0.0.0 www.art-genesis.com
 0.0.0.0 www.artemisrelocation.com
+0.0.0.0 www.artistruth.art
 0.0.0.0 www.arvinds.works
 0.0.0.0 www.arvindworks.click
 0.0.0.0 www.ascendcolonel.com
@@ -38045,6 +38072,7 @@
 0.0.0.0 www.icilytired.com
 0.0.0.0 www.iconcardinal.com
 0.0.0.0 www.idfcbank.co.uk
+0.0.0.0 www.idhrohax.xyz
 0.0.0.0 www.ifallsjournal.com
 0.0.0.0 www.ifii.com
 0.0.0.0 www.ifla.life
@@ -38693,6 +38721,7 @@
 0.0.0.0 www.negotiationmajestic.com
 0.0.0.0 www.neixue.org
 0.0.0.0 www.nerdtutors.com
+0.0.0.0 www.nessunalacrima.it
 0.0.0.0 www.nestleexperiment.com
 0.0.0.0 www.netfllxya.com
 0.0.0.0 www.nettledehydrateddebt.com
