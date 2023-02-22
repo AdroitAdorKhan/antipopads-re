@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.053
 # Release: 053
-# Entries: 41,740
-# Updated: Wed, 22 Feb 23 12:07:59 +06
+# Entries: 41,749
+# Updated: Wed, 22 Feb 23 14:08:39 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -21683,6 +21683,7 @@
 0.0.0.0 netchafalcon.tech
 0.0.0.0 netchexappserver.net
 0.0.0.0 netcpms.com
+0.0.0.0 netdawgie.com
 0.0.0.0 netflix-verificationsecure.com
 0.0.0.0 netflixth.com
 0.0.0.0 netfllxya.com
@@ -36512,18 +36513,25 @@
 0.0.0.0 www.alfayed.com
 0.0.0.0 www.algobeacon.yourarchitects.in
 0.0.0.0 www.aligedgam.com
+0.0.0.0 www.aligedgam.net
 0.0.0.0 www.aligedgam.org
 0.0.0.0 www.alignedalternatives.com
+0.0.0.0 www.alignedalternatives.net
 0.0.0.0 www.alignedalternatives.org
 0.0.0.0 www.alignedalts.com
+0.0.0.0 www.alignedalts.net
 0.0.0.0 www.alignedalts.org
 0.0.0.0 www.alignedam.com
+0.0.0.0 www.alignedam.net
 0.0.0.0 www.alignedam.org
 0.0.0.0 www.alignedprivatewealth.com
+0.0.0.0 www.alignedprivatewealth.net
 0.0.0.0 www.alignedprivatewealth.org
 0.0.0.0 www.alignedpw.com
+0.0.0.0 www.alignedpw.net
 0.0.0.0 www.alignedpw.org
 0.0.0.0 www.alignedventure.com
+0.0.0.0 www.alignedventure.net
 0.0.0.0 www.alignedventure.org
 0.0.0.0 www.alignmentflattery.com
 0.0.0.0 www.alihutan.com
@@ -38759,6 +38767,7 @@
 0.0.0.0 www.nerdtutors.com
 0.0.0.0 www.nessunalacrima.it
 0.0.0.0 www.nestleexperiment.com
+0.0.0.0 www.netdawgie.com
 0.0.0.0 www.netfllxya.com
 0.0.0.0 www.nettledehydrateddebt.com
 0.0.0.0 www.neutralityrecommendstretched.com
