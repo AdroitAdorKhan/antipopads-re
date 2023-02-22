@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.053
 # Release: 053
-# Entries: 41,713
-# Updated: Wed, 22 Feb 23 08:16:09 +06
+# Entries: 41,715
+# Updated: Wed, 22 Feb 23 10:10:38 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8417,6 +8417,7 @@
 0.0.0.0 cq.crooseplaiter.com
 0.0.0.0 cq.locketsfud.com
 0.0.0.0 cq.nashgoblabara.com
+0.0.0.0 cq5yofna3emz.com
 0.0.0.0 cqauthorsintel.com
 0.0.0.0 cqfbrnzsgns.com
 0.0.0.0 cqfoto.com
@@ -37740,6 +37741,7 @@
 0.0.0.0 www.flukereclaimspleen.com
 0.0.0.0 www.foldercamouflage.com
 0.0.0.0 www.foodhallatcambridgeside.com
+0.0.0.0 www.footloosefloors.com
 0.0.0.0 www.footprintswarming.com
 0.0.0.0 www.footwearheartedswig.com
 0.0.0.0 www.forbiddenuneasy.com
