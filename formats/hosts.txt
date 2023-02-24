@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.055
 # Release: 055
-# Entries: 42,594
-# Updated: Fri, 24 Feb 23 18:27:41 +06
+# Entries: 42,601
+# Updated: Fri, 24 Feb 23 20:41:45 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15455,6 +15455,7 @@
 0.0.0.0 highperformancegate.com
 0.0.0.0 highprofitnetwork.com
 0.0.0.0 highrevenuecpm.com
+0.0.0.0 highrevenuecpmnetwork.com
 0.0.0.0 hightopnews.com
 0.0.0.0 hightopnewstoday.com
 0.0.0.0 highwalker.in
@@ -15669,6 +15670,7 @@
 0.0.0.0 homeworkgypsyencode.com
 0.0.0.0 homeworkmarket.me
 0.0.0.0 homilycosecs.live
+0.0.0.0 homing.cl
 0.0.0.0 homoschucks.guru
 0.0.0.0 homosexualprovenance.com
 0.0.0.0 homtizs.com
@@ -16748,6 +16750,7 @@
 0.0.0.0 insightexpress.com
 0.0.0.0 insightexpressai.com
 0.0.0.0 insightstem.org
+0.0.0.0 insightswithrahul.tech
 0.0.0.0 insigit.com
 0.0.0.0 insignificantdoggie.com
 0.0.0.0 insistinestimable.com
@@ -21920,6 +21923,7 @@
 0.0.0.0 naveljutmistress.com
 0.0.0.0 navkaronline.com
 0.0.0.0 navoultu.com
+0.0.0.0 navratripremierleague.org
 0.0.0.0 nawersa.top
 0.0.0.0 nawujgmyl.top
 0.0.0.0 naxrlwyjbjgwjc.com
@@ -24306,6 +24310,7 @@
 0.0.0.0 passingcelebrate.com
 0.0.0.0 passionacidderisive.com
 0.0.0.0 passionateconductorstow.com
+0.0.0.0 passionatephilosophical.com
 0.0.0.0 passionfruitads.com
 0.0.0.0 passive500.com
 0.0.0.0 passivefreedomcashplan.com
@@ -38775,6 +38780,7 @@
 0.0.0.0 www.hidayahmohamad.com
 0.0.0.0 www.hideheartburndelightful.com
 0.0.0.0 www.highperformancedformats.com
+0.0.0.0 www.highrevenuecpmnetwork.com
 0.0.0.0 www.hikimate.com
 0.0.0.0 www.hilarion-lar.com
 0.0.0.0 www.historicalcarawayammonia.com
@@ -38937,6 +38943,7 @@
 0.0.0.0 www.insensitiveintegertransactions.com
 0.0.0.0 www.inseparablelunchwasted.com
 0.0.0.0 www.insidehoarse.com
+0.0.0.0 www.insightswithrahul.tech
 0.0.0.0 www.insignificantdoggie.com
 0.0.0.0 www.inspectionflowing.com
 0.0.0.0 www.insta11e3d.com
