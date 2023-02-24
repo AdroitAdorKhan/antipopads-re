@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.055
 # Release: 055
-# Entries: 42,601
-# Updated: Fri, 24 Feb 23 20:41:45 +06
+# Entries: 42,616
+# Updated: Fri, 24 Feb 23 22:55:15 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -666,6 +666,7 @@
 0.0.0.0 3mmfvvto.com
 0.0.0.0 3myad.com
 0.0.0.0 3n5b.info
+0.0.0.0 3piscis.fashion
 0.0.0.0 3plgujarat.com
 0.0.0.0 3r1kwxcd.top
 0.0.0.0 3rdstate.org
@@ -12550,6 +12551,7 @@
 0.0.0.0 financial-benefit.com
 0.0.0.0 financial-benefits-deposit.com
 0.0.0.0 financialfoolproofsigned.com
+0.0.0.0 financialmarketworld.com
 0.0.0.0 financialsuccessprogram.uk
 0.0.0.0 finarz.org
 0.0.0.0 finbiznews.com
@@ -15122,6 +15124,7 @@
 0.0.0.0 hdat.xyz
 0.0.0.0 hdbcode.com
 0.0.0.0 hdbcome.com
+0.0.0.0 hdboqykfajjpmc.com
 0.0.0.0 hdeilprf.com
 0.0.0.0 hdfcbankuat.com
 0.0.0.0 hdfcergo.services
@@ -16247,6 +16250,7 @@
 0.0.0.0 ieivlemquyfr.com
 0.0.0.0 iendoo.com
 0.0.0.0 ienjoymusiccc.com
+0.0.0.0 ieoyptnech.com
 0.0.0.0 iere.digital
 0.0.0.0 ietbwrkg.com
 0.0.0.0 ietyofedinj89yewtburgh.com
@@ -19278,6 +19282,7 @@
 0.0.0.0 liddenlywilli.org
 0.0.0.0 lide.info
 0.0.0.0 lidjetsyak.com
+0.0.0.0 lidl.sl
 0.0.0.0 lido-defi.life
 0.0.0.0 lie2anyone.com
 0.0.0.0 liegelygosport.com
@@ -19916,6 +19921,7 @@
 0.0.0.0 luwiakgcxhclz.com
 0.0.0.0 lux4luv.org
 0.0.0.0 luxadv.com
+0.0.0.0 luxdress.uk
 0.0.0.0 luxetalks.com
 0.0.0.0 luxins.net
 0.0.0.0 luxlnk.com
@@ -22141,6 +22147,7 @@
 0.0.0.0 newbiemart.com
 0.0.0.0 newbuildslincolnshire.co.uk
 0.0.0.0 newbuildslincolnshire.uk
+0.0.0.0 newcitychurchco.org
 0.0.0.0 newcityco.org
 0.0.0.0 newcitycolorado.org
 0.0.0.0 newcitykirk.org
@@ -23802,6 +23809,7 @@
 0.0.0.0 ourcommonnews.com
 0.0.0.0 ourcommonstories.com
 0.0.0.0 ourcoolposts.com
+0.0.0.0 ourcoolstories.com
 0.0.0.0 ourdadaikri.com
 0.0.0.0 ourdailystories.com
 0.0.0.0 ourfaves.com
@@ -28770,6 +28778,8 @@
 0.0.0.0 scientistuneasiness.com
 0.0.0.0 sciets.com
 0.0.0.0 scillathemons.com
+0.0.0.0 scimed-abstract.biz
+0.0.0.0 scimed-confabstract.biz
 0.0.0.0 scintillapro.com
 0.0.0.0 sciscoqv.xyz
 0.0.0.0 scissorstenantplot.com
@@ -31104,6 +31114,7 @@
 0.0.0.0 superintendfancystrangely.com
 0.0.0.0 superiorcontainerservice.com
 0.0.0.0 superioritydiningroom.com
+0.0.0.0 superiorsufferorb.com
 0.0.0.0 superiortds.ru
 0.0.0.0 superjuryger.xyz
 0.0.0.0 supermanmoonfracture.com
@@ -32118,6 +32129,7 @@
 0.0.0.0 thehowlife.com
 0.0.0.0 thehowoflife.com
 0.0.0.0 thehumanlexicon.com
+0.0.0.0 thehypenewz.com
 0.0.0.0 theindiandirectory.org
 0.0.0.0 theinnernaut.org
 0.0.0.0 theinnob.com
@@ -34652,6 +34664,7 @@
 0.0.0.0 uslycoloursewo.com
 0.0.0.0 usmansoftware.tech
 0.0.0.0 usnese.com
+0.0.0.0 usocusnebas.com
 0.0.0.0 usounoul.com
 0.0.0.0 ussavingstips.com
 0.0.0.0 usshcjfsrbvwh.top
@@ -36178,6 +36191,7 @@
 0.0.0.0 weownthetraffic.com
 0.0.0.0 weptrelive.com
 0.0.0.0 werelateral.com
+0.0.0.0 wereriskbarnacle.com
 0.0.0.0 wererxrzmp.com
 0.0.0.0 werese.com
 0.0.0.0 werial.com
@@ -39304,6 +39318,7 @@
 0.0.0.0 www.lushe.app
 0.0.0.0 www.lustresneakvisitation.com
 0.0.0.0 www.lutupro.com
+0.0.0.0 www.luxdress.uk
 0.0.0.0 www.lygshgj.com
 0.0.0.0 www.m365-etsgbv.com
 0.0.0.0 www.m42software.com
