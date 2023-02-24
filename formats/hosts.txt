@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.02.055
-# Release: 055
-# Entries: 42,616
-# Updated: Fri, 24 Feb 23 22:55:15 +06
+# Version: 23.02.056
+# Release: 056
+# Entries: 42,619
+# Updated: Sat, 25 Feb 23 01:00:35 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3060,6 +3060,7 @@
 0.0.0.0 amlcapital.com
 0.0.0.0 amltaqap.com
 0.0.0.0 ammankeyan.com
+0.0.0.0 ammunitionconsiderinstitution.com
 0.0.0.0 amniowellexosome.com
 0.0.0.0 amnpuraqkan.com
 0.0.0.0 amoddishor.com
@@ -28780,6 +28781,7 @@
 0.0.0.0 scillathemons.com
 0.0.0.0 scimed-abstract.biz
 0.0.0.0 scimed-confabstract.biz
+0.0.0.0 scimedoral-speakersummit.biz
 0.0.0.0 scintillapro.com
 0.0.0.0 sciscoqv.xyz
 0.0.0.0 scissorstenantplot.com
@@ -30286,6 +30288,7 @@
 0.0.0.0 spadeballroom.com
 0.0.0.0 spaderonium.com
 0.0.0.0 spaign.com
+0.0.0.0 spainfluence.in
 0.0.0.0 spalymrd.com
 0.0.0.0 spandlelokman.tech
 0.0.0.0 spankabgn.com
