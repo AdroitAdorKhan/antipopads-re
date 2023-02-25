@@ -20,8 +20,8 @@
 ! Version: 23.02.057
 ! Release: 057
 ! Expires: 1 day
-! Entries: 43,055
-! Updated: Sun, 26 Feb 23 02:49:07 +06
+! Entries: 43,056
+! Updated: Sun, 26 Feb 23 04:17:22 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -26124,6 +26124,7 @@
 ||privacysearching.com^
 ||privacywithholdrepose.com^
 ||privatespabox.com^
+||privatewebcans.com^
 ||privian.xyz^
 ||privilegesurround.com^
 ||privkey.plus^

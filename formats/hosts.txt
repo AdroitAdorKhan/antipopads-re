@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.057
 # Release: 057
-# Entries: 43,055
-# Updated: Sun, 26 Feb 23 02:49:07 +06
+# Entries: 43,056
+# Updated: Sun, 26 Feb 23 04:17:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -26123,6 +26123,7 @@
 0.0.0.0 privacysearching.com
 0.0.0.0 privacywithholdrepose.com
 0.0.0.0 privatespabox.com
+0.0.0.0 privatewebcans.com
 0.0.0.0 privian.xyz
 0.0.0.0 privilegesurround.com
 0.0.0.0 privkey.plus
