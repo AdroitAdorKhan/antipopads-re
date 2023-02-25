@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.056
 # Release: 056
-# Entries: 42,777
-# Updated: Sat, 25 Feb 23 10:08:36 +06
+# Entries: 42,823
+# Updated: Sat, 25 Feb 23 12:07:19 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14299,7 +14299,12 @@
 0.0.0.0 godrejcrest-athorizon.net
 0.0.0.0 godrejcrestathorizon-wadala-dadar.net
 0.0.0.0 godrejcrestdadar.net
+0.0.0.0 godrejcrestdadarwadala.com
+0.0.0.0 godrejcresthorizon-wadala.com
 0.0.0.0 godrejcresthorizon-wadala.net
+0.0.0.0 godrejcresthorizon.com
+0.0.0.0 godrejcresthorizondadar-wadala.com
+0.0.0.0 godrejcresthorizondadarwadala.com
 0.0.0.0 godrejcresthorizondadarwadala.net
 0.0.0.0 godrejcrestwadala.net
 0.0.0.0 godrejelevate-bangalore.in
@@ -14310,6 +14315,10 @@
 0.0.0.0 godrejgrandeurbangalore.in
 0.0.0.0 godrejgrandeursarjapur.com
 0.0.0.0 godrejgrandeursarjapur.in
+0.0.0.0 godrejhorizon-crest-dadar.com
+0.0.0.0 godrejhorizon-crest-wadala.com
+0.0.0.0 godrejhorizoncrestdadar.com
+0.0.0.0 godrejhorizoncrestwadala.com
 0.0.0.0 godrejhorizoncrestwadala.net
 0.0.0.0 godrejpimpri-punenexus.co.in
 0.0.0.0 godrejpunepimprinexus.co.in
@@ -14336,6 +14345,7 @@
 0.0.0.0 gogoldenvalley.org
 0.0.0.0 gogonime.tel
 0.0.0.0 gogreatlakes.org
+0.0.0.0 gohanajalebi.com
 0.0.0.0 gohere.pl
 0.0.0.0 gohillgo.com
 0.0.0.0 goholmstad.org
@@ -14351,6 +14361,7 @@
 0.0.0.0 goldalternateattributed.com
 0.0.0.0 golden-gateway.com
 0.0.0.0 goldenbettingefforlessefforless.com
+0.0.0.0 goldenday.co.in
 0.0.0.0 goldenfruitltd.com
 0.0.0.0 goldenpointpadel.co.uk
 0.0.0.0 goldexposexpirience.com
@@ -14447,6 +14458,8 @@
 0.0.0.0 gosamarkand.org
 0.0.0.0 goshbiopsy.com
 0.0.0.0 goshcries.com
+0.0.0.0 goshenproud.com
+0.0.0.0 goshenproud.org
 0.0.0.0 goshores.org
 0.0.0.0 gosignserv.com
 0.0.0.0 gospelmusicinstruction.com
@@ -14472,6 +14485,7 @@
 0.0.0.0 goudgctjcgan.com
 0.0.0.0 gouloupt.com
 0.0.0.0 goupeecy.com
+0.0.0.0 gourahome.in
 0.0.0.0 gouryvouster.com
 0.0.0.0 gousouse.com
 0.0.0.0 govbusi.info
@@ -14620,6 +14634,7 @@
 0.0.0.0 greenery.space
 0.0.0.0 greenfloors.biz
 0.0.0.0 greenhousecape.com
+0.0.0.0 greenleafk.com
 0.0.0.0 greenlydonmeh.live
 0.0.0.0 greenpaperlist.com
 0.0.0.0 greenplasticdua.com
@@ -14665,6 +14680,8 @@
 0.0.0.0 griksoud.net
 0.0.0.0 grillcheekunfinished.com
 0.0.0.0 grillsmetrize.uno
+0.0.0.0 grilltsar.net
+0.0.0.0 grilltzar.net
 0.0.0.0 grimaceattirebright.com
 0.0.0.0 grimdiscord.com
 0.0.0.0 grimlypub.com
@@ -14853,6 +14870,7 @@
 0.0.0.0 gusherslaky.tech
 0.0.0.0 gussame.com
 0.0.0.0 gussbkpr.website
+0.0.0.0 gusss07xd.com
 0.0.0.0 gustdeficitwry.com
 0.0.0.0 gustobr.com
 0.0.0.0 guswant.com
@@ -14985,10 +15003,12 @@
 0.0.0.0 hailofficemeasure.com
 0.0.0.0 hailstonefatherinlawsuggestions.com
 0.0.0.0 hailstonenerve.com
+0.0.0.0 haircaretotal.com
 0.0.0.0 hairdosslitter.casa
 0.0.0.0 hairhelpline.com
 0.0.0.0 hairoak.com
 0.0.0.0 hairstylistphotography.com
+0.0.0.0 hairwigbazaar.in
 0.0.0.0 haithoaz.net
 0.0.0.0 haiti-universite.org
 0.0.0.0 haitingshos.xyz
@@ -15025,6 +15045,8 @@
 0.0.0.0 hamply.com
 0.0.0.0 hamsterglobins.com
 0.0.0.0 hamusprecony.com
+0.0.0.0 hancock-dogfriendly-evfriendly.com
+0.0.0.0 hancockevpetfriendly.com
 0.0.0.0 handbagcordial.com
 0.0.0.0 handcuffagonysteam.com
 0.0.0.0 handel-investment.com
@@ -15060,8 +15082,10 @@
 0.0.0.0 happilydestructive.com
 0.0.0.0 happy22kids.org
 0.0.0.0 happybabygames.com
+0.0.0.0 happyfoodjp.com
 0.0.0.0 happyindianworld.com
 0.0.0.0 happypath.software
+0.0.0.0 happystudents.fr
 0.0.0.0 happywombat.net
 0.0.0.0 haprjb.com
 0.0.0.0 haradeiu.rocks
@@ -15405,6 +15429,7 @@
 0.0.0.0 heroadmissionfinalize.com
 0.0.0.0 herodiessujed.org
 0.0.0.0 heroinslagunes.com
+0.0.0.0 hersheykisses.us
 0.0.0.0 herthyptal.com
 0.0.0.0 herzogpmp.com
 0.0.0.0 hesitationghetto.com
@@ -15535,6 +15560,7 @@
 0.0.0.0 highperformancedisplayformat.com
 0.0.0.0 highperformancegate.com
 0.0.0.0 highprofitnetwork.com
+0.0.0.0 highreachinvestments.net
 0.0.0.0 highrevenuecpm.com
 0.0.0.0 highrevenuecpmnetwork.com
 0.0.0.0 hightopnews.com
@@ -15692,6 +15718,7 @@
 0.0.0.0 hogqmd.com
 0.0.0.0 hogtiedscuffy.website
 0.0.0.0 hogtiesnosh.guru
+0.0.0.0 hoh168.net
 0.0.0.0 hohoben.com
 0.0.0.0 hoisquit.buzz
 0.0.0.0 hoistchart.com
@@ -15867,7 +15894,9 @@
 0.0.0.0 hotchicks4.com
 0.0.0.0 hotdates.life
 0.0.0.0 hotegotisticalturbulent.com
+0.0.0.0 hotelamritsars.com
 0.0.0.0 hotelbowfeast.com
+0.0.0.0 hotelcrownamritsar.com
 0.0.0.0 hoteleasternplazakolkata.com
 0.0.0.0 hotelfroma.fun
 0.0.0.0 hotelintimacybananas.com
@@ -16194,8 +16223,10 @@
 0.0.0.0 hzkachqd.com
 0.0.0.0 hzzevwlmjji.com
 0.0.0.0 i-afk.com
+0.0.0.0 i-bets365.eu
 0.0.0.0 i-com.co.in
 0.0.0.0 i-room.us
+0.0.0.0 i-suffer.com
 0.0.0.0 i-switch.com
 0.0.0.0 i010b048d3e4a1e4b70aba72b169e70c90971f9.xyz
 0.0.0.0 i1nq.com
@@ -16255,6 +16286,7 @@
 0.0.0.0 ic.peartpaeon.com
 0.0.0.0 ic.traitorarette.com
 0.0.0.0 ic.venuesstylize.com
+0.0.0.0 icandi.in
 0.0.0.0 icatresources.com
 0.0.0.0 iccompanzens.fun
 0.0.0.0 iccorm.com
@@ -16653,6 +16685,7 @@
 0.0.0.0 indian-porn.top
 0.0.0.0 indianaantiqueartheirloomfurniturerestorationguild.com
 0.0.0.0 indiananewz.com
+0.0.0.0 indiankartingleague.in
 0.0.0.0 indianoiladaniventures.net
 0.0.0.0 indiaspecialtravels.com
 0.0.0.0 indicatordevotedriver.com
@@ -16993,6 +17026,7 @@
 0.0.0.0 investbitcoin.me
 0.0.0.0 investerbaik.com
 0.0.0.0 investing-globe.com
+0.0.0.0 investmentpanditz.in
 0.0.0.0 investmentstar.org
 0.0.0.0 investmenttturkey.com
 0.0.0.0 investortirelimetree.com
@@ -17049,6 +17083,7 @@
 0.0.0.0 iphone-claim-help.live
 0.0.0.0 iphonehub.info
 0.0.0.0 iphumiki.com
+0.0.0.0 iplt20hindi.com
 0.0.0.0 iplus.am
 0.0.0.0 ipmbnqqaon.com
 0.0.0.0 ipmiumjdgyrqko.top
@@ -17150,6 +17185,7 @@
 0.0.0.0 iskvape.co.uk
 0.0.0.0 isladelpadrenorte.com
 0.0.0.0 islandmailservice.com
+0.0.0.0 islandtreasury.com
 0.0.0.0 islecolloquial.com
 0.0.0.0 isleofwhiteinteriordesigner.co.uk
 0.0.0.0 ismlks.com
@@ -17361,6 +17397,7 @@
 0.0.0.0 jagged-yellow.pro
 0.0.0.0 jaggiertridii.com
 0.0.0.0 jagoketik.com
+0.0.0.0 jagsbi.com
 0.0.0.0 jahajraj.in
 0.0.0.0 jahbsjdawdw88.monster
 0.0.0.0 jailabridge.com
@@ -17388,6 +17425,7 @@
 0.0.0.0 jams.wiki
 0.0.0.0 jamsoulsfriday.com
 0.0.0.0 jamuionline.in
+0.0.0.0 jan-legal.com
 0.0.0.0 janamtamil.tv
 0.0.0.0 janapadnews.in
 0.0.0.0 jane.in
@@ -17439,6 +17477,7 @@
 0.0.0.0 javatroll.biz
 0.0.0.0 javd007.com
 0.0.0.0 javgg.eu
+0.0.0.0 javsfoods.in
 0.0.0.0 javtube.website
 0.0.0.0 javvvvvv.xyz
 0.0.0.0 jawadfashion.com
@@ -17480,6 +17519,7 @@
 0.0.0.0 jcscarautoservice.com
 0.0.0.0 jcuojcpgtqemx.xyz
 0.0.0.0 jcyunk2.com
+0.0.0.0 jczilospvsniq.com
 0.0.0.0 jdclredir.com
 0.0.0.0 jdidi.tech
 0.0.0.0 jdlt.tech
@@ -17494,6 +17534,7 @@
 0.0.0.0 jeandesigns.net
 0.0.0.0 jeanhookerassociates.site
 0.0.0.0 jeannemildconfusion.com
+0.0.0.0 jeanpierre.tech
 0.0.0.0 jechesmacaltont.info
 0.0.0.0 jeckoort.com
 0.0.0.0 jecoglegru.com
@@ -23791,6 +23832,7 @@
 0.0.0.0 organyzedpro.org
 0.0.0.0 orgxts.com
 0.0.0.0 orhisseache.com.ua
+0.0.0.0 orhisseachek.xyz
 0.0.0.0 orianor.com
 0.0.0.0 orica.uk
 0.0.0.0 orientaldumbest.com
@@ -23934,6 +23976,7 @@
 0.0.0.0 ourscience.info
 0.0.0.0 ourselscarid.com
 0.0.0.0 oursgorefreshing.com
+0.0.0.0 oursiignaboaor.cc
 0.0.0.0 oursiignaboaord.xyz
 0.0.0.0 oursimpleaddress.org
 0.0.0.0 ourteeko.com
@@ -24097,6 +24140,7 @@
 0.0.0.0 oxlaiwhlx.com
 0.0.0.0 oxlandvoicing.digital
 0.0.0.0 oxmkhuotcz.com
+0.0.0.0 oxniqxxoltlhpm.com
 0.0.0.0 oxrdusxse.top
 0.0.0.0 oxrendflare.com
 0.0.0.0 oxsng.com
@@ -30504,6 +30548,7 @@
 0.0.0.0 spiderdisturbing.com
 0.0.0.0 spidersmerithenceforward.com
 0.0.0.0 spidersprimary.com
+0.0.0.0 spigotkafka.life
 0.0.0.0 spihand.com
 0.0.0.0 spikediguana.co.uk
 0.0.0.0 spikethat.xyz
@@ -37038,6 +37083,7 @@
 0.0.0.0 writtenanonymousgum.com
 0.0.0.0 writtenlistened.com
 0.0.0.0 wrkl.xyz
+0.0.0.0 wronal.com
 0.0.0.0 wrotos.com
 0.0.0.0 wrotov.com
 0.0.0.0 wrrfs.com
