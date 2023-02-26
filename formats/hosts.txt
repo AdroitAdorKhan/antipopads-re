@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.057
 # Release: 057
-# Entries: 43,196
-# Updated: Sun, 26 Feb 23 20:08:38 +06
+# Entries: 43,205
+# Updated: Sun, 26 Feb 23 22:13:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -138,6 +138,7 @@
 0.0.0.0 10skhdbfjsf10.monster
 0.0.0.0 10skjdbfkjs10.monster
 0.0.0.0 10skjhdbjfs10.monster
+0.0.0.0 10wkebfhw10.monster
 0.0.0.0 110380d053f716c4.com
 0.0.0.0 1105x.com
 0.0.0.0 1108a5a3ef.cfccc324b8.com
@@ -637,6 +638,7 @@
 0.0.0.0 3ahgsdasd33.monster
 0.0.0.0 3ajhbjdad33.monster
 0.0.0.0 3ajhsvjdasd12.monster
+0.0.0.0 3alammona.com
 0.0.0.0 3b53iyahbw.com
 0.0.0.0 3bdb296887d8227400e0c69a793ee85d.com
 0.0.0.0 3cmmas.io
@@ -4852,6 +4854,7 @@
 0.0.0.0 bauchleredries.com
 0.0.0.0 baunaurou.com
 0.0.0.0 baurdesigns.com
+0.0.0.0 bauschusa.com
 0.0.0.0 bauvaikul.com
 0.0.0.0 bauweethie.com
 0.0.0.0 bauwezou.net
@@ -8713,6 +8716,7 @@
 0.0.0.0 crakcash.com
 0.0.0.0 crankyfolkoutwit.com
 0.0.0.0 crankysneak.com
+0.0.0.0 crantscopart.com
 0.0.0.0 crashlund.org
 0.0.0.0 crashnoodle.com
 0.0.0.0 cratchcfi.com
@@ -27330,6 +27334,7 @@
 0.0.0.0 ranshaoxs.com
 0.0.0.0 rantsundaydish.com
 0.0.0.0 raoint.com
+0.0.0.0 rapbrasileiro.com
 0.0.0.0 rapgasyogin.com
 0.0.0.0 raphidewakener.com
 0.0.0.0 raphra.com
@@ -34161,6 +34166,7 @@
 0.0.0.0 ttzmedia.com
 0.0.0.0 tu.chirosscruft.com
 0.0.0.0 tua.university
+0.0.0.0 tuangoudaihuo.cn
 0.0.0.0 tuateramiking.com
 0.0.0.0 tuautoguayaquil.com
 0.0.0.0 tubberlo.com
@@ -37575,6 +37581,7 @@
 0.0.0.0 www.366xsw.com
 0.0.0.0 www.369hezi.com
 0.0.0.0 www.37e5693aa7.com
+0.0.0.0 www.3alammona.com
 0.0.0.0 www.3dnsew.com
 0.0.0.0 www.3domainscom.com
 0.0.0.0 www.3sjhdbjfsdf3.monster
@@ -40590,6 +40597,7 @@
 0.0.0.0 www.randomaccesssoftware.com
 0.0.0.0 www.rankersllc.com
 0.0.0.0 www.rantsundaydish.com
+0.0.0.0 www.rapbrasileiro.com
 0.0.0.0 www.rapidhooray.com
 0.0.0.0 www.rareinsane.com
 0.0.0.0 www.rarrepairtool.com
@@ -42569,6 +42577,7 @@
 0.0.0.0 yonhelioliskor.com
 0.0.0.0 yoniwigs.com
 0.0.0.0 yoniyin.com
+0.0.0.0 yonkerhallier.com
 0.0.0.0 yonniefacture.com
 0.0.0.0 yonomastara.com
 0.0.0.0 yonsandileer.com
