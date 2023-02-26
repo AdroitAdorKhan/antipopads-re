@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.057
 # Release: 057
-# Entries: 43,191
-# Updated: Sun, 26 Feb 23 18:07:36 +06
+# Entries: 43,196
+# Updated: Sun, 26 Feb 23 20:08:38 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -692,6 +692,7 @@
 0.0.0.0 3ztv.re
 0.0.0.0 4-floorz.com
 0.0.0.0 4-interads.com
+0.0.0.0 404notfounds.xyz
 0.0.0.0 407.life
 0.0.0.0 407433bfc441.com
 0.0.0.0 407724811e.ceb47c51b1.com
@@ -8111,6 +8112,7 @@
 0.0.0.0 colorfullank.com
 0.0.0.0 colorfulwiped.com
 0.0.0.0 colorificiopadano.it
+0.0.0.0 coloring.photo
 0.0.0.0 colorssocietykrishaheights.com
 0.0.0.0 colossal-bear.pro
 0.0.0.0 colossalrate.com
@@ -9141,6 +9143,7 @@
 0.0.0.0 d869381a42af33b.com
 0.0.0.0 d8a7b624ba.7db44be9a6.com
 0.0.0.0 d9cea559.com
+0.0.0.0 d9d899b0e8.com
 0.0.0.0 d9fc39dbc3.3651172187.com
 0.0.0.0 d9kvn70l4ogn.com
 0.0.0.0 da.sg
@@ -9315,6 +9318,7 @@
 0.0.0.0 dating2you.org
 0.0.0.0 dating4you.org
 0.0.0.0 datingcity.life
+0.0.0.0 datingfresh.xyz
 0.0.0.0 datingggmoreaps.com
 0.0.0.0 datinggoodtaste.life
 0.0.0.0 datinghere-now3.com
@@ -27352,6 +27356,7 @@
 0.0.0.0 rashmiaiyappa.org
 0.0.0.0 rashparron.buzz
 0.0.0.0 rashtravaarta.com
+0.0.0.0 rashtriyametal.org
 0.0.0.0 rasorescampout.com
 0.0.0.0 raspberrybenefactor.com
 0.0.0.0 raspedexsculp.com
