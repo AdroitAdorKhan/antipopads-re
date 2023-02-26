@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.057
 # Release: 057
-# Entries: 43,058
-# Updated: Sun, 26 Feb 23 06:16:08 +06
+# Entries: 43,070
+# Updated: Sun, 26 Feb 23 08:08:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -924,6 +924,7 @@
 0.0.0.0 622722.comwww.601122.com
 0.0.0.0 623eec0df3.23182b9851.com
 0.0.0.0 625c9289e60793.com
+0.0.0.0 62793c.co
 0.0.0.0 62ah.com
 0.0.0.0 62b70ac32d4614b.com
 0.0.0.0 62c56d7ef1.com
@@ -24914,6 +24915,7 @@
 0.0.0.0 persesgnetum.com
 0.0.0.0 perseverancekaleidoscopefinance.com
 0.0.0.0 persistbathing.com
+0.0.0.0 persisteer.com
 0.0.0.0 persistentadequate.com
 0.0.0.0 personallychar.com
 0.0.0.0 personifyallege.com
@@ -25093,6 +25095,7 @@
 0.0.0.0 photographingmiddleagedsuccessive.com
 0.0.0.0 photographingstirinput.com
 0.0.0.0 photographpan.com
+0.0.0.0 photonics-project.org
 0.0.0.0 phoutush.net
 0.0.0.0 phouvemp.net
 0.0.0.0 phouwims.net
@@ -25158,6 +25161,7 @@
 0.0.0.0 piedmonteastside.org
 0.0.0.0 piedmontexecutivehealth.org
 0.0.0.0 piedmonthearthealth.org
+0.0.0.0 piedmontmacon.org
 0.0.0.0 piedmontnow.org
 0.0.0.0 pieldeminotauro.com
 0.0.0.0 pierisrapgae.com
@@ -34928,6 +34932,7 @@
 0.0.0.0 urabukakke.com
 0.0.0.0 uraeusairfare.uno
 0.0.0.0 urambled.com
+0.0.0.0 uranismunshore.com
 0.0.0.0 uraseszincy.com
 0.0.0.0 urassdogibog.com
 0.0.0.0 urbanahousingfund.org
@@ -35831,6 +35836,7 @@
 0.0.0.0 vixtream.net
 0.0.0.0 vizagtobfx.com
 0.0.0.0 vizalis.online
+0.0.0.0 vizplay.org
 0.0.0.0 vjdciu.com
 0.0.0.0 vjlondonphotography.com
 0.0.0.0 vjpalace.com
@@ -40191,6 +40197,7 @@
 0.0.0.0 www.perpetualbliss.net
 0.0.0.0 www.perryvolleyball.com
 0.0.0.0 www.persistbathing.com
+0.0.0.0 www.persisteer.com
 0.0.0.0 www.persistentadequate.com
 0.0.0.0 www.personallychar.com
 0.0.0.0 www.perspiremuttonendurance.com
@@ -41510,9 +41517,11 @@
 0.0.0.0 www.yunvx.fun
 0.0.0.0 www.yvesmadame.com
 0.0.0.0 www.yw3azp558q8slfedm1ox2ehqah.com
+0.0.0.0 www.yy51tt.com
 0.0.0.0 www.yymh853.com
 0.0.0.0 www.zabpbhko.com
 0.0.0.0 www.zagtertda.com
+0.0.0.0 www.zaozaolu.com
 0.0.0.0 www.zargaron.com
 0.0.0.0 www.ze66.xyz
 0.0.0.0 www.zealousquickly.com
@@ -41526,6 +41535,7 @@
 0.0.0.0 www.zoxford.com
 0.0.0.0 www.zscwdu.com
 0.0.0.0 www.zsokruhle.stranka.info
+0.0.0.0 www.zun36.com
 0.0.0.0 www.zuoshou313.com
 0.0.0.0 www.zuowendaidai.com
 0.0.0.0 www.zvbtw.com
@@ -42677,6 +42687,7 @@
 0.0.0.0 yxpmtdzlsv.com
 0.0.0.0 yy.bourockmights.com
 0.0.0.0 yy.expedelanate.com
+0.0.0.0 yy51tt.com
 0.0.0.0 yy8fgl2bdv.com
 0.0.0.0 yy9s51b2u05z.com
 0.0.0.0 yycrpbfjq.com
@@ -43036,6 +43047,7 @@
 0.0.0.0 zukxd6fkxqn.com
 0.0.0.0 zuleikalined.life
 0.0.0.0 zummitt.info
+0.0.0.0 zun36.com
 0.0.0.0 zunsavurdo.com
 0.0.0.0 zunsoach.com
 0.0.0.0 zuoshou313.com
