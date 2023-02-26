@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.057
 # Release: 057
-# Entries: 43,079
-# Updated: Sun, 26 Feb 23 12:08:40 +06
+# Entries: 43,084
+# Updated: Sun, 26 Feb 23 14:13:36 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4370,6 +4370,7 @@
 0.0.0.0 awesomecarecds.com
 0.0.0.0 awesomenewspush.com
 0.0.0.0 awestatic.com
+0.0.0.0 awestruckbranch.com
 0.0.0.0 awestruckcolleaguediving.com
 0.0.0.0 awfulresolvedraised.com
 0.0.0.0 awgfargnrw.xyz
@@ -16301,6 +16302,7 @@
 0.0.0.0 hywaypatrol.org
 0.0.0.0 hyyorymqgltuleu.top
 0.0.0.0 hyzerline.net
+0.0.0.0 hz.sk
 0.0.0.0 hzkachqd.com
 0.0.0.0 hzzevwlmjji.com
 0.0.0.0 i-afk.com
@@ -17633,6 +17635,7 @@
 0.0.0.0 jeejeetauz.com
 0.0.0.0 jeejujou.net
 0.0.0.0 jeenainternational.org
+0.0.0.0 jeepanoo.net
 0.0.0.0 jeepersfused.live
 0.0.0.0 jeepneyapparel.com
 0.0.0.0 jeepsaut.com
@@ -38818,6 +38821,7 @@
 0.0.0.0 www.extendbrooklandscape.com
 0.0.0.0 www.extremepressurewash.ca
 0.0.0.0 www.eyebrowsasperitygarret.com
+0.0.0.0 www.fabredo.com
 0.0.0.0 www.faceandhairtrend.com
 0.0.0.0 www.facemoi-tube.com
 0.0.0.0 www.facilitycompetition.com
@@ -41324,6 +41328,7 @@
 0.0.0.0 www.vipmak.com
 0.0.0.0 www.viprivieratour.com
 0.0.0.0 www.virginreellaurie.com
+0.0.0.0 www.viridisguitars.com
 0.0.0.0 www.virtual-toy-shop.com
 0.0.0.0 www.virtuallythanksgivinganchovy.com
 0.0.0.0 www.virus-analytics.com
