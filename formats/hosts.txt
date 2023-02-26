@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.057
 # Release: 057
-# Entries: 43,056
-# Updated: Sun, 26 Feb 23 04:17:22 +06
+# Entries: 43,058
+# Updated: Sun, 26 Feb 23 06:16:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20811,6 +20811,7 @@
 0.0.0.0 meanspowersmotives.com
 0.0.0.0 meantlick.com
 0.0.0.0 meased.com
+0.0.0.0 meases.com
 0.0.0.0 measinc.org
 0.0.0.0 measnrmkuxwsx.xyz
 0.0.0.0 measurementaz.com
@@ -26385,6 +26386,7 @@
 0.0.0.0 pseekseecm.com
 0.0.0.0 pseepsie.com
 0.0.0.0 pseepsoo.com
+0.0.0.0 pseerdab.com
 0.0.0.0 psekesheva.pro
 0.0.0.0 psensuds.net
 0.0.0.0 psewhaur.net
