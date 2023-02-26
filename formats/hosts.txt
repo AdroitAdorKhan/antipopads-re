@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.058
 # Release: 058
-# Entries: 43,238
-# Updated: Mon, 27 Feb 23 00:07:46 +06
+# Entries: 43,240
+# Updated: Mon, 27 Feb 23 02:07:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8358,6 +8358,7 @@
 0.0.0.0 conjunctionbanner.com
 0.0.0.0 connateautobiography.com
 0.0.0.0 connatedresspint.com
+0.0.0.0 connect-accounts.com
 0.0.0.0 connect-auth.fr
 0.0.0.0 connectad.io
 0.0.0.0 connectedit.co
@@ -31574,6 +31575,7 @@
 0.0.0.0 superdeapp.com
 0.0.0.0 superfastcdn.com
 0.0.0.0 superfolder.net
+0.0.0.0 superfurrycdn.nl
 0.0.0.0 superheavy.app
 0.0.0.0 superheroparticularitaly.com
 0.0.0.0 superhot-chics1.com
