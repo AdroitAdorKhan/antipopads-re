@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.058
 # Release: 058
-# Entries: 43,249
-# Updated: Mon, 27 Feb 23 04:19:03 +06
+# Entries: 43,255
+# Updated: Mon, 27 Feb 23 06:07:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1403,6 +1403,7 @@
 0.0.0.0 abbsale.com
 0.0.0.0 abburmyer.com
 0.0.0.0 abc-3d.net
+0.0.0.0 abcabdc.xyz
 0.0.0.0 abcboyswear.com
 0.0.0.0 abcediting.online
 0.0.0.0 abclefabletor.com
@@ -11352,6 +11353,7 @@
 0.0.0.0 elementsfertilisedfaithful.com
 0.0.0.0 elepaioboylas.digital
 0.0.0.0 elephant-ads.com
+0.0.0.0 elephantfat.top
 0.0.0.0 elepocial.pro
 0.0.0.0 elepts.com
 0.0.0.0 eleutrummery.com
@@ -27438,6 +27440,7 @@
 0.0.0.0 rb.darkestfertil.com
 0.0.0.0 rb.gy
 0.0.0.0 rb.hoergigas.com
+0.0.0.0 rbldpro.ru.com
 0.0.0.0 rbnt.org
 0.0.0.0 rbplanttrainingltd.co.uk
 0.0.0.0 rbplat.co.za
@@ -34143,6 +34146,7 @@
 0.0.0.0 tsbhypermarket.com
 0.0.0.0 tsbinge.live
 0.0.0.0 tsbinge.org
+0.0.0.0 tset.dev
 0.0.0.0 tsgirg.org
 0.0.0.0 tshirtvender.com
 0.0.0.0 tshiwolabs.com
@@ -37613,6 +37617,7 @@
 0.0.0.0 www.2jshbdfs2.monster
 0.0.0.0 www.2kikcwuopelg1.com
 0.0.0.0 www.2loyalporuers1.com
+0.0.0.0 www.2sdbfjsdf2322.monster
 0.0.0.0 www.2wetrsohelix.com
 0.0.0.0 www.3-arabi.com
 0.0.0.0 www.3381.ma
@@ -41357,6 +41362,7 @@
 0.0.0.0 www.truantslaughterbrew.com
 0.0.0.0 www.trucksift.com
 0.0.0.0 www.truthfulsensor.com
+0.0.0.0 www.tset.dev
 0.0.0.0 www.tuckedhoroscopeforms.com
 0.0.0.0 www.tudou369.com
 0.0.0.0 www.tugarmyindistinct.com
