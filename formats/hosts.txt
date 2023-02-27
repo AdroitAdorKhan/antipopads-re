@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.058
 # Release: 058
-# Entries: 43,373
-# Updated: Mon, 27 Feb 23 16:07:53 +06
+# Entries: 43,378
+# Updated: Mon, 27 Feb 23 18:07:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -408,6 +408,7 @@
 0.0.0.0 22k.im
 0.0.0.0 22lmsi1t5.de
 0.0.0.0 22pay.net
+0.0.0.0 2333.pw
 0.0.0.0 233now.com
 0.0.0.0 234p.top
 0.0.0.0 235630618b.com
@@ -19571,6 +19572,7 @@
 0.0.0.0 lhvsqtagovaftrw.com
 0.0.0.0 lhxglqpvcmxy.com
 0.0.0.0 li2meh6eni3tis.com
+0.0.0.0 liabilityballot.com
 0.0.0.0 liaisondegreedaughters.com
 0.0.0.0 liaisonwonderplaice.com
 0.0.0.0 liambahaloed.com
@@ -29428,6 +29430,7 @@
 0.0.0.0 secureplus.in
 0.0.0.0 secureplustataplay.info
 0.0.0.0 secureplustataplay.live
+0.0.0.0 secureplustataplay.org
 0.0.0.0 securesmrt-dt.com
 0.0.0.0 securesurf.biz
 0.0.0.0 securetataplay.info
@@ -38785,6 +38788,7 @@
 0.0.0.0 www.deploreimpendingnasty.com
 0.0.0.0 www.depressingchanginggraduated.com
 0.0.0.0 www.depriscolaw.com
+0.0.0.0 www.derelictfascinatinginmate.com
 0.0.0.0 www.deridebleatacheless.com
 0.0.0.0 www.deriveseparatelycaptivity.com
 0.0.0.0 www.descargasxyz.com
@@ -39571,6 +39575,7 @@
 0.0.0.0 www.illegibledismiss.com
 0.0.0.0 www.illuminateflorida.life
 0.0.0.0 www.illuminatelocks.com
+0.0.0.0 www.illuminationdangeroushero.com
 0.0.0.0 www.ilqacare.com
 0.0.0.0 www.imadfoundation.org
 0.0.0.0 www.immenselyloot.com
