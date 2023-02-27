@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.059
 # Release: 059
-# Entries: 43,434
-# Updated: Tue, 28 Feb 23 00:07:33 +06
+# Entries: 43,440
+# Updated: Tue, 28 Feb 23 02:07:27 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -821,6 +821,7 @@
 0.0.0.0 50metri.com
 0.0.0.0 510718.com
 0.0.0.0 51345e7473.07ab456fe8.com
+0.0.0.0 5160bm59.pw
 0.0.0.0 516cables.com
 0.0.0.0 5177kpp.com
 0.0.0.0 51aa9bb2be.08af0e4303.com
@@ -6482,6 +6483,7 @@
 0.0.0.0 busions.com
 0.0.0.0 bussehomes.com
 0.0.0.0 bustlemiszone.com
+0.0.0.0 busychopdenounce.com
 0.0.0.0 busyfriends.org
 0.0.0.0 butalksuw9dj10.com
 0.0.0.0 butanoldatives.com
@@ -6906,6 +6908,7 @@
 0.0.0.0 cascade-services.mortgage
 0.0.0.0 cascade.mortgage
 0.0.0.0 cascadevoe.mortgage
+0.0.0.0 cascadewatchful.com
 0.0.0.0 casellihilversum.com
 0.0.0.0 casernbeings.com
 0.0.0.0 cash-ads.com
@@ -19578,6 +19581,7 @@
 0.0.0.0 lgappstv.com
 0.0.0.0 lgbxelnukhsil.xyz
 0.0.0.0 lghbwlpduia.top
+0.0.0.0 lgkdnlienpynmn.com
 0.0.0.0 lgprmmhtdubto.top
 0.0.0.0 lgpumcja.com
 0.0.0.0 lgs.vlitag.com
@@ -21097,6 +21101,7 @@
 0.0.0.0 memorandumdismissquietly.com
 0.0.0.0 memotype.net
 0.0.0.0 memunjcvfv.xyz
+0.0.0.0 menbej.com
 0.0.0.0 menchumble.guru
 0.0.0.0 mendoledresden.com
 0.0.0.0 mendprayer.com
@@ -40149,6 +40154,7 @@
 0.0.0.0 www.melisko.online
 0.0.0.0 www.memorandumdismissquietly.com
 0.0.0.0 www.memotype.net
+0.0.0.0 www.menbej.com
 0.0.0.0 www.menjanganmimpi.com
 0.0.0.0 www.mentalfuzzy.com
 0.0.0.0 www.mentallychristeningwearisome.com
