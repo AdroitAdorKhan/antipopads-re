@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.058
 # Release: 058
-# Entries: 43,255
-# Updated: Mon, 27 Feb 23 06:07:33 +06
+# Entries: 43,257
+# Updated: Mon, 27 Feb 23 08:07:45 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2006,6 +2006,7 @@
 0.0.0.0 adservi.com
 0.0.0.0 adservicemedia.dk
 0.0.0.0 adsessionserv.com
+0.0.0.0 adsexo.com
 0.0.0.0 adsfac.eu
 0.0.0.0 adsfac.net
 0.0.0.0 adsfac.us
@@ -21222,6 +21223,7 @@
 0.0.0.0 midlandvenisondollars.com
 0.0.0.0 midmobrosoffroading.com
 0.0.0.0 midnightmamaknits.com
+0.0.0.0 midouwhi.com
 0.0.0.0 midpopedge.com
 0.0.0.0 midswestonebk.com
 0.0.0.0 midwestcanineconnection.com
