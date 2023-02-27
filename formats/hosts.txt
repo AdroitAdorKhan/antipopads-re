@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.059
 # Release: 059
-# Entries: 43,440
-# Updated: Tue, 28 Feb 23 02:07:27 +06
+# Entries: 43,486
+# Updated: Tue, 28 Feb 23 04:16:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -56,6 +56,7 @@
 0.0.0.0 055kp.com
 0.0.0.0 05dfb71424.com
 0.0.0.0 05ee3a24ed11df058c8.com
+0.0.0.0 05f35b3988.com
 0.0.0.0 064999.com
 0.0.0.0 0661ee37d4.b12f4c5551.com
 0.0.0.0 070d3dd4bf.49af7cee19.com
@@ -123,6 +124,7 @@
 0.0.0.0 10bdjhq100.monster
 0.0.0.0 10desires.com
 0.0.0.0 10fbb07a4b0.se
+0.0.0.0 10hui.es
 0.0.0.0 10jhsvdjhfsdf10.monster
 0.0.0.0 10kasbkda100.monster
 0.0.0.0 10ksbjdasd00.monster
@@ -139,6 +141,7 @@
 0.0.0.0 10skhdbfjsf10.monster
 0.0.0.0 10skjdbfkjs10.monster
 0.0.0.0 10skjhdbjfs10.monster
+0.0.0.0 10starhd.bid
 0.0.0.0 10wkebfhw10.monster
 0.0.0.0 110380d053f716c4.com
 0.0.0.0 1105x.com
@@ -158,21 +161,25 @@
 0.0.0.0 11domani123.com
 0.0.0.0 11kjabjsda12.monster
 0.0.0.0 11sdfhsf11.monster
+0.0.0.0 11thhrnews.com
 0.0.0.0 11x11.com
 0.0.0.0 11xoxo.info
 0.0.0.0 120217977.world
 0.0.0.0 121third.com
 0.0.0.0 1221e236c3f8703.com
 0.0.0.0 123-movies.bz
+0.0.0.0 123565a.com
 0.0.0.0 123756565.com
 0.0.0.0 123996c.com
 0.0.0.0 123camquiz.com
 0.0.0.0 123hello.net
+0.0.0.0 123movie.im
 0.0.0.0 123movie.lol
 0.0.0.0 123moviehub.ws
 0.0.0.0 123movies.baby
 0.0.0.0 123movies.to
 0.0.0.0 123movies.town
+0.0.0.0 123movies.training
 0.0.0.0 123taxi.be
 0.0.0.0 123vids.com
 0.0.0.0 123vidz.com
@@ -264,6 +271,7 @@
 0.0.0.0 1dd10808b3.world
 0.0.0.0 1dhbfjgdhj11.monster
 0.0.0.0 1dhgfhsdf1.monster
+0.0.0.0 1divx.uno
 0.0.0.0 1domainq1.com
 0.0.0.0 1domianscom.com
 0.0.0.0 1downpertser.com
@@ -606,8 +614,10 @@
 0.0.0.0 3333252.com
 0.0.0.0 3337126.com
 0.0.0.0 3338635.com
+0.0.0.0 333tv.cc
 0.0.0.0 3381.ma
 0.0.0.0 3388868.com
+0.0.0.0 33btc.site
 0.0.0.0 33ceaea337.cfd
 0.0.0.0 33cp.com
 0.0.0.0 341073be6e9db7d2.com
@@ -627,9 +637,11 @@
 0.0.0.0 360protected.com
 0.0.0.0 360vehiclespin.co.uk
 0.0.0.0 362b643a66026e.com
+0.0.0.0 3647.tech
 0.0.0.0 3654qq.com
 0.0.0.0 365anfang.net
 0.0.0.0 365days.xyz
+0.0.0.0 365games.fi
 0.0.0.0 365online.net
 0.0.0.0 366300.org
 0.0.0.0 366xsw.com
@@ -723,8 +735,10 @@
 0.0.0.0 437erfiu.owuhovatop61.xyz
 0.0.0.0 4388b.com
 0.0.0.0 43t53c9e.de
+0.0.0.0 444wc.com
 0.0.0.0 452tapgn.de
 0.0.0.0 456797.xyz
+0.0.0.0 45cam.com
 0.0.0.0 45efcfcfdf.004809f9da.com
 0.0.0.0 45eijvhgj2.com
 0.0.0.0 465713.com
@@ -791,6 +805,7 @@
 0.0.0.0 4kshbdjfsdf44.monster
 0.0.0.0 4kshdbjhfsdf44.monster
 0.0.0.0 4ksjdkfsdf4.monster
+0.0.0.0 4ltv4.com
 0.0.0.0 4luckyf.com
 0.0.0.0 4p74i5b6.de
 0.0.0.0 4pawsconsulting.co.uk
@@ -881,6 +896,7 @@
 0.0.0.0 5e47bd4172.4d3dc84aec.com
 0.0.0.0 5f6dmzflgqso.com
 0.0.0.0 5fb447b916.10eafd09d6.com
+0.0.0.0 5frw96vcmkfb5k.ru
 0.0.0.0 5ggggg5.com
 0.0.0.0 5gsatconnect.com
 0.0.0.0 5gye22.com
@@ -889,6 +905,7 @@
 0.0.0.0 5hgashdad55.monster
 0.0.0.0 5hgsdvhfsdf5.monster
 0.0.0.0 5hgvasd5523.monster
+0.0.0.0 5iswy5qjmp31p.ru
 0.0.0.0 5jdhbfjdfg4.monster
 0.0.0.0 5jdhfbgjdfg5.monster
 0.0.0.0 5jhbsjhdbfsd5.monster
@@ -998,6 +1015,7 @@
 0.0.0.0 6hqvgdqw66.monster
 0.0.0.0 6hsjvdhjfsdf6.monster
 0.0.0.0 6hvhjsdww6.monster
+0.0.0.0 6jaxjsou.info
 0.0.0.0 6jgvshgfsdf6.monster
 0.0.0.0 6jhdbfjdfg6.monster
 0.0.0.0 6jhdjsdf6.monster
@@ -1017,6 +1035,7 @@
 0.0.0.0 6ujk8x9soxhm.com
 0.0.0.0 6yag4bmwyhs4.com
 0.0.0.0 6yint.com
+0.0.0.0 6z6.xyz
 0.0.0.0 6zy9yqe1ew.com
 0.0.0.0 7-7-7-partner.com
 0.0.0.0 7-itrndsbrands.com
@@ -1088,6 +1107,7 @@
 0.0.0.0 7db0b2a0ee95f557904.com
 0.0.0.0 7dkjfbghjdfg77.monster
 0.0.0.0 7e625f490775b155.com
+0.0.0.0 7eim7us6.info
 0.0.0.0 7fdghdsasf7.monster
 0.0.0.0 7fkm2r4pzi.com
 0.0.0.0 7fva8algp45k.com
@@ -1105,6 +1125,8 @@
 0.0.0.0 7lyonline.com
 0.0.0.0 7me0ssd6.de
 0.0.0.0 7mmtv.top
+0.0.0.0 7movierulz.mg
+0.0.0.0 7o7.co
 0.0.0.0 7oc5b1i3v4iu.top
 0.0.0.0 7re8.com
 0.0.0.0 7rypt1.com
@@ -1166,6 +1188,7 @@
 0.0.0.0 8bbc81b016.d1bcb5ca9f.com
 0.0.0.0 8c12fd2217.6e3ee87ff2.com
 0.0.0.0 8ca84a0be2.0fc32b5283.com
+0.0.0.0 8d6lbsvg3qkl.com
 0.0.0.0 8dgdh.cn
 0.0.0.0 8e4f59a821.4ea4e00257.com
 0.0.0.0 8e56dfbb00.cf2020176f.com
@@ -1192,10 +1215,12 @@
 0.0.0.0 8ume.com
 0.0.0.0 8vdx.com
 0.0.0.0 8wtkfxiss1o2.com
+0.0.0.0 8x2658x.com
 0.0.0.0 8x308x.com
 0.0.0.0 8xhb.com
 0.0.0.0 8xx0n8.com
 0.0.0.0 900bets10.com
+0.0.0.0 900file.com
 0.0.0.0 909.ooo
 0.0.0.0 90tenpr.com
 0.0.0.0 916sd.com
@@ -1234,6 +1259,7 @@
 0.0.0.0 99968tz.com
 0.0.0.0 9997484e4c4b694c4e6602.online
 0.0.0.0 99998009.com
+0.0.0.0 999aaq.com
 0.0.0.0 99bhiwandigodowns.com
 0.0.0.0 99bhiwandigodowns.in
 0.0.0.0 99c23.com
@@ -1349,6 +1375,7 @@
 0.0.0.0 aaaaaco.com
 0.0.0.0 aab-check.me
 0.0.0.0 aab-proxy-tests.top
+0.0.0.0 aabook.work
 0.0.0.0 aabproxydomaintests.top
 0.0.0.0 aabproxytests.top
 0.0.0.0 aabproxytestsdomain.top
@@ -1368,6 +1395,7 @@
 0.0.0.0 aajkeoffers.com
 0.0.0.0 aajoqmytnrq.com
 0.0.0.0 aalconsultants.co.uk
+0.0.0.0 aaltadefinizione.com
 0.0.0.0 aanantbisht-healing.online
 0.0.0.0 aandbproperties.co.uk
 0.0.0.0 aaoeavlyxdjatqe.xyz
@@ -1836,6 +1864,7 @@
 0.0.0.0 adexprt.com
 0.0.0.0 adexprts.com
 0.0.0.0 adexprtz.com
+0.0.0.0 adeymovies.com
 0.0.0.0 adf-company.co
 0.0.0.0 adfclick1.com
 0.0.0.0 adfeedstrk.com
@@ -2557,6 +2586,7 @@
 0.0.0.0 ahhhhfa.com
 0.0.0.0 ahive.in
 0.0.0.0 ahjopnbimr.com
+0.0.0.0 ahjrinrucmp.com
 0.0.0.0 ahjuliten.com
 0.0.0.0 ahlbhiaq.com
 0.0.0.0 ahlefind.com
@@ -4152,6 +4182,7 @@
 0.0.0.0 attractiveother.pro
 0.0.0.0 attrapincha.com
 0.0.0.0 attributedconcernedamendable.com
+0.0.0.0 attributedgavepacket.com
 0.0.0.0 attributedminded.com
 0.0.0.0 attributedrelease.com
 0.0.0.0 attributora.com
@@ -5086,6 +5117,7 @@
 0.0.0.0 beharmalted.info
 0.0.0.0 beheadmuffleddetached.com
 0.0.0.0 behick.com
+0.0.0.0 behink.com
 0.0.0.0 beholdascared.com
 0.0.0.0 behootpokeys.com
 0.0.0.0 behoppipan.com
@@ -8766,6 +8798,7 @@
 0.0.0.0 crantscopart.com
 0.0.0.0 crashlund.org
 0.0.0.0 crashnoodle.com
+0.0.0.0 crasscommaes.guru
 0.0.0.0 cratchcfi.com
 0.0.0.0 crawlingmat.com
 0.0.0.0 crayoncompetition.com
@@ -9716,6 +9749,7 @@
 0.0.0.0 depftfwkj.com
 0.0.0.0 dephasevittate.com
 0.0.0.0 depictimproperdenunciation.com
+0.0.0.0 depids.com
 0.0.0.0 depirsmandk5.com
 0.0.0.0 deploreimpendingnasty.com
 0.0.0.0 deployads.com
@@ -10014,6 +10048,7 @@
 0.0.0.0 dimpuxoh.net
 0.0.0.0 dimreproofjumped.com
 0.0.0.0 dimseeje.com
+0.0.0.0 dinahmerfolk.life
 0.0.0.0 dinarsonistprecisely.com
 0.0.0.0 dindlebrooder.digital
 0.0.0.0 dingholog.com
@@ -11988,6 +12023,7 @@
 0.0.0.0 evehouseland.com
 0.0.0.0 evemasoil.com
 0.0.0.0 evemoses.top
+0.0.0.0 evendisciplineseedlings.com
 0.0.0.0 eveningproclamationarched.com
 0.0.0.0 eventhenherthis.info
 0.0.0.0 eventhenherthisi.com
@@ -13358,6 +13394,7 @@
 0.0.0.0 fregtrsatnt.com
 0.0.0.0 freighthealaudience.com
 0.0.0.0 freing.com
+0.0.0.0 freiodablazer.com
 0.0.0.0 french-stream.one
 0.0.0.0 frenchequal.pro
 0.0.0.0 frenchoak.us
@@ -14404,6 +14441,7 @@
 0.0.0.0 go6shde9nj2itle.com
 0.0.0.0 goaciptu.net
 0.0.0.0 goads.pro
+0.0.0.0 goadx.com
 0.0.0.0 goaffiliateprogram.com
 0.0.0.0 goajuzey.com
 0.0.0.0 goalcipherhybrid.com
@@ -16075,6 +16113,7 @@
 0.0.0.0 hotchatdirect.com
 0.0.0.0 hotchedbearhug.com
 0.0.0.0 hotchicks4.com
+0.0.0.0 hotclips.online
 0.0.0.0 hotdates.life
 0.0.0.0 hotegotisticalturbulent.com
 0.0.0.0 hotelamritsars.com
@@ -16629,6 +16668,7 @@
 0.0.0.0 iirkvwtjowaw.com
 0.0.0.0 iirwyywcawx.top
 0.0.0.0 iiscevjtya.com
+0.0.0.0 iistillstayherea.com
 0.0.0.0 iixecczxqzy.com
 0.0.0.0 iixrcvqsqicjcl.com
 0.0.0.0 ij.eburinmajagga.com
@@ -17455,6 +17495,7 @@
 0.0.0.0 itroggenrolaa.com
 0.0.0.0 itrustzone.site
 0.0.0.0 itsabacus.co.uk
+0.0.0.0 itsalwaysdns.com
 0.0.0.0 itseedotor.com
 0.0.0.0 itseesy.com
 0.0.0.0 itsfunnehmerch.com
@@ -19765,6 +19806,7 @@
 0.0.0.0 linksecurecd.com
 0.0.0.0 linkwarkop4d.com
 0.0.0.0 linnechaya.com
+0.0.0.0 linneonunbend.life
 0.0.0.0 linodkjs.ru
 0.0.0.0 linodrvs.ru
 0.0.0.0 linousfalafel.guru
@@ -20592,6 +20634,7 @@
 0.0.0.0 mamblubamblua.com
 0.0.0.0 mambobuyback.com
 0.0.0.0 mamcms.com
+0.0.0.0 mameyesmulemen.digital
 0.0.0.0 mamihlapinatana.xyz
 0.0.0.0 mammalbuy.com
 0.0.0.0 mammoseoxanic.com
@@ -27548,6 +27591,7 @@
 0.0.0.0 rclbuild.co.uk
 0.0.0.0 rclcshtpmpr.top
 0.0.0.0 rconventure.top
+0.0.0.0 rcuacroossonek.xyz
 0.0.0.0 rcurn.com
 0.0.0.0 rcvlink.com
 0.0.0.0 rcvlinks.com
@@ -36058,6 +36102,7 @@
 0.0.0.0 virtualinstructor.info
 0.0.0.0 virtuallylend.com
 0.0.0.0 virtuallythanksgivinganchovy.com
+0.0.0.0 virtualtracers.com
 0.0.0.0 virtuous-father.pro
 0.0.0.0 virus-analytics.com
 0.0.0.0 virushacker.tech
@@ -41671,6 +41716,7 @@
 0.0.0.0 www.viridisguitars.com
 0.0.0.0 www.virtual-toy-shop.com
 0.0.0.0 www.virtuallythanksgivinganchovy.com
+0.0.0.0 www.virtualtracers.com
 0.0.0.0 www.virus-analytics.com
 0.0.0.0 www.visaladsamaj.com
 0.0.0.0 www.vishaldurafe.com
