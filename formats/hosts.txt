@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.059
 # Release: 059
-# Entries: 43,703
-# Updated: Tue, 28 Feb 23 16:10:14 +06
+# Entries: 43,706
+# Updated: Tue, 28 Feb 23 18:07:19 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4032,6 +4032,7 @@
 0.0.0.0 assertedhome.com
 0.0.0.0 assertednodding.com
 0.0.0.0 assertnourishingconnection.com
+0.0.0.0 assestdynamic.com
 0.0.0.0 assetize.com
 0.0.0.0 assetknowledgeregret.com
 0.0.0.0 assets.bilsyndication.com
@@ -22977,6 +22978,7 @@
 0.0.0.0 nippona7n2theum.com
 0.0.0.0 nipwaghue.com
 0.0.0.0 nirala.ca
+0.0.0.0 niran.tech
 0.0.0.0 nirashoawe.com
 0.0.0.0 nirgunbrahm.com
 0.0.0.0 nirisrutin.store
@@ -38365,6 +38367,7 @@
 0.0.0.0 www.asoft99.dev
 0.0.0.0 www.asqp.vip
 0.0.0.0 www.assentproduct.com
+0.0.0.0 www.assestdynamic.com
 0.0.0.0 www.assignedmilitantcommit.com
 0.0.0.0 www.assignments.tvidak.com
 0.0.0.0 www.assimilateentrails.com
