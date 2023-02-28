@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.059
 # Release: 059
-# Entries: 43,486
-# Updated: Tue, 28 Feb 23 04:16:48 +06
+# Entries: 43,498
+# Updated: Tue, 28 Feb 23 06:09:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -173,6 +173,7 @@
 0.0.0.0 123996c.com
 0.0.0.0 123camquiz.com
 0.0.0.0 123hello.net
+0.0.0.0 123movie.icu
 0.0.0.0 123movie.im
 0.0.0.0 123movie.lol
 0.0.0.0 123moviehub.ws
@@ -196,6 +197,7 @@
 0.0.0.0 12xgetsready12.monster
 0.0.0.0 13021061852.cc
 0.0.0.0 1337x.co.za
+0.0.0.0 1337x.fit
 0.0.0.0 1337x.gr
 0.0.0.0 1338x.to
 0.0.0.0 13630gmail.com
@@ -638,6 +640,7 @@
 0.0.0.0 360vehiclespin.co.uk
 0.0.0.0 362b643a66026e.com
 0.0.0.0 3647.tech
+0.0.0.0 3648839.com
 0.0.0.0 3654qq.com
 0.0.0.0 365anfang.net
 0.0.0.0 365days.xyz
@@ -735,6 +738,7 @@
 0.0.0.0 437erfiu.owuhovatop61.xyz
 0.0.0.0 4388b.com
 0.0.0.0 43t53c9e.de
+0.0.0.0 4422432.com
 0.0.0.0 444wc.com
 0.0.0.0 452tapgn.de
 0.0.0.0 456797.xyz
@@ -1329,6 +1333,7 @@
 0.0.0.0 a0cf812082.com
 0.0.0.0 a0fd7f1308.6a21c55f67.com
 0.0.0.0 a123ck.com
+0.0.0.0 a123gh.com
 0.0.0.0 a14refresh.com
 0.0.0.0 a14tdsa.com
 0.0.0.0 a15c5009bcbe272.com
@@ -1389,6 +1394,7 @@
 0.0.0.0 aaeiiutyjgerj.com
 0.0.0.0 aaettsewpbyc.com
 0.0.0.0 aafdcq.com
+0.0.0.0 aagnation.com
 0.0.0.0 aahgold.com
 0.0.0.0 aajag.xyz
 0.0.0.0 aajkaltv.in
@@ -1759,6 +1765,7 @@
 0.0.0.0 ad999.biz
 0.0.0.0 ad9i3.com
 0.0.0.0 adactioner.com
+0.0.0.0 adalynn.info
 0.0.0.0 adamcomsof.com
 0.0.0.0 adamdevos.ca
 0.0.0.0 adanifoods.in
@@ -5156,6 +5163,7 @@
 0.0.0.0 belongedshark.com
 0.0.0.0 beloved-ideal.pro
 0.0.0.0 belowanswerhaste.com
+0.0.0.0 belstaffoutlet.top
 0.0.0.0 beltudri.com
 0.0.0.0 beludicolor.com
 0.0.0.0 belwrite.com
@@ -7613,6 +7621,7 @@
 0.0.0.0 chvusgejxi.com
 0.0.0.0 chyjobopse.pro
 0.0.0.0 chykohija.pro
+0.0.0.0 chylesvan.digital
 0.0.0.0 chyxyrothi.com
 0.0.0.0 chzei.com
 0.0.0.0 cialanaly.club
@@ -21604,6 +21613,7 @@
 0.0.0.0 mockedslavify.website
 0.0.0.0 mockroxket.io
 0.0.0.0 mocmubse.net
+0.0.0.0 modafinil-it.com
 0.0.0.0 modeledresawer.store
 0.0.0.0 modelwhite.com
 0.0.0.0 moderategermmaria.com
@@ -32887,6 +32897,7 @@
 0.0.0.0 thepromise2004.com
 0.0.0.0 thepromisedlanduk.com
 0.0.0.0 theproperprepper.com
+0.0.0.0 theproxisright.com
 0.0.0.0 thequalitygroup.biz
 0.0.0.0 therapistpopulationcommentary.com
 0.0.0.0 therapistpresumegooseberry.com
@@ -33493,6 +33504,7 @@
 0.0.0.0 toothpastepartmuttered.com
 0.0.0.0 toottuleringv.info
 0.0.0.0 top-dates-now.life
+0.0.0.0 top-igri.net
 0.0.0.0 top-performance.best
 0.0.0.0 top-performance.club
 0.0.0.0 top-performance.top
