@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.02.059
 # Release: 059
-# Entries: 43,567
-# Updated: Tue, 28 Feb 23 12:14:22 +06
+# Entries: 43,604
+# Updated: Tue, 28 Feb 23 14:15:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -68,6 +68,7 @@
 0.0.0.0 089c42d0b4.f28fda58c5.com
 0.0.0.0 08bb1fn3t4.com
 0.0.0.0 0926a687679d337e9d.com
+0.0.0.0 0940.xyz
 0.0.0.0 0941c6ab34.9ac0da939a.com
 0.0.0.0 0957521491.com
 0.0.0.0 09954.com
@@ -89,6 +90,7 @@
 0.0.0.0 0i0i0i0.com
 0.0.0.0 0jlkbwkp.com
 0.0.0.0 0l8hris7b3u.ind.in
+0.0.0.0 0museum.ru
 0.0.0.0 0oaqgsk54hm5.com
 0.0.0.0 0pyn37dv3m.com
 0.0.0.0 0redirb.com
@@ -178,6 +180,7 @@
 0.0.0.0 123movie.lol
 0.0.0.0 123moviehub.ws
 0.0.0.0 123movies.baby
+0.0.0.0 123movies.family
 0.0.0.0 123movies.to
 0.0.0.0 123movies.town
 0.0.0.0 123movies.training
@@ -199,6 +202,7 @@
 0.0.0.0 1337x.co.za
 0.0.0.0 1337x.fit
 0.0.0.0 1337x.gr
+0.0.0.0 1337x.it
 0.0.0.0 1338x.to
 0.0.0.0 13630gmail.com
 0.0.0.0 136ffb81df.df253f3b96.com
@@ -224,6 +228,7 @@
 0.0.0.0 1600jk.com
 0.0.0.0 16066bf4a6.1c7154dd67.com
 0.0.0.0 163tp.com
+0.0.0.0 164995.com
 0.0.0.0 167f8c4133.bar
 0.0.0.0 1681330.com
 0.0.0.0 16dns.cn
@@ -276,6 +281,7 @@
 0.0.0.0 1divx.uno
 0.0.0.0 1domainq1.com
 0.0.0.0 1domianscom.com
+0.0.0.0 1download.ru
 0.0.0.0 1downpertser.com
 0.0.0.0 1dxp.in
 0.0.0.0 1e46e721dc.com
@@ -330,6 +336,7 @@
 0.0.0.0 1odi7j43c.de
 0.0.0.0 1oej.com
 0.0.0.0 1ooppssww.com
+0.0.0.0 1outlets.co.za
 0.0.0.0 1p8ln1dtr.de
 0.0.0.0 1phads.com
 0.0.0.0 1planetfoundation.org
@@ -403,6 +410,7 @@
 0.0.0.0 2137dc12f9d8.com
 0.0.0.0 2158novffp.com
 0.0.0.0 21961b67bb.2b26a9e96e.com
+0.0.0.0 21ad.in
 0.0.0.0 21c9a53484951.com
 0.0.0.0 21find.com
 0.0.0.0 21hn4b64m.de
@@ -566,6 +574,7 @@
 0.0.0.0 2lwlh385os.com
 0.0.0.0 2m3gdt0gc.de
 0.0.0.0 2m55gqleg.de
+0.0.0.0 2mb.social
 0.0.0.0 2mdn.info
 0.0.0.0 2mf9kkbhab31.com
 0.0.0.0 2mlh2fw7z62i.com
@@ -742,6 +751,7 @@
 0.0.0.0 43t53c9e.de
 0.0.0.0 4422432.com
 0.0.0.0 444wc.com
+0.0.0.0 44b090zo.com
 0.0.0.0 452tapgn.de
 0.0.0.0 456797.xyz
 0.0.0.0 45cam.com
@@ -999,6 +1009,7 @@
 0.0.0.0 69i.club
 0.0.0.0 69oxt4q05.com
 0.0.0.0 69v.club
+0.0.0.0 69zs.tk
 0.0.0.0 6aabc74318.82a89f6527.com
 0.0.0.0 6absjda66.monster
 0.0.0.0 6af461b907c5b.com
@@ -1056,6 +1067,7 @@
 0.0.0.0 71a30cae934e.com
 0.0.0.0 71d7511a4861068.com
 0.0.0.0 720.jams.wiki
+0.0.0.0 720pvideo.tk
 0.0.0.0 7231691.com
 0.0.0.0 7285da5a0e.8739792a55.com
 0.0.0.0 72966zb67.com
@@ -1086,6 +1098,7 @@
 0.0.0.0 777dy.net
 0.0.0.0 777seo.com
 0.0.0.0 77seaa.com
+0.0.0.0 77zyw.live
 0.0.0.0 784d28a492.com
 0.0.0.0 785d9b68fc.fb960dbd5f.com
 0.0.0.0 78avc.top
@@ -1103,6 +1116,7 @@
 0.0.0.0 7a88ea3137.com
 0.0.0.0 7adf76bf0d.5f425ed472.com
 0.0.0.0 7anfpatlo8lwmb.com
+0.0.0.0 7b09514c8d.com
 0.0.0.0 7bchhgh.de
 0.0.0.0 7c0616849b.com
 0.0.0.0 7ca78m3csgbrid7ge.com
@@ -1161,6 +1175,7 @@
 0.0.0.0 839book.com
 0.0.0.0 83e25ad579.86c129241c.com
 0.0.0.0 844644.com
+0.0.0.0 849f786332.com
 0.0.0.0 85-20.com
 0.0.0.0 85.ma
 0.0.0.0 862afc8f42dd4d6ad04ecc7568a34b34.com
@@ -1184,9 +1199,11 @@
 0.0.0.0 8899.jp
 0.0.0.0 88d7b6aa44fb8eb.com
 0.0.0.0 88directory.info
+0.0.0.0 88hd.co
 0.0.0.0 88kg.app
 0.0.0.0 88queeneast.com
 0.0.0.0 891904ed87.com
+0.0.0.0 89c3bf402f.com
 0.0.0.0 8a90f9d6e4.com
 0.0.0.0 8b9714d2f2.413dfe9f11.com
 0.0.0.0 8baf7ae42000024.com
@@ -1212,6 +1229,7 @@
 0.0.0.0 8mav226.com
 0.0.0.0 8mdphsb8fm.com
 0.0.0.0 8po6fdwjsym3.com
+0.0.0.0 8rooms.it
 0.0.0.0 8s32e590un.com
 0.0.0.0 8s58g.cn
 0.0.0.0 8sbdjfsdf88.monster
@@ -1258,7 +1276,9 @@
 0.0.0.0 97d73lsi.com
 0.0.0.0 97sandandgravel.com
 0.0.0.0 9842.comwww.844644.com
+0.0.0.0 987258.com
 0.0.0.0 98tang.la
+0.0.0.0 991.re
 0.0.0.0 996.energy
 0.0.0.0 996.works
 0.0.0.0 9996777888.com
@@ -1312,6 +1332,8 @@
 0.0.0.0 9r7i9bo06157.top
 0.0.0.0 9rendezvous-l.com
 0.0.0.0 9s4l9nik.de
+0.0.0.0 9se2fb7.com
+0.0.0.0 9sexjvc.com
 0.0.0.0 9sjdnkfsdf99.monster
 0.0.0.0 9syx.com.cn
 0.0.0.0 9t5.me
@@ -1324,6 +1346,7 @@
 0.0.0.0 _dmarc.mx.mx.www.connectindian.com
 0.0.0.0 a-94interdads.com
 0.0.0.0 a-b-c-d.xyz
+0.0.0.0 a-o-w.ru
 0.0.0.0 a-waiting.com
 0.0.0.0 a.audrte.com
 0.0.0.0 a.exdynsrv.com
@@ -1355,6 +1378,7 @@
 0.0.0.0 a2nn5eri7ce.com
 0.0.0.0 a2tw6yoodsag.com
 0.0.0.0 a2zclub.ir
+0.0.0.0 a2ztools-in.one
 0.0.0.0 a31e4a98f6.b094e3477d.com
 0.0.0.0 a3258.xyz
 0.0.0.0 a353364ec1bd19a.com
@@ -1673,6 +1697,7 @@
 0.0.0.0 achilles-par.com
 0.0.0.0 achnic.com
 0.0.0.0 acholiccortins.live
+0.0.0.0 achorouq.com
 0.0.0.0 achunogo.com
 0.0.0.0 achuphaube.com
 0.0.0.0 achyrepeatitchy.com
@@ -1716,6 +1741,7 @@
 0.0.0.0 acsxpbhbsuk.com
 0.0.0.0 act-my-easyweb.com
 0.0.0.0 actifsrealestate.com
+0.0.0.0 actiongames300.com
 0.0.0.0 actions.science
 0.0.0.0 actitansrugby.org
 0.0.0.0 activatestoolpoise.com
@@ -3594,6 +3620,7 @@
 0.0.0.0 appsli.me
 0.0.0.0 appsmessageries.fr
 0.0.0.0 appsprelandlab.com
+0.0.0.0 appssssflyer.com
 0.0.0.0 appstartups.top
 0.0.0.0 appsyoga.com
 0.0.0.0 apptdvibrate.com
@@ -4970,6 +4997,7 @@
 0.0.0.0 bbrandsmarkbestanimatedvideos5.online
 0.0.0.0 bbrow.one
 0.0.0.0 bbsheehandesign.com
+0.0.0.0 bbtn4dgacorssss.com
 0.0.0.0 bbuni.com
 0.0.0.0 bbwdldipmge.com
 0.0.0.0 bbwsktwlgubffe.com
@@ -11036,6 +11064,7 @@
 0.0.0.0 earnify.com
 0.0.0.0 earningserie.co
 0.0.0.0 earningsrapt.com
+0.0.0.0 earnobnoxious.com
 0.0.0.0 earpailton.com
 0.0.0.0 earplugmolka.com
 0.0.0.0 earthenmind.in
@@ -11233,6 +11262,7 @@
 0.0.0.0 edvforeveretest.com
 0.0.0.0 edvfwlacluo.com
 0.0.0.0 edwardambulanceservices.com
+0.0.0.0 edwate.com
 0.0.0.0 edxfquupejhbrey.com
 0.0.0.0 edyu.pl
 0.0.0.0 ee.cantripmorian.com
@@ -12092,6 +12122,7 @@
 0.0.0.0 evists.com
 0.0.0.0 evitingawabi.com
 0.0.0.0 evjtloaxy.top
+0.0.0.0 evkikdzbdg.com
 0.0.0.0 evo-time.co.uk
 0.0.0.0 evo-time.uk
 0.0.0.0 evoeng.org.uk
@@ -14107,6 +14138,7 @@
 0.0.0.0 ghastlyoffer.com
 0.0.0.0 ghatwalplunker.live
 0.0.0.0 ghbwexoaffjssk.top
+0.0.0.0 ghdsportslive.online
 0.0.0.0 gheraosonger.com
 0.0.0.0 ghetic.com
 0.0.0.0 ghett0.org
@@ -29301,6 +29333,7 @@
 0.0.0.0 saucepanassociationscale.com
 0.0.0.0 saucepancharms.com
 0.0.0.0 sauceresources.com
+0.0.0.0 sauconyshoesgreece.net
 0.0.0.0 saugeeth.net
 0.0.0.0 saumeechoa.com
 0.0.0.0 saumonpipidae.com
@@ -34807,6 +34840,7 @@
 0.0.0.0 uewasadi.com
 0.0.0.0 ufaexpert.com
 0.0.0.0 ufdpcrwgyok.xyz
+0.0.0.0 ufhdumnkhgk.com
 0.0.0.0 ufinkln.com
 0.0.0.0 ufjfyvvtsi.top
 0.0.0.0 ufmxeetcdt.com
@@ -39478,6 +39512,7 @@
 0.0.0.0 www.gerardogonzalez.coach
 0.0.0.0 www.getclassification.com
 0.0.0.0 www.gethere3fat3r.com
+0.0.0.0 www.getnextstellis.com
 0.0.0.0 www.getsurv2you.com
 0.0.0.0 www.gettingstratdomains.com
 0.0.0.0 www.gettmarts.com
@@ -41125,6 +41160,7 @@
 0.0.0.0 www.saucepanassociationscale.com
 0.0.0.0 www.saucepancharms.com
 0.0.0.0 www.sauceresources.com
+0.0.0.0 www.sauconyshoesgreece.net
 0.0.0.0 www.saumeechoa.com
 0.0.0.0 www.saunafortyeasy.com
 0.0.0.0 www.sbchill.com
@@ -41604,6 +41640,7 @@
 0.0.0.0 www.toothpastepartmuttered.com
 0.0.0.0 www.topdevactions.tech
 0.0.0.0 www.topsecret.in
+0.0.0.0 www.topsummerapps.net
 0.0.0.0 www.torchestanreason.com
 0.0.0.0 www.torontoroyalty.exchange
 0.0.0.0 www.torrentdia35.com
