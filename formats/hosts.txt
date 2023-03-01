@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.060
 # Release: 060
-# Entries: 43,839
-# Updated: Wed, 01 Mar 23 12:12:29 +06
+# Entries: 43,842
+# Updated: Wed, 01 Mar 23 14:07:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -30025,6 +30025,7 @@
 0.0.0.0 serving-system.com
 0.0.0.0 servingcdn.net
 0.0.0.0 servinsta.com
+0.0.0.0 serviziclienti.it
 0.0.0.0 servtraff97.com
 0.0.0.0 sesacmusicgroup.org
 0.0.0.0 sesameasterisk.com
@@ -31452,6 +31453,7 @@
 0.0.0.0 ssqyuvavse.com
 0.0.0.0 sssqnimchpad.com
 0.0.0.0 ssss.in
+0.0.0.0 ssstpl.online
 0.0.0.0 ssurvey2you.com
 0.0.0.0 ssyoutube-qoga.com
 0.0.0.0 ssyy8888.com
@@ -33273,6 +33275,7 @@
 0.0.0.0 thinkaction.com
 0.0.0.0 thinkandgrowrich.co.za
 0.0.0.0 thinkfreshindia.com
+0.0.0.0 thinkoverseas.org
 0.0.0.0 thinksabashmolly.com
 0.0.0.0 thinkseducation.com
 0.0.0.0 thinkstrong.org.uk
