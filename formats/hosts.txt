@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.061
 # Release: 061
-# Entries: 44,122
-# Updated: Thu, 02 Mar 23 06:07:23 +06
+# Entries: 44,148
+# Updated: Thu, 02 Mar 23 08:12:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -94,7 +94,9 @@
 0.0.0.0 0i0i0i0.com
 0.0.0.0 0jlkbwkp.com
 0.0.0.0 0l8hris7b3u.ind.in
+0.0.0.0 0min-btc.ru
 0.0.0.0 0museum.ru
+0.0.0.0 0o.sk
 0.0.0.0 0oaqgsk54hm5.com
 0.0.0.0 0pyn37dv3m.com
 0.0.0.0 0redirb.com
@@ -210,6 +212,7 @@
 0.0.0.0 1337torrents.com
 0.0.0.0 1337x.co.za
 0.0.0.0 1337x.fit
+0.0.0.0 1337x.ge
 0.0.0.0 1337x.gr
 0.0.0.0 1337x.it
 0.0.0.0 1337xx.tw
@@ -1260,6 +1263,7 @@
 0.0.0.0 891904ed87.com
 0.0.0.0 89c3bf402f.com
 0.0.0.0 8a90f9d6e4.com
+0.0.0.0 8ae86.com
 0.0.0.0 8b0d63520c.com
 0.0.0.0 8b9714d2f2.413dfe9f11.com
 0.0.0.0 8baf7ae42000024.com
@@ -5592,6 +5596,7 @@
 0.0.0.0 bidverdrd.com
 0.0.0.0 bidverdrs.com
 0.0.0.0 bidvertiser.com
+0.0.0.0 biedronka.sk
 0.0.0.0 bieliddittied.com
 0.0.0.0 biemedia.com
 0.0.0.0 bienlyclatchy.website
@@ -7488,6 +7493,7 @@
 0.0.0.0 chaiwhaukra.com
 0.0.0.0 chakrateahouse.com
 0.0.0.0 chalengeadv.com
+0.0.0.0 chaliyarislandtourism.com
 0.0.0.0 chalkedsuperherorex.com
 0.0.0.0 challasowns.com
 0.0.0.0 challengecircuit.com
@@ -10806,6 +10812,7 @@
 0.0.0.0 dr.unshinykerite.com
 0.0.0.0 dr6.biz
 0.0.0.0 drabalue.life
+0.0.0.0 drabhasharma.com
 0.0.0.0 drabimprovement.com
 0.0.0.0 dradvice.in
 0.0.0.0 draftcarli.com
@@ -14071,6 +14078,7 @@
 0.0.0.0 gaulshiite.life
 0.0.0.0 gaultfamily.co.uk
 0.0.0.0 gaupremob.cf
+0.0.0.0 gauraa.life
 0.0.0.0 gauravfoodcolours.com
 0.0.0.0 gaursay.com
 0.0.0.0 gaused.com
@@ -15257,6 +15265,7 @@
 0.0.0.0 gsinvoice.com
 0.0.0.0 gsiswensaido.xyz
 0.0.0.0 gslpayments.in
+0.0.0.0 gslpl.org
 0.0.0.0 gsniper2.com
 0.0.0.0 gsnyadosl.com
 0.0.0.0 gsponding.buzz
@@ -18688,6 +18697,7 @@
 0.0.0.0 kaizenfit.org
 0.0.0.0 kaizer3d.com
 0.0.0.0 kakazy-yun.com
+0.0.0.0 kakdelausa.online
 0.0.0.0 kalapuri.org
 0.0.0.0 kalauxet.com
 0.0.0.0 kalbanam.com
@@ -19910,6 +19920,7 @@
 0.0.0.0 letsgothreecrowns.org
 0.0.0.0 letsgro.app
 0.0.0.0 letshareus.com
+0.0.0.0 letsmeetatthewell.com
 0.0.0.0 letsmeetatthewell.net
 0.0.0.0 letsplaywaverly.com
 0.0.0.0 letterdowrynewest.com
@@ -20610,6 +20621,7 @@
 0.0.0.0 ludicroussignify.com
 0.0.0.0 luditelife.com
 0.0.0.0 ludmilalorena.com.br
+0.0.0.0 ludo2way.com
 0.0.0.0 ludocsbho.com
 0.0.0.0 ludwigreseise.tech
 0.0.0.0 lueticajuga.com
@@ -21092,6 +21104,7 @@
 0.0.0.0 maritipitons.com
 0.0.0.0 markamedia.nl
 0.0.0.0 markerperceivehick.com
+0.0.0.0 marketbrew.in
 0.0.0.0 marketeamtbwa.com
 0.0.0.0 marketgid.com
 0.0.0.0 marketingabsentremembered.com
@@ -27712,6 +27725,7 @@
 0.0.0.0 quickeddvalidate.com
 0.0.0.0 quickeryes.com
 0.0.0.0 quickieboilingplayground.com
+0.0.0.0 quickjav.com
 0.0.0.0 quickkiinstallmentloans.org
 0.0.0.0 quicklisti.com
 0.0.0.0 quicklyfinancing.com
@@ -29832,6 +29846,7 @@
 0.0.0.0 sconvtrk.com
 0.0.0.0 scooby-dooby-offers.com
 0.0.0.0 scorchidentifiersauce.com
+0.0.0.0 scoreheadingbabysitting.com
 0.0.0.0 scoreyourtalent.in
 0.0.0.0 scornamentum.com
 0.0.0.0 scotcheliza.com
@@ -36819,6 +36834,7 @@
 0.0.0.0 voluumtrk3.com
 0.0.0.0 volvasblam.guru
 0.0.0.0 volyze.com
+0.0.0.0 voncleaning.com
 0.0.0.0 vongquaymienphi.net
 0.0.0.0 vooculok.com
 0.0.0.0 voodoomantis.xyz
@@ -39133,6 +39149,7 @@
 0.0.0.0 www.chadtest2023.com
 0.0.0.0 www.chairmanfreelancetravelling.com
 0.0.0.0 www.chaiseconcierge.com
+0.0.0.0 www.chaliyarislandtourism.com
 0.0.0.0 www.chalkedsuperherorex.com
 0.0.0.0 www.chambersthanweed.com
 0.0.0.0 www.chamomilleoriginal.com
@@ -39589,6 +39606,7 @@
 0.0.0.0 www.downtownpharmacynj.com
 0.0.0.0 www.dpbolvw.net
 0.0.0.0 www.dplck.com
+0.0.0.0 www.drabhasharma.com
 0.0.0.0 www.dragongrinders.com
 0.0.0.0 www.dramechecker.tech
 0.0.0.0 www.drasticreaphero.com
@@ -39764,6 +39782,7 @@
 0.0.0.0 www.experimentalconcerningsuck.com
 0.0.0.0 www.experimentsconscientiousshirt.com
 0.0.0.0 www.explicitweave.com
+0.0.0.0 www.explorationlascivious.com
 0.0.0.0 www.explorecomparison.com
 0.0.0.0 www.explosionpee.com
 0.0.0.0 www.expressalike.com
@@ -39978,6 +39997,7 @@
 0.0.0.0 www.gatetocontent.com
 0.0.0.0 www.gatheringtherealiases.com
 0.0.0.0 www.gathermemorandum.com
+0.0.0.0 www.gauraa.life
 0.0.0.0 www.gaursay.com
 0.0.0.0 www.gauzedisparage.com
 0.0.0.0 www.gbuyonline.com
@@ -40084,6 +40104,7 @@
 0.0.0.0 www.grupif.com
 0.0.0.0 www.grupposervicespa.it
 0.0.0.0 www.gslpayments.in
+0.0.0.0 www.gslpl.org
 0.0.0.0 www.gstsutra.com
 0.0.0.0 www.gtlcgovlg.com
 0.0.0.0 www.gtoonfd.com
@@ -40493,6 +40514,7 @@
 0.0.0.0 www.kaayaloram.com
 0.0.0.0 www.kadochi-iml.com
 0.0.0.0 www.kaiyu.xyz
+0.0.0.0 www.kakdelausa.online
 0.0.0.0 www.kamtaal.com
 0.0.0.0 www.kapooks.com
 0.0.0.0 www.karaoke-list.com
@@ -40632,6 +40654,7 @@
 0.0.0.0 www.lentils.love
 0.0.0.0 www.leoparddisappearcrumble.com
 0.0.0.0 www.letsgro.app
+0.0.0.0 www.letsmeetatthewell.com
 0.0.0.0 www.letsplaywaverly.com
 0.0.0.0 www.letterdowrynewest.com
 0.0.0.0 www.leubsdorf.com
@@ -40707,6 +40730,7 @@
 0.0.0.0 www.luckilygelatine.com
 0.0.0.0 www.luckylk.com
 0.0.0.0 www.luditelife.com
+0.0.0.0 www.ludo2way.com
 0.0.0.0 www.luizabel.com
 0.0.0.0 www.lullnominate.com
 0.0.0.0 www.lullpainlesssurfing.com
@@ -42352,6 +42376,7 @@
 0.0.0.0 www.volcanoimplement.com
 0.0.0.0 www.volkswagenunionville.ca
 0.0.0.0 www.volkswagenunionville.com
+0.0.0.0 www.voncleaning.com
 0.0.0.0 www.vongquaymienphi.net
 0.0.0.0 www.votemoodyexcavate.com
 0.0.0.0 www.vowdistractingbuoyancy.com
@@ -42493,6 +42518,7 @@
 0.0.0.0 www.xmkmuadkefzav.com
 0.0.0.0 www.xn--aufklrungsstunde-znb.de
 0.0.0.0 www.xn--brooksfutcip-8hb33k.com
+0.0.0.0 www.xn--jrry14l.com
 0.0.0.0 www.xn--tv-hk5ia.com
 0.0.0.0 www.xpqh.xyz
 0.0.0.0 www.xsanyewu.org
