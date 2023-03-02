@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.061
 # Release: 061
-# Entries: 44,162
-# Updated: Thu, 02 Mar 23 12:11:59 +06
+# Entries: 44,168
+# Updated: Thu, 02 Mar 23 14:07:53 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7548,6 +7548,7 @@
 0.0.0.0 chartstandards.com
 0.0.0.0 chastepaddlesynthesis.com
 0.0.0.0 chat080.net
+0.0.0.0 chatgptai.asia
 0.0.0.0 chatgptgroup.org
 0.0.0.0 chatheez.net
 0.0.0.0 chattanooganeighborhood.com
@@ -25086,6 +25087,7 @@
 0.0.0.0 panafricanconnect.org
 0.0.0.0 panafricanmaritime.net
 0.0.0.0 panaka.org
+0.0.0.0 panasonicarbo.com
 0.0.0.0 pancakeswap-global.site
 0.0.0.0 panchakarmaequipment.com
 0.0.0.0 panchaxumbilic.com
@@ -33442,6 +33444,7 @@
 0.0.0.0 theseluckydays.com
 0.0.0.0 theshafou.com
 0.0.0.0 theshapingfuture.com
+0.0.0.0 theshrutihaasan.in
 0.0.0.0 theskinspecialistblog.com
 0.0.0.0 thesockdesigner.com
 0.0.0.0 thesoundmoneypodcast.com
@@ -33942,6 +33945,7 @@
 0.0.0.0 tokmein.com
 0.0.0.0 tokofyttes.com
 0.0.0.0 tokoshaykh.life
+0.0.0.0 tokyo-fuuzoku.info
 0.0.0.0 tokyoredcirce.com
 0.0.0.0 tokyoshido.com
 0.0.0.0 toledoceramiccoating.com
@@ -36813,6 +36817,7 @@
 0.0.0.0 voicebeddingtaint.com
 0.0.0.0 voicegiddiness.com
 0.0.0.0 voices-kerence.com
+0.0.0.0 voicesofexceptionalwomen.org
 0.0.0.0 voicesofmoms.org
 0.0.0.0 voicesofsiblings.org
 0.0.0.0 voicevj.com
@@ -42169,6 +42174,7 @@
 0.0.0.0 www.toinstagram.com
 0.0.0.0 www.token-pay.net
 0.0.0.0 www.tokenvolatilebreaker.com
+0.0.0.0 www.tokyo-fuuzoku.info
 0.0.0.0 www.tommccubbin.net
 0.0.0.0 www.tommydearlyeffectually.com
 0.0.0.0 www.tomoprecision.com
