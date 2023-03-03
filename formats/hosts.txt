@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.062
 # Release: 062
-# Entries: 44,453
-# Updated: Fri, 03 Mar 23 12:11:10 +06
+# Entries: 44,454
+# Updated: Fri, 03 Mar 23 14:08:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -40411,6 +40411,7 @@
 0.0.0.0 www.harsik.am
 0.0.0.0 www.hasteflourishing.com
 0.0.0.0 www.hauntingfascinating.com
+0.0.0.0 www.hayal.enterprises
 0.0.0.0 www.hazeoxcoherence.com
 0.0.0.0 www.hc192.com
 0.0.0.0 www.hcmzj.com
