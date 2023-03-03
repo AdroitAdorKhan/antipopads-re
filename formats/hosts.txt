@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.062
 # Release: 062
-# Entries: 44,521
-# Updated: Fri, 03 Mar 23 16:09:57 +06
+# Entries: 44,531
+# Updated: Fri, 03 Mar 23 18:07:38 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16298,6 +16298,7 @@
 0.0.0.0 hl.stunkmuran.com
 0.0.0.0 hl365hl.com
 0.0.0.0 hl5.club
+0.0.0.0 hlaki.com
 0.0.0.0 hldjgfveifgfhe.top
 0.0.0.0 hledoziequt.com
 0.0.0.0 hlj.one
@@ -21335,6 +21336,10 @@
 0.0.0.0 mashreqdev.com
 0.0.0.0 mashrika.net
 0.0.0.0 masjidqudwah.com
+0.0.0.0 maskesys.asia
+0.0.0.0 maskesys.com
+0.0.0.0 maskesys.org
+0.0.0.0 maskesys.tech
 0.0.0.0 masklink.org
 0.0.0.0 masonercorking.com
 0.0.0.0 masontotally.com
@@ -31650,6 +31655,7 @@
 0.0.0.0 sparsh.info
 0.0.0.0 sparshacademy.com
 0.0.0.0 sparta-tracking.xyz
+0.0.0.0 spartanpokertour.net
 0.0.0.0 sparto.in
 0.0.0.0 spatesbloke.com
 0.0.0.0 spathefesting.com
@@ -32018,6 +32024,7 @@
 0.0.0.0 states-trust.org
 0.0.0.0 static.1push.io
 0.0.0.0 stationeryshapeless.com
+0.0.0.0 statistcdn.com
 0.0.0.0 statisticsdemandeddeficit.com
 0.0.0.0 stats-collector.org
 0.0.0.0 statsforads.com
@@ -36408,6 +36415,7 @@
 0.0.0.0 valvyre.com
 0.0.0.0 vamseeds.com
 0.0.0.0 vamsoupowoa.com
+0.0.0.0 vandanabharatgas.com
 0.0.0.0 vandebharatam.com
 0.0.0.0 vanderebony.pro
 0.0.0.0 vanderlisten.pro
@@ -42240,6 +42248,7 @@
 0.0.0.0 www.spadeballroom.com
 0.0.0.0 www.spannercopyright.com
 0.0.0.0 www.spareindexes.com
+0.0.0.0 www.spartanpokertour.net
 0.0.0.0 www.spatterjointposition.com
 0.0.0.0 www.speakspurink.com
 0.0.0.0 www.specialityharmoniousgypsy.com
@@ -42676,6 +42685,7 @@
 0.0.0.0 www.valuationbothertoo.com
 0.0.0.0 www.valuerlaserlax.com
 0.0.0.0 www.valuersghar.com
+0.0.0.0 www.vandanabharatgas.com
 0.0.0.0 www.vant39f18d26.xyz
 0.0.0.0 www.variationaspenjaunty.com
 0.0.0.0 www.varnerfarms.net
