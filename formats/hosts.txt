@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.063
 # Release: 063
-# Entries: 44,595
-# Updated: Sat, 04 Mar 23 02:07:35 +06
+# Entries: 44,600
+# Updated: Sat, 04 Mar 23 04:15:39 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -460,6 +460,7 @@
 0.0.0.0 22domainforwork22.com
 0.0.0.0 22dxdx.info
 0.0.0.0 22filexstarted22.com
+0.0.0.0 22gy.cc
 0.0.0.0 22k.im
 0.0.0.0 22lmsi1t5.de
 0.0.0.0 22pay.net
@@ -477,6 +478,7 @@
 0.0.0.0 23ark.org
 0.0.0.0 23ark.pro
 0.0.0.0 23bd96f59c.a9e8387c9e.com
+0.0.0.0 23ben.com
 0.0.0.0 23btc.io
 0.0.0.0 23btc.net
 0.0.0.0 23btc.pro
@@ -1422,6 +1424,7 @@
 0.0.0.0 9animetv.vc
 0.0.0.0 9asbdhjaksd99.monster
 0.0.0.0 9b4147022d.fa3f0c1e3f.com
+0.0.0.0 9btc.club
 0.0.0.0 9c35c48e30.com
 0.0.0.0 9c40a04e9732e6a6.com
 0.0.0.0 9cbj41a5.de
@@ -12992,6 +12995,7 @@
 0.0.0.0 fermentwavesir.com
 0.0.0.0 fermolo.info
 0.0.0.0 feroffer.com
+0.0.0.0 feromal.com
 0.0.0.0 ferrarisale.online
 0.0.0.0 ferritediener.tech
 0.0.0.0 fertilecrameaster.com
@@ -39878,6 +39882,7 @@
 0.0.0.0 www.devoidmoderateale.com
 0.0.0.0 www.dezzobranding.co.za
 0.0.0.0 www.dfqcf.com
+0.0.0.0 www.di-rectlink.com
 0.0.0.0 www.diagramangelamount.com
 0.0.0.0 www.dialoguemarvellouswound.com
 0.0.0.0 www.diamondkcompany.com
