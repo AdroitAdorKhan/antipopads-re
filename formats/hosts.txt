@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.062
 # Release: 062
-# Entries: 44,531
-# Updated: Fri, 03 Mar 23 18:07:38 +06
+# Entries: 44,541
+# Updated: Fri, 03 Mar 23 20:16:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -439,6 +439,7 @@
 0.0.0.0 20tracks.com
 0.0.0.0 212cables.com
 0.0.0.0 2137dc12f9d8.com
+0.0.0.0 215-15-15.ru
 0.0.0.0 2158novffp.com
 0.0.0.0 21961b67bb.2b26a9e96e.com
 0.0.0.0 21ad.in
@@ -1349,6 +1350,7 @@
 0.0.0.0 91dewa.net
 0.0.0.0 91dewa.org
 0.0.0.0 91yy9.com
+0.0.0.0 920127978.world
 0.0.0.0 922331597f.92245a1d7e.com
 0.0.0.0 92f77b89a1b2df1b539ff2772282e19b.com
 0.0.0.0 92index.com
@@ -1367,6 +1369,7 @@
 0.0.0.0 95ppq87g.de
 0.0.0.0 96302.ma
 0.0.0.0 9662650.com
+0.0.0.0 967e12c74c.com
 0.0.0.0 96a8b5ac22.com
 0.0.0.0 96b08b4df8.com
 0.0.0.0 96cd.net
@@ -6297,6 +6300,7 @@
 0.0.0.0 boyalebut.site
 0.0.0.0 boyfriendbusters.com
 0.0.0.0 boygcranage.com
+0.0.0.0 boyishdetrimental.com
 0.0.0.0 boymeetsvoid.com
 0.0.0.0 boysofsummerhockey.com
 0.0.0.0 boyughaye.com
@@ -16189,6 +16193,7 @@
 0.0.0.0 highreachinvestments.org
 0.0.0.0 highrevenuecpm.com
 0.0.0.0 highrevenuecpmnetwork.com
+0.0.0.0 highrevenuegate.com
 0.0.0.0 hightopnews.com
 0.0.0.0 hightopnewstoday.com
 0.0.0.0 highwalker.in
@@ -17096,6 +17101,7 @@
 0.0.0.0 iidmushsthrvm.com
 0.0.0.0 iifvcfwiqi.com
 0.0.0.0 iingsinspiring.com
+0.0.0.0 iio5tja01w3w.com
 0.0.0.0 iirkvwtjowaw.com
 0.0.0.0 iirwyywcawx.top
 0.0.0.0 iiscevjtya.com
@@ -27171,6 +27177,7 @@
 0.0.0.0 protovid.com
 0.0.0.0 proumb.org
 0.0.0.0 provenzabeauty.com.co
+0.0.0.0 proverbnoncommittalvault.com
 0.0.0.0 provers.pro
 0.0.0.0 provge.it
 0.0.0.0 providecarebe.top
@@ -28788,6 +28795,7 @@
 0.0.0.0 resultlinks.com
 0.0.0.0 resultsz.com
 0.0.0.0 resultulterior.com
+0.0.0.0 resumeconcurrence.com
 0.0.0.0 resumedelayed.com
 0.0.0.0 resurgamcorp.com
 0.0.0.0 resurnommions.xyz
@@ -29794,6 +29802,7 @@
 0.0.0.0 salloohoelike.website
 0.0.0.0 sallyfundamental.com
 0.0.0.0 salomonaustralia.net
+0.0.0.0 salon24.in
 0.0.0.0 salon526.com
 0.0.0.0 salonfortuna.com
 0.0.0.0 salonsepeti.com
@@ -40530,6 +40539,7 @@
 0.0.0.0 www.highperformancedformats.com
 0.0.0.0 www.highreachinvestments.org
 0.0.0.0 www.highrevenuecpmnetwork.com
+0.0.0.0 www.highrevenuegate.com
 0.0.0.0 www.hikimate.com
 0.0.0.0 www.hilarion-lar.com
 0.0.0.0 www.hirebath.com
