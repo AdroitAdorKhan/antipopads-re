@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.062
 # Release: 062
-# Entries: 44,450
-# Updated: Fri, 03 Mar 23 10:07:19 +06
+# Entries: 44,453
+# Updated: Fri, 03 Mar 23 12:11:10 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -18846,6 +18846,7 @@
 0.0.0.0 kantarmedia.com
 0.0.0.0 kantemo.com
 0.0.0.0 kantiwl.com
+0.0.0.0 kanzy3.com
 0.0.0.0 kaonsjiggle.website
 0.0.0.0 kapadwanj-jain-vishanima.org
 0.0.0.0 kapishenterprise.in
@@ -40228,6 +40229,7 @@
 0.0.0.0 www.funnyvacant.com
 0.0.0.0 www.funvacayflorida.com
 0.0.0.0 www.furnishedbuilding.com
+0.0.0.0 www.furrowguests.com
 0.0.0.0 www.fusionwishful.com
 0.0.0.0 www.g0td0main.com
 0.0.0.0 www.g6h165y6.online
@@ -42140,6 +42142,7 @@
 0.0.0.0 www.smartwoodmilling.com
 0.0.0.0 www.smics.org
 0.0.0.0 www.smilingdefectcue.com
+0.0.0.0 www.smpn1sleman.net
 0.0.0.0 www.snaji08.com
 0.0.0.0 www.snapmedglobal.com
 0.0.0.0 www.snapmedspeech.com
