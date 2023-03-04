@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.063
 # Release: 063
-# Entries: 44,678
-# Updated: Sat, 04 Mar 23 12:09:28 +06
+# Entries: 44,686
+# Updated: Sat, 04 Mar 23 14:08:43 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -813,6 +813,7 @@
 0.0.0.0 45cam.com
 0.0.0.0 45efcfcfdf.004809f9da.com
 0.0.0.0 45eijvhgj2.com
+0.0.0.0 4623.ru
 0.0.0.0 465713.com
 0.0.0.0 4690y10pvpq8.com
 0.0.0.0 46f33ab625.b97482f4b9.com
@@ -839,6 +840,7 @@
 0.0.0.0 4armn.com
 0.0.0.0 4b0a9614-3875-42c6-82db-4e755666a31a.www.acessoriosparablogs.com.br
 0.0.0.0 4b6994dfa47cee4.com
+0.0.0.0 4ba177cb2b.com
 0.0.0.0 4bb6jls06l.com
 0.0.0.0 4broomandbrush.zone
 0.0.0.0 4c3aedd8d1.2d32e2d54e.com
@@ -1408,6 +1410,7 @@
 0.0.0.0 99riav16.com
 0.0.0.0 99riav17.com
 0.0.0.0 99riav18.com
+0.0.0.0 99riav19.com
 0.0.0.0 99riav46.com
 0.0.0.0 99riav90.com
 0.0.0.0 99riav93.com
@@ -1522,6 +1525,7 @@
 0.0.0.0 aa1144.com
 0.0.0.0 aa1411.com
 0.0.0.0 aa53df329975c325.com
+0.0.0.0 aa678.cc
 0.0.0.0 aa7aaa451a.7b3937119b.com
 0.0.0.0 aaaaaco.com
 0.0.0.0 aab-check.me
@@ -2722,11 +2726,13 @@
 0.0.0.0 agriculturealso.com
 0.0.0.0 agrigh.com
 0.0.0.0 agriscan.org
+0.0.0.0 agrithon.in
 0.0.0.0 agrivetca.com
 0.0.0.0 agriyantra.in
 0.0.0.0 agrobetter.com
 0.0.0.0 agrothat.com
 0.0.0.0 agrothis.com
+0.0.0.0 agrothon.in
 0.0.0.0 agrothoo.net
 0.0.0.0 agsgovsat.com
 0.0.0.0 agsgupei.top
@@ -4563,6 +4569,7 @@
 0.0.0.0 avonsour.com
 0.0.0.0 avppuqrudc.com
 0.0.0.0 avroilandgas.org
+0.0.0.0 avsupermarket.com
 0.0.0.0 avt555.com
 0.0.0.0 avtb178.com
 0.0.0.0 avtb179.com
@@ -38830,6 +38837,7 @@
 0.0.0.0 www.5hgvasd5523.monster
 0.0.0.0 www.5jhsbdjfsdf5.monster
 0.0.0.0 www.5jshdfjsdf5.monster
+0.0.0.0 www.5nw5rms.cn
 0.0.0.0 www.5sj63.com
 0.0.0.0 www.5spotband.com
 0.0.0.0 www.5thpillar.org
