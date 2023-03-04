@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.063
 # Release: 063
-# Entries: 44,674
-# Updated: Sat, 04 Mar 23 10:07:50 +06
+# Entries: 44,678
+# Updated: Sat, 04 Mar 23 12:09:28 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11003,6 +11003,7 @@
 0.0.0.0 drizzlerules.com
 0.0.0.0 drjgjngf.com
 0.0.0.0 drjohnsantoro.com
+0.0.0.0 drkamangar.com
 0.0.0.0 drkness.net
 0.0.0.0 drmariyamontessori.org
 0.0.0.0 drogog.com
@@ -40685,6 +40686,7 @@
 0.0.0.0 www.horsesafaris.in
 0.0.0.0 www.hosenewspapersdepths.com
 0.0.0.0 www.hostaric.live
+0.0.0.0 www.hostelsansar.com
 0.0.0.0 www.hostinggrizzly.com
 0.0.0.0 www.hotchanson.com
 0.0.0.0 www.hotelbowfeast.com
@@ -41311,6 +41313,7 @@
 0.0.0.0 www.mi1a8a.life
 0.0.0.0 www.michalgav.com
 0.0.0.0 www.michellestorment.com
+0.0.0.0 www.microbluelabs.com
 0.0.0.0 www.microscopeshake.com
 0.0.0.0 www.middaysonnyguffaw.com
 0.0.0.0 www.middleagedbabysitting.com
@@ -42266,6 +42269,7 @@
 0.0.0.0 www.sheflewthecoop.com
 0.0.0.0 www.shelvesdeserve.com
 0.0.0.0 www.shelvesragged.com
+0.0.0.0 www.shemelex.com
 0.0.0.0 www.shieldthanks.com
 0.0.0.0 www.shiftdimplelocum.com
 0.0.0.0 www.shineabnormalstranded.com
