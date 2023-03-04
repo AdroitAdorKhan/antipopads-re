@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.064
 # Release: 064
-# Entries: 44,871
-# Updated: Sun, 05 Mar 23 02:07:22 +06
+# Entries: 44,878
+# Updated: Sun, 05 Mar 23 04:13:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -543,6 +543,7 @@
 0.0.0.0 2a0fh9.tw
 0.0.0.0 2a21783584.2408987111.com
 0.0.0.0 2a2k3aom6.de
+0.0.0.0 2a82160fdd.com
 0.0.0.0 2ab17b21a6.29bb50a69c.com
 0.0.0.0 2aefgbf.de
 0.0.0.0 2ahgsvhdasd23.monster
@@ -667,6 +668,7 @@
 0.0.0.0 3311ea9719.com
 0.0.0.0 331377d.com
 0.0.0.0 331hwh.com
+0.0.0.0 3331112.me
 0.0.0.0 3333252.com
 0.0.0.0 3337126.com
 0.0.0.0 3338635.com
@@ -1098,6 +1100,7 @@
 0.0.0.0 6bc4bde2a7.com
 0.0.0.0 6bgaput9ullc.com
 0.0.0.0 6d79qh7j.com
+0.0.0.0 6d9aa95eed.com
 0.0.0.0 6dhbfjdfg6.monster
 0.0.0.0 6e0e809d76.c6ba032a28.com
 0.0.0.0 6f2tjr26.top
@@ -7407,6 +7410,7 @@
 0.0.0.0 cdn.winr4all.com
 0.0.0.0 cdn29-okzy.com
 0.0.0.0 cdn2reference.com
+0.0.0.0 cdn3.info
 0.0.0.0 cdn4ads.com
 0.0.0.0 cdn7.network
 0.0.0.0 cdn7.rocks
@@ -8595,6 +8599,7 @@
 0.0.0.0 commitamulet.com
 0.0.0.0 common-lawaustralia.net.au
 0.0.0.0 commonvivacious.com
+0.0.0.0 comonedrive.com
 0.0.0.0 compactyunker.com
 0.0.0.0 companystupid.org
 0.0.0.0 comparativelygooseavalanche.com
@@ -13351,6 +13356,7 @@
 0.0.0.0 fiscalschassed.life
 0.0.0.0 fish-and-elver-pass.uk
 0.0.0.0 fishantibiotics.co.uk
+0.0.0.0 fishermanslush.com
 0.0.0.0 fishinspire.com
 0.0.0.0 fishkekcamp.com
 0.0.0.0 fishpassportvocational.com
@@ -25816,6 +25822,7 @@
 0.0.0.0 pehggpevmabpes.top
 0.0.0.0 pehixephe.com
 0.0.0.0 pehsc.net
+0.0.0.0 peiprojects.com
 0.0.0.0 peiqianjichang.com
 0.0.0.0 peirs5tbakchios.com
 0.0.0.0 peitents.com
