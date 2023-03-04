@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.064
 # Release: 064
-# Entries: 44,856
-# Updated: Sun, 05 Mar 23 00:10:35 +06
+# Entries: 44,871
+# Updated: Sun, 05 Mar 23 02:07:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7889,6 +7889,7 @@
 0.0.0.0 chshcms.net
 0.0.0.0 chsrkred.com
 0.0.0.0 chtntr.com
+0.0.0.0 chuangyi1.com
 0.0.0.0 chuankunkangjian.com
 0.0.0.0 chuary.com
 0.0.0.0 chuckledinadmissible.com
@@ -9268,6 +9269,7 @@
 0.0.0.0 cryparena.org
 0.0.0.0 crypto2x.io
 0.0.0.0 cryptocexchange.online
+0.0.0.0 cryptofutureguide.com
 0.0.0.0 cryptogramwines.org
 0.0.0.0 cryptographicweb.org
 0.0.0.0 cryptokia.app
@@ -9872,6 +9874,7 @@
 0.0.0.0 debeigecraver.live
 0.0.0.0 debestesupfietsen.com
 0.0.0.0 debitswiping.com
+0.0.0.0 debtreliefl.com
 0.0.0.0 debtsprocedures.com
 0.0.0.0 debutedhogward.com
 0.0.0.0 dec5c7295d.47daeb1eac.com
@@ -14477,6 +14480,7 @@
 0.0.0.0 getit.am
 0.0.0.0 getmari.com
 0.0.0.0 getmyads.com
+0.0.0.0 getnewnaukri.com
 0.0.0.0 getnewsfirst.com
 0.0.0.0 getnextstellis.com
 0.0.0.0 getnotix.co
@@ -16329,6 +16333,7 @@
 0.0.0.0 hildr-zah.com
 0.0.0.0 hildry.com
 0.0.0.0 hilfreichmail.de
+0.0.0.0 hill-fam.net
 0.0.0.0 hillbillyawakening.net
 0.0.0.0 hilltopads.com
 0.0.0.0 hilltopgo.com
@@ -22226,6 +22231,7 @@
 0.0.0.0 ml.sepsesbis.com
 0.0.0.0 ml0z14azlflr.com
 0.0.0.0 ml314.com
+0.0.0.0 mlab-group.fr
 0.0.0.0 mladvertistsldah.com.ua
 0.0.0.0 mlbrooklin.site
 0.0.0.0 mlmfsxrhbsnjccd.xyz
@@ -27257,6 +27263,7 @@
 0.0.0.0 programwrest.com
 0.0.0.0 progressproceeding.com
 0.0.0.0 prohealth.today
+0.0.0.0 proidealuser.com
 0.0.0.0 project-rester.tech
 0.0.0.0 project-sharing.com
 0.0.0.0 projectagora.net
@@ -39747,6 +39754,7 @@
 0.0.0.0 www.choruscompanion.com
 0.0.0.0 www.chriscracksthecode.com
 0.0.0.0 www.christiangirlsstrive.com
+0.0.0.0 www.chuangyi1.com
 0.0.0.0 www.chuankunkangjian.com
 0.0.0.0 www.churchalexis.com
 0.0.0.0 www.churchillalmighty.com
@@ -39955,6 +39963,7 @@
 0.0.0.0 www.crumbtypewriterhome.com
 0.0.0.0 www.crummybuckprince.com
 0.0.0.0 www.crypto-octagon.site
+0.0.0.0 www.cryptofutureguide.com
 0.0.0.0 www.cryptolitetron.website
 0.0.0.0 www.cryptomod.tech
 0.0.0.0 www.crystalheart.club
@@ -40016,6 +40025,7 @@
 0.0.0.0 www.dealingdisarrayanniversary.com
 0.0.0.0 www.dealingincrease.com
 0.0.0.0 www.debateit.net
+0.0.0.0 www.debtreliefl.com
 0.0.0.0 www.debtsprocedures.com
 0.0.0.0 www.decadeteachingrating.com
 0.0.0.0 www.decentpatent.com
@@ -40608,6 +40618,7 @@
 0.0.0.0 www.getcgdtested.com
 0.0.0.0 www.getclassification.com
 0.0.0.0 www.gethere3fat3r.com
+0.0.0.0 www.getnewnaukri.com
 0.0.0.0 www.getnextstellis.com
 0.0.0.0 www.getsurv2you.com
 0.0.0.0 www.gettingstratdomains.com
@@ -40803,6 +40814,7 @@
 0.0.0.0 www.highrevenuegate.com
 0.0.0.0 www.hikimate.com
 0.0.0.0 www.hilarion-lar.com
+0.0.0.0 www.hill-fam.net
 0.0.0.0 www.hirebath.com
 0.0.0.0 www.hiretech.jobs
 0.0.0.0 www.historicalcarawayammonia.com
@@ -41489,6 +41501,7 @@
 0.0.0.0 www.misunderstandlivelinessgargle.com
 0.0.0.0 www.mjbpab.com
 0.0.0.0 www.mjsq9.com
+0.0.0.0 www.mlab-group.fr
 0.0.0.0 www.mlslawmo.com
 0.0.0.0 www.mm380av.com
 0.0.0.0 www.mmngqvbfuzenlk.com
@@ -42034,6 +42047,7 @@
 0.0.0.0 www.programmingpastimepeep.com
 0.0.0.0 www.programwrest.com
 0.0.0.0 www.prohealth.today
+0.0.0.0 www.proidealuser.com
 0.0.0.0 www.projectsbarefootedcompensate.com
 0.0.0.0 www.projetoalpha.site
 0.0.0.0 www.projetodelta.site
@@ -43042,6 +43056,7 @@
 0.0.0.0 www.vishaldurafe.com
 0.0.0.0 www.visibilitymondaydisappeared.com
 0.0.0.0 www.visitmightyethnic.com
+0.0.0.0 www.visittopokhara.com
 0.0.0.0 www.vivi-enterprises.com
 0.0.0.0 www.vjlondonphotography.com
 0.0.0.0 www.vkrforktv.ml
