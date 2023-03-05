@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.065
 # Release: 065
-# Entries: 45,043
-# Updated: Mon, 06 Mar 23 02:07:32 +06
+# Entries: 45,054
+# Updated: Mon, 06 Mar 23 04:14:27 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -79,6 +79,7 @@
 0.0.0.0 0a8d87mlbcac.top
 0.0.0.0 0a9f0fde99.3bcd202415.com
 0.0.0.0 0askdals10x.monster
+0.0.0.0 0ay123.art
 0.0.0.0 0azx1.com
 0.0.0.0 0b9d3793b7.5c8ac0803b.com
 0.0.0.0 0byv9mgbn0.com
@@ -661,6 +662,7 @@
 0.0.0.0 3174dad139.com
 0.0.0.0 321fefx.com
 0.0.0.0 321naturelikefurfuroid.com
+0.0.0.0 321yyq.com
 0.0.0.0 3221dkf7m2.com
 0.0.0.0 322d26d6b8.7c33690bea.com
 0.0.0.0 326860daef.com
@@ -709,6 +711,7 @@
 0.0.0.0 366xsw.com
 0.0.0.0 369hezi.com
 0.0.0.0 36io.co
+0.0.0.0 3760k.com
 0.0.0.0 3761fcd24ef9281f5.com
 0.0.0.0 3782588.com
 0.0.0.0 37fq.com
@@ -938,6 +941,7 @@
 0.0.0.0 525lincallston.com
 0.0.0.0 5261.ma
 0.0.0.0 52cjg4.xyz
+0.0.0.0 52pojie.cm
 0.0.0.0 52wanyue.com
 0.0.0.0 532xcxypmpnp.com
 0.0.0.0 53baefdba7.5da55619e0.com
@@ -1089,6 +1093,7 @@
 0.0.0.0 6868.site
 0.0.0.0 688de7b3822de.com
 0.0.0.0 694.sx
+0.0.0.0 69512309f2.com
 0.0.0.0 69964xxx.com
 0.0.0.0 699su.com
 0.0.0.0 69fuqi4.com
@@ -1248,6 +1253,7 @@
 0.0.0.0 7lyonline.com
 0.0.0.0 7me0ssd6.de
 0.0.0.0 7mmtv.top
+0.0.0.0 7moverulz.es
 0.0.0.0 7movierulz.mg
 0.0.0.0 7o7.co
 0.0.0.0 7oc5b1i3v4iu.top
@@ -1350,6 +1356,7 @@
 0.0.0.0 8ume.com
 0.0.0.0 8vdx.com
 0.0.0.0 8wtkfxiss1o2.com
+0.0.0.0 8wutv.cn
 0.0.0.0 8x2658x.com
 0.0.0.0 8x308x.com
 0.0.0.0 8xhb.com
@@ -1385,6 +1392,7 @@
 0.0.0.0 95a940f600.136dd8678f.com
 0.0.0.0 95p5qep4aq.com
 0.0.0.0 95ppq87g.de
+0.0.0.0 961bff9688.com
 0.0.0.0 96302.ma
 0.0.0.0 9662650.com
 0.0.0.0 967e12c74c.com
@@ -1418,6 +1426,7 @@
 0.0.0.0 99mitao.net
 0.0.0.0 99redian.net
 0.0.0.0 99riav100.com
+0.0.0.0 99riav13.com
 0.0.0.0 99riav14.com
 0.0.0.0 99riav150.com
 0.0.0.0 99riav155.com
@@ -34852,6 +34861,7 @@
 0.0.0.0 tower68financial.com
 0.0.0.0 tower68wealth.com
 0.0.0.0 towerazurit.com
+0.0.0.0 towercontentdelivery.com
 0.0.0.0 towermud.com
 0.0.0.0 towerneom.com
 0.0.0.0 towerpro-ksa.com
@@ -38356,6 +38366,7 @@
 0.0.0.0 whorlsdsri.store
 0.0.0.0 whos.amung.us
 0.0.0.0 whosailedbe.xyz
+0.0.0.0 whosthat.mobi
 0.0.0.0 whoumtip.xyz
 0.0.0.0 whourgie.com
 0.0.0.0 whoursie.com
