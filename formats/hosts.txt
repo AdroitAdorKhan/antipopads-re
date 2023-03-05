@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.064
 # Release: 064
-# Entries: 44,979
-# Updated: Sun, 05 Mar 23 20:13:28 +06
+# Entries: 44,992
+# Updated: Sun, 05 Mar 23 22:08:07 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15906,6 +15906,7 @@
 0.0.0.0 harsik.am
 0.0.0.0 hartalltunker.com
 0.0.0.0 harvesttheory.com
+0.0.0.0 harvice.net
 0.0.0.0 hasdrs.com
 0.0.0.0 hash-hash-tag.com
 0.0.0.0 hashishfot.com
@@ -20420,6 +20421,7 @@
 0.0.0.0 ligatus.com
 0.0.0.0 ligeia-gip.com
 0.0.0.0 ligero.uk
+0.0.0.0 lightad.com
 0.0.0.0 lighter.business
 0.0.0.0 lighter.consulting
 0.0.0.0 lighter.services
@@ -22875,6 +22877,7 @@
 0.0.0.0 mwoukrkskills.xyz
 0.0.0.0 mwprotected.com
 0.0.0.0 mwquick.com
+0.0.0.0 mwtraff.mobi
 0.0.0.0 mwwfnfdunhc.com
 0.0.0.0 mx-front9.com
 0.0.0.0 mxkfraxfrtgsj.com
@@ -24957,6 +24960,7 @@
 0.0.0.0 oralmaliciousmonday.com
 0.0.0.0 oralsinananindeua.com.br
 0.0.0.0 oranegfodnd.com
+0.0.0.0 orangeclickmedia.com
 0.0.0.0 orangecoastsolar.com
 0.0.0.0 oransfuels.live
 0.0.0.0 oraporn.com
@@ -27903,6 +27907,7 @@
 0.0.0.0 px.whoopersavour.com
 0.0.0.0 px1alsry.com
 0.0.0.0 px3792.com
+0.0.0.0 pxblmj.com
 0.0.0.0 pxfijsga.com
 0.0.0.0 pxl.reklamselfie.com
 0.0.0.0 pxl2015x1.com
@@ -31347,6 +31352,7 @@
 0.0.0.0 sitreleastme.info
 0.0.0.0 sittingfoot.com
 0.0.0.0 situatebullied.com
+0.0.0.0 siwifis.net
 0.0.0.0 sixcolorshair.com
 0.0.0.0 sixft-apart.com
 0.0.0.0 sixminutes.biz
@@ -39569,6 +39575,7 @@
 0.0.0.0 www.bezlya.uk
 0.0.0.0 www.bhagwatidevisharma.org
 0.0.0.0 www.bhntnfj.com
+0.0.0.0 www.bibleols.org
 0.0.0.0 www.bicyclelistworst.com
 0.0.0.0 www.bidderads.com
 0.0.0.0 www.biddingquarrel.com
@@ -40854,6 +40861,7 @@
 0.0.0.0 www.harmoniouspacific.com
 0.0.0.0 www.harshlygiraffediscover.com
 0.0.0.0 www.harsik.am
+0.0.0.0 www.harvice.net
 0.0.0.0 www.hasteflourishing.com
 0.0.0.0 www.hauntingfascinating.com
 0.0.0.0 www.hayal.enterprises
@@ -41670,6 +41678,7 @@
 0.0.0.0 www.musselchangeableskier.com
 0.0.0.0 www.muzzleabbot.com
 0.0.0.0 www.mv8.app
+0.0.0.0 www.mwtraff.mobi
 0.0.0.0 www.mxkfraxfrtgsj.com
 0.0.0.0 www.my1699.com
 0.0.0.0 www.my77734.com
@@ -42205,6 +42214,7 @@
 0.0.0.0 www.pushdistilleries.com
 0.0.0.0 www.putkibg.com
 0.0.0.0 www.puzzlementangrily.com
+0.0.0.0 www.pxblmj.com
 0.0.0.0 www.pypkrvtepsha.com
 0.0.0.0 www.pyvqoaoeeen.com
 0.0.0.0 www.qataries.net
@@ -42600,6 +42610,7 @@
 0.0.0.0 www.sirudhaaniyafoods.com
 0.0.0.0 www.sistercomb.com
 0.0.0.0 www.sitiosaojorge.com.br
+0.0.0.0 www.siwifis.net
 0.0.0.0 www.sixteenevolutioninfant.com
 0.0.0.0 www.sixth-energy.com
 0.0.0.0 www.size884.com
@@ -43302,6 +43313,7 @@
 0.0.0.0 www.wwwfwsgroup.com
 0.0.0.0 www.wwwhebiyukou.com
 0.0.0.0 www.wwwogtoon.com
+0.0.0.0 www.wwwpokec.sk
 0.0.0.0 www.wwwxcs1888.com
 0.0.0.0 www.wyningway.com
 0.0.0.0 www.wyrdwizard.com
@@ -43415,6 +43427,7 @@
 0.0.0.0 wwwnewcumnock.net
 0.0.0.0 wwwogtoon.com
 0.0.0.0 wwwowww.xyz
+0.0.0.0 wwwpokec.sk
 0.0.0.0 wwwpromoter.com
 0.0.0.0 wwwquailcreekrepublicans.com
 0.0.0.0 wwww.afcyhf.com
