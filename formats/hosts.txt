@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.064
 # Release: 064
-# Entries: 44,969
-# Updated: Sun, 05 Mar 23 16:09:36 +06
+# Entries: 44,970
+# Updated: Sun, 05 Mar 23 18:07:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -39312,6 +39312,7 @@
 0.0.0.0 www.anspeechless.com
 0.0.0.0 www.anteroomcrap.com
 0.0.0.0 www.antibioticborough.com
+0.0.0.0 www.anticipationunexpected.com
 0.0.0.0 www.antio-nar.com
 0.0.0.0 www.antiquariangerm.com
 0.0.0.0 www.antiquelongcaseclocks.com
