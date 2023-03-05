@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.064
 # Release: 064
-# Entries: 44,878
-# Updated: Sun, 05 Mar 23 04:13:21 +06
+# Entries: 44,881
+# Updated: Sun, 05 Mar 23 06:07:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14996,6 +14996,7 @@
 0.0.0.0 godrej-nexus-pimpripune.co.in
 0.0.0.0 godrej-pimpri-pune-nexus.co.in
 0.0.0.0 godrej-pimpripunenexus.co.in
+0.0.0.0 godrej-properties-kolshet-road.in
 0.0.0.0 godrej-vibeatnoida.com
 0.0.0.0 godrejambivaliriviera.net
 0.0.0.0 godrejcrest-at-horizon.net
@@ -19781,6 +19782,7 @@
 0.0.0.0 labgypsy.com
 0.0.0.0 labhanshi.in
 0.0.0.0 lablyjtnum.com
+0.0.0.0 laboratorio.com.co
 0.0.0.0 labortiontrifee.com
 0.0.0.0 labourerindicator.com
 0.0.0.0 labourmuttering.com
@@ -29706,6 +29708,7 @@
 0.0.0.0 rudimentarynuisancesynchronize.com
 0.0.0.0 rudraconstructioncompany.com
 0.0.0.0 rudrahealthcareinfra.com
+0.0.0.0 rudzz.com
 0.0.0.0 rufadses.net
 0.0.0.0 rufflycouncil.com
 0.0.0.0 ruffstemmer.casa
