@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.064
 # Release: 064
-# Entries: 44,883
-# Updated: Sun, 05 Mar 23 08:10:20 +06
+# Entries: 44,888
+# Updated: Sun, 05 Mar 23 10:07:13 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14850,6 +14850,7 @@
 0.0.0.0 gloxeept.com
 0.0.0.0 glpctwalwq.com
 0.0.0.0 glssp.net
+0.0.0.0 glubo.org
 0.0.0.0 glufoksy.com
 0.0.0.0 glugherg.net
 0.0.0.0 glugreez.com
@@ -32164,6 +32165,7 @@
 0.0.0.0 st.capreolprlate.com
 0.0.0.0 st.naiviteusuress.com
 0.0.0.0 st.razzpetered.com
+0.0.0.0 st6y.com
 0.0.0.0 staaqwe.com
 0.0.0.0 staarnest.in
 0.0.0.0 stabam.com
@@ -40661,6 +40663,7 @@
 0.0.0.0 www.gloommarkhere.com
 0.0.0.0 www.gloriafreeway.com
 0.0.0.0 www.glowingcupid.com
+0.0.0.0 www.glubo.org
 0.0.0.0 www.gluulife.com
 0.0.0.0 www.gmgmaes.store
 0.0.0.0 www.gnocca.pro
@@ -41849,6 +41852,7 @@
 0.0.0.0 www.paybackmodified.com
 0.0.0.0 www.pb2b2.com
 0.0.0.0 www.pdopreroerw.com
+0.0.0.0 www.peaceandjusticepilgrimage.com
 0.0.0.0 www.peacelilyenterprise.com
 0.0.0.0 www.peachrecess.com
 0.0.0.0 www.peacockdienook.com
@@ -42604,6 +42608,7 @@
 0.0.0.0 www.sslong19.com
 0.0.0.0 www.sslong22.com
 0.0.0.0 www.ssyy8888.com
+0.0.0.0 www.st6y.com
 0.0.0.0 www.staarnest.in
 0.0.0.0 www.stacklegion.com
 0.0.0.0 www.stagetortoiseinfatuated.com
