@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.065
 # Release: 065
-# Entries: 45,054
-# Updated: Mon, 06 Mar 23 04:14:27 +06
+# Entries: 45,068
+# Updated: Mon, 06 Mar 23 06:10:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -709,6 +709,7 @@
 0.0.0.0 365online.net
 0.0.0.0 366300.org
 0.0.0.0 366xsw.com
+0.0.0.0 367tv.com
 0.0.0.0 369hezi.com
 0.0.0.0 36io.co
 0.0.0.0 3760k.com
@@ -15294,6 +15295,7 @@
 0.0.0.0 gpnjknuqas.xyz
 0.0.0.0 gpozmocm.com
 0.0.0.0 gpqudvbtu.com
+0.0.0.0 gprhe.com
 0.0.0.0 gptpyf.top
 0.0.0.0 gpuqizoz.com
 0.0.0.0 gpuvigpz.com
@@ -16441,6 +16443,7 @@
 0.0.0.0 hipaintranet.com
 0.0.0.0 hipals.com
 0.0.0.0 hiperdex.ml
+0.0.0.0 hipfowlzeal.icu
 0.0.0.0 hiphoprelief.org
 0.0.0.0 hippchapter.com
 0.0.0.0 hippostravois.store
@@ -16752,6 +16755,7 @@
 0.0.0.0 hotclips.online
 0.0.0.0 hotclips.space
 0.0.0.0 hotdates.life
+0.0.0.0 hotdog1.club
 0.0.0.0 hotegotisticalturbulent.com
 0.0.0.0 hotelamritsars.com
 0.0.0.0 hotelbowfeast.com
@@ -17035,6 +17039,7 @@
 0.0.0.0 hxoewq.com
 0.0.0.0 hxorjxtgsdcc.com
 0.0.0.0 hxplnojsw.com
+0.0.0.0 hxx6.com
 0.0.0.0 hy.emboleoutcure.com
 0.0.0.0 hy.outflueoxfly.com
 0.0.0.0 hybridgermandespicable.com
@@ -17920,6 +17925,7 @@
 0.0.0.0 inuvialuitchildwellbeing.org
 0.0.0.0 invadedwherevoluntary.com
 0.0.0.0 invaderannihilationperky.com
+0.0.0.0 invaderimmenseimplication.com
 0.0.0.0 invaluable-approach.com
 0.0.0.0 inventorypikepockets.com
 0.0.0.0 inverdure.com
@@ -36110,6 +36116,7 @@
 0.0.0.0 unbelievablylog.com
 0.0.0.0 unblentnitric.com
 0.0.0.0 unblestrustic.com
+0.0.0.0 unblock-me.xyz
 0.0.0.0 unblockedapi.com
 0.0.0.0 unbriefnothous.com
 0.0.0.0 unbuiltteuchit.com
@@ -39084,6 +39091,7 @@
 0.0.0.0 www.3381.ma
 0.0.0.0 www.35593c.com
 0.0.0.0 www.366xsw.com
+0.0.0.0 www.367tv.com
 0.0.0.0 www.369hezi.com
 0.0.0.0 www.37e5693aa7.com
 0.0.0.0 www.3alammona.com
@@ -40833,6 +40841,7 @@
 0.0.0.0 www.gotohr.com
 0.0.0.0 www.governessmagnituderecoil.com
 0.0.0.0 www.governorretired.com
+0.0.0.0 www.gprhe.com
 0.0.0.0 www.grainequipgroup.com
 0.0.0.0 www.grainger.top
 0.0.0.0 www.grainsslaughter.com
@@ -40974,6 +40983,7 @@
 0.0.0.0 www.hikimate.com
 0.0.0.0 www.hilarion-lar.com
 0.0.0.0 www.hill-fam.net
+0.0.0.0 www.hipfowlzeal.icu
 0.0.0.0 www.hirebath.com
 0.0.0.0 www.hiretech.jobs
 0.0.0.0 www.historicalcarawayammonia.com
@@ -41008,6 +41018,7 @@
 0.0.0.0 www.hostinggrizzly.com
 0.0.0.0 www.hosyanster.com
 0.0.0.0 www.hotchanson.com
+0.0.0.0 www.hotdog1.club
 0.0.0.0 www.hotelbowfeast.com
 0.0.0.0 www.hotelintimacybananas.com
 0.0.0.0 www.hotwritingdisperse.com
@@ -41042,6 +41053,7 @@
 0.0.0.0 www.hutremindbond.com
 0.0.0.0 www.hw3k5x14.com
 0.0.0.0 www.hwjtec.com
+0.0.0.0 www.hxx6.com
 0.0.0.0 www.hybridsoranges.com
 0.0.0.0 www.hydroshop.com.au
 0.0.0.0 www.i-room.us
@@ -43120,6 +43132,7 @@
 0.0.0.0 www.ulvertistersq.com
 0.0.0.0 www.unanimousinflammableboxing.com
 0.0.0.0 www.unattractiveparameters.com
+0.0.0.0 www.unblock-me.xyz
 0.0.0.0 www.unbuttontumorbaloney.com
 0.0.0.0 www.underestimatedual.com
 0.0.0.0 www.understandableredeemessentially.com
@@ -44234,6 +44247,7 @@
 0.0.0.0 yesetube.com
 0.0.0.0 yesmessenger.com
 0.0.0.0 yespetor.com
+0.0.0.0 yetshape.com
 0.0.0.0 yevcjqgi.com
 0.0.0.0 yeyajipp.com
 0.0.0.0 yf3a.com
