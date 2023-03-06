@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.065
 # Release: 065
-# Entries: 45,068
-# Updated: Mon, 06 Mar 23 06:10:48 +06
+# Entries: 45,070
+# Updated: Mon, 06 Mar 23 08:08:28 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -22340,6 +22340,7 @@
 0.0.0.0 mlnadvertising.com
 0.0.0.0 mlslawmo.com
 0.0.0.0 mlsys.xyz
+0.0.0.0 mlu.in
 0.0.0.0 mlwsqosupiinhix.com
 0.0.0.0 mlygvdfj.xyz
 0.0.0.0 mm-cgnews.com
@@ -43236,6 +43237,7 @@
 0.0.0.0 www.virtuallythanksgivinganchovy.com
 0.0.0.0 www.virtualtracers.com
 0.0.0.0 www.virus-analytics.com
+0.0.0.0 www.visaformula.com
 0.0.0.0 www.visaladsamaj.com
 0.0.0.0 www.vishaldurafe.com
 0.0.0.0 www.visibilitymondaydisappeared.com
