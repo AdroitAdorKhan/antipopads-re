@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.065
 # Release: 065
-# Entries: 45,070
-# Updated: Mon, 06 Mar 23 08:08:28 +06
+# Entries: 45,074
+# Updated: Mon, 06 Mar 23 10:08:01 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6798,6 +6798,7 @@
 0.0.0.0 burlydeclined.com
 0.0.0.0 burporess.pro
 0.0.0.0 burringspor.com
+0.0.0.0 burrotefoodtruck.com
 0.0.0.0 bursa33.xyz
 0.0.0.0 burseglueman.com
 0.0.0.0 burstblade.com
@@ -14398,6 +14399,7 @@
 0.0.0.0 gbkygmtcm.com
 0.0.0.0 gbuyonline.com
 0.0.0.0 gc.gyvingragees.com
+0.0.0.0 gcasino.online
 0.0.0.0 gcion.com
 0.0.0.0 gcktek.com
 0.0.0.0 gconfirmat.fun
@@ -39782,6 +39784,7 @@
 0.0.0.0 www.buondia.com
 0.0.0.0 www.buoydeparturediscontent.com
 0.0.0.0 www.burlapvocation.com
+0.0.0.0 www.burrotefoodtruck.com
 0.0.0.0 www.burstingdipper.com
 0.0.0.0 www.businessagencynetwork.com
 0.0.0.0 www.businessmencrib.com
@@ -40769,6 +40772,7 @@
 0.0.0.0 www.gaursay.com
 0.0.0.0 www.gauzedisparage.com
 0.0.0.0 www.gbuyonline.com
+0.0.0.0 www.gcasino.online
 0.0.0.0 www.gcprestigemiami.com
 0.0.0.0 www.gdents.com
 0.0.0.0 www.gdmig-choicehospitalitygroup.com
