@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.065
 # Release: 065
-# Entries: 45,211
-# Updated: Mon, 06 Mar 23 20:15:59 +06
+# Entries: 45,223
+# Updated: Mon, 06 Mar 23 22:07:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6288,6 +6288,7 @@
 0.0.0.0 boodlewrite.com
 0.0.0.0 boogopee.com
 0.0.0.0 booingaceta.uno
+0.0.0.0 bookadil.com
 0.0.0.0 bookbannershop.com
 0.0.0.0 bookierenewprovidence.com
 0.0.0.0 bookieunreasonablepriority.com
@@ -9981,6 +9982,7 @@
 0.0.0.0 decisivebottledhappen.com
 0.0.0.0 decisivecalculated.com
 0.0.0.0 decism.com
+0.0.0.0 deckmanbrid.com
 0.0.0.0 decknetwork.net
 0.0.0.0 deckofcards.cloud
 0.0.0.0 declarationextra.com
@@ -11787,6 +11789,7 @@
 0.0.0.0 egcdn.net
 0.0.0.0 egdgyqpxdcay.com
 0.0.0.0 egfqtvewksktz.com
+0.0.0.0 eggcupsfriends.com
 0.0.0.0 eggerscorr.com
 0.0.0.0 egglikelt.com
 0.0.0.0 eggnogsagrapha.com
@@ -12708,6 +12711,7 @@
 0.0.0.0 experimentmelting.com
 0.0.0.0 experimentsconscientiousshirt.com
 0.0.0.0 expertcamomile.com
+0.0.0.0 expertmodernadvice.com
 0.0.0.0 expertnifg.com
 0.0.0.0 experts-gossip.com
 0.0.0.0 expertseminargroup.com
@@ -17731,6 +17735,7 @@
 0.0.0.0 infragendev.com
 0.0.0.0 infrashift.com
 0.0.0.0 infreewifi.com
+0.0.0.0 infront-br.com.br
 0.0.0.0 infusesrhyptic.com
 0.0.0.0 ingeneumps.com
 0.0.0.0 ingeniousomendisinherit.com
@@ -22200,6 +22205,7 @@
 0.0.0.0 michaelcargill.com
 0.0.0.0 michaelkilbeyassociateslimited.co.uk
 0.0.0.0 michaelkilbeyassociateslimited.uk
+0.0.0.0 michaelkorshandbags.in.net
 0.0.0.0 michalgav.com
 0.0.0.0 michealmoyite.com
 0.0.0.0 michellejoseph.co
@@ -28435,6 +28441,7 @@
 0.0.0.0 qyhugamu.xyz
 0.0.0.0 qykship.com
 0.0.0.0 qynpfyvxkyv.com
+0.0.0.0 qyowjhyyckraps.com
 0.0.0.0 qysxcxnk.com
 0.0.0.0 qyvrjfajcqglm.top
 0.0.0.0 qyxwfe.com
@@ -29772,6 +29779,7 @@
 0.0.0.0 royaldistributingtest.com
 0.0.0.0 royalepan.com
 0.0.0.0 royalhighlandshowcase.co.uk
+0.0.0.0 royalkingdomproductions.com
 0.0.0.0 royallycuprene.com
 0.0.0.0 rozamimo9za10.com
 0.0.0.0 rozhlas4.stream
@@ -41260,6 +41268,7 @@
 0.0.0.0 www.infogeologi.com
 0.0.0.0 www.informsrelic.com
 0.0.0.0 www.infragendev.com
+0.0.0.0 www.infront-br.com.br
 0.0.0.0 www.ingeniousomendisinherit.com
 0.0.0.0 www.ingig-nes.com
 0.0.0.0 www.inhabitantquestions.com
@@ -41769,6 +41778,7 @@
 0.0.0.0 www.methodrumour.com
 0.0.0.0 www.mhi.mb.ca
 0.0.0.0 www.mi1a8a.life
+0.0.0.0 www.michaelkorshandbags.in.net
 0.0.0.0 www.michalgav.com
 0.0.0.0 www.michellestorment.com
 0.0.0.0 www.microbluelabs.com
@@ -42604,6 +42614,7 @@
 0.0.0.0 www.routeinventory.com
 0.0.0.0 www.rowansportstriped.com
 0.0.0.0 www.royaldistributingtest.com
+0.0.0.0 www.royalkingdomproductions.com
 0.0.0.0 www.rp-kassel.owl21.de
 0.0.0.0 www.rpagrid.com
 0.0.0.0 www.rparity.com
@@ -45169,6 +45180,7 @@
 0.0.0.0 zsresorts.com
 0.0.0.0 zsxqjjobfb.com
 0.0.0.0 zsxrhkrfwwv.com
+0.0.0.0 zt-0304.cc
 0.0.0.0 zt.haggisgoyana.com
 0.0.0.0 zt.sniffedafeard.com
 0.0.0.0 ztech.gq
