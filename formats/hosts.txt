@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.066
 # Release: 066
-# Entries: 45,326
-# Updated: Tue, 07 Mar 23 10:07:51 +06
+# Entries: 45,349
+# Updated: Tue, 07 Mar 23 12:12:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -76,6 +76,7 @@
 0.0.0.0 0941c6ab34.9ac0da939a.com
 0.0.0.0 0957521491.com
 0.0.0.0 09954.com
+0.0.0.0 09b6a4142b.com
 0.0.0.0 0a2ccba5c3.f55f5b7e4b.com
 0.0.0.0 0a8d87mlbcac.top
 0.0.0.0 0a9f0fde99.3bcd202415.com
@@ -84,6 +85,7 @@
 0.0.0.0 0azx1.com
 0.0.0.0 0b9d3793b7.5c8ac0803b.com
 0.0.0.0 0byv9mgbn0.com
+0.0.0.0 0c1q0l.cn
 0.0.0.0 0cdn.xyz
 0.0.0.0 0chonng5.com
 0.0.0.0 0e673a5404.0d356de9ef.com
@@ -205,6 +207,7 @@
 0.0.0.0 123w0w.com
 0.0.0.0 123writing.net
 0.0.0.0 123writingskills.net
+0.0.0.0 123ym.wang
 0.0.0.0 12580kp.com
 0.0.0.0 1298bab69bbc4.com
 0.0.0.0 12am.tech
@@ -216,6 +219,7 @@
 0.0.0.0 13021061852.cc
 0.0.0.0 1324f.com
 0.0.0.0 1337c.to
+0.0.0.0 1337to.com
 0.0.0.0 1337torrents.com
 0.0.0.0 1337x.co.za
 0.0.0.0 1337x.fit
@@ -224,6 +228,7 @@
 0.0.0.0 1337x.it
 0.0.0.0 1337xx.tw
 0.0.0.0 1338x.to
+0.0.0.0 133xto.to
 0.0.0.0 1352014.xyz
 0.0.0.0 13630gmail.com
 0.0.0.0 136ffb81df.df253f3b96.com
@@ -694,6 +699,7 @@
 0.0.0.0 3417d8aef3.3a29f8bf84.com
 0.0.0.0 3434233.com
 0.0.0.0 34413f1285.18113407f3.com
+0.0.0.0 345a6.com
 0.0.0.0 345pan.net
 0.0.0.0 348cb79029.1ca65f5f5b.com
 0.0.0.0 34e3ea7b64.c39ed4de0b.com
@@ -712,6 +718,7 @@
 0.0.0.0 3648839.com
 0.0.0.0 3654qq.com
 0.0.0.0 365anfang.net
+0.0.0.0 365cbec4b2.com
 0.0.0.0 365days.xyz
 0.0.0.0 365games.fi
 0.0.0.0 365online.net
@@ -968,6 +975,7 @@
 0.0.0.0 552ygapp.com
 0.0.0.0 5535aibo.com
 0.0.0.0 55666asdasd513.com
+0.0.0.0 5588766.com
 0.0.0.0 55thy.com
 0.0.0.0 561010.com
 0.0.0.0 562i7aqkxu.com
@@ -1069,6 +1077,7 @@
 0.0.0.0 622722.comwww.601122.com
 0.0.0.0 623eec0df3.23182b9851.com
 0.0.0.0 625c9289e60793.com
+0.0.0.0 6278311a.com
 0.0.0.0 62793c.co
 0.0.0.0 62805b.com
 0.0.0.0 62ah.com
@@ -1228,6 +1237,7 @@
 0.0.0.0 79358.ma
 0.0.0.0 796fs.com
 0.0.0.0 7978dc24e7.11f1b925c4.com
+0.0.0.0 7979xx.com
 0.0.0.0 79c7c6f6a1.f37d6b16c3.com
 0.0.0.0 79hmm.com
 0.0.0.0 79k52baw2qa3.com
@@ -1431,6 +1441,7 @@
 0.0.0.0 9842.comwww.844644.com
 0.0.0.0 987258.com
 0.0.0.0 98tang.la
+0.0.0.0 98xxxx.com
 0.0.0.0 991.re
 0.0.0.0 9924c4cf5e.com
 0.0.0.0 996.energy
@@ -2735,6 +2746,7 @@
 0.0.0.0 agencynewz.com
 0.0.0.0 agenduret.com
 0.0.0.0 agengdesignllc.com
+0.0.0.0 agenpokeronline.top
 0.0.0.0 agent-connect.tech
 0.0.0.0 agentsofagency.org
 0.0.0.0 ageore.com
@@ -4396,6 +4408,7 @@
 0.0.0.0 atmyeducat.xyz
 0.0.0.0 ato.mx
 0.0.0.0 atombearable.com
+0.0.0.0 atombid.com
 0.0.0.0 atomex.net
 0.0.0.0 atomheal.live
 0.0.0.0 atomiccoin.cc
@@ -8643,6 +8656,7 @@
 0.0.0.0 comeadvertisewithus.com
 0.0.0.0 comedian-avail.com
 0.0.0.0 comedianbrown.com
+0.0.0.0 comedianthirteenth.com
 0.0.0.0 comedyauto.com
 0.0.0.0 comedyrent.com
 0.0.0.0 comedyrepair.com
@@ -13314,6 +13328,7 @@
 0.0.0.0 fieldbilly.com
 0.0.0.0 fieldofbachus.com
 0.0.0.0 fieldsinsurancebrokers.com
+0.0.0.0 fiendrhythm.com
 0.0.0.0 fiercedental.com
 0.0.0.0 fierysolemncow.com
 0.0.0.0 fies.online
@@ -16795,6 +16810,7 @@
 0.0.0.0 hornbakergardens.com
 0.0.0.0 hornybabys.com
 0.0.0.0 horralsaice.uno
+0.0.0.0 horriblecatching.com
 0.0.0.0 horribletoys.com
 0.0.0.0 horribleux.com
 0.0.0.0 horridtummel.live
@@ -36861,6 +36877,7 @@
 0.0.0.0 uvxufqenb.xyz
 0.0.0.0 uw.poachystuffy.com
 0.0.0.0 uw.puttovaluing.com
+0.0.0.0 uwatchfree.fr
 0.0.0.0 uwatchfree.info
 0.0.0.0 uwdtibwk.com
 0.0.0.0 uwhuglup.net
@@ -39493,6 +39510,7 @@
 0.0.0.0 www.afterwardspenal.com
 0.0.0.0 www.agefans.best
 0.0.0.0 www.agelessmdspa.com
+0.0.0.0 www.agenpokeronline.top
 0.0.0.0 www.agent-connect.tech
 0.0.0.0 www.aggravateexaggerate.com
 0.0.0.0 www.ahagreatlypromised.com
@@ -39696,6 +39714,7 @@
 0.0.0.0 www.atlmobilenotary.com
 0.0.0.0 www.atmosphereblankjustly.com
 0.0.0.0 www.atmospheredownloadtraverse.com
+0.0.0.0 www.atombid.com
 0.0.0.0 www.atomictretader.com
 0.0.0.0 www.atta33.com
 0.0.0.0 www.attendanceceasless.com
@@ -40960,6 +40979,7 @@
 0.0.0.0 www.gamber.bet
 0.0.0.0 www.gamecranedomestic.com
 0.0.0.0 www.gamingchairz.com
+0.0.0.0 www.gaminglaptops.deals
 0.0.0.0 www.gampley.com
 0.0.0.0 www.gangstervideoethnic.com
 0.0.0.0 www.gaofulmei.net
@@ -41977,6 +41997,7 @@
 0.0.0.0 www.mycatherderllc.com
 0.0.0.0 www.mycrowncollection.net
 0.0.0.0 www.mydigiverse.marketing
+0.0.0.0 www.myfans.stream
 0.0.0.0 www.myfillers.ru
 0.0.0.0 www.myfirstmeet.space
 0.0.0.0 www.myitalgas.it
@@ -42784,6 +42805,7 @@
 0.0.0.0 www.scriptvealpatronage.com
 0.0.0.0 www.scrollisolation.com
 0.0.0.0 www.scrubyes.com
+0.0.0.0 www.scythealready.com
 0.0.0.0 www.sdacford.com
 0.0.0.0 www.sddclssws.com
 0.0.0.0 www.sdjhfsjdfii7.monster
@@ -43418,6 +43440,7 @@
 0.0.0.0 www.usingstrikingindoors.com
 0.0.0.0 www.usuallyformal.com
 0.0.0.0 www.utilitypresent.com
+0.0.0.0 www.uwatchfree.fr
 0.0.0.0 www.v2rty.xyz
 0.0.0.0 www.vaccinegrownparliamentary.com
 0.0.0.0 www.vadspremium.com
