@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.066
 # Release: 066
-# Entries: 45,349
-# Updated: Tue, 07 Mar 23 12:12:03 +06
+# Entries: 45,356
+# Updated: Tue, 07 Mar 23 14:07:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10695,6 +10695,7 @@
 0.0.0.0 dissipatecombinedcolon.com
 0.0.0.0 dissolveddittoteaspoon.com
 0.0.0.0 dissolvedhaunch.com
+0.0.0.0 dissreingr.net
 0.0.0.0 distantsoil.com
 0.0.0.0 distilled.ie
 0.0.0.0 distinct-bicycle.com
@@ -17837,6 +17838,7 @@
 0.0.0.0 inlandpiereel.com
 0.0.0.0 inmewa.com
 0.0.0.0 inminuner.com
+0.0.0.0 inmontenm.shop
 0.0.0.0 inn-liners.com
 0.0.0.0 innerbuddhacoaching.com
 0.0.0.0 innic.org
@@ -26835,6 +26837,7 @@
 0.0.0.0 platitudezeal.com
 0.0.0.0 platten.biz
 0.0.0.0 plauna.com
+0.0.0.0 play-livecasino.online
 0.0.0.0 play-tata.biz
 0.0.0.0 play-tata.info
 0.0.0.0 play-tata.org
@@ -29339,6 +29342,7 @@
 0.0.0.0 rev-stripe.com
 0.0.0.0 rev2pub.com
 0.0.0.0 rev4rtb.com
+0.0.0.0 revart.trade
 0.0.0.0 revbikecrept.com
 0.0.0.0 revcoin.net
 0.0.0.0 revdepo.com
@@ -30819,6 +30823,7 @@
 0.0.0.0 selectmytour.com
 0.0.0.0 selectr.net
 0.0.0.0 seledelkend.com
+0.0.0.0 selenium.by
 0.0.0.0 selfasheode.work
 0.0.0.0 selfassesmrntbradford.co.uk
 0.0.0.0 selfconfidencecap.com
@@ -42356,6 +42361,7 @@
 0.0.0.0 www.plantravel.app
 0.0.0.0 www.platform-udcp.com
 0.0.0.0 www.platitudezeal.com
+0.0.0.0 www.play-livecasino.online
 0.0.0.0 www.playairplanerighty.com
 0.0.0.0 www.playitalia.net
 0.0.0.0 www.playlivecasino.fun
@@ -42678,6 +42684,7 @@
 0.0.0.0 www.retardstocks.com
 0.0.0.0 www.retiringspamformed.com
 0.0.0.0 www.retr0dev.tech
+0.0.0.0 www.revart.trade
 0.0.0.0 www.revengeloadsentiment.com
 0.0.0.0 www.reverely.app
 0.0.0.0 www.revitalizedretreats.com
