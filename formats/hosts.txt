@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.067
 # Release: 067
-# Entries: 45,712
-# Updated: Wed, 08 Mar 23 16:07:19 +06
+# Entries: 45,724
+# Updated: Wed, 08 Mar 23 18:07:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8253,6 +8253,7 @@
 0.0.0.0 clearac.com
 0.0.0.0 clearadnetwork.com
 0.0.0.0 clearancejoinjavelin.com
+0.0.0.0 clearload.site
 0.0.0.0 clearlybestdirectoil.org
 0.0.0.0 clearningseri.xyz
 0.0.0.0 clearonclick.com
@@ -9434,6 +9435,7 @@
 0.0.0.0 cryllex.org
 0.0.0.0 cryparena.biz
 0.0.0.0 cryparena.org
+0.0.0.0 crypto-4-ukraine.com
 0.0.0.0 crypto2x.io
 0.0.0.0 cryptocexchange.online
 0.0.0.0 cryptofutureguide.com
@@ -13072,6 +13074,7 @@
 0.0.0.0 fancymfers.com
 0.0.0.0 fandelcot.com
 0.0.0.0 fandmo.com
+0.0.0.0 fanhaoyun.com
 0.0.0.0 fanithoolock.space
 0.0.0.0 fanno.ir
 0.0.0.0 fannonglairin.com
@@ -17369,6 +17372,7 @@
 0.0.0.0 iasrv.com
 0.0.0.0 iavl.net
 0.0.0.0 ib.adnxs.com
+0.0.0.0 ib1.in
 0.0.0.0 ibanwatch.com
 0.0.0.0 ibatom.com
 0.0.0.0 ibbkuhwgqawhvt.com
@@ -21893,6 +21897,7 @@
 0.0.0.0 mashreqdev.com
 0.0.0.0 mashrika.net
 0.0.0.0 masjidqudwah.com
+0.0.0.0 maskcoin.tech
 0.0.0.0 maskesys.asia
 0.0.0.0 maskesys.com
 0.0.0.0 maskesys.net
@@ -28484,6 +28489,7 @@
 0.0.0.0 qiqcasfpaw.com
 0.0.0.0 qiqi8dongman.com
 0.0.0.0 qivaiw.com
+0.0.0.0 qiviutsdextran.com
 0.0.0.0 qiwen360.com
 0.0.0.0 qiyascoolth.com
 0.0.0.0 qj.wimplesbooklet.com
@@ -28907,6 +28913,7 @@
 0.0.0.0 ratrencalrep.com
 0.0.0.0 rattedropenrigh.xyz
 0.0.0.0 ratteenbrewing.space
+0.0.0.0 rattsports.online
 0.0.0.0 ratury.com
 0.0.0.0 rauceesh.com
 0.0.0.0 raufoomoochi.com
@@ -40451,6 +40458,7 @@
 0.0.0.0 www.clapdistributionexample.com
 0.0.0.0 www.clashguidance.com
 0.0.0.0 www.clearancejoinjavelin.com
+0.0.0.0 www.clearload.site
 0.0.0.0 www.cleftinform.com
 0.0.0.0 www.clementreign.com
 0.0.0.0 www.clenchgreatembarrassment.com
@@ -41108,6 +41116,7 @@
 0.0.0.0 www.famina.uk
 0.0.0.0 www.fampixels.com
 0.0.0.0 www.fancymfers.com
+0.0.0.0 www.fanhaoyun.com
 0.0.0.0 www.fantasyspent.com
 0.0.0.0 www.farhotels.xyz
 0.0.0.0 www.farmacia-es.com
@@ -42929,6 +42938,7 @@
 0.0.0.0 www.rashiphotostudio.com
 0.0.0.0 www.rastmanesh.com
 0.0.0.0 www.ratchrist.com
+0.0.0.0 www.rattsports.online
 0.0.0.0 www.ravenkott.com
 0.0.0.0 www.ravivaru.com
 0.0.0.0 www.rayrecollect.com
@@ -43333,6 +43343,7 @@
 0.0.0.0 www.sopokerclub.com
 0.0.0.0 www.sordidoptimistic.com
 0.0.0.0 www.sortingwild.com
+0.0.0.0 www.sou.run
 0.0.0.0 www.sounddelegate.com
 0.0.0.0 www.south996flh.com
 0.0.0.0 www.southflannelclassic.com
@@ -44083,6 +44094,7 @@
 0.0.0.0 www.zillionable.com
 0.0.0.0 www.zippysharehd.com
 0.0.0.0 www.zjd842.com
+0.0.0.0 www.zjkg9gjnx.com
 0.0.0.0 www.zjumpbyts.com
 0.0.0.0 www.zoxford.com
 0.0.0.0 www.zscwdu.com
