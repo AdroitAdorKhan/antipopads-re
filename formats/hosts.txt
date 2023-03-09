@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.068
 # Release: 068
-# Entries: 45,865
-# Updated: Thu, 09 Mar 23 12:12:58 +06
+# Entries: 45,874
+# Updated: Thu, 09 Mar 23 14:08:19 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -436,6 +436,7 @@
 0.0.0.0 2-o.org
 0.0.0.0 2007ip.com
 0.0.0.0 2015search.ru
+0.0.0.0 2016www.844644.com
 0.0.0.0 20201314.cn
 0.0.0.0 2020microclinic.org
 0.0.0.0 2020mustang.com
@@ -3549,6 +3550,7 @@
 0.0.0.0 andomediagroup.com
 0.0.0.0 andorapx.com
 0.0.0.0 andreatalarico.work
+0.0.0.0 andriasmaximus.com
 0.0.0.0 andriesshied.com
 0.0.0.0 andtheat.buzz
 0.0.0.0 andwhenmyf.xyz
@@ -17176,6 +17178,8 @@
 0.0.0.0 httpsecurity.org
 0.0.0.0 httpsl.com
 0.0.0.0 httpsmercari.com
+0.0.0.0 httpsooaa036.com
+0.0.0.0 httpswww61888.com
 0.0.0.0 hturnshal.com
 0.0.0.0 htwyafhbjavmcvk.com
 0.0.0.0 htyejulpxc.com
@@ -25063,6 +25067,7 @@
 0.0.0.0 omclacrv.com
 0.0.0.0 omclyzyapf.com
 0.0.0.0 omding.com
+0.0.0.0 omdzckvuvbih.com
 0.0.0.0 omersinnovation.org
 0.0.0.0 omfiydlbmy.com
 0.0.0.0 omgkdhysxlaj.com
@@ -27559,6 +27564,7 @@
 0.0.0.0 praterswhally.com
 0.0.0.0 prathamesh005.tech
 0.0.0.0 pratipay.com
+0.0.0.0 praudyohr.com
 0.0.0.0 pravinmhatre.com
 0.0.0.0 prawnsimply.com
 0.0.0.0 prawnspiritincomparable.com
@@ -28687,6 +28693,7 @@
 0.0.0.0 quakingbogbotanicals.com
 0.0.0.0 quakingcalix.com
 0.0.0.0 qualature.com
+0.0.0.0 qualificationsomehow.com
 0.0.0.0 qualitiesawarenesshard.com
 0.0.0.0 qualitydestructionhouse.com
 0.0.0.0 qualityhealthessentials.com
@@ -30826,6 +30833,7 @@
 0.0.0.0 sbhisvision.org
 0.0.0.0 sbroiughttohi.xyz
 0.0.0.0 sbscrma.com
+0.0.0.0 sbtlwmdb.com
 0.0.0.0 sbu-advisory.com
 0.0.0.0 sbuildfor.com
 0.0.0.0 sbxuwnpef.com
@@ -31703,6 +31711,7 @@
 0.0.0.0 shtaobao.site
 0.0.0.0 shubad2u8ba09.com
 0.0.0.0 shubadubadlskjfkf.com
+0.0.0.0 shubasairy.life
 0.0.0.0 shuglaursech.com
 0.0.0.0 shugohofo.pro
 0.0.0.0 shugraithou.com
