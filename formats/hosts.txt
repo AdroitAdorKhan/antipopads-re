@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.068
 # Release: 068
-# Entries: 45,968
-# Updated: Thu, 09 Mar 23 16:11:18 +06
+# Entries: 45,973
+# Updated: Thu, 09 Mar 23 18:16:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11356,6 +11356,7 @@
 0.0.0.0 dsagxedypw.com
 0.0.0.0 dscustomstatues.com
 0.0.0.0 dsdomainsq.com
+0.0.0.0 dseden.com
 0.0.0.0 dsfjhfhyry2hh8jo09.com
 0.0.0.0 dsnextgen.com
 0.0.0.0 dsnr-affiliates.com
@@ -17416,6 +17417,8 @@
 0.0.0.0 hype-ads.com
 0.0.0.0 hypeads.org
 0.0.0.0 hypemakers.net
+0.0.0.0 hypepayment.com
+0.0.0.0 hypepayments.com
 0.0.0.0 hyperbanner.net
 0.0.0.0 hyperbody.fun
 0.0.0.0 hyperbody.life
@@ -41138,6 +41141,7 @@
 0.0.0.0 www.dryfood.co.nz
 0.0.0.0 www.ds1domainsq.com
 0.0.0.0 www.dsdomainsq.com
+0.0.0.0 www.dseden.com
 0.0.0.0 www.dsp2fpga.net
 0.0.0.0 www.dsp2fpga.org
 0.0.0.0 www.dstacy.net
@@ -41372,6 +41376,7 @@
 0.0.0.0 www.felicitychill.com
 0.0.0.0 www.femalenurture.com
 0.0.0.0 www.feminabiz.org
+0.0.0.0 www.fen53.com
 0.0.0.0 www.fenacheaverage.com
 0.0.0.0 www.fermentwavesir.com
 0.0.0.0 www.fertilecrameaster.com
