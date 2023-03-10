@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.069
 # Release: 069
-# Entries: 46,241
-# Updated: Fri, 10 Mar 23 20:07:45 +06
+# Entries: 46,256
+# Updated: Fri, 10 Mar 23 22:11:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -133,6 +133,7 @@
 0.0.0.0 1078c8f001.com
 0.0.0.0 109-110.net
 0.0.0.0 109hostel.com
+0.0.0.0 10ahsvjda10x.monster
 0.0.0.0 10ajhbsjdasd102.monster
 0.0.0.0 10akhsbdjad1.monster
 0.0.0.0 10akjsbkjdad199.monster
@@ -360,6 +361,7 @@
 0.0.0.0 1inch.pw
 0.0.0.0 1jhabsjdasd11.monster
 0.0.0.0 1jhbsjwq12.monster
+0.0.0.0 1jhsvdjfa11x.monster
 0.0.0.0 1jour1col.fr
 0.0.0.0 1jshdfss111.monster
 0.0.0.0 1jshdjfsdf1.monster
@@ -422,6 +424,7 @@
 0.0.0.0 1wertewrs1.com
 0.0.0.0 1wetretse1.com
 0.0.0.0 1wjhdbfskk12.monster
+0.0.0.0 1wrienere1.com
 0.0.0.0 1writtedr.com
 0.0.0.0 1wstreese1.com
 0.0.0.0 1x1.a-mo.net
@@ -578,6 +581,7 @@
 0.0.0.0 2ajhsjasd32.monster
 0.0.0.0 2ajhsjdasd2.monster
 0.0.0.0 2ajhsvdjasd2.monster
+0.0.0.0 2ajshdjad22x.monster
 0.0.0.0 2ajvsdjhad2.monster
 0.0.0.0 2aksbdkja2.monster
 0.0.0.0 2annalea.com
@@ -3222,6 +3226,7 @@
 0.0.0.0 all-tcod.com
 0.0.0.0 all-ti-cod.com
 0.0.0.0 all2cnjuh34jb.com
+0.0.0.0 all4fast.com
 0.0.0.0 allaboutcat.org
 0.0.0.0 allactualjournal.com
 0.0.0.0 allactualstories.com
@@ -6440,6 +6445,7 @@
 0.0.0.0 booknower.com
 0.0.0.0 bookodus.xyz
 0.0.0.0 booksandcompany.uk
+0.0.0.0 bookserf.com
 0.0.0.0 booksprite.com
 0.0.0.0 bookstalktoo.co.uk
 0.0.0.0 booktheevent.co.uk
@@ -13891,6 +13897,7 @@
 0.0.0.0 flrdra.com
 0.0.0.0 flrrenovations.net
 0.0.0.0 fltulgyxsq.com
+0.0.0.0 fluencydepressing.com
 0.0.0.0 fluencymister.com
 0.0.0.0 fluffer.xyz
 0.0.0.0 fluffycodepotc.com
@@ -25026,6 +25033,7 @@
 0.0.0.0 offers4me.net
 0.0.0.0 offersbid.com
 0.0.0.0 offerstrack.net
+0.0.0.0 offertrigger.com
 0.0.0.0 offfurreton.com
 0.0.0.0 offgate-app-phkr.com
 0.0.0.0 offhandnunsill.com
@@ -26649,6 +26657,7 @@
 0.0.0.0 perseoidcmayoristas.com
 0.0.0.0 persesgnetum.com
 0.0.0.0 perseverancekaleidoscopefinance.com
+0.0.0.0 persistarcticthese.com
 0.0.0.0 persistbathing.com
 0.0.0.0 persisteer.com
 0.0.0.0 persistentadequate.com
@@ -40105,6 +40114,7 @@
 0.0.0.0 www.9kbkfsf99.monster
 0.0.0.0 www.9sjdnkfsdf99.monster
 0.0.0.0 www.9zx1pj.life
+0.0.0.0 www.a123ck.com
 0.0.0.0 www.a1airandgasco.in
 0.0.0.0 www.a1tas.net
 0.0.0.0 www.a4or.com
@@ -40633,6 +40643,7 @@
 0.0.0.0 www.bonitabay.life
 0.0.0.0 www.bonuswinner.net
 0.0.0.0 www.bookieunreasonablepriority.com
+0.0.0.0 www.bookserf.com
 0.0.0.0 www.booksprite.com
 0.0.0.0 www.bookveggies.com
 0.0.0.0 www.bookwormtiger.com
@@ -40729,6 +40740,7 @@
 0.0.0.0 www.bytesendcrag.com
 0.0.0.0 www.byworddalton.com
 0.0.0.0 www.c6mattakesett.com
+0.0.0.0 www.cablestvdeals.com
 0.0.0.0 www.cadencecovetousfireplace.com
 0.0.0.0 www.cadetrigourlegitimate.com
 0.0.0.0 www.caesarporch.com
@@ -42923,6 +42935,7 @@
 0.0.0.0 www.officerolivehaughty.com
 0.0.0.0 www.officialcardcarryingtexan.com
 0.0.0.0 www.officialpanthersnflstore.com
+0.0.0.0 www.offpathgenuinely.com
 0.0.0.0 www.offsethumorous.com
 0.0.0.0 www.ohmygodtheyfoundkitty.com
 0.0.0.0 www.oicr.foundation
@@ -43646,6 +43659,7 @@
 0.0.0.0 www.secure-dw.ru
 0.0.0.0 www.secure.agasis.tech
 0.0.0.0 www.seedattentiontestify.com
+0.0.0.0 www.seguigui00.com
 0.0.0.0 www.segutv.com
 0.0.0.0 www.seizecrashsophia.com
 0.0.0.0 www.seledelkend.com
@@ -45181,6 +45195,7 @@
 0.0.0.0 xvuslink.com
 0.0.0.0 xvvideos51.com
 0.0.0.0 xvwebllndr.com
+0.0.0.0 xvxvideos1.com
 0.0.0.0 xvzophudkodln.com
 0.0.0.0 xw.beclogsbryce.com
 0.0.0.0 xwafajfij.com
