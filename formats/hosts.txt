@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.069
 # Release: 069
-# Entries: 46,239
-# Updated: Fri, 10 Mar 23 18:15:54 +06
+# Entries: 46,241
+# Updated: Fri, 10 Mar 23 20:07:45 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13750,6 +13750,7 @@
 0.0.0.0 fivetwosixsalon.com
 0.0.0.0 fiwhibse.com
 0.0.0.0 fixchidie.com
+0.0.0.0 fixedsmile.com
 0.0.0.0 fixeoduv.com
 0.0.0.0 fixespreoccupation.com
 0.0.0.0 fixfood.app
@@ -41612,6 +41613,7 @@
 0.0.0.0 www.firstnationsenergyltd.com
 0.0.0.0 www.firstverifyemigrant.com
 0.0.0.0 www.fivestars.es
+0.0.0.0 www.fixedsmile.com
 0.0.0.0 www.fixespreoccupation.com
 0.0.0.0 www.fixingcereal.com
 0.0.0.0 www.fixosint.com
