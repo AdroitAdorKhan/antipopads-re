@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.069
 # Release: 069
-# Entries: 46,109
-# Updated: Fri, 10 Mar 23 06:14:44 +06
+# Entries: 46,121
+# Updated: Fri, 10 Mar 23 08:08:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7652,6 +7652,7 @@
 0.0.0.0 ceefi.co.in
 0.0.0.0 ceeglagu.net
 0.0.0.0 ceehimur.uk
+0.0.0.0 ceekougy.net
 0.0.0.0 ceeleeca.com
 0.0.0.0 ceeviwep.com
 0.0.0.0 cegeplaval.com
@@ -12144,6 +12145,7 @@
 0.0.0.0 elfinsande.website
 0.0.0.0 elghanam.company
 0.0.0.0 elgorilabeer.com
+0.0.0.0 elgoss.in
 0.0.0.0 elharby.net
 0.0.0.0 elicitsfoozle.com
 0.0.0.0 elicoaga.xyz
@@ -16160,6 +16162,7 @@
 0.0.0.0 hallucinatepromise.com
 0.0.0.0 hallwayscarf.com
 0.0.0.0 halogennetwork.com
+0.0.0.0 haloimmigration.com
 0.0.0.0 halvedghost.space
 0.0.0.0 halvepowdercorrectly.com
 0.0.0.0 hambul.com
@@ -23459,6 +23462,7 @@
 0.0.0.0 mycdn.co
 0.0.0.0 mycdn2.co
 0.0.0.0 mycelejor.com
+0.0.0.0 myclaimmatters.com
 0.0.0.0 myclickbankads.com
 0.0.0.0 myclickpush.com
 0.0.0.0 myconnections.online
@@ -27677,6 +27681,7 @@
 0.0.0.0 prakritinfixed.com
 0.0.0.0 pramukhbharat.com
 0.0.0.0 prantikpos.com
+0.0.0.0 prashmak.com
 0.0.0.0 praterswhally.com
 0.0.0.0 prathamesh005.tech
 0.0.0.0 pratipay.com
@@ -37685,6 +37690,7 @@
 0.0.0.0 veehike.com
 0.0.0.0 veeluthi.com
 0.0.0.0 veemaish.xyz
+0.0.0.0 veemauhe.xyz
 0.0.0.0 veepeestickney.guru
 0.0.0.0 veepsfossule.life
 0.0.0.0 veeryestevin.guru
@@ -38987,6 +38993,7 @@
 0.0.0.0 wg.viciasoprani.com
 0.0.0.0 wgpartner.com
 0.0.0.0 wgpsjcpdulptl.com
+0.0.0.0 wgrdnuap.com
 0.0.0.0 wgsxteihr.com
 0.0.0.0 wgweubxmvsembxy.com
 0.0.0.0 wh.osmondcichar.com
@@ -40886,6 +40893,7 @@
 0.0.0.0 www.consequentlyinjunction.com
 0.0.0.0 www.conspicuousclasp.com
 0.0.0.0 www.constituentonset.com
+0.0.0.0 www.constructo-vip.shop
 0.0.0.0 www.contagiousantagonizequarry.com
 0.0.0.0 www.contentai.space
 0.0.0.0 www.contentmentcareless.com
@@ -41618,6 +41626,7 @@
 0.0.0.0 www.futvbol.net
 0.0.0.0 www.fuzzywardshoplifting.com
 0.0.0.0 www.g0td0main.com
+0.0.0.0 www.g2l.ink
 0.0.0.0 www.g6h165y6.online
 0.0.0.0 www.gabyscaferhinebeck.com
 0.0.0.0 www.gadsbygoogleooglesyndication.com
@@ -41789,6 +41798,7 @@
 0.0.0.0 www.hairhelpline.com
 0.0.0.0 www.halfmoonsights.com
 0.0.0.0 www.halfwayoverreact.com
+0.0.0.0 www.haloimmigration.com
 0.0.0.0 www.halvepowdercorrectly.com
 0.0.0.0 www.hammerstretching.com
 0.0.0.0 www.hampersolarwings.com
@@ -42679,6 +42689,7 @@
 0.0.0.0 www.myamite.org
 0.0.0.0 www.mybankroll.email
 0.0.0.0 www.mycatherderllc.com
+0.0.0.0 www.myclaimmatters.com
 0.0.0.0 www.mycrowncollection.net
 0.0.0.0 www.mydigiverse.marketing
 0.0.0.0 www.myfans.stream
@@ -42924,6 +42935,7 @@
 0.0.0.0 www.parkdues.com
 0.0.0.0 www.parklandcountyhomes.ca
 0.0.0.0 www.parktris.com
+0.0.0.0 www.partage-constructo.com
 0.0.0.0 www.partedgirlie.com
 0.0.0.0 www.participateoppositedifferent.com
 0.0.0.0 www.partiespenitence.com
