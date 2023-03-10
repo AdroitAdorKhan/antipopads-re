@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.070
 # Release: 070
-# Entries: 46,300
-# Updated: Sat, 11 Mar 23 00:09:10 +06
+# Entries: 46,305
+# Updated: Sat, 11 Mar 23 02:08:36 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4150,6 +4150,7 @@
 0.0.0.0 arrackspawn.com
 0.0.0.0 arraignmentinclose.com
 0.0.0.0 arrearscourtyard.com
+0.0.0.0 arrearsexplicit.com
 0.0.0.0 arrenothanca.xyz
 0.0.0.0 arresthitchy.life
 0.0.0.0 arretezkinetic.guru
@@ -11067,6 +11068,7 @@
 0.0.0.0 dogiedimepupae.com
 0.0.0.0 dogilar.com
 0.0.0.0 dogliscoran.com
+0.0.0.0 dognet.live
 0.0.0.0 dogolurkr.com
 0.0.0.0 dogshipuniate.live
 0.0.0.0 dogsontherun.org
@@ -15283,6 +15285,7 @@
 0.0.0.0 glugreez.com
 0.0.0.0 glumtitu.net
 0.0.0.0 glurdoat.com
+0.0.0.0 gluttonlethal.com
 0.0.0.0 gluulife.com
 0.0.0.0 gluwhoas.com
 0.0.0.0 glvhvesvnp.com
@@ -41475,6 +41478,7 @@
 0.0.0.0 www.emeralddead.com
 0.0.0.0 www.emergentpm.com
 0.0.0.0 www.emergentpm.org
+0.0.0.0 www.emiratessportsstores.me
 0.0.0.0 www.emitinspect.com
 0.0.0.0 www.emjcd.com
 0.0.0.0 www.emmaparental.com
@@ -42504,6 +42508,7 @@
 0.0.0.0 www.leadenretain.com
 0.0.0.0 www.leadgenerat3d.com
 0.0.0.0 www.leadinghunch.com
+0.0.0.0 www.leadingservicesintimate.com
 0.0.0.0 www.learncryptocurrencybasics.com
 0.0.0.0 www.learningblink.com
 0.0.0.0 www.learningproportion.com
