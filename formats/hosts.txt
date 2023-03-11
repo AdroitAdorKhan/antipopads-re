@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.070
 # Release: 070
-# Entries: 46,493
-# Updated: Sat, 11 Mar 23 18:08:18 +06
+# Entries: 46,501
+# Updated: Sat, 11 Mar 23 20:15:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -55,6 +55,7 @@
 0.0.0.0 04-f-bmf.com
 0.0.0.0 04482.com
 0.0.0.0 0459ri.com
+0.0.0.0 054266540f.com
 0.0.0.0 055kp.com
 0.0.0.0 05dfb71424.com
 0.0.0.0 05ee3a24ed11df058c8.com
@@ -331,6 +332,7 @@
 0.0.0.0 1download.ru
 0.0.0.0 1downpertser.com
 0.0.0.0 1dxp.in
+0.0.0.0 1e14i1h7.tw
 0.0.0.0 1e46e721dc.com
 0.0.0.0 1ef0922769.com
 0.0.0.0 1ef28ffa99.0b4cdd5af5.com
@@ -1004,6 +1006,7 @@
 0.0.0.0 535666h.com
 0.0.0.0 53baefdba7.5da55619e0.com
 0.0.0.0 53ry7.me
+0.0.0.0 5433lu.com
 0.0.0.0 5454445.tk
 0.0.0.0 54cbfa34b7.com
 0.0.0.0 54cf2bb838.com
@@ -1448,6 +1451,7 @@
 0.0.0.0 8x2648x.com
 0.0.0.0 8x2658x.com
 0.0.0.0 8x308x.com
+0.0.0.0 8x8xnn.com
 0.0.0.0 8xhb.com
 0.0.0.0 8xvp9g.com
 0.0.0.0 8xx0n8.com
@@ -22165,6 +22169,7 @@
 0.0.0.0 marathongenerositypremiere.com
 0.0.0.0 marathonpleadparachute.com
 0.0.0.0 marazma.com
+0.0.0.0 marblecaution.com
 0.0.0.0 marblemerises.guru
 0.0.0.0 marcaparaguay.org
 0.0.0.0 marcelobucheli.com
@@ -22932,6 +22937,7 @@
 0.0.0.0 mirthbail.com
 0.0.0.0 misaglam.com
 0.0.0.0 misbornsubitem.space
+0.0.0.0 miscellaneousdietary.com
 0.0.0.0 mischieviousarts.com
 0.0.0.0 misear.com
 0.0.0.0 misguidedstork.com
@@ -35292,6 +35298,7 @@
 0.0.0.0 tidyclient.pro
 0.0.0.0 tie365.com
 0.0.0.0 tieadv.com
+0.0.0.0 tiebharath.com
 0.0.0.0 tiechebao.com
 0.0.0.0 tiendaeacapi.com
 0.0.0.0 tierbignews.com
@@ -44337,6 +44344,7 @@
 0.0.0.0 www.throwsynchronizesavoury.com
 0.0.0.0 www.thutm-bru.com
 0.0.0.0 www.ticketspackslippery.com
+0.0.0.0 www.tiebharath.com
 0.0.0.0 www.tiendaeacapi.com
 0.0.0.0 www.tiesmaritalkidnap.com
 0.0.0.0 www.tiesmissionaryprefecture.com
