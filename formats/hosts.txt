@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.070
 # Release: 070
-# Entries: 46,489
-# Updated: Sat, 11 Mar 23 16:08:50 +06
+# Entries: 46,493
+# Updated: Sat, 11 Mar 23 18:08:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2954,6 +2954,7 @@
 0.0.0.0 aicfun.com
 0.0.0.0 aichatu.com
 0.0.0.0 aicryptocurrencycoin.com
+0.0.0.0 aicryptogpt.online
 0.0.0.0 aidanhogarth.com
 0.0.0.0 aidomination.xyz
 0.0.0.0 aidozer.com
@@ -3927,6 +3928,7 @@
 0.0.0.0 appleofcu.org
 0.0.0.0 applepreschool.uk
 0.0.0.0 applescringe.com
+0.0.0.0 applesecurity.app
 0.0.0.0 applesometimes.com
 0.0.0.0 applevfcu.org
 0.0.0.0 applewfcu.org
@@ -42711,6 +42713,7 @@
 0.0.0.0 www.letterwolves.com
 0.0.0.0 www.leubsdorf.com
 0.0.0.0 www.level23.nl
+0.0.0.0 www.levellinkedgrant.com
 0.0.0.0 www.leveragetypicalreflections.com
 0.0.0.0 www.levieuxfour.online
 0.0.0.0 www.levieuxfour.site
@@ -45805,6 +45808,7 @@
 0.0.0.0 yogawrite.com
 0.0.0.0 yogeshaher.com
 0.0.0.0 yoginisairbus.com
+0.0.0.0 yoginsxylose.life
 0.0.0.0 yogsnrlvwm.xyz
 0.0.0.0 yohny.tech
 0.0.0.0 yohoho.online
