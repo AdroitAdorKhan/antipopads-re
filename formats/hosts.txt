@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.071
 # Release: 071
-# Entries: 46,555
-# Updated: Sun, 12 Mar 23 02:07:27 +06
+# Entries: 46,562
+# Updated: Sun, 12 Mar 23 04:15:04 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10407,6 +10407,7 @@
 0.0.0.0 democratcautious.com
 0.0.0.0 democratplayful.com
 0.0.0.0 democratspreadingbeing.com
+0.0.0.0 democrattransportationirrational.com
 0.0.0.0 demolishabolish.com
 0.0.0.0 demolitionpourorganizer.com
 0.0.0.0 demoltionmanchester.co.uk
@@ -29470,6 +29471,7 @@
 0.0.0.0 rcgbcvrgnb.top
 0.0.0.0 rchrc.org
 0.0.0.0 rcihebjphylpa.top
+0.0.0.0 rckranen.com
 0.0.0.0 rclbuild.co.uk
 0.0.0.0 rclcshtpmpr.top
 0.0.0.0 rconventure.top
@@ -30495,6 +30497,7 @@
 0.0.0.0 rookmemorizevoluntary.com
 0.0.0.0 rookmini.com
 0.0.0.0 rooksreused.website
+0.0.0.0 roolgage.com
 0.0.0.0 roomco.tech
 0.0.0.0 roomlove.online
 0.0.0.0 roommatespacioushrs.com
@@ -34255,6 +34258,7 @@
 0.0.0.0 tamilyogi.email
 0.0.0.0 tamilyogi.how
 0.0.0.0 tamilyogi.news
+0.0.0.0 tamilyogi.plus
 0.0.0.0 tammyandjeff2024.com
 0.0.0.0 tamoafuera.com
 0.0.0.0 tampermonkey2.net
@@ -43705,6 +43709,7 @@
 0.0.0.0 www.ravenkott.com
 0.0.0.0 www.ravivaru.com
 0.0.0.0 www.rayrecollect.com
+0.0.0.0 www.rckranen.com
 0.0.0.0 www.rclbuild.co.uk
 0.0.0.0 www.rds.com.ng
 0.0.0.0 www.re-jc.com
@@ -44298,6 +44303,7 @@
 0.0.0.0 www.tamilyogi.dog
 0.0.0.0 www.tamilyogi.email
 0.0.0.0 www.tamilyogi.news
+0.0.0.0 www.tamilyogi.plus
 0.0.0.0 www.tamoafuera.com
 0.0.0.0 www.tampermonkey2.net
 0.0.0.0 www.tanadong.net
@@ -46449,6 +46455,7 @@
 0.0.0.0 zoirjon.tech
 0.0.0.0 zojewa.com
 0.0.0.0 zolaangels.org
+0.0.0.0 zollectric.com
 0.0.0.0 zolrauls.net
 0.0.0.0 zomtanup.com
 0.0.0.0 zonapintar.tech
