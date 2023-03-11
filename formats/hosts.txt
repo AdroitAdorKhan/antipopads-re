@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.070
 # Release: 070
-# Entries: 46,501
-# Updated: Sat, 11 Mar 23 20:15:22 +06
+# Entries: 46,504
+# Updated: Sat, 11 Mar 23 22:07:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28529,6 +28529,7 @@
 0.0.0.0 publicbitch.com
 0.0.0.0 publicedmustwork.com
 0.0.0.0 publicsparedpen.com
+0.0.0.0 publictracking-freedom.com
 0.0.0.0 publicunloadbags.com
 0.0.0.0 publishedlocal.com
 0.0.0.0 publishercounting.com
@@ -43208,6 +43209,7 @@
 0.0.0.0 www.openairintervalcompanion.com
 0.0.0.0 www.openbankemprestimo.com
 0.0.0.0 www.openexaminationgist.com
+0.0.0.0 www.openlyprematurerates.com
 0.0.0.0 www.operationenough.space
 0.0.0.0 www.opsitshalf.com
 0.0.0.0 www.opthushbeginning.com
@@ -43564,6 +43566,7 @@
 0.0.0.0 www.psychicbowel.com
 0.0.0.0 www.psychologyairport.com
 0.0.0.0 www.pubasks.com
+0.0.0.0 www.publictracking-freedom.com
 0.0.0.0 www.publicunloadbags.com
 0.0.0.0 www.publishercounting.com
 0.0.0.0 www.pubopenaccess.org
