@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.071
 # Release: 071
-# Entries: 46,600
-# Updated: Sun, 12 Mar 23 14:07:30 +06
+# Entries: 46,603
+# Updated: Sun, 12 Mar 23 16:07:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20883,6 +20883,7 @@
 0.0.0.0 learnlifescience.com
 0.0.0.0 learntinga.com
 0.0.0.0 learntjubilee.com
+0.0.0.0 leaseholderbarbcompact.com
 0.0.0.0 leashmotto.com
 0.0.0.0 leathtexactlyci.com
 0.0.0.0 leatmansures.com
@@ -23759,6 +23760,7 @@
 0.0.0.0 mygpuid.com
 0.0.0.0 mygtmn.com
 0.0.0.0 myhomefoundation.org
+0.0.0.0 myhost.name
 0.0.0.0 myhugewords.com
 0.0.0.0 myhypeposts.com
 0.0.0.0 myhypestories.com
@@ -42576,6 +42578,7 @@
 0.0.0.0 www.javd007.com
 0.0.0.0 www.jawlawolf.com
 0.0.0.0 www.jazzchampionshipsca.org
+0.0.0.0 www.jazzyourgenealogy.com
 0.0.0.0 www.jdnje.com
 0.0.0.0 www.jdoqocy.com
 0.0.0.0 www.jealousyimpostersophia.com
