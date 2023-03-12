@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.071
 # Release: 071
-# Entries: 46,582
-# Updated: Sun, 12 Mar 23 08:07:10 +06
+# Entries: 46,595
+# Updated: Sun, 12 Mar 23 10:07:27 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1258,6 +1258,7 @@
 0.0.0.0 737194.com
 0.0.0.0 73a.org
 0.0.0.0 73xm.com
+0.0.0.0 7468comwww.601122.com
 0.0.0.0 746fyw2v.com
 0.0.0.0 74c1faa635.f3a173b897.com
 0.0.0.0 74ibcasino.xyz
@@ -11966,6 +11967,7 @@
 0.0.0.0 edgc2021.com
 0.0.0.0 edgeads.org
 0.0.0.0 edgelawyer.tech
+0.0.0.0 edgereward.in
 0.0.0.0 edgevertise.com
 0.0.0.0 edgy-veggie.ru
 0.0.0.0 edgyconnaterag.com
@@ -23708,6 +23710,7 @@
 0.0.0.0 mybetterdl.com
 0.0.0.0 mybettermb.com
 0.0.0.0 mybevata.com
+0.0.0.0 mybigestore.com
 0.0.0.0 mybigfatsale.com
 0.0.0.0 mybmrtrg.com
 0.0.0.0 mybrokenharp.com
@@ -32422,7 +32425,9 @@
 0.0.0.0 skantv.uk
 0.0.0.0 skanwave.co.uk
 0.0.0.0 skanwave.uk
+0.0.0.0 skechersbrazil.com
 0.0.0.0 skechersenargentina.com
+0.0.0.0 skecherswarszawa.com
 0.0.0.0 skeeingfondu.life
 0.0.0.0 skeetcommodities.com
 0.0.0.0 skelity.com
@@ -40634,6 +40639,7 @@
 0.0.0.0 www.archgrotesqueiso.com
 0.0.0.0 www.archiecheekydecline.com
 0.0.0.0 www.archiveofuorown.org
+0.0.0.0 www.arcionteriors.com
 0.0.0.0 www.ardourineptlavender.com
 0.0.0.0 www.area56.org
 0.0.0.0 www.arevelk.am
@@ -40911,6 +40917,7 @@
 0.0.0.0 www.bluishgeologicallimitless.com
 0.0.0.0 www.blushmossy.com
 0.0.0.0 www.blushrepublicwedding.com
+0.0.0.0 www.bnserving.com
 0.0.0.0 www.boarhammock.com
 0.0.0.0 www.boastpretenddied.com
 0.0.0.0 www.boatobservefreshman.com
@@ -43105,6 +43112,7 @@
 0.0.0.0 www.my77741.com
 0.0.0.0 www.myamite.org
 0.0.0.0 www.mybankroll.email
+0.0.0.0 www.mybigestore.com
 0.0.0.0 www.mycatherderllc.com
 0.0.0.0 www.myclaimmatters.com
 0.0.0.0 www.mycrowncollection.net
@@ -44093,6 +44101,8 @@
 0.0.0.0 www.sizzledsausage.co.uk
 0.0.0.0 www.sjhs001.com
 0.0.0.0 www.sjinternal.com
+0.0.0.0 www.skechersbrazil.com
+0.0.0.0 www.skecherswarszawa.com
 0.0.0.0 www.skidgleambrand.com
 0.0.0.0 www.skillgames.biz
 0.0.0.0 www.skinsdefinitely.com
@@ -44858,6 +44868,7 @@
 0.0.0.0 www.xn--ghq.xn--jrry14l.com
 0.0.0.0 www.xn--jrry14l.com
 0.0.0.0 www.xn--tv-hk5ia.com
+0.0.0.0 www.xn--v6qx86l.com
 0.0.0.0 www.xpqh.xyz
 0.0.0.0 www.xsanyewu.org
 0.0.0.0 www.xshdyw.com
@@ -45388,6 +45399,7 @@
 0.0.0.0 xn--rvinovaes-w3a8m.com
 0.0.0.0 xn--scre-bva34c.com
 0.0.0.0 xn--tv-hk5ia.com
+0.0.0.0 xn--v6qx86l.com
 0.0.0.0 xncwx2.com
 0.0.0.0 xnfmbejucgoldi.com
 0.0.0.0 xnfmseiyqoqjhia.com
@@ -45673,6 +45685,7 @@
 0.0.0.0 ybghlanzouv.com
 0.0.0.0 ybjpltruve.com
 0.0.0.0 ybmnptiuj.xyz
+0.0.0.0 ybzwez.xyz
 0.0.0.0 yc.flyblowfilippi.com
 0.0.0.0 yc320.com
 0.0.0.0 ycadenevery.xyz
