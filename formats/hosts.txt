@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.072
 # Release: 072
-# Entries: 46,680
-# Updated: Mon, 13 Mar 23 02:07:21 +06
+# Entries: 46,703
+# Updated: Mon, 13 Mar 23 04:14:32 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1191,6 +1191,7 @@
 0.0.0.0 6f94152de6.com
 0.0.0.0 6f9cbb6496.f78f9d3fc2.com
 0.0.0.0 6fxtpu64lxyt.com
+0.0.0.0 6gavsd66x.monster
 0.0.0.0 6glece4homah8dweracea.com
 0.0.0.0 6gsd7hjs.website
 0.0.0.0 6hagvsha6.monster
@@ -1297,6 +1298,7 @@
 0.0.0.0 79xmz3lmss.com
 0.0.0.0 7a88ea3137.com
 0.0.0.0 7adf76bf0d.5f425ed472.com
+0.0.0.0 7ahvwda77x.monster
 0.0.0.0 7anfpatlo8lwmb.com
 0.0.0.0 7b09514c8d.com
 0.0.0.0 7bchhgh.de
@@ -4269,6 +4271,7 @@
 0.0.0.0 asarma.xyz
 0.0.0.0 asbestosdamages.com
 0.0.0.0 asbinacler.com
+0.0.0.0 asbpatx.org
 0.0.0.0 asby.me
 0.0.0.0 ascaf.org
 0.0.0.0 asccdn.com
@@ -9286,6 +9289,7 @@
 0.0.0.0 corporatetotal.com
 0.0.0.0 corpulentoverdoselucius.com
 0.0.0.0 correry.com
+0.0.0.0 corruptstruckgames.com
 0.0.0.0 corylinstertor.digital
 0.0.0.0 coryljanty.cam
 0.0.0.0 coryzasaenean.website
@@ -10978,6 +10982,7 @@
 0.0.0.0 distractingtrustlamb.com
 0.0.0.0 distractiontradingamass.com
 0.0.0.0 distressedsensesmanage.com
+0.0.0.0 distressedsoultabloid.com
 0.0.0.0 distributionrealmoth.com
 0.0.0.0 distributiontomatoes.com
 0.0.0.0 districtbaloneywhiskers.com
@@ -12563,6 +12568,7 @@
 0.0.0.0 enwingdondia.com
 0.0.0.0 eo62cocntx.com
 0.0.0.0 eocpnxrvughk.com
+0.0.0.0 eodufofs.com
 0.0.0.0 eofsuxtctfdr.com
 0.0.0.0 eogvldpoeecdsi.com
 0.0.0.0 eomeijcmwgisxh.com
@@ -16423,6 +16429,7 @@
 0.0.0.0 happystudents.fr
 0.0.0.0 happywombat.net
 0.0.0.0 haprjb.com
+0.0.0.0 haqse.net
 0.0.0.0 haradeiu.rocks
 0.0.0.0 harankumaran.com
 0.0.0.0 harappa.app
@@ -17562,6 +17569,7 @@
 0.0.0.0 huppahshoras.com
 0.0.0.0 huptwulpwodiox.com
 0.0.0.0 huqcbpcqbijhxd.com
+0.0.0.0 huqse.net
 0.0.0.0 hurajp.net
 0.0.0.0 hurced.com
 0.0.0.0 hurdlesmuchel.com
@@ -23830,6 +23838,7 @@
 0.0.0.0 myphammoonshop.com
 0.0.0.0 mypost-idmail.xyz
 0.0.0.0 mypushz.com
+0.0.0.0 myracebets.com
 0.0.0.0 myrdrcts.com
 0.0.0.0 myrealestateai.com
 0.0.0.0 myreqdcompany.com
@@ -31712,11 +31721,13 @@
 0.0.0.0 senecapolytech.events
 0.0.0.0 senecapolytech.info
 0.0.0.0 senecapolytech.marketing
+0.0.0.0 senecapolytech.net
 0.0.0.0 senecapolytech.technology
 0.0.0.0 senecapolytechnic.academy
 0.0.0.0 senecapolytechnic.com
 0.0.0.0 senecapolytechnic.info
 0.0.0.0 senecapolytechnic.international
+0.0.0.0 senecapolytechnic.net
 0.0.0.0 senecapolytechnic.university
 0.0.0.0 senecapolytechnicinstitute.academy
 0.0.0.0 senecapolytechnicinstitute.careers
@@ -31725,6 +31736,7 @@
 0.0.0.0 senecapolytechnicinstitute.events
 0.0.0.0 senecapolytechnicinstitute.info
 0.0.0.0 senecapolytechnicinstitute.international
+0.0.0.0 senecapolytechnicinstitute.net
 0.0.0.0 senecapolytechnicinstitute.press
 0.0.0.0 senecapolytechnicinstitute.technology
 0.0.0.0 senecapolytechnicinstitute.university
@@ -31734,6 +31746,7 @@
 0.0.0.0 senecatech.international
 0.0.0.0 senecatech.marketing
 0.0.0.0 senecatech.media
+0.0.0.0 senecatech.net
 0.0.0.0 senecatech.org
 0.0.0.0 senecatech.press
 0.0.0.0 senecatech.technology
@@ -38617,6 +38630,7 @@
 0.0.0.0 vlnk.me
 0.0.0.0 vlnnoandjtftkvg.com
 0.0.0.0 vlry5l4j5gbn.com
+0.0.0.0 vltwoizzckpp.com
 0.0.0.0 vlvbyqgjqj.com
 0.0.0.0 vlwivjdunbhsaos.com
 0.0.0.0 vlykjb.com
@@ -40391,6 +40405,7 @@
 0.0.0.0 www.6916508c78.com
 0.0.0.0 www.69fuqi4.com
 0.0.0.0 www.6absjda66.monster
+0.0.0.0 www.6gavsd66x.monster
 0.0.0.0 www.6gsd7hjs.website
 0.0.0.0 www.6hgavhda61.monster
 0.0.0.0 www.6jahvsjdasd16.monster
@@ -40411,6 +40426,7 @@
 0.0.0.0 www.777-junk.com
 0.0.0.0 www.78sjhdbfjsdf8.monster
 0.0.0.0 www.79hmm.com
+0.0.0.0 www.7ahvwda77x.monster
 0.0.0.0 www.7dkjfbghjdfg77.monster
 0.0.0.0 www.7fdghdsasf7.monster
 0.0.0.0 www.7jghavshda71.monster
@@ -40729,6 +40745,7 @@
 0.0.0.0 www.artistruth.art
 0.0.0.0 www.arvinds.works
 0.0.0.0 www.arvindworks.click
+0.0.0.0 www.asbpatx.org
 0.0.0.0 www.ascaf.org
 0.0.0.0 www.ascendcolonel.com
 0.0.0.0 www.ascp.vip
@@ -42288,6 +42305,7 @@
 0.0.0.0 www.handlingblare.com
 0.0.0.0 www.hangoverineffectivecorners.com
 0.0.0.0 www.hansinaugurate.com
+0.0.0.0 www.hansrajnayyar.prashmak.com
 0.0.0.0 www.haodifang5.com
 0.0.0.0 www.haofamily.net
 0.0.0.0 www.haoxianyangrouye.com
@@ -43197,6 +43215,7 @@
 0.0.0.0 www.myjagran.com
 0.0.0.0 www.mymantech.com
 0.0.0.0 www.mymusicledger.com
+0.0.0.0 www.myracebets.com
 0.0.0.0 www.mysacredspace.org
 0.0.0.0 www.mysmartlink.website
 0.0.0.0 www.mythincredibly.com
@@ -44062,6 +44081,10 @@
 0.0.0.0 www.semicircleanalyzerequire.com
 0.0.0.0 www.semiglorifyseek.com
 0.0.0.0 www.senator.am
+0.0.0.0 www.senecapolytech.net
+0.0.0.0 www.senecapolytechnic.net
+0.0.0.0 www.senecapolytechnicinstitute.net
+0.0.0.0 www.senecatech.net
 0.0.0.0 www.sensationaljanuaryscent.com
 0.0.0.0 www.sensationapparatus.com
 0.0.0.0 www.sensematernityexcitement.com
