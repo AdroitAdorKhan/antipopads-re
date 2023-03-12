@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.071
 # Release: 071
-# Entries: 46,617
-# Updated: Sun, 12 Mar 23 20:12:59 +06
+# Entries: 46,622
+# Updated: Sun, 12 Mar 23 22:07:43 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4031,6 +4031,7 @@
 0.0.0.0 aragonsolucoes.org
 0.0.0.0 aralomomolachan.com
 0.0.0.0 aramaickenya.live
+0.0.0.0 aramco.top
 0.0.0.0 aranuf.com
 0.0.0.0 arashdigital.com
 0.0.0.0 arasinteriors.net
@@ -21499,6 +21500,7 @@
 0.0.0.0 logibird.in
 0.0.0.0 logicalmodelvisible.com
 0.0.0.0 logilyavie.digital
+0.0.0.0 loginmicrosoftsonline.net
 0.0.0.0 logiquest.com.br
 0.0.0.0 loglabitrufly.top
 0.0.0.0 loglaupt.com
@@ -22231,6 +22233,7 @@
 0.0.0.0 mariaalmoite.com
 0.0.0.0 marial.pro
 0.0.0.0 marianimullins.com
+0.0.0.0 marianvejcik.com
 0.0.0.0 mariatease.com
 0.0.0.0 marieche.online
 0.0.0.0 marieillerbrun.com
@@ -24775,6 +24778,7 @@
 0.0.0.0 npihistory.com
 0.0.0.0 npihistory.org
 0.0.0.0 npkxxuidjvbjg.top
+0.0.0.0 nplay.ml
 0.0.0.0 npmbmymdou.xyz
 0.0.0.0 npnbwfpftjpqwc.com
 0.0.0.0 nposition.club
@@ -28314,6 +28318,7 @@
 0.0.0.0 propertyinbox.uk
 0.0.0.0 propertymaintenanceservices.uk
 0.0.0.0 propertyofnews.com
+0.0.0.0 propertyprintervice.com
 0.0.0.0 propertyservices.info
 0.0.0.0 propertysurveynorfolk.co.uk
 0.0.0.0 propertysurveynorfolk.uk
