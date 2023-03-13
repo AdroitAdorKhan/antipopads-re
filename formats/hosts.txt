@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.073
 # Release: 073
-# Entries: 47,078
-# Updated: Tue, 14 Mar 23 02:08:14 +06
+# Entries: 47,087
+# Updated: Tue, 14 Mar 23 04:14:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7450,6 +7450,7 @@
 0.0.0.0 cappens-dreperor.com
 0.0.0.0 capraundine.live
 0.0.0.0 capricedemarrakech.com
+0.0.0.0 capricedes.com
 0.0.0.0 capricetheme.com
 0.0.0.0 capricornnestlevile.com
 0.0.0.0 caprissandhi.website
@@ -25332,6 +25333,7 @@
 0.0.0.0 oblivionwatcherrebellious.com
 0.0.0.0 oblixon.com
 0.0.0.0 oblongcondition.com
+0.0.0.0 oblongdisavowdetector.com
 0.0.0.0 oblongseller.com
 0.0.0.0 obmalmnaw.com
 0.0.0.0 obmnimarmos.com
@@ -26147,6 +26149,7 @@
 0.0.0.0 oshxhofaf.com
 0.0.0.0 osiextantly.com
 0.0.0.0 osifelanseante.lol
+0.0.0.0 osinski.biz
 0.0.0.0 ositic.com
 0.0.0.0 osjttqqlpkodn.top
 0.0.0.0 oskiwood.com
@@ -26261,6 +26264,7 @@
 0.0.0.0 oursiignaboaord.xyz
 0.0.0.0 oursimpleaddress.org
 0.0.0.0 ourteeko.com
+0.0.0.0 ourtopstories.com
 0.0.0.0 ourwildpreciouslife.com
 0.0.0.0 ourwmfghosc.com
 0.0.0.0 ourzitemu.com
@@ -32408,6 +32412,7 @@
 0.0.0.0 shopmonthtravel.com
 0.0.0.0 shopngooutlet.com
 0.0.0.0 shopnorstrom.com
+0.0.0.0 shopnorwin.com
 0.0.0.0 shopparkside.com
 0.0.0.0 shoppe.kr
 0.0.0.0 shopshoist.com
@@ -35639,6 +35644,7 @@
 0.0.0.0 thrustlumpypulse.com
 0.0.0.0 tht-nl.com
 0.0.0.0 thterras.com
+0.0.0.0 thuac.com
 0.0.0.0 thuanmimamsa.com
 0.0.0.0 thuary.com
 0.0.0.0 thujo.com
@@ -43754,6 +43760,7 @@
 0.0.0.0 www.oxthrilled.com
 0.0.0.0 www.oyahdmfjcf.top
 0.0.0.0 www.oysterexhalereview.com
+0.0.0.0 www.paathshaalaclasses.com
 0.0.0.0 www.pacifyinvalid.com
 0.0.0.0 www.packethierarchy.com
 0.0.0.0 www.paddlerefreshments.com
@@ -44136,6 +44143,7 @@
 0.0.0.0 www.radiancethedevice.com
 0.0.0.0 www.radiancewoebun.com
 0.0.0.0 www.radio-cat.ru
+0.0.0.0 www.radioads.pearlmedia.in
 0.0.0.0 www.radiomartesiracusa.it
 0.0.0.0 www.raftmomentarywed.com
 0.0.0.0 www.ragersville.online
@@ -44485,6 +44493,7 @@
 0.0.0.0 www.shok.am
 0.0.0.0 www.shookcooperassociate.com
 0.0.0.0 www.shopkr.online
+0.0.0.0 www.shopnorwin.com
 0.0.0.0 www.shopshoist.com
 0.0.0.0 www.shoptoday1.shop
 0.0.0.0 www.shopuniteclosing.com
