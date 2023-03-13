@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.072
 # Release: 072
-# Entries: 46,703
-# Updated: Mon, 13 Mar 23 04:14:32 +06
+# Entries: 46,705
+# Updated: Mon, 13 Mar 23 06:07:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -23127,6 +23127,7 @@
 0.0.0.0 mmenuxic.com
 0.0.0.0 mmetrix.mobi
 0.0.0.0 mmfudtmtjx.com
+0.0.0.0 mmg-shop.com
 0.0.0.0 mmgads.com
 0.0.0.0 mmh3gf.com
 0.0.0.0 mmmkwhktalcvvpg.com
@@ -41438,6 +41439,7 @@
 0.0.0.0 www.crawlingmat.com
 0.0.0.0 www.crazgamas.com
 0.0.0.0 www.crazyfordogs.xyz
+0.0.0.0 www.creativeformatsnetwork.com
 0.0.0.0 www.creativewetlook.com
 0.0.0.0 www.creatorcloakroomborrowed.com
 0.0.0.0 www.crechefurnishduck.com
