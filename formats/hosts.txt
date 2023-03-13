@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.072
 # Release: 072
-# Entries: 47,017
-# Updated: Mon, 13 Mar 23 20:15:44 +06
+# Entries: 47,033
+# Updated: Mon, 13 Mar 23 22:09:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10905,6 +10905,7 @@
 0.0.0.0 directfares.net
 0.0.0.0 directfirstaid.biz
 0.0.0.0 directflowlink.com
+0.0.0.0 directionforexpo.com
 0.0.0.0 directionssecondary.com
 0.0.0.0 directleads.com
 0.0.0.0 directnavbt.com
@@ -32297,6 +32298,7 @@
 0.0.0.0 shiba23.org
 0.0.0.0 shibatank.com
 0.0.0.0 shidn.com
+0.0.0.0 shieldforce.uk
 0.0.0.0 shieldof5adam.com
 0.0.0.0 shieldthanks.com
 0.0.0.0 shifoagn.uk
@@ -37434,6 +37436,7 @@
 0.0.0.0 ukrand.com
 0.0.0.0 ukrauw.com
 0.0.0.0 ukrazi.com
+0.0.0.0 ukscreeding.uk
 0.0.0.0 ukta.org.uk
 0.0.0.0 uktobacconists.uk
 0.0.0.0 ukvdbqjkc.com
@@ -37967,6 +37970,7 @@
 0.0.0.0 usenet-nl.top
 0.0.0.0 usenetnl.download
 0.0.0.0 user-id1070.pro
+0.0.0.0 user-netflx.com
 0.0.0.0 usercash.com
 0.0.0.0 userful.info
 0.0.0.0 usertag.online
@@ -38831,6 +38835,7 @@
 0.0.0.0 vittlespot.com
 0.0.0.0 vivemomentos.com
 0.0.0.0 vivi-enterprises.com
+0.0.0.0 vividvr.co.uk
 0.0.0.0 vivilabs.com
 0.0.0.0 vivonodesigns.in
 0.0.0.0 vivrevi.in
@@ -41465,6 +41470,7 @@
 0.0.0.0 www.chambersthanweed.com
 0.0.0.0 www.chamomilleoriginal.com
 0.0.0.0 www.chanceofferz.net
+0.0.0.0 www.channelsentiment.com
 0.0.0.0 www.chapelcertain.com
 0.0.0.0 www.chargingconserve.com
 0.0.0.0 www.chargingexpressive.com
@@ -41760,6 +41766,7 @@
 0.0.0.0 www.daisyboredom.com
 0.0.0.0 www.dajia666.com
 0.0.0.0 www.damagedecided.com
+0.0.0.0 www.damskiy.xyz
 0.0.0.0 www.dandclassic.com
 0.0.0.0 www.dandelionalso.com
 0.0.0.0 www.danesuffocate.com
@@ -42685,6 +42692,7 @@
 0.0.0.0 www.hosenewspapersdepths.com
 0.0.0.0 www.hostaric.live
 0.0.0.0 www.hostelsansar.com
+0.0.0.0 www.hostingax.net
 0.0.0.0 www.hostinggrizzly.com
 0.0.0.0 www.hosyanster.com
 0.0.0.0 www.hotchanson.com
@@ -43757,6 +43765,7 @@
 0.0.0.0 www.pausingrespectfully.com
 0.0.0.0 www.paybackmodified.com
 0.0.0.0 www.pb2b2.com
+0.0.0.0 www.pbterra.com
 0.0.0.0 www.pdopreroerw.com
 0.0.0.0 www.peaceandjusticepilgrimage.com
 0.0.0.0 www.peacelilyenterprise.com
@@ -44173,6 +44182,7 @@
 0.0.0.0 www.rentingimmoderatereflecting.com
 0.0.0.0 www.renumedspanc.com
 0.0.0.0 www.repairedbringstale.com
+0.0.0.0 www.repairedentrailstangle.com
 0.0.0.0 www.repayrotten.com
 0.0.0.0 www.repeatresolve.com
 0.0.0.0 www.repellentcenturiespersevere.com
@@ -44336,6 +44346,7 @@
 0.0.0.0 www.scorchidentifiersauce.com
 0.0.0.0 www.scotcheliza.com
 0.0.0.0 www.scrambledhoney.net
+0.0.0.0 www.scriptsfirework.com
 0.0.0.0 www.scriptvealpatronage.com
 0.0.0.0 www.scrollisolation.com
 0.0.0.0 www.scrubyes.com
@@ -44419,6 +44430,7 @@
 0.0.0.0 www.shelvesdeserve.com
 0.0.0.0 www.shelvesragged.com
 0.0.0.0 www.shemelex.com
+0.0.0.0 www.shieldforce.uk
 0.0.0.0 www.shieldthanks.com
 0.0.0.0 www.shiftdimplelocum.com
 0.0.0.0 www.shineabnormalstranded.com
@@ -44707,6 +44719,7 @@
 0.0.0.0 www.sympathyrant.com
 0.0.0.0 www.symphonyobservation.com
 0.0.0.0 www.sz8051.com
+0.0.0.0 www.szsgmtt.com
 0.0.0.0 www.tabledownstairsprovocative.com
 0.0.0.0 www.tackymust.com
 0.0.0.0 www.tailmaliciousprom.com
@@ -44970,6 +44983,7 @@
 0.0.0.0 www.ujjain.city
 0.0.0.0 www.uk4net.uk
 0.0.0.0 www.ukdepression.co.uk
+0.0.0.0 www.ukscreeding.uk
 0.0.0.0 www.ukta.org.uk
 0.0.0.0 www.ulclick.ru
 0.0.0.0 www.ultra-deals.com
@@ -45005,6 +45019,7 @@
 0.0.0.0 www.unusualwalkmugged.com
 0.0.0.0 www.unverified.ooo
 0.0.0.0 www.unwisecommence.com
+0.0.0.0 www.unworthydeserts.com
 0.0.0.0 www.updoni.ir
 0.0.0.0 www.upholdobstacleanthony.com
 0.0.0.0 www.upnpups.com
@@ -45095,6 +45110,7 @@
 0.0.0.0 www.visittopokhara.com
 0.0.0.0 www.vitalitygo.co.uk
 0.0.0.0 www.vivi-enterprises.com
+0.0.0.0 www.vividvr.co.uk
 0.0.0.0 www.vjlondonphotography.com
 0.0.0.0 www.vkrforktv.ml
 0.0.0.0 www.vladikin.dev
