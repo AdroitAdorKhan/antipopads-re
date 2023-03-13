@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.072
 # Release: 072
-# Entries: 46,705
-# Updated: Mon, 13 Mar 23 06:07:47 +06
+# Entries: 46,706
+# Updated: Mon, 13 Mar 23 08:07:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -25793,6 +25793,7 @@
 0.0.0.0 ophgzaatqd.com
 0.0.0.0 ophoacit.com
 0.0.0.0 ophoadee.xyz
+0.0.0.0 ophophiz.xyz
 0.0.0.0 opinanttrabant.com
 0.0.0.0 opinionthroughambition.com
 0.0.0.0 oplo.org
