@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.073
 # Release: 073
-# Entries: 47,121
-# Updated: Tue, 14 Mar 23 10:08:04 +06
+# Entries: 47,123
+# Updated: Tue, 14 Mar 23 12:13:28 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -41267,6 +41267,7 @@
 0.0.0.0 www.bestw1nners.com
 0.0.0.0 www.bett2you.net
 0.0.0.0 www.bett2you.org
+0.0.0.0 www.betterubet.com
 0.0.0.0 www.bettin2you.com
 0.0.0.0 www.bettingpremier.com
 0.0.0.0 www.bezlya.uk
@@ -41751,6 +41752,7 @@
 0.0.0.0 www.countrykitchenmag.com
 0.0.0.0 www.countrysideenormouscupcake.com
 0.0.0.0 www.countrysideinhale.com
+0.0.0.0 www.coupleseducation.com
 0.0.0.0 www.covenanttowerhotelbusinesscenter.com
 0.0.0.0 www.coverageinstallblind.com
 0.0.0.0 www.covercurrent.com
