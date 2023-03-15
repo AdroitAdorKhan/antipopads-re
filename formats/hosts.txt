@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.074
 # Release: 074
-# Entries: 47,641
-# Updated: Wed, 15 Mar 23 18:08:27 +06
+# Entries: 47,649
+# Updated: Wed, 15 Mar 23 20:14:14 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -313,6 +313,7 @@
 0.0.0.0 1ae1419b32.5913757eb5.com
 0.0.0.0 1ajhsbjdase11.monster
 0.0.0.0 1ajhsjdasd1.monster
+0.0.0.0 1ajhsjdax1.monster
 0.0.0.0 1anoth3rdoman1.com
 0.0.0.0 1anotherdomains1.com
 0.0.0.0 1anothetrmoda.com
@@ -5828,6 +5829,7 @@
 0.0.0.0 beshellspitous.com
 0.0.0.0 beshoutsum.store
 0.0.0.0 besidesaffluentcurrently.com
+0.0.0.0 besinpbx.com
 0.0.0.0 besirenfeijoa.live
 0.0.0.0 beskittyan.com
 0.0.0.0 besmeargleor.com
@@ -10201,6 +10203,7 @@
 0.0.0.0 daniel19.com
 0.0.0.0 danielduchaine.com
 0.0.0.0 danielle-vaughn.com
+0.0.0.0 danitemalus.life
 0.0.0.0 danitesalary.life
 0.0.0.0 dank.today
 0.0.0.0 dannytobok.com
@@ -18542,6 +18545,7 @@
 0.0.0.0 ineffectivepest.com
 0.0.0.0 ines-raabe.net
 0.0.0.0 inestimabletrifling.com
+0.0.0.0 inetstellantis.com
 0.0.0.0 ineuntkilnman.digital
 0.0.0.0 inevitablyflop.com
 0.0.0.0 inex.exchange
@@ -23847,6 +23851,7 @@
 0.0.0.0 mountengineto.top
 0.0.0.0 mountlanentablelanentable.com
 0.0.0.0 mouraipoucuk.com
+0.0.0.0 moustite.com
 0.0.0.0 mouton.foramscoypou.com
 0.0.0.0 moutoofa.com
 0.0.0.0 moutosoeksaadlh.com
@@ -32323,6 +32328,7 @@
 0.0.0.0 sergiflix.com
 0.0.0.0 serialwarning.com
 0.0.0.0 serieson.net
+0.0.0.0 serieswatch.tv
 0.0.0.0 seriy2sviter11o9.com
 0.0.0.0 sermondirt.com
 0.0.0.0 serpenspilgrim.com
@@ -33367,6 +33373,7 @@
 0.0.0.0 soarlearning.net
 0.0.0.0 soawhoaw.com
 0.0.0.0 soazooge.com
+0.0.0.0 sob.news
 0.0.0.0 sobakapi2sa8la09.com
 0.0.0.0 sobakenchmaphk.com
 0.0.0.0 sobbathing.com
@@ -46291,6 +46298,7 @@
 0.0.0.0 xmaswrite.com
 0.0.0.0 xmaxent.com
 0.0.0.0 xmbpzz.com
+0.0.0.0 xmerhilrir.com
 0.0.0.0 xmipexrorr.com
 0.0.0.0 xmkmuadkefzav.com
 0.0.0.0 xml-api.online
