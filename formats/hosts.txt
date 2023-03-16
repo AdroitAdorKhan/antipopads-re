@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.075
 # Release: 075
-# Entries: 47,892
-# Updated: Thu, 16 Mar 23 16:07:34 +06
+# Entries: 47,902
+# Updated: Thu, 16 Mar 23 18:07:45 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7489,6 +7489,7 @@
 0.0.0.0 campanula.am
 0.0.0.0 campervanhirelakedistrict.co.uk
 0.0.0.0 campgroundsitemap.com
+0.0.0.0 campingalmare.it
 0.0.0.0 campjupiterjul.com
 0.0.0.0 camplacecash.com
 0.0.0.0 campongprecant.com
@@ -15191,6 +15192,8 @@
 0.0.0.0 gazeesaucier.com
 0.0.0.0 gazete.co.uk
 0.0.0.0 gazetemcesme.com
+0.0.0.0 gazprom-client.website
+0.0.0.0 gazprom-investing.website
 0.0.0.0 gazzettas.it
 0.0.0.0 gb.fuglingkiev.com
 0.0.0.0 gbeqibqtxknt.com
@@ -18680,6 +18683,8 @@
 0.0.0.0 influenzahabit.com
 0.0.0.0 info-babysleepmiracle.us
 0.0.0.0 info-parceipostcanada.com
+0.0.0.0 info-payments.site
+0.0.0.0 info-payments.website
 0.0.0.0 info-postcanadatrack.com
 0.0.0.0 infobawel.com
 0.0.0.0 infogeologi.com
@@ -22616,6 +22621,7 @@
 0.0.0.0 mainwebinar.com
 0.0.0.0 maiptica.com
 0.0.0.0 mairunoa.xyz
+0.0.0.0 maisonrosaly.com
 0.0.0.0 maisvznypp.com
 0.0.0.0 majasgaol.com
 0.0.0.0 majestichiring.com
@@ -27261,6 +27267,8 @@
 0.0.0.0 payment-authorized-pay-pal.com
 0.0.0.0 paymentboxes.us
 0.0.0.0 paymentdeceasedcommence.com
+0.0.0.0 payments-info.site
+0.0.0.0 payments-info.website
 0.0.0.0 payments4u.org
 0.0.0.0 paymentsweb.org
 0.0.0.0 paypai-login.com
@@ -42015,6 +42023,7 @@
 0.0.0.0 www.cambridgeincompetenceresearch.com
 0.0.0.0 www.camelvanilla.com
 0.0.0.0 www.campgroundsitemap.com
+0.0.0.0 www.campingalmare.it
 0.0.0.0 www.campsecure.top
 0.0.0.0 www.canadasurrogacyconsultants.com
 0.0.0.0 www.cancer-report.com
@@ -44005,6 +44014,7 @@
 0.0.0.0 www.maidfrustratingindefinitely.com
 0.0.0.0 www.mailboxleadsphone.com
 0.0.0.0 www.maintenanceeight.com
+0.0.0.0 www.maisonrosaly.com
 0.0.0.0 www.makingnude.com
 0.0.0.0 www.makspeedtech.net
 0.0.0.0 www.malletpharmacy.com
