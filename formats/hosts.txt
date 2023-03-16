@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.03.075
-# Release: 075
-# Entries: 47,917
-# Updated: Thu, 16 Mar 23 23:08:31 +06
+# Version: 23.03.076
+# Release: 076
+# Entries: 47,921
+# Updated: Fri, 17 Mar 23 01:12:32 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2742,6 +2742,7 @@
 0.0.0.0 afcnuchxgo.com
 0.0.0.0 afcontent.net
 0.0.0.0 afcpatrk.com
+0.0.0.0 afdashrafi.com
 0.0.0.0 afehealth.net
 0.0.0.0 aff.biz
 0.0.0.0 aff1xstavka.com
@@ -12831,6 +12832,7 @@
 0.0.0.0 entmatchw.top
 0.0.0.0 entrancei.com
 0.0.0.0 entranding.com
+0.0.0.0 entrerscab.com
 0.0.0.0 entriflingw.xyz
 0.0.0.0 entropicltd.co.uk
 0.0.0.0 entseconom.com
@@ -16113,6 +16115,7 @@
 0.0.0.0 goundouskirty.com
 0.0.0.0 goupeecy.com
 0.0.0.0 gourahome.in
+0.0.0.0 gourdeunquote.website
 0.0.0.0 gouryvouster.com
 0.0.0.0 gousouse.com
 0.0.0.0 gouzaich.com
@@ -39973,6 +39976,7 @@
 0.0.0.0 waveclks.com
 0.0.0.0 wavermigraineuncle.com
 0.0.0.0 waverunnerparts.us
+0.0.0.0 waveysfumbled.com
 0.0.0.0 wawbarf.com
 0.0.0.0 wawlingcuba.com
 0.0.0.0 waxingequant.space
