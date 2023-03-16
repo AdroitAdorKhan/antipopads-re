@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.075
 # Release: 075
-# Entries: 47,745
-# Updated: Thu, 16 Mar 23 10:07:52 +06
+# Entries: 47,752
+# Updated: Thu, 16 Mar 23 12:15:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13682,6 +13682,7 @@
 0.0.0.0 faultspiano.com
 0.0.0.0 faultsspeck.com
 0.0.0.0 faused.com
+0.0.0.0 fauvauth.com
 0.0.0.0 fauvesez.net
 0.0.0.0 fauxpausej.top
 0.0.0.0 favcstct.com
@@ -20999,6 +21000,7 @@
 0.0.0.0 lacreperiedehampstead.uk
 0.0.0.0 ladbrokesaffiliates.com.au
 0.0.0.0 ladderfrog.com
+0.0.0.0 ladenapp.com
 0.0.0.0 ladianitalia.nl
 0.0.0.0 ladiathdefinishe.com
 0.0.0.0 ladigitaldirectory.com
@@ -22186,6 +22188,7 @@
 0.0.0.0 lucificassents.com
 0.0.0.0 luck4all.net
 0.0.0.0 luckerssurvey.top
+0.0.0.0 luckhuntz.com
 0.0.0.0 luckilygelatine.com
 0.0.0.0 lucky-boomer.net
 0.0.0.0 luckyads.pro
@@ -22313,6 +22316,7 @@
 0.0.0.0 lycheemosses.com
 0.0.0.0 lyconery-readset.com
 0.0.0.0 lycopinrekey.com
+0.0.0.0 lycoty.com
 0.0.0.0 lycvurml.com
 0.0.0.0 lydhcjgl.xyz
 0.0.0.0 lydianapkin.com
@@ -33259,6 +33263,7 @@
 0.0.0.0 smallstrengthen.com
 0.0.0.0 smalltiberbridge.com
 0.0.0.0 smart-building.cloud
+0.0.0.0 smart-kiwi.com
 0.0.0.0 smart-name.pro
 0.0.0.0 smart-secure-tata-play.biz
 0.0.0.0 smart-secure-tata-play.live
@@ -36403,6 +36408,7 @@
 0.0.0.0 tonesprotectioncard.com
 0.0.0.0 tonflbuelrx.top
 0.0.0.0 tonganserried.life
+0.0.0.0 tongjii.us
 0.0.0.0 tongjj.info
 0.0.0.0 tongsihai.top
 0.0.0.0 tonguehitch.com
@@ -38040,6 +38046,7 @@
 0.0.0.0 unhelerrevoke.website
 0.0.0.0 unhidekhakham.life
 0.0.0.0 unhorseaa.com
+0.0.0.0 uni-ham-burg.de
 0.0.0.0 unicityinfrastructurepartners.com
 0.0.0.0 unicitysolutions.com
 0.0.0.0 uniclients.dev
