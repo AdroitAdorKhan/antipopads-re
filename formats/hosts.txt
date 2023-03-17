@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.076
 # Release: 076
-# Entries: 47,983
-# Updated: Fri, 17 Mar 23 12:16:18 +06
+# Entries: 47,990
+# Updated: Fri, 17 Mar 23 14:16:13 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7056,6 +7056,7 @@
 0.0.0.0 btaoc.xyz
 0.0.0.0 btawesomehome.com
 0.0.0.0 btbdys001.com
+0.0.0.0 btbity.life
 0.0.0.0 btbtt529.com
 0.0.0.0 btc23.io
 0.0.0.0 btc23.net
@@ -28895,6 +28896,7 @@
 0.0.0.0 pro-web.net
 0.0.0.0 probablclaw.website
 0.0.0.0 probablpatas.com
+0.0.0.0 probagotrallers.com
 0.0.0.0 probitystuck.com
 0.0.0.0 problemhaltrivulet.com
 0.0.0.0 problemsendeavourbending.com
@@ -32208,6 +32210,7 @@
 0.0.0.0 scythesandwiches.com
 0.0.0.0 sd-rdw.com
 0.0.0.0 sd.flexessavin.com
+0.0.0.0 sd57.xyz
 0.0.0.0 sd5doozry8.com
 0.0.0.0 sdacford.com
 0.0.0.0 sdasasyydd.com
@@ -42030,6 +42033,7 @@
 0.0.0.0 www.brynh-lei.com
 0.0.0.0 www.btawesomehome.com
 0.0.0.0 www.btbdys001.com
+0.0.0.0 www.btbity.life
 0.0.0.0 www.btcgenerator.click
 0.0.0.0 www.btydhm.com
 0.0.0.0 www.buckeyetransplant.net
@@ -45208,6 +45212,7 @@
 0.0.0.0 www.scrubyes.com
 0.0.0.0 www.scythealready.com
 0.0.0.0 www.sd-rdw.com
+0.0.0.0 www.sd57.xyz
 0.0.0.0 www.sdacford.com
 0.0.0.0 www.sddclssws.com
 0.0.0.0 www.sdjhfsjdfii7.monster
@@ -46245,6 +46250,7 @@
 0.0.0.0 www.yump3s.com
 0.0.0.0 www.yunvx.fun
 0.0.0.0 www.yvesmadame.com
+0.0.0.0 www.yvycyrof.xyz
 0.0.0.0 www.yw1229cnn.com
 0.0.0.0 www.yw3azp558q8slfedm1ox2ehqah.com
 0.0.0.0 www.ywbluo.com
@@ -47546,6 +47552,7 @@
 0.0.0.0 yvqdhpyaoike.bid
 0.0.0.0 yvr-copilots.com
 0.0.0.0 yvycvgqdnackm.xyz
+0.0.0.0 yvycyrof.xyz
 0.0.0.0 yvzgazds6d.com
 0.0.0.0 yw.bilandmuon.com
 0.0.0.0 yw1229cnn.com
