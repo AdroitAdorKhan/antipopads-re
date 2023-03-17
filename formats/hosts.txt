@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.076
 # Release: 076
-# Entries: 48,100
-# Updated: Fri, 17 Mar 23 18:14:53 +06
+# Entries: 48,105
+# Updated: Fri, 17 Mar 23 21:04:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -108,6 +108,7 @@
 0.0.0.0 0howto.org
 0.0.0.0 0i0i0i0.com
 0.0.0.0 0jlkbwkp.com
+0.0.0.0 0knwelt1.com
 0.0.0.0 0l8hris7b3u.ind.in
 0.0.0.0 0min-btc.ru
 0.0.0.0 0museum.ru
@@ -699,6 +700,7 @@
 0.0.0.0 2sspnneeed2.monster
 0.0.0.0 2tpwcqot22mb.com
 0.0.0.0 2track.info
+0.0.0.0 2tretsryaer.com
 0.0.0.0 2vid.top
 0.0.0.0 2wetrsohelix.com
 0.0.0.0 2www.22516.netwww.677555.com
@@ -830,6 +832,7 @@
 0.0.0.0 3jahsjdad33.monster
 0.0.0.0 3jhsbfsdf31.monster
 0.0.0.0 3jhsvdhfsd3.monster
+0.0.0.0 3jkaskerste1.com
 0.0.0.0 3jkhsbjfsdf3.monster
 0.0.0.0 3jsbfusdf33.monster
 0.0.0.0 3jshdbfjs4.monster
@@ -9222,6 +9225,7 @@
 0.0.0.0 comwww.844644.com
 0.0.0.0 comwww.88896.comwww.622722.comwww.601122.com
 0.0.0.0 comwww.effectivecreativeformat.com
+0.0.0.0 comwww.highcpmrevenuenetwork.com
 0.0.0.0 comwww.profitabledisplayformat.com
 0.0.0.0 comwww24406comwww.844644.com
 0.0.0.0 comymandars.info
@@ -39192,6 +39196,7 @@
 0.0.0.0 vertamedia.com
 0.0.0.0 vertiportsasia.com
 0.0.0.0 vertiportsuk.co.uk
+0.0.0.0 vertiv.comwww.highcpmrevenuenetwork.com
 0.0.0.0 vertoz.com
 0.0.0.0 vertoz.fs.ak-is.net
 0.0.0.0 vertoz.fs.ak-is2.net
