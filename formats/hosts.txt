@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.077
 # Release: 077
-# Entries: 48,388
-# Updated: Sat, 18 Mar 23 20:19:19 +06
+# Entries: 48,390
+# Updated: Sat, 18 Mar 23 22:10:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20291,6 +20291,7 @@
 0.0.0.0 junbi-tracker.com
 0.0.0.0 juncil.com
 0.0.0.0 jundiedsesamin.com
+0.0.0.0 junedecrepitheroic.com
 0.0.0.0 junemy.com
 0.0.0.0 juniorolivares.com
 0.0.0.0 juniorsalloquy.guru
@@ -40695,6 +40696,7 @@
 0.0.0.0 whatsappautomation.org
 0.0.0.0 whatsappxnxx.com
 0.0.0.0 whatsgoingonwith.com
+0.0.0.0 whatsoeverdaring.com
 0.0.0.0 whatsoeverlittle.com
 0.0.0.0 whatsoninmycountynow.co.uk
 0.0.0.0 whatsoninmycountynow.com
