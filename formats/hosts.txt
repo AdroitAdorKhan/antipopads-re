@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.077
 # Release: 077
-# Entries: 48,191
-# Updated: Sat, 18 Mar 23 06:51:57 +06
+# Entries: 48,226
+# Updated: Sat, 18 Mar 23 08:38:28 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4171,7 +4171,9 @@
 0.0.0.0 arasinteriors.net
 0.0.0.0 arautsod.com
 0.0.0.0 arbitrywa.uno
+0.0.0.0 arbix.in
 0.0.0.0 arbkeutjopwbk.com
+0.0.0.0 arborfieldcross.co.uk
 0.0.0.0 arbourrenewal.com
 0.0.0.0 arbwgqpnr.com
 0.0.0.0 arcade.live
@@ -4212,8 +4214,10 @@
 0.0.0.0 ardrrspggw.xyz
 0.0.0.0 ardsdusknoiron.com
 0.0.0.0 ardslediana.com
+0.0.0.0 ardsociety.in
 0.0.0.0 ardspalkiator.com
 0.0.0.0 area56.org
+0.0.0.0 area71.co
 0.0.0.0 area730-casper.com
 0.0.0.0 areantaid.site
 0.0.0.0 areasnap.com
@@ -4365,6 +4369,7 @@
 0.0.0.0 articlesteakmoth.com
 0.0.0.0 artificialgrassfittersbirmingham.co.uk
 0.0.0.0 artisanalcode.dev
+0.0.0.0 artisanblend.in
 0.0.0.0 artistbazaar.live
 0.0.0.0 artistdavidb.com
 0.0.0.0 artisticbitten.com
@@ -4383,6 +4388,7 @@
 0.0.0.0 artwall.co.in
 0.0.0.0 aruncorp.xyz
 0.0.0.0 arunfood.in
+0.0.0.0 arunjee.in
 0.0.0.0 arvid.io
 0.0.0.0 arvinds.works
 0.0.0.0 arvindworks.click
@@ -4464,6 +4470,7 @@
 0.0.0.0 ashroomz.org
 0.0.0.0 ashtarakkat.info
 0.0.0.0 ashwagandha.co.in
+0.0.0.0 ashwinkoushan.in
 0.0.0.0 ashyhamburgertwice.com
 0.0.0.0 ashyknob.com
 0.0.0.0 asian-jewelry.com
@@ -4514,6 +4521,7 @@
 0.0.0.0 aspartbus.site
 0.0.0.0 aspectivesolutions.com
 0.0.0.0 aspectunderground.com
+0.0.0.0 aspenventures.in
 0.0.0.0 asperencium.com
 0.0.0.0 aspignitean.com
 0.0.0.0 aspiredcapitol.com
@@ -5229,6 +5237,7 @@
 0.0.0.0 baconybeek.uno
 0.0.0.0 bacoonandeggs.xyz
 0.0.0.0 bacquetsituate.uno
+0.0.0.0 badaaghar.in
 0.0.0.0 badanaproof.com
 0.0.0.0 badanaproof98.com
 0.0.0.0 badanaproof998.com
@@ -5331,6 +5340,7 @@
 0.0.0.0 balconypeer.com
 0.0.0.0 baldbaptismrisk.com
 0.0.0.0 baldeaglewaterskishows.com
+0.0.0.0 baldersdaleltd.co.uk
 0.0.0.0 baldwhizhens.com
 0.0.0.0 baledenseabbreviation.com
 0.0.0.0 baleiambwee.com
@@ -5408,6 +5418,7 @@
 0.0.0.0 baniep.com
 0.0.0.0 banikol.top
 0.0.0.0 bankatfreedom.com
+0.0.0.0 bankebihariinfra.in
 0.0.0.0 bankerconcludeshare.com
 0.0.0.0 bankgaruda.id
 0.0.0.0 bankingconcede.com
@@ -6015,6 +6026,8 @@
 0.0.0.0 beuhgdeguagqsw.com
 0.0.0.0 beunblkd.xyz
 0.0.0.0 beveledcorkir.com
+0.0.0.0 beverlygolfhills79.in
+0.0.0.0 beverlygolfhillsm3m.in
 0.0.0.0 bevinced.com
 0.0.0.0 bewailconsistedmembers.com
 0.0.0.0 bewailindigestionunhappy.com
@@ -6023,6 +6036,7 @@
 0.0.0.0 beyanmaan.com
 0.0.0.0 beyedortostr.info
 0.0.0.0 beyond100acrewood.com
+0.0.0.0 beyondfeeling.in
 0.0.0.0 beyondotp.com
 0.0.0.0 beyondzerodevelopments.com
 0.0.0.0 bezlya.uk
@@ -6705,6 +6719,7 @@
 0.0.0.0 bookstalktoo.co.uk
 0.0.0.0 booktheevent.co.uk
 0.0.0.0 bookveggies.com
+0.0.0.0 bookvic.in
 0.0.0.0 bookwormtiger.com
 0.0.0.0 booleanfalces.website
 0.0.0.0 boom-boom-vroom.com
@@ -7081,6 +7096,7 @@
 0.0.0.0 bslhcogqiknupo.com
 0.0.0.0 bsmqxkdwl.com
 0.0.0.0 bspcpfxbkxgd.com
+0.0.0.0 bspr.io
 0.0.0.0 bssietdu.top
 0.0.0.0 bst-offers.com
 0.0.0.0 bsvcuuvecapn.xyz
@@ -7101,6 +7117,7 @@
 0.0.0.0 btcblock.app
 0.0.0.0 btcgenerator.click
 0.0.0.0 btchdtv.com
+0.0.0.0 btclaundry.io
 0.0.0.0 btdduyfubumw.com
 0.0.0.0 btdirectnav.com
 0.0.0.0 btdnav.com
@@ -7339,6 +7356,7 @@
 0.0.0.0 bxcdculjghwypgh.com
 0.0.0.0 bxczchdxynw.com
 0.0.0.0 bxdcapital.com
+0.0.0.0 bxdyson.co.uk
 0.0.0.0 bxfight.com
 0.0.0.0 bxflight.com
 0.0.0.0 bxgwpt.com
@@ -7521,6 +7539,7 @@
 0.0.0.0 cambiaupblaze.uno
 0.0.0.0 cambridgeincompetenceresearch.com
 0.0.0.0 cambridgeshirefloorsander.co.uk
+0.0.0.0 cambusbarronltd.co.uk
 0.0.0.0 camelvanilla.com
 0.0.0.0 cameraunswing.com
 0.0.0.0 camewiththe.com.ua
@@ -7583,6 +7602,7 @@
 0.0.0.0 canjarltaox.com
 0.0.0.0 cannabiscultureconnect.com
 0.0.0.0 cannapag.org
+0.0.0.0 cannavia.io
 0.0.0.0 cannibis.church
 0.0.0.0 cannonjudo.com
 0.0.0.0 cannulamass.guru
@@ -7755,6 +7775,7 @@
 0.0.0.0 casino-philippines.online
 0.0.0.0 casino-russia.online
 0.0.0.0 casino-saudiarabia.online
+0.0.0.0 casino786.io
 0.0.0.0 casinobrigadereport.com
 0.0.0.0 casinocambodia.online
 0.0.0.0 casinocash.online
@@ -8650,6 +8671,7 @@
 0.0.0.0 clean-blocker.com
 0.0.0.0 clean.gg
 0.0.0.0 cleanbrowser.network
+0.0.0.0 cleandirty.in
 0.0.0.0 cleanedglistenwhite.com
 0.0.0.0 cleaneryelded.site
 0.0.0.0 cleanflawlessredir.com
@@ -11316,6 +11338,7 @@
 0.0.0.0 divideoutdoors.com
 0.0.0.0 dividurates.cam
 0.0.0.0 divill.com
+0.0.0.0 divinecoins.in
 0.0.0.0 divinesoul.love
 0.0.0.0 divinevisions.org
 0.0.0.0 divinitygoggle.com
@@ -11795,6 +11818,7 @@
 0.0.0.0 drogog.com
 0.0.0.0 dronaeducators.com
 0.0.0.0 dronedgentile.com
+0.0.0.0 droneflight.in
 0.0.0.0 dronespaceindia.com
 0.0.0.0 drongostetch.com
 0.0.0.0 droopberch.com
@@ -12928,6 +12952,7 @@
 0.0.0.0 eooperseducat.xyz
 0.0.0.0 eooslfyhziubo.com
 0.0.0.0 eoredi.com
+0.0.0.0 eorsolutions.in
 0.0.0.0 eosads.com
 0.0.0.0 eoseurlingeringonl.xyz
 0.0.0.0 eoseurlingeringont.com.ua
@@ -13007,6 +13032,7 @@
 0.0.0.0 equinoxtrading.co.uk
 0.0.0.0 equitydefault.com
 0.0.0.0 equityjesusdisappointment.com
+0.0.0.0 equityrights.co.in
 0.0.0.0 eradicatemanufacture.com
 0.0.0.0 erakt.in
 0.0.0.0 erapracticalaccommodating.com
@@ -13273,6 +13299,8 @@
 0.0.0.0 evaniahomments.com
 0.0.0.0 evasiondemandedlearning.com
 0.0.0.0 evcare4u.com
+0.0.0.0 evcarsupplier.co.uk
+0.0.0.0 evcarsuppliers.co.uk
 0.0.0.0 evchargepoints.com.au
 0.0.0.0 evchargingandinfrastructure.co.uk
 0.0.0.0 evcknbym.com
@@ -13477,6 +13505,7 @@
 0.0.0.0 expressivedesign.co.uk
 0.0.0.0 expressivediscoveredprominent.com
 0.0.0.0 expressvampire.com
+0.0.0.0 expressway114.in
 0.0.0.0 expugi.com
 0.0.0.0 expulsionstiffserum.com
 0.0.0.0 exqtksbattheh.com
@@ -13715,12 +13744,14 @@
 0.0.0.0 farhotels.xyz
 0.0.0.0 farinassurbase.uno
 0.0.0.0 farmacia-es.com
+0.0.0.0 farmdad.in
 0.0.0.0 farmersandcompany.in
 0.0.0.0 farmersexchangeonline.com
 0.0.0.0 farmersmarketpueblo.com
 0.0.0.0 farmersmarketpueblo.org
 0.0.0.0 farmsecurityspecialists.co.uk
 0.0.0.0 faroff-painting.pro
+0.0.0.0 farranaconaghy.co.uk
 0.0.0.0 farriersprouthygienic.com
 0.0.0.0 farsightedheathenactually.com
 0.0.0.0 farteniuson.com
@@ -14586,6 +14617,7 @@
 0.0.0.0 forfrogadiertor.com
 0.0.0.0 forgabrimous.website
 0.0.0.0 forgerylimit.com
+0.0.0.0 forget-her.name
 0.0.0.0 forgetfulpromptlyappointment.com
 0.0.0.0 forgetinnumerablelag.com
 0.0.0.0 forgiemaulvi.com
@@ -15144,6 +15176,7 @@
 0.0.0.0 galibicalvous.guru
 0.0.0.0 galkama.info
 0.0.0.0 galki.top
+0.0.0.0 gallbladderplus.in
 0.0.0.0 galliestorpify.com
 0.0.0.0 gallonranchwhining.com
 0.0.0.0 galopelikeantelope.com
@@ -15357,6 +15390,7 @@
 0.0.0.0 generationscloveinappropriate.com
 0.0.0.0 generativeimaging.com
 0.0.0.0 genericlink.com
+0.0.0.0 genericsupps.in
 0.0.0.0 genesisbeyond.org
 0.0.0.0 genesismedia.com
 0.0.0.0 genessajackson.net
@@ -16298,6 +16332,7 @@
 0.0.0.0 graphenerobotics.co.uk
 0.0.0.0 graphenprotocol.com
 0.0.0.0 graphiktool.com
+0.0.0.0 graphiktool.in
 0.0.0.0 grasshopperprudencecondiment.com
 0.0.0.0 grassrootsaide.com
 0.0.0.0 grasutie.net
