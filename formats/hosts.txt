@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.077
 # Release: 077
-# Entries: 48,379
-# Updated: Sat, 18 Mar 23 16:09:12 +06
+# Entries: 48,384
+# Updated: Sat, 18 Mar 23 18:34:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -206,6 +206,7 @@
 0.0.0.0 121xox.com
 0.0.0.0 1221e236c3f8703.com
 0.0.0.0 123-movies.bz
+0.0.0.0 123286b.com
 0.0.0.0 123565a.com
 0.0.0.0 12365chia.com
 0.0.0.0 123756565.com
@@ -708,6 +709,7 @@
 0.0.0.0 2wetrsohelix.com
 0.0.0.0 2www.22516.netwww.677555.com
 0.0.0.0 2x2mfeed.com
+0.0.0.0 2xav11.xyz
 0.0.0.0 2xtsla.io
 0.0.0.0 3-arabi.com
 0.0.0.0 3-mobiappu.com
@@ -812,6 +814,7 @@
 0.0.0.0 3comms.io
 0.0.0.0 3commsa.io
 0.0.0.0 3d-bites.com
+0.0.0.0 3d5ceeeb69.com
 0.0.0.0 3dcube.in
 0.0.0.0 3dfcff2ec15099df0a24ad2cee74f21a.com
 0.0.0.0 3dnsew.com
@@ -4244,6 +4247,7 @@
 0.0.0.0 arened.com
 0.0.0.0 arengboard.com
 0.0.0.0 arenitezill.com
+0.0.0.0 arensbergpharmacy.com
 0.0.0.0 arethegrav.com.ua
 0.0.0.0 arethegravk.xyz
 0.0.0.0 arevelk.am
@@ -8269,6 +8273,7 @@
 0.0.0.0 chazanscapita.com
 0.0.0.0 chci.shop
 0.0.0.0 chcl.tech
+0.0.0.0 chcpayment.com
 0.0.0.0 cheap-jewelry-online.com
 0.0.0.0 cheap-result.pro
 0.0.0.0 cheapenleaving.com
