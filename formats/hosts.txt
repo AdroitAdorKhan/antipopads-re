@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.077
 # Release: 077
-# Entries: 48,240
-# Updated: Sat, 18 Mar 23 10:20:33 +06
+# Entries: 48,246
+# Updated: Sat, 18 Mar 23 12:14:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1469,6 +1469,7 @@
 0.0.0.0 8934728393492.com
 0.0.0.0 89c3bf402f.com
 0.0.0.0 89thz.com
+0.0.0.0 8a200018d9.com
 0.0.0.0 8a90f9d6e4.com
 0.0.0.0 8ae86.com
 0.0.0.0 8ajhsvjdasd873.monster
@@ -2926,6 +2927,7 @@
 0.0.0.0 agenpokeronline.top
 0.0.0.0 agent-connect.tech
 0.0.0.0 agentsofagency.org
+0.0.0.0 ageofimagination.in
 0.0.0.0 ageore.com
 0.0.0.0 ageory.com
 0.0.0.0 agfdapqal.com
@@ -21264,6 +21266,7 @@
 0.0.0.0 lainmpatoio.xyz
 0.0.0.0 lairdsnorthen.store
 0.0.0.0 lairfiend.com
+0.0.0.0 laislalibros.com
 0.0.0.0 laitpavia.com
 0.0.0.0 laiwhost.net
 0.0.0.0 laizuwhy.com
@@ -44132,6 +44135,7 @@
 0.0.0.0 www.laene.org
 0.0.0.0 www.lahanbertyes.com
 0.0.0.0 www.lairfiend.com
+0.0.0.0 www.laislalibros.com
 0.0.0.0 www.laminutecalme.com
 0.0.0.0 www.lampatv.fan
 0.0.0.0 www.lanceload.com
@@ -45864,6 +45868,7 @@
 0.0.0.0 www.tampermonkey2.net
 0.0.0.0 www.tanadong.net
 0.0.0.0 www.taoyin365.com
+0.0.0.0 www.tapinvited.com
 0.0.0.0 www.tarabergmane.com
 0.0.0.0 www.tattoobrutally.com
 0.0.0.0 www.tawudjawd9.monster
@@ -46071,6 +46076,7 @@
 0.0.0.0 www.trickystudio.in
 0.0.0.0 www.triedfavourable.com
 0.0.0.0 www.triflinguncertainforensic.com
+0.0.0.0 www.triggersinclude.com
 0.0.0.0 www.trimbrushed.com
 0.0.0.0 www.tripadviso.fr
 0.0.0.0 www.tris.link
