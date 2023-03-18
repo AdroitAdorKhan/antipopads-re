@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.077
 # Release: 077
-# Entries: 48,246
-# Updated: Sat, 18 Mar 23 12:14:08 +06
+# Entries: 48,252
+# Updated: Sat, 18 Mar 23 14:09:42 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19562,6 +19562,7 @@
 0.0.0.0 jams.wiki
 0.0.0.0 jamsoulsfriday.com
 0.0.0.0 jamuionline.in
+0.0.0.0 jamuuratv.in
 0.0.0.0 jan-legal.com
 0.0.0.0 janamtamil.tv
 0.0.0.0 janapadnews.in
@@ -24752,6 +24753,7 @@
 0.0.0.0 naukrimahakumbh.com
 0.0.0.0 nauseouschangeable.com
 0.0.0.0 naustoch.net
+0.0.0.0 nautanki.tv
 0.0.0.0 nauticalongo.it
 0.0.0.0 navalhazard.com
 0.0.0.0 navalresort.com
@@ -29465,6 +29467,8 @@
 0.0.0.0 public.servenobid.com
 0.0.0.0 publicbitch.com
 0.0.0.0 publicedmustwork.com
+0.0.0.0 publicgovco.site
+0.0.0.0 publicgovtw.site
 0.0.0.0 publicsparedpen.com
 0.0.0.0 publictracking-freedom.com
 0.0.0.0 publicunloadbags.com
@@ -42810,6 +42814,7 @@
 0.0.0.0 www.descriptioncages.com
 0.0.0.0 www.descriptionheels.com
 0.0.0.0 www.descriptiveimmortalityconveyed.com
+0.0.0.0 www.deshourty.com
 0.0.0.0 www.deskoctavian.com
 0.0.0.0 www.desktopsearchapp.com
 0.0.0.0 www.destinedobstinatesmug.com
@@ -44567,6 +44572,7 @@
 0.0.0.0 www.natuliquetx.com
 0.0.0.0 www.naturalbodybuilder.it
 0.0.0.0 www.nauseouschangeable.com
+0.0.0.0 www.nautanki.tv
 0.0.0.0 www.navalhazard.com
 0.0.0.0 www.naveljutmistress.com
 0.0.0.0 www.nbridge.net
