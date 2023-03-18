@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.078
 # Release: 078
-# Entries: 48,422
-# Updated: Sun, 19 Mar 23 00:09:43 +06
+# Entries: 48,425
+# Updated: Sun, 19 Mar 23 02:12:34 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -267,6 +267,7 @@
 0.0.0.0 14072www.logiquest.com.br
 0.0.0.0 1435b9649d.85c0a6a0ea.com
 0.0.0.0 143jav.com
+0.0.0.0 1444.space
 0.0.0.0 148dfe140d0f3d5e.com
 0.0.0.0 14cpoff22.de
 0.0.0.0 14i8trbbx4.com
@@ -811,6 +812,7 @@
 0.0.0.0 3bdb296887d8227400e0c69a793ee85d.com
 0.0.0.0 3bmm.xyz
 0.0.0.0 3cmmas.io
+0.0.0.0 3commas.fr
 0.0.0.0 3comms.io
 0.0.0.0 3commsa.io
 0.0.0.0 3d-bites.com
@@ -1462,6 +1464,7 @@
 0.0.0.0 87seaa.com
 0.0.0.0 8848mk.com
 0.0.0.0 884z.tv
+0.0.0.0 88576080.com
 0.0.0.0 88597.net
 0.0.0.0 8863tom.com
 0.0.0.0 88896.comwww.622722.comwww.601122.com
