@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.078
 # Release: 078
-# Entries: 48,605
-# Updated: Sun, 19 Mar 23 20:07:22 +06
+# Entries: 48,606
+# Updated: Sun, 19 Mar 23 22:07:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -38499,6 +38499,7 @@
 0.0.0.0 uknavqposewpkul.top
 0.0.0.0 uknsyenerg.co
 0.0.0.0 ukoffzeh.com
+0.0.0.0 ukraine-daily.com
 0.0.0.0 ukrainian-wife.net
 0.0.0.0 ukrainiancommunity.org
 0.0.0.0 ukrainianschools.org
