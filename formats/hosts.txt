@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.078
 # Release: 078
-# Entries: 48,448
-# Updated: Sun, 19 Mar 23 04:08:08 +06
+# Entries: 48,452
+# Updated: Sun, 19 Mar 23 06:07:28 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6604,6 +6604,7 @@
 0.0.0.0 bnrslks.com
 0.0.0.0 bnserving.com
 0.0.0.0 bnster.com
+0.0.0.0 bnumbers.com
 0.0.0.0 bnvrluoltbnmrot.com
 0.0.0.0 bnxqignhikrjaf.com
 0.0.0.0 bo.yoginsnorland.com
@@ -11601,6 +11602,7 @@
 0.0.0.0 dominatebacon.com
 0.0.0.0 dominatedisintegratemarinade.com
 0.0.0.0 dominioneastern.com
+0.0.0.0 dominiosyweb.com
 0.0.0.0 dominoeds.com
 0.0.0.0 dominows.com
 0.0.0.0 domislica.com
@@ -34418,6 +34420,7 @@
 0.0.0.0 ssbyysdaj.com
 0.0.0.0 sscincorporated.com
 0.0.0.0 ssdh.guru
+0.0.0.0 ssery.com
 0.0.0.0 ssettoourm.com
 0.0.0.0 ssfr.ca
 0.0.0.0 ssfultraightd.one
@@ -42346,6 +42349,7 @@
 0.0.0.0 www.blushmossy.com
 0.0.0.0 www.blushrepublicwedding.com
 0.0.0.0 www.bnserving.com
+0.0.0.0 www.bnumbers.com
 0.0.0.0 www.boarhammock.com
 0.0.0.0 www.boastpretenddied.com
 0.0.0.0 www.boatfaxmarine.com
