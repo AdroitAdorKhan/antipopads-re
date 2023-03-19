@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.079
 # Release: 079
-# Entries: 48,636
-# Updated: Mon, 20 Mar 23 00:13:18 +06
+# Entries: 48,638
+# Updated: Mon, 20 Mar 23 02:08:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5526,6 +5526,7 @@
 0.0.0.0 barrenmixture.pro
 0.0.0.0 barreraxyloid.com
 0.0.0.0 barriercereals.com
+0.0.0.0 barringjello.com
 0.0.0.0 barriobakery.com
 0.0.0.0 barrowwailing.com
 0.0.0.0 barrywheeler.net
@@ -9192,6 +9193,7 @@
 0.0.0.0 columnisterror.com
 0.0.0.0 columnsremembrancesoap.com
 0.0.0.0 coluth.com
+0.0.0.0 colved.com
 0.0.0.0 colvspbiudgflol.top
 0.0.0.0 com-878979.info
 0.0.0.0 com-f.in
