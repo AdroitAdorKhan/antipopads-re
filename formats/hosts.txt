@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.078
 # Release: 078
-# Entries: 48,486
-# Updated: Sun, 19 Mar 23 08:08:34 +06
+# Entries: 48,488
+# Updated: Sun, 19 Mar 23 10:10:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1429,6 +1429,7 @@
 0.0.0.0 811health.com
 0.0.0.0 811ontario.com
 0.0.0.0 811sante.com
+0.0.0.0 8123899.com
 0.0.0.0 818box.com
 0.0.0.0 823bc1a6cd3f1657.com
 0.0.0.0 82448dceaaa13034.com
@@ -4337,6 +4338,7 @@
 0.0.0.0 arogyamfoundation.com
 0.0.0.0 arointbarra.com
 0.0.0.0 aromapro.de
+0.0.0.0 arossb.com
 0.0.0.0 arouac.com
 0.0.0.0 aroundpayslips.com
 0.0.0.0 arousedimitateplane.com

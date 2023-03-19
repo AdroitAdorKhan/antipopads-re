@@ -20,8 +20,8 @@
 ! Version: 23.03.078
 ! Release: 078
 ! Expires: 1 day
-! Entries: 48,486
-! Updated: Sun, 19 Mar 23 08:08:34 +06
+! Entries: 48,488
+! Updated: Sun, 19 Mar 23 10:10:02 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -1430,6 +1430,7 @@
 ||811health.com^
 ||811ontario.com^
 ||811sante.com^
+||8123899.com^
 ||818box.com^
 ||823bc1a6cd3f1657.com^
 ||82448dceaaa13034.com^
@@ -4338,6 +4339,7 @@
 ||arogyamfoundation.com^
 ||arointbarra.com^
 ||aromapro.de^
+||arossb.com^
 ||arouac.com^
 ||aroundpayslips.com^
 ||arousedimitateplane.com^
