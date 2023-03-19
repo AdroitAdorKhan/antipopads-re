@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.078
 # Release: 078
-# Entries: 48,590
-# Updated: Sun, 19 Mar 23 16:14:23 +06
+# Entries: 48,593
+# Updated: Sun, 19 Mar 23 18:08:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4945,6 +4945,7 @@
 0.0.0.0 auwognoo.com
 0.0.0.0 auworkforce.org
 0.0.0.0 auyohcvrriw.com
+0.0.0.0 av-another-name.com
 0.0.0.0 av.civileunresty.com
 0.0.0.0 av.tapemanfoxship.com
 0.0.0.0 av142.xyz
@@ -8438,6 +8439,7 @@
 0.0.0.0 chl7rysobc3ol6xla.com
 0.0.0.0 chlibopi.xyz
 0.0.0.0 chligh.com
+0.0.0.0 chlign.com
 0.0.0.0 chlodd.com
 0.0.0.0 chlorleets.com
 0.0.0.0 chneteam.com
@@ -40679,6 +40681,7 @@
 0.0.0.0 wedoqomkpjun.top
 0.0.0.0 wedprofilms.com
 0.0.0.0 wedroid.net
+0.0.0.0 wedxuaksargvlf.com
 0.0.0.0 weedazou.net
 0.0.0.0 weedfowlsgram.com
 0.0.0.0 weednewspro.com
