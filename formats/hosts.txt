@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.080
 # Release: 080
-# Entries: 48,739
-# Updated: Tue, 21 Mar 23 02:07:55 +06
+# Entries: 48,747
+# Updated: Tue, 21 Mar 23 04:07:42 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13150,6 +13150,7 @@
 0.0.0.0 ercoeteasacom.com
 0.0.0.0 ercsklxgfbhwped.com
 0.0.0.0 erdeally.com
+0.0.0.0 erders.com
 0.0.0.0 ereducationindia.com
 0.0.0.0 eremuribleak.com
 0.0.0.0 erenchinterried.pro
@@ -19780,6 +19781,7 @@
 0.0.0.0 java8.xyz
 0.0.0.0 javacript.tk
 0.0.0.0 javatroll.biz
+0.0.0.0 javbd005.com
 0.0.0.0 javd005.com
 0.0.0.0 javd007.com
 0.0.0.0 javdb0007.com
@@ -19798,6 +19800,7 @@
 0.0.0.0 javgg.eu
 0.0.0.0 javpiayer.com
 0.0.0.0 javsfoods.in
+0.0.0.0 javstudy1.com
 0.0.0.0 javtube.website
 0.0.0.0 javvvvvv.xyz
 0.0.0.0 jawadfashion.com
@@ -23748,6 +23751,7 @@
 0.0.0.0 mgusvrgxbllbmf.top
 0.0.0.0 mgybermf.com
 0.0.0.0 mgyccfrshz.com
+0.0.0.0 mgzyz0.com
 0.0.0.0 mh.lunyfallace.com
 0.0.0.0 mh.martucubelet.com
 0.0.0.0 mh4488.com
@@ -41862,6 +41866,7 @@
 0.0.0.0 www.30bt.com
 0.0.0.0 www.313710.com
 0.0.0.0 www.3381.ma
+0.0.0.0 www.345a6.com
 0.0.0.0 www.35593c.com
 0.0.0.0 www.366xsw.com
 0.0.0.0 www.367tv.com
@@ -44377,8 +44382,10 @@
 0.0.0.0 www.japanesereaphot.com
 0.0.0.0 www.jav513.com
 0.0.0.0 www.javatroll.biz
+0.0.0.0 www.javbd005.com
 0.0.0.0 www.javd007.com
 0.0.0.0 www.javdb0010.com
+0.0.0.0 www.javstudy1.com
 0.0.0.0 www.jawlawolf.com
 0.0.0.0 www.jazzchampionshipsca.org
 0.0.0.0 www.jazzyourgenealogy.com
@@ -44840,6 +44847,7 @@
 0.0.0.0 www.meta11webservices.com
 0.0.0.0 www.metalskibase.co.uk
 0.0.0.0 www.methodrumour.com
+0.0.0.0 www.mgzyz0.com
 0.0.0.0 www.mhi.mb.ca
 0.0.0.0 www.mi1a8a.life
 0.0.0.0 www.miassav.com
