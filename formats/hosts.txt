@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.079
 # Release: 079
-# Entries: 48,644
-# Updated: Mon, 20 Mar 23 08:15:15 +06
+# Entries: 48,646
+# Updated: Mon, 20 Mar 23 10:09:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7564,6 +7564,7 @@
 0.0.0.0 cal-eye-care.org
 0.0.0.0 calamityfortuneaudio.com
 0.0.0.0 calcch.com
+0.0.0.0 calciofvg.online
 0.0.0.0 calculatorscaffoldmingle.com
 0.0.0.0 calexits.uno
 0.0.0.0 calfretcitizen.live
@@ -16368,6 +16369,7 @@
 0.0.0.0 gpqudvbtu.com
 0.0.0.0 gprhe.com
 0.0.0.0 gptpyf.top
+0.0.0.0 gpub.online
 0.0.0.0 gpuqizoz.com
 0.0.0.0 gpuvigpz.com
 0.0.0.0 gpwoeeoxkd.com
