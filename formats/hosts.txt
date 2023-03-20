@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.079
 # Release: 079
-# Entries: 48,639
-# Updated: Mon, 20 Mar 23 06:08:44 +06
+# Entries: 48,644
+# Updated: Mon, 20 Mar 23 08:15:15 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -339,6 +339,7 @@
 0.0.0.0 1bm3n8sld.de
 0.0.0.0 1buxie.com
 0.0.0.0 1c204c05d2898056fd.com
+0.0.0.0 1c58d3c688.com
 0.0.0.0 1callsupport.com
 0.0.0.0 1cba33df3d.com
 0.0.0.0 1ccbt.com
@@ -577,6 +578,7 @@
 0.0.0.0 250f0ma86.de
 0.0.0.0 252572.com
 0.0.0.0 254b27c125.2859933b6d.com
+0.0.0.0 258pcf.com
 0.0.0.0 25a9.com
 0.0.0.0 25obpfr.de
 0.0.0.0 25v7.com
@@ -11148,6 +11150,7 @@
 0.0.0.0 digitallucid.com
 0.0.0.0 digitalmediapp.com
 0.0.0.0 digitalreservation.fun
+0.0.0.0 digitalsignatureonline.in
 0.0.0.0 digivetcare.org
 0.0.0.0 digmob.org
 0.0.0.0 digressremarkableconfide.com
@@ -17927,6 +17930,7 @@
 0.0.0.0 hostingcloud.racing
 0.0.0.0 hostinggrizzly.com
 0.0.0.0 hostmaster.www.daily-mail.xyz
+0.0.0.0 hostmaster.www.digitalsignatureonline.in
 0.0.0.0 hostmaster.www.jiinuerealestate.brandvoice.online
 0.0.0.0 hostmaster.www.mesovialorganic.com
 0.0.0.0 hostrybirrs.store
@@ -17962,6 +17966,7 @@
 0.0.0.0 hotideiasnetwork.ga
 0.0.0.0 hotnews1.me
 0.0.0.0 hots-sun-finders1.com
+0.0.0.0 hotsatr.com
 0.0.0.0 hotspexsurveys.com
 0.0.0.0 hotstarnews.online
 0.0.0.0 hotterenvisage.com
