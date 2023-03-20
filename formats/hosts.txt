@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.03.079
-# Release: 079
-# Entries: 48,712
-# Updated: Mon, 20 Mar 23 22:11:58 +06
+# Version: 23.03.080
+# Release: 080
+# Entries: 48,718
+# Updated: Tue, 21 Mar 23 00:08:11 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8708,6 +8708,7 @@
 0.0.0.0 claritymsp.com
 0.0.0.0 claritypw.com
 0.0.0.0 clarityray.com
+0.0.0.0 clarks-shoes.us.com
 0.0.0.0 clarniton.online
 0.0.0.0 clarox.com
 0.0.0.0 clartyalcoate.website
@@ -13432,6 +13433,7 @@
 0.0.0.0 everleysapir.top
 0.0.0.0 everoutdoorsllc.com
 0.0.0.0 everybodyfebruary.com
+0.0.0.0 everymarket.uk
 0.0.0.0 everyminduk.org.uk
 0.0.0.0 everypilaus.com
 0.0.0.0 everythingeuphoria.com
@@ -29789,6 +29791,7 @@
 0.0.0.0 purchasertormentscoundrel.com
 0.0.0.0 purduegreeks.com
 0.0.0.0 pureadexchange.com
+0.0.0.0 pureaiddiscount.com
 0.0.0.0 purebrowseraddonedge.com
 0.0.0.0 purecopperbottles.com
 0.0.0.0 pureemail.net
@@ -43509,6 +43512,7 @@
 0.0.0.0 www.evaniahomments.com
 0.0.0.0 www.eventifratellimantello.com
 0.0.0.0 www.everettwaterfrontapartments.com
+0.0.0.0 www.everymarket.uk
 0.0.0.0 www.everywhereyelp.com
 0.0.0.0 www.evidentlysoup.com
 0.0.0.0 www.evilhostgxkamtkd.com
@@ -46956,6 +46960,7 @@
 0.0.0.0 www.zealousquickly.com
 0.0.0.0 www.zestyprop.com
 0.0.0.0 www.zetnewz.com
+0.0.0.0 www.zetserialo.com
 0.0.0.0 www.zhangranfilm.com
 0.0.0.0 www.zhashuan.com
 0.0.0.0 www.zhiyu188.com
@@ -48460,6 +48465,7 @@
 0.0.0.0 zetnewz.com
 0.0.0.0 zetserial.pro
 0.0.0.0 zetserial.tech
+0.0.0.0 zetserialo.com
 0.0.0.0 zeusadx.com
 0.0.0.0 zeusopuh.com
 0.0.0.0 zeusvargas.tech
