@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.079
 # Release: 079
-# Entries: 48,638
-# Updated: Mon, 20 Mar 23 02:08:44 +06
+# Entries: 48,639
+# Updated: Mon, 20 Mar 23 06:08:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12768,6 +12768,7 @@
 0.0.0.0 elon23.net
 0.0.0.0 elon23.org
 0.0.0.0 elonreptiloid.com
+0.0.0.0 elonten.cn
 0.0.0.0 elooksjustli.one
 0.0.0.0 eloquencer.com
 0.0.0.0 eloquentformallyrelapse.com
