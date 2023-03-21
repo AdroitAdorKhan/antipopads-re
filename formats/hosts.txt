@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.080
 # Release: 080
-# Entries: 48,984
-# Updated: Tue, 21 Mar 23 16:07:45 +06
+# Entries: 48,986
+# Updated: Tue, 21 Mar 23 18:07:37 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11030,6 +11030,7 @@
 0.0.0.0 developmentencyclopaedia.com
 0.0.0.0 devflies.com
 0.0.0.0 deviatemysticallocking.com
+0.0.0.0 deviceactivate.online
 0.0.0.0 deviceuniverse.com
 0.0.0.0 devilaboundultimate.com
 0.0.0.0 devilspanmute.com
@@ -16897,6 +16898,7 @@
 0.0.0.0 guvnsusr.com
 0.0.0.0 guwfusqa.com
 0.0.0.0 guxsxexlkdk.xyz
+0.0.0.0 guysstuff.xyz
 0.0.0.0 gv.basogachummy.com
 0.0.0.0 gv2.cc
 0.0.0.0 gvblimgpaiktfvr.com
