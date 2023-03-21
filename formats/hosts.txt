@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.080
 # Release: 080
-# Entries: 48,908
-# Updated: Tue, 21 Mar 23 10:07:30 +06
+# Entries: 48,910
+# Updated: Tue, 21 Mar 23 12:07:36 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1602,6 +1602,7 @@
 0.0.0.0 96b08b4df8.com
 0.0.0.0 96cd.net
 0.0.0.0 975nqoq7.info
+0.0.0.0 97727.comwww.677555.com
 0.0.0.0 97a024119c.4c329124bb.com
 0.0.0.0 97d73lsi.com
 0.0.0.0 97sandandgravel.com
@@ -42140,6 +42141,7 @@
 0.0.0.0 www.94194.comwww.844644.com
 0.0.0.0 www.94thz.com
 0.0.0.0 www.9522faf9d6.com
+0.0.0.0 www.97727.comwww.677555.com
 0.0.0.0 www.9842.comwww.844644.com
 0.0.0.0 www.996.works
 0.0.0.0 www.99968tz.com
