@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.080
 # Release: 080
-# Entries: 48,986
-# Updated: Tue, 21 Mar 23 18:07:37 +06
+# Entries: 48,994
+# Updated: Tue, 21 Mar 23 20:07:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9987,6 +9987,7 @@
 0.0.0.0 croakkeepingstable.com
 0.0.0.0 crocodileterminal.com
 0.0.0.0 crocopop.com
+0.0.0.0 crocsodealership.com
 0.0.0.0 croissance-ontario.com
 0.0.0.0 croissanceontario.com
 0.0.0.0 cromo.name
@@ -22272,6 +22273,7 @@
 0.0.0.0 litegeorgia.com
 0.0.0.0 literacysufficientlymicroscope.com
 0.0.0.0 literalcorpulent.com
+0.0.0.0 literallisten.com
 0.0.0.0 literaturehogwhack.com
 0.0.0.0 literaturematt.com
 0.0.0.0 literpeore.com
@@ -23588,6 +23590,7 @@
 0.0.0.0 media970.com
 0.0.0.0 mediaadjustment.com
 0.0.0.0 mediaappletree.com
+0.0.0.0 mediabooster.si
 0.0.0.0 mediacpm.com
 0.0.0.0 mediafilesdownload.com
 0.0.0.0 mediaforge.com
@@ -36911,6 +36914,7 @@
 0.0.0.0 thyhoughs.com
 0.0.0.0 thymeneoctic.digital
 0.0.0.0 thyourretyequ.com
+0.0.0.0 thzdz4.com
 0.0.0.0 thzhd.wang
 0.0.0.0 ti.bumpingasbolin.com
 0.0.0.0 ti.upflashlalo.com
@@ -38368,6 +38372,7 @@
 0.0.0.0 tuniastory.com
 0.0.0.0 tunisskills.com
 0.0.0.0 tunnels.info
+0.0.0.0 tunnelstitchfinal.com
 0.0.0.0 tunted.com
 0.0.0.0 tuntpxikwqeop.com
 0.0.0.0 tunviralbionic.com
@@ -42217,6 +42222,7 @@
 0.0.0.0 www.99riav100.com
 0.0.0.0 www.99riav18.com
 0.0.0.0 www.99riav19.com
+0.0.0.0 www.99riav190.com
 0.0.0.0 www.99riav90.com
 0.0.0.0 www.99riav94.com
 0.0.0.0 www.9ajhbjdasd13.monster
@@ -43281,6 +43287,7 @@
 0.0.0.0 www.criticalduring.com
 0.0.0.0 www.croakkeepingstable.com
 0.0.0.0 www.crocodileterminal.com
+0.0.0.0 www.crocsodealership.com
 0.0.0.0 www.croissance-ontario.com
 0.0.0.0 www.croissanceontario.com
 0.0.0.0 www.crossingwhile.com
@@ -46655,6 +46662,7 @@
 0.0.0.0 www.thriveradioactivecheers.com
 0.0.0.0 www.throwsynchronizesavoury.com
 0.0.0.0 www.thutm-bru.com
+0.0.0.0 www.thzdz4.com
 0.0.0.0 www.ticketspackslippery.com
 0.0.0.0 www.tiebharath.com
 0.0.0.0 www.tiendaeacapi.com
