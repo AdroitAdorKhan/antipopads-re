@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.081
 # Release: 081
-# Entries: 49,104
-# Updated: Wed, 22 Mar 23 10:07:32 +06
+# Entries: 49,110
+# Updated: Wed, 22 Mar 23 12:14:29 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5413,6 +5413,7 @@
 0.0.0.0 bakquka.com
 0.0.0.0 bakteso.ru
 0.0.0.0 baku-ix.org
+0.0.0.0 bakulaoofiest.website
 0.0.0.0 balagwala.com
 0.0.0.0 balajinetworks.com
 0.0.0.0 balamakina.com
@@ -7969,6 +7970,7 @@
 0.0.0.0 cavalrydoomeddoorbell.com
 0.0.0.0 cavelyamun.com
 0.0.0.0 cavernousshift.pro
+0.0.0.0 cavingrescan.store
 0.0.0.0 cavip678.com
 0.0.0.0 cavllinorampante.org
 0.0.0.0 cawbarthe.com
@@ -9963,6 +9965,7 @@
 0.0.0.0 crestgodrej-dadar-wadala.net
 0.0.0.0 crestviewpublicaffairs.com
 0.0.0.0 crestviewstrategyresearch.com
+0.0.0.0 cretaintact.uno
 0.0.0.0 cretgate.com
 0.0.0.0 crewcircle.me
 0.0.0.0 crewcircle.world
@@ -22646,6 +22649,7 @@
 0.0.0.0 loungebearing.com
 0.0.0.0 lourdoueisienne.website
 0.0.0.0 lousebankroll.com
+0.0.0.0 lousedsaumya.live
 0.0.0.0 louses.net
 0.0.0.0 lousyfastened.com
 0.0.0.0 loutedpewing.com
@@ -24751,6 +24755,7 @@
 0.0.0.0 museumimpenetrablerepose.com
 0.0.0.0 museuvassouras.org
 0.0.0.0 mushesarrear.com
+0.0.0.0 mushingfreely.website
 0.0.0.0 mushroomphilosophicalincorrect.com
 0.0.0.0 music-home.info
 0.0.0.0 musicagainstmodernity.com
@@ -35895,6 +35900,7 @@
 0.0.0.0 tanjinsezan.tech
 0.0.0.0 tankastapia.com
 0.0.0.0 tankieturing.website
+0.0.0.0 tanksecretswar.xyz
 0.0.0.0 tankstndr.xyz
 0.0.0.0 tannahokerly.com
 0.0.0.0 tannedsexvideos.com
