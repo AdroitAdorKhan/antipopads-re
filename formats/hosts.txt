@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.081
 # Release: 081
-# Entries: 49,084
-# Updated: Wed, 22 Mar 23 04:17:40 +06
+# Entries: 49,085
+# Updated: Wed, 22 Mar 23 06:07:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20489,6 +20489,7 @@
 0.0.0.0 judaisydfs.club
 0.0.0.0 judale.com
 0.0.0.0 judasesmangler.com
+0.0.0.0 juddhi.com
 0.0.0.0 judgeclaimsmaiden.com
 0.0.0.0 judgeduchessbennet.com
 0.0.0.0 judgementinvincible.com
