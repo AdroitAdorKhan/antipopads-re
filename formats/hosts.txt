@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.082
 # Release: 082
-# Entries: 49,306
-# Updated: Thu, 23 Mar 23 06:07:49 +06
+# Entries: 49,312
+# Updated: Thu, 23 Mar 23 08:08:19 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -24792,6 +24792,7 @@
 0.0.0.0 mudruc.com
 0.0.0.0 mudturtletheaterical.org
 0.0.0.0 mufflercypress.com
+0.0.0.0 mufflerlamia.com
 0.0.0.0 mufflesdisroot.digital
 0.0.0.0 mufucfdmrrf.com
 0.0.0.0 muggiernocence.life
@@ -27399,6 +27400,7 @@
 0.0.0.0 outgateniceish.com
 0.0.0.0 outgivefaculae.store
 0.0.0.0 outgra.com
+0.0.0.0 outgrinuntold.com
 0.0.0.0 outhamto.xyz
 0.0.0.0 outhitcooler.com
 0.0.0.0 outhulem.net
@@ -28300,6 +28302,7 @@
 0.0.0.0 petcourses.co.uk
 0.0.0.0 petendereruk.com
 0.0.0.0 peterdejong-photographer.com
+0.0.0.0 petersapartment.com
 0.0.0.0 petfoppew.com
 0.0.0.0 petonboard.net
 0.0.0.0 petoscruder.digital
@@ -30263,6 +30266,7 @@
 0.0.0.0 putrr8.com
 0.0.0.0 putrunsspawn.com
 0.0.0.0 putteechillis.store
+0.0.0.0 puttsdachshunds.com
 0.0.0.0 puvkotqctxxto.com
 0.0.0.0 puvnvspr.xyz
 0.0.0.0 puwpush.com
@@ -41138,6 +41142,7 @@
 0.0.0.0 wduvqrvykfo.xyz
 0.0.0.0 wdykkpadrjxtv.top
 0.0.0.0 we-r.one
+0.0.0.0 we-trck.com
 0.0.0.0 we.infantsingiver.com
 0.0.0.0 we24support.com
 0.0.0.0 wea5lkaf63loos8a.com
@@ -45840,6 +45845,7 @@
 0.0.0.0 www.pestgermagriculture.com
 0.0.0.0 www.petaecon.com
 0.0.0.0 www.petasiaexpo.com
+0.0.0.0 www.petersapartment.com
 0.0.0.0 www.pettowermummy.com
 0.0.0.0 www.pewizard.com
 0.0.0.0 www.pfdbs.org
