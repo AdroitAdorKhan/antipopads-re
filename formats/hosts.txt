@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.082
 # Release: 082
-# Entries: 49,335
-# Updated: Thu, 23 Mar 23 10:07:46 +06
+# Entries: 49,349
+# Updated: Thu, 23 Mar 23 12:14:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3430,6 +3430,7 @@
 0.0.0.0 allanimemovies.com
 0.0.0.0 allaserve.com
 0.0.0.0 allayravage.com
+0.0.0.0 allbooking.online
 0.0.0.0 allcommonblog.com
 0.0.0.0 allcoolnewz.com
 0.0.0.0 allcoolposts.com
@@ -4731,6 +4732,7 @@
 0.0.0.0 atdrifblimor.com
 0.0.0.0 atdrilburr.com
 0.0.0.0 atebilaterde.one
+0.0.0.0 atecnodis.org
 0.0.0.0 atedlittleme.xyz
 0.0.0.0 atedmon.buzz
 0.0.0.0 atedmonastyd.xyz
@@ -6603,6 +6605,7 @@
 0.0.0.0 blopav.it
 0.0.0.0 blotscelt.uno
 0.0.0.0 blouseridge.com
+0.0.0.0 blouson.xyz
 0.0.0.0 blowieathanor.uno
 0.0.0.0 blowlanternradical.com
 0.0.0.0 blowtaffety.space
@@ -17091,6 +17094,7 @@
 0.0.0.0 habitualremittance.com
 0.0.0.0 habrasysteleii.xyz
 0.0.0.0 hacade.com
+0.0.0.0 hack3r-pro.tech
 0.0.0.0 hackagents.codes
 0.0.0.0 hackelevensol.com
 0.0.0.0 hacks-casino.com
@@ -33745,6 +33749,7 @@
 0.0.0.0 shopdunwoodyvillage.com
 0.0.0.0 shopeasy.by
 0.0.0.0 shopgaylecandk.store
+0.0.0.0 shophellosunshine.store
 0.0.0.0 shopifylab.co.uk
 0.0.0.0 shopifypages.com
 0.0.0.0 shopinbox.uk
@@ -36878,6 +36883,7 @@
 0.0.0.0 thepaddypants.com
 0.0.0.0 theparmarthtrust.org
 0.0.0.0 thepeakplanet.com
+0.0.0.0 thepeoplestoreentertainmentcompany.online
 0.0.0.0 thephoenixcapital.com
 0.0.0.0 thepizzasociety.com
 0.0.0.0 theplayadvisor.com
@@ -42675,6 +42681,7 @@
 0.0.0.0 www.aljazeera.asia
 0.0.0.0 www.allaboutcat.org
 0.0.0.0 www.allanimemovies.com
+0.0.0.0 www.allbooking.online
 0.0.0.0 www.alleviatepracticableaddicted.com
 0.0.0.0 www.allfb8dremsiw09oiabhboolsebt29jhe3setn.com
 0.0.0.0 www.allianceoffender.com
@@ -42840,6 +42847,7 @@
 0.0.0.0 www.asty.vip
 0.0.0.0 www.asunderdestructmuddy.com
 0.0.0.0 www.atcoordinate.com
+0.0.0.0 www.atecnodis.org
 0.0.0.0 www.atetdown.com
 0.0.0.0 www.atheismashamedcomfort.com
 0.0.0.0 www.athletethrong.com
@@ -43075,6 +43083,7 @@
 0.0.0.0 www.blondeopinion.com
 0.0.0.0 www.blondhoverhesitation.com
 0.0.0.0 www.bloodyfrighten.com
+0.0.0.0 www.blouson.xyz
 0.0.0.0 www.blueberrydanelarger.com
 0.0.0.0 www.blueleaf.users.aulsidakr.com
 0.0.0.0 www.bluishgeologicallimitless.com
@@ -44488,6 +44497,7 @@
 0.0.0.0 www.h2hydrogengreen.com
 0.0.0.0 www.h5acg2020.com
 0.0.0.0 www.habitualremittance.com
+0.0.0.0 www.hack3r-pro.tech
 0.0.0.0 www.hacks-casino.com
 0.0.0.0 www.hades-ot.com
 0.0.0.0 www.hagnutrient.com
@@ -46555,6 +46565,7 @@
 0.0.0.0 www.shoemakerlosecommission.com
 0.0.0.0 www.shok.am
 0.0.0.0 www.shookcooperassociate.com
+0.0.0.0 www.shophellosunshine.store
 0.0.0.0 www.shopkr.online
 0.0.0.0 www.shopnorwin.com
 0.0.0.0 www.shopshoist.com
@@ -46948,6 +46959,7 @@
 0.0.0.0 www.theobaidur.dev
 0.0.0.0 www.thep322.com
 0.0.0.0 www.thepackingshed.com.au
+0.0.0.0 www.thepeoplestoreentertainmentcompany.online
 0.0.0.0 www.theporn177.com
 0.0.0.0 www.theporn255.com
 0.0.0.0 www.thepothigaipalace.com
@@ -47481,6 +47493,7 @@
 0.0.0.0 www.xn--aufklrungsstunde-znb.de
 0.0.0.0 www.xn--brooksfutcip-8hb33k.com
 0.0.0.0 www.xn--ghq.xn--jrry14l.com
+0.0.0.0 www.xn--i-y44bs62d7lj.net
 0.0.0.0 www.xn--jrry14l.com
 0.0.0.0 www.xn--kappaespaa-19a.com
 0.0.0.0 www.xn--tv-hk5ia.com
@@ -48060,6 +48073,7 @@
 0.0.0.0 xn--brooksfutcip-8hb33k.com
 0.0.0.0 xn--comunicaodigital-lnb5e.com
 0.0.0.0 xn--d1aihcfio7a4e.online
+0.0.0.0 xn--i-y44bs62d7lj.net
 0.0.0.0 xn--impriootaku-dbb.com
 0.0.0.0 xn--jrry14l.com
 0.0.0.0 xn--kappaespaa-19a.com
