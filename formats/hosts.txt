@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.082
 # Release: 082
-# Entries: 49,312
-# Updated: Thu, 23 Mar 23 08:08:19 +06
+# Entries: 49,335
+# Updated: Thu, 23 Mar 23 10:07:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3804,6 +3804,7 @@
 0.0.0.0 anenttatting.com
 0.0.0.0 anepxbrdiilgdhd.com
 0.0.0.0 anewproprietorinvent.com
+0.0.0.0 angampora.tech
 0.0.0.0 angarepbeeherd.com
 0.0.0.0 angege.com
 0.0.0.0 angelaccusation.com
@@ -3864,6 +3865,7 @@
 0.0.0.0 anlcld.com
 0.0.0.0 anldnews.pro
 0.0.0.0 anmdalmzidp.com
+0.0.0.0 anmoldev.tech
 0.0.0.0 annaandkaren.com
 0.0.0.0 annaforlati.com
 0.0.0.0 annandalevictoria.com
@@ -5632,6 +5634,7 @@
 0.0.0.0 bassengravefascinated.com
 0.0.0.0 bassistscrap.com
 0.0.0.0 bassoczardas.com
+0.0.0.0 bassreeves.store
 0.0.0.0 bastingestival.com
 0.0.0.0 bastiontrader.com
 0.0.0.0 batchcousin.com
@@ -17948,6 +17951,7 @@
 0.0.0.0 hockledscissel.com
 0.0.0.0 hocoas.com
 0.0.0.0 hoddinsmused.uno
+0.0.0.0 hoddyninja.tech
 0.0.0.0 hoeatchi.com
 0.0.0.0 hoemasfat.site
 0.0.0.0 hofstray.online
@@ -18182,6 +18186,7 @@
 0.0.0.0 hotsatr.com
 0.0.0.0 hotspexsurveys.com
 0.0.0.0 hotstarnews.online
+0.0.0.0 hotstuff.page
 0.0.0.0 hotterenvisage.com
 0.0.0.0 hottest-dating-now.com
 0.0.0.0 hotwritingdisperse.com
@@ -20359,11 +20364,13 @@
 0.0.0.0 johntoritsemotse.com
 0.0.0.0 johohero.com
 0.0.0.0 joicky.com
+0.0.0.0 joii.city
 0.0.0.0 join-admaven.com
 0.0.0.0 joinateacher.com
 0.0.0.0 joinnye.com
 0.0.0.0 joinpropeller.com
 0.0.0.0 joinstorm.co
+0.0.0.0 joj.city
 0.0.0.0 jojeaux.org
 0.0.0.0 jokathon.org
 0.0.0.0 jokeathon.org
@@ -25984,6 +25991,7 @@
 0.0.0.0 notablynationality.com
 0.0.0.0 notadsworld.com
 0.0.0.0 notallowedscript6222f43ba7acegooglesyndication.com
+0.0.0.0 notallowedscript6225314650424facebook.net
 0.0.0.0 notallowedscript63cef0c674953googlesyndication.com
 0.0.0.0 notaria2sincelejo.com.co
 0.0.0.0 notchcollectormuffin.com
@@ -27397,6 +27405,7 @@
 0.0.0.0 outdoorsrisensprinter.com
 0.0.0.0 outelectrodean.com
 0.0.0.0 outensootier.guru
+0.0.0.0 outfitni.online
 0.0.0.0 outgateniceish.com
 0.0.0.0 outgivefaculae.store
 0.0.0.0 outgra.com
@@ -28005,6 +28014,7 @@
 0.0.0.0 payments-info.website
 0.0.0.0 payments4u.org
 0.0.0.0 paymentsweb.org
+0.0.0.0 paymintz.shop
 0.0.0.0 paypai-login.com
 0.0.0.0 payparcel-importfee.com
 0.0.0.0 payslipsplunge.com
@@ -40600,6 +40610,7 @@
 0.0.0.0 voivoderageful.website
 0.0.0.0 vojjdenie.ru
 0.0.0.0 vokut.com
+0.0.0.0 volandotequila.store
 0.0.0.0 volatintptr.com
 0.0.0.0 volcanoimplement.com
 0.0.0.0 volcanojack.xyz
@@ -42704,6 +42715,7 @@
 0.0.0.0 www.andreatalarico.work
 0.0.0.0 www.android-devs.top
 0.0.0.0 www.anewproprietorinvent.com
+0.0.0.0 www.angampora.tech
 0.0.0.0 www.anglesadjoiningbloodless.com
 0.0.0.0 www.angryheadlong.com
 0.0.0.0 www.anguishexperimental.com
@@ -42711,6 +42723,7 @@
 0.0.0.0 www.anielaelzanowska.com
 0.0.0.0 www.animebetter.com
 0.0.0.0 www.animsup.biz
+0.0.0.0 www.anmoldev.tech
 0.0.0.0 www.annaandkaren.com
 0.0.0.0 www.announceproposition.com
 0.0.0.0 www.announcingfeast.com
@@ -42943,6 +42956,7 @@
 0.0.0.0 www.baskcreations.shop
 0.0.0.0 www.basketlakecamp.com
 0.0.0.0 www.bassengravefascinated.com
+0.0.0.0 www.bassreeves.store
 0.0.0.0 www.batchcousin.com
 0.0.0.0 www.batedisqualify.com
 0.0.0.0 www.bathepoliteness.com
@@ -44597,6 +44611,7 @@
 0.0.0.0 www.hnrv.de
 0.0.0.0 www.hnvshen.com
 0.0.0.0 www.hobbylyricalbeams.com
+0.0.0.0 www.hoddyninja.tech
 0.0.0.0 www.hoh168.site
 0.0.0.0 www.holdsodourdan.com
 0.0.0.0 www.hollowgleamed.com
@@ -44632,6 +44647,7 @@
 0.0.0.0 www.hotdog1.club
 0.0.0.0 www.hotelbowfeast.com
 0.0.0.0 www.hotelintimacybananas.com
+0.0.0.0 www.hotstuff.page
 0.0.0.0 www.hotwritingdisperse.com
 0.0.0.0 www.houseworkproductdeplete.com
 0.0.0.0 www.howdoiusechatgpt.com
@@ -44937,7 +44953,9 @@
 0.0.0.0 www.joertopersersx.com
 0.0.0.0 www.johnsonsproperty.co.uk
 0.0.0.0 www.johntoritsemotse.com
+0.0.0.0 www.joii.city
 0.0.0.0 www.joinnye.com
+0.0.0.0 www.joj.city
 0.0.0.0 www.joker327.xyz
 0.0.0.0 www.joker330.xyz
 0.0.0.0 www.jokerslots-ua.online
@@ -45598,6 +45616,7 @@
 0.0.0.0 www.nostrilquarryprecursor.com
 0.0.0.0 www.notablynationality.com
 0.0.0.0 www.notallowedscript6222f43ba7acegooglesyndication.com
+0.0.0.0 www.notallowedscript6225314650424facebook.net
 0.0.0.0 www.noticetoday.site
 0.0.0.0 www.notifycertainty.com
 0.0.0.0 www.notorietycheerypositively.com
@@ -45797,6 +45816,7 @@
 0.0.0.0 www.paurozel.net
 0.0.0.0 www.pausingrespectfully.com
 0.0.0.0 www.paybackmodified.com
+0.0.0.0 www.paymintz.shop
 0.0.0.0 www.pb2b2.com
 0.0.0.0 www.pbterra.com
 0.0.0.0 www.pdopreroerw.com
@@ -47277,6 +47297,7 @@
 0.0.0.0 www.vodusoft.com
 0.0.0.0 www.voicebeddingtaint.com
 0.0.0.0 www.voidneat.com
+0.0.0.0 www.volandotequila.store
 0.0.0.0 www.volcanoimplement.com
 0.0.0.0 www.volkswagenunionville.ca
 0.0.0.0 www.volkswagenunionville.com
@@ -47442,6 +47463,7 @@
 0.0.0.0 www.x7ajsdgvhajsx.monster
 0.0.0.0 www.x8baidu.com
 0.0.0.0 www.x8sz.com
+0.0.0.0 www.xavito.tech
 0.0.0.0 www.xdomainsx1ss.com
 0.0.0.0 www.xesmi.com
 0.0.0.0 www.xgluu.com
@@ -47685,6 +47707,7 @@
 0.0.0.0 xasukit.top
 0.0.0.0 xaswaes.top
 0.0.0.0 xatzz.com
+0.0.0.0 xavito.tech
 0.0.0.0 xawab.com
 0.0.0.0 xawpdwil.com
 0.0.0.0 xaxoro.com
