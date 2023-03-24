@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.083
 # Release: 083
-# Entries: 49,646
-# Updated: Fri, 24 Mar 23 20:16:25 +06
+# Entries: 49,653
+# Updated: Fri, 24 Mar 23 22:08:35 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3566,6 +3566,7 @@
 0.0.0.0 alpha-news.org
 0.0.0.0 alphabird.com
 0.0.0.0 alphafoamltd.com
+0.0.0.0 alphagroup.tools
 0.0.0.0 alphaorina.tech
 0.0.0.0 alpharooms.uk
 0.0.0.0 alphatraders.live
@@ -4344,6 +4345,7 @@
 0.0.0.0 argalsunclay.space
 0.0.0.0 argeersarchfoe.com
 0.0.0.0 argentslv.digital
+0.0.0.0 argentspifero.space
 0.0.0.0 argerm.com
 0.0.0.0 argive.net
 0.0.0.0 argondenial.com
@@ -24726,6 +24728,7 @@
 0.0.0.0 morvimakeupstudio.com
 0.0.0.0 moseltrabeae.space
 0.0.0.0 moshimoshi-nippon-la.com
+0.0.0.0 moshmarket.de
 0.0.0.0 moskalkova.com
 0.0.0.0 mosked.com
 0.0.0.0 moslemtaxon.guru
@@ -29778,6 +29781,7 @@
 0.0.0.0 priseloos.com
 0.0.0.0 prismarrears.com
 0.0.0.0 prisoninvolvingremaining.com
+0.0.0.0 prisonretiringcommemorate.com
 0.0.0.0 prisonwindows.uk
 0.0.0.0 pritesol.com
 0.0.0.0 pritha-ner.com
@@ -32747,6 +32751,7 @@
 0.0.0.0 sadauno.top
 0.0.0.0 sadbasindinner.com
 0.0.0.0 sadesriffsmap.com
+0.0.0.0 sadflannel.com
 0.0.0.0 sadirectresu.com
 0.0.0.0 sadjune.com
 0.0.0.0 sadjxggbionhspx.com
@@ -36985,6 +36990,7 @@
 0.0.0.0 thegatheringtype.org
 0.0.0.0 theget.tech
 0.0.0.0 thegirlfriendsbrunch.com
+0.0.0.0 theglobalbusinesssquare.com
 0.0.0.0 theglossonline.com
 0.0.0.0 thegreatestguyintheworld.com
 0.0.0.0 thegreatindiastory.com
@@ -49636,6 +49642,7 @@
 0.0.0.0 zv.brankymusmon.com
 0.0.0.0 zv.diktatslopseed.com
 0.0.0.0 zvbtw.com
+0.0.0.0 zvequinetours.com
 0.0.0.0 zvkytbjimbhk.com
 0.0.0.0 zvwhrc.com
 0.0.0.0 zw.antasmalarky.com
