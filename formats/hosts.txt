@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.083
 # Release: 083
-# Entries: 49,535
-# Updated: Fri, 24 Mar 23 08:08:16 +06
+# Entries: 49,542
+# Updated: Fri, 24 Mar 23 10:07:42 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2689,6 +2689,7 @@
 0.0.0.0 adverpub.com
 0.0.0.0 adversaldisplay.com
 0.0.0.0 adversalservers.com
+0.0.0.0 adversespurt.com
 0.0.0.0 adversesuffering.com
 0.0.0.0 advertatment.com
 0.0.0.0 advertbox.us
@@ -11902,6 +11903,7 @@
 0.0.0.0 doubl.org
 0.0.0.0 double-check.com
 0.0.0.0 doubleadserve.com
+0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.net
 0.0.0.0 doubleclickbygoogle.com
 0.0.0.0 doubledeepclick.com
@@ -13910,6 +13912,7 @@
 0.0.0.0 facaltow.net
 0.0.0.0 faceandhairtrend.com
 0.0.0.0 facebook-activate.com
+0.0.0.0 facebookbio.tech
 0.0.0.0 facemoi-tube.com
 0.0.0.0 facesargument.com
 0.0.0.0 facesnotebook.com
@@ -14933,6 +14936,7 @@
 0.0.0.0 forcefulpacehauled.com
 0.0.0.0 forcelessbuoyancy.com
 0.0.0.0 forcelessgreetingbust.com
+0.0.0.0 forearmrejection.com
 0.0.0.0 forearmthrobjanuary.com
 0.0.0.0 forecastsinglegait.com
 0.0.0.0 foregale.uk
@@ -21763,6 +21767,7 @@
 0.0.0.0 lagunamadre.org
 0.0.0.0 lahanbertyes.com
 0.0.0.0 lahemal.com
+0.0.0.0 lahobexy.com
 0.0.0.0 laichook.net
 0.0.0.0 laidwhenadmiring.com
 0.0.0.0 lailaamezian.com
@@ -25532,6 +25537,7 @@
 0.0.0.0 neryeerdpg.xyz
 0.0.0.0 nesispubl.buzz
 0.0.0.0 nesoaghu.net
+0.0.0.0 nespressorecycle.org
 0.0.0.0 nessainy.net
 0.0.0.0 nessendencec.com
 0.0.0.0 nessunalacrima.it
@@ -46987,6 +46993,7 @@
 0.0.0.0 www.stuffedstudy.com
 0.0.0.0 www.subscribeallocateenjoying.com
 0.0.0.0 www.successfulpatience.com
+0.0.0.0 www.successionflimsy.com
 0.0.0.0 www.successismydestiny.tech
 0.0.0.0 www.successivebaby.com
 0.0.0.0 www.suffersociabletruth.com
