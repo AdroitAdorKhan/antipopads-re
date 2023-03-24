@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.083
 # Release: 083
-# Entries: 49,584
-# Updated: Fri, 24 Mar 23 16:08:04 +06
+# Entries: 49,588
+# Updated: Fri, 24 Mar 23 18:07:36 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12305,6 +12305,7 @@
 0.0.0.0 dwightadjoining.com
 0.0.0.0 dwightandrusinsurance.org
 0.0.0.0 dwlodvideo.com
+0.0.0.0 dwplusonline.com
 0.0.0.0 dwpwnlbm.com
 0.0.0.0 dwrdrupcbwj.xyz
 0.0.0.0 dwwboxlnrlek.xyz
@@ -33271,6 +33272,7 @@
 0.0.0.0 secure-info.co.uk
 0.0.0.0 secure-plus-tata-play.live
 0.0.0.0 secure-plus-tata-play.org
+0.0.0.0 secure-tata-play.co.in
 0.0.0.0 secure-tata-play.live
 0.0.0.0 secure-tata-play.org
 0.0.0.0 secure-tataplay.info
@@ -37034,6 +37036,7 @@
 0.0.0.0 theobaidur.dev
 0.0.0.0 theodyscreams.store
 0.0.0.0 theoilhousemm.com
+0.0.0.0 theologicallimbs.com
 0.0.0.0 theologicalpresentation.com
 0.0.0.0 theologizerg.xyz
 0.0.0.0 theoltoozle.com
@@ -38444,6 +38447,7 @@
 0.0.0.0 trinidadram.com
 0.0.0.0 trinidadstellantis.com
 0.0.0.0 trinidohsleep.com
+0.0.0.0 trinitibank.cz
 0.0.0.0 trinitybandmusic.com
 0.0.0.0 trinitylogistlcsmn.com
 0.0.0.0 trinitytradingcorporation.com
