@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.084
 # Release: 084
-# Entries: 49,706
-# Updated: Sat, 25 Mar 23 02:08:01 +06
+# Entries: 49,720
+# Updated: Sat, 25 Mar 23 04:15:39 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7217,6 +7217,7 @@
 0.0.0.0 bropu2.com
 0.0.0.0 brothersbears.com
 0.0.0.0 brotherspooltn.com
+0.0.0.0 broubt.com
 0.0.0.0 broughtenragesince.com
 0.0.0.0 broweb.site
 0.0.0.0 brownoclock.com
@@ -13451,6 +13452,7 @@
 0.0.0.0 espanatelecom.es
 0.0.0.0 especialquatroamigos.com
 0.0.0.0 espiaocelular.foundation
+0.0.0.0 espierbatz.digital
 0.0.0.0 espionagegardenerthicket.com
 0.0.0.0 esportmom.org
 0.0.0.0 esportmoms.org
@@ -15034,6 +15036,7 @@
 0.0.0.0 forumlitre.com
 0.0.0.0 forunfezanttor.com
 0.0.0.0 forvqtrcvc.com
+0.0.0.0 forwitmeand.com
 0.0.0.0 forworksyconus.com
 0.0.0.0 forwrdnow.com
 0.0.0.0 forzigzagoonom.com
@@ -16889,6 +16892,7 @@
 0.0.0.0 grkljvarncigc.xyz
 0.0.0.0 grlemdjrncu.top
 0.0.0.0 groacmaz.com
+0.0.0.0 groansnoosed.space
 0.0.0.0 grobido.info
 0.0.0.0 grobsoap.net
 0.0.0.0 grocmaish.com
@@ -18500,6 +18504,7 @@
 0.0.0.0 huilanart.com
 0.0.0.0 huileoleor.com
 0.0.0.0 huisvan.com
+0.0.0.0 huiyuseacross.com
 0.0.0.0 hujil.top
 0.0.0.0 hujis.top
 0.0.0.0 huldeeelfwife.com
@@ -25926,6 +25931,7 @@
 0.0.0.0 ninkorant.online
 0.0.0.0 ninobkfvyxdot.com
 0.0.0.0 ninoglostoay.com
+0.0.0.0 niobicpensy.store
 0.0.0.0 nipechala.com
 0.0.0.0 niphoneua.com
 0.0.0.0 nipmucktwicer.com
@@ -27268,6 +27274,7 @@
 0.0.0.0 opgolan.com
 0.0.0.0 opgpetxde.com
 0.0.0.0 ophgzaatqd.com
+0.0.0.0 ophiticprevail.life
 0.0.0.0 ophoacit.com
 0.0.0.0 ophoadee.xyz
 0.0.0.0 ophophiz.xyz
@@ -34113,6 +34120,7 @@
 0.0.0.0 siegepolitical.com
 0.0.0.0 sielsmaats.com
 0.0.0.0 sienns.com
+0.0.0.0 sieuthinhadep.xyz
 0.0.0.0 sifenews.com
 0.0.0.0 sifhuhog.com
 0.0.0.0 sifiwoery.xyz
@@ -35831,6 +35839,7 @@
 0.0.0.0 sundersetrgh.site
 0.0.0.0 sunderstudios.xyz
 0.0.0.0 sunflowerfdn.org
+0.0.0.0 sunflowerinformed.com
 0.0.0.0 sungarnonsane.com
 0.0.0.0 sungeek.tech
 0.0.0.0 sunglasseslollipopoperating.com
@@ -38966,6 +38975,7 @@
 0.0.0.0 tusno.com
 0.0.0.0 tusnovelashd.com
 0.0.0.0 tut-64.com
+0.0.0.0 tutelavoluper.life
 0.0.0.0 tutfuqc.com
 0.0.0.0 tutiempomobil.com
 0.0.0.0 tutorbangladesh.com
@@ -39625,6 +39635,7 @@
 0.0.0.0 unrulymorning.pro
 0.0.0.0 unrulyvoice.com
 0.0.0.0 unsaltyalemmal.com
+0.0.0.0 unsavoramylom.tech
 0.0.0.0 unsbnvwjn.xyz
 0.0.0.0 unscammable.org
 0.0.0.0 unseamlocrian.com
@@ -41262,6 +41273,7 @@
 0.0.0.0 wallsfaregocomactivate.online
 0.0.0.0 wallstrads.com
 0.0.0.0 wallstreetexpos.com
+0.0.0.0 wallybuffed.uno
 0.0.0.0 walnutdescendant.com
 0.0.0.0 walruscheers.com
 0.0.0.0 walrusintroducing.com
@@ -44580,6 +44592,7 @@
 0.0.0.0 www.fortunasales.com
 0.0.0.0 www.fortunatelyconvinced.com
 0.0.0.0 www.forumlitre.com
+0.0.0.0 www.forwitmeand.com
 0.0.0.0 www.fostereminent.com
 0.0.0.0 www.foughtheaveirritating.com
 0.0.0.0 www.fourteendin.com
@@ -46932,6 +46945,7 @@
 0.0.0.0 www.sicher-online-enkaufen.de
 0.0.0.0 www.sickcbdoil.com
 0.0.0.0 www.sidepgouv.fr
+0.0.0.0 www.sieuthinhadep.xyz
 0.0.0.0 www.sighsuspectshaped.com
 0.0.0.0 www.sighttermportent.com
 0.0.0.0 www.signpersecute.com
