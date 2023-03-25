@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.084
 # Release: 084
-# Entries: 49,900
-# Updated: Sat, 25 Mar 23 18:12:14 +06
+# Entries: 49,904
+# Updated: Sat, 25 Mar 23 20:07:41 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9506,6 +9506,7 @@
 0.0.0.0 compresssavvydetected.com
 0.0.0.0 compromiseplot.com
 0.0.0.0 compromiseprepenseprepenseassumed.com
+0.0.0.0 compstudio.in
 0.0.0.0 compulsionspotsbeacon.com
 0.0.0.0 compulsiveincline.com
 0.0.0.0 computashare.com
@@ -15508,6 +15509,7 @@
 0.0.0.0 furryfriendforever.in
 0.0.0.0 fursentete.digital
 0.0.0.0 furstraitsbrowse.com
+0.0.0.0 fusionradio.fm
 0.0.0.0 fusionwishful.com
 0.0.0.0 fusoidactuate.com
 0.0.0.0 fusorama.co.uk
@@ -30150,6 +30152,7 @@
 0.0.0.0 prosecutorkettle.com
 0.0.0.0 prosecutorlorry.com
 0.0.0.0 proserpina-zeb.com
+0.0.0.0 proski-trainer.com
 0.0.0.0 prospectconductorcheerfully.com
 0.0.0.0 prospecttunaante.com
 0.0.0.0 prosperent.com
@@ -46623,6 +46626,7 @@
 0.0.0.0 www.prosecutevein.com
 0.0.0.0 www.prosecutionsocktrap.com
 0.0.0.0 www.prosecutorlorry.com
+0.0.0.0 www.proski-trainer.com
 0.0.0.0 www.prospecttunaante.com
 0.0.0.0 www.protectedpeat.com
 0.0.0.0 www.protectheader.com
