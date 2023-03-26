@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.085
 # Release: 085
-# Entries: 50,264
-# Updated: Sun, 26 Mar 23 20:08:25 +06
+# Entries: 50,292
+# Updated: Sun, 26 Mar 23 22:16:38 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -487,6 +487,7 @@
 0.0.0.0 2007ip.com
 0.0.0.0 2015search.ru
 0.0.0.0 2016www.844644.com
+0.0.0.0 20189999.com
 0.0.0.0 20201314.cn
 0.0.0.0 2020aj.com
 0.0.0.0 2020microclinic.org
@@ -5812,6 +5813,7 @@
 0.0.0.0 bbsskys.com
 0.0.0.0 bbtn4dgacorssss.com
 0.0.0.0 bbuni.com
+0.0.0.0 bbvaseguridad.online
 0.0.0.0 bbwdldipmge.com
 0.0.0.0 bbwsktwlgubffe.com
 0.0.0.0 bbyavrykjopnnx.xyz
@@ -9775,6 +9777,7 @@
 0.0.0.0 contehos.com
 0.0.0.0 contemplateirony.com
 0.0.0.0 contemplatereunitededgy.com
+0.0.0.0 contemplatethwartcooperation.com
 0.0.0.0 contendfunds.com
 0.0.0.0 contendsportsvisit.com
 0.0.0.0 contentabc.com
@@ -28437,6 +28440,7 @@
 0.0.0.0 pashtoinjil.com
 0.0.0.0 pashtoinjil.org
 0.0.0.0 pasiac.com
+0.0.0.0 paskova-learning.site
 0.0.0.0 paslsa.com
 0.0.0.0 pasquinzippy.com
 0.0.0.0 passablejeepparliament.com
@@ -43440,6 +43444,7 @@
 0.0.0.0 www.agonybedroom.com
 0.0.0.0 www.agsoccer.co.uk
 0.0.0.0 www.ahagreatlypromised.com
+0.0.0.0 www.ahaheartburndo.com
 0.0.0.0 www.ahotelru.com
 0.0.0.0 www.ai-ciso.com
 0.0.0.0 www.aicfun.com
@@ -43554,6 +43559,7 @@
 0.0.0.0 www.antio-nar.com
 0.0.0.0 www.antiquariangerm.com
 0.0.0.0 www.antiquelongcaseclocks.com
+0.0.0.0 www.antlerrecordingcat.com
 0.0.0.0 www.anvilcompetitivepills.com
 0.0.0.0 www.anybodytoldsieve.com
 0.0.0.0 www.anyoneengravemighty.com
@@ -43565,6 +43571,7 @@
 0.0.0.0 www.apartblot.com
 0.0.0.0 www.apartslimlettuce.com
 0.0.0.0 www.apatheticdrawerscolourful.com
+0.0.0.0 www.apedrunkeninquire.com
 0.0.0.0 www.apihb.com
 0.0.0.0 www.aplisoft-ided.com
 0.0.0.0 www.apmebf.com
@@ -43787,6 +43794,7 @@
 0.0.0.0 www.bayardsitalia.it
 0.0.0.0 www.bayonnenj.biz
 0.0.0.0 www.bbnfcfrvjs.com
+0.0.0.0 www.bbvaseguridad.online
 0.0.0.0 www.bdxsebook.com
 0.0.0.0 www.beaconmodels.com
 0.0.0.0 www.beambroth.com
@@ -44343,8 +44351,10 @@
 0.0.0.0 www.convenientmemorizeminiaturization.com
 0.0.0.0 www.conventforgotten.com
 0.0.0.0 www.convergence-london.com
+0.0.0.0 www.conversationbeside.com
 0.0.0.0 www.convertibleconsculpture.com
 0.0.0.0 www.convertmypool.com
+0.0.0.0 www.convictedshrill.com
 0.0.0.0 www.convictpaviliongiraffe.com
 0.0.0.0 www.cookiescriptcdn.pro
 0.0.0.0 www.coolcameras.xyz
@@ -44358,6 +44368,7 @@
 0.0.0.0 www.corkremembranceastray.com
 0.0.0.0 www.corkysocietydriven.com
 0.0.0.0 www.corporatetotal.com
+0.0.0.0 www.corruptstruckgames.com
 0.0.0.0 www.cosmicopen.com
 0.0.0.0 www.cosmicspecifiedovernight.com
 0.0.0.0 www.cosmosisbeauty.com
@@ -44436,6 +44447,7 @@
 0.0.0.0 www.curbaffluencenicer.com
 0.0.0.0 www.curcumin-biobdmc.com
 0.0.0.0 www.curselaunch.com
+0.0.0.0 www.cursorsympathyprime.com
 0.0.0.0 www.curvedchimera.com
 0.0.0.0 www.customoystersruth.com
 0.0.0.0 www.cutebosskonveksi.com
@@ -44532,6 +44544,7 @@
 0.0.0.0 www.democracyherebyinapptitudeinapptitude.com
 0.0.0.0 www.democratcautious.com
 0.0.0.0 www.democratspreadingbeing.com
+0.0.0.0 www.democrattransportationirrational.com
 0.0.0.0 www.demolitionpourorganizer.com
 0.0.0.0 www.demonjugsister.com
 0.0.0.0 www.demonstrata.org
@@ -44680,6 +44693,7 @@
 0.0.0.0 www.domainsxdomain.com
 0.0.0.0 www.domainsxxdomains.com
 0.0.0.0 www.domcontractors.com
+0.0.0.0 www.dominatebacon.com
 0.0.0.0 www.dominioneastern.com
 0.0.0.0 www.donutfulfilherd.com
 0.0.0.0 www.doodlerehearsesculpture.com
@@ -44699,6 +44713,7 @@
 0.0.0.0 www.drasticreaphero.com
 0.0.0.0 www.dreadfulprofitable.com
 0.0.0.0 www.dressblockedfund.com
+0.0.0.0 www.drifttoilportent.com
 0.0.0.0 www.drillcompensate.com
 0.0.0.0 www.drinksinvoluntary.com
 0.0.0.0 www.driverpartially.com
@@ -45538,6 +45553,7 @@
 0.0.0.0 www.hundredthtvthorny.com
 0.0.0.0 www.hungryspeedythorough.com
 0.0.0.0 www.hunreal.com
+0.0.0.0 www.hurricaneforciblesorrow.com
 0.0.0.0 www.hurtfulplunge.com
 0.0.0.0 www.husainbiketyres.com
 0.0.0.0 www.husbandnights.com
@@ -45668,6 +45684,7 @@
 0.0.0.0 www.innocenceexpeditionsensation.com
 0.0.0.0 www.innoveds.com
 0.0.0.0 www.innowindia.site
+0.0.0.0 www.inoculateexplosionpostman.com
 0.0.0.0 www.inopportunetorn.com
 0.0.0.0 www.inorlandohomes.com
 0.0.0.0 www.inquirybloom.com
@@ -45791,6 +45808,7 @@
 0.0.0.0 www.jejunight.xyz
 0.0.0.0 www.jennijonesmusic.com
 0.0.0.0 www.jennyvisits.com
+0.0.0.0 www.jeopardizeflirting.com
 0.0.0.0 www.jeremylubbock.co
 0.0.0.0 www.jerzy-binkowski.com.pl
 0.0.0.0 www.jessicaguerradesigns.com
@@ -45851,6 +45869,7 @@
 0.0.0.0 www.juniortelegraph.com
 0.0.0.0 www.junkeach.com
 0.0.0.0 www.jurisdictionasundercurls.com
+0.0.0.0 www.justificationevidentpensive.com
 0.0.0.0 www.justifiedatrociousretinue.com
 0.0.0.0 www.jutprolificlax.com
 0.0.0.0 www.jwpcdn-hamed.com
@@ -46003,6 +46022,7 @@
 0.0.0.0 www.learningblink.com
 0.0.0.0 www.learningproportion.com
 0.0.0.0 www.learnlifescience.com
+0.0.0.0 www.leaseholderbarbcompact.com
 0.0.0.0 www.leavebumpwrinkle.com
 0.0.0.0 www.lecon.org
 0.0.0.0 www.leeante.com
@@ -46283,6 +46303,7 @@
 0.0.0.0 www.mishapideal.com
 0.0.0.0 www.misplacebrokerscared.com
 0.0.0.0 www.missav999.com
+0.0.0.0 www.missilesurvive.com
 0.0.0.0 www.missingweighnapkin.com
 0.0.0.0 www.missxhuzi.me
 0.0.0.0 www.mistressshaped.com
@@ -46959,9 +46980,11 @@
 0.0.0.0 www.propelleraerial.com
 0.0.0.0 www.propelsanctuaryteapot.com
 0.0.0.0 www.properticlub.com
+0.0.0.0 www.propertyprintervice.com
 0.0.0.0 www.proposalpearlpleasantly.com
 0.0.0.0 www.prosecutevein.com
 0.0.0.0 www.prosecutionsocktrap.com
+0.0.0.0 www.prosecutorkettle.com
 0.0.0.0 www.prosecutorlorry.com
 0.0.0.0 www.proski-trainer.com
 0.0.0.0 www.prospecttunaante.com
@@ -47138,6 +47161,7 @@
 0.0.0.0 www.reize-up.net
 0.0.0.0 www.rejoineddivertoverwork.com
 0.0.0.0 www.relategist.com
+0.0.0.0 www.relateimpulse.com
 0.0.0.0 www.reliablepoweralways.com
 0.0.0.0 www.reliablepowertoday.com
 0.0.0.0 www.relianceadaindia.com
@@ -47346,6 +47370,7 @@
 0.0.0.0 www.sdjhfsjdfii7.monster
 0.0.0.0 www.sdjhsbjdfsdf6.monster
 0.0.0.0 www.seafoodclickwaited.com
+0.0.0.0 www.sealedsimplicitynoun.com
 0.0.0.0 www.seatedbluff.com
 0.0.0.0 www.seatsrehearseinitial.com
 0.0.0.0 www.secondaryobedience.com
@@ -47550,6 +47575,7 @@
 0.0.0.0 www.soakappequipment.com
 0.0.0.0 www.soaringtortoise.com
 0.0.0.0 www.soarlearning.net
+0.0.0.0 www.socalledattestation.com
 0.0.0.0 www.socialmargarita.it
 0.0.0.0 www.sodiumcupboard.com
 0.0.0.0 www.softballcreeperamuse.com
@@ -48254,6 +48280,7 @@
 0.0.0.0 www.webreviewstar.com
 0.0.0.0 www.websitehelper.in
 0.0.0.0 www.weedprolific.com
+0.0.0.0 www.weepingpretext.com
 0.0.0.0 www.weirdfoulds.com
 0.0.0.0 www.wekenekt.com
 0.0.0.0 www.welfarefit.com
@@ -48377,6 +48404,7 @@
 0.0.0.0 www.xiadaxiong.com
 0.0.0.0 www.xiaoaivips.com
 0.0.0.0 www.xiaomorom.com
+0.0.0.0 www.xiayed.com
 0.0.0.0 www.xigua800.com
 0.0.0.0 www.xindaojiao.com
 0.0.0.0 www.xiufengshang.com
