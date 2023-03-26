@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.085
 # Release: 085
-# Entries: 50,099
-# Updated: Sun, 26 Mar 23 04:08:34 +06
+# Entries: 50,103
+# Updated: Sun, 26 Mar 23 06:11:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7407,6 +7407,7 @@
 0.0.0.0 buffetaha.com
 0.0.0.0 bufoll.com
 0.0.0.0 bufpixd.com
+0.0.0.0 bugits.com
 0.0.0.0 bugleczmoidgxo.com
 0.0.0.0 bugodar.com
 0.0.0.0 bugs2022.com
@@ -7992,6 +7993,7 @@
 0.0.0.0 casalemedia.com
 0.0.0.0 casasaipem.in
 0.0.0.0 casasfinanciables.com
+0.0.0.0 casayoss.com
 0.0.0.0 cascade-insights.mortgage
 0.0.0.0 cascade-leads.mortgage
 0.0.0.0 cascade-services.mortgage
@@ -19569,6 +19571,7 @@
 0.0.0.0 inoculatebroadlyduke.com
 0.0.0.0 inoculateexplosionpostman.com
 0.0.0.0 inoculatemention.com
+0.0.0.0 inonclbench.com
 0.0.0.0 inopportunetorn.com
 0.0.0.0 inoradde.com
 0.0.0.0 inorlandohomes.com
@@ -21657,6 +21660,7 @@
 0.0.0.0 kolkatakonnection.in
 0.0.0.0 kolkwi4tzicraamabilis.com
 0.0.0.0 kolledge.com
+0.0.0.0 kolobif.com
 0.0.0.0 kolokensize.com
 0.0.0.0 koltypoolty.com
 0.0.0.0 kolved.com
