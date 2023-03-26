@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.086
 # Release: 086
-# Entries: 50,326
-# Updated: Mon, 27 Mar 23 00:08:43 +06
+# Entries: 50,329
+# Updated: Mon, 27 Mar 23 02:07:52 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5619,6 +5619,7 @@
 0.0.0.0 banicywan.com
 0.0.0.0 baniep.com
 0.0.0.0 banikol.top
+0.0.0.0 banjaranews.com
 0.0.0.0 bankatfreedom.com
 0.0.0.0 bankebihariinfra.in
 0.0.0.0 bankerconcludeshare.com
@@ -11755,6 +11756,7 @@
 0.0.0.0 divaduolite.com
 0.0.0.0 divedconservativemember.com
 0.0.0.0 divedfaraway.com
+0.0.0.0 divedtouristpeep.com
 0.0.0.0 divehope.com
 0.0.0.0 divemap.uk
 0.0.0.0 diversecrashconcern.com
@@ -26533,6 +26535,7 @@
 0.0.0.0 notifycertainty.com
 0.0.0.0 notifyoutspoken.com
 0.0.0.0 notifypicture.info
+0.0.0.0 notifyusp.org
 0.0.0.0 notiks.io
 0.0.0.0 notimedad.dev
 0.0.0.0 notionnalisent.xyz
