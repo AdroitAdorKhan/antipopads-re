@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.086
 # Release: 086
-# Entries: 50,335
-# Updated: Mon, 27 Mar 23 06:28:37 +06
+# Entries: 50,344
+# Updated: Mon, 27 Mar 23 08:08:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6178,6 +6178,7 @@
 0.0.0.0 bestkeydeals.com
 0.0.0.0 bestkino.best
 0.0.0.0 bestloans.tips
+0.0.0.0 bestnews-bg.com
 0.0.0.0 bestofferssafe.com
 0.0.0.0 bestofmoneysurvey.top
 0.0.0.0 bestoretuba.guru
@@ -16021,6 +16022,7 @@
 0.0.0.0 genshindrop.net
 0.0.0.0 gentiord.com
 0.0.0.0 gentssepa.buzz
+0.0.0.0 genu.club
 0.0.0.0 genualpryse.life
 0.0.0.0 genued.com
 0.0.0.0 genuskitchens.com
@@ -19958,6 +19960,7 @@
 0.0.0.0 iptautup.com
 0.0.0.0 iptpuwllnhc.xyz
 0.0.0.0 ipworld-ao.com
+0.0.0.0 iqacyu.top
 0.0.0.0 iqbkkhhsgk.com
 0.0.0.0 iqhvhdryglkmw.com
 0.0.0.0 iqtest365.online
@@ -26010,6 +26013,7 @@
 0.0.0.0 newadsfit.com
 0.0.0.0 newadslab.com
 0.0.0.0 newadsshop.com
+0.0.0.0 newagemarketing.us.com
 0.0.0.0 newaprads.com
 0.0.0.0 newbeevip.com.cn
 0.0.0.0 newbiemart.com
@@ -30162,6 +30166,7 @@
 0.0.0.0 prima-atgodrej.in
 0.0.0.0 primaatgodrej.in
 0.0.0.0 primalchord.com
+0.0.0.0 primaparck.com
 0.0.0.0 primarilysweptabundant.com
 0.0.0.0 primaryads.com
 0.0.0.0 primawallis.top
@@ -34964,6 +34969,7 @@
 0.0.0.0 smartletters.co.uk
 0.0.0.0 smartlnk.com
 0.0.0.0 smartmarker.com
+0.0.0.0 smartmarketing.co.in
 0.0.0.0 smartmarthandyman.co.uk
 0.0.0.0 smartmnews.pro
 0.0.0.0 smartnmc.com
@@ -40787,6 +40793,7 @@
 0.0.0.0 vcvantage.com
 0.0.0.0 vcxsimyllso.xyz
 0.0.0.0 vd.scapemambu.com
+0.0.0.0 vdesigner.com
 0.0.0.0 vdfdwnsrvjcsok.com
 0.0.0.0 vdgdbjmuc.xyz
 0.0.0.0 vdjsvxcgkb.com
@@ -43878,6 +43885,7 @@
 0.0.0.0 www.bestforbigandheavy.com
 0.0.0.0 www.bestialjames.com
 0.0.0.0 www.bestialvehemence.com
+0.0.0.0 www.bestnews-bg.com
 0.0.0.0 www.bestofmoneysurvey.top
 0.0.0.0 www.bestratedmealkits.com
 0.0.0.0 www.bestw1nners.com
@@ -45782,6 +45790,7 @@
 0.0.0.0 www.ip358.com
 0.0.0.0 www.ipaints.net
 0.0.0.0 www.ipmbnqqaon.com
+0.0.0.0 www.iqacyu.top
 0.0.0.0 www.irate-indian.com
 0.0.0.0 www.irischangelessdisposed.com
 0.0.0.0 www.irrationaldistress.com
