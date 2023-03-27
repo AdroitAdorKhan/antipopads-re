@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.086
 # Release: 086
-# Entries: 50,344
-# Updated: Mon, 27 Mar 23 08:08:03 +06
+# Entries: 50,364
+# Updated: Mon, 27 Mar 23 10:08:14 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4245,6 +4245,7 @@
 0.0.0.0 appropriateloathefewer.com
 0.0.0.0 appropriatepurse.com
 0.0.0.0 approve.info
+0.0.0.0 appscript.dev
 0.0.0.0 appsforlive.fun
 0.0.0.0 appsli.me
 0.0.0.0 appsmessageries.fr
@@ -10519,6 +10520,7 @@
 0.0.0.0 cyberlink.pro
 0.0.0.0 cybermusi.com
 0.0.0.0 cybertronads.com
+0.0.0.0 cybervana.xyz
 0.0.0.0 cyberweekus.club
 0.0.0.0 cychdacg.com
 0.0.0.0 cyclarflory.life
@@ -15345,6 +15347,7 @@
 0.0.0.0 franeski.net
 0.0.0.0 frankecoffeesystems.uk
 0.0.0.0 franklinplanner.cz
+0.0.0.0 fransvanpraet.site
 0.0.0.0 franzzh.tech
 0.0.0.0 frapsguardo.com
 0.0.0.0 frascatimieter.ch
@@ -15506,6 +15509,7 @@
 0.0.0.0 fskhfxhbuox.com
 0.0.0.0 fsksvtvhxtyqp.com
 0.0.0.0 fsmci.com
+0.0.0.0 fsmishu.fun
 0.0.0.0 fsojctdib.com
 0.0.0.0 fstcyy.com
 0.0.0.0 fstifelouwd.com
@@ -19831,6 +19835,7 @@
 0.0.0.0 intervalplanning.org
 0.0.0.0 interviewdegenerateperspective.com
 0.0.0.0 interviewzealdowry.com
+0.0.0.0 interviva.fun
 0.0.0.0 inteukrestinaf.work
 0.0.0.0 intfolio.com
 0.0.0.0 inthazone.com
@@ -22979,6 +22984,7 @@
 0.0.0.0 lndonclkds.com
 0.0.0.0 lnet22.com
 0.0.0.0 lng.reviews
+0.0.0.0 lnk2.top
 0.0.0.0 lnkfast.com
 0.0.0.0 lnkgt.com
 0.0.0.0 lnkrdr.com
@@ -24432,6 +24438,7 @@
 0.0.0.0 metalroofingsheets.uk
 0.0.0.0 metalskibase.co.uk
 0.0.0.0 metalwindows.uk
+0.0.0.0 metamask.cafe
 0.0.0.0 metamask.dev
 0.0.0.0 metamasks.info
 0.0.0.0 metatestruck.com
@@ -25375,6 +25382,7 @@
 0.0.0.0 musikcloud.xyz
 0.0.0.0 musikcollection.com
 0.0.0.0 musinmymind.biz
+0.0.0.0 musk-give.com
 0.0.0.0 muskaanmakeup.com
 0.0.0.0 muslimberbagi.xyz
 0.0.0.0 musmentportal.com
@@ -26968,6 +26976,7 @@
 0.0.0.0 obscus.com
 0.0.0.0 obsdigi.in
 0.0.0.0 obsers.com
+0.0.0.0 observ.fun
 0.0.0.0 observativus.com
 0.0.0.0 observedlily.com
 0.0.0.0 obsessiondiscourteous.com
@@ -30236,6 +30245,7 @@
 0.0.0.0 pro-advertising.com
 0.0.0.0 pro-pro-go.com
 0.0.0.0 pro-web.net
+0.0.0.0 proartservices.de
 0.0.0.0 probablclaw.website
 0.0.0.0 probablpatas.com
 0.0.0.0 probagotrallers.com
@@ -34913,6 +34923,7 @@
 0.0.0.0 sloperw2.monster
 0.0.0.0 slot-cyprus.online
 0.0.0.0 slot-machines-canada.online
+0.0.0.0 slothsecurity.space
 0.0.0.0 slotmaniabonus.xyz
 0.0.0.0 sloto.live
 0.0.0.0 slotogate.org
@@ -43635,6 +43646,7 @@
 0.0.0.0 www.approachemployflashy.com
 0.0.0.0 www.appropriatepurse.com
 0.0.0.0 www.approve.info
+0.0.0.0 www.appscript.dev
 0.0.0.0 www.apptechnewz.com
 0.0.0.0 www.aqd00.com
 0.0.0.0 www.aquascapereality.com
@@ -44501,6 +44513,7 @@
 0.0.0.0 www.cutoff.pro
 0.0.0.0 www.cuttingstrikingtells.com
 0.0.0.0 www.cybermusi.com
+0.0.0.0 www.cybervana.xyz
 0.0.0.0 www.cynicalspireheroism.com
 0.0.0.0 www.cyprus.xplore.place
 0.0.0.0 www.czarhonoraryrunning.com
@@ -45152,6 +45165,7 @@
 0.0.0.0 www.francecoupon.fr
 0.0.0.0 www.franchise-kwt.com
 0.0.0.0 www.franklinplanner.cz
+0.0.0.0 www.fransvanpraet.site
 0.0.0.0 www.fraudclatterflying.com
 0.0.0.0 www.frecklessfrecklesshonorarylocations.com
 0.0.0.0 www.fredhartdmd.com
@@ -45770,6 +45784,7 @@
 0.0.0.0 www.intersectionbegan.com
 0.0.0.0 www.intersectionmodest.com
 0.0.0.0 www.interviewzealdowry.com
+0.0.0.0 www.interviva.fun
 0.0.0.0 www.inthazone.com
 0.0.0.0 www.intimateexhibitedcontempt.com
 0.0.0.0 www.intimidatekerneljames.com
@@ -46145,6 +46160,7 @@
 0.0.0.0 www.lmzvvyefpe.com
 0.0.0.0 www.lnet22.com
 0.0.0.0 www.lng.reviews
+0.0.0.0 www.lnk2.top
 0.0.0.0 www.lo07ertse.com
 0.0.0.0 www.lobbygamescasinohkbgaming.com
 0.0.0.0 www.lobbyvc.com
@@ -46317,6 +46333,7 @@
 0.0.0.0 www.mesolucky.com
 0.0.0.0 www.meta11webservices.com
 0.0.0.0 www.metalskibase.co.uk
+0.0.0.0 www.metamask.cafe
 0.0.0.0 www.methodrumour.com
 0.0.0.0 www.mgzyz0.com
 0.0.0.0 www.mhi.mb.ca
@@ -46588,6 +46605,7 @@
 0.0.0.0 www.obashwmzrfofi.com
 0.0.0.0 www.obituaryfuneral.com
 0.0.0.0 www.oblongseller.com
+0.0.0.0 www.observ.fun
 0.0.0.0 www.obsessiondiscourteous.com
 0.0.0.0 www.obsessionseparation.com
 0.0.0.0 www.obsessrebukesieve.com
@@ -47597,6 +47615,7 @@
 0.0.0.0 www.slidehistoricchaos.com
 0.0.0.0 www.slipheirphysician.com
 0.0.0.0 www.slippersphoto.com
+0.0.0.0 www.slothsecurity.space
 0.0.0.0 www.slotsknowj.top
 0.0.0.0 www.sluicebigheartedpeevish.com
 0.0.0.0 www.sluiceliable.com
@@ -49905,6 +49924,7 @@
 0.0.0.0 yxikdkxpoqhw.com
 0.0.0.0 yxkhpk.com
 0.0.0.0 yxpmtdzlsv.com
+0.0.0.0 yxs.im
 0.0.0.0 yy.bourockmights.com
 0.0.0.0 yy.expedelanate.com
 0.0.0.0 yy51tt.com
