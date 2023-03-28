@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.088
 # Release: 088
-# Entries: 50,855
-# Updated: Wed, 29 Mar 23 00:08:11 +06
+# Entries: 50,893
+# Updated: Wed, 29 Mar 23 02:08:32 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3044,6 +3044,7 @@
 0.0.0.0 agabeldumon.com
 0.0.0.0 agabreloomr.com
 0.0.0.0 agacelebir.com
+0.0.0.0 agadata.online
 0.0.0.0 agadum.com
 0.0.0.0 agaenteitor.com
 0.0.0.0 agafurretor.com
@@ -4221,6 +4222,7 @@
 0.0.0.0 apollodialysis.hospital
 0.0.0.0 apollohealthcare.health
 0.0.0.0 apollohealthcare.hospital
+0.0.0.0 apollohealthco.app
 0.0.0.0 apollohl.care
 0.0.0.0 apollohl.hospital
 0.0.0.0 apollomedicalcentre.care
@@ -4831,6 +4833,7 @@
 0.0.0.0 astandhei.com
 0.0.0.0 astarboka.com
 0.0.0.0 astaticglib.com
+0.0.0.0 astato.online
 0.0.0.0 astcarbinkom.com
 0.0.0.0 astemolgachan.com
 0.0.0.0 asterbiscusys.com
@@ -7365,6 +7368,7 @@
 0.0.0.0 bringmesports.com
 0.0.0.0 bringsconserve.com
 0.0.0.0 brinishancress.website
+0.0.0.0 brinze.app
 0.0.0.0 briolenproc.pics
 0.0.0.0 brioletredeyes.com
 0.0.0.0 brirama.co.uk
@@ -9601,6 +9605,7 @@
 0.0.0.0 comalonger.com
 0.0.0.0 comawww.effectivecreativeformat.com
 0.0.0.0 combatbaskstationery.com
+0.0.0.0 combatdenotecasserole.com
 0.0.0.0 combativecar.com
 0.0.0.0 combia-tellector.com
 0.0.0.0 combineblaze.com
@@ -10244,6 +10249,7 @@
 0.0.0.0 cracts.com
 0.0.0.0 craftmi.net
 0.0.0.0 crafts2.com
+0.0.0.0 craftsmanthin.com
 0.0.0.0 craftybytes.net
 0.0.0.0 cragconcluded.com
 0.0.0.0 craharice.com
@@ -12257,6 +12263,7 @@
 0.0.0.0 doublepimpssl.com
 0.0.0.0 doubleprofit-now.life
 0.0.0.0 doublerecall.com
+0.0.0.0 doubleview.online
 0.0.0.0 doublycharacteristic.com
 0.0.0.0 doublyconversion.com
 0.0.0.0 doubtcigardug.com
@@ -13384,6 +13391,7 @@
 0.0.0.0 emblyjustin.com
 0.0.0.0 embodyopenlyoppose.com
 0.0.0.0 embogsoarers.com
+0.0.0.0 embraceclub.app
 0.0.0.0 embroiderycoding.net
 0.0.0.0 embryododgeinform.com
 0.0.0.0 embryoszeekoe.digital
@@ -14507,6 +14515,7 @@
 0.0.0.0 fastcache.fun
 0.0.0.0 fastcache.top
 0.0.0.0 fastcdn.info
+0.0.0.0 fastdating.app
 0.0.0.0 fastdld.com
 0.0.0.0 fastdln.com
 0.0.0.0 fastdlr.com
@@ -15380,6 +15389,7 @@
 0.0.0.0 forexarby.com
 0.0.0.0 forexplmdb.com
 0.0.0.0 forexstudies.eu
+0.0.0.0 foreyeshehadtw.com
 0.0.0.0 forflygonom.com
 0.0.0.0 forfrogadiertor.com
 0.0.0.0 forgabrimous.website
@@ -19813,6 +19823,7 @@
 0.0.0.0 infrashift.com
 0.0.0.0 infreewifi.com
 0.0.0.0 infront-br.com.br
+0.0.0.0 infront.app
 0.0.0.0 infusesrhyptic.com
 0.0.0.0 ingeneumps.com
 0.0.0.0 ingeniousomendisinherit.com
@@ -19866,6 +19877,7 @@
 0.0.0.0 inmueblesmorrocoy.com
 0.0.0.0 inn-liners.com
 0.0.0.0 innerbuddhacoaching.com
+0.0.0.0 innessabigeat.space
 0.0.0.0 innic.org
 0.0.0.0 innity.net
 0.0.0.0 innlanz.au
@@ -21050,6 +21062,7 @@
 0.0.0.0 jollykeg.com
 0.0.0.0 jollyproficient.com
 0.0.0.0 jollytestpartying.com
+0.0.0.0 joltouch.net
 0.0.0.0 jomcomic2.onl
 0.0.0.0 jometro.com
 0.0.0.0 jomhpxeoefh.xyz
@@ -22202,6 +22215,7 @@
 0.0.0.0 kurukshetragodrej.com
 0.0.0.0 kurumugil.com
 0.0.0.0 kusbcyxafo.com
+0.0.0.0 kussoscliffy.com
 0.0.0.0 kustaucu.com
 0.0.0.0 kutjilsi.com
 0.0.0.0 kuttarmufti.com
@@ -22702,6 +22716,7 @@
 0.0.0.0 lechuzgarden.in
 0.0.0.0 lecompararatif.com
 0.0.0.0 lecon.org
+0.0.0.0 lecturenotes.app
 0.0.0.0 ledaoutrush.com
 0.0.0.0 ledhatbet.com
 0.0.0.0 ledrapti.net
@@ -25681,6 +25696,7 @@
 0.0.0.0 mutenessdollyheadlong.com
 0.0.0.0 mutiarabuah.com
 0.0.0.0 mutjrvxlldyrbyg.xyz
+0.0.0.0 mutteredadisa.com
 0.0.0.0 mutury.com
 0.0.0.0 muuucbdkfn.xyz
 0.0.0.0 muvflix.com
@@ -25843,6 +25859,7 @@
 0.0.0.0 myotictawse.com
 0.0.0.0 myownn.org
 0.0.0.0 myownshop.at
+0.0.0.0 mypaidcenter.app
 0.0.0.0 mypartychecker.co.uk
 0.0.0.0 mypersonalrec.xyz
 0.0.0.0 myphammoonshop.com
@@ -27378,6 +27395,7 @@
 0.0.0.0 oe.spleniacusec.com
 0.0.0.0 oeaowjka.com
 0.0.0.0 oebadu.com
+0.0.0.0 oeckey.com
 0.0.0.0 oedroughl.xyz
 0.0.0.0 oedspoiletkni.xyz
 0.0.0.0 oekiqjqoonbyv.com
@@ -28055,6 +28073,7 @@
 0.0.0.0 order7312.pro
 0.0.0.0 order97102.site
 0.0.0.0 orderfritter.com
+0.0.0.0 orderlymall.pro
 0.0.0.0 orderramsouthcarolina.com
 0.0.0.0 orderz.lol
 0.0.0.0 ordinaryleaving.com
@@ -28870,6 +28889,7 @@
 0.0.0.0 pausingeoedwe.xyz
 0.0.0.0 pausingrespectfully.com
 0.0.0.0 pauzajoo.net
+0.0.0.0 pauzooty.xyz
 0.0.0.0 paverscortaro.com
 0.0.0.0 pavymoieter.com
 0.0.0.0 pawafrmhatg.com
@@ -31318,6 +31338,7 @@
 0.0.0.0 qawaoxlc.xyz
 0.0.0.0 qawlivycsb.com
 0.0.0.0 qawpicxuca.com
+0.0.0.0 qawxtenkeo.com
 0.0.0.0 qayjezw.xyz
 0.0.0.0 qaykb.com
 0.0.0.0 qb.falsenalice.com
@@ -34843,6 +34864,7 @@
 0.0.0.0 shrubsencase.com
 0.0.0.0 shrugartisticelder.com
 0.0.0.0 shrugglefor.com
+0.0.0.0 shrust.com
 0.0.0.0 shsm.link
 0.0.0.0 shtaobao.site
 0.0.0.0 shubad2u8ba09.com
@@ -35051,6 +35073,7 @@
 0.0.0.0 sirepisode.com
 0.0.0.0 sireundermineoperative.com
 0.0.0.0 sirkuitechinc.com
+0.0.0.0 sirshree.app
 0.0.0.0 sirudhaaniyafoods.com
 0.0.0.0 siruvanis.org
 0.0.0.0 sis001h1s2.com
@@ -36758,6 +36781,7 @@
 0.0.0.0 suptur.online
 0.0.0.0 surahsbimas.com
 0.0.0.0 surded.com
+0.0.0.0 surecheapermoisture.com
 0.0.0.0 surechieflyrepulse.com
 0.0.0.0 surediscourageconcerning.com
 0.0.0.0 surelyconvinced.com
@@ -37513,6 +37537,7 @@
 0.0.0.0 tehous.com
 0.0.0.0 tehras.com
 0.0.0.0 tehwxqbjnsoxg.com
+0.0.0.0 teiegram.app
 0.0.0.0 teindsrangier.com
 0.0.0.0 teisxvplmevlnx.com
 0.0.0.0 tejasmargaritas.com
@@ -40786,6 +40811,7 @@
 0.0.0.0 uschire.com
 0.0.0.0 usctkfadw.com
 0.0.0.0 uscultwine.com
+0.0.0.0 usearch.site
 0.0.0.0 usebam.com
 0.0.0.0 usedaifi.xyz
 0.0.0.0 usedautos.online
@@ -41491,6 +41517,7 @@
 0.0.0.0 vidcaps.space
 0.0.0.0 vidcdn.info
 0.0.0.0 vidcdn.name
+0.0.0.0 vidclips.online
 0.0.0.0 vidcofk.com
 0.0.0.0 vidcpm.com
 0.0.0.0 videe.tv
@@ -42105,6 +42132,7 @@
 0.0.0.0 vzigttqgqx.com
 0.0.0.0 vzoosjtwatu.com
 0.0.0.0 w00f.net
+0.0.0.0 w12atendim.digital
 0.0.0.0 w1360.com
 0.0.0.0 w2clientes.digital
 0.0.0.0 w2produtosonline.digital
@@ -44076,6 +44104,7 @@
 0.0.0.0 www.apihb.com
 0.0.0.0 www.aplisoft-ided.com
 0.0.0.0 www.apmebf.com
+0.0.0.0 www.apollohealthco.app
 0.0.0.0 www.apologiesneedleworkrising.com
 0.0.0.0 www.apologizingrigorousmorally.com
 0.0.0.0 www.appearanceinjunctionwebsite.com
@@ -44484,6 +44513,7 @@
 0.0.0.0 www.brightpointsis.com
 0.0.0.0 www.brilliantexcavate.com
 0.0.0.0 www.bringsconserve.com
+0.0.0.0 www.brinze.app
 0.0.0.0 www.britishinquisitive.com
 0.0.0.0 www.brmovies.xyz
 0.0.0.0 www.broochambitioncopies.com
@@ -45335,6 +45365,7 @@
 0.0.0.0 www.elmspro.com
 0.0.0.0 www.embarkdisrupt.com
 0.0.0.0 www.embodyopenlyoppose.com
+0.0.0.0 www.embraceclub.app
 0.0.0.0 www.embryododgeinform.com
 0.0.0.0 www.emeralddead.com
 0.0.0.0 www.emergentpm.com
@@ -45487,6 +45518,7 @@
 0.0.0.0 www.farthersuspicious.com
 0.0.0.0 www.fascinatedpetulantfrail.com
 0.0.0.0 www.fashioneggplant.com
+0.0.0.0 www.fastdating.app
 0.0.0.0 www.fastenapocalypse.com
 0.0.0.0 www.fastestdwelling.com
 0.0.0.0 www.fastidiousconsensus.com
@@ -46186,6 +46218,7 @@
 0.0.0.0 www.informsrelic.com
 0.0.0.0 www.infragendev.com
 0.0.0.0 www.infront-br.com.br
+0.0.0.0 www.infront.app
 0.0.0.0 www.ingeniousomendisinherit.com
 0.0.0.0 www.ingig-nes.com
 0.0.0.0 www.inhabitantquestions.com
@@ -46550,6 +46583,7 @@
 0.0.0.0 www.leaseholderbarbcompact.com
 0.0.0.0 www.leavebumpwrinkle.com
 0.0.0.0 www.lecon.org
+0.0.0.0 www.lecturenotes.app
 0.0.0.0 www.leeante.com
 0.0.0.0 www.leefshost.online
 0.0.0.0 www.leftmajority.com
@@ -46944,6 +46978,7 @@
 0.0.0.0 www.myjagran.com
 0.0.0.0 www.mymantech.com
 0.0.0.0 www.mymusicledger.com
+0.0.0.0 www.mypaidcenter.app
 0.0.0.0 www.myracebets.com
 0.0.0.0 www.mysacredspace.org
 0.0.0.0 www.mysmartlink.website
@@ -48058,6 +48093,7 @@
 0.0.0.0 www.singledadventure.com
 0.0.0.0 www.sinosure.limited
 0.0.0.0 www.siredgarallancrow.com
+0.0.0.0 www.sirshree.app
 0.0.0.0 www.sirudhaaniyafoods.com
 0.0.0.0 www.sistercomb.com
 0.0.0.0 www.sitiosaojorge.com.br
@@ -48366,6 +48402,7 @@
 0.0.0.0 www.teddytoysivan.com
 0.0.0.0 www.teenylimbspeevish.com
 0.0.0.0 www.teenymuteprospect.com
+0.0.0.0 www.teiegram.app
 0.0.0.0 www.tejasmargaritas.com
 0.0.0.0 www.tekit.world
 0.0.0.0 www.telegraphsunken.com
@@ -48784,6 +48821,7 @@
 0.0.0.0 www.vpay.website
 0.0.0.0 www.vupyjyyu.xyz
 0.0.0.0 www.vushcups.com
+0.0.0.0 www.w12atendim.digital
 0.0.0.0 www.w1360.com
 0.0.0.0 www.wadmargincling.com
 0.0.0.0 www.wagedustermet.com
