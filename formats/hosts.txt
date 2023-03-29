@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.088
 # Release: 088
-# Entries: 51,193
-# Updated: Wed, 29 Mar 23 18:07:49 +06
+# Entries: 51,197
+# Updated: Wed, 29 Mar 23 20:07:35 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10534,6 +10534,7 @@
 0.0.0.0 ctm-media.com
 0.0.0.0 ctmmessagerie.biz
 0.0.0.0 ctmmessagerie.org
+0.0.0.0 ctn.hr
 0.0.0.0 ctoatwoxxnk.com
 0.0.0.0 ctoziphius.com
 0.0.0.0 ctrahistorical.com
@@ -17973,6 +17974,7 @@
 0.0.0.0 hattabelevators.com
 0.0.0.0 hattedclient.uno
 0.0.0.0 hattedouce.live
+0.0.0.0 hattiaac.in
 0.0.0.0 hatwasallo.com
 0.0.0.0 hauchiwu.com
 0.0.0.0 haughtydropszoology.com
@@ -18889,6 +18891,7 @@
 0.0.0.0 hotzoneunspeed.com
 0.0.0.0 houdodoo.net
 0.0.0.0 houjachy.com
+0.0.0.0 houlb.com
 0.0.0.0 houldthinkhi.buzz
 0.0.0.0 houndcost.com
 0.0.0.0 hourvanishedunit.com
@@ -35512,6 +35515,7 @@
 0.0.0.0 slychicks.com
 0.0.0.0 sm66casino.online
 0.0.0.0 smaleo.com
+0.0.0.0 smallear.com
 0.0.0.0 smallel.com
 0.0.0.0 smallelboswore.xyz
 0.0.0.0 smallestunrealilliterate.com
