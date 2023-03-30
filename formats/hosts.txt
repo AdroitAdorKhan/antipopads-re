@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.089
 # Release: 089
-# Entries: 51,328
-# Updated: Thu, 30 Mar 23 10:07:29 +06
+# Entries: 51,364
+# Updated: Thu, 30 Mar 23 12:16:00 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -876,6 +876,7 @@
 0.0.0.0 3dcube.in
 0.0.0.0 3dfcff2ec15099df0a24ad2cee74f21a.com
 0.0.0.0 3dnsew.com
+0.0.0.0 3dnsew.us
 0.0.0.0 3domainscom.com
 0.0.0.0 3dsecurepays.network
 0.0.0.0 3dtops.com
@@ -912,6 +913,7 @@
 0.0.0.0 3lift.com
 0.0.0.0 3lordfilm-0.xyz
 0.0.0.0 3lr67y45.com
+0.0.0.0 3milematters.us
 0.0.0.0 3mmfvvto.com
 0.0.0.0 3myad.com
 0.0.0.0 3n5b.info
@@ -1254,6 +1256,7 @@
 0.0.0.0 60.xml.wowcon.net
 0.0.0.0 600z.com
 0.0.0.0 601122.com
+0.0.0.0 602productions.us
 0.0.0.0 602studios.net
 0.0.0.0 6064cb4b81.com
 0.0.0.0 6068a17eed25.com
@@ -5904,6 +5907,7 @@
 0.0.0.0 batterielaprairie.com
 0.0.0.0 batteries2go.co.uk
 0.0.0.0 batterserenity.com
+0.0.0.0 batterybackup.app
 0.0.0.0 batteryfirmimage.com
 0.0.0.0 batteusp2hilenor.com
 0.0.0.0 batwaxwok.site
@@ -6320,6 +6324,7 @@
 0.0.0.0 bestdisplayformats.com
 0.0.0.0 besteasyclick.com
 0.0.0.0 besterp.biz
+0.0.0.0 bestescrow.app
 0.0.0.0 bestexp1.com
 0.0.0.0 bestforbigandheavy.com
 0.0.0.0 bestfrenchcamping.com
@@ -6688,6 +6693,7 @@
 0.0.0.0 bitcoinshashes.xyz
 0.0.0.0 bitcoinsteady.com
 0.0.0.0 bitcointitle.net
+0.0.0.0 bitcointransaction.app
 0.0.0.0 bitdiko.com
 0.0.0.0 biteburied.com
 0.0.0.0 biteneverthelessnan.com
@@ -6932,6 +6938,7 @@
 0.0.0.0 bluestackstop.website
 0.0.0.0 blueswordksh.com
 0.0.0.0 bluishgeologicallimitless.com
+0.0.0.0 blukard.app
 0.0.0.0 bluntabsolutionoblique.com
 0.0.0.0 blurmarkets.pro
 0.0.0.0 blurmarkets.shop
@@ -7764,6 +7771,7 @@
 0.0.0.0 buyitnowtoday.net
 0.0.0.0 buylnk.com
 0.0.0.0 buyone.guru
+0.0.0.0 buyonline.app
 0.0.0.0 buyrevitamal.com
 0.0.0.0 buysalebiz.com
 0.0.0.0 buyselllovesedona.com
@@ -9406,6 +9414,7 @@
 0.0.0.0 cloudlessverticallyrender.com
 0.0.0.0 cloudlogobox.com
 0.0.0.0 cloudsdestruction.com
+0.0.0.0 cloudservice.app
 0.0.0.0 cloudsourceholl.com
 0.0.0.0 cloudsrvtrk.com
 0.0.0.0 cloudtraff.com
@@ -11704,6 +11713,7 @@
 0.0.0.0 dieged.com
 0.0.0.0 dienesasides.com
 0.0.0.0 dieselhircine.com
+0.0.0.0 dieta21dias.app
 0.0.0.0 dietalmatax.com
 0.0.0.0 dietaryexpanded.com
 0.0.0.0 dietnow.in
@@ -12279,6 +12289,7 @@
 0.0.0.0 donjonspiscis.space
 0.0.0.0 donnismretrier.live
 0.0.0.0 donnotbipeds.com
+0.0.0.0 donofo.app
 0.0.0.0 donthedoorwi.com
 0.0.0.0 dontorrent.sk
 0.0.0.0 donttbeevils.de
@@ -12345,6 +12356,7 @@
 0.0.0.0 dottwo.net
 0.0.0.0 douane-gouv-tax.com
 0.0.0.0 doubat.com
+0.0.0.0 doubl.app
 0.0.0.0 doubl.org
 0.0.0.0 double-check.com
 0.0.0.0 doubleadserve.com
@@ -13621,6 +13633,7 @@
 0.0.0.0 energeticdryeyebrows.com
 0.0.0.0 energeticholder.com
 0.0.0.0 energycodearchitects.net
+0.0.0.0 energyefficient.app
 0.0.0.0 energynfts.io
 0.0.0.0 energysavinglamps1.com
 0.0.0.0 energysavinglamps2.com
@@ -14273,6 +14286,7 @@
 0.0.0.0 expandremittance.com
 0.0.0.0 expansioneggnog.com
 0.0.0.0 expat-world.com
+0.0.0.0 expectedballpaul.com
 0.0.0.0 expedientabnormaldeceased.com
 0.0.0.0 expeldetachment.com
 0.0.0.0 expelpoucey.com
@@ -15276,6 +15290,7 @@
 0.0.0.0 fliedridgin.com
 0.0.0.0 flightbangla.net
 0.0.0.0 flightsgalapagos.ec
+0.0.0.0 flightsonline.app
 0.0.0.0 fliippedisland.com
 0.0.0.0 flimsysmicker.digital
 0.0.0.0 flingforyou.com
@@ -15299,6 +15314,7 @@
 0.0.0.0 fllp71.com
 0.0.0.0 flndmyiphone.me
 0.0.0.0 flneurtoyed.tech
+0.0.0.0 floatr.app
 0.0.0.0 floccischlump.com
 0.0.0.0 flockgallies.com
 0.0.0.0 flogmacaroni.com
@@ -17271,6 +17287,7 @@
 0.0.0.0 gr8y7z1xaq30.com
 0.0.0.0 grabacar.uk
 0.0.0.0 grabclix.com
+0.0.0.0 grabngo.app
 0.0.0.0 grabu.top
 0.0.0.0 gracaiko.net
 0.0.0.0 gracefulbayonetlukewarm.com
@@ -17669,6 +17686,7 @@
 0.0.0.0 gurmezadeshop.com
 0.0.0.0 guro2.com
 0.0.0.0 gurshesenglute.website
+0.0.0.0 guruapp.app
 0.0.0.0 gurudailyinvesting.com
 0.0.0.0 gurudevrajverma.com
 0.0.0.0 gurugramcontractor.com
@@ -19628,6 +19646,7 @@
 0.0.0.0 ikola.top
 0.0.0.0 ikoptaud.com
 0.0.0.0 ikouthaupi.com
+0.0.0.0 ikrauteri.life
 0.0.0.0 ikuduaayycprit.xyz
 0.0.0.0 ikugrbhlehndg.com
 0.0.0.0 ikunselt.com
@@ -19950,6 +19969,7 @@
 0.0.0.0 inflectedminimalbits.com
 0.0.0.0 inflectioninadequatecandied.com
 0.0.0.0 inflectionquake.com
+0.0.0.0 inflictgive.com
 0.0.0.0 inflictmistycarlos.com
 0.0.0.0 influencer2020.com
 0.0.0.0 influenciadores-mccann.com
@@ -33348,6 +33368,7 @@
 0.0.0.0 roommatespacioushrs.com
 0.0.0.0 roomteacher.com
 0.0.0.0 roomys.app
+0.0.0.0 roonanon.space
 0.0.0.0 roosteem.net
 0.0.0.0 roostertrails.com
 0.0.0.0 root4you.net
@@ -34182,6 +34203,7 @@
 0.0.0.0 scanunderstiff.com
 0.0.0.0 scanwave.uk
 0.0.0.0 scaoyymo.top
+0.0.0.0 scapfloored.space
 0.0.0.0 scapid.com
 0.0.0.0 scapoidalmose.tech
 0.0.0.0 scapoidtin.com
@@ -44687,6 +44709,7 @@
 0.0.0.0 www.batchcousin.com
 0.0.0.0 www.batedisqualify.com
 0.0.0.0 www.bathepoliteness.com
+0.0.0.0 www.batterybackup.app
 0.0.0.0 www.baurdesigns.com
 0.0.0.0 www.bayardsitalia.it
 0.0.0.0 www.bayonnenj.biz
@@ -44733,6 +44756,7 @@
 0.0.0.0 www.berriesresound.com
 0.0.0.0 www.besetadvocacystrap.com
 0.0.0.0 www.best-porno.net
+0.0.0.0 www.bestescrow.app
 0.0.0.0 www.bestforbigandheavy.com
 0.0.0.0 www.bestialjames.com
 0.0.0.0 www.bestialvehemence.com
@@ -44811,6 +44835,7 @@
 0.0.0.0 www.blueberrydanelarger.com
 0.0.0.0 www.blueleaf.users.aulsidakr.com
 0.0.0.0 www.bluishgeologicallimitless.com
+0.0.0.0 www.blukard.app
 0.0.0.0 www.blushmossy.com
 0.0.0.0 www.blushrepublicwedding.com
 0.0.0.0 www.bnserving.com
@@ -44930,6 +44955,7 @@
 0.0.0.0 www.butterflywuu88.com
 0.0.0.0 www.buyhandbookshop.gives
 0.0.0.0 www.buyone.guru
+0.0.0.0 www.buyonline.app
 0.0.0.0 www.buysalebiz.com
 0.0.0.0 www.buzztimebusiness.com
 0.0.0.0 www.bvlang1.com
@@ -45127,6 +45153,7 @@
 0.0.0.0 www.cloudemr.app
 0.0.0.0 www.cloudflane.com
 0.0.0.0 www.cloudlessverticallyrender.com
+0.0.0.0 www.cloudservice.app
 0.0.0.0 www.clownverticalrussian.com
 0.0.0.0 www.club-india.gives
 0.0.0.0 www.clubhousevisibilityprop.com
@@ -45509,6 +45536,7 @@
 0.0.0.0 www.diarypuddle.com
 0.0.0.0 www.dickyang.com
 0.0.0.0 www.dictatepantry.com
+0.0.0.0 www.dieta21dias.app
 0.0.0.0 www.dietaryexpanded.com
 0.0.0.0 www.differencedisinheritpass.com
 0.0.0.0 www.difficultywithhold.com
@@ -45610,12 +45638,14 @@
 0.0.0.0 www.domcontractors.com
 0.0.0.0 www.dominatebacon.com
 0.0.0.0 www.dominioneastern.com
+0.0.0.0 www.donofo.app
 0.0.0.0 www.donutfulfilherd.com
 0.0.0.0 www.doodlerehearsesculpture.com
 0.0.0.0 www.doownl0ad3s.com
 0.0.0.0 www.dorothys.xyz
 0.0.0.0 www.doruvixi.xyz
 0.0.0.0 www.dotnetmq.com
+0.0.0.0 www.doubl.app
 0.0.0.0 www.doublyconversion.com
 0.0.0.0 www.downrighteat.com
 0.0.0.0 www.downtownpharmacynj.com
@@ -45768,6 +45798,7 @@
 0.0.0.0 www.enemiespointedextinguish.com
 0.0.0.0 www.energeticdryeyebrows.com
 0.0.0.0 www.energeticholder.com
+0.0.0.0 www.energyefficient.app
 0.0.0.0 www.enginecorruptiontrice.com
 0.0.0.0 www.engineerpopular.com
 0.0.0.0 www.englandrelent.com
@@ -45982,9 +46013,11 @@
 0.0.0.0 www.flb366.com
 0.0.0.0 www.fleabutton.com
 0.0.0.0 www.flexiblepipetool.com
+0.0.0.0 www.flightsonline.app
 0.0.0.0 www.flintdepreciate.com
 0.0.0.0 www.flirts.chat
 0.0.0.0 www.flix-share.xyz
+0.0.0.0 www.floatr.app
 0.0.0.0 www.flogmacaroni.com
 0.0.0.0 www.floodingdaredsanctuary.com
 0.0.0.0 www.floorsafetyexpert.com
@@ -46159,6 +46192,7 @@
 0.0.0.0 www.giftedhazelsecond.com
 0.0.0.0 www.gifthandymanshortage.com
 0.0.0.0 www.gigertreqwer.com
+0.0.0.0 www.gigrr.app
 0.0.0.0 www.gingercompute.com
 0.0.0.0 www.gingergreen.org
 0.0.0.0 www.ginnymulberryincompetent.com
@@ -46223,6 +46257,7 @@
 0.0.0.0 www.gowwwogle.com
 0.0.0.0 www.gprhe.com
 0.0.0.0 www.gr4hn.com
+0.0.0.0 www.grabngo.app
 0.0.0.0 www.gracefulbayonetlukewarm.com
 0.0.0.0 www.grainequipgroup.com
 0.0.0.0 www.grainger.top
@@ -46272,6 +46307,7 @@
 0.0.0.0 www.guessfumevisited.com
 0.0.0.0 www.guestsaircondition.com
 0.0.0.0 www.gupo-pinero.com
+0.0.0.0 www.guruapp.app
 0.0.0.0 www.gurudevrajverma.com
 0.0.0.0 www.gustobr.com
 0.0.0.0 www.guswant.com
