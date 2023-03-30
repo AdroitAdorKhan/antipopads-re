@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.089
 # Release: 089
-# Entries: 51,364
-# Updated: Thu, 30 Mar 23 12:16:00 +06
+# Entries: 51,388
+# Updated: Thu, 30 Mar 23 14:08:07 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1871,7 +1871,14 @@
 0.0.0.0 a2movies.top
 0.0.0.0 a2nn5eri7ce.com
 0.0.0.0 a2tw6yoodsag.com
+0.0.0.0 a2z-online.us
+0.0.0.0 a2z-shop.us
+0.0.0.0 a2z-smart.us
+0.0.0.0 a2z-smartshop.us
+0.0.0.0 a2z-smartstore.us
 0.0.0.0 a2zclub.ir
+0.0.0.0 a2zsmartshop.us
+0.0.0.0 a2zsmartstore.us
 0.0.0.0 a2ztools-in.one
 0.0.0.0 a31e4a98f6.b094e3477d.com
 0.0.0.0 a3258.xyz
@@ -1986,9 +1993,11 @@
 0.0.0.0 abcabdc.xyz
 0.0.0.0 abcboyswear.com
 0.0.0.0 abcediting.online
+0.0.0.0 abcediting.us
 0.0.0.0 abclefabletor.com
 0.0.0.0 abco.wang
 0.0.0.0 abcporntube.com
+0.0.0.0 abcultimatestudio.us
 0.0.0.0 abdely.com
 0.0.0.0 abdigitalbano.com
 0.0.0.0 abdlnk.com
@@ -2276,6 +2285,7 @@
 0.0.0.0 acsxpbhbsuk.com
 0.0.0.0 act-my-easyweb.com
 0.0.0.0 actifsrealestate.com
+0.0.0.0 actiondawgz.us
 0.0.0.0 actiongames300.com
 0.0.0.0 actions.science
 0.0.0.0 actitansrugby.org
@@ -2285,11 +2295,13 @@
 0.0.0.0 activelysmileintimate.com
 0.0.0.0 activeoffbracelet.com
 0.0.0.0 activephilosophy.pro
+0.0.0.0 activeplex.us
 0.0.0.0 activitytonic.com
 0.0.0.0 actorartsacademy.com
 0.0.0.0 actratoronto.net
 0.0.0.0 actratoronto.org
 0.0.0.0 actressact.com
+0.0.0.0 actressgizza.us
 0.0.0.0 actrk.me
 0.0.0.0 actrkn.com
 0.0.0.0 actsrelent.com
@@ -2335,6 +2347,7 @@
 0.0.0.0 adalynn.info
 0.0.0.0 adamcomsof.com
 0.0.0.0 adamdevos.ca
+0.0.0.0 adamjacobs.us
 0.0.0.0 adamszaytoona.com
 0.0.0.0 adanifoods.in
 0.0.0.0 adaptationbodilypairs.com
@@ -2799,6 +2812,7 @@
 0.0.0.0 adventurefeeds.xml.ak-is2.net
 0.0.0.0 adventurercraft.com
 0.0.0.0 adventuresinreallife.com
+0.0.0.0 adventureswithgod.us
 0.0.0.0 adventuretrailer.co.uk
 0.0.0.0 adventurouscomprehendhold.com
 0.0.0.0 adverbwaist.com
@@ -3029,6 +3043,7 @@
 0.0.0.0 afk-i.com
 0.0.0.0 afkfoundation.net
 0.0.0.0 aflozym.org
+0.0.0.0 aflozym.us
 0.0.0.0 afm01.com
 0.0.0.0 afnodokan.com
 0.0.0.0 aforepayoffstutter.com
@@ -3170,8 +3185,10 @@
 0.0.0.0 agrafestickled.com
 0.0.0.0 agraffesalps.com
 0.0.0.0 agraglie.net
+0.0.0.0 agrariacenter.us
 0.0.0.0 agrarianbeepsensitivity.com
 0.0.0.0 agrarianeruption.com
+0.0.0.0 agratas.us
 0.0.0.0 agreatergood.co
 0.0.0.0 agreedrunawaysalty.com
 0.0.0.0 agreeingflippantointment.com
@@ -3309,6 +3326,7 @@
 0.0.0.0 aiotor.co.in
 0.0.0.0 aipa.wang
 0.0.0.0 aipofeem.net
+0.0.0.0 aipromptengineering.us
 0.0.0.0 aiqidwcfrm.com
 0.0.0.0 aiqiji1.com
 0.0.0.0 air8cushion.co.uk
@@ -3324,6 +3342,7 @@
 0.0.0.0 airdropemboil.com
 0.0.0.0 airent.io
 0.0.0.0 aireport.ca
+0.0.0.0 airfrance-klm.us
 0.0.0.0 airfreshome.com
 0.0.0.0 airigh.scot
 0.0.0.0 airlaza.co.uk
@@ -3335,6 +3354,7 @@
 0.0.0.0 airpollutionnews.co.uk
 0.0.0.0 airpush.com
 0.0.0.0 airsaurd.com
+0.0.0.0 airshops.us
 0.0.0.0 airsoang.net
 0.0.0.0 airthabolete.com
 0.0.0.0 airticmonsoa.com
@@ -3423,6 +3443,7 @@
 0.0.0.0 akinrevenueexcited.com
 0.0.0.0 akintservices.com
 0.0.0.0 akjavfwawo.com
+0.0.0.0 akkadianlabs.us
 0.0.0.0 akkdyflrqpdtkt.top
 0.0.0.0 akkxjeynuhdpa.com
 0.0.0.0 akmxts.com
@@ -3590,6 +3611,7 @@
 0.0.0.0 allaserve.com
 0.0.0.0 allayravage.com
 0.0.0.0 allbooking.online
+0.0.0.0 allbuenpaladar.us
 0.0.0.0 allcommonblog.com
 0.0.0.0 allcoolnewz.com
 0.0.0.0 allcoolposts.com
@@ -3633,6 +3655,7 @@
 0.0.0.0 alloha.tv
 0.0.0.0 allohaplay.ru
 0.0.0.0 allornamenti.com
+0.0.0.0 allot-a-space.us
 0.0.0.0 allotupwardmalicious.com
 0.0.0.0 allow-to-continue.com
 0.0.0.0 allowancevindictive.com
@@ -24102,6 +24125,7 @@
 0.0.0.0 madbul.com
 0.0.0.0 madcpms.com
 0.0.0.0 maddbeauty.online
+0.0.0.0 maddenbusy.com
 0.0.0.0 maddeningpowder.com
 0.0.0.0 maddenword.com
 0.0.0.0 madehimn.xyz
