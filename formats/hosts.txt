@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.090
 # Release: 090
-# Entries: 51,563
-# Updated: Fri, 31 Mar 23 00:16:29 +06
+# Entries: 51,589
+# Updated: Fri, 31 Mar 23 02:08:05 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7562,6 +7562,7 @@
 0.0.0.0 brogetcode3s.cc
 0.0.0.0 brogetcode4s.cc
 0.0.0.0 broidensordini.com
+0.0.0.0 brojwaozvgib.com
 0.0.0.0 brokagedefraud.com
 0.0.0.0 brokec.biz
 0.0.0.0 brokeloy.com
@@ -11308,6 +11309,7 @@
 0.0.0.0 deaconrandomoptional.com
 0.0.0.0 deadlineevaporate.com
 0.0.0.0 deadlyheart.pro
+0.0.0.0 deadlysafe.pro
 0.0.0.0 deadmen.tech
 0.0.0.0 deadpangate.com
 0.0.0.0 deadrafflewildest.com
@@ -11895,6 +11897,7 @@
 0.0.0.0 digikomori.email
 0.0.0.0 digimakes.com
 0.0.0.0 digiosolution.com
+0.0.0.0 digiotech.us
 0.0.0.0 digiroy.com
 0.0.0.0 digital-dynamo.co.uk
 0.0.0.0 digital2cloud.com
@@ -11910,6 +11913,7 @@
 0.0.0.0 digitalmediapp.com
 0.0.0.0 digitalreservation.fun
 0.0.0.0 digitalsignatureonline.in
+0.0.0.0 digitalveteran.us
 0.0.0.0 digivetcare.org
 0.0.0.0 digmob.org
 0.0.0.0 digressremarkableconfide.com
@@ -12103,6 +12107,8 @@
 0.0.0.0 dismissabuse.com
 0.0.0.0 dismissedjollyhypocrite.com
 0.0.0.0 dismountpoint.com
+0.0.0.0 disneyplusbegin.us
+0.0.0.0 disneypluslogin.us
 0.0.0.0 disord-app.com
 0.0.0.0 dispaco.it
 0.0.0.0 disparagethence.com
@@ -12146,6 +12152,7 @@
 0.0.0.0 dissreingr.net
 0.0.0.0 distantsoil.com
 0.0.0.0 distilled.ie
+0.0.0.0 distillingspirit.us
 0.0.0.0 distinct-bicycle.com
 0.0.0.0 distinctlynobleprosecute.com
 0.0.0.0 distok.top
@@ -12320,6 +12327,7 @@
 0.0.0.0 dobnor.com
 0.0.0.0 doboacki.net
 0.0.0.0 doc-file.com
+0.0.0.0 doc4u.us
 0.0.0.0 dochl.com
 0.0.0.0 dock-star.co.uk
 0.0.0.0 docomo.network
@@ -12361,6 +12369,7 @@
 0.0.0.0 dognet.live
 0.0.0.0 dogolurkr.com
 0.0.0.0 dograenterprises.com
+0.0.0.0 dogrehab.us
 0.0.0.0 dogshipuniate.live
 0.0.0.0 dogsontherun.org
 0.0.0.0 dogwoodjoshed.digital
@@ -12444,6 +12453,7 @@
 0.0.0.0 donnismretrier.live
 0.0.0.0 donnotbipeds.com
 0.0.0.0 donofo.app
+0.0.0.0 donsexperience.us
 0.0.0.0 donthedoorwi.com
 0.0.0.0 dontorrent.sk
 0.0.0.0 donttbeevils.de
@@ -12721,6 +12731,7 @@
 0.0.0.0 drumimaring.xyz
 0.0.0.0 drumriceescape.com
 0.0.0.0 drunkinvincible.com
+0.0.0.0 drunklearning.us
 0.0.0.0 drupta.com
 0.0.0.0 druseshorreum.digital
 0.0.0.0 drv47apps.com
@@ -12887,6 +12898,7 @@
 0.0.0.0 dutorterraom.com
 0.0.0.0 dutravisne.com
 0.0.0.0 duwabchhdgkqc.com
+0.0.0.0 duwait.us
 0.0.0.0 duwk50magqurier.com
 0.0.0.0 duwsikdimo.com
 0.0.0.0 duytmcwm.com
@@ -12993,6 +13005,7 @@
 0.0.0.0 e-4ra.com
 0.0.0.0 e-blaze.com
 0.0.0.0 e-follow.org
+0.0.0.0 e-follow.us
 0.0.0.0 e-fuel.shop
 0.0.0.0 e-novobanco-online.com
 0.0.0.0 e-planning.net
@@ -13104,6 +13117,7 @@
 0.0.0.0 easy-ad-blocker.net
 0.0.0.0 easy-bars.com
 0.0.0.0 easy-dating.org
+0.0.0.0 easy-glides.us
 0.0.0.0 easy.ngo
 0.0.0.0 easy2cnjuh34jb.com
 0.0.0.0 easyad.com
@@ -13192,11 +13206,14 @@
 0.0.0.0 eclogicmeows.com
 0.0.0.0 eclpvqb1ferrygu.ru
 0.0.0.0 ecnmhplohkru.com
+0.0.0.0 eco-mines.us
 0.0.0.0 ecochemus.com
 0.0.0.0 ecoegni.co.uk
+0.0.0.0 ecoexplore.us
 0.0.0.0 ecolats.net
 0.0.0.0 ecologyconflict.com
 0.0.0.0 ecombots.in
+0.0.0.0 ecomines.us
 0.0.0.0 ecomixxx1.com
 0.0.0.0 econmass.org
 0.0.0.0 economicsgrandma.com
@@ -13259,6 +13276,7 @@
 0.0.0.0 edindeed.buzz
 0.0.0.0 edintered.online
 0.0.0.0 edioca.com
+0.0.0.0 editingmatters.us
 0.0.0.0 edition25.com
 0.0.0.0 editionlingerexpanded.com
 0.0.0.0 editionslap.com
@@ -14061,6 +14079,7 @@
 0.0.0.0 erysilenitmanb.com
 0.0.0.0 es.alcalihachure.com
 0.0.0.0 es54i9g7p7xh.com
+0.0.0.0 esandalargere.com
 0.0.0.0 esathyaspsu.xyz
 0.0.0.0 esbe.club
 0.0.0.0 escalatenetwork.com
@@ -18676,6 +18695,7 @@
 0.0.0.0 hightopnews.com
 0.0.0.0 hightopnewstoday.com
 0.0.0.0 highwalker.in
+0.0.0.0 highwaydizzy.com
 0.0.0.0 hiioblfkgtobxxq.xyz
 0.0.0.0 hijbswqhctypjrr.xyz
 0.0.0.0 hijoaja.top
@@ -19939,6 +19959,7 @@
 0.0.0.0 implix.com
 0.0.0.0 impore.com
 0.0.0.0 importancediscipline.com
+0.0.0.0 impossiblebird.com
 0.0.0.0 impregnablehunt.com
 0.0.0.0 impresix.com
 0.0.0.0 impresseastsolo.com
@@ -19976,6 +19997,7 @@
 0.0.0.0 inanitystorken.com
 0.0.0.0 inappertising.org
 0.0.0.0 inappropriateoutdoorsconfiguration.com
+0.0.0.0 inareputaonforha.com
 0.0.0.0 inattentivehandymanpresentiment.com
 0.0.0.0 inattentivereferredextend.com
 0.0.0.0 inbbredraxing.com
@@ -25762,6 +25784,7 @@
 0.0.0.0 moreplexdthbj.com
 0.0.0.0 morethanjustfitness.com
 0.0.0.0 moriceprich.com
+0.0.0.0 morict.com
 0.0.0.0 moried.com
 0.0.0.0 mormonwalty.com
 0.0.0.0 morningstarriskprofiler.uk
@@ -32055,6 +32078,7 @@
 0.0.0.0 qudidm.net
 0.0.0.0 queachhjp.com
 0.0.0.0 queanssciurid.space
+0.0.0.0 queasyclasts.life
 0.0.0.0 quebecanaemia.tech
 0.0.0.0 queencranberry.com
 0.0.0.0 queenservice.co.uk
@@ -36605,6 +36629,7 @@
 0.0.0.0 stabledkindler.com
 0.0.0.0 stablever.site
 0.0.0.0 stackattacka.com
+0.0.0.0 stackfadingdefend.com
 0.0.0.0 stacklegion.com
 0.0.0.0 stacknserve.com
 0.0.0.0 stacksatsnow.buzz
@@ -42061,6 +42086,7 @@
 0.0.0.0 videovideee881.com
 0.0.0.0 videovideee991.com
 0.0.0.0 vidforclips.info
+0.0.0.0 vidforclips.mom
 0.0.0.0 vidhvavivah.link
 0.0.0.0 vidofk.com
 0.0.0.0 vidox.net
