@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.089
 # Release: 089
-# Entries: 51,452
-# Updated: Thu, 30 Mar 23 16:17:32 +06
+# Entries: 51,482
+# Updated: Thu, 30 Mar 23 18:08:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -439,6 +439,7 @@
 0.0.0.0 1p8ln1dtr.de
 0.0.0.0 1phads.com
 0.0.0.0 1planetfoundation.org
+0.0.0.0 1pro.pw
 0.0.0.0 1r4g65b63.de
 0.0.0.0 1r8435gsqldr.com
 0.0.0.0 1redira.com
@@ -5901,6 +5902,7 @@
 0.0.0.0 barscreative1.com
 0.0.0.0 bartarinha.it
 0.0.0.0 bartleetgroup.net
+0.0.0.0 barukh.us
 0.0.0.0 basarabrahmanasathram.org
 0.0.0.0 basascibilir.com
 0.0.0.0 base31venues.com
@@ -5925,6 +5927,7 @@
 0.0.0.0 bashundharadigi.com
 0.0.0.0 basicpossibility.com
 0.0.0.0 basilarendowed.website
+0.0.0.0 basilhealthai.us
 0.0.0.0 basilicahall.com
 0.0.0.0 basisscarcelynaughty.com
 0.0.0.0 basity.com
@@ -5969,6 +5972,8 @@
 0.0.0.0 batterybackup.app
 0.0.0.0 batteryfirmimage.com
 0.0.0.0 batteusp2hilenor.com
+0.0.0.0 battletestedattorney.us
+0.0.0.0 battletestedlawyer.us
 0.0.0.0 batwaxwok.site
 0.0.0.0 baubogla.com
 0.0.0.0 bauchleredries.com
@@ -5990,6 +5995,7 @@
 0.0.0.0 bayirksrap.com
 0.0.0.0 baylnk.com
 0.0.0.0 bayonnenj.biz
+0.0.0.0 bayoubarbie.us
 0.0.0.0 baypops.com
 0.0.0.0 baysexthy.com
 0.0.0.0 baysidesports.site
@@ -6095,6 +6101,7 @@
 0.0.0.0 bearhugcakes.co.uk
 0.0.0.0 bearingpreoccupationadmonish.com
 0.0.0.0 bearingsandmore.net
+0.0.0.0 bearingsandmore.us
 0.0.0.0 bearlanding.net
 0.0.0.0 bearoner.com
 0.0.0.0 bearsdisdainmathematics.com
@@ -6119,6 +6126,7 @@
 0.0.0.0 bebaytowns.com
 0.0.0.0 bebloommulvel.com
 0.0.0.0 bebreloomr.com
+0.0.0.0 bebutterfly.us
 0.0.0.0 becameaimcap.com
 0.0.0.0 becamesensational.com
 0.0.0.0 becaul.com
@@ -6205,6 +6213,7 @@
 0.0.0.0 begunwomanwhiskey.com
 0.0.0.0 behalfplead.com
 0.0.0.0 beharmalted.info
+0.0.0.0 behavebadly.us
 0.0.0.0 beheadmuffleddetached.com
 0.0.0.0 behick.com
 0.0.0.0 behink.com
@@ -6328,6 +6337,7 @@
 0.0.0.0 berkshiretoday.xyz
 0.0.0.0 berlipurplin.com
 0.0.0.0 bernardinarocha.com
+0.0.0.0 beroadlifer.us
 0.0.0.0 berriesresound.com
 0.0.0.0 berrybark.com
 0.0.0.0 berrytrendy.com
@@ -6480,6 +6490,7 @@
 0.0.0.0 beyedortostr.info
 0.0.0.0 beyond-cabinets.com
 0.0.0.0 beyond100acrewood.com
+0.0.0.0 beyondcabinets.us
 0.0.0.0 beyondfeeling.in
 0.0.0.0 beyondotp.com
 0.0.0.0 beyondzerodevelopments.com
@@ -6635,6 +6646,8 @@
 0.0.0.0 bigscaner-help.shop
 0.0.0.0 bigskyaerial.org
 0.0.0.0 bigsport.today
+0.0.0.0 bigwavedave.us
+0.0.0.0 bigwinc.us
 0.0.0.0 biimum.com
 0.0.0.0 biinminigihi.com
 0.0.0.0 biitfoorex.com
@@ -6710,7 +6723,10 @@
 0.0.0.0 biologyvexend.com
 0.0.0.0 biologywestlin.guru
 0.0.0.0 biolretill.guru
+0.0.0.0 biometric-engineering.us
+0.0.0.0 biometricengineering.us
 0.0.0.0 biosda.com
+0.0.0.0 biosoins.us
 0.0.0.0 biosphereplus.org
 0.0.0.0 biothosis.com
 0.0.0.0 biotronxylylic.live
@@ -6727,6 +6743,7 @@
 0.0.0.0 birlerskababs.com
 0.0.0.0 birmangor.com
 0.0.0.0 biroads.com
+0.0.0.0 birotron.us
 0.0.0.0 birter.com
 0.0.0.0 birthdayforester.com
 0.0.0.0 birthdiscipline.com
@@ -6818,6 +6835,7 @@
 0.0.0.0 bl.navespolynya.com
 0.0.0.0 bl.requotehocker.com
 0.0.0.0 bl0uxepb4o.com
+0.0.0.0 bl230126pb.com
 0.0.0.0 blaasopdive.com
 0.0.0.0 blabhorol.com
 0.0.0.0 blabla.mobengine.xyz
@@ -6850,6 +6868,7 @@
 0.0.0.0 blackwallfitness.com
 0.0.0.0 blackwaterfmit.com
 0.0.0.0 blackwoodcommerce.com
+0.0.0.0 blacmaca.us
 0.0.0.0 blacurlik.com
 0.0.0.0 bladeforbes.com
 0.0.0.0 bladenoddingstepfather.com
@@ -6967,6 +6986,7 @@
 0.0.0.0 blueadvertise.com
 0.0.0.0 blueamericannews.org
 0.0.0.0 bluebaksa.in
+0.0.0.0 bluebark.us
 0.0.0.0 bluebellcapitalgroup.in
 0.0.0.0 bluebellconnect.net
 0.0.0.0 bluebellconnect.org
@@ -6989,6 +7009,7 @@
 0.0.0.0 bluemacun.org
 0.0.0.0 bluemercury.shop
 0.0.0.0 blueomatic.com
+0.0.0.0 blueonecard.us
 0.0.0.0 blueoyster.click
 0.0.0.0 blueparrot.media
 0.0.0.0 bluerrhaphae.website
@@ -6997,6 +7018,7 @@
 0.0.0.0 bluestacksap.website
 0.0.0.0 bluestackstop.website
 0.0.0.0 blueswordksh.com
+0.0.0.0 bluewaterdelites.us
 0.0.0.0 bluishgeologicallimitless.com
 0.0.0.0 blukard.app
 0.0.0.0 bluntabsolutionoblique.com
@@ -7138,6 +7160,7 @@
 0.0.0.0 bolofoak.net
 0.0.0.0 bolrookr.com
 0.0.0.0 bolssc.com
+0.0.0.0 boltec.us
 0.0.0.0 bolteffecteddanger.com
 0.0.0.0 boltepse.com
 0.0.0.0 bolting.store
@@ -7209,6 +7232,7 @@
 0.0.0.0 booleanfalces.website
 0.0.0.0 boom-boom-vroom.com
 0.0.0.0 boomads.com
+0.0.0.0 boomersask.us
 0.0.0.0 boomslot88.site
 0.0.0.0 boonsbarcas.uno
 0.0.0.0 booptuwa.net
@@ -13486,6 +13510,7 @@
 0.0.0.0 elephantfat.top
 0.0.0.0 elepocial.pro
 0.0.0.0 elepts.com
+0.0.0.0 eletehad.net
 0.0.0.0 eleutrummery.com
 0.0.0.0 elevateai.tech
 0.0.0.0 elevateamongstelitist.com
@@ -26303,6 +26328,7 @@
 0.0.0.0 namelymutiny.com
 0.0.0.0 namesakeoscilloscopemarquis.com
 0.0.0.0 namesexual.com
+0.0.0.0 namewww.cavalrydoomeddoorbell.com
 0.0.0.0 namikos.top
 0.0.0.0 namoswap.org
 0.0.0.0 nan46ysangt28eec.com
@@ -29633,6 +29659,7 @@
 0.0.0.0 pharmlio.com
 0.0.0.0 phartemt.xyz
 0.0.0.0 phastoag.com
+0.0.0.0 phatchoa.net
 0.0.0.0 phatlngtmvdrlbk.top
 0.0.0.0 phaudree.com
 0.0.0.0 phaughykdqwtrc.com
@@ -32358,6 +32385,7 @@
 0.0.0.0 rdqlaobjxmx.com
 0.0.0.0 rdr.pushta.net
 0.0.0.0 rdrceting.com
+0.0.0.0 rdrctgoweb.com
 0.0.0.0 rdroucnqv.com
 0.0.0.0 rdrtrk.com
 0.0.0.0 rds.com.ng
@@ -33702,6 +33730,7 @@
 0.0.0.0 ruckletawpy.com
 0.0.0.0 ructionthaught.live
 0.0.0.0 rudderaxis.com
+0.0.0.0 rudemend.com
 0.0.0.0 rudimentarynuisancesynchronize.com
 0.0.0.0 rudraconstructioncompany.com
 0.0.0.0 rudrahealthcareinfra.com
@@ -43861,6 +43890,7 @@
 0.0.0.0 wrkrbz.com
 0.0.0.0 wronal.com
 0.0.0.0 wronti.com
+0.0.0.0 wrotop.com
 0.0.0.0 wrotos.com
 0.0.0.0 wrotov.com
 0.0.0.0 wrrfs.com
