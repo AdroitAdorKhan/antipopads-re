@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.089
 # Release: 089
-# Entries: 51,482
-# Updated: Thu, 30 Mar 23 18:08:12 +06
+# Entries: 51,509
+# Updated: Thu, 30 Mar 23 20:08:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7302,6 +7302,7 @@
 0.0.0.0 bouchard-eng.ca
 0.0.0.0 boudutoo.net
 0.0.0.0 bougerredevientunplaisir.com
+0.0.0.0 bougongi.us
 0.0.0.0 bouhaisaufy.com
 0.0.0.0 bouheemosh.com
 0.0.0.0 boujeexbarbie.com
@@ -7348,6 +7349,7 @@
 0.0.0.0 bpcicfavcs.com
 0.0.0.0 bpcrigbuilders.com
 0.0.0.0 bpinpytax.com
+0.0.0.0 bpit.us
 0.0.0.0 bpjlnhklldcmri.com
 0.0.0.0 bprnusa.com
 0.0.0.0 bpscgsacademy.com
@@ -7434,6 +7436,7 @@
 0.0.0.0 braveteam.info
 0.0.0.0 bravetense.com
 0.0.0.0 bravo-dog.com
+0.0.0.0 bravobooks.us
 0.0.0.0 bravoedkilan.com
 0.0.0.0 bravotrk.com
 0.0.0.0 brawledfraid.live
@@ -7748,6 +7751,7 @@
 0.0.0.0 bullads.net
 0.0.0.0 bullcrypt.org
 0.0.0.0 bullesdesens.top
+0.0.0.0 bulletfarm.us
 0.0.0.0 bulletprofitads.com
 0.0.0.0 bulletprofitpop.com
 0.0.0.0 bulletproof-analytics.com
@@ -7822,6 +7826,7 @@
 0.0.0.0 businessmencrib.com
 0.0.0.0 businessonline-cib-hu.com
 0.0.0.0 businesstruths.org
+0.0.0.0 businessvalley.us
 0.0.0.0 businessvisuals.in
 0.0.0.0 busingcoryzal.com
 0.0.0.0 busions.com
@@ -8031,6 +8036,7 @@
 0.0.0.0 cadslimz.com
 0.0.0.0 caesak.com
 0.0.0.0 caesarporch.com
+0.0.0.0 cafecitolindo.us
 0.0.0.0 caffleklismos.website
 0.0.0.0 cafoucxiwr.com
 0.0.0.0 caggynikolai.com
@@ -8062,6 +8068,7 @@
 0.0.0.0 calcch.com
 0.0.0.0 calciofvg.online
 0.0.0.0 calculatorscaffoldmingle.com
+0.0.0.0 caleriehealthglobal.us
 0.0.0.0 calexits.uno
 0.0.0.0 calfretcitizen.live
 0.0.0.0 caliberskills.co.uk
@@ -8164,6 +8171,7 @@
 0.0.0.0 cannabiscultureconnect.com
 0.0.0.0 cannapag.org
 0.0.0.0 cannavia.io
+0.0.0.0 cannavia.us
 0.0.0.0 cannibis.church
 0.0.0.0 cannonjudo.com
 0.0.0.0 cannulamass.guru
@@ -8266,6 +8274,7 @@
 0.0.0.0 carinsurancewoodstock.com
 0.0.0.0 carlaspecificstripe.com
 0.0.0.0 carlinsambling.live
+0.0.0.0 carlsonpartnersllc.us
 0.0.0.0 carmatcher.uk
 0.0.0.0 carmeleanurous.com
 0.0.0.0 carminetx.com
@@ -8313,6 +8322,7 @@
 0.0.0.0 casagrandutopia.net
 0.0.0.0 casalemedia.com
 0.0.0.0 casasaipem.in
+0.0.0.0 casasancristobal.us
 0.0.0.0 casasfinanciables.com
 0.0.0.0 casayoss.com
 0.0.0.0 cascade-insights.mortgage
@@ -8439,8 +8449,10 @@
 0.0.0.0 cbarmedia.com
 0.0.0.0 cbdcanteen.net
 0.0.0.0 cbdcanteen.org
+0.0.0.0 cbdcanteen.us
 0.0.0.0 cbdcr.in
 0.0.0.0 cbddup.com
+0.0.0.0 cbdrefit.us
 0.0.0.0 cbdzone.online
 0.0.0.0 cbet0101.com
 0.0.0.0 cbilrirtqyawue.com
@@ -8594,6 +8606,7 @@
 0.0.0.0 celeritascdn.com
 0.0.0.0 celeryisolatedproject.com
 0.0.0.0 celestewilsonforjudge.org
+0.0.0.0 celestinesecrets.us
 0.0.0.0 celign.com
 0.0.0.0 cellaraudacityslack.com
 0.0.0.0 cellarpassion.com
@@ -8608,8 +8621,17 @@
 0.0.0.0 cementencourage.com
 0.0.0.0 cemeterybonnet.com
 0.0.0.0 cemeterysimilar.com
+0.0.0.0 cemsidamid.us
+0.0.0.0 cemsidamide.us
+0.0.0.0 cemsidimid.us
+0.0.0.0 cemsidimide.us
 0.0.0.0 cemsidomi.co
+0.0.0.0 cemsidomi.us
+0.0.0.0 cemsidomid.us
+0.0.0.0 cemsidomide.us
 0.0.0.0 cemsidomidedrug.net
+0.0.0.0 cemsidomidedrug.us
+0.0.0.0 cemsidomidesucks.us
 0.0.0.0 cemukentha.xyz
 0.0.0.0 cenaclesuccoth.com
 0.0.0.0 cenceevent.club
@@ -24251,6 +24273,7 @@
 0.0.0.0 magicorchestra.org
 0.0.0.0 magnahvati.com
 0.0.0.0 magnati.co.uk
+0.0.0.0 magnetimprovementscrimpycrimpy.com
 0.0.0.0 magnificentflametemperature.com
 0.0.0.0 magnificentmanlyyeast.com
 0.0.0.0 magnificentmeasure.com
@@ -33052,6 +33075,7 @@
 0.0.0.0 revrtb.net
 0.0.0.0 revsci.net
 0.0.0.0 revupads.com
+0.0.0.0 rewand-ff-garena.xyz
 0.0.0.0 reward-ff-farena.xyz
 0.0.0.0 reward-win.site
 0.0.0.0 rewardcash.in
@@ -39553,6 +39577,7 @@
 0.0.0.0 tradeking.uk
 0.0.0.0 trademarkanz.com
 0.0.0.0 traderinbox.uk
+0.0.0.0 traderinsightmedia.com
 0.0.0.0 traderogre.life
 0.0.0.0 traderogre.online
 0.0.0.0 traderskoollcrypto.com
@@ -40961,6 +40986,7 @@
 0.0.0.0 unnatural-situation.pro
 0.0.0.0 unnecessaryexplorationdrunken.com
 0.0.0.0 unnumelom.com
+0.0.0.0 unoakrookroo.com
 0.0.0.0 unoblotto.net
 0.0.0.0 unovendo.co.uk
 0.0.0.0 unpacedregards.life
@@ -45681,6 +45707,7 @@
 0.0.0.0 www.dirt-ebike974.com
 0.0.0.0 www.dirtrecurrentinapptitudeinapptitude.com
 0.0.0.0 www.dirtyfutbolclub.com
+0.0.0.0 www.dirtysuspension.com
 0.0.0.0 www.disagreeadjourn.com
 0.0.0.0 www.disagreegenerator.com
 0.0.0.0 www.disappearingstayingdamaging.com
