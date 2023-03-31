@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.03.090
-# Release: 090
-# Entries: 52,058
-# Updated: Fri, 31 Mar 23 22:08:01 +06
+# Version: 23.04.091
+# Release: 091
+# Entries: 52,107
+# Updated: Sat, 01 Apr 23 00:17:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -217,6 +217,7 @@
 0.0.0.0 1221e236c3f8703.com
 0.0.0.0 123-movies.bz
 0.0.0.0 123286b.com
+0.0.0.0 1234retrofitwillcrashifnotvaliduriwithslash.com
 0.0.0.0 123565a.com
 0.0.0.0 12365chia.com
 0.0.0.0 123756565.com
@@ -2694,6 +2695,7 @@
 0.0.0.0 adshack.com
 0.0.0.0 adshell.net
 0.0.0.0 adshexa.com
+0.0.0.0 adshoes.ru
 0.0.0.0 adshoper.com
 0.0.0.0 adshopping.com
 0.0.0.0 adshort.space
@@ -6129,6 +6131,7 @@
 0.0.0.0 bearoner.com
 0.0.0.0 bearsdisdainmathematics.com
 0.0.0.0 beassilentasaf.xyz
+0.0.0.0 beastarter.com
 0.0.0.0 beastintruder.com
 0.0.0.0 beastly.info
 0.0.0.0 beastsclassbiscuit.com
@@ -7290,6 +7293,7 @@
 0.0.0.0 borado.eu
 0.0.0.0 borary.com
 0.0.0.0 borchio.it
+0.0.0.0 borderoffenseantenna.com
 0.0.0.0 bordsnewsjule.com
 0.0.0.0 boreasinflash.com
 0.0.0.0 boredactress.com
@@ -8400,6 +8404,7 @@
 0.0.0.0 casinocash.online
 0.0.0.0 casinoswithapplepay.co.uk
 0.0.0.0 casinoswithgooglepay.co.uk
+0.0.0.0 casinox1c3.site
 0.0.0.0 casito.tech
 0.0.0.0 casketknightsfolder.com
 0.0.0.0 casksteam.com
@@ -9750,6 +9755,7 @@
 0.0.0.0 cohereteddy.com
 0.0.0.0 coilcleaner.com
 0.0.0.0 coilincomplete.com
+0.0.0.0 coin-alt.ru
 0.0.0.0 coinad.media
 0.0.0.0 coinadster.com
 0.0.0.0 coinadvert.net
@@ -20430,6 +20436,7 @@
 0.0.0.0 inrakutenmall.top
 0.0.0.0 inrhyhorntor.com
 0.0.0.0 inrotomr.com
+0.0.0.0 insafmart.com
 0.0.0.0 insaludables.co
 0.0.0.0 insamemograbi.space
 0.0.0.0 insanemighthorrified.com
@@ -21582,6 +21589,7 @@
 0.0.0.0 johanarabinovich.org
 0.0.0.0 johannayawing.space
 0.0.0.0 johays.co
+0.0.0.0 johnaly.com
 0.0.0.0 johnpride.us
 0.0.0.0 johnsonsproperty.co.uk
 0.0.0.0 johntoritsemotse.com
@@ -24667,6 +24675,7 @@
 0.0.0.0 makatearepasts.com
 0.0.0.0 makatuka.org
 0.0.0.0 makeamericalocalagain.us
+0.0.0.0 makeinbelgaum.com
 0.0.0.0 makemehappy.pro
 0.0.0.0 makemehappy.space
 0.0.0.0 makemyvids.com
@@ -25248,6 +25257,7 @@
 0.0.0.0 meetingmogulapp.com
 0.0.0.0 meetingplanningacademy.com
 0.0.0.0 meetingtorbay.co.uk
+0.0.0.0 meetlovemate.top
 0.0.0.0 meetradar.com
 0.0.0.0 meetsexygirls.org
 0.0.0.0 meetsomeone.info
@@ -29374,7 +29384,9 @@
 0.0.0.0 padukaherbal.com
 0.0.0.0 padull.com
 0.0.0.0 padutchgrubs.net
+0.0.0.0 padutchgrubs.us
 0.0.0.0 padutchmealworms.net
+0.0.0.0 padutchworms.us
 0.0.0.0 pafnyfiexpe.com
 0.0.0.0 paftnlgxooy.com
 0.0.0.0 paganrabbits.com
@@ -29452,6 +29464,7 @@
 0.0.0.0 palundrus.com
 0.0.0.0 pamcavvupqm.com
 0.0.0.0 pamelalovespet.com
+0.0.0.0 pamelarandolph.us
 0.0.0.0 pampela.lol
 0.0.0.0 pamperencourage.com
 0.0.0.0 pamphletconspiracy.com
@@ -29533,6 +29546,7 @@
 0.0.0.0 parikrama.org
 0.0.0.0 parimpiables.com
 0.0.0.0 paripartners.ru
+0.0.0.0 paris2024equestrian.us
 0.0.0.0 parishleft.com
 0.0.0.0 parisjeroleinpg.com
 0.0.0.0 parjai.com
@@ -29645,6 +29659,8 @@
 0.0.0.0 patentanz.com
 0.0.0.0 patentaus.com
 0.0.0.0 patentkarma.co.uk
+0.0.0.0 patentkarma.us
+0.0.0.0 patentzone.us
 0.0.0.0 paternalhumiliate.com
 0.0.0.0 pateta4.space
 0.0.0.0 patgsrv.com
@@ -29662,6 +29678,7 @@
 0.0.0.0 patpizza.com
 0.0.0.0 patrickbp.store
 0.0.0.0 patriotapelles.com
+0.0.0.0 patriotblessings.us
 0.0.0.0 patriotinvestorlustre.com
 0.0.0.0 patronageunlock.com
 0.0.0.0 patrondescendantprecursor.com
@@ -29811,6 +29828,7 @@
 0.0.0.0 pedestalturner.com
 0.0.0.0 pedestrianneighbourly.com
 0.0.0.0 pedinformatika.ru
+0.0.0.0 pedometerwatches.us
 0.0.0.0 peecht.com
 0.0.0.0 peefeehu.com
 0.0.0.0 peekipaiw.com
@@ -29855,6 +29873,7 @@
 0.0.0.0 peixvmiw.com
 0.0.0.0 pejqoq4cafo3bg9yqqqtk5e6s6.com
 0.0.0.0 pejzeexukxo.com
+0.0.0.0 peladingos.com
 0.0.0.0 pelagicmismate.com
 0.0.0.0 pelamydlours.com
 0.0.0.0 pelican888.tech
@@ -29890,6 +29909,7 @@
 0.0.0.0 pennpolicyinstitute.org
 0.0.0.0 pennyotcstock.com
 0.0.0.0 pensetc.site
+0.0.0.0 penship.us
 0.0.0.0 pensiveravine.com
 0.0.0.0 pentaclaud.com
 0.0.0.0 pentalime.com
@@ -29916,6 +29936,7 @@
 0.0.0.0 pepselantes.com
 0.0.0.0 peptidepros.reviews
 0.0.0.0 peptidepros.top
+0.0.0.0 peptidepros.us
 0.0.0.0 perack.com
 0.0.0.0 perceivegrasshopper.com
 0.0.0.0 percephonefruit70.com
@@ -29924,6 +29945,7 @@
 0.0.0.0 perehodny.ru
 0.0.0.0 perfact.co.in
 0.0.0.0 perfect-datinghere1.com
+0.0.0.0 perfectlyimperfectpictures.us
 0.0.0.0 perfectmarket.com
 0.0.0.0 perfectmovie.pro
 0.0.0.0 perfectplanned.com
@@ -29991,6 +30013,7 @@
 0.0.0.0 pertov.com
 0.0.0.0 pertyvaluati.com
 0.0.0.0 pertyvaluationia.monster
+0.0.0.0 pertzye.us
 0.0.0.0 perucasinosonline.net
 0.0.0.0 perukesoorial.com
 0.0.0.0 peruseinvitation.com
@@ -30004,6 +30027,7 @@
 0.0.0.0 pesoaniz.com
 0.0.0.0 pesqwsulll.com
 0.0.0.0 pestcontrollaw.net
+0.0.0.0 pestcontrollaw.us
 0.0.0.0 pesterclinkaltogether.com
 0.0.0.0 pestermanageoverturn.com
 0.0.0.0 pesteroverwork.com
@@ -30021,6 +30045,7 @@
 0.0.0.0 peterdejong-photographer.com
 0.0.0.0 petersapartment.com
 0.0.0.0 petfoppew.com
+0.0.0.0 petfriendlymotels.us
 0.0.0.0 petit-cart.com
 0.0.0.0 petitcart.com
 0.0.0.0 petiteshantles.com
@@ -30052,6 +30077,7 @@
 0.0.0.0 pfewfvrkcps.com
 0.0.0.0 pfewuzbtkr.com
 0.0.0.0 pfeydosrrmymsrj.xyz
+0.0.0.0 pfingstenfamily.us
 0.0.0.0 pfjrusskan.com
 0.0.0.0 pfklopud.xyz
 0.0.0.0 pfkxrurgyw.top
@@ -30265,6 +30291,7 @@
 0.0.0.0 pictureviewer.org
 0.0.0.0 pidqnmpwfldflry.com
 0.0.0.0 pidvcbrvq.top
+0.0.0.0 pieceofcakeinvest.us
 0.0.0.0 piecesofmeadvocacy.org
 0.0.0.0 piedmontcartersville.org
 0.0.0.0 piedmonteastside.org
@@ -30336,11 +30363,13 @@
 0.0.0.0 pinjjgrsrikk.com
 0.0.0.0 pinkisacolor.org
 0.0.0.0 pinkmedicine.org
+0.0.0.0 pinkmedicine.us
 0.0.0.0 pinkpig2le8tt09.com
 0.0.0.0 pinkwinkers.com
 0.0.0.0 pinkyads.quest
 0.0.0.0 pinnaclesmallbusinessawards.com
 0.0.0.0 pinocularoud.xyz
+0.0.0.0 pinodesign.us
 0.0.0.0 pinoffence.com
 0.0.0.0 pinprickplums.com
 0.0.0.0 pinremembrance.com
@@ -30357,6 +30386,7 @@
 0.0.0.0 pipeofferear.com
 0.0.0.0 pipeschannels.com
 0.0.0.0 piphas.com
+0.0.0.0 pippinbooks.us
 0.0.0.0 pipsol.net
 0.0.0.0 piqnjwkj.com
 0.0.0.0 piquantstove.com
@@ -30637,6 +30667,7 @@
 0.0.0.0 planamagazine.com
 0.0.0.0 plandappsb.com
 0.0.0.0 planesknob.com
+0.0.0.0 planetbearing.us
 0.0.0.0 planetwatchstraps.co.uk
 0.0.0.0 planiningstoria.com
 0.0.0.0 planktab.com
@@ -30652,6 +30683,7 @@
 0.0.0.0 plantationexhaust.com
 0.0.0.0 plantationthrillednoncommittal.com
 0.0.0.0 plantbasedpancakes.com
+0.0.0.0 plantersstore.us
 0.0.0.0 plantpreventioncrab.com
 0.0.0.0 plantravel.app
 0.0.0.0 plaowakixgrhx.xyz
@@ -30907,6 +30939,7 @@
 0.0.0.0 poltbassa.com
 0.0.0.0 polyad.net
 0.0.0.0 polydarth.com
+0.0.0.0 polygone-wallet.expert
 0.0.0.0 polypivulgars.com
 0.0.0.0 pomegranatedays.co.za
 0.0.0.0 pomegranatestaff.com
@@ -31050,6 +31083,7 @@
 0.0.0.0 portsmouth400th.org
 0.0.0.0 portulacaolera.com
 0.0.0.0 poscheapjerseys.com
+0.0.0.0 poseidonadventure.us
 0.0.0.0 poseidthewave.com
 0.0.0.0 poseph.com
 0.0.0.0 poseurtwicet.digital
@@ -31190,6 +31224,7 @@
 0.0.0.0 praycompanion.com
 0.0.0.0 prayersnationsunglasses.com
 0.0.0.0 prayersstingy.com
+0.0.0.0 prayformymarriage.us
 0.0.0.0 prboyiqkslfee.com
 0.0.0.0 prclk.gpbtrx.com
 0.0.0.0 prdredir.com
@@ -31499,6 +31534,7 @@
 0.0.0.0 promobenef.com
 0.0.0.0 promosurvey3.info
 0.0.0.0 promotebred.com
+0.0.0.0 promotebro.com
 0.0.0.0 promoworld.pw
 0.0.0.0 promptlyconsciousnessdiscussion.com
 0.0.0.0 pronajmisi.me
@@ -37768,6 +37804,7 @@
 0.0.0.0 sweepprolong.com
 0.0.0.0 sweepstakessurveytoday.com
 0.0.0.0 sweet-sweet-ladys.com
+0.0.0.0 sweetaddictionshop.com
 0.0.0.0 sweetestate.co.uk
 0.0.0.0 sweetgirls-dating3.com
 0.0.0.0 sweetmoonmonth.com
@@ -42999,6 +43036,7 @@
 0.0.0.0 vuuwd.com
 0.0.0.0 vuvrawfufak.com
 0.0.0.0 vv.habaerashiksas.com
+0.0.0.0 vv8h9vyjgnst.com
 0.0.0.0 vvackker.com
 0.0.0.0 vvguceexpcibtev.xyz
 0.0.0.0 vviprishte.com
@@ -44921,6 +44959,7 @@
 0.0.0.0 www.admitoutspokensupreme.com
 0.0.0.0 www.adoptiveimmunotech.com
 0.0.0.0 www.ads1-adselo.com
+0.0.0.0 www.adshoes.ru
 0.0.0.0 www.adsjobnow.com
 0.0.0.0 www.adsmiscellaneouswalked.com
 0.0.0.0 www.adulatorycrappyghastly.com
@@ -45652,6 +45691,7 @@
 0.0.0.0 www.casino-games-free.com
 0.0.0.0 www.casinobrigadereport.com
 0.0.0.0 www.casinocash.online
+0.0.0.0 www.casinox1c3.site
 0.0.0.0 www.casketknightsfolder.com
 0.0.0.0 www.casksteam.com
 0.0.0.0 www.casplabaliseashell.com
@@ -45811,6 +45851,7 @@
 0.0.0.0 www.cognateparsley.com
 0.0.0.0 www.cohereteddy.com
 0.0.0.0 www.coilincomplete.com
+0.0.0.0 www.coin-alt.ru
 0.0.0.0 www.coincidenceproducing.com
 0.0.0.0 www.cokhitonghophanoi.com
 0.0.0.0 www.colintoxicate.com
@@ -47313,6 +47354,7 @@
 0.0.0.0 www.inopportunetorn.com
 0.0.0.0 www.inorlandohomes.com
 0.0.0.0 www.inquirybloom.com
+0.0.0.0 www.insafmart.com
 0.0.0.0 www.insanitynapoleon.com
 0.0.0.0 www.insensiblebehave.com
 0.0.0.0 www.insensitiveintegertransactions.com
@@ -47466,6 +47508,7 @@
 0.0.0.0 www.jod-news1.club
 0.0.0.0 www.joelleicard.com
 0.0.0.0 www.joertopersersx.com
+0.0.0.0 www.johnaly.com
 0.0.0.0 www.johnsonsproperty.co.uk
 0.0.0.0 www.johntoritsemotse.com
 0.0.0.0 www.joii.city
@@ -47824,6 +47867,7 @@
 0.0.0.0 www.mailboxleadsphone.com
 0.0.0.0 www.maintenanceeight.com
 0.0.0.0 www.maisonrosaly.com
+0.0.0.0 www.makeinbelgaum.com
 0.0.0.0 www.makerspaceai.com
 0.0.0.0 www.makingnude.com
 0.0.0.0 www.makspeedtech.net
@@ -47900,6 +47944,7 @@
 0.0.0.0 www.meetexhibitcautiously.com
 0.0.0.0 www.meetingcivilfilling.com
 0.0.0.0 www.meetingmogulapp.com
+0.0.0.0 www.meetlovemate.top
 0.0.0.0 www.mega-offers.net
 0.0.0.0 www.megaeauction.com
 0.0.0.0 www.megaeauction.net
@@ -48412,6 +48457,7 @@
 0.0.0.0 www.peevishrace.com
 0.0.0.0 www.pehsc.net
 0.0.0.0 www.peiqianjichang.com
+0.0.0.0 www.peladingos.com
 0.0.0.0 www.pelican888.tech
 0.0.0.0 www.pemdespatemon.net
 0.0.0.0 www.penderventurecapital.com
@@ -48660,6 +48706,7 @@
 0.0.0.0 www.prologuewhackobjected.com
 0.0.0.0 www.promisingcigar.com
 0.0.0.0 www.prommafederation.org
+0.0.0.0 www.promotebro.com
 0.0.0.0 www.promptlyconsciousnessdiscussion.com
 0.0.0.0 www.pronajmisi.me
 0.0.0.0 www.pronticasino.com
@@ -49469,6 +49516,7 @@
 0.0.0.0 www.swedecornysupper.com
 0.0.0.0 www.sweepfrequencydissolved.com
 0.0.0.0 www.sweepstakessurveytoday.com
+0.0.0.0 www.sweetaddictionshop.com
 0.0.0.0 www.sweptaboutlard.com
 0.0.0.0 www.swiassessment.com
 0.0.0.0 www.swiminvestigator.com
@@ -50341,6 +50389,7 @@
 0.0.0.0 wzcntbnwegdbta.com
 0.0.0.0 wzdzht7am5.com
 0.0.0.0 wzelkaekmoman.com
+0.0.0.0 wzk5ndpc3x05.com
 0.0.0.0 wzogiwfapo.com
 0.0.0.0 wzqnduvznitlnh.com
 0.0.0.0 wzuisptxzqbb.com
