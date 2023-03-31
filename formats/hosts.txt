@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.091
 # Release: 091
-# Entries: 52,107
-# Updated: Sat, 01 Apr 23 00:17:33 +06
+# Entries: 52,145
+# Updated: Sat, 01 Apr 23 02:09:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2074,6 +2074,7 @@
 0.0.0.0 aboardhotdog.com
 0.0.0.0 aboelzeek7.com
 0.0.0.0 abogadostuderecholegal.net
+0.0.0.0 abolid.com
 0.0.0.0 abolishcareful.com
 0.0.0.0 abolishmentglum.com
 0.0.0.0 abonnementpermissiveenliven.com
@@ -3490,6 +3491,7 @@
 0.0.0.0 alanibelen.com
 0.0.0.0 alanticgecking.uno
 0.0.0.0 alareef.tech
+0.0.0.0 alargeredrubygsw.com
 0.0.0.0 alarmonitor.uk
 0.0.0.0 alas4kanmfa6a4mubte.com
 0.0.0.0 alaskan4kleeskai.com
@@ -7636,6 +7638,7 @@
 0.0.0.0 brrcaqvz.com
 0.0.0.0 brtsumthree.com
 0.0.0.0 brtv.xyz
+0.0.0.0 bruark.com
 0.0.0.0 brucelead.com
 0.0.0.0 bruceleadx.com
 0.0.0.0 bruceleadx1.com
@@ -17173,6 +17176,7 @@
 0.0.0.0 gmbchallenge.com
 0.0.0.0 gmdfhscbu.com
 0.0.0.0 gmgmaes.store
+0.0.0.0 gmiwcarhor.com
 0.0.0.0 gmjgf.com
 0.0.0.0 gml-grp.com
 0.0.0.0 gmmmerch.com
@@ -31313,6 +31317,7 @@
 0.0.0.0 pressingmiscellaneoustry.com
 0.0.0.0 pressize.com
 0.0.0.0 pressplay.top
+0.0.0.0 pressure-wash.us
 0.0.0.0 presszines.com
 0.0.0.0 prestadsng.com
 0.0.0.0 prestigefunction.com
@@ -31349,6 +31354,7 @@
 0.0.0.0 prickjuvenileturnstile.com
 0.0.0.0 pricklyhuffy.com
 0.0.0.0 pridehouzz.com
+0.0.0.0 pridemuseum.us
 0.0.0.0 prideplaceseattle.com
 0.0.0.0 prideplaceseattle.org
 0.0.0.0 prield.com
@@ -31372,6 +31378,8 @@
 0.0.0.0 primejewelry.org
 0.0.0.0 primemail.uk
 0.0.0.0 primenautica.net
+0.0.0.0 primerian.us
+0.0.0.0 primeriansecurityconsulting.us
 0.0.0.0 primevalrespectful.com
 0.0.0.0 primevalstork.com
 0.0.0.0 primevalsymphonymuttering.com
@@ -31439,6 +31447,7 @@
 0.0.0.0 problemhaltrivulet.com
 0.0.0.0 problemsendeavourbending.com
 0.0.0.0 probtn.com
+0.0.0.0 probysgardenoflife.us
 0.0.0.0 probysgrandmahands.com
 0.0.0.0 procare-connect.com
 0.0.0.0 proceduresthrilled.com
@@ -31452,11 +31461,13 @@
 0.0.0.0 prodigiousutmostwould.com
 0.0.0.0 prodmp.ru
 0.0.0.0 prodraftcommander.com
+0.0.0.0 producebrands.us
 0.0.0.0 producebreed.com
 0.0.0.0 producecopy.com
 0.0.0.0 producercoconutgroup.com
 0.0.0.0 producerplot.com
 0.0.0.0 producingsavourestablish.com
+0.0.0.0 productgrowth.us
 0.0.0.0 producthub.info
 0.0.0.0 productionconceitedbosom.com
 0.0.0.0 productions.asia
@@ -31625,8 +31636,10 @@
 0.0.0.0 protontherapytreatment.in
 0.0.0.0 prototypewailrubber.com
 0.0.0.0 protovid.com
+0.0.0.0 proudhands.us
 0.0.0.0 proumb.org
 0.0.0.0 provenancedelegatecipher.com
+0.0.0.0 provencetownhomesatwaterchase.us
 0.0.0.0 provenzabeauty.com.co
 0.0.0.0 proverbnoncommittalvault.com
 0.0.0.0 provers.pro
@@ -31763,12 +31776,14 @@
 0.0.0.0 psychalwamble.com
 0.0.0.0 psychedelicinformedcoaching.com
 0.0.0.0 psychedelicinformedhelp.com
+0.0.0.0 psychesoma.us
 0.0.0.0 psychicbowel.com
 0.0.0.0 psychologyairport.com
 0.0.0.0 psychologychainillegible.com
 0.0.0.0 psychologywoman.com
 0.0.0.0 psydyrony.com
 0.0.0.0 psyqwlqrff.xyz
+0.0.0.0 pt-parts.us
 0.0.0.0 pt-xb.xyz
 0.0.0.0 pt.distillparpend.com
 0.0.0.0 ptaiksah.com
@@ -31964,11 +31979,13 @@
 0.0.0.0 puremethstore.com
 0.0.0.0 pureparna.com
 0.0.0.0 purercoming.digital
+0.0.0.0 purewatersolution.us
 0.0.0.0 purpes.com
 0.0.0.0 purpleads.io
 0.0.0.0 purpleflag.net
 0.0.0.0 purplemorpho.com
 0.0.0.0 purplepatch.online
+0.0.0.0 purposefulmeanderings.us
 0.0.0.0 purposelynextbinary.com
 0.0.0.0 purposeparking.com
 0.0.0.0 purrbackground.com
@@ -32179,6 +32196,7 @@
 0.0.0.0 qalruhvcoa.com
 0.0.0.0 qamwm5o8dlgijte.com
 0.0.0.0 qanatn.com
+0.0.0.0 qanonshaman.us
 0.0.0.0 qapharmco.com
 0.0.0.0 qarewien.com
 0.0.0.0 qascfr.tech
@@ -32439,11 +32457,13 @@
 0.0.0.0 qualitydestructionhouse.com
 0.0.0.0 qualityhealthessentials.com
 0.0.0.0 qualityofeve.biz
+0.0.0.0 qualitysquare.us
 0.0.0.0 quallyrimers.com
 0.0.0.0 quanciya.com
 0.0.0.0 quanta-wave.com
 0.0.0.0 quantitypatiently.com
 0.0.0.0 quantomcoding.com
+0.0.0.0 quantumhealth4.us
 0.0.0.0 quantumleapsclub.com
 0.0.0.0 quantumsenz.co.uk
 0.0.0.0 quantuwang2.com
@@ -32467,6 +32487,7 @@
 0.0.0.0 quebecanaemia.tech
 0.0.0.0 queencranberry.com
 0.0.0.0 queenservice.co.uk
+0.0.0.0 queernews.us
 0.0.0.0 queersodadults.com
 0.0.0.0 quellstubble.com
 0.0.0.0 quenchskirmishcohere.com
@@ -32627,6 +32648,7 @@
 0.0.0.0 radiocodecalculator.com
 0.0.0.0 radiodigital.top
 0.0.0.0 radioearphonesaggravation.com
+0.0.0.0 radiofreeamerika.us
 0.0.0.0 radiokommersant.online
 0.0.0.0 radiolavozdemisiones.com
 0.0.0.0 radiomartesiracusa.it
@@ -32688,6 +32710,7 @@
 0.0.0.0 rakiblinger.com
 0.0.0.0 rakovski-fish.com
 0.0.0.0 rakutenglobal.com
+0.0.0.0 ralene.us
 0.0.0.0 ralesgalago.life
 0.0.0.0 rallydisprove.com
 0.0.0.0 rallynabdoomed.com
@@ -32907,6 +32930,7 @@
 0.0.0.0 real-consequence.pro
 0.0.0.0 real-difficulty.pro
 0.0.0.0 real-ninedating2.com
+0.0.0.0 realaasti.us
 0.0.0.0 realbitsport.com
 0.0.0.0 realbuttermovies.com
 0.0.0.0 realcreatives.net
@@ -32950,6 +32974,7 @@
 0.0.0.0 reboduc.com
 0.0.0.0 rebrea.com
 0.0.0.0 rebrickstowp.com
+0.0.0.0 rebuildwomenshope.us
 0.0.0.0 rebursteaseful.com
 0.0.0.0 recablesaccule.casa
 0.0.0.0 recableuprear.com
@@ -33023,6 +33048,7 @@
 0.0.0.0 redanludb.xyz
 0.0.0.0 redbillecphory.com
 0.0.0.0 redcedarinspections.net
+0.0.0.0 redcedarinspections.us
 0.0.0.0 redcheetahdesign.com
 0.0.0.0 reddenjaguarsuitcase.com
 0.0.0.0 reddenmusician.com
@@ -33058,6 +33084,8 @@
 0.0.0.0 redouthicks.com
 0.0.0.0 redphoenixgaming.net
 0.0.0.0 redrockrailroad.com
+0.0.0.0 redrone.us
+0.0.0.0 redrones.us
 0.0.0.0 redrootprotyle.uno
 0.0.0.0 redrotou.net
 0.0.0.0 redrover.online
@@ -33141,6 +33169,7 @@
 0.0.0.0 regath.com
 0.0.0.0 regatulunit.co.uk
 0.0.0.0 regaveskeo.com
+0.0.0.0 regenerativehealthcare.us
 0.0.0.0 regeniohealthcare.com
 0.0.0.0 regeus.uk
 0.0.0.0 reggierander.com
@@ -33186,7 +33215,9 @@
 0.0.0.0 reinventingmore.com
 0.0.0.0 reitb.com
 0.0.0.0 reize-up.net
+0.0.0.0 reize-up.us
 0.0.0.0 rejaneribas.com.br
+0.0.0.0 rejeune.us
 0.0.0.0 rejoineddivertoverwork.com
 0.0.0.0 reklamko.pro
 0.0.0.0 reklamz.com
@@ -33247,7 +33278,9 @@
 0.0.0.0 remainingshook.com
 0.0.0.0 remainttalenty.site
 0.0.0.0 remanufacturedink.com
+0.0.0.0 remanufacturedink.us
 0.0.0.0 remanufacturedtoner.org
+0.0.0.0 remanufacturedtoner.us
 0.0.0.0 remarkablyson.com
 0.0.0.0 remdagun.com
 0.0.0.0 remedyeloise.com
@@ -33951,6 +33984,7 @@
 0.0.0.0 roofinginderbyshire.co.uk
 0.0.0.0 roofprison.com
 0.0.0.0 roojouma.com
+0.0.0.0 rookiemarvel.com
 0.0.0.0 rookiesociety.com
 0.0.0.0 rookinews.com
 0.0.0.0 rookmemorizevoluntary.com
@@ -42070,6 +42104,7 @@
 0.0.0.0 valueimpression.com
 0.0.0.0 valuerlaserlax.com
 0.0.0.0 valuersghar.com
+0.0.0.0 valvalnumbest.com
 0.0.0.0 valvyre.com
 0.0.0.0 vampersmutuary.com
 0.0.0.0 vamseeds.com
@@ -42453,6 +42488,7 @@
 0.0.0.0 vickiesaigonbistro.com
 0.0.0.0 vickovules.com
 0.0.0.0 victoriospizzasplus.com
+0.0.0.0 victoriousagency.pro
 0.0.0.0 victoriouspastimeculture.com
 0.0.0.0 victorioussingles.com
 0.0.0.0 victormendes.org
@@ -42581,6 +42617,7 @@
 0.0.0.0 vinculastags.store
 0.0.0.0 vinegarfactorelevator.com
 0.0.0.0 vineyard-clothes.com
+0.0.0.0 vingartistictaste.com
 0.0.0.0 vinianselmi.it
 0.0.0.0 viniciusfrioli.top
 0.0.0.0 vinova1-sg.com
@@ -50012,6 +50049,7 @@
 0.0.0.0 www.vowdistractingbuoyancy.com
 0.0.0.0 www.voweldeck.com
 0.0.0.0 www.voxludio.com
+0.0.0.0 www.voyageschoolanymore.com
 0.0.0.0 www.vpay.website
 0.0.0.0 www.vupyjyyu.xyz
 0.0.0.0 www.vushcups.com
