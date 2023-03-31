@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.03.090
 # Release: 090
-# Entries: 51,614
-# Updated: Fri, 31 Mar 23 04:07:29 +06
+# Entries: 51,660
+# Updated: Fri, 31 Mar 23 06:07:31 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3792,8 +3792,11 @@
 0.0.0.0 aluationiam.com
 0.0.0.0 alulimprowess.com
 0.0.0.0 alumnisabana.digital
+0.0.0.0 alumnisabana.life
 0.0.0.0 alumnisabana.online
 0.0.0.0 alumnisabana.shop
+0.0.0.0 alumnisabana.social
+0.0.0.0 alumnisabana.store
 0.0.0.0 alunitemoste.com
 0.0.0.0 aluyuncs.com
 0.0.0.0 alvatoby.top
@@ -7496,6 +7499,7 @@
 0.0.0.0 bridalplums.com
 0.0.0.0 bridepov.com
 0.0.0.0 bridesmaidcleft.com
+0.0.0.0 bridgeicon.app
 0.0.0.0 bridgemontre.co.uk
 0.0.0.0 bridgemontrealestate.co.uk
 0.0.0.0 bridgemontrep.co.uk
@@ -8842,6 +8846,7 @@
 0.0.0.0 chastepaddlesynthesis.com
 0.0.0.0 chat080.net
 0.0.0.0 chatglm6b.com
+0.0.0.0 chatgpt-4.co.uk
 0.0.0.0 chatgpt-link.com
 0.0.0.0 chatgptai.asia
 0.0.0.0 chatgptdubai.com
@@ -15305,6 +15310,7 @@
 0.0.0.0 finteam.org
 0.0.0.0 finteccitadel.com
 0.0.0.0 fintechcitadel.com
+0.0.0.0 fintechdevops.us
 0.0.0.0 fintipalerts.com
 0.0.0.0 finvcom.xyz
 0.0.0.0 fiorenetwork.com
@@ -15384,6 +15390,8 @@
 0.0.0.0 fiumaralupin.space
 0.0.0.0 fivb-downloads.org
 0.0.0.0 five-two-six-salon.com
+0.0.0.0 fivepointsmealwormfarm.us
+0.0.0.0 fivepointsmealworms.us
 0.0.0.0 fivern.com
 0.0.0.0 fivestars.es
 0.0.0.0 fivetorrent.com
@@ -15703,6 +15711,7 @@
 0.0.0.0 forcefulpacehauled.com
 0.0.0.0 forcelessbuoyancy.com
 0.0.0.0 forcelessgreetingbust.com
+0.0.0.0 forcetwice.com
 0.0.0.0 fordusedautoparts.com
 0.0.0.0 forearmrejection.com
 0.0.0.0 forearmthrobjanuary.com
@@ -15777,6 +15786,7 @@
 0.0.0.0 forwitmeand.com
 0.0.0.0 forworksyconus.com
 0.0.0.0 forwrdnow.com
+0.0.0.0 foryourcomfort.us
 0.0.0.0 forzigzagoonom.com
 0.0.0.0 forzslodge.com
 0.0.0.0 forzubatr.com
@@ -15805,6 +15815,8 @@
 0.0.0.0 fourhorsesgames.net
 0.0.0.0 fourteendin.com
 0.0.0.0 fourwhenstatistics.com
+0.0.0.0 fourwindsmarketing.us
+0.0.0.0 fourwindsmarketingagency.us
 0.0.0.0 foutoanaugab.com
 0.0.0.0 fowlmasquerade.com
 0.0.0.0 fowlsecondary.com
@@ -15855,6 +15867,7 @@
 0.0.0.0 frabwiccy.com
 0.0.0.0 frachosetexas.com
 0.0.0.0 fracs.xyz
+0.0.0.0 fractalacademy.us
 0.0.0.0 fractalium.net
 0.0.0.0 fractalred.net
 0.0.0.0 fragba.com
@@ -15902,11 +15915,14 @@
 0.0.0.0 freedating-hookup.life
 0.0.0.0 freedatinghookup.com
 0.0.0.0 freedomcorporation.co.uk
+0.0.0.0 freedomistassociation.us
 0.0.0.0 freedompollen.com
 0.0.0.0 freeducationsociety.com
 0.0.0.0 freeeducationsociety.com
 0.0.0.0 freeevpn.info
 0.0.0.0 freefire-news.net
+0.0.0.0 freefreightfeeders.us
+0.0.0.0 freefreightinsects.us
 0.0.0.0 freefuckhost.com
 0.0.0.0 freegemsbarwlstars.com
 0.0.0.0 freegiftvip.xyz
@@ -15973,6 +15989,7 @@
 0.0.0.0 friendsfordisney.com
 0.0.0.0 friendshipmale.com
 0.0.0.0 friendsofwillowsprings.org
+0.0.0.0 friendwithatruck.us
 0.0.0.0 friezesrumps.digital
 0.0.0.0 frightening-lesson.pro
 0.0.0.0 frighteningship.com
@@ -15998,6 +16015,7 @@
 0.0.0.0 fromjazzwithlove.org
 0.0.0.0 fromjoytohappiness.com
 0.0.0.0 fromoffspringcaliber.com
+0.0.0.0 fromtheboat.us
 0.0.0.0 fronliahajj.site
 0.0.0.0 fronol.com
 0.0.0.0 frontendvoila.com
@@ -16121,6 +16139,7 @@
 0.0.0.0 fundamentalenvironmental.com
 0.0.0.0 fundamentalinefficient.com
 0.0.0.0 fundardsesaz.club
+0.0.0.0 fundential.us
 0.0.0.0 funeralbeast.com
 0.0.0.0 funeralcarriage.uk
 0.0.0.0 funeraldirectorsmonmouthshire.co.uk
@@ -16385,6 +16404,7 @@
 0.0.0.0 garbageinfo.com
 0.0.0.0 garbslens.com
 0.0.0.0 garden-flag.org
+0.0.0.0 gardenconsultant.us
 0.0.0.0 gardeningbristol.uk
 0.0.0.0 gardeninginbristol.co.uk
 0.0.0.0 gardeningraritysometime.com
@@ -16429,6 +16449,7 @@
 0.0.0.0 gatetodisplaycontent.com
 0.0.0.0 gatetotrustednetwork.com
 0.0.0.0 gatewayimpossibilitypursue.com
+0.0.0.0 gather99.us
 0.0.0.0 gatheringtherealiases.com
 0.0.0.0 gathermemorandum.com
 0.0.0.0 gaulshiite.life
@@ -16449,6 +16470,7 @@
 0.0.0.0 gayadpros.com
 0.0.0.0 gayatak.top
 0.0.0.0 gayatripvt.com
+0.0.0.0 gayfet.us
 0.0.0.0 gayvideochat.org
 0.0.0.0 gazati.com
 0.0.0.0 gazeesaucier.com
@@ -16544,8 +16566,10 @@
 0.0.0.0 generationscloveinappropriate.com
 0.0.0.0 generativeimaging.com
 0.0.0.0 genericlink.com
+0.0.0.0 genericsrx.us
 0.0.0.0 genericsupps.in
 0.0.0.0 generoses.com
+0.0.0.0 generx.us
 0.0.0.0 genesisbeyond.org
 0.0.0.0 genesismedia.com
 0.0.0.0 genessajackson.net
@@ -21385,6 +21409,7 @@
 0.0.0.0 joasigeegrez.com
 0.0.0.0 joastous.com
 0.0.0.0 joathihandsr.xyz
+0.0.0.0 jobdekhjob.com
 0.0.0.0 jobfilletfortitude.com
 0.0.0.0 jobscompany.tech
 0.0.0.0 jobsforconcretepros.net
@@ -24156,6 +24181,7 @@
 0.0.0.0 lwckcytdbsg.com
 0.0.0.0 lwgadm.com
 0.0.0.0 lwhbnz.bar
+0.0.0.0 lwinternational.email
 0.0.0.0 lwjvyd.com
 0.0.0.0 lwmtfhremidj.xyz
 0.0.0.0 lwonclbench.com
@@ -25774,6 +25800,8 @@
 0.0.0.0 moonicorn.network
 0.0.0.0 mooningfiesta.com
 0.0.0.0 moonprocessed.com
+0.0.0.0 moonstoneandwolf.co.uk
+0.0.0.0 moonstonewolf.co.uk
 0.0.0.0 moontrip.org
 0.0.0.0 moontuftboy.com
 0.0.0.0 moonveto.com
@@ -27145,6 +27173,7 @@
 0.0.0.0 nmukcmrelhfak.top
 0.0.0.0 nn.hailerroloway.com
 0.0.0.0 nn100.in
+0.0.0.0 nnbivwzl.com
 0.0.0.0 nndiscov.cfd
 0.0.0.0 nnewllink.ga
 0.0.0.0 nnhxyjugm.com
@@ -33428,6 +33457,7 @@
 0.0.0.0 rlhldjrjfes.com
 0.0.0.0 rligbmfbwtmuxv.com
 0.0.0.0 rlittleboywhowas.com
+0.0.0.0 rlmcegsrhuspsq.com
 0.0.0.0 rlomivunesqal.com
 0.0.0.0 rlyorbiditys.online
 0.0.0.0 rm.braizescereza.com
@@ -35191,6 +35221,7 @@
 0.0.0.0 sheewaulro.com
 0.0.0.0 sheewhatchu.com
 0.0.0.0 sheezahealthcare.com
+0.0.0.0 shefalis-boutique.online
 0.0.0.0 sheffieldskiphire.uk
 0.0.0.0 sheflewthecoop.com
 0.0.0.0 shefssnacks.in
@@ -37151,6 +37182,7 @@
 0.0.0.0 sufismm.tech
 0.0.0.0 sugarrushus.online
 0.0.0.0 sugarrushus.site
+0.0.0.0 sugarsense.online
 0.0.0.0 sugarsoftwareguru.tech
 0.0.0.0 suggestedhappyspun.com
 0.0.0.0 suggestionwallpaperhump.com
@@ -41034,6 +41066,7 @@
 0.0.0.0 uniquelyexpressed.com
 0.0.0.0 uniqueutility.shop
 0.0.0.0 unirama.co.uk
+0.0.0.0 unisabana.life
 0.0.0.0 unisabana.shop
 0.0.0.0 uniset.io
 0.0.0.0 uniswap-uni.online
@@ -44664,7 +44697,11 @@
 0.0.0.0 www.alternatepausemound.com
 0.0.0.0 www.altogethertapestrydunk.com
 0.0.0.0 www.alumnisabana.digital
+0.0.0.0 www.alumnisabana.life
+0.0.0.0 www.alumnisabana.online
 0.0.0.0 www.alumnisabana.shop
+0.0.0.0 www.alumnisabana.social
+0.0.0.0 www.alumnisabana.store
 0.0.0.0 www.alvinkarpis.com
 0.0.0.0 www.alyriasoindepeau.com
 0.0.0.0 www.amaryar.com
@@ -45142,6 +45179,7 @@
 0.0.0.0 www.breezereekprosecute.com
 0.0.0.0 www.brickcontaining.com
 0.0.0.0 www.bridesmaidcleft.com
+0.0.0.0 www.bridgeicon.app
 0.0.0.0 www.bridgetrailer.com
 0.0.0.0 www.brieflysympatheticexcellent.com
 0.0.0.0 www.brightpointsis.com
@@ -45326,6 +45364,7 @@
 0.0.0.0 www.chargingexpressive.com
 0.0.0.0 www.charsiasiamese.com
 0.0.0.0 www.chastepaddlesynthesis.com
+0.0.0.0 www.chatgpt-4.co.uk
 0.0.0.0 www.chatgpt-link.com
 0.0.0.0 www.chaubseet.com
 0.0.0.0 www.chcl.tech
@@ -47055,6 +47094,7 @@
 0.0.0.0 www.jmpmzryzprp.bid
 0.0.0.0 www.joaglouwulin.com
 0.0.0.0 www.joakopalomar.com
+0.0.0.0 www.jobdekhjob.com
 0.0.0.0 www.jockertsres.com
 0.0.0.0 www.jod-news1.club
 0.0.0.0 www.joelleicard.com
@@ -47386,6 +47426,7 @@
 0.0.0.0 www.lustresneakvisitation.com
 0.0.0.0 www.lutupro.com
 0.0.0.0 www.luxdress.uk
+0.0.0.0 www.lwinternational.email
 0.0.0.0 www.lygshgj.com
 0.0.0.0 www.lyndonbank.com
 0.0.0.0 www.lyricalbarb.com
@@ -47584,6 +47625,8 @@
 0.0.0.0 www.moodforms.com
 0.0.0.0 www.moodokay.com
 0.0.0.0 www.moon-star.in
+0.0.0.0 www.moonstoneandwolf.co.uk
+0.0.0.0 www.moonstonewolf.co.uk
 0.0.0.0 www.moonveto.com
 0.0.0.0 www.mopesupportrefine.com
 0.0.0.0 www.mopnatrestriction.com
@@ -48717,6 +48760,7 @@
 0.0.0.0 www.shayuvcd.com
 0.0.0.0 www.shbtob.com
 0.0.0.0 www.sheepforgivedismount.com
+0.0.0.0 www.shefalis-boutique.online
 0.0.0.0 www.sheflewthecoop.com
 0.0.0.0 www.shelvesdeserve.com
 0.0.0.0 www.shelvesragged.com
@@ -48997,6 +49041,7 @@
 0.0.0.0 www.suffersociabletruth.com
 0.0.0.0 www.suffertreasureapproval.com
 0.0.0.0 www.sufficientretiredbunker.com
+0.0.0.0 www.sugarsense.online
 0.0.0.0 www.suggestionwallpaperhump.com
 0.0.0.0 www.suitcasesimbue.com
 0.0.0.0 www.suitcasessheriffpilgrim.com
@@ -49383,6 +49428,7 @@
 0.0.0.0 www.unicornlaboratories.com
 0.0.0.0 www.uniformutilitiesexpressing.com
 0.0.0.0 www.uniformyeah.com
+0.0.0.0 www.unisabana.life
 0.0.0.0 www.unitedpeopleofcanada.com
 0.0.0.0 www.unitepoisonousdetest.com
 0.0.0.0 www.universalsai.com
