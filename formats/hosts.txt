@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.091
 # Release: 091
-# Entries: 52,542
-# Updated: Sat, 01 Apr 23 20:07:49 +06
+# Entries: 52,544
+# Updated: Sat, 01 Apr 23 22:07:19 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14521,6 +14521,7 @@
 0.0.0.0 evotac.co.uk
 0.0.0.0 evotactical.co.uk
 0.0.0.0 evouxoup.com
+0.0.0.0 evssafnwpgat.com
 0.0.0.0 evtainings.com
 0.0.0.0 evtols.uk
 0.0.0.0 evushuco.com
@@ -43176,6 +43177,7 @@
 0.0.0.0 vmuid.com
 0.0.0.0 vmwxsiaco.xyz
 0.0.0.0 vmycar.com
+0.0.0.0 vmypbrnfijassw.com
 0.0.0.0 vmyxyemiakk.com
 0.0.0.0 vn-producer.com
 0.0.0.0 vn.hamulebeshear.com
