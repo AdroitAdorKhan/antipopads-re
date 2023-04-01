@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.091
 # Release: 091
-# Entries: 52,169
-# Updated: Sat, 01 Apr 23 04:08:06 +06
+# Entries: 52,204
+# Updated: Sat, 01 Apr 23 06:07:37 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -34936,6 +34936,7 @@
 0.0.0.0 scotcheliza.com
 0.0.0.0 scotlynn.us
 0.0.0.0 scottishindependenceday.scot
+0.0.0.0 scottsavitt.us
 0.0.0.0 scour.com
 0.0.0.0 scoureroutcry.cam
 0.0.0.0 scoutandzoes.com
@@ -35152,6 +35153,7 @@
 0.0.0.0 seginus.org
 0.0.0.0 segludsi.net
 0.0.0.0 segsticaret.com
+0.0.0.0 segufy.us
 0.0.0.0 seguigui00.com
 0.0.0.0 seguinvc.com
 0.0.0.0 seguinventurecapital.com
@@ -35181,6 +35183,7 @@
 0.0.0.0 selenium.by
 0.0.0.0 selfasheode.work
 0.0.0.0 selfassesmrntbradford.co.uk
+0.0.0.0 selfcaremadesimple.us
 0.0.0.0 selfconfidencecap.com
 0.0.0.0 selfcontrolenquirytyran.com
 0.0.0.0 selfemployedbalconycane.com
@@ -35226,8 +35229,17 @@
 0.0.0.0 sempraenergy.ltd
 0.0.0.0 semsicou.net
 0.0.0.0 semsidamid.co
+0.0.0.0 semsidamid.us
+0.0.0.0 semsidamide.us
+0.0.0.0 semsidimid.us
+0.0.0.0 semsidimide.us
+0.0.0.0 semsidomi.us
+0.0.0.0 semsidomid.us
 0.0.0.0 semsidomide.co
+0.0.0.0 semsidomide.us
 0.0.0.0 semsidomidedrug.co
+0.0.0.0 semsidomidedrug.us
+0.0.0.0 semsidomidesucks.us
 0.0.0.0 semupgrjbnlhi.com
 0.0.0.0 semygruja.com
 0.0.0.0 sena3scenter.com
@@ -35429,6 +35441,7 @@
 0.0.0.0 sex-and-flirt.com
 0.0.0.0 sex5lbjz.com
 0.0.0.0 sexbugerte.xyz
+0.0.0.0 sexchauau.us
 0.0.0.0 sexchoices6.com
 0.0.0.0 sexdatefindlocals1.com
 0.0.0.0 sexdatelocalvip1.com
@@ -35449,6 +35462,7 @@
 0.0.0.0 sextranny8.com
 0.0.0.0 sextubeweb.com
 0.0.0.0 sexual-girls-now.life
+0.0.0.0 sexualaddictionintensive.us
 0.0.0.0 sexualpartner3.com
 0.0.0.0 sexualpitfall.com
 0.0.0.0 sexvideo8k.com
@@ -35572,6 +35586,7 @@
 0.0.0.0 sharondonovanjewelry.info
 0.0.0.0 sharondonovanjewelry.net
 0.0.0.0 sharondonovanjewelry.shop
+0.0.0.0 sharondonovanjewelry.us
 0.0.0.0 sharonedensmith.com
 0.0.0.0 sharpenedaxe.com
 0.0.0.0 sharpsharkteeth.com
@@ -35590,6 +35605,7 @@
 0.0.0.0 shauvucm.com
 0.0.0.0 shaviesbrowny.tech
 0.0.0.0 shavz.xyz
+0.0.0.0 shawarmaencasa.us
 0.0.0.0 shawashygy.com
 0.0.0.0 shawlyni.name
 0.0.0.0 shawneehillfarm.com
@@ -35635,6 +35651,7 @@
 0.0.0.0 shereeflivish.com
 0.0.0.0 sheretzw.nl
 0.0.0.0 sheriamzi.net
+0.0.0.0 sheridangop.us
 0.0.0.0 sherikaadams.com
 0.0.0.0 shermore.info
 0.0.0.0 sheschemetraitor.com
@@ -35724,6 +35741,7 @@
 0.0.0.0 shoop4.com
 0.0.0.0 shooterconsultationcart.com
 0.0.0.0 shootoax.com
+0.0.0.0 shop-link.us
 0.0.0.0 shopbestbuy.in
 0.0.0.0 shopbycollection.com
 0.0.0.0 shopdunwoodyvillage.com
@@ -35735,6 +35753,7 @@
 0.0.0.0 shopifypages.com
 0.0.0.0 shopinbox.uk
 0.0.0.0 shopkr.online
+0.0.0.0 shoplucidity.us
 0.0.0.0 shopmonthtravel.com
 0.0.0.0 shopngooutlet.com
 0.0.0.0 shopnorstrom.com
@@ -35781,6 +35800,7 @@
 0.0.0.0 showeveresz.club
 0.0.0.0 showingdoppia.guru
 0.0.0.0 showmebars.com
+0.0.0.0 showmycode.us
 0.0.0.0 showmyscores.com
 0.0.0.0 shownperfunctory.com
 0.0.0.0 showshops.co
@@ -35872,6 +35892,7 @@
 0.0.0.0 siegepolitical.com
 0.0.0.0 sielsmaats.com
 0.0.0.0 sienns.com
+0.0.0.0 sierrasoftwareservices.us
 0.0.0.0 sieuthinhadep.xyz
 0.0.0.0 sifenews.com
 0.0.0.0 sifhuhog.com
@@ -36082,6 +36103,7 @@
 0.0.0.0 sjsh02.com
 0.0.0.0 sjtactic.com
 0.0.0.0 sjvlgxotriwbgaf.com
+0.0.0.0 sk1nsm0nkey.us
 0.0.0.0 skan2.com
 0.0.0.0 skanchat.uk
 0.0.0.0 skandinavia.tech
@@ -36134,10 +36156,13 @@
 0.0.0.0 skinneroverturn.com
 0.0.0.0 skinsdefinitely.com
 0.0.0.0 skintightfacepaint.org
+0.0.0.0 skinvirtue.us
 0.0.0.0 skipdearbeautify.com
 0.0.0.0 skipfactory.uk
 0.0.0.0 skiplook.net
+0.0.0.0 skippermike.us
 0.0.0.0 skipperx.net
+0.0.0.0 skippylongstockings.us
 0.0.0.0 skiptheadz.net
 0.0.0.0 skipthemadz.info
 0.0.0.0 skipwaywurzel.com
@@ -36154,7 +36179,9 @@
 0.0.0.0 skqhcubkkiac.com
 0.0.0.0 skshlyqooqxc.com
 0.0.0.0 skukfaokdm.com
+0.0.0.0 skunited.us
 0.0.0.0 skxruychihwqcio.xyz
+0.0.0.0 skybridgefirm.us
 0.0.0.0 skyclear.space
 0.0.0.0 skyebridgehotel.co.uk
 0.0.0.0 skylinefba.com
@@ -36186,6 +36213,7 @@
 0.0.0.0 slavizesoften.com
 0.0.0.0 slavre.com
 0.0.0.0 slavsbothros.tech
+0.0.0.0 slaychat.us
 0.0.0.0 slaydesperatelyimmensely.com
 0.0.0.0 slayerhideoustiptoe.com
 0.0.0.0 slcfxlive.com
@@ -36193,6 +36221,7 @@
 0.0.0.0 sledgedorig.tech
 0.0.0.0 sleechepirot.website
 0.0.0.0 sleek-craft.org
+0.0.0.0 sleek-craft.us
 0.0.0.0 sleepxoomit.com
 0.0.0.0 sleepymosquenutrient.com
 0.0.0.0 sleepywin.com
@@ -36260,6 +36289,7 @@
 0.0.0.0 slowih.com
 0.0.0.0 slowingfogyism.tech
 0.0.0.0 slowinghardboiled.com
+0.0.0.0 slpost.us
 0.0.0.0 slrviazqkilu.com
 0.0.0.0 sltvhyjthx.com
 0.0.0.0 sluicebigheartedpeevish.com
@@ -36573,7 +36603,9 @@
 0.0.0.0 solanadog.com
 0.0.0.0 solananet.com
 0.0.0.0 solapoka.com
+0.0.0.0 solarcoffee.us
 0.0.0.0 solarextint.com
+0.0.0.0 solarfresh.us
 0.0.0.0 solarig.sn
 0.0.0.0 solarmosa.com
 0.0.0.0 solarpanelbatteries.uk
@@ -43124,6 +43156,7 @@
 0.0.0.0 vwwowodyyeojd.xyz
 0.0.0.0 vx.melindafatigue.com
 0.0.0.0 vx.recheatputs.com
+0.0.0.0 vxdgsgdsvlwz.com
 0.0.0.0 vxesdeqqfup.com
 0.0.0.0 vxetlgoo.com
 0.0.0.0 vxoajwsfttgwvbj.com
@@ -49261,6 +49294,7 @@
 0.0.0.0 www.shelvesdeserve.com
 0.0.0.0 www.shelvesragged.com
 0.0.0.0 www.shemelex.com
+0.0.0.0 www.sheridangop.us
 0.0.0.0 www.shgsmes.com
 0.0.0.0 www.shieldforce.uk
 0.0.0.0 www.shieldthanks.com
@@ -52013,6 +52047,7 @@
 0.0.0.0 ziza.actor
 0.0.0.0 zizak.top
 0.0.0.0 zizoxozoox.com
+0.0.0.0 zizuolewgxbyvn.com
 0.0.0.0 zjd842.com
 0.0.0.0 zjkg9gjnx.com
 0.0.0.0 zjkypuacaawx.com
