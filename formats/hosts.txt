@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.091
 # Release: 091
-# Entries: 52,541
-# Updated: Sat, 01 Apr 23 18:08:29 +06
+# Entries: 52,542
+# Updated: Sat, 01 Apr 23 20:07:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -38238,6 +38238,7 @@
 0.0.0.0 sywhytsln.xyz
 0.0.0.0 sywqmnpkqlks.com
 0.0.0.0 syxcwxur.com
+0.0.0.0 syxwyyasm.com
 0.0.0.0 syyycc.com
 0.0.0.0 sz.jivesstubs.com
 0.0.0.0 sz.revellyoxfords.com
