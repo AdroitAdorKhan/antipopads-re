@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.091
 # Release: 091
-# Entries: 52,538
-# Updated: Sat, 01 Apr 23 16:16:43 +06
+# Entries: 52,541
+# Updated: Sat, 01 Apr 23 18:08:29 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12935,6 +12935,7 @@
 0.0.0.0 duckserv.xyz
 0.0.0.0 duckswillsmoochyou.com
 0.0.0.0 ducmiptu.net
+0.0.0.0 ducoor.net
 0.0.0.0 ductclickjl.com
 0.0.0.0 ductedslider.guru
 0.0.0.0 ductquest.com
@@ -14297,6 +14298,7 @@
 0.0.0.0 esterrium.com
 0.0.0.0 estivaltodayz.com
 0.0.0.0 estkewasa.com
+0.0.0.0 estmor.com
 0.0.0.0 estoopsi.com
 0.0.0.0 estorebharat.com
 0.0.0.0 estours.org
@@ -42382,6 +42384,7 @@
 0.0.0.0 vacationambulancekin.com
 0.0.0.0 vacaturevoorbeelden.be
 0.0.0.0 vaccinegrownparliamentary.com
+0.0.0.0 vaccinesrd.org
 0.0.0.0 vaccinetruthmovement.net
 0.0.0.0 vacexhire.uk
 0.0.0.0 vactionrentalsoakisland.com
