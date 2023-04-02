@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.092
 # Release: 092
-# Entries: 52,610
-# Updated: Sun, 02 Apr 23 04:07:52 +06
+# Entries: 52,611
+# Updated: Sun, 02 Apr 23 06:08:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -39415,6 +39415,7 @@
 0.0.0.0 thesockdesigner.com
 0.0.0.0 thesolotimebook.com
 0.0.0.0 thesoundmoneypodcast.com
+0.0.0.0 thesportsflix.com
 0.0.0.0 thesquatchstore.com
 0.0.0.0 thestableway.us
 0.0.0.0 thesudokuprofesor.com
