@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.093
 # Release: 093
-# Entries: 52,901
-# Updated: Mon, 03 Apr 23 18:07:40 +06
+# Entries: 52,904
+# Updated: Mon, 03 Apr 23 20:15:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10457,6 +10457,7 @@
 0.0.0.0 cosherymudejar.com
 0.0.0.0 cosmeticsgenerosity.com
 0.0.0.0 cosmicopen.com
+0.0.0.0 cosmicpartially.com
 0.0.0.0 cosmicspecifiedovernight.com
 0.0.0.0 cosmicsphere.net
 0.0.0.0 cosmjs.com
@@ -20301,6 +20302,7 @@
 0.0.0.0 imadfoundation.org
 0.0.0.0 image-tmart.com
 0.0.0.0 imageadvantage.net
+0.0.0.0 imaginaryspooky.com
 0.0.0.0 imalug.com
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 imatrk.net
@@ -24758,6 +24760,7 @@
 0.0.0.0 lyzenoti.pro
 0.0.0.0 lz-pub-ads.com
 0.0.0.0 lz.canelletrolls.com
+0.0.0.0 lzeld.com
 0.0.0.0 lzfems.com
 0.0.0.0 lzjl.com
 0.0.0.0 lzrikate.com
