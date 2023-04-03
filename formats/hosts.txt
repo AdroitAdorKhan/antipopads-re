@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.093
 # Release: 093
-# Entries: 52,835
-# Updated: Mon, 03 Apr 23 10:07:47 +06
+# Entries: 52,840
+# Updated: Mon, 03 Apr 23 12:16:13 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13287,6 +13287,7 @@
 0.0.0.0 earnobnoxious.com
 0.0.0.0 earpailton.com
 0.0.0.0 earplugmolka.com
+0.0.0.0 earth2guide.com
 0.0.0.0 earthenmind.in
 0.0.0.0 earthtag.ooo
 0.0.0.0 earthycopy.com
@@ -27603,6 +27604,7 @@
 0.0.0.0 nicelylatherrestless.com
 0.0.0.0 nicertie.com
 0.0.0.0 nicesthoarfrostsooner.com
+0.0.0.0 nicestsame.com
 0.0.0.0 nicheads.com
 0.0.0.0 nichedlinks.com
 0.0.0.0 nichegreatunemployment.com
@@ -38418,6 +38420,7 @@
 0.0.0.0 syrill.com
 0.0.0.0 syringekineses.website
 0.0.0.0 syrsple2se8nyu09.com
+0.0.0.0 syruphamster.com
 0.0.0.0 sys.lv
 0.0.0.0 syscall.tech
 0.0.0.0 sysdmt.com
@@ -46052,6 +46055,7 @@
 0.0.0.0 www.beanvehicleopening.com
 0.0.0.0 www.bearagriculture.com
 0.0.0.0 www.bearerassistance.com
+0.0.0.0 www.beastarter.com
 0.0.0.0 www.beauhoneycomb.com
 0.0.0.0 www.beavervehicle.com
 0.0.0.0 www.bebodywise.com
@@ -47058,6 +47062,7 @@
 0.0.0.0 www.earnbearerelectricity.com
 0.0.0.0 www.earningsrapt.com
 0.0.0.0 www.earnobnoxious.com
+0.0.0.0 www.earth2guide.com
 0.0.0.0 www.easelgivedolly.com
 0.0.0.0 www.easternlabour.com
 0.0.0.0 www.easterstrengthenbranches.com
