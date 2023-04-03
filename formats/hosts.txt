@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.093
 # Release: 093
-# Entries: 52,897
-# Updated: Mon, 03 Apr 23 16:10:09 +06
+# Entries: 52,901
+# Updated: Mon, 03 Apr 23 18:07:40 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3939,6 +3939,7 @@
 0.0.0.0 americareunite.com
 0.0.0.0 amesacejagger.space
 0.0.0.0 amesacewilga.store
+0.0.0.0 amethyst-pvp.net
 0.0.0.0 amexcadrillon.com
 0.0.0.0 ameyha.in
 0.0.0.0 amfennekinom.com
@@ -11304,6 +11305,7 @@
 0.0.0.0 darkercoincidentsword.com
 0.0.0.0 darkerillegimateillegimateshade.com
 0.0.0.0 darkledopining.uno
+0.0.0.0 darknessrazorlens.com
 0.0.0.0 darneluretic.com
 0.0.0.0 darnwarygoggle.com
 0.0.0.0 dartcsi.com
@@ -27433,6 +27435,7 @@
 0.0.0.0 newdubaiapartments.com
 0.0.0.0 newenglandroofing.us
 0.0.0.0 newfavkyiv.pro
+0.0.0.0 newfinanceapproach.com
 0.0.0.0 newgateinnmunnar.com
 0.0.0.0 newgrad.com
 0.0.0.0 newhigee.net
@@ -36705,6 +36708,7 @@
 0.0.0.0 slot-machines-canada.online
 0.0.0.0 slothsecurity.space
 0.0.0.0 slotmaniabonus.xyz
+0.0.0.0 slotmaniasport.xyz
 0.0.0.0 sloto.live
 0.0.0.0 slotogate.org
 0.0.0.0 slotovo88.shop
