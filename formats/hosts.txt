@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.093
 # Release: 093
-# Entries: 52,840
-# Updated: Mon, 03 Apr 23 12:16:13 +06
+# Entries: 52,842
+# Updated: Mon, 03 Apr 23 14:07:32 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8432,6 +8432,7 @@
 0.0.0.0 cartrigestale.com
 0.0.0.0 caruagedlr.com
 0.0.0.0 carvyre.com
+0.0.0.0 casagenaro.com
 0.0.0.0 casagrand-millenia.live
 0.0.0.0 casagrand-millenia.org
 0.0.0.0 casagrandsolitaire.net
@@ -34200,6 +34201,7 @@
 0.0.0.0 rlhldjrjfes.com
 0.0.0.0 rligbmfbwtmuxv.com
 0.0.0.0 rlittleboywhowas.com
+0.0.0.0 rlivhtenqapsew.com
 0.0.0.0 rlmcegsrhuspsq.com
 0.0.0.0 rlomivunesqal.com
 0.0.0.0 rlyorbiditys.online
