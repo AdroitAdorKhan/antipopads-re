@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.094
 # Release: 094
-# Entries: 53,093
-# Updated: Tue, 04 Apr 23 16:10:31 +06
+# Entries: 53,125
+# Updated: Tue, 04 Apr 23 18:08:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -40,6 +40,7 @@
 0.0.0.0 01234movies.net
 0.0.0.0 0154222.com
 0.0.0.0 01ccd7d7e5.e255347009.com
+0.0.0.0 01counter.com
 0.0.0.0 01iod.com
 0.0.0.0 01r2.com
 0.0.0.0 01xamxz.com
@@ -15556,6 +15557,7 @@
 0.0.0.0 financcesurv.com
 0.0.0.0 finance-hot-news.com
 0.0.0.0 finance2you.org
+0.0.0.0 financefreedompath.com
 0.0.0.0 financeology.in
 0.0.0.0 financesac.com
 0.0.0.0 financial-benefit.com
@@ -20383,6 +20385,7 @@
 0.0.0.0 imbarndeject.live
 0.0.0.0 imcgasco.in
 0.0.0.0 imcgasco.org
+0.0.0.0 imgadult.com
 0.0.0.0 imgatt.com
 0.0.0.0 imgfeedget.com
 0.0.0.0 imgint1.com
@@ -30218,7 +30221,12 @@
 0.0.0.0 paymentdeceasedcommence.com
 0.0.0.0 payments-info.site
 0.0.0.0 payments-info.website
+0.0.0.0 payments2443.online
+0.0.0.0 payments3246.online
 0.0.0.0 payments4u.org
+0.0.0.0 payments5436.online
+0.0.0.0 payments5674.online
+0.0.0.0 payments9766.online
 0.0.0.0 payments9786.online
 0.0.0.0 paymentsweb.org
 0.0.0.0 paymintz.shop
@@ -30284,6 +30292,7 @@
 0.0.0.0 pdn-2.com
 0.0.0.0 pdopreroerw.com
 0.0.0.0 pdpdcnnjbg.top
+0.0.0.0 pdshmfkugsddkm.xyz
 0.0.0.0 pdsrnxdwimme.com
 0.0.0.0 pdvacde.com
 0.0.0.0 pdxgfnnoan.com
@@ -41990,6 +41999,8 @@
 0.0.0.0 uknsyenerg.co
 0.0.0.0 ukoffzeh.com
 0.0.0.0 ukraine-daily.com
+0.0.0.0 ukraine-war-crime.com
+0.0.0.0 ukraine-war-crimes.com
 0.0.0.0 ukrainian-wife.net
 0.0.0.0 ukrainiancommunity.org
 0.0.0.0 ukrainianschools.org
@@ -42333,6 +42344,7 @@
 0.0.0.0 unspritz.online
 0.0.0.0 unspritz.store
 0.0.0.0 unspritz.tech
+0.0.0.0 unstantleran.com
 0.0.0.0 unsternrelease.com
 0.0.0.0 unstuffrewan.life
 0.0.0.0 unsulf.com
@@ -42519,6 +42531,7 @@
 0.0.0.0 urinle.com
 0.0.0.0 url-www.effectivedisplayformats.com
 0.0.0.0 urldelivery.com
+0.0.0.0 urlgone.com
 0.0.0.0 urluchteenet.guru
 0.0.0.0 urmavite.com
 0.0.0.0 urmi-t.com
@@ -42691,6 +42704,7 @@
 0.0.0.0 utript.com
 0.0.0.0 utstancecaricit.com
 0.0.0.0 utsukbrewst.website
+0.0.0.0 uttack.com
 0.0.0.0 uttarakhandherald.online
 0.0.0.0 utteredtheatresaround.com
 0.0.0.0 utterlyglueless.co.uk
@@ -42836,6 +42850,7 @@
 0.0.0.0 vaeesspot.com
 0.0.0.0 vaelewrbuecvwuc.top
 0.0.0.0 vaemfecqllefj.xyz
+0.0.0.0 vafyhlysqabwvde.xyz
 0.0.0.0 vagabondinteriors.com
 0.0.0.0 vaginajs.com
 0.0.0.0 vagromdecane.website
@@ -42851,6 +42866,7 @@
 0.0.0.0 vaipsona.com
 0.0.0.0 vaipsouw.com
 0.0.0.0 vak345.com
+0.0.0.0 vakghopi.xyz
 0.0.0.0 vakhraswag.com
 0.0.0.0 vakhty.com
 0.0.0.0 vakifbankkart.com
@@ -42881,11 +42897,13 @@
 0.0.0.0 valonghost.xyz
 0.0.0.0 valoresgrupobancolombia.com
 0.0.0.0 valpeiros.com
+0.0.0.0 valshara.com
 0.0.0.0 valu.science
 0.0.0.0 valuabletuskbadge.com
 0.0.0.0 valuationbothertoo.com
 0.0.0.0 valueclick.com
 0.0.0.0 valueclickmedia.com
+0.0.0.0 valuedmiming.life
 0.0.0.0 valueimpression.com
 0.0.0.0 valuerlaserlax.com
 0.0.0.0 valuersghar.com
@@ -42981,6 +42999,7 @@
 0.0.0.0 vaugroar.com
 0.0.0.0 vaultwrite.com
 0.0.0.0 vaumvxgrjiicdp.com
+0.0.0.0 vavcashpop.com
 0.0.0.0 vawnpqcjfig.com
 0.0.0.0 vawsmoocah.com
 0.0.0.0 vawvkuhdgifpnd.com
@@ -44196,6 +44215,7 @@
 0.0.0.0 waust.at
 0.0.0.0 wauthaik.net
 0.0.0.0 wauthaum.com
+0.0.0.0 wavablehood.com
 0.0.0.0 waveclks.com
 0.0.0.0 wavermigraineuncle.com
 0.0.0.0 waverunnerparts.us
@@ -44294,6 +44314,7 @@
 0.0.0.0 weartstudiodesign.com
 0.0.0.0 wearygrocery.pro
 0.0.0.0 weaselbubblehue.com
+0.0.0.0 weatherbarbecue.com
 0.0.0.0 weatherfalcon.com
 0.0.0.0 weatherhunters.us
 0.0.0.0 weatherplllatform.com
@@ -44708,6 +44729,7 @@
 0.0.0.0 wholegrady.com
 0.0.0.0 wholehugestories.com
 0.0.0.0 wholehugewords.com
+0.0.0.0 wholenicenews.com
 0.0.0.0 wholesalers.nyc
 0.0.0.0 wholesalewaterfilter.com
 0.0.0.0 wholesomeindians.com
@@ -44924,6 +44946,7 @@
 0.0.0.0 wisheph.com
 0.0.0.0 wishesandwants.com
 0.0.0.0 wishesantennarightfully.com
+0.0.0.0 wishesobtrusivefastest.com
 0.0.0.0 wishfulinsecurereplace.com
 0.0.0.0 wishjus.com
 0.0.0.0 wishmayvaganti.website
@@ -45062,6 +45085,7 @@
 0.0.0.0 wolfson.info
 0.0.0.0 wolongcdn.com
 0.0.0.0 wolqundera.com
+0.0.0.0 wolve.pro
 0.0.0.0 wolvescuckooship.com
 0.0.0.0 womanalliance.xyz
 0.0.0.0 womanifef.com
@@ -45209,6 +45233,7 @@
 0.0.0.0 worthlessscowledexactly.com
 0.0.0.0 worthmill.com
 0.0.0.0 worthwise.app
+0.0.0.0 worthycondimentburied.com
 0.0.0.0 worthylighteravert.com
 0.0.0.0 worthyrid.com
 0.0.0.0 wosebsee.com
@@ -45217,6 +45242,7 @@
 0.0.0.0 wotblitzmoddingcenter.com
 0.0.0.0 wotccholyconvocation.com
 0.0.0.0 wotssawlog.digital
+0.0.0.0 woudaufe.net
 0.0.0.0 woujoami.com
 0.0.0.0 wouldnotspea.info
 0.0.0.0 woulsa.com
@@ -45374,6 +45400,7 @@
 0.0.0.0 wugabts.com
 0.0.0.0 wujibifan.com
 0.0.0.0 wujumvtgyx.com
+0.0.0.0 wukbgater.buzz
 0.0.0.0 wukoopicee.com
 0.0.0.0 wumpeeps.net
 0.0.0.0 wumufama.com
@@ -51396,6 +51423,7 @@
 0.0.0.0 xaxre.com
 0.0.0.0 xayoaqjlejm.com
 0.0.0.0 xbb101.com
+0.0.0.0 xbc8fsvo5w75wwx8.pro
 0.0.0.0 xbcnvj2mdk1dn1.com
 0.0.0.0 xbelwnsc.com
 0.0.0.0 xbflslpjcgqll.com
@@ -51737,6 +51765,7 @@
 0.0.0.0 xmllover.com
 0.0.0.0 xmlppcbuzz.com
 0.0.0.0 xmlrtb.com
+0.0.0.0 xmlsspfeedsheartbid.monster
 0.0.0.0 xmlterra.com
 0.0.0.0 xmlv4.chameleostudios.com
 0.0.0.0 xmlv4.mobuppsrtb.com
@@ -52730,6 +52759,7 @@
 0.0.0.0 zatnoh.com
 0.0.0.0 zaubanel.com
 0.0.0.0 zausosti.net
+0.0.0.0 zauthaus.net
 0.0.0.0 zauthuvy.com
 0.0.0.0 zavabuk.top
 0.0.0.0 zavanda.co.uk
@@ -52947,6 +52977,7 @@
 0.0.0.0 zlinkv.com
 0.0.0.0 zlocalxh.com
 0.0.0.0 zlp6s.pw
+0.0.0.0 zlx.com.br
 0.0.0.0 zm232.com
 0.0.0.0 zmczd.com
 0.0.0.0 zmejtefu.com
@@ -53106,6 +53137,7 @@
 0.0.0.0 zyinfotech.com
 0.0.0.0 zylytavo.com
 0.0.0.0 zypenetwork.com
+0.0.0.0 zypy2h6rgfux.com
 0.0.0.0 zyugar.com
 0.0.0.0 zyy62.com
 0.0.0.0 zz.tripstendant.com
