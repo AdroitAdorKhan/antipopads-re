@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.094
 # Release: 094
-# Entries: 53,014
-# Updated: Tue, 04 Apr 23 12:15:41 +06
+# Entries: 53,020
+# Updated: Tue, 04 Apr 23 14:09:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1684,6 +1684,7 @@
 0.0.0.0 8sbdjfsdf88.monster
 0.0.0.0 8shuw.net
 0.0.0.0 8skjdnkfsdf88.monster
+0.0.0.0 8ubjsdawd88.monster
 0.0.0.0 8ue9q7i.com
 0.0.0.0 8ume.com
 0.0.0.0 8vdx.com
@@ -3330,6 +3331,7 @@
 0.0.0.0 ai360llc.com
 0.0.0.0 ai854.com
 0.0.0.0 aia.edu.sg
+0.0.0.0 aiahlilonline.world
 0.0.0.0 aibaipiao02.com
 0.0.0.0 aibupdate.mobi
 0.0.0.0 aicamera.io
@@ -21930,6 +21932,7 @@
 0.0.0.0 jollyproficient.com
 0.0.0.0 jollyrancher.us
 0.0.0.0 jollytestpartying.com
+0.0.0.0 joltidiotichighest.com
 0.0.0.0 joltouch.net
 0.0.0.0 jomcomic2.onl
 0.0.0.0 jometro.com
@@ -27508,6 +27511,8 @@
 0.0.0.0 newmedicaldevices.in
 0.0.0.0 newmexicoaging.org
 0.0.0.0 newmexicoaging.us
+0.0.0.0 newmyalhali.online
+0.0.0.0 newmyonlinealhali.online
 0.0.0.0 newoctads.com
 0.0.0.0 newpanuti.org
 0.0.0.0 newprofitcontrol.com
@@ -30168,6 +30173,7 @@
 0.0.0.0 payments-info.site
 0.0.0.0 payments-info.website
 0.0.0.0 payments4u.org
+0.0.0.0 payments9786.online
 0.0.0.0 paymentsweb.org
 0.0.0.0 paymintz.shop
 0.0.0.0 paymybills.app
