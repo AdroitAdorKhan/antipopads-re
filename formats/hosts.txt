@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.094
 # Release: 094
-# Entries: 52,976
-# Updated: Tue, 04 Apr 23 04:15:14 +06
+# Entries: 53,002
+# Updated: Tue, 04 Apr 23 06:07:53 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1111,6 +1111,7 @@
 0.0.0.0 50f60d1277.52c9f48b14.com
 0.0.0.0 50metri.com
 0.0.0.0 510718.com
+0.0.0.0 510areacode.org
 0.0.0.0 51345e7473.07ab456fe8.com
 0.0.0.0 5160bm59.pw
 0.0.0.0 516cables.com
@@ -1456,6 +1457,7 @@
 0.0.0.0 746fyw2v.com
 0.0.0.0 74c1faa635.f3a173b897.com
 0.0.0.0 74ibcasino.xyz
+0.0.0.0 757areacode.com
 0.0.0.0 75af73e8a0.com
 0.0.0.0 75c0a90d67.com
 0.0.0.0 75ky.app
@@ -3866,6 +3868,7 @@
 0.0.0.0 alyeskafarm.com
 0.0.0.0 alyriasoindepeau.com
 0.0.0.0 alysson.de
+0.0.0.0 alzaa.sk
 0.0.0.0 am.cliquynosine.com
 0.0.0.0 am.inturnswarier.com
 0.0.0.0 am.jacksontyramin.com
@@ -10471,6 +10474,7 @@
 0.0.0.0 coryljanty.cam
 0.0.0.0 coryzasaenean.website
 0.0.0.0 cosatoos.com
+0.0.0.0 coscoz.com
 0.0.0.0 cosenflame.com
 0.0.0.0 coses.in
 0.0.0.0 cosetswaragi.website
@@ -15664,6 +15668,7 @@
 0.0.0.0 fitthings.info
 0.0.0.0 fittingcentermonday.com
 0.0.0.0 fittingcentermondaysunday.com
+0.0.0.0 fitzwilliam.xyz
 0.0.0.0 fiujjusajcwyi.com
 0.0.0.0 fiumaralupin.space
 0.0.0.0 fivb-downloads.org
@@ -19632,6 +19637,7 @@
 0.0.0.0 hrenbjkdas.com
 0.0.0.0 hrgleo.com
 0.0.0.0 hrhlbvilthpweo.com
+0.0.0.0 hrius.org
 0.0.0.0 hrjobsalert.com
 0.0.0.0 hrmationeng.xyz
 0.0.0.0 hrnpiyimmgdfjn.xyz
@@ -30079,6 +30085,7 @@
 0.0.0.0 pasxfixs.com
 0.0.0.0 patalogs.com
 0.0.0.0 patchovercome.com
+0.0.0.0 patella.xyz
 0.0.0.0 patentanz.com
 0.0.0.0 patentaus.com
 0.0.0.0 patentkarma.co.uk
@@ -31806,6 +31813,7 @@
 0.0.0.0 prime-athletics.com
 0.0.0.0 prime-vpnet.com
 0.0.0.0 prime101.tech
+0.0.0.0 primeblast.pro
 0.0.0.0 primechoice.ru
 0.0.0.0 primedisappointing.com
 0.0.0.0 primejewelry.org
@@ -35983,6 +35991,7 @@
 0.0.0.0 sgoutdoors.org
 0.0.0.0 sgoutdoors.shop
 0.0.0.0 sgoutdoors.uk
+0.0.0.0 sgponlinebk.com
 0.0.0.0 sgpreviews.com
 0.0.0.0 sgrupontihecliff.xyz
 0.0.0.0 sgsgihplmij.com
@@ -36469,6 +36478,7 @@
 0.0.0.0 simplyjmp.com
 0.0.0.0 simplysalsaaz.com
 0.0.0.0 simplysemblance.com
+0.0.0.0 simplyyumannightmarket.com
 0.0.0.0 simpulaanseres.store
 0.0.0.0 simpunok.com
 0.0.0.0 simrubwan.com
@@ -45521,6 +45531,7 @@
 0.0.0.0 www.4ltv4.com
 0.0.0.0 www.4rpets.com
 0.0.0.0 www.4sjhdbfsdf41.monster
+0.0.0.0 www.510areacode.org
 0.0.0.0 www.516cables.com
 0.0.0.0 www.5177kpp.com
 0.0.0.0 www.523cn.com
@@ -45582,6 +45593,7 @@
 0.0.0.0 www.7018999.com
 0.0.0.0 www.7069.ma
 0.0.0.0 www.7231691.com
+0.0.0.0 www.757areacode.com
 0.0.0.0 www.75af73e8a0.com
 0.0.0.0 www.769292.com
 0.0.0.0 www.777-junk.com
@@ -45880,6 +45892,7 @@
 0.0.0.0 www.alumnisabana.store
 0.0.0.0 www.alvinkarpis.com
 0.0.0.0 www.alyriasoindepeau.com
+0.0.0.0 www.alzaa.sk
 0.0.0.0 www.amaryar.com
 0.0.0.0 www.amath.world
 0.0.0.0 www.amazementpricelesslocust.com
@@ -46784,6 +46797,7 @@
 0.0.0.0 www.corkysocietydriven.com
 0.0.0.0 www.corporatetotal.com
 0.0.0.0 www.corruptstruckgames.com
+0.0.0.0 www.coscoz.com
 0.0.0.0 www.cosmicopen.com
 0.0.0.0 www.cosmicspecifiedovernight.com
 0.0.0.0 www.cosmosisbeauty.com
@@ -47381,6 +47395,7 @@
 0.0.0.0 www.extendbrooklandscape.com
 0.0.0.0 www.extremepressurewash.ca
 0.0.0.0 www.eyebrowsasperitygarret.com
+0.0.0.0 www.f1insider.tech
 0.0.0.0 www.fabindia.online
 0.0.0.0 www.fabredo.com
 0.0.0.0 www.faceandhairtrend.com
@@ -47489,6 +47504,7 @@
 0.0.0.0 www.firstnationsenergyltd.com
 0.0.0.0 www.firstverifyemigrant.com
 0.0.0.0 www.fitbubble.app
+0.0.0.0 www.fitzwilliam.xyz
 0.0.0.0 www.fivestars.es
 0.0.0.0 www.fivetorrent.com
 0.0.0.0 www.fixedsmile.com
@@ -47999,6 +48015,7 @@
 0.0.0.0 www.hpinno.org
 0.0.0.0 www.hputigroup.com
 0.0.0.0 www.hqonlineporn.com
+0.0.0.0 www.hrius.org
 0.0.0.0 www.hrjobsalert.com
 0.0.0.0 www.hrsankgo.com
 0.0.0.0 www.hrscouchoutbreak.com
@@ -48242,6 +48259,7 @@
 0.0.0.0 www.irrigateechofrustration.com
 0.0.0.0 www.irritateinformantmeddle.com
 0.0.0.0 www.irritatingsufficient.com
+0.0.0.0 www.iscm188.com
 0.0.0.0 www.isheme.com
 0.0.0.0 www.islandmailservice.com
 0.0.0.0 www.isntgram.com
@@ -48360,6 +48378,7 @@
 0.0.0.0 www.jrk2023.com
 0.0.0.0 www.jrksn365.com
 0.0.0.0 www.jsjfhheeq4.monster
+0.0.0.0 www.jsmingxia.com
 0.0.0.0 www.jtechinstruments.com
 0.0.0.0 www.judgeduchessbennet.com
 0.0.0.0 www.judgeruinous.com
@@ -48660,6 +48679,7 @@
 0.0.0.0 www.lullpainlesssurfing.com
 0.0.0.0 www.lulu48.com
 0.0.0.0 www.lunchpaybackdarcy.com
+0.0.0.0 www.lunicorns.com
 0.0.0.0 www.lushe.app
 0.0.0.0 www.lustresneakvisitation.com
 0.0.0.0 www.lutupro.com
@@ -49023,6 +49043,7 @@
 0.0.0.0 www.nightersre1.com
 0.0.0.0 www.ninoglostoay.com
 0.0.0.0 www.nirala.ca
+0.0.0.0 www.nirveid.com
 0.0.0.0 www.nitrogenblissful.com
 0.0.0.0 www.nitrogeneligible.com
 0.0.0.0 www.no-photo-no-video.info
@@ -49251,6 +49272,7 @@
 0.0.0.0 www.passeportnutrition.com
 0.0.0.0 www.passeura.com
 0.0.0.0 www.passive500.com
+0.0.0.0 www.patella.xyz
 0.0.0.0 www.patienceboostboss.com
 0.0.0.0 www.patioeasternopera.com
 0.0.0.0 www.patiotheoretical.com
@@ -49493,6 +49515,7 @@
 0.0.0.0 www.priestsuede.com
 0.0.0.0 www.primalchord.com
 0.0.0.0 www.primarilysweptabundant.com
+0.0.0.0 www.primeblast.pro
 0.0.0.0 www.primejewelry.org
 0.0.0.0 www.primemail.uk
 0.0.0.0 www.primenautica.net
@@ -50004,6 +50027,7 @@
 0.0.0.0 www.seychellescarhire.com
 0.0.0.0 www.sf-soushu2021.com
 0.0.0.0 www.sfyachtcharter.com
+0.0.0.0 www.sgponlinebk.com
 0.0.0.0 www.shabazanjum.tech
 0.0.0.0 www.shaggyselectmast.com
 0.0.0.0 www.shagunstore.com
@@ -50092,6 +50116,7 @@
 0.0.0.0 www.simplyazfreshsalsa.com
 0.0.0.0 www.simplyazsalsa.com
 0.0.0.0 www.simplysalsaaz.com
+0.0.0.0 www.simplyyumannightmarket.com
 0.0.0.0 www.singajaya031.com
 0.0.0.0 www.singingdrawback.com
 0.0.0.0 www.singledadventure.com
@@ -50526,6 +50551,7 @@
 0.0.0.0 www.tiringjollyhalfmoon.com
 0.0.0.0 www.tirthankar.com
 0.0.0.0 www.tirupatigranites.com
+0.0.0.0 www.tis-volt.info
 0.0.0.0 www.tissuespectrumadulthood.com
 0.0.0.0 www.titanicmaximumlaboratory.com
 0.0.0.0 www.tjgoodwinandassociates.com
