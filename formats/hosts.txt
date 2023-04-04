@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.094
 # Release: 094
-# Entries: 53,125
-# Updated: Tue, 04 Apr 23 18:08:02 +06
+# Entries: 53,133
+# Updated: Tue, 04 Apr 23 20:15:09 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1811,6 +1811,7 @@
 0.0.0.0 99wanren.com
 0.0.0.0 9a24a1b3dcd5f4.com
 0.0.0.0 9a2a0fe656.com
+0.0.0.0 9absjhdasd99.monster
 0.0.0.0 9ads.mobi
 0.0.0.0 9ajhbjdasd13.monster
 0.0.0.0 9ajhw.monster
@@ -3196,6 +3197,7 @@
 0.0.0.0 agendainspirations.com
 0.0.0.0 agenduret.com
 0.0.0.0 agengdesignllc.com
+0.0.0.0 agenguttur.digital
 0.0.0.0 agenpokeronline.top
 0.0.0.0 agent-connect.tech
 0.0.0.0 agentsofagency.org
@@ -7530,6 +7532,7 @@
 0.0.0.0 brainlessshut.com
 0.0.0.0 brainlyads.com
 0.0.0.0 brainsensueddusty.com
+0.0.0.0 brairdcaratch.digital
 0.0.0.0 brakescucumbersubjects.com
 0.0.0.0 brakesoutright.com
 0.0.0.0 braleak.com
@@ -27620,6 +27623,7 @@
 0.0.0.0 newtoki211.com
 0.0.0.0 newtoki213.com
 0.0.0.0 newton.pw
+0.0.0.0 newtube.co.uk
 0.0.0.0 newvideoapp.pro
 0.0.0.0 newwbrands-mark.tech
 0.0.0.0 newxys9.com
@@ -32504,6 +32508,7 @@
 0.0.0.0 pureparna.com
 0.0.0.0 purercoming.digital
 0.0.0.0 purewatersolution.us
+0.0.0.0 purismsgenros.digital
 0.0.0.0 purpes.com
 0.0.0.0 purpleads.io
 0.0.0.0 purpleflag.net
@@ -37287,6 +37292,7 @@
 0.0.0.0 sopiteddoggle.live
 0.0.0.0 sopixiafqxyp.com
 0.0.0.0 sopokerclub.com
+0.0.0.0 soporteapple-com.space
 0.0.0.0 soprosam.cl
 0.0.0.0 soqotr.com
 0.0.0.0 soqpgkyark.com
@@ -43632,6 +43638,7 @@
 0.0.0.0 vm.flafferenmass.com
 0.0.0.0 vm.isodontsegni.com
 0.0.0.0 vm.reslotstorage.com
+0.0.0.0 vmbgoblxpl.com
 0.0.0.0 vmcqruhktffqp.com
 0.0.0.0 vmcxdaynkhnekp.com
 0.0.0.0 vmhzvqzx.com
@@ -49143,6 +49150,7 @@
 0.0.0.0 www.newlytelephone.com
 0.0.0.0 www.newtoki211.com
 0.0.0.0 www.newtoki213.com
+0.0.0.0 www.newtube.co.uk
 0.0.0.0 www.newyear3ar.com
 0.0.0.0 www.newyorkcityburlesque.com
 0.0.0.0 www.nftspace.space
