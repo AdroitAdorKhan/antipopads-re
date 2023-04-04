@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.095
 # Release: 095
-# Entries: 53,177
-# Updated: Wed, 05 Apr 23 00:11:26 +06
+# Entries: 53,180
+# Updated: Wed, 05 Apr 23 02:09:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5726,6 +5726,7 @@
 0.0.0.0 backstagedeputy.com
 0.0.0.0 backstagefreakish.com
 0.0.0.0 backstatge.com
+0.0.0.0 backupcelebritygrave.com
 0.0.0.0 backwardkneesencroach.com
 0.0.0.0 backyardwarlock.com
 0.0.0.0 baconaces.pro
@@ -7674,6 +7675,7 @@
 0.0.0.0 briskedmiskept.com
 0.0.0.0 brissapogaic.uno
 0.0.0.0 bristansales.co.uk
+0.0.0.0 bristlejaunty.com
 0.0.0.0 bristol-apprenticeships.co.uk
 0.0.0.0 bristolmortgageservices.co.uk
 0.0.0.0 briticatederfd.site
@@ -32288,6 +32290,7 @@
 0.0.0.0 psiqrrtvwwo.xyz
 0.0.0.0 psirsoor.com
 0.0.0.0 psirsugn.net
+0.0.0.0 psisn.com
 0.0.0.0 psitchie.com
 0.0.0.0 psiwaphado.pro
 0.0.0.0 psjjqybtsmifoso.com
