@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.095
 # Release: 095
-# Entries: 53,360
-# Updated: Wed, 05 Apr 23 16:07:34 +06
+# Entries: 53,363
+# Updated: Wed, 05 Apr 23 18:10:59 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -37610,6 +37610,7 @@
 0.0.0.0 spinbowling.com
 0.0.0.0 spinbox1.com
 0.0.0.0 spinflygolf.com
+0.0.0.0 spinnyrestaurant.it
 0.0.0.0 spinsaxes.xyz
 0.0.0.0 spinsterremnantstooped.com
 0.0.0.0 spira-emi.us
@@ -48756,6 +48757,7 @@
 0.0.0.0 www.kitsconsulting.net
 0.0.0.0 www.kittle.app
 0.0.0.0 www.kittlenwetos.com
+0.0.0.0 www.kjhasd66.monster
 0.0.0.0 www.kjj52.com
 0.0.0.0 www.kkoohkade.com
 0.0.0.0 www.kkzwvd.com
@@ -50558,6 +50560,7 @@
 0.0.0.0 www.spiderdisturbing.com
 0.0.0.0 www.spihand.com
 0.0.0.0 www.spinbiased.com
+0.0.0.0 www.spinnyrestaurant.it
 0.0.0.0 www.spinsaxes.xyz
 0.0.0.0 www.spiritualdiscussing.com
 0.0.0.0 www.spiritualityofchristianity.store
