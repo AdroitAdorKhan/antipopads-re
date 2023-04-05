@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.095
 # Release: 095
-# Entries: 53,363
-# Updated: Wed, 05 Apr 23 18:10:59 +06
+# Entries: 53,365
+# Updated: Wed, 05 Apr 23 20:13:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9028,6 +9028,7 @@
 0.0.0.0 chatgpt-4.co.uk
 0.0.0.0 chatgpt-link.com
 0.0.0.0 chatgptai.asia
+0.0.0.0 chatgptapp.live
 0.0.0.0 chatgptdubai.com
 0.0.0.0 chatgptgroup.org
 0.0.0.0 chatgptopenai.org
@@ -32010,6 +32011,7 @@
 0.0.0.0 primenautica.net
 0.0.0.0 primerian.us
 0.0.0.0 primeriansecurityconsulting.us
+0.0.0.0 primeurad.com
 0.0.0.0 primevalrespectful.com
 0.0.0.0 primevalstork.com
 0.0.0.0 primevalsymphonymuttering.com

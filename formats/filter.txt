@@ -20,8 +20,8 @@
 ! Version: 23.04.095
 ! Release: 095
 ! Expires: 1 day
-! Entries: 53,363
-! Updated: Wed, 05 Apr 23 18:10:59 +06
+! Entries: 53,365
+! Updated: Wed, 05 Apr 23 20:13:51 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -9029,6 +9029,7 @@
 ||chatgpt-4.co.uk^
 ||chatgpt-link.com^
 ||chatgptai.asia^
+||chatgptapp.live^
 ||chatgptdubai.com^
 ||chatgptgroup.org^
 ||chatgptopenai.org^
@@ -32011,6 +32012,7 @@
 ||primenautica.net^
 ||primerian.us^
 ||primeriansecurityconsulting.us^
+||primeurad.com^
 ||primevalrespectful.com^
 ||primevalstork.com^
 ||primevalsymphonymuttering.com^
