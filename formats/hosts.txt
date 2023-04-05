@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.095
 # Release: 095
-# Entries: 53,365
-# Updated: Wed, 05 Apr 23 20:13:51 +06
+# Entries: 53,366
+# Updated: Wed, 05 Apr 23 22:08:38 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -38046,6 +38046,7 @@
 0.0.0.0 stewlinedull.com
 0.0.0.0 stewsmall.com
 0.0.0.0 stexbd.com
+0.0.0.0 steyslovakia.com
 0.0.0.0 stgowan.com
 0.0.0.0 stheconc.club
 0.0.0.0 stheneencave.com
