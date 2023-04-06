@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.096
 # Release: 096
-# Entries: 53,407
-# Updated: Thu, 06 Apr 23 12:07:41 +06
+# Entries: 53,408
+# Updated: Thu, 06 Apr 23 14:08:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -37295,6 +37295,7 @@
 0.0.0.0 socketboredomdigital.com
 0.0.0.0 socketbuild.com
 0.0.0.0 socketlidoperative.com
+0.0.0.0 socoalf.com
 0.0.0.0 socoolchips.com
 0.0.0.0 socpoist.dev
 0.0.0.0 sodallay.com
