@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.097
 # Release: 097
-# Entries: 53,545
-# Updated: Fri, 07 Apr 23 02:15:51 +06
+# Entries: 53,548
+# Updated: Fri, 07 Apr 23 04:07:40 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -25443,6 +25443,7 @@
 0.0.0.0 maritanewark.com
 0.0.0.0 maritipitons.com
 0.0.0.0 marjabit.us
+0.0.0.0 markaenocyte.digital
 0.0.0.0 markamedia.nl
 0.0.0.0 markazulkarim.com
 0.0.0.0 markerfraction.com
@@ -42196,6 +42197,7 @@
 0.0.0.0 ufnteujfjm.top
 0.0.0.0 ufoomals.net
 0.0.0.0 ufpcdn.com
+0.0.0.0 ufptkylyfa.com
 0.0.0.0 uftnsammvjr.com
 0.0.0.0 ufuretjl.com
 0.0.0.0 ufwrhieshsdjjx.com
@@ -45731,6 +45733,7 @@
 0.0.0.0 wujumvtgyx.com
 0.0.0.0 wukbgater.buzz
 0.0.0.0 wukoopicee.com
+0.0.0.0 wullielouts.live
 0.0.0.0 wumpeeps.net
 0.0.0.0 wumufama.com
 0.0.0.0 wunderlist.site
