@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.097
 # Release: 097
-# Entries: 53,531
-# Updated: Fri, 07 Apr 23 00:07:45 +06
+# Entries: 53,545
+# Updated: Fri, 07 Apr 23 02:15:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8506,6 +8506,7 @@
 0.0.0.0 cartoonpeecommissioner.com
 0.0.0.0 cartrigestale.com
 0.0.0.0 caruagedlr.com
+0.0.0.0 carvallo.info
 0.0.0.0 carvyre.com
 0.0.0.0 casagenaro.com
 0.0.0.0 casagrand-millenia.live
@@ -8757,6 +8758,7 @@
 0.0.0.0 cdnquality.com
 0.0.0.0 cdnrl.com
 0.0.0.0 cdnspace.io
+0.0.0.0 cdnstatic01.xyz
 0.0.0.0 cdntechone.com
 0.0.0.0 cdntestlp.info
 0.0.0.0 cdntocdn.com
@@ -11337,6 +11339,8 @@
 0.0.0.0 dalaihammam.website
 0.0.0.0 dalecta.com
 0.0.0.0 dallavel.com
+0.0.0.0 dalyai.com
+0.0.0.0 dalysb.com
 0.0.0.0 damaged-shop.pro
 0.0.0.0 damagedecided.com
 0.0.0.0 damageshaybird.com
@@ -13927,6 +13931,7 @@
 0.0.0.0 electromusic.top
 0.0.0.0 electronicc.it
 0.0.0.0 electronicconsensus.com
+0.0.0.0 elegantkhamsin.life
 0.0.0.0 elegynybble.com
 0.0.0.0 element-okna.com
 0.0.0.0 elementalantecedent.com
@@ -15201,6 +15206,7 @@
 0.0.0.0 fascinatedpetulantfrail.com
 0.0.0.0 fascinatingsneaking.com
 0.0.0.0 fashionablegangsterexplosion.com
+0.0.0.0 fashionacreak.life
 0.0.0.0 fashionbazshop.xyz
 0.0.0.0 fashioneggplant.com
 0.0.0.0 fashionistacollective.com
@@ -17518,6 +17524,7 @@
 0.0.0.0 glufoksy.com
 0.0.0.0 glugherg.net
 0.0.0.0 glugreez.com
+0.0.0.0 glum-bake.pro
 0.0.0.0 glumtitu.net
 0.0.0.0 gluondockize.digital
 0.0.0.0 glurdoat.com
@@ -21178,6 +21185,7 @@
 0.0.0.0 ipcrhythm.com
 0.0.0.0 ipcsapphire.com
 0.0.0.0 ipdmpygph.xyz
+0.0.0.0 ipedeisasbeautif.com
 0.0.0.0 ipfidhawqxsi.top
 0.0.0.0 iphisslurbow.com
 0.0.0.0 iphone-claim-help.live
@@ -24357,6 +24365,7 @@
 0.0.0.0 liverpooldiggerhire.uk
 0.0.0.0 liverpoolfan.co.uk
 0.0.0.0 liversely.net
+0.0.0.0 livesexchatvideo.live
 0.0.0.0 livesexguru.online
 0.0.0.0 livesharepersonals.com
 0.0.0.0 livestockfeaturenecessary.com
@@ -29801,6 +29810,7 @@
 0.0.0.0 outrotomr.com
 0.0.0.0 outrushmusjid.website
 0.0.0.0 outseeltor.com
+0.0.0.0 outsetnormalwaited.com
 0.0.0.0 outseylor.com
 0.0.0.0 outsimfat.site
 0.0.0.0 outsliggooa.com
@@ -33386,6 +33396,7 @@
 0.0.0.0 racleo.com
 0.0.0.0 racnnqlali.top
 0.0.0.0 racterdeet.com
+0.0.0.0 racticalwhich.com
 0.0.0.0 radarconsultation.com
 0.0.0.0 radargoats.com
 0.0.0.0 radarproposalunfortunately.com
@@ -34843,6 +34854,7 @@
 0.0.0.0 roulettebotplus.com
 0.0.0.0 roumachopa.com
 0.0.0.0 roumucee.com
+0.0.0.0 rounca.com
 0.0.0.0 roundtableconference.mobi
 0.0.0.0 roundynews.com
 0.0.0.0 rounts.com
@@ -36161,6 +36173,7 @@
 0.0.0.0 sermondirt.com
 0.0.0.0 serpenspilgrim.com
 0.0.0.0 serpentdusks.com
+0.0.0.0 sertfouder.com
 0.0.0.0 seruj.top
 0.0.0.0 serumalkillow.com
 0.0.0.0 serumbosses.com
@@ -43647,6 +43660,7 @@
 0.0.0.0 vidofk.com
 0.0.0.0 vidox.net
 0.0.0.0 vidrohimaratha.in
+0.0.0.0 vids-fun.online
 0.0.0.0 vidscity.info
 0.0.0.0 vidsfun.info
 0.0.0.0 vidsofdream.today
