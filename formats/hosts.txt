@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.097
 # Release: 097
-# Entries: 53,716
-# Updated: Fri, 07 Apr 23 18:13:45 +06
+# Entries: 53,721
+# Updated: Fri, 07 Apr 23 20:09:39 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7355,6 +7355,7 @@
 0.0.0.0 bonanzaminibikes.store
 0.0.0.0 bonanzaminibikes.us
 0.0.0.0 bonbonbonggame.com
+0.0.0.0 bonbuj.si
 0.0.0.0 bondagecoexist.com
 0.0.0.0 bondageeduc.com
 0.0.0.0 bondeffects.com
@@ -27244,6 +27245,7 @@
 0.0.0.0 mygtmn.com
 0.0.0.0 myhomefoundation.org
 0.0.0.0 myhost.name
+0.0.0.0 myhrcvs.top
 0.0.0.0 myhugewords.com
 0.0.0.0 myhypeposts.com
 0.0.0.0 myhypestories.com
@@ -32061,6 +32063,7 @@
 0.0.0.0 precisocontratar.world
 0.0.0.0 precoilrowlock.digital
 0.0.0.0 prects.com
+0.0.0.0 predicabmc.com
 0.0.0.0 predicamentdisconnect.com
 0.0.0.0 predicamentprestige.com
 0.0.0.0 predictad.com
@@ -34589,6 +34592,7 @@
 0.0.0.0 rightiescolled.club
 0.0.0.0 rightnativecontent.com
 0.0.0.0 rightnow-dating.life
+0.0.0.0 rigiddepth.com
 0.0.0.0 rigidearnest.com
 0.0.0.0 rigidpenholderintelligence.com
 0.0.0.0 rigies.com
@@ -49592,6 +49596,7 @@
 0.0.0.0 www.myfavoriteperson.info
 0.0.0.0 www.myfillers.ru
 0.0.0.0 www.myfirstmeet.space
+0.0.0.0 www.myhrcvs.top
 0.0.0.0 www.myitalgas.it
 0.0.0.0 www.myjagran.com
 0.0.0.0 www.mymantech.com
