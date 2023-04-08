@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.098
 # Release: 098
-# Entries: 53,969
-# Updated: Sat, 08 Apr 23 12:10:09 +06
+# Entries: 53,981
+# Updated: Sat, 08 Apr 23 14:07:45 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -156,6 +156,7 @@
 0.0.0.0 10akjbjdasd10.monster
 0.0.0.0 10akjbskda102.monster
 0.0.0.0 10akjsbdk10.monster
+0.0.0.0 10akjsbdkasd100.monster
 0.0.0.0 10akjsbdkasdx10.monster
 0.0.0.0 10akjsbkjdad199.monster
 0.0.0.0 10akjsndkasd10.monster
@@ -170,6 +171,7 @@
 0.0.0.0 10fbb07a4b0.se
 0.0.0.0 10huansyndication.com
 0.0.0.0 10hui.es
+0.0.0.0 10iopelamse.com
 0.0.0.0 10jhsvdjhfsdf10.monster
 0.0.0.0 10kajhbsjkd100.monster
 0.0.0.0 10kasbkda100.monster
@@ -11533,6 +11535,7 @@
 0.0.0.0 datamuni.org
 0.0.0.0 datangcmel.com
 0.0.0.0 dataperibadi.com
+0.0.0.0 dataprivacyofficer.in
 0.0.0.0 datapro500.com
 0.0.0.0 datascienceinitiative.eu
 0.0.0.0 datatechone.com
@@ -13049,6 +13052,7 @@
 0.0.0.0 draile.com
 0.0.0.0 drainlot.com
 0.0.0.0 drakejones.xyz
+0.0.0.0 drakelaw.ca
 0.0.0.0 drako2sha8de09.com
 0.0.0.0 dramasoloist.com
 0.0.0.0 dramechecker.tech
@@ -26584,6 +26588,7 @@
 0.0.0.0 mmjj88.com
 0.0.0.0 mmkwayys.com
 0.0.0.0 mmmkwhktalcvvpg.com
+0.0.0.0 mmmutajbpalv.com
 0.0.0.0 mmotraffic.com
 0.0.0.0 mmpcqstnkcelx.com
 0.0.0.0 mmshow.net
@@ -35471,6 +35476,7 @@
 0.0.0.0 ryigarpkwc.com
 0.0.0.0 rykjobs.xyz
 0.0.0.0 ryminos.com
+0.0.0.0 rympsxilkdqywd.com
 0.0.0.0 ryntmyhahy.com
 0.0.0.0 rysheatlengthani.com.ua
 0.0.0.0 rysheatlengthanl.xyz
@@ -35972,6 +35978,7 @@
 0.0.0.0 scnd-tr.com
 0.0.0.0 scnoxlxmblgsi.com
 0.0.0.0 scokrutdfaawmr.com
+0.0.0.0 scomtest.com
 0.0.0.0 sconvtrk.com
 0.0.0.0 scooby-dooby-offers.com
 0.0.0.0 scorchidentifiersauce.com
@@ -37830,6 +37837,7 @@
 0.0.0.0 souhugoa.com
 0.0.0.0 soulfashion.shop
 0.0.0.0 soulfuldelicacies.com
+0.0.0.0 soulsglovesacid.com
 0.0.0.0 soumyasacademy.com
 0.0.0.0 sound-data-science.org
 0.0.0.0 sounddelegate.com
@@ -39092,6 +39100,7 @@
 0.0.0.0 swwebblaw.com
 0.0.0.0 sx.aeolicholsom.com
 0.0.0.0 sx.sconcessorgho.com
+0.0.0.0 sxcbnqubygqekx.com
 0.0.0.0 sxcpt.org
 0.0.0.0 sxhyljz.com
 0.0.0.0 sxkjfroxta.com
@@ -45051,6 +45060,7 @@
 0.0.0.0 wefxsammsj.com
 0.0.0.0 wegetpaid.net
 0.0.0.0 wegotmedia.com
+0.0.0.0 wegotya.com.au
 0.0.0.0 wegrowcompany.com
 0.0.0.0 wegz.tech
 0.0.0.0 wehras.com
@@ -46248,6 +46258,7 @@
 0.0.0.0 www.3domainscom.com
 0.0.0.0 www.3dtops.com
 0.0.0.0 www.3hgavshdas33.monster
+0.0.0.0 www.3jahsjdasd3.monster
 0.0.0.0 www.3jhsbfsdf31.monster
 0.0.0.0 www.3jkaskerste1.com
 0.0.0.0 www.3jsbfusdf33.monster
@@ -52910,6 +52921,7 @@
 0.0.0.0 yatab.net
 0.0.0.0 yatdykmngdhjm.xyz
 0.0.0.0 yathi.xyz
+0.0.0.0 yatradham.in
 0.0.0.0 yaumii.com
 0.0.0.0 yauryqvecn.com
 0.0.0.0 yavli.com
