@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.098
 # Release: 098
-# Entries: 54,068
-# Updated: Sat, 08 Apr 23 18:08:33 +06
+# Entries: 54,070
+# Updated: Sat, 08 Apr 23 20:10:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6640,6 +6640,7 @@
 0.0.0.0 betfairpk.com
 0.0.0.0 betflippant.com
 0.0.0.0 betgorebysson.club
+0.0.0.0 betgrandfather.com
 0.0.0.0 bethelskneeler.website
 0.0.0.0 bethkis.us
 0.0.0.0 bethsrealtysolutions.com
@@ -47102,6 +47103,7 @@
 0.0.0.0 www.bestofmoneysurvey.top
 0.0.0.0 www.bestratedmealkits.com
 0.0.0.0 www.bestw1nners.com
+0.0.0.0 www.betgrandfather.com
 0.0.0.0 www.bett2you.net
 0.0.0.0 www.bett2you.org
 0.0.0.0 www.betterubet.com
