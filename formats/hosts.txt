@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.101
 # Release: 101
-# Entries: 54,809
-# Updated: Tue, 11 Apr 23 02:08:03 +06
+# Entries: 54,845
+# Updated: Tue, 11 Apr 23 04:07:54 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -37,6 +37,7 @@
 0.0.0.0 0080u.com
 0.0.0.0 00aaa2d81c1d174.com
 0.0.0.0 00b9d59aa8.2175cdb850.com
+0.0.0.0 0101264c3c.com
 0.0.0.0 01234movies.net
 0.0.0.0 0154222.com
 0.0.0.0 01ccd7d7e5.e255347009.com
@@ -68,6 +69,7 @@
 0.0.0.0 06-4ioio.com
 0.0.0.0 064999.com
 0.0.0.0 0661ee37d4.b12f4c5551.com
+0.0.0.0 0676el9lskux.top
 0.0.0.0 070d3dd4bf.49af7cee19.com
 0.0.0.0 0729ys.com
 0.0.0.0 0757n.com
@@ -90,6 +92,7 @@
 0.0.0.0 0957521491.com
 0.0.0.0 09954.com
 0.0.0.0 09b6a4142b.com
+0.0.0.0 09e723b254.com
 0.0.0.0 09ky.app
 0.0.0.0 0a2ccba5c3.f55f5b7e4b.com
 0.0.0.0 0a8d87mlbcac.top
@@ -353,6 +356,7 @@
 0.0.0.0 1ashjda11.monster
 0.0.0.0 1b1.asia
 0.0.0.0 1b1.company
+0.0.0.0 1b1.direct
 0.0.0.0 1b1.mobi
 0.0.0.0 1b1.uk
 0.0.0.0 1b14e0ee42d5e195c9aa1a2f5b42c710.com
@@ -4277,6 +4281,7 @@
 0.0.0.0 anosiabio.uk
 0.0.0.0 anotherconsult.com
 0.0.0.0 anotherdoinass1.com
+0.0.0.0 anotherplace.tech
 0.0.0.0 anpjcoapgd.com
 0.0.0.0 anpkhabar.com
 0.0.0.0 anpost-service-importfee.com
@@ -4674,6 +4679,7 @@
 0.0.0.0 arbkeutjopwbk.com
 0.0.0.0 arborfieldcross.co.uk
 0.0.0.0 arbourrenewal.com
+0.0.0.0 arbutterfreer.com
 0.0.0.0 arbwgqpnr.com
 0.0.0.0 arcade.live
 0.0.0.0 arcahtymtjikdd.com
@@ -8097,6 +8103,7 @@
 0.0.0.0 bungosslocken.digital
 0.0.0.0 bunintruder.com
 0.0.0.0 bunive.com
+0.0.0.0 bunkerfarm.net
 0.0.0.0 bunniadefeise.guru
 0.0.0.0 bunnimide.com
 0.0.0.0 bunnyhatz.com
@@ -9033,6 +9040,7 @@
 0.0.0.0 centralnervous.net
 0.0.0.0 centralnewz.com
 0.0.0.0 centralparkprugio.xyz
+0.0.0.0 centric3.dev
 0.0.0.0 centrinfusion.coffee
 0.0.0.0 centrm.cz
 0.0.0.0 centrogastronomicodelvalle.com
@@ -13353,6 +13361,7 @@
 0.0.0.0 dspsuper.com
 0.0.0.0 dspultra.com
 0.0.0.0 dsrfpune.com
+0.0.0.0 dsrjpcjgb.xyz
 0.0.0.0 dssdv.com
 0.0.0.0 dssott.com.www.sterenwifi.com
 0.0.0.0 dsstrk.com
@@ -13550,6 +13559,7 @@
 0.0.0.0 dxmjyxksvc.com
 0.0.0.0 dxstaham.com
 0.0.0.0 dxvjrccswnhsj.com
+0.0.0.0 dxvwlhqkomydev.xyz
 0.0.0.0 dxvxpqtmogegojk.com
 0.0.0.0 dxwnevgwce.top
 0.0.0.0 dxxcjydd.com
@@ -14066,6 +14076,7 @@
 0.0.0.0 egoizecapsule.website
 0.0.0.0 egoron.com
 0.0.0.0 egotizeoxgall.com
+0.0.0.0 egouages.site
 0.0.0.0 egoviator.com
 0.0.0.0 egoviator.net
 0.0.0.0 egpdbp6e.de
@@ -21018,6 +21029,7 @@
 0.0.0.0 impliedbusinessmencompletion.com
 0.0.0.0 implix.com
 0.0.0.0 impore.com
+0.0.0.0 importadinhos.top
 0.0.0.0 importancediscipline.com
 0.0.0.0 impossiblebird.com
 0.0.0.0 impregnablehunt.com
@@ -22254,6 +22266,7 @@
 0.0.0.0 jeerszitstoke.com
 0.0.0.0 jeeryzest.com
 0.0.0.0 jeeshapi.net
+0.0.0.0 jeetbet.store
 0.0.0.0 jeetbuzz.one
 0.0.0.0 jeetejio.net
 0.0.0.0 jeetyetmedia.com
@@ -27848,6 +27861,7 @@
 0.0.0.0 mytrackf73.com
 0.0.0.0 mytrends.me
 0.0.0.0 mytripforex.com
+0.0.0.0 mytruthis.art
 0.0.0.0 myurls.us
 0.0.0.0 myv3add.com
 0.0.0.0 mywebchat.app
@@ -30898,6 +30912,7 @@
 0.0.0.0 parcrescentimportantly.com
 0.0.0.0 pardedatl.com
 0.0.0.0 pardonsuccessionassassin.com
+0.0.0.0 parecyrclame.com
 0.0.0.0 parifytraily.com
 0.0.0.0 parikrama.org
 0.0.0.0 parimpiables.com
@@ -31005,6 +31020,7 @@
 0.0.0.0 passworddrunkenheating.com
 0.0.0.0 passwordscompound.com
 0.0.0.0 passwordslayoutvest.com
+0.0.0.0 passwordssaturatepebble.com
 0.0.0.0 pastabilitiesbg.com
 0.0.0.0 pastaesthetictracks.com
 0.0.0.0 pastagroinadmirer.com
@@ -31040,6 +31056,7 @@
 0.0.0.0 patoncemisgo.life
 0.0.0.0 patpizza.com
 0.0.0.0 patrickbp.store
+0.0.0.0 patrickcodens.life
 0.0.0.0 patriotapelles.com
 0.0.0.0 patriotblessings.us
 0.0.0.0 patriotinvestorlustre.com
@@ -31131,6 +31148,7 @@
 0.0.0.0 pblcpush.com
 0.0.0.0 pbqokjxln.com
 0.0.0.0 pbterra.com
+0.0.0.0 pbvfakenkssrjr.xyz
 0.0.0.0 pc-ads.com
 0.0.0.0 pc.upperched.com
 0.0.0.0 pc180101.com
@@ -31170,6 +31188,7 @@
 0.0.0.0 pdmtmribgaqctz.com
 0.0.0.0 pdn-1.com
 0.0.0.0 pdn-2.com
+0.0.0.0 pdn-3.com
 0.0.0.0 pdn-5.com
 0.0.0.0 pdopreroerw.com
 0.0.0.0 pdpdcnnjbg.top
@@ -32350,6 +32369,7 @@
 0.0.0.0 polyad.net
 0.0.0.0 polydarth.com
 0.0.0.0 polygone-wallet.expert
+0.0.0.0 polygonstake.space
 0.0.0.0 polypivulgars.com
 0.0.0.0 pomegranatedays.co.za
 0.0.0.0 pomegranatestaff.com
@@ -37515,6 +37535,7 @@
 0.0.0.0 sigiward-ger.com
 0.0.0.0 signal-analysis-systems.org
 0.0.0.0 signanalysissystems.com
+0.0.0.0 signaturebykalpatarus.info
 0.0.0.0 signaturecollectionbykallpataru.co
 0.0.0.0 signaturecollectionbykalpataru.info
 0.0.0.0 signaturecollectionbyklpataru.in
@@ -44090,6 +44111,7 @@
 0.0.0.0 valamanatamizhnadu.com
 0.0.0.0 valamovie.lol
 0.0.0.0 valdoouro.org
+0.0.0.0 valemedia.net
 0.0.0.0 valencevinyls.life
 0.0.0.0 valerainingexplain.com
 0.0.0.0 valetisolate.com
@@ -45622,6 +45644,7 @@
 0.0.0.0 webahli.tech
 0.0.0.0 webair.com
 0.0.0.0 webanalyzer.io
+0.0.0.0 webassembly.stream
 0.0.0.0 webatam.com
 0.0.0.0 webbsafe.online
 0.0.0.0 webcampromo.com
@@ -46020,6 +46043,7 @@
 0.0.0.0 whoisfreaks.org
 0.0.0.0 wholaums.xyz
 0.0.0.0 whole-win.pro
+0.0.0.0 wholeactualjournal.com
 0.0.0.0 wholeactualnewz.com
 0.0.0.0 wholeauraloin.com
 0.0.0.0 wholecommonposts.com
@@ -46066,6 +46090,7 @@
 0.0.0.0 whowhipi.net
 0.0.0.0 whpqvmaxr.xyz
 0.0.0.0 whsteroids.com
+0.0.0.0 whudursus.com
 0.0.0.0 whugesto.net
 0.0.0.0 whujyfali.com
 0.0.0.0 whukroal.net
@@ -46232,6 +46257,7 @@
 0.0.0.0 wintjaywolf.org
 0.0.0.0 wintoyouprizes.info
 0.0.0.0 wintryangelin.uno
+0.0.0.0 winzevrocht.com
 0.0.0.0 wip-themes.com
 0.0.0.0 wipedhypocrite.com
 0.0.0.0 wipeilluminationlocomotive.com
@@ -46391,6 +46417,7 @@
 0.0.0.0 woejh.com
 0.0.0.0 woerkedwith.top
 0.0.0.0 woffxxx.com
+0.0.0.0 wofulsensism.com
 0.0.0.0 wogepqouufeqitt.com
 0.0.0.0 wogglehydrae.com
 0.0.0.0 wogoggy.com
@@ -46566,6 +46593,7 @@
 0.0.0.0 worthless-theme.pro
 0.0.0.0 worthlessscowledexactly.com
 0.0.0.0 worthmill.com
+0.0.0.0 worthspontaneous.com
 0.0.0.0 worthwise.app
 0.0.0.0 worthycondimentburied.com
 0.0.0.0 worthylighteravert.com
@@ -51017,6 +51045,8 @@
 0.0.0.0 www.pkjabksd9.monster
 0.0.0.0 www.pkracv.com
 0.0.0.0 www.pl18286915.highcpmrevenuenetwork.com
+0.0.0.0 www.pl18427041.highcpmrevenuenetwork.com
+0.0.0.0 www.pl18824912.highrevenuegate.com
 0.0.0.0 www.placementsgh.net
 0.0.0.0 www.plainmarshyaltered.com
 0.0.0.0 www.plainscashmereperceive.com
@@ -53254,6 +53284,7 @@
 0.0.0.0 xkqdtqlmlhqek.com
 0.0.0.0 xkqmddcqsysmnc.com
 0.0.0.0 xkrqfuujwfpytv.top
+0.0.0.0 xksqb.com
 0.0.0.0 xkwdiewxwefqkn.com
 0.0.0.0 xkyqwmvokkucv.com
 0.0.0.0 xl-trk.com
@@ -53384,6 +53415,7 @@
 0.0.0.0 xmladserver.com
 0.0.0.0 xmlapiclickredirect.com
 0.0.0.0 xmlgrab.com
+0.0.0.0 xmlheartbiddotnet.monster
 0.0.0.0 xmllover.com
 0.0.0.0 xmlppcbuzz.com
 0.0.0.0 xmlrtb.com
@@ -54381,6 +54413,7 @@
 0.0.0.0 zaglushkaaa.com
 0.0.0.0 zagtertda.com
 0.0.0.0 zagvee.com
+0.0.0.0 zaicasoawoul.com
 0.0.0.0 zaid-khan.tech
 0.0.0.0 zakaheggment.com
 0.0.0.0 zakoo.net
@@ -54631,6 +54664,7 @@
 0.0.0.0 zirowbo.com
 0.0.0.0 zisboombah.net
 0.0.0.0 zitaptugo.com
+0.0.0.0 zitshagride.com
 0.0.0.0 zivohfmh.com
 0.0.0.0 ziwatek.com
 0.0.0.0 ziwyduke.xyz
@@ -54719,6 +54753,7 @@
 0.0.0.0 zouloafi.net
 0.0.0.0 zouneeto.net
 0.0.0.0 zoutubephaid.com
+0.0.0.0 zouzoosh.com
 0.0.0.0 zoxford.com
 0.0.0.0 zozolilla.com
 0.0.0.0 zpbhjatpnaovj.com
@@ -54809,6 +54844,7 @@
 0.0.0.0 zxcdn.com
 0.0.0.0 zxferraolloy.com
 0.0.0.0 zxjtzxjycsc108app.com
+0.0.0.0 zxr9gpxf7j.com
 0.0.0.0 zxxds.net
 0.0.0.0 zy16eoat1w.com
 0.0.0.0 zybsky.com
