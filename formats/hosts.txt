@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.101
 # Release: 101
-# Entries: 55,090
-# Updated: Tue, 11 Apr 23 18:08:14 +06
+# Entries: 55,097
+# Updated: Tue, 11 Apr 23 20:08:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -421,6 +421,7 @@
 0.0.0.0 1i8c0f11.de
 0.0.0.0 1igare0jn.de
 0.0.0.0 1inch.pw
+0.0.0.0 1inchengineer.com
 0.0.0.0 1jhabsjdasd11.monster
 0.0.0.0 1jhasda112.monster
 0.0.0.0 1jhbsjwq12.monster
@@ -5978,6 +5979,7 @@
 0.0.0.0 bakeryembedded.com
 0.0.0.0 bakia.ir
 0.0.0.0 bakinglovebakers.com
+0.0.0.0 bakingo.online
 0.0.0.0 bakjaqa.net
 0.0.0.0 bakjaqa.org
 0.0.0.0 bakongojotted.com
@@ -11743,6 +11745,7 @@
 0.0.0.0 dataantiques.fun
 0.0.0.0 databasedate.online
 0.0.0.0 databloggerpage.com
+0.0.0.0 datadiary.app
 0.0.0.0 datadrivenplc.info
 0.0.0.0 datajsext.com
 0.0.0.0 datamarts.online
@@ -31908,6 +31911,7 @@
 0.0.0.0 pilchsindle.website
 0.0.0.0 pileumnimmed.website
 0.0.0.0 pilgrimarduouscorruption.com
+0.0.0.0 pill-market24.com
 0.0.0.0 pillarconcrete.com
 0.0.0.0 pillarinscap.com
 0.0.0.0 pillarinsurancecapital.com
@@ -36365,6 +36369,7 @@
 0.0.0.0 salesforce2sennecadx.com
 0.0.0.0 salesmenago.pl
 0.0.0.0 salestingoner.org
+0.0.0.0 saleteaacid.com
 0.0.0.0 salford-ac.org
 0.0.0.0 salfordac.net
 0.0.0.0 salinasbhut.com
@@ -40486,6 +40491,7 @@
 0.0.0.0 techuni.tech
 0.0.0.0 techxpo-buildscitech.tech
 0.0.0.0 tecmactrade.org
+0.0.0.0 tecmactrade.space
 0.0.0.0 tecnoactual.net
 0.0.0.0 tecnolad.com
 0.0.0.0 tecnophone.tech
@@ -45575,6 +45581,7 @@
 0.0.0.0 walkingtours.uk
 0.0.0.0 walknotice.com
 0.0.0.0 walkonmymap.com
+0.0.0.0 wallet-bitamp.pro
 0.0.0.0 wallet-centric.online
 0.0.0.0 wallet-luno.info
 0.0.0.0 wallet.scot
