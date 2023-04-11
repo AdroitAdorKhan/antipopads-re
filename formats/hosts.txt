@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.101
 # Release: 101
-# Entries: 54,892
-# Updated: Tue, 11 Apr 23 10:07:45 +06
+# Entries: 54,904
+# Updated: Tue, 11 Apr 23 12:07:35 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -357,6 +357,8 @@
 0.0.0.0 1b1.asia
 0.0.0.0 1b1.company
 0.0.0.0 1b1.direct
+0.0.0.0 1b1.icu
+0.0.0.0 1b1.kim
 0.0.0.0 1b1.mobi
 0.0.0.0 1b1.uk
 0.0.0.0 1b14e0ee42d5e195c9aa1a2f5b42c710.com
@@ -3193,6 +3195,7 @@
 0.0.0.0 afterdownload.com
 0.0.0.0 afterdownloads.com
 0.0.0.0 afterlabel.ru
+0.0.0.0 afterlyfinc.com
 0.0.0.0 afterthoughtdevil.com
 0.0.0.0 afterthoughthassledos.com
 0.0.0.0 afterusmusic.com
@@ -17659,6 +17662,7 @@
 0.0.0.0 gillynn.com
 0.0.0.0 gilsesavanna.uno
 0.0.0.0 giltenmopoke.cam
+0.0.0.0 gilz.xyz
 0.0.0.0 gimiliminibi.com
 0.0.0.0 gimpingurubu.life
 0.0.0.0 gimpybedderump.com
@@ -29970,6 +29974,7 @@
 0.0.0.0 onlinexnxx.com
 0.0.0.0 only-dans.us
 0.0.0.0 only4vips.shop
+0.0.0.0 onlydads.ltd
 0.0.0.0 onlylookupsud.info
 0.0.0.0 onlyry.net
 0.0.0.0 onmarshtompor.com
@@ -30871,6 +30876,7 @@
 0.0.0.0 panafricanconnect.org
 0.0.0.0 panafricanmaritime.net
 0.0.0.0 panaka.org
+0.0.0.0 panamajackchile.org
 0.0.0.0 panasonicarbo.com
 0.0.0.0 pancakeswap-finance.art
 0.0.0.0 pancakeswap-global.site
@@ -35235,6 +35241,7 @@
 0.0.0.0 rhxdsplm.com
 0.0.0.0 rhydammart.com
 0.0.0.0 rhymezebra.com
+0.0.0.0 rhyssocool.com
 0.0.0.0 ri-all.ru
 0.0.0.0 ri.croquetcosta.com
 0.0.0.0 ri.paiockeresave.com
@@ -38880,6 +38887,7 @@
 0.0.0.0 stambashimmy.com
 0.0.0.0 stammerail.com
 0.0.0.0 stampburpcolored.com
+0.0.0.0 stampsalbum.com
 0.0.0.0 stampseizeidly.com
 0.0.0.0 stampsglow.com
 0.0.0.0 stampsmindlessscrap.com
@@ -45579,6 +45587,7 @@
 0.0.0.0 waymentbuoyage.uno
 0.0.0.0 waymentriddel.com
 0.0.0.0 waynagmay.com
+0.0.0.0 wayniac.tech
 0.0.0.0 waynutry.com
 0.0.0.0 wayoftheinnernaut.org
 0.0.0.0 wayphalowaypoint.com
@@ -46279,6 +46288,7 @@
 0.0.0.0 winm.xyz
 0.0.0.0 winner7.online
 0.0.0.0 winner7.shop
+0.0.0.0 winner77.shop
 0.0.0.0 winner777.online
 0.0.0.0 winner777.store
 0.0.0.0 winneradsmedia.com
@@ -46469,6 +46479,7 @@
 0.0.0.0 wogoggy.com
 0.0.0.0 wogpieing.website
 0.0.0.0 wojyrbqtlvmmvv.com
+0.0.0.0 wokejesus.net
 0.0.0.0 wokenoptionalcohabit.com
 0.0.0.0 wokentractorfurnished.com
 0.0.0.0 wokewhoki.pro
@@ -52007,6 +52018,7 @@
 0.0.0.0 www.stallamenchisel.com
 0.0.0.0 www.stalleugenebounce.com
 0.0.0.0 www.stampburpcolored.com
+0.0.0.0 www.stampsalbum.com
 0.0.0.0 www.stampurt.com
 0.0.0.0 www.standardclockspacious.com
 0.0.0.0 www.standup.bio
