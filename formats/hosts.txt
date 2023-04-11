@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.101
 # Release: 101
-# Entries: 54,845
-# Updated: Tue, 11 Apr 23 04:07:54 +06
+# Entries: 54,859
+# Updated: Tue, 11 Apr 23 06:16:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5446,6 +5446,7 @@
 0.0.0.0 auteboon.net
 0.0.0.0 auth-go-oniine.com
 0.0.0.0 auth-go-online.com
+0.0.0.0 authedmine.eu
 0.0.0.0 authenticautosales.com
 0.0.0.0 authookroop.com
 0.0.0.0 authordress.com
@@ -6236,6 +6237,7 @@
 0.0.0.0 baywhgdimomx.com
 0.0.0.0 baywoodkbps.space
 0.0.0.0 bazamodov.ru
+0.0.0.0 bazarka.store
 0.0.0.0 bazarrepublic.org
 0.0.0.0 bazed.online
 0.0.0.0 baztab.education
@@ -9490,6 +9492,7 @@
 0.0.0.0 chsrkred.com
 0.0.0.0 chtntr.com
 0.0.0.0 chtyapulmcxmbt.com
+0.0.0.0 chuangshiji.space
 0.0.0.0 chuangyi1.com
 0.0.0.0 chuankunkangjian.com
 0.0.0.0 chuary.com
@@ -11148,6 +11151,7 @@
 0.0.0.0 cryparena.org
 0.0.0.0 cryptaloot.pro
 0.0.0.0 crypto-4-ukraine.com
+0.0.0.0 crypto-change.biz
 0.0.0.0 crypto-payer.one
 0.0.0.0 crypto24.gold
 0.0.0.0 crypto2x.io
@@ -15791,6 +15795,8 @@
 0.0.0.0 ferrarisale.online
 0.0.0.0 ferritediener.tech
 0.0.0.0 ferromonksteel.com
+0.0.0.0 ferstyfert11.shop
+0.0.0.0 ferstyfert16.shop
 0.0.0.0 ferstyfert7.shop
 0.0.0.0 fertilecrameaster.com
 0.0.0.0 fertilisedlinealdeceived.com
@@ -18055,6 +18061,7 @@
 0.0.0.0 godrej-elevate.net
 0.0.0.0 godrej-elevatebangalore.in
 0.0.0.0 godrej-elevatewhitefield.in
+0.0.0.0 godrej-fivegardens-matunga.com
 0.0.0.0 godrej-grandeur-bangalore.in
 0.0.0.0 godrej-grandeur-sarjapur.com
 0.0.0.0 godrej-grandeur-sarjapur.in
@@ -24035,6 +24042,7 @@
 0.0.0.0 lafastnews.com
 0.0.0.0 lafud.top
 0.0.0.0 lagacy-wow.com
+0.0.0.0 laganiinfo.com
 0.0.0.0 laggerozonid.website
 0.0.0.0 lagimhpucvtobl.top
 0.0.0.0 lagunamadre.org
@@ -29383,6 +29391,7 @@
 0.0.0.0 obyjmawsrnbbldn.com
 0.0.0.0 obynefeigvk.com
 0.0.0.0 oc2tdxocb3ae0r.com
+0.0.0.0 ocake.online
 0.0.0.0 ocakesind.com
 0.0.0.0 ocalatreeoflife.com
 0.0.0.0 ocaleia.com
@@ -30248,6 +30257,7 @@
 0.0.0.0 ormationwi.xyz
 0.0.0.0 orndnuejstqwxpc.com
 0.0.0.0 ornery-animal.pro
+0.0.0.0 oro-lko-constella.com
 0.0.0.0 oro-lkoconstella.com
 0.0.0.0 oroconstellalucknow.com
 0.0.0.0 ororbonbon.co.kr
@@ -31071,6 +31081,7 @@
 0.0.0.0 pauhoano.com
 0.0.0.0 paulaskitchens.com
 0.0.0.0 paulflashlight.com
+0.0.0.0 paulinruntime.digital
 0.0.0.0 pauloguedes.org
 0.0.0.0 paulty.com
 0.0.0.0 paumoogo.net
@@ -34476,6 +34487,7 @@
 0.0.0.0 rearms.ruinroture.com
 0.0.0.0 rearrangeapostrophemargarita.com
 0.0.0.0 reasonablelandmark.com
+0.0.0.0 reasonableoakdejection.com
 0.0.0.0 reasonbar.com
 0.0.0.0 reasoningarcherassuage.com
 0.0.0.0 reasus.com
@@ -39170,6 +39182,7 @@
 0.0.0.0 streamyourvid.com
 0.0.0.0 streechapon.website
 0.0.0.0 streetcoddiffident.com
+0.0.0.0 streetfairs.company
 0.0.0.0 stremanp.com
 0.0.0.0 strenuousside.com
 0.0.0.0 strenuoustarget.com
@@ -40471,6 +40484,7 @@
 0.0.0.0 test943.online
 0.0.0.0 testamentstrand.com
 0.0.0.0 testamenttakeoutkill.com
+0.0.0.0 testbot.tech
 0.0.0.0 testcombatverge.com
 0.0.0.0 testenvrac.com
 0.0.0.0 testhwabaoleasing.com
