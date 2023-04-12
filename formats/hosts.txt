@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.102
 # Release: 102
-# Entries: 55,250
-# Updated: Wed, 12 Apr 23 12:08:30 +06
+# Entries: 55,274
+# Updated: Wed, 12 Apr 23 14:15:05 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -361,6 +361,7 @@
 0.0.0.0 1b1.icu
 0.0.0.0 1b1.kim
 0.0.0.0 1b1.mobi
+0.0.0.0 1b1.tel
 0.0.0.0 1b1.uk
 0.0.0.0 1b14e0ee42d5e195c9aa1a2f5b42c710.com
 0.0.0.0 1bc1daf1a7.com
@@ -3782,6 +3783,7 @@
 0.0.0.0 allactualjournal.com
 0.0.0.0 allactualstories.com
 0.0.0.0 allahbaksh.in
+0.0.0.0 allainz.it
 0.0.0.0 allamericanbuilt.com
 0.0.0.0 allanimemovies.com
 0.0.0.0 allaserve.com
@@ -7314,6 +7316,8 @@
 0.0.0.0 bloodyfrighten.com
 0.0.0.0 blooks.info
 0.0.0.0 bloomfragrances.store
+0.0.0.0 bloomon3rdla.com
+0.0.0.0 bloomonthirdla.com
 0.0.0.0 bloomyarseno.com
 0.0.0.0 blopav.it
 0.0.0.0 blotscelt.uno
@@ -11721,6 +11725,7 @@
 0.0.0.0 daohoangsa.life
 0.0.0.0 daohoangsa.live
 0.0.0.0 daohoangsa.org
+0.0.0.0 daohoangsa.site
 0.0.0.0 daohoangsa.space
 0.0.0.0 daoist-taichi.com
 0.0.0.0 daotruongsa.info
@@ -13418,6 +13423,7 @@
 0.0.0.0 dropnow.tech
 0.0.0.0 droppalpateraft.com
 0.0.0.0 droppeddistrust.com
+0.0.0.0 droppingbombs.net
 0.0.0.0 dropshippingbetter.com
 0.0.0.0 drovernomine.com
 0.0.0.0 drowefqxwgvvgo.com
@@ -13897,6 +13903,7 @@
 0.0.0.0 ebodyfairesra.xyz
 0.0.0.0 ebonyrecognize.com
 0.0.0.0 ebookspaniardglossary.com
+0.0.0.0 ebooksstudygroup.org
 0.0.0.0 ebpxacxob.com
 0.0.0.0 ebqabavhnlplbry.com
 0.0.0.0 ebqjosyqdxcvt.com
@@ -16708,6 +16715,7 @@
 0.0.0.0 foundchoked.com
 0.0.0.0 foundfroshelves.com
 0.0.0.0 fouptauk.com
+0.0.0.0 fourclip.com
 0.0.0.0 fourhorsesgames.net
 0.0.0.0 fourteendin.com
 0.0.0.0 fourwhenstatistics.com
@@ -21937,6 +21945,7 @@
 0.0.0.0 isdlvtgikrpw.com
 0.0.0.0 isdtiedu.com
 0.0.0.0 isftdmoj.com
+0.0.0.0 ishanvi.shop
 0.0.0.0 ishedtotigai.info
 0.0.0.0 ishekinah.in
 0.0.0.0 isheme.com
@@ -22530,6 +22539,7 @@
 0.0.0.0 jg3i17759nd0nhh9q53zpy.com
 0.0.0.0 jgamjkwsgn.com
 0.0.0.0 jgevncmrhewpf.xyz
+0.0.0.0 jggroupindia.com
 0.0.0.0 jghsvdhasd2.monster
 0.0.0.0 jgmoa30.com
 0.0.0.0 jgmudyjal.com
@@ -22576,6 +22586,7 @@
 0.0.0.0 jigsawhybrid.com
 0.0.0.0 jigsawthirsty.com
 0.0.0.0 jigurlatpfyjlk.com
+0.0.0.0 jihadi.tech
 0.0.0.0 jijibla.net
 0.0.0.0 jikafax.top
 0.0.0.0 jikicotho.pro
@@ -22661,6 +22672,7 @@
 0.0.0.0 jlywxigersrlgcw.top
 0.0.0.0 jmeaggjimqa.com
 0.0.0.0 jmeanzkixok.com
+0.0.0.0 jmjewellerypvtltd.com
 0.0.0.0 jmnlucgbrwmrm.com
 0.0.0.0 jmoytujxp.info
 0.0.0.0 jmpmedia.club
@@ -25382,6 +25394,7 @@
 0.0.0.0 lormeryacarari.website
 0.0.0.0 lorsreatas.guru
 0.0.0.0 lorybnfh.com
+0.0.0.0 loscuentosdejulieta.life
 0.0.0.0 loshrhaphae.com
 0.0.0.0 losingfoundation.com
 0.0.0.0 losingoldfry.com
@@ -25610,6 +25623,7 @@
 0.0.0.0 lumeritix.com
 0.0.0.0 luminosoocchio.com
 0.0.0.0 luminousharmony.com
+0.0.0.0 luminxglam.com
 0.0.0.0 lumosoffgrid.com
 0.0.0.0 lumpylumber.com
 0.0.0.0 lumxts.com
@@ -27159,6 +27173,7 @@
 0.0.0.0 mlmyobhn.com
 0.0.0.0 mlnadvertising.com
 0.0.0.0 mlopezdaneri.guru
+0.0.0.0 mlopezdaneri.org
 0.0.0.0 mlslawmo.com
 0.0.0.0 mlsys.xyz
 0.0.0.0 mlu.in
@@ -27917,6 +27932,7 @@
 0.0.0.0 mybestdc.com
 0.0.0.0 mybestmv.com
 0.0.0.0 mybestnewz.com
+0.0.0.0 mybestsdp.online
 0.0.0.0 mybetterck.com
 0.0.0.0 mybetterdl.com
 0.0.0.0 mybettermb.com
@@ -30952,6 +30968,7 @@
 0.0.0.0 pacifyrespirator.com
 0.0.0.0 packbank.top
 0.0.0.0 packersmoversinkolkata.com
+0.0.0.0 packeryflats.com
 0.0.0.0 packetbye.com
 0.0.0.0 packethierarchy.com
 0.0.0.0 pacoaniy.net
@@ -33853,6 +33870,7 @@
 0.0.0.0 pvykihatcb.com
 0.0.0.0 pwbmdalngizhz.com
 0.0.0.0 pwbvoofuoa.top
+0.0.0.0 pwcca.net
 0.0.0.0 pweaatek.com
 0.0.0.0 pweocgzutri.com
 0.0.0.0 pweokdovwwu.com
@@ -36954,6 +36972,7 @@
 0.0.0.0 secure-dw.ru
 0.0.0.0 secure-info.co.uk
 0.0.0.0 secure-plus-tata-play.co.in
+0.0.0.0 secure-plus-tata-play.info
 0.0.0.0 secure-plus-tata-play.live
 0.0.0.0 secure-plus-tata-play.net.in
 0.0.0.0 secure-plus-tata-play.org
@@ -37548,6 +37567,7 @@
 0.0.0.0 shelf2shelf.com
 0.0.0.0 shelfdeparture.com
 0.0.0.0 shelterchildrenshome.com
+0.0.0.0 sheltermuttsnfriends.org
 0.0.0.0 shelvesandthings.com
 0.0.0.0 shelvesdeserve.com
 0.0.0.0 shelvesendorsebloom.com
@@ -38978,6 +38998,7 @@
 0.0.0.0 sptest13.xyz
 0.0.0.0 spuezain.com
 0.0.0.0 spuggysorbol.website
+0.0.0.0 spun.wtf
 0.0.0.0 spurnafilms.com
 0.0.0.0 spurproteinopaque.com
 0.0.0.0 sputil.com
@@ -43378,6 +43399,7 @@
 0.0.0.0 ubermovies.online
 0.0.0.0 uberphotos.ca
 0.0.0.0 ubetterubet.com
+0.0.0.0 ubiquitocracy.net
 0.0.0.0 ubish.com
 0.0.0.0 ubjectsandie.biz
 0.0.0.0 ubm4dmasuk.com
@@ -44645,6 +44667,7 @@
 0.0.0.0 vecturequotes.com
 0.0.0.0 vedanjalicosmictrust.org
 0.0.0.0 vedantcool.tech
+0.0.0.0 vedantik.com
 0.0.0.0 vedantjainprojects.tech
 0.0.0.0 vedh-acting-academy.com
 0.0.0.0 vedhactingacademy.com
@@ -47735,6 +47758,7 @@
 0.0.0.0 www.alihutan.com
 0.0.0.0 www.aljazeera.asia
 0.0.0.0 www.allaboutcat.org
+0.0.0.0 www.allainz.it
 0.0.0.0 www.allanimemovies.com
 0.0.0.0 www.allbooking.online
 0.0.0.0 www.alleviatepracticableaddicted.com
