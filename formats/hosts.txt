@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.102
 # Release: 102
-# Entries: 55,229
-# Updated: Wed, 12 Apr 23 08:16:58 +06
+# Entries: 55,238
+# Updated: Wed, 12 Apr 23 10:12:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1823,6 +1823,7 @@
 0.0.0.0 991.re
 0.0.0.0 9924c4cf5e.com
 0.0.0.0 996.energy
+0.0.0.0 996.fish
 0.0.0.0 996.works
 0.0.0.0 9996777888.com
 0.0.0.0 99968tz.com
@@ -4169,6 +4170,7 @@
 0.0.0.0 analysecrappy.com
 0.0.0.0 analytics-google.info
 0.0.0.0 anamaembush.com
+0.0.0.0 anandaconsultancyservices.in
 0.0.0.0 anandanudish.com
 0.0.0.0 anandsathiyaseelan.org
 0.0.0.0 anansao2ay8yap09.com
@@ -13859,6 +13861,7 @@
 0.0.0.0 easytech.care
 0.0.0.0 easytees24.com
 0.0.0.0 easyvids.info
+0.0.0.0 easywebindia.online
 0.0.0.0 eatermatter.com
 0.0.0.0 eatinerhitles.xyz
 0.0.0.0 eationslieem.xyz
@@ -15907,6 +15910,7 @@
 0.0.0.0 ferritediener.tech
 0.0.0.0 ferromonksteel.com
 0.0.0.0 ferstyfert11.shop
+0.0.0.0 ferstyfert13.shop
 0.0.0.0 ferstyfert16.shop
 0.0.0.0 ferstyfert17.shop
 0.0.0.0 ferstyfert3.shop
@@ -16229,6 +16233,7 @@
 0.0.0.0 fishermanslush.com
 0.0.0.0 fishinspire.com
 0.0.0.0 fishkekcamp.com
+0.0.0.0 fishpac.co.uk
 0.0.0.0 fishpassportvocational.com
 0.0.0.0 fishyscalpelweight.com
 0.0.0.0 fissay.com
@@ -27147,6 +27152,7 @@
 0.0.0.0 mlmixpqwivsxftw.xyz
 0.0.0.0 mlmyobhn.com
 0.0.0.0 mlnadvertising.com
+0.0.0.0 mlopezdaneri.guru
 0.0.0.0 mlslawmo.com
 0.0.0.0 mlsys.xyz
 0.0.0.0 mlu.in
@@ -27300,6 +27306,7 @@
 0.0.0.0 mogenzc.com
 0.0.0.0 mogno.us
 0.0.0.0 mogointeractive.com
+0.0.0.0 mohammedahalhazeem.pro
 0.0.0.0 mohitdobhal.com
 0.0.0.0 mohnfcacnkbe.com
 0.0.0.0 mohosoft.com
@@ -33219,6 +33226,7 @@
 0.0.0.0 projectagora.tech
 0.0.0.0 projectagoralibs.com
 0.0.0.0 projectagoratech.com
+0.0.0.0 projectcipher.tech
 0.0.0.0 projectdaytrader.tech
 0.0.0.0 projectefy.com
 0.0.0.0 projectnamaah.in
@@ -46574,6 +46582,7 @@
 0.0.0.0 winner777.online
 0.0.0.0 winner777.store
 0.0.0.0 winneradsmedia.com
+0.0.0.0 winnerbet.tech
 0.0.0.0 winnersday.net
 0.0.0.0 winnersluck.net
 0.0.0.0 winnersofvouchers.com
