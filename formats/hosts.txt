@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.102
 # Release: 102
-# Entries: 55,238
-# Updated: Wed, 12 Apr 23 10:12:30 +06
+# Entries: 55,250
+# Updated: Wed, 12 Apr 23 12:08:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2416,6 +2416,7 @@
 0.0.0.0 activeplex.us
 0.0.0.0 activitytonic.com
 0.0.0.0 actorartsacademy.com
+0.0.0.0 actormagnetic.com
 0.0.0.0 actratoronto.net
 0.0.0.0 actratoronto.org
 0.0.0.0 actressact.com
@@ -7845,6 +7846,7 @@
 0.0.0.0 breezereekprosecute.com
 0.0.0.0 breitfeldstrasse34.ch
 0.0.0.0 brek.my.id
+0.0.0.0 brendanmcbride.tech
 0.0.0.0 brendaspalenza.tech
 0.0.0.0 brepas.com
 0.0.0.0 brereairsome.com
@@ -10010,6 +10012,7 @@
 0.0.0.0 cloudcdn.ml
 0.0.0.0 cloudcnfare.com
 0.0.0.0 cloudcreosol.com
+0.0.0.0 cloudcrib.live
 0.0.0.0 clouddecrease.com
 0.0.0.0 cloudemr.app
 0.0.0.0 cloudfinopts.com
@@ -15914,6 +15917,7 @@
 0.0.0.0 ferstyfert16.shop
 0.0.0.0 ferstyfert17.shop
 0.0.0.0 ferstyfert3.shop
+0.0.0.0 ferstyfert6.shop
 0.0.0.0 ferstyfert7.shop
 0.0.0.0 fertilecrameaster.com
 0.0.0.0 fertilisedlinealdeceived.com
@@ -22545,6 +22549,7 @@
 0.0.0.0 jhfvuawpyymykh.com
 0.0.0.0 jhnmqpyvfws.com
 0.0.0.0 jhqdtwwmvmc.com
+0.0.0.0 jhs.scot
 0.0.0.0 jhsfwutqvnf.xyz
 0.0.0.0 jhsvdjfsdf3.monster
 0.0.0.0 jhwye.com
@@ -23430,6 +23435,7 @@
 0.0.0.0 ketenescupules.guru
 0.0.0.0 keteninfulae.com
 0.0.0.0 keterrehepren.xyz
+0.0.0.0 ketioas.tech
 0.0.0.0 ketobeparto.xyz
 0.0.0.0 ketodis.com
 0.0.0.0 ketone-bhb-ba.com
@@ -32795,6 +32801,7 @@
 0.0.0.0 postcanadadelivery.com
 0.0.0.0 postcards-from.co.uk
 0.0.0.0 posti-paketti-fi-net.in
+0.0.0.0 posti-palvelu-fi.net
 0.0.0.0 postinffsu.com
 0.0.0.0 postlnk.com
 0.0.0.0 postponeacademic.com
@@ -34427,6 +34434,7 @@
 0.0.0.0 ragapa.com
 0.0.0.0 ragersville.online
 0.0.0.0 raggedselsyn.com
+0.0.0.0 raginikamble.xyz
 0.0.0.0 raglassofrum.cc
 0.0.0.0 raglogripsa.com
 0.0.0.0 ragsfrynotary.com
@@ -36368,6 +36376,7 @@
 0.0.0.0 saelxorlb.com
 0.0.0.0 saemmvhnn.xyz
 0.0.0.0 saeoacademico.com
+0.0.0.0 safamoon.space
 0.0.0.0 safari.scot
 0.0.0.0 safarisomalilandtour.com
 0.0.0.0 safarlysins.com
@@ -42352,6 +42361,7 @@
 0.0.0.0 tradeforexlikeaboss.co.uk
 0.0.0.0 tradeinbox.uk
 0.0.0.0 tradeinvesthub.com
+0.0.0.0 tradeinxr.com
 0.0.0.0 tradekalshi.com
 0.0.0.0 tradeking.uk
 0.0.0.0 trademarkanz.com
@@ -53570,6 +53580,7 @@
 0.0.0.0 xhhrpgnctcx.com
 0.0.0.0 xhlzokzxoxykxf.com
 0.0.0.0 xhofficiai.com
+0.0.0.0 xhqszjw.cn
 0.0.0.0 xhrqyqucvmvfj.top
 0.0.0.0 xhskypdbrl.xyz
 0.0.0.0 xhtlofartoxvnct.com
@@ -54084,6 +54095,7 @@
 0.0.0.0 yafmufpgbcr.xyz
 0.0.0.0 yafsyd.com
 0.0.0.0 yafxrwoclkcbu.com
+0.0.0.0 yaganatural.com
 0.0.0.0 yagoodgirlfriend.com
 0.0.0.0 yahama.us
 0.0.0.0 yahblemable.com
