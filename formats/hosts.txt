@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.102
 # Release: 102
-# Entries: 55,364
-# Updated: Wed, 12 Apr 23 20:11:33 +06
+# Entries: 55,382
+# Updated: Wed, 12 Apr 23 22:09:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1143,6 +1143,7 @@
 0.0.0.0 4wnetwork.com
 0.0.0.0 4yaartech.com
 0.0.0.0 4you.live
+0.0.0.0 5-gardens-matunga.com
 0.0.0.0 5-internads-7.com
 0.0.0.0 5-n-appmobile.com
 0.0.0.0 500784.com
@@ -1518,6 +1519,7 @@
 0.0.0.0 769372a0a8.4073284684.com
 0.0.0.0 76a7doiet256.com
 0.0.0.0 76df5972d5.479457698a.com
+0.0.0.0 76ky.app
 0.0.0.0 770088.comwww.88896.comwww.622722.comwww.601122.com
 0.0.0.0 7765.in
 0.0.0.0 77667669052.click
@@ -7379,6 +7381,7 @@
 0.0.0.0 bluestacksap.website
 0.0.0.0 bluestackstop.website
 0.0.0.0 blueswordksh.com
+0.0.0.0 bluetero.online
 0.0.0.0 bluetero.space
 0.0.0.0 bluewaterdelites.us
 0.0.0.0 bluishgeologicallimitless.com
@@ -7392,6 +7395,8 @@
 0.0.0.0 blushrepublicwedding.com
 0.0.0.0 blusterflintbig.com
 0.0.0.0 blutero.net
+0.0.0.0 blutero.online
+0.0.0.0 blutero.space
 0.0.0.0 blyykworahnfeq.xyz
 0.0.0.0 blzz.xyz
 0.0.0.0 bm.unbroidsubtend.com
@@ -9067,6 +9072,7 @@
 0.0.0.0 celebritaitaliane.it
 0.0.0.0 celebritybulk.com
 0.0.0.0 celebsreflect.com
+0.0.0.0 celejorindia.com
 0.0.0.0 celejoronline.com
 0.0.0.0 celeph.com
 0.0.0.0 celeritascdn.com
@@ -10801,6 +10807,7 @@
 0.0.0.0 cooperhaus.us
 0.0.0.0 cooperhausk9.us
 0.0.0.0 coopwinate.org
+0.0.0.0 coopwination.org
 0.0.0.0 coordinatedcub.com
 0.0.0.0 coostujina.com
 0.0.0.0 coostuni.com
@@ -19203,6 +19210,7 @@
 0.0.0.0 halfhourholidays.co.uk
 0.0.0.0 halfmoonsights.com
 0.0.0.0 halfpriceozarks.com
+0.0.0.0 halfwaykrooksclothing.store
 0.0.0.0 halfwayoverreact.com
 0.0.0.0 halidspilau.guru
 0.0.0.0 halileo.com
@@ -21682,6 +21690,7 @@
 0.0.0.0 intentionallylettuceponder.com
 0.0.0.0 intentionsplacingextraordinary.com
 0.0.0.0 intentsuntune.casa
+0.0.0.0 inter-activetrading.net
 0.0.0.0 inter1ads.com
 0.0.0.0 interac-transferid.com
 0.0.0.0 interaccss.com
@@ -24916,6 +24925,7 @@
 0.0.0.0 lifearchaicwhipped.com
 0.0.0.0 lifeasacoder.in
 0.0.0.0 lifeboatlegalalleviate.com
+0.0.0.0 lifeguards.nyc
 0.0.0.0 lifeimpressions.net
 0.0.0.0 lifeintheendzone.com
 0.0.0.0 lifelinecancerhospital.com
@@ -31701,6 +31711,7 @@
 0.0.0.0 periodonciaperu.com
 0.0.0.0 perishcraft.com
 0.0.0.0 perjkhmjwlr.com
+0.0.0.0 perjurybirthday.com
 0.0.0.0 perjxgwwyyxhfd.com
 0.0.0.0 perkingpurpled.cam
 0.0.0.0 perkyexcitedlyscenario.com
@@ -32879,6 +32890,7 @@
 0.0.0.0 postback.report
 0.0.0.0 postcanadadelivery.com
 0.0.0.0 postcards-from.co.uk
+0.0.0.0 postfastforward.com
 0.0.0.0 posti-paketti-fi-net.in
 0.0.0.0 posti-palvelu-fi.net
 0.0.0.0 postinffsu.com
@@ -35602,6 +35614,7 @@
 0.0.0.0 ridgetwitenthusiastic.com
 0.0.0.0 ridhoidris.tech
 0.0.0.0 ridiculousatta.xyz
+0.0.0.0 ridinggear.xyz
 0.0.0.0 ridingintractable.com
 0.0.0.0 ridseechiph.com
 0.0.0.0 ridsilry.net
@@ -41274,6 +41287,7 @@
 0.0.0.0 thenaturemama.com
 0.0.0.0 thenceafeard.com
 0.0.0.0 thenceextremeeyewitness.com
+0.0.0.0 thenewagephilosopher.org
 0.0.0.0 thenewagephilosopher.store
 0.0.0.0 thenewgorgeous.com
 0.0.0.0 thenewmanteam.homes
@@ -48313,12 +48327,16 @@
 0.0.0.0 www.blouson.xyz
 0.0.0.0 www.blueberrydanelarger.com
 0.0.0.0 www.blueleaf.users.aulsidakr.com
+0.0.0.0 www.bluetero.online
+0.0.0.0 www.bluetero.space
 0.0.0.0 www.bluishgeologicallimitless.com
 0.0.0.0 www.blukard.app
 0.0.0.0 www.blushmossy.com
 0.0.0.0 www.blushrepublicwedding.com
 0.0.0.0 www.blusterflintbig.com
 0.0.0.0 www.blutero.net
+0.0.0.0 www.blutero.online
+0.0.0.0 www.blutero.space
 0.0.0.0 www.bniofdb1413.com
 0.0.0.0 www.bnserving.com
 0.0.0.0 www.bnumbers.com
