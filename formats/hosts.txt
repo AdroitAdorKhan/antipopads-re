@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.102
 # Release: 102
-# Entries: 55,208
-# Updated: Wed, 12 Apr 23 04:07:55 +06
+# Entries: 55,222
+# Updated: Wed, 12 Apr 23 06:41:04 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9366,6 +9366,7 @@
 0.0.0.0 cheetieaha.com
 0.0.0.0 cheewhoa.net
 0.0.0.0 chefishoani.com
+0.0.0.0 cheikhoulkhadim.org
 0.0.0.0 chekajie.com
 0.0.0.0 chekhov-fests.com
 0.0.0.0 chekkoo.com
@@ -10167,6 +10168,7 @@
 0.0.0.0 codegate.co.in
 0.0.0.0 codeholt.com
 0.0.0.0 codeinssomdel.uno
+0.0.0.0 codematrixsolutions.com
 0.0.0.0 codencouragehumid.com
 0.0.0.0 codeonclick.com
 0.0.0.0 codeontario.ca
@@ -11706,6 +11708,7 @@
 0.0.0.0 danzhallfes.com
 0.0.0.0 danzigtitoism.guru
 0.0.0.0 daocatba.info
+0.0.0.0 daocatba.space
 0.0.0.0 daohoangsa.info
 0.0.0.0 daohoangsa.life
 0.0.0.0 daohoangsa.live
@@ -14567,6 +14570,7 @@
 0.0.0.0 energeis.co.uk
 0.0.0.0 energeticdryeyebrows.com
 0.0.0.0 energeticholder.com
+0.0.0.0 energieprofis.online
 0.0.0.0 energycodearchitects.net
 0.0.0.0 energyefficient.app
 0.0.0.0 energynfts.io
@@ -16030,6 +16034,7 @@
 0.0.0.0 fiinnancesur.com
 0.0.0.0 fijekone.com
 0.0.0.0 fijojwylfxnlvah.com
+0.0.0.0 fikriramaaulia.tech
 0.0.0.0 filchimpossible.com
 0.0.0.0 file.cr
 0.0.0.0 filegrab.xyz
@@ -18009,6 +18014,7 @@
 0.0.0.0 gloushekra.com
 0.0.0.0 gloustoa.net
 0.0.0.0 glouxaih.net
+0.0.0.0 glover.foundation
 0.0.0.0 glowdot.com
 0.0.0.0 glowingboardbrite.com
 0.0.0.0 glowingcupid.com
@@ -18134,6 +18140,7 @@
 0.0.0.0 goaleedeary.com
 0.0.0.0 goalnetzero.us
 0.0.0.0 goalpsy.com
+0.0.0.0 goas.co.in
 0.0.0.0 goashais.com
 0.0.0.0 goatassociateraces.com
 0.0.0.0 goatkicks.shop
@@ -26368,6 +26375,7 @@
 0.0.0.0 maxnaxnyfwn.com
 0.0.0.0 maxofzavdaft.com
 0.0.0.0 maxonclick.com
+0.0.0.0 maxopeditz.tech
 0.0.0.0 maxprint.pt
 0.0.0.0 maxprofitcontrol.com
 0.0.0.0 maxserving.com
@@ -27801,6 +27809,7 @@
 0.0.0.0 musk-give.com
 0.0.0.0 muskaanmakeup.com
 0.0.0.0 muslimberbagi.xyz
+0.0.0.0 muslimforum.net
 0.0.0.0 musmentportal.com
 0.0.0.0 musmrebitfic.com
 0.0.0.0 muspecs.net
@@ -29619,6 +29628,7 @@
 0.0.0.0 octobeast.com
 0.0.0.0 octoberanger.com
 0.0.0.0 octogonehb.com
+0.0.0.0 octosoho.com
 0.0.0.0 octrib.com
 0.0.0.0 octrue.com
 0.0.0.0 ocuflqfectwaaj.top
@@ -31134,6 +31144,7 @@
 0.0.0.0 parishleft.com
 0.0.0.0 parisjeroleinpg.com
 0.0.0.0 parjai.com
+0.0.0.0 parjai.org
 0.0.0.0 parjai.store
 0.0.0.0 parkautomaticallyinfallible.com
 0.0.0.0 parkcircularpearl.com
@@ -36429,6 +36440,8 @@
 0.0.0.0 salads.in
 0.0.0.0 salasaga.org
 0.0.0.0 salaxe.com
+0.0.0.0 salcrela.com
+0.0.0.0 sale99.online
 0.0.0.0 sales-inquiry.net
 0.0.0.0 sales1sales.com
 0.0.0.0 salesconnections.net
@@ -46501,6 +46514,7 @@
 0.0.0.0 williamsonlegacycenter.org
 0.0.0.0 willichi.tech
 0.0.0.0 willienelsontour.net
+0.0.0.0 willinglylipsslander.com
 0.0.0.0 willoweiffel.com
 0.0.0.0 willtissuetank.com
 0.0.0.0 willwiser.com
