@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.103
 # Release: 103
-# Entries: 55,391
-# Updated: Thu, 13 Apr 23 00:08:57 +06
+# Entries: 55,399
+# Updated: Thu, 13 Apr 23 02:08:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3195,6 +3195,7 @@
 0.0.0.0 aflozym.us
 0.0.0.0 afm01.com
 0.0.0.0 afnodokan.com
+0.0.0.0 afoodhk.shop
 0.0.0.0 aforepayoffstutter.com
 0.0.0.0 afosseel.net
 0.0.0.0 afotomiklxrnnc.top
@@ -7379,6 +7380,7 @@
 0.0.0.0 bluestack-sapp1.online
 0.0.0.0 bluestacks--web.online
 0.0.0.0 bluestacksa1.online
+0.0.0.0 bluestacksa1.website
 0.0.0.0 bluestacksap.website
 0.0.0.0 bluestackstop.website
 0.0.0.0 blueswordksh.com
@@ -9397,6 +9399,7 @@
 0.0.0.0 cheetieaha.com
 0.0.0.0 cheewhoa.net
 0.0.0.0 chefishoani.com
+0.0.0.0 cheikhahmadoulkhadim.org
 0.0.0.0 cheikhoulkhadim.org
 0.0.0.0 chekajie.com
 0.0.0.0 chekhov-fests.com
@@ -16320,6 +16323,7 @@
 0.0.0.0 fiximply.com
 0.0.0.0 fixingcereal.com
 0.0.0.0 fixittoday.biz
+0.0.0.0 fixm.xyz
 0.0.0.0 fixosint.com
 0.0.0.0 fixpass.net
 0.0.0.0 fixsirrod.site
@@ -17871,6 +17875,7 @@
 0.0.0.0 gitoku.com
 0.0.0.0 giturn.com
 0.0.0.0 giuntatrub.website
+0.0.0.0 give4.scot
 0.0.0.0 giveglitz.com
 0.0.0.0 givekeeperstirring.com
 0.0.0.0 givemecarforbuying.com
@@ -19304,6 +19309,7 @@
 0.0.0.0 happywombat.net
 0.0.0.0 haprjb.com
 0.0.0.0 hapticswasher.com
+0.0.0.0 hapush.xyz
 0.0.0.0 haqse.net
 0.0.0.0 haradeiu.rocks
 0.0.0.0 harankumaran.com
@@ -22024,6 +22030,7 @@
 0.0.0.0 isortflorent.com
 0.0.0.0 isparkmedia.com
 0.0.0.0 ispnetworksolution.com
+0.0.0.0 israelsextoy.com
 0.0.0.0 isreas.com
 0.0.0.0 issaloren.com
 0.0.0.0 issmh.com
@@ -40089,6 +40096,7 @@
 0.0.0.0 swift-if.com
 0.0.0.0 swift-ii.com
 0.0.0.0 swiftpedigreebike.com
+0.0.0.0 swiftsupportt.com
 0.0.0.0 swiminvestigator.com
 0.0.0.0 swimsuitmysteryisland.com
 0.0.0.0 swimsunleisure.com
