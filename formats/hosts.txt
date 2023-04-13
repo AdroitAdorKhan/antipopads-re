@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.103
 # Release: 103
-# Entries: 55,635
-# Updated: Thu, 13 Apr 23 20:07:33 +06
+# Entries: 55,637
+# Updated: Thu, 13 Apr 23 22:07:37 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -17413,6 +17413,7 @@
 0.0.0.0 gambar123.com
 0.0.0.0 gambasull.digital
 0.0.0.0 gamber.bet
+0.0.0.0 gambling3.shop
 0.0.0.0 gambling4.shop
 0.0.0.0 gamblingden.live
 0.0.0.0 gamblingliquidate.com
@@ -32149,6 +32150,7 @@
 0.0.0.0 physiqueusualconsulting.com
 0.0.0.0 phyteusreest.live
 0.0.0.0 phywifupta.com
+0.0.0.0 pi.me
 0.0.0.0 pianistrefutationgoose.com
 0.0.0.0 pianoalter.xyz
 0.0.0.0 pianoassort.com
