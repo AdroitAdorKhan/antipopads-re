@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.103
 # Release: 103
-# Entries: 55,625
-# Updated: Thu, 13 Apr 23 18:07:51 +06
+# Entries: 55,635
+# Updated: Thu, 13 Apr 23 20:07:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4197,6 +4197,7 @@
 0.0.0.0 analogousmindlesshonour.com
 0.0.0.0 analogydid.com
 0.0.0.0 analysecrappy.com
+0.0.0.0 analytics-discord.com
 0.0.0.0 analytics-google.info
 0.0.0.0 anamaembush.com
 0.0.0.0 anandaconsultancyservices.in
@@ -6821,6 +6822,7 @@
 0.0.0.0 bettaful.com
 0.0.0.0 bettencourtconstructionllc.com
 0.0.0.0 betteradsystem.com
+0.0.0.0 betterepack.com
 0.0.0.0 betterops.ca
 0.0.0.0 bettershitecolumn.com
 0.0.0.0 bettersnitch.com
@@ -7807,6 +7809,7 @@
 0.0.0.0 brackenhall.org.uk
 0.0.0.0 bracketknolls.uno
 0.0.0.0 bradhuitvoice.com
+0.0.0.0 bradlemr.ru
 0.0.0.0 bradleycrossing.net
 0.0.0.0 bradleyincorrect.com
 0.0.0.0 bradleysolarconstant.com
@@ -17630,6 +17633,7 @@
 0.0.0.0 gencid.com
 0.0.0.0 gendergladly.com
 0.0.0.0 genera.app
+0.0.0.0 generace.tech
 0.0.0.0 generalebad.xyz
 0.0.0.0 generalizationtrifling.com
 0.0.0.0 generalizebusinessman.com
@@ -23444,6 +23448,7 @@
 0.0.0.0 kashacodeina.com
 0.0.0.0 kasheglesy.pro
 0.0.0.0 kashmir-tourism.net
+0.0.0.0 kashvicomputercenter.online
 0.0.0.0 kaspbackers.com
 0.0.0.0 kastafor.com
 0.0.0.0 katak.fr
@@ -24049,6 +24054,7 @@
 0.0.0.0 korous.in
 0.0.0.0 korruoebt.live
 0.0.0.0 korunabevy.com
+0.0.0.0 koshergetaway.org
 0.0.0.0 koshidigital.com
 0.0.0.0 kostgrahahijau.net
 0.0.0.0 kostprice.com
@@ -37965,6 +37971,7 @@
 0.0.0.0 shopparkside.com
 0.0.0.0 shoppe.kr
 0.0.0.0 shopper-tech.com
+0.0.0.0 shoppingwallah.tech
 0.0.0.0 shopshoist.com
 0.0.0.0 shopskinproducts.com
 0.0.0.0 shopuniteclosing.com
@@ -38819,6 +38826,7 @@
 0.0.0.0 sofcryingfo.xyz
 0.0.0.0 soffitsfermal.guru
 0.0.0.0 sofiacolpatriaredmultibanca.com
+0.0.0.0 soficocosmetics.com
 0.0.0.0 sofinpushpile.com
 0.0.0.0 soft-com.biz
 0.0.0.0 soft-rufus.top
@@ -40956,6 +40964,7 @@
 0.0.0.0 teknologia.co
 0.0.0.0 tekuawcwhxiql.com
 0.0.0.0 tel-tel-fie.com
+0.0.0.0 tele-clinic.app
 0.0.0.0 telegramspun.com
 0.0.0.0 telegraphsunken.com
 0.0.0.0 telemus.top
@@ -41429,6 +41438,7 @@
 0.0.0.0 thekkkgroup.net
 0.0.0.0 thekkkgroup.org
 0.0.0.0 thekkkuriosity.com
+0.0.0.0 thekkkuriosity.net
 0.0.0.0 thekkkuriosity.org
 0.0.0.0 theknee.physio
 0.0.0.0 thekombans.com
