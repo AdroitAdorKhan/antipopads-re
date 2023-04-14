@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.104
 # Release: 104
-# Entries: 55,984
-# Updated: Fri, 14 Apr 23 20:08:03 +06
+# Entries: 56,000
+# Updated: Fri, 14 Apr 23 22:07:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -369,6 +369,7 @@
 0.0.0.0 1b1.mobi
 0.0.0.0 1b1.ooo
 0.0.0.0 1b1.tel
+0.0.0.0 1b1.tips
 0.0.0.0 1b1.uk
 0.0.0.0 1b14e0ee42d5e195c9aa1a2f5b42c710.com
 0.0.0.0 1bc1daf1a7.com
@@ -833,6 +834,7 @@
 0.0.0.0 322d26d6b8.7c33690bea.com
 0.0.0.0 3243236nslimited.com
 0.0.0.0 326860daef.com
+0.0.0.0 32ky.app
 0.0.0.0 32mb.space
 0.0.0.0 3311162.com
 0.0.0.0 3311ea9719.com
@@ -1131,6 +1133,7 @@
 0.0.0.0 4luckyf.com
 0.0.0.0 4oo9v0cqc.com
 0.0.0.0 4p74i5b6.de
+0.0.0.0 4pawpoints.com
 0.0.0.0 4pawsconsulting.co.uk
 0.0.0.0 4plgujarat.com
 0.0.0.0 4plus44.com
@@ -2374,6 +2377,7 @@
 0.0.0.0 achinecorrest.com
 0.0.0.0 achnic.com
 0.0.0.0 acholiccortins.live
+0.0.0.0 achoroukbio.tech
 0.0.0.0 achorouq.com
 0.0.0.0 achunogo.com
 0.0.0.0 achuphaube.com
@@ -10669,6 +10673,7 @@
 0.0.0.0 concurfickle.com
 0.0.0.0 concurrentmusic.com
 0.0.0.0 concussionpollutioncrummy.com
+0.0.0.0 condao.space
 0.0.0.0 condescendingolivejustly.com
 0.0.0.0 conditionsentangle.com
 0.0.0.0 condles-temark.com
@@ -10826,6 +10831,7 @@
 0.0.0.0 contentango.com
 0.0.0.0 contentclick.co.uk
 0.0.0.0 contentdigital.info
+0.0.0.0 contentedcanines.scot
 0.0.0.0 contentedtoothacheturk.com
 0.0.0.0 contentjs.com
 0.0.0.0 contentmentcareless.com
@@ -13369,6 +13375,7 @@
 0.0.0.0 dosnoyhkd.com
 0.0.0.0 dossersisamine.tech
 0.0.0.0 dossouwe.net
+0.0.0.0 dostavkaalkogolya.com
 0.0.0.0 dostophog.com
 0.0.0.0 dotagestores.com
 0.0.0.0 dotaillowan.com
@@ -17146,6 +17153,7 @@
 0.0.0.0 frolicpan.com
 0.0.0.0 frolicrestrain.com
 0.0.0.0 frolnk.com
+0.0.0.0 fromcoastocoast.ca
 0.0.0.0 fromjazzwithlove.org
 0.0.0.0 fromjoytohappiness.com
 0.0.0.0 fromoffspringcaliber.com
@@ -18038,6 +18046,7 @@
 0.0.0.0 gipitech.in
 0.0.0.0 gipozgcz.com
 0.0.0.0 gipsouglow.com
+0.0.0.0 girayurveda.com
 0.0.0.0 girdlespittle.com
 0.0.0.0 giris-con.com
 0.0.0.0 girise.com
@@ -18628,6 +18637,7 @@
 0.0.0.0 googlesanalytic.com
 0.0.0.0 googlesyndic11111ation.com
 0.0.0.0 googletagmanager.co
+0.0.0.0 googliya.com
 0.0.0.0 googlwweesyndic232311ation.com
 0.0.0.0 googtion.com
 0.0.0.0 goohimom.net
@@ -23482,6 +23492,7 @@
 0.0.0.0 kadakchaiexpress.com
 0.0.0.0 kadamudakkam.net
 0.0.0.0 kadij.top
+0.0.0.0 kadikama.fun
 0.0.0.0 kadmmijinb.com
 0.0.0.0 kadochi-iml.com
 0.0.0.0 kadwnhhistoli.xyz
@@ -26423,6 +26434,7 @@
 0.0.0.0 mamyko.com
 0.0.0.0 man.qa
 0.0.0.0 man2ch5836dester.com
+0.0.0.0 manage-appleid.info
 0.0.0.0 manage-applewallet.com
 0.0.0.0 manageamxegifts.com
 0.0.0.0 managementbeganrapt.com
@@ -31555,6 +31567,7 @@
 0.0.0.0 panthor.org
 0.0.0.0 pantietestar.digital
 0.0.0.0 pantomimethat.com
+0.0.0.0 panvy.com
 0.0.0.0 panyarspan.com
 0.0.0.0 panyinadiin.xyz
 0.0.0.0 paoiwjn.com
@@ -42647,6 +42660,7 @@
 0.0.0.0 topntech.com
 0.0.0.0 toppeakinvestments.com
 0.0.0.0 topperformance.xyz
+0.0.0.0 toppestcontrolreviews.com
 0.0.0.0 toppics.info
 0.0.0.0 toppingfascili.tech
 0.0.0.0 topple.gurnetlavolta.com
@@ -49729,6 +49743,7 @@
 0.0.0.0 www.doownl0ad3s.com
 0.0.0.0 www.dorothys.xyz
 0.0.0.0 www.doruvixi.xyz
+0.0.0.0 www.dostavkaalkogolya.com
 0.0.0.0 www.dotnetmq.com
 0.0.0.0 www.doubl.app
 0.0.0.0 www.doublyconversion.com
@@ -54691,6 +54706,7 @@
 0.0.0.0 xugkcigkoqtbnbp.com
 0.0.0.0 xujanxdro.com
 0.0.0.0 xujsnbujkloq.xyz
+0.0.0.0 xultrawebshop.org
 0.0.0.0 xuninrfwruoyqb.xyz
 0.0.0.0 xuossk3tu6hb.com
 0.0.0.0 xuqatkswi.com
