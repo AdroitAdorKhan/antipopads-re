@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.104
 # Release: 104
-# Entries: 55,745
-# Updated: Fri, 14 Apr 23 04:07:23 +06
+# Entries: 55,775
+# Updated: Fri, 14 Apr 23 06:07:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -365,6 +365,7 @@
 0.0.0.0 1b1.icu
 0.0.0.0 1b1.kim
 0.0.0.0 1b1.mobi
+0.0.0.0 1b1.ooo
 0.0.0.0 1b1.tel
 0.0.0.0 1b1.uk
 0.0.0.0 1b14e0ee42d5e195c9aa1a2f5b42c710.com
@@ -6230,6 +6231,7 @@
 0.0.0.0 bartarinha.it
 0.0.0.0 bartleetgroup.net
 0.0.0.0 barukh.us
+0.0.0.0 basa-bhara.com
 0.0.0.0 basarabrahmanasathram.org
 0.0.0.0 basascibilir.com
 0.0.0.0 base31venues.com
@@ -16081,6 +16083,7 @@
 0.0.0.0 fessoovy.com
 0.0.0.0 festivalexcitinghypocrisy.com
 0.0.0.0 festivals.company
+0.0.0.0 festivecollections.com
 0.0.0.0 festivefranchisetorrent.com
 0.0.0.0 festtube.com
 0.0.0.0 festusthedrag.com
@@ -21150,6 +21153,7 @@
 0.0.0.0 igo.am
 0.0.0.0 igoacross.org
 0.0.0.0 igoognou.xyz
+0.0.0.0 igpcake.org
 0.0.0.0 igran.io
 0.0.0.0 igreporthelper.com
 0.0.0.0 igri-na-dengi.com
@@ -21959,6 +21963,7 @@
 0.0.0.0 involvedcollaborateperceived.com
 0.0.0.0 involvedeclarefright.com
 0.0.0.0 involvewalkingthick.com
+0.0.0.0 invox.live
 0.0.0.0 invraisemblable.com
 0.0.0.0 inwardxenos.com
 0.0.0.0 inwraptsekane.com
@@ -24677,6 +24682,7 @@
 0.0.0.0 laveshka.net
 0.0.0.0 laveshka.shop
 0.0.0.0 lavieduluxe.com
+0.0.0.0 laview.online
 0.0.0.0 laview.site
 0.0.0.0 lavishvanish.com
 0.0.0.0 lavishworld.co.uk
@@ -26843,6 +26849,7 @@
 0.0.0.0 medilinkers.com
 0.0.0.0 mediodia.org
 0.0.0.0 meditatecable.com
+0.0.0.0 meditationdinner.com
 0.0.0.0 mediuln.com
 0.0.0.0 mediversebd.com
 0.0.0.0 medleyads.com
@@ -35812,6 +35819,7 @@
 0.0.0.0 rhkyufodw8ochdr3ogsite.com
 0.0.0.0 rhldcmsheqhci.com
 0.0.0.0 rhniobyfyr.com
+0.0.0.0 rhodesstrategicconsulting.com
 0.0.0.0 rhoeomanid.space
 0.0.0.0 rhombicsomeday.com
 0.0.0.0 rhrfjehy.top
@@ -37362,6 +37370,7 @@
 0.0.0.0 securetataplay.info
 0.0.0.0 securetataplay.live
 0.0.0.0 securetataplay.net.in
+0.0.0.0 securetaxfilings.com
 0.0.0.0 securitycornerbd.com
 0.0.0.0 secybunsen.tech
 0.0.0.0 sedaret.top
@@ -38253,6 +38262,7 @@
 0.0.0.0 silverundergofold.com
 0.0.0.0 silverwoodrecyclery.com
 0.0.0.0 silvialeonesrealtor.com
+0.0.0.0 silvish.com
 0.0.0.0 simaccweb.com
 0.0.0.0 simaowilliams.com
 0.0.0.0 simbiworks.org
@@ -41118,6 +41128,7 @@
 0.0.0.0 tense-print.pro
 0.0.0.0 tensital.rusdate.org
 0.0.0.0 tensorsbancos.com
+0.0.0.0 tent-z.com
 0.0.0.0 tenthsfrumpy.com
 0.0.0.0 tentletunkept.uno
 0.0.0.0 tentmess.com
@@ -41288,6 +41299,7 @@
 0.0.0.0 thathry.com
 0.0.0.0 thatincidentwad.com
 0.0.0.0 thatitgivesm.biz
+0.0.0.0 thatsaucyone.com
 0.0.0.0 thatsaucyone.shop
 0.0.0.0 thatsneat.app
 0.0.0.0 thatsouh.com
@@ -41484,6 +41496,7 @@
 0.0.0.0 thehoalawyer.us
 0.0.0.0 thehollywoodfilmacademy.com
 0.0.0.0 theholytrend.com
+0.0.0.0 thehomeandmore.com
 0.0.0.0 thehomeschoolingresource.com
 0.0.0.0 thehomestylingstudio.online
 0.0.0.0 thehopethatlieswithin.us
@@ -42956,6 +42969,7 @@
 0.0.0.0 travelsomewherefast.com
 0.0.0.0 travelwithaarchitecturaldesigner.com
 0.0.0.0 travelworks-de.com
+0.0.0.0 traversebayreservations.com
 0.0.0.0 traversefaultlessashamed.com
 0.0.0.0 traversefloral.com
 0.0.0.0 traverswoodworking.com
@@ -43497,6 +43511,7 @@
 0.0.0.0 tunted.com
 0.0.0.0 tuntpxikwqeop.com
 0.0.0.0 tunviralbionic.com
+0.0.0.0 tuonggonghethuat.com
 0.0.0.0 tuoniyinggai.live
 0.0.0.0 tupuedes.app
 0.0.0.0 tur-tur-key.com
@@ -43794,6 +43809,7 @@
 0.0.0.0 ubmzxodp.com
 0.0.0.0 uboungera.com
 0.0.0.0 ubshir.com
+0.0.0.0 ubsjyqfek.com
 0.0.0.0 ubtcaresfoundation.com
 0.0.0.0 ubunturama.com
 0.0.0.0 ubuwwswnceqmjtg.xyz
@@ -46234,6 +46250,7 @@
 0.0.0.0 wasperrdepict.com
 0.0.0.0 wasplighthouse.com
 0.0.0.0 wasquite.buzz
+0.0.0.0 wastebb.com
 0.0.0.0 wastedclassmatemay.com
 0.0.0.0 wastedfrom.com
 0.0.0.0 wastedinvaluable.com
@@ -46795,6 +46812,7 @@
 0.0.0.0 whistleye.com
 0.0.0.0 whitebird-bhm.com
 0.0.0.0 whitecapnorthpadre.com
+0.0.0.0 whitecedarwildlife.com
 0.0.0.0 whiteconversion.com
 0.0.0.0 whitedove.online
 0.0.0.0 whitehorseieltsacademy.com
@@ -49870,6 +49888,7 @@
 0.0.0.0 www.fertilecrameaster.com
 0.0.0.0 www.fertilisedshoe.com
 0.0.0.0 www.fesib.com
+0.0.0.0 www.festivecollections.com
 0.0.0.0 www.festivefranchisetorrent.com
 0.0.0.0 www.feverfreeman.com
 0.0.0.0 www.fgwatcher.com
@@ -51841,6 +51860,7 @@
 0.0.0.0 www.phengung.net
 0.0.0.0 www.phertonium.com
 0.0.0.0 www.philadelphiagossipapril.com
+0.0.0.0 www.pho99nepal.com
 0.0.0.0 www.phoenixcontractorsolutions.com
 0.0.0.0 www.phonegametips.com
 0.0.0.0 www.phoneringtones.info
@@ -51933,6 +51953,7 @@
 0.0.0.0 www.pokerinstruction.ru
 0.0.0.0 www.pokingrate.com
 0.0.0.0 www.polardemeanour.com
+0.0.0.0 www.policeair.com
 0.0.0.0 www.policerterse.com
 0.0.0.0 www.policyholderplaybook.com
 0.0.0.0 www.politicianskypart.com
@@ -52337,6 +52358,7 @@
 0.0.0.0 www.rfactoracingweb.it
 0.0.0.0 www.rfgdjs.info
 0.0.0.0 www.rhinoceroscoketooth.com
+0.0.0.0 www.rhodesstrategicconsulting.com
 0.0.0.0 www.ribrattle.com
 0.0.0.0 www.ricardoreyeslopez.org
 0.0.0.0 www.richcats.fun
@@ -52505,6 +52527,7 @@
 0.0.0.0 www.secrettips.xyz
 0.0.0.0 www.secure-dw.ru
 0.0.0.0 www.secure.agasis.tech
+0.0.0.0 www.securetaxfilings.com
 0.0.0.0 www.seedattentiontestify.com
 0.0.0.0 www.seerscardactivate.online
 0.0.0.0 www.seguigui00.com
@@ -52639,6 +52662,7 @@
 0.0.0.0 www.sillinessrobnotoriety.com
 0.0.0.0 www.siloselevators.com
 0.0.0.0 www.silverundergofold.com
+0.0.0.0 www.silvish.com
 0.0.0.0 www.simaowilliams.com
 0.0.0.0 www.simbiworks.org
 0.0.0.0 www.simchascribe.com
@@ -53017,6 +53041,7 @@
 0.0.0.0 www.tendencysanction.com
 0.0.0.0 www.tenderlyvenue.com
 0.0.0.0 www.tengxunxinwen.com
+0.0.0.0 www.tent-z.com
 0.0.0.0 www.teqnosys.com
 0.0.0.0 www.terminaldeipiales.com
 0.0.0.0 www.terminussurfacespurr.com
@@ -53034,6 +53059,7 @@
 0.0.0.0 www.thangkaartforliberation.com
 0.0.0.0 www.thanksgivingbilliardslight.com
 0.0.0.0 www.thatincidentwad.com
+0.0.0.0 www.thatsaucyone.com
 0.0.0.0 www.thatsaucyone.shop
 0.0.0.0 www.the-parent.app
 0.0.0.0 www.theadvantedge.site
@@ -53051,6 +53077,7 @@
 0.0.0.0 www.thefullcircleproject.org
 0.0.0.0 www.thegunshop.org
 0.0.0.0 www.thehiggler.com
+0.0.0.0 www.thehomeandmore.com
 0.0.0.0 www.thehomeschoolingresource.com
 0.0.0.0 www.theirsneedful.com
 0.0.0.0 www.thelocaldistro.com
@@ -53251,6 +53278,7 @@
 0.0.0.0 www.tukpublishers.com
 0.0.0.0 www.tunisskills.com
 0.0.0.0 www.tunnelstitchfinal.com
+0.0.0.0 www.tuonggonghethuat.com
 0.0.0.0 www.tupuedes.app
 0.0.0.0 www.turiempleo.com
 0.0.0.0 www.turismoindigenacolombia.org
@@ -53488,6 +53516,7 @@
 0.0.0.0 www.warofmachinesvsmanhasbegun.net
 0.0.0.0 www.wasoffspring.com
 0.0.0.0 www.wasperrdepict.com
+0.0.0.0 www.wastebb.com
 0.0.0.0 www.watcer.guru
 0.0.0.0 www.watche.guru
 0.0.0.0 www.watchercupboard.com
@@ -53540,6 +53569,7 @@
 0.0.0.0 www.whirltoes.com
 0.0.0.0 www.whistleye.com
 0.0.0.0 www.whitecapnorthpadre.com
+0.0.0.0 www.whitecedarwildlife.com
 0.0.0.0 www.whiteconversion.com
 0.0.0.0 www.whizduly.com
 0.0.0.0 www.whoisextractor.org
