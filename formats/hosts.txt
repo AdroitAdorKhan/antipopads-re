@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.104
 # Release: 104
-# Entries: 55,947
-# Updated: Fri, 14 Apr 23 16:18:46 +06
+# Entries: 55,951
+# Updated: Fri, 14 Apr 23 18:08:05 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28153,6 +28153,7 @@
 0.0.0.0 multiversomania.com
 0.0.0.0 mumbai365news.org
 0.0.0.0 mumbaicelejor.com
+0.0.0.0 mumbaifnp.com
 0.0.0.0 mumbaikar.online
 0.0.0.0 mumbaimerwans.com
 0.0.0.0 mumbaimonginis.net
@@ -31388,6 +31389,7 @@
 0.0.0.0 padek.tech
 0.0.0.0 padhoonline.com
 0.0.0.0 padma-fed.com
+0.0.0.0 padmabhoomifoundatation.org
 0.0.0.0 padp5arja8dgsd9cha.com
 0.0.0.0 padpitnon.site
 0.0.0.0 padpullpact.com
@@ -33034,6 +33036,7 @@
 0.0.0.0 polarcdn-terrax.com
 0.0.0.0 polardemeanour.com
 0.0.0.0 polarelektric.biz
+0.0.0.0 polarelektric.org
 0.0.0.0 polarenergy.ltd
 0.0.0.0 polarmobile.com
 0.0.0.0 poleonaryprac.com
@@ -46389,6 +46392,7 @@
 0.0.0.0 wartourist.org
 0.0.0.0 wartuningtank.xyz
 0.0.0.0 warumbistdusoarm.space
+0.0.0.0 was83.net
 0.0.0.0 wasdczhepg.com
 0.0.0.0 wasgildedall.com
 0.0.0.0 washabeach.com
