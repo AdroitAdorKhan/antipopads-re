@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.105
 # Release: 105
-# Entries: 56,056
-# Updated: Sat, 15 Apr 23 00:15:15 +06
+# Entries: 56,076
+# Updated: Sat, 15 Apr 23 02:07:52 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2956,6 +2956,7 @@
 0.0.0.0 adv9.net
 0.0.0.0 advabnqu.com
 0.0.0.0 advanappstore.com
+0.0.0.0 advancedafl.site
 0.0.0.0 advancedbanter.co.uk
 0.0.0.0 advancedkidslox.com
 0.0.0.0 advancedmfgcareers.org
@@ -7688,6 +7689,7 @@
 0.0.0.0 bookserf.com
 0.0.0.0 bookshelfcomplaint.com
 0.0.0.0 booksprite.com
+0.0.0.0 booksrakepine.com
 0.0.0.0 bookstalktoo.co.uk
 0.0.0.0 booktheevent.co.uk
 0.0.0.0 bookveggies.com
@@ -9186,6 +9188,7 @@
 0.0.0.0 cellaraudacityslack.com
 0.0.0.0 cellarfinger.com
 0.0.0.0 cellarpassion.com
+0.0.0.0 cellarretro.com
 0.0.0.0 cellsmonitor.com
 0.0.0.0 cellsquickie.com
 0.0.0.0 celltocellor.net
@@ -10532,6 +10535,7 @@
 0.0.0.0 commercialconcretekent.co.uk
 0.0.0.0 commercialembroidery.co.uk
 0.0.0.0 commercialenergyconsultant.co.uk
+0.0.0.0 commercialfryer.parts
 0.0.0.0 commercialgatespecialist.co.uk
 0.0.0.0 commercialgatespecialist.uk
 0.0.0.0 commercialinsurancekitchener.com
@@ -18351,6 +18355,7 @@
 0.0.0.0 gnarlgp.com
 0.0.0.0 gnatgrocery.com
 0.0.0.0 gnawedhelixes.space
+0.0.0.0 gnbdfajhvxg.site
 0.0.0.0 gnditiklas.com
 0.0.0.0 gnfoltsbaocw.com
 0.0.0.0 gnhugdwrt.top
@@ -24110,6 +24115,7 @@
 0.0.0.0 knndaepnnunyac.com
 0.0.0.0 knobpredestinecontradiction.com
 0.0.0.0 knobs4stoves.com
+0.0.0.0 knocia.com
 0.0.0.0 knockerpokeys.space
 0.0.0.0 knockoutantipathy.com
 0.0.0.0 knocksdriddle.website
@@ -32023,6 +32029,7 @@
 0.0.0.0 peirs5tbakchios.com
 0.0.0.0 peitents.com
 0.0.0.0 peixvmiw.com
+0.0.0.0 peiyu.men
 0.0.0.0 pejqoq4cafo3bg9yqqqtk5e6s6.com
 0.0.0.0 pejzeexukxo.com
 0.0.0.0 peladingos.com
@@ -37027,6 +37034,7 @@
 0.0.0.0 sakura-traffic.com
 0.0.0.0 sakwensivie.tech
 0.0.0.0 salads.in
+0.0.0.0 salamander.parts
 0.0.0.0 salasaga.org
 0.0.0.0 salaxe.com
 0.0.0.0 salcrela.com
@@ -38942,6 +38950,7 @@
 0.0.0.0 smenqskfmpfxnb.bid
 0.0.0.0 smentbrads.co
 0.0.0.0 smentbradsh.xyz
+0.0.0.0 smertmoskalam.online
 0.0.0.0 smescorts.net
 0.0.0.0 smg8oo4njst45oene.com
 0.0.0.0 smgotpmyde.xyz
@@ -44552,6 +44561,7 @@
 0.0.0.0 unscammable.org
 0.0.0.0 unscammableinsder.com
 0.0.0.0 unscammableinsider.com
+0.0.0.0 unscathe.com
 0.0.0.0 unseamlocrian.com
 0.0.0.0 unseenrazorcaptain.com
 0.0.0.0 unseenreport.com
@@ -46155,6 +46165,7 @@
 0.0.0.0 vstvstsaq.com
 0.0.0.0 vstvstssa.com
 0.0.0.0 vsyaiejmfooba.com
+0.0.0.0 vsystemnepal.com
 0.0.0.0 vsyyqnvbjgnvh.xyz
 0.0.0.0 vt.atokefissure.com
 0.0.0.0 vt.cuppinaruke.com
@@ -48353,6 +48364,7 @@
 0.0.0.0 www.adulatorycrappyghastly.com
 0.0.0.0 www.adulatorydigestionmanicure.com
 0.0.0.0 www.adultnetdirectory.com
+0.0.0.0 www.advancedafl.site
 0.0.0.0 www.advancedkidslox.com
 0.0.0.0 www.advantageoutlayreeds.com
 0.0.0.0 www.advantageseliminatebystander.com
@@ -49329,6 +49341,7 @@
 0.0.0.0 www.commentaffable.com
 0.0.0.0 www.commentarystrength.com
 0.0.0.0 www.commercialembroidery.co.uk
+0.0.0.0 www.commercialfryer.parts
 0.0.0.0 www.commiseratefacilenotably.com
 0.0.0.0 www.commission-junction.com
 0.0.0.0 www.comparativelygooseavalanche.com
@@ -50429,6 +50442,7 @@
 0.0.0.0 www.gluttonlethal.com
 0.0.0.0 www.gluulife.com
 0.0.0.0 www.gmgmaes.store
+0.0.0.0 www.gnbdfajhvxg.site
 0.0.0.0 www.gnlittleleague.org
 0.0.0.0 www.gnocca.pro
 0.0.0.0 www.goalcipherhybrid.com
@@ -52083,6 +52097,7 @@
 0.0.0.0 www.peevishrace.com
 0.0.0.0 www.pehsc.net
 0.0.0.0 www.peiqianjichang.com
+0.0.0.0 www.peiyu.men
 0.0.0.0 www.peladingos.com
 0.0.0.0 www.pelican888.tech
 0.0.0.0 www.pemdespatemon.net
@@ -52317,6 +52332,7 @@
 0.0.0.0 www.primevalstork.com
 0.0.0.0 www.primroselegitimate.com
 0.0.0.0 www.principaldemanded.com
+0.0.0.0 www.printaugment.com
 0.0.0.0 www.printdoughsquare.com
 0.0.0.0 www.prisoninvolvingremaining.com
 0.0.0.0 www.prisonretiringcommemorate.com
@@ -52729,6 +52745,7 @@
 0.0.0.0 www.saimary.com
 0.0.0.0 www.saimary.net
 0.0.0.0 www.sakeoxidelunch.com
+0.0.0.0 www.salamander.parts
 0.0.0.0 www.salesconnections.net
 0.0.0.0 www.saltsspectacles.com
 0.0.0.0 www.salutationdove.com
@@ -52999,6 +53016,7 @@
 0.0.0.0 www.smartwoodmilling.com
 0.0.0.0 www.smartworldtheempiresector66.net
 0.0.0.0 www.smartworldtriumphsector66.co.in
+0.0.0.0 www.smertmoskalam.online
 0.0.0.0 www.smics.org
 0.0.0.0 www.smilingdefectcue.com
 0.0.0.0 www.smokingvetoscent.com
@@ -53620,6 +53638,7 @@
 0.0.0.0 www.unpackgreaterbulk.com
 0.0.0.0 www.unpredictablehateagent.com
 0.0.0.0 www.unscammable.org
+0.0.0.0 www.unscathe.com
 0.0.0.0 www.unseenreport.com
 0.0.0.0 www.unskilfulknowingservers.com
 0.0.0.0 www.untiedecide.com
@@ -53757,6 +53776,7 @@
 0.0.0.0 www.voxludio.com
 0.0.0.0 www.voyageschoolanymore.com
 0.0.0.0 www.vpay.website
+0.0.0.0 www.vsystemnepal.com
 0.0.0.0 www.vupyjyyu.xyz
 0.0.0.0 www.vushcups.com
 0.0.0.0 www.w12atendim.digital
