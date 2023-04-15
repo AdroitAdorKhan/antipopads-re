@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.105
 # Release: 105
-# Entries: 56,153
-# Updated: Sat, 15 Apr 23 08:17:48 +06
+# Entries: 56,176
+# Updated: Sat, 15 Apr 23 10:08:19 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -369,6 +369,7 @@
 0.0.0.0 1b1.kim
 0.0.0.0 1b1.mobi
 0.0.0.0 1b1.ooo
+0.0.0.0 1b1.space
 0.0.0.0 1b1.tel
 0.0.0.0 1b1.tips
 0.0.0.0 1b1.uk
@@ -927,6 +928,7 @@
 0.0.0.0 3commsa.io
 0.0.0.0 3d-bites.com
 0.0.0.0 3d5ceeeb69.com
+0.0.0.0 3dayadagency.com
 0.0.0.0 3dayads.com
 0.0.0.0 3dayleadads.com
 0.0.0.0 3daystoleads.com
@@ -4818,6 +4820,7 @@
 0.0.0.0 arcscoreapi.com
 0.0.0.0 arcscoreapi.events
 0.0.0.0 arcticclairvoyant.com
+0.0.0.0 arctravel.co.uk
 0.0.0.0 arctravel.net
 0.0.0.0 arcualstymie.com
 0.0.0.0 ardawatia.org
@@ -11920,6 +11923,7 @@
 0.0.0.0 daohoangsa.org
 0.0.0.0 daohoangsa.site
 0.0.0.0 daohoangsa.space
+0.0.0.0 daohoangsa.store
 0.0.0.0 daoist-taichi.com
 0.0.0.0 daotruongsa.info
 0.0.0.0 daotruongsa.life
@@ -20736,6 +20740,7 @@
 0.0.0.0 hran3.top
 0.0.0.0 hrckrtxrmnwna.top
 0.0.0.0 hrcm.in
+0.0.0.0 hrds.co.in
 0.0.0.0 hreerfdfgourg.com.ua
 0.0.0.0 hrenbjkdas.com
 0.0.0.0 hrgleo.com
@@ -21363,6 +21368,7 @@
 0.0.0.0 iidmushsthrvm.com
 0.0.0.0 iifvcfwiqi.com
 0.0.0.0 iingsinspiring.com
+0.0.0.0 iinoclt.in
 0.0.0.0 iio5tja01w3w.com
 0.0.0.0 iipurjelkcqw.xyz
 0.0.0.0 iirkvwtjowaw.com
@@ -21681,6 +21687,7 @@
 0.0.0.0 indiandot.me
 0.0.0.0 indianfamilyoffice.com
 0.0.0.0 indianfarmersexport.in
+0.0.0.0 indiangreens.in
 0.0.0.0 indiankartingleague.in
 0.0.0.0 indianmedicalcongress.com
 0.0.0.0 indianoiladaniventures.net
@@ -21820,6 +21827,7 @@
 0.0.0.0 inhile.com
 0.0.0.0 inhonedgean.com
 0.0.0.0 ininanceen.co
+0.0.0.0 inishlirrooisland.co.uk
 0.0.0.0 init.in
 0.0.0.0 initialbanisters.com
 0.0.0.0 initiallycoffee.com
@@ -21862,6 +21870,7 @@
 0.0.0.0 innity.net
 0.0.0.0 innlanz.au
 0.0.0.0 innocenceexpeditionsensation.com
+0.0.0.0 innolabstech.in
 0.0.0.0 innologiclab.com
 0.0.0.0 innovatecriticalcare.com.au
 0.0.0.0 innovationlizard.com
@@ -22114,6 +22123,7 @@
 0.0.0.0 investmentpropertyfloridakeys.com
 0.0.0.0 investmentstar.org
 0.0.0.0 investmenttturkey.com
+0.0.0.0 investorinfoline.in
 0.0.0.0 investorsmediahub.com
 0.0.0.0 investortirelimetree.com
 0.0.0.0 invibravaa.com
@@ -22484,6 +22494,7 @@
 0.0.0.0 ivoryrangecongratulations.com
 0.0.0.0 ivpnoffers.com
 0.0.0.0 ivqcgmkup.top
+0.0.0.0 ivstanton.co.uk
 0.0.0.0 ivtwwxlcvpl.com
 0.0.0.0 ivudsuco.net
 0.0.0.0 ivungurdoweg.com
@@ -22498,6 +22509,7 @@
 0.0.0.0 iwavoengxkcvlwe.com
 0.0.0.0 iweapon.uk
 0.0.0.0 iwfxgkixsoma.com
+0.0.0.0 iwgoldsmith.co.uk
 0.0.0.0 iwin68.top
 0.0.0.0 iwistracks.com
 0.0.0.0 iwkikhtx.xyz
@@ -22882,6 +22894,7 @@
 0.0.0.0 jessieemys.com
 0.0.0.0 jestbiases.com
 0.0.0.0 jestinvaderspeedometer.com
+0.0.0.0 jesusandmarysecurityservices.in
 0.0.0.0 jesusrhope.org
 0.0.0.0 jetgadget.me
 0.0.0.0 jetgadget.xyz
@@ -23817,6 +23830,7 @@
 0.0.0.0 kentorjose.com
 0.0.0.0 kentweddingvenues.uk
 0.0.0.0 kenudo.net
+0.0.0.0 kenyasafari101.in
 0.0.0.0 kenyoncollege.com
 0.0.0.0 kenzie.love
 0.0.0.0 kepezpaintball.com
@@ -24080,6 +24094,7 @@
 0.0.0.0 kkrrp.in
 0.0.0.0 kks86.com
 0.0.0.0 kksapygupdp.com
+0.0.0.0 kksclasses.in
 0.0.0.0 kktdwnitl.top
 0.0.0.0 kktv03.com
 0.0.0.0 kkuocsorgz.com
@@ -24393,6 +24408,7 @@
 0.0.0.0 kryupomxtflqyn.top
 0.0.0.0 krznova.com
 0.0.0.0 ksamovil.com
+0.0.0.0 ksash.co.uk
 0.0.0.0 ksbeacogpivp.com
 0.0.0.0 kscv2.com
 0.0.0.0 ksdvbgnfihdm.com
@@ -24646,6 +24662,7 @@
 0.0.0.0 laganiinfo.com
 0.0.0.0 laggerozonid.website
 0.0.0.0 lagimhpucvtobl.top
+0.0.0.0 lagoonsandlakes.co
 0.0.0.0 lagunamadre.org
 0.0.0.0 lahanbertyes.com
 0.0.0.0 lahemal.com
@@ -25916,6 +25933,7 @@
 0.0.0.0 lovthecov.org
 0.0.0.0 lowdodrioon.com
 0.0.0.0 lowdurantom.com
+0.0.0.0 lowerboddington.co.uk
 0.0.0.0 loweredinflammable.com
 0.0.0.0 lowerlvl.com
 0.0.0.0 lowestimmerse.com
@@ -26038,6 +26056,7 @@
 0.0.0.0 lucrativeconsultinginc.com
 0.0.0.0 lucretius-ada.com
 0.0.0.0 ludama1.com
+0.0.0.0 luddingtonltd.co.uk
 0.0.0.0 luddismwebworn.life
 0.0.0.0 ludesthat.club
 0.0.0.0 ludhueohxbtbgw.top
@@ -32437,6 +32456,7 @@
 0.0.0.0 photographingstirinput.com
 0.0.0.0 photographpan.com
 0.0.0.0 photonics-project.org
+0.0.0.0 photoprenuer.com
 0.0.0.0 phoutush.net
 0.0.0.0 phouvemp.net
 0.0.0.0 phouwims.net
@@ -41360,6 +41380,7 @@
 0.0.0.0 telescopespinal.com
 0.0.0.0 televeniesuc.pro
 0.0.0.0 televers.com
+0.0.0.0 televileaks.tv
 0.0.0.0 televisionjitter.com
 0.0.0.0 telinteredlmewhl.xyz
 0.0.0.0 tellamc.xyz
@@ -41599,6 +41620,7 @@
 0.0.0.0 thatitgivesm.biz
 0.0.0.0 thatsaucyone.biz
 0.0.0.0 thatsaucyone.com
+0.0.0.0 thatsaucyone.net
 0.0.0.0 thatsaucyone.shop
 0.0.0.0 thatsneat.app
 0.0.0.0 thatsouh.com
@@ -53424,6 +53446,7 @@
 0.0.0.0 www.thatincidentwad.com
 0.0.0.0 www.thatsaucyone.biz
 0.0.0.0 www.thatsaucyone.com
+0.0.0.0 www.thatsaucyone.net
 0.0.0.0 www.thatsaucyone.shop
 0.0.0.0 www.the-parent.app
 0.0.0.0 www.theadvantedge.site
