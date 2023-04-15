@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.105
 # Release: 105
-# Entries: 56,091
-# Updated: Sat, 15 Apr 23 04:08:32 +06
+# Entries: 56,103
+# Updated: Sat, 15 Apr 23 06:08:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2077,6 +2077,7 @@
 0.0.0.0 aattilaa.com
 0.0.0.0 aatukutty.com
 0.0.0.0 aaucwbe.com
+0.0.0.0 aave-app.art
 0.0.0.0 aavv4444.com
 0.0.0.0 aawslmhunbac.com
 0.0.0.0 aaxkiegg.com
@@ -12176,6 +12177,7 @@
 0.0.0.0 decenterads.com
 0.0.0.0 decenthat.com
 0.0.0.0 decentpatent.com
+0.0.0.0 decentralegames.company
 0.0.0.0 decenylpuffer.live
 0.0.0.0 decide.dev
 0.0.0.0 decidesjlore.com
@@ -12603,6 +12605,7 @@
 0.0.0.0 dfgg.life
 0.0.0.0 dfhajyevxmposa.xyz
 0.0.0.0 dfincbackup.biz
+0.0.0.0 dfnetwork.link
 0.0.0.0 dfqcf.com
 0.0.0.0 dfrtyu.top
 0.0.0.0 dfsdkkka.com
@@ -23935,6 +23938,7 @@
 0.0.0.0 kiltyyoginis.com
 0.0.0.0 kiltzekujalf.com
 0.0.0.0 kimberleyplewis.com
+0.0.0.0 kimberlite.io
 0.0.0.0 kimeno.party
 0.0.0.0 kimley-horn.org
 0.0.0.0 kimsacka.net
@@ -24610,6 +24614,7 @@
 0.0.0.0 laichook.net
 0.0.0.0 laidwhenadmiring.com
 0.0.0.0 lailaamezian.com
+0.0.0.0 laimroll.ru
 0.0.0.0 lainaumi.com
 0.0.0.0 lainmpatoio.xyz
 0.0.0.0 lairdsnorthen.store
@@ -34869,6 +34874,7 @@
 0.0.0.0 qvdtppawsnlbok.com
 0.0.0.0 qvgmxob.cn
 0.0.0.0 qvhbfxvnf.com
+0.0.0.0 qvol.tv
 0.0.0.0 qvorcqfon.com
 0.0.0.0 qvxbhoneqtta.info
 0.0.0.0 qw.zaremamynah.com
@@ -36356,6 +36362,7 @@
 0.0.0.0 rodderacetose.store
 0.0.0.0 roddinmucial.xyz
 0.0.0.0 rodentscommise.life
+0.0.0.0 rodeohead.com
 0.0.0.0 rodirgix.com
 0.0.0.0 rodsmith.top
 0.0.0.0 roduster.com
@@ -39071,6 +39078,7 @@
 0.0.0.0 snowmiracles.com
 0.0.0.0 snptree.net
 0.0.0.0 snqhmy.com
+0.0.0.0 snsv.ru
 0.0.0.0 snterkslvwvaj.top
 0.0.0.0 sntjim.com
 0.0.0.0 snugglethesheep.com
@@ -39613,6 +39621,7 @@
 0.0.0.0 sputil.com
 0.0.0.0 spvpjcytwu.com
 0.0.0.0 spybuildsoccasional.com
+0.0.0.0 spylees.com
 0.0.0.0 spzqxefawfeubq.com
 0.0.0.0 sq.paucifyunaware.com
 0.0.0.0 sqbyljukfvvqvqk.com
@@ -46415,6 +46424,7 @@
 0.0.0.0 wallet-bitamp.pro
 0.0.0.0 wallet-centric.online
 0.0.0.0 wallet-luno.info
+0.0.0.0 wallet-technology.com
 0.0.0.0 wallet.scot
 0.0.0.0 walletcase.org
 0.0.0.0 walletcolombia.com
@@ -53049,6 +53059,7 @@
 0.0.0.0 www.snoutsabout.org
 0.0.0.0 www.snugphotographer.com
 0.0.0.0 www.soakappequipment.com
+0.0.0.0 www.soakrumouropposition.com
 0.0.0.0 www.soaringtortoise.com
 0.0.0.0 www.soarlearning.net
 0.0.0.0 www.socalledattestation.com
@@ -54289,6 +54300,7 @@
 0.0.0.0 xc.micastskangli.com
 0.0.0.0 xc.stipestilths.com
 0.0.0.0 xcdtdbxqhwgfyms.com
+0.0.0.0 xcec.ru
 0.0.0.0 xcelbrands.xyz
 0.0.0.0 xcelltech.com
 0.0.0.0 xcelsiusadserver.com
