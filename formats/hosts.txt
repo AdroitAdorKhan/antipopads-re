@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.106
 # Release: 106
-# Entries: 56,550
-# Updated: Sun, 16 Apr 23 16:15:41 +06
+# Entries: 56,561
+# Updated: Sun, 16 Apr 23 18:09:07 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3070,6 +3070,7 @@
 0.0.0.0 adxbksvop.top
 0.0.0.0 adxchg.com
 0.0.0.0 adxcore.com
+0.0.0.0 adxfire.in
 0.0.0.0 adxion.com
 0.0.0.0 adxnexus.com
 0.0.0.0 adxpansion.com
@@ -3905,6 +3906,7 @@
 0.0.0.0 allobarpepped.uno
 0.0.0.0 alloha.tv
 0.0.0.0 allohaplay.ru
+0.0.0.0 allohelami.tech
 0.0.0.0 allornamenti.com
 0.0.0.0 allot-a-space.us
 0.0.0.0 allotupwardmalicious.com
@@ -8044,6 +8046,7 @@
 0.0.0.0 brightonclick.com
 0.0.0.0 brightpointeducation.in
 0.0.0.0 brightpointsis.com
+0.0.0.0 brightpointsolutions.info
 0.0.0.0 brightshare.com
 0.0.0.0 brightsidelogisticsinc.com
 0.0.0.0 brightsocialapp.co.uk
@@ -19689,6 +19692,7 @@
 0.0.0.0 haniaresorts.space
 0.0.0.0 hanli.tv
 0.0.0.0 hannasilver.net
+0.0.0.0 hanoi.foundation
 0.0.0.0 hanoispring.net
 0.0.0.0 hansinaugurate.com
 0.0.0.0 hanstransportation.org
@@ -27309,6 +27313,7 @@
 0.0.0.0 megbuzzedaid.com
 0.0.0.0 megdexchange.com
 0.0.0.0 meghdubi.org
+0.0.0.0 megicalevents.shop
 0.0.0.0 megicalevents.us
 0.0.0.0 megmobpoi.club
 0.0.0.0 megomajstores.com
@@ -29051,6 +29056,7 @@
 0.0.0.0 ndha4sding6gf.com
 0.0.0.0 ndhbonbrxfhnpx.top
 0.0.0.0 ndikvccwz.com
+0.0.0.0 ndimitation.online
 0.0.0.0 ndingcouncer.xyz
 0.0.0.0 nditlookslike.biz
 0.0.0.0 ndjelsefd.com
@@ -37986,6 +37992,7 @@
 0.0.0.0 selfstoragewarehouseindia.info
 0.0.0.0 selfswayjay.com
 0.0.0.0 sellbuy.direct
+0.0.0.0 sellbuystartup.ca
 0.0.0.0 selldiecastmodels.co.uk
 0.0.0.0 seller-dashboard-enable-settings.pro
 0.0.0.0 sellifie.com
@@ -39215,6 +39222,7 @@
 0.0.0.0 smarteam.space
 0.0.0.0 smartel.uk
 0.0.0.0 smartfinstories.biz
+0.0.0.0 smartfoodclub.net
 0.0.0.0 smartletters.co.uk
 0.0.0.0 smartlnk.com
 0.0.0.0 smartmarker.com
@@ -40220,6 +40228,7 @@
 0.0.0.0 steel-bluebc.us
 0.0.0.0 steelbluebc.us
 0.0.0.0 steelroofing.uk
+0.0.0.0 steelsindia.online
 0.0.0.0 steelsindia.site
 0.0.0.0 steeltour.pro
 0.0.0.0 steep-opening.com
@@ -41579,6 +41588,7 @@
 0.0.0.0 tecominchisel.com
 0.0.0.0 tecuil.com
 0.0.0.0 tedating.com
+0.0.0.0 teddy-web.tech
 0.0.0.0 teddytoysivan.com
 0.0.0.0 tedibar.biz
 0.0.0.0 tedinncrea.xyz
@@ -47680,6 +47690,7 @@
 0.0.0.0 winm.xyz
 0.0.0.0 winner7.online
 0.0.0.0 winner7.shop
+0.0.0.0 winner7.store
 0.0.0.0 winner7.tech
 0.0.0.0 winner77.online
 0.0.0.0 winner77.shop
