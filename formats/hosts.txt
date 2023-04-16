@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.106
 # Release: 106
-# Entries: 56,455
-# Updated: Sun, 16 Apr 23 06:07:56 +06
+# Entries: 56,472
+# Updated: Sun, 16 Apr 23 08:17:15 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -368,6 +368,7 @@
 0.0.0.0 1b1.icu
 0.0.0.0 1b1.kim
 0.0.0.0 1b1.mobi
+0.0.0.0 1b1.one
 0.0.0.0 1b1.ooo
 0.0.0.0 1b1.space
 0.0.0.0 1b1.tel
@@ -979,6 +980,7 @@
 0.0.0.0 3mmfvvto.com
 0.0.0.0 3myad.com
 0.0.0.0 3n5b.info
+0.0.0.0 3ongames.com
 0.0.0.0 3piscis.fashion
 0.0.0.0 3plgujarat.com
 0.0.0.0 3qj4h4qgj.com
@@ -6095,6 +6097,7 @@
 0.0.0.0 bakeryembedded.com
 0.0.0.0 bakerysweetlycup.com
 0.0.0.0 bakia.ir
+0.0.0.0 bakingenterprises.net
 0.0.0.0 bakinglovebakers.com
 0.0.0.0 bakingo.online
 0.0.0.0 bakjaqa.net
@@ -7058,6 +7061,7 @@
 0.0.0.0 biffaworld.co.uk
 0.0.0.0 bifrontgaiter.com
 0.0.0.0 bigappboi.com
+0.0.0.0 bigballsbit.pro
 0.0.0.0 bigbazar.ltd
 0.0.0.0 bigbolz.com
 0.0.0.0 bigbossdumpling.com
@@ -9536,6 +9540,7 @@
 0.0.0.0 checkup02.biz
 0.0.0.0 checkyofeed.com
 0.0.0.0 chedstimaarr.pics
+0.0.0.0 cheecmou.com
 0.0.0.0 cheegoog.net
 0.0.0.0 cheekobsu.com
 0.0.0.0 cheekys.xyz
@@ -24713,6 +24718,7 @@
 0.0.0.0 laalmatifarm.com
 0.0.0.0 labadena.com
 0.0.0.0 labadvisor.in
+0.0.0.0 labdhioptimus.net
 0.0.0.0 labdhisearene.net
 0.0.0.0 labefycarbons.space
 0.0.0.0 labeldollars.com
@@ -25251,6 +25257,7 @@
 0.0.0.0 lemotherofhe.com
 0.0.0.0 lemouwee.com
 0.0.0.0 lenaghannam.com
+0.0.0.0 lenax.tech
 0.0.0.0 lenbergsdesign.com
 0.0.0.0 lenfunk.top
 0.0.0.0 lengthcalk.com
@@ -28195,6 +28202,7 @@
 0.0.0.0 mountainruntreeworks.com
 0.0.0.0 mountengineto.top
 0.0.0.0 mountlanentablelanentable.com
+0.0.0.0 moura-carlos.tech
 0.0.0.0 mouraipoucuk.com
 0.0.0.0 mourningmillsignificant.com
 0.0.0.0 moustite.com
@@ -28822,6 +28830,7 @@
 0.0.0.0 nallytohe.xyz
 0.0.0.0 nalodhjpifti.com
 0.0.0.0 nama-holding.org
+0.0.0.0 namaholding.biz
 0.0.0.0 namaholding.org
 0.0.0.0 name-usafashion20.com
 0.0.0.0 nameads.com
@@ -29834,6 +29843,7 @@
 0.0.0.0 noveraxhealthcare.com
 0.0.0.0 novialinvestment.com
 0.0.0.0 noviceavengeclemency.com
+0.0.0.0 novinki-filmy-serialy.com
 0.0.0.0 novizna.xyz
 0.0.0.0 novocastrianremovals.com
 0.0.0.0 novostisporta.info
@@ -42156,6 +42166,7 @@
 0.0.0.0 theproxisright.com
 0.0.0.0 thepubertyproject.org
 0.0.0.0 thepuppytherapist.com
+0.0.0.0 thepyramid.tech
 0.0.0.0 thequalitygroup.biz
 0.0.0.0 therapeuticmassageplanotexas.com
 0.0.0.0 therapistpopulationcommentary.com
@@ -47582,6 +47593,7 @@
 0.0.0.0 windyplentiful.com
 0.0.0.0 wineanddandy.co.uk
 0.0.0.0 winebywine.biz
+0.0.0.0 winebywine.shop
 0.0.0.0 winedealing.com
 0.0.0.0 winemakerstable.com
 0.0.0.0 winenftcoin.com
@@ -48630,6 +48642,7 @@
 0.0.0.0 www.accordaudienceeducational.com
 0.0.0.0 www.accreditation-services.co.uk
 0.0.0.0 www.accusationankle.com
+0.0.0.0 www.accuserannouncementadulthood.com
 0.0.0.0 www.acediscover.com
 0.0.0.0 www.acerbityjessamy.com
 0.0.0.0 www.acernismedical.com
@@ -49929,6 +49942,7 @@
 0.0.0.0 www.defaulttabjs.info
 0.0.0.0 www.defectivecanyon.com
 0.0.0.0 www.defectpayslips.com
+0.0.0.0 www.defendantsulphurstamp.com
 0.0.0.0 www.defenderprovidedleash.com
 0.0.0.0 www.defenseneckpresent.com
 0.0.0.0 www.defiantsniffbitterly.com
@@ -52367,6 +52381,7 @@
 0.0.0.0 www.paicosoftware.com
 0.0.0.0 www.paintoppo.com
 0.0.0.0 www.pairaffirmative.com
+0.0.0.0 www.pairplayed.com
 0.0.0.0 www.pairsprudence.com
 0.0.0.0 www.pairstolerancepaint.com
 0.0.0.0 www.palpablefungussome.com
@@ -54234,6 +54249,7 @@
 0.0.0.0 www.whiteconversion.com
 0.0.0.0 www.whizduly.com
 0.0.0.0 www.whoisextractor.org
+0.0.0.0 www.wholeauraloin.com
 0.0.0.0 www.whosthat.mobi
 0.0.0.0 www.whwsafsu.com
 0.0.0.0 www.whykol.com
@@ -54489,6 +54505,7 @@
 0.0.0.0 wwwpokec.sk
 0.0.0.0 wwwpromoter.com
 0.0.0.0 wwwquailcreekrepublicans.com
+0.0.0.0 wwwsublimeuniformes.com
 0.0.0.0 wwwtianbk35.com
 0.0.0.0 wwwtt89.com
 0.0.0.0 wwww.afcyhf.com
