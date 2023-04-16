@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.106
 # Release: 106
-# Entries: 56,472
-# Updated: Sun, 16 Apr 23 08:17:15 +06
+# Entries: 56,475
+# Updated: Sun, 16 Apr 23 10:08:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8926,6 +8926,7 @@
 0.0.0.0 casasaipem.in
 0.0.0.0 casasancristobal.us
 0.0.0.0 casasfinanciables.com
+0.0.0.0 casasncastels.com
 0.0.0.0 casayoss.com
 0.0.0.0 cascade-insights.mortgage
 0.0.0.0 cascade-leads.mortgage
@@ -28595,6 +28596,7 @@
 0.0.0.0 mycdn.co
 0.0.0.0 mycdn2.co
 0.0.0.0 mycelejor.com
+0.0.0.0 mycima.autos
 0.0.0.0 myckdom.com
 0.0.0.0 myclaimmatters.com
 0.0.0.0 myclickbankads.com
@@ -47608,6 +47610,7 @@
 0.0.0.0 winner7.online
 0.0.0.0 winner7.shop
 0.0.0.0 winner7.tech
+0.0.0.0 winner77.online
 0.0.0.0 winner77.shop
 0.0.0.0 winner77.tech
 0.0.0.0 winner777.online
