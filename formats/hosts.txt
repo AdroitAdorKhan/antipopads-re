@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.107
 # Release: 107
-# Entries: 56,652
-# Updated: Mon, 17 Apr 23 12:07:38 +06
+# Entries: 56,653
+# Updated: Mon, 17 Apr 23 14:07:59 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -53957,6 +53957,7 @@
 0.0.0.0 www.thinadmitted.com
 0.0.0.0 www.thinkandgrowrich.co.za
 0.0.0.0 www.thischarmingcandy.com
+0.0.0.0 www.threadlikeauth.ru
 0.0.0.0 www.threatenedpersonnel.com
 0.0.0.0 www.threefortressfork.com
 0.0.0.0 www.threeperspectivesph.com
