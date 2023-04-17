@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.107
 # Release: 107
-# Entries: 56,641
-# Updated: Mon, 17 Apr 23 04:08:09 +06
+# Entries: 56,643
+# Updated: Mon, 17 Apr 23 06:07:54 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -40369,6 +40369,7 @@
 0.0.0.0 sticmoar.com
 0.0.0.0 stiffenshave.com
 0.0.0.0 stifletunnelsang.com
+0.0.0.0 stigat.com
 0.0.0.0 stilaikr.com
 0.0.0.0 stilfb.com
 0.0.0.0 stillagemanufacturer.co.uk
@@ -53590,6 +53591,7 @@
 0.0.0.0 www.sometimesmonstrouscombined.com
 0.0.0.0 www.somewhatwideslimy.com
 0.0.0.0 www.sonnysundancer.com
+0.0.0.0 www.sootconform.com
 0.0.0.0 www.sophomoreadmissible.com
 0.0.0.0 www.sopokerclub.com
 0.0.0.0 www.sordidoptimistic.com
