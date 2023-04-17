@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.107
 # Release: 107
-# Entries: 56,643
-# Updated: Mon, 17 Apr 23 06:07:54 +06
+# Entries: 56,648
+# Updated: Mon, 17 Apr 23 08:16:43 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9433,6 +9433,7 @@
 0.0.0.0 chainforchange.world
 0.0.0.0 chainsap.net
 0.0.0.0 chaintopdom.nl
+0.0.0.0 chaiptut.xyz
 0.0.0.0 chairgaubsy.com
 0.0.0.0 chairmanfreelancetravelling.com
 0.0.0.0 chairwaydenew.site
@@ -12878,6 +12879,7 @@
 0.0.0.0 digimakes.com
 0.0.0.0 digiosolution.com
 0.0.0.0 digiotech.us
+0.0.0.0 digired.in
 0.0.0.0 digiroy.com
 0.0.0.0 digital-dynamo.co.uk
 0.0.0.0 digital2cloud.com
@@ -28033,6 +28035,7 @@
 0.0.0.0 modibunkers.in
 0.0.0.0 modificationdispatch.com
 0.0.0.0 modifiedcarsai.com
+0.0.0.0 modifiedseem.com
 0.0.0.0 modifymaintenance.com
 0.0.0.0 modlinks.com
 0.0.0.0 modoro360.com
@@ -30741,6 +30744,7 @@
 0.0.0.0 oldhllvx.top
 0.0.0.0 oldmilram.com
 0.0.0.0 oldsikkamall.online
+0.0.0.0 oldsouthmk.com
 0.0.0.0 oldtimemusicschool.com
 0.0.0.0 oleariaalgenib.com
 0.0.0.0 oledc.com
@@ -45949,6 +45953,7 @@
 0.0.0.0 vexm.xyz
 0.0.0.0 vextjoexig.com
 0.0.0.0 vexturkeyupbrining.com
+0.0.0.0 veyjdaswregbj.com
 0.0.0.0 vezbi-projectseva.org
 0.0.0.0 vezzilapolla.legal
 0.0.0.0 vfanclip.com
