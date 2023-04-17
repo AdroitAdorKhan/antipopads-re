@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.107
 # Release: 107
-# Entries: 56,743
-# Updated: Mon, 17 Apr 23 20:07:55 +06
+# Entries: 56,747
+# Updated: Mon, 17 Apr 23 22:08:05 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11999,6 +11999,7 @@
 0.0.0.0 danaglafeasor.live
 0.0.0.0 dancaa.com
 0.0.0.0 dancesera.world
+0.0.0.0 dancesheetsuk.com
 0.0.0.0 dancetherappy.org
 0.0.0.0 dandclassic.com
 0.0.0.0 dandelionalso.com
@@ -52150,6 +52151,7 @@
 0.0.0.0 www.measurementcenturies.com
 0.0.0.0 www.meatabdicatedelicatessen.com
 0.0.0.0 www.mechanicladenthereby.com
+0.0.0.0 www.mechanicsforgave.com
 0.0.0.0 www.medadv.xyz
 0.0.0.0 www.mediategenericburden.com
 0.0.0.0 www.medicflippers.com
@@ -53349,6 +53351,7 @@
 0.0.0.0 www.runonflux.website
 0.0.0.0 www.rushingrentals.com
 0.0.0.0 www.russelloutbreak.com
+0.0.0.0 www.russellseemslept.com
 0.0.0.0 www.russiaroman.com
 0.0.0.0 www.rusticswollenbelonged.com
 0.0.0.0 www.rutsophisticatededaciousedacious.com
@@ -53599,6 +53602,7 @@
 0.0.0.0 www.sinosure.limited
 0.0.0.0 www.siredgarallancrow.com
 0.0.0.0 www.sirshree.app
+0.0.0.0 www.sirsilly.com
 0.0.0.0 www.sirudhaaniyafoods.com
 0.0.0.0 www.sis001h1s2.com
 0.0.0.0 www.sistercomb.com
