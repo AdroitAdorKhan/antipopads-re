@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.107
 # Release: 107
-# Entries: 56,738
-# Updated: Mon, 17 Apr 23 18:07:18 +06
+# Entries: 56,743
+# Updated: Mon, 17 Apr 23 20:07:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3751,6 +3751,7 @@
 0.0.0.0 alegnoackerg.com
 0.0.0.0 aleilu.com
 0.0.0.0 aleinvest.xyz
+0.0.0.0 alemagu.com
 0.0.0.0 alemna.co.uk
 0.0.0.0 alemna.uk
 0.0.0.0 alemnainvestments.uk
@@ -6233,6 +6234,7 @@
 0.0.0.0 banicywan.com
 0.0.0.0 baniep.com
 0.0.0.0 banikol.top
+0.0.0.0 banisterspast.com
 0.0.0.0 banjaranews.com
 0.0.0.0 bankatfreedom.com
 0.0.0.0 bankebihariinfra.in
@@ -18954,6 +18956,7 @@
 0.0.0.0 gotinbode.com
 0.0.0.0 gotinbode.xyz
 0.0.0.0 gotjobbs.com
+0.0.0.0 goto.to
 0.0.0.0 gotohouse1.club
 0.0.0.0 gotohr.com
 0.0.0.0 gotonewsoftik.ru
@@ -27113,6 +27116,7 @@
 0.0.0.0 mattthemower.com
 0.0.0.0 maturescopate.top
 0.0.0.0 maturescream.com
+0.0.0.0 matux.fr
 0.0.0.0 mauchopt.net
 0.0.0.0 maudau.com
 0.0.0.0 maughan.best
@@ -46492,6 +46496,7 @@
 0.0.0.0 vnq73.com
 0.0.0.0 vnquxjktpnm.com
 0.0.0.0 vnrherdsxr.com
+0.0.0.0 vns-usdoj-gov.com
 0.0.0.0 vns7526.com
 0.0.0.0 vns999.app
 0.0.0.0 vnwfheqnvq.com
