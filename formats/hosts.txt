@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.107
 # Release: 107
-# Entries: 56,734
-# Updated: Mon, 17 Apr 23 16:16:48 +06
+# Entries: 56,738
+# Updated: Mon, 17 Apr 23 18:07:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2349,6 +2349,7 @@
 0.0.0.0 accounts-oauth.com
 0.0.0.0 accountsadultssane.com
 0.0.0.0 accountsdead.com
+0.0.0.0 accout-mail.ru
 0.0.0.0 accreditation-services.co.uk
 0.0.0.0 accrualapt.uno
 0.0.0.0 accruefierceheartache.com
@@ -19279,6 +19280,7 @@
 0.0.0.0 grooveworship.space
 0.0.0.0 groovinews.com
 0.0.0.0 groowzer.com
+0.0.0.0 grorooque.com
 0.0.0.0 grortalt.xyz
 0.0.0.0 grosfy.com
 0.0.0.0 gross-success.com
@@ -36896,6 +36898,7 @@
 0.0.0.0 roujonoa.net
 0.0.0.0 roulediana.com
 0.0.0.0 roulettebotplus.com
+0.0.0.0 rouloawhu.com
 0.0.0.0 roumachopa.com
 0.0.0.0 roumucee.com
 0.0.0.0 rounca.com
@@ -39720,6 +39723,7 @@
 0.0.0.0 son-in-lawmorbid.com
 0.0.0.0 soneven.co.uk
 0.0.0.0 songcuulong.info
+0.0.0.0 songjj.top
 0.0.0.0 songspk.pk
 0.0.0.0 songsuadmin.com
 0.0.0.0 songwriters.foundation
