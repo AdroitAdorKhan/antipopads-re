@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.108
 # Release: 108
-# Entries: 56,837
-# Updated: Tue, 18 Apr 23 12:07:40 +06
+# Entries: 56,840
+# Updated: Tue, 18 Apr 23 14:07:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6385,6 +6385,7 @@
 0.0.0.0 batheunits.com
 0.0.0.0 batioc.com
 0.0.0.0 batmenmessily.website
+0.0.0.0 batora.org
 0.0.0.0 batp.to
 0.0.0.0 batsdivannab.com
 0.0.0.0 batsuoesgqllh.com
@@ -8365,6 +8366,7 @@
 0.0.0.0 bumblecash.com
 0.0.0.0 bummerybutene.life
 0.0.0.0 bumpyfruitless.com
+0.0.0.0 bumpyremittancecarnivorous.com
 0.0.0.0 bunbeautifullycleverness.com
 0.0.0.0 buncoswosh.com
 0.0.0.0 buncounsel.com
@@ -54715,6 +54717,7 @@
 0.0.0.0 www.xn--i-y44bs62d7lj.net
 0.0.0.0 www.xn--jrry14l.com
 0.0.0.0 www.xn--kappaespaa-19a.com
+0.0.0.0 www.xn--kappamxico-g7a.com
 0.0.0.0 www.xn--polygo-1wa.com
 0.0.0.0 www.xn--tevasterreich-lmb.com
 0.0.0.0 www.xn--tv-hk5ia.com
