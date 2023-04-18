@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.108
 # Release: 108
-# Entries: 56,836
-# Updated: Tue, 18 Apr 23 10:07:53 +06
+# Entries: 56,837
+# Updated: Tue, 18 Apr 23 12:07:40 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9581,6 +9581,7 @@
 0.0.0.0 cheapenleaving.com
 0.0.0.0 cheaplycreateproprietor.com
 0.0.0.0 cheaplyroleinvolved.com
+0.0.0.0 cheapshuttlespuntacana.com
 0.0.0.0 cheaptoursiceland.com
 0.0.0.0 cheatinfertile.com
 0.0.0.0 cheatingabate.com
