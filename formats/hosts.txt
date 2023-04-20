@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.110
 # Release: 110
-# Entries: 57,350
-# Updated: Thu, 20 Apr 23 12:27:44 +06
+# Entries: 57,352
+# Updated: Thu, 20 Apr 23 14:08:14 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -25334,6 +25334,7 @@
 0.0.0.0 larrybowman.top
 0.0.0.0 larsonfuneralhome.com
 0.0.0.0 larverewish.com
+0.0.0.0 larvpydqmwvt.com
 0.0.0.0 las4srv.com
 0.0.0.0 lasciailfumoalcapolinea.it
 0.0.0.0 laserdrivepreview.com
@@ -29048,6 +29049,7 @@
 0.0.0.0 myadcash.com
 0.0.0.0 myamite.org
 0.0.0.0 myandroid-app.com
+0.0.0.0 myas4mr.com
 0.0.0.0 myattentio.xyz
 0.0.0.0 myaxisrewards.co.in
 0.0.0.0 mybankroll.email
