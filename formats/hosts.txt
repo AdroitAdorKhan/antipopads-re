@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.110
 # Release: 110
-# Entries: 57,385
-# Updated: Thu, 20 Apr 23 20:10:25 +06
+# Entries: 57,386
+# Updated: Thu, 20 Apr 23 22:08:31 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -53052,6 +53052,7 @@
 0.0.0.0 www.notallowedscript6222f43ba7acegooglesyndication.com
 0.0.0.0 www.notallowedscript6225314650424facebook.net
 0.0.0.0 www.noticetoday.site
+0.0.0.0 www.noticiasdodia.org
 0.0.0.0 www.notifycertainty.com
 0.0.0.0 www.notorietycheerypositively.com
 0.0.0.0 www.nounrespectively.com
