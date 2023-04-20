@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.110
 # Release: 110
-# Entries: 57,360
-# Updated: Thu, 20 Apr 23 16:17:34 +06
+# Entries: 57,362
+# Updated: Thu, 20 Apr 23 18:10:11 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12534,6 +12534,7 @@
 0.0.0.0 definedchampion.com
 0.0.0.0 definedlaunching.com
 0.0.0.0 definesystems.in
+0.0.0.0 definitepayment.com
 0.0.0.0 definitial.com
 0.0.0.0 definitionburlap.com
 0.0.0.0 defonderire.com
@@ -37933,6 +37934,7 @@
 0.0.0.0 salon526.com
 0.0.0.0 salonfortuna.com
 0.0.0.0 salonsepeti.com
+0.0.0.0 salsa.in
 0.0.0.0 salsadistune.digital
 0.0.0.0 saltandflowers.org
 0.0.0.0 saltantpipped.live
