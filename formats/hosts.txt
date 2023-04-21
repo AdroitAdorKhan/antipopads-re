@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.111
 # Release: 111
-# Entries: 57,444
-# Updated: Fri, 21 Apr 23 10:12:41 +06
+# Entries: 57,462
+# Updated: Fri, 21 Apr 23 12:08:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6554,6 +6554,7 @@
 0.0.0.0 bdxsebook.com
 0.0.0.0 bdys0.com
 0.0.0.0 bdys02.com
+0.0.0.0 be-teck.website
 0.0.0.0 be.limiestvineity.com
 0.0.0.0 be.marehangranary.com
 0.0.0.0 be.paganfraktur.com
@@ -21655,6 +21656,7 @@
 0.0.0.0 icicleapplicationinvestigator.com
 0.0.0.0 icilytired.com
 0.0.0.0 icjvfvoh.com
+0.0.0.0 iclamicknowledge12.xyz
 0.0.0.0 iclickcdn.com
 0.0.0.0 icloudinc.top
 0.0.0.0 icmlfqdb.com
@@ -27846,6 +27848,7 @@
 0.0.0.0 merabooks.in
 0.0.0.0 merakiclayjewelry.com
 0.0.0.0 meratsignons.com
+0.0.0.0 mercadolivre.co
 0.0.0.0 mercar.shop
 0.0.0.0 mercedesinsurrey.uk
 0.0.0.0 mercedesus.com
@@ -36683,6 +36686,7 @@
 0.0.0.0 resholdouca.club
 0.0.0.0 residelikingminister.com
 0.0.0.0 residencen.xyz
+0.0.0.0 residencesdxb.org
 0.0.0.0 residenceseeingstanding.com
 0.0.0.0 residentialdogtrainingschool.co.uk
 0.0.0.0 residentialrlp.com
@@ -36724,6 +36728,7 @@
 0.0.0.0 responsibleassociation.com
 0.0.0.0 responsibleexchange.com
 0.0.0.0 responsiblefx.com
+0.0.0.0 responsibletourismnetwork.org
 0.0.0.0 responsiblexchange.com
 0.0.0.0 responsidejo.xyz
 0.0.0.0 responsivefebruary.com
@@ -43914,6 +43919,8 @@
 0.0.0.0 towerpro-ksa.com
 0.0.0.0 townepro.com
 0.0.0.0 townervirgas.casa
+0.0.0.0 townhousepremium.org
+0.0.0.0 townhousespremium.org
 0.0.0.0 townmartusa.com
 0.0.0.0 townmountaintravelparkhendersonville.com
 0.0.0.0 townofwitlessbay.ca
@@ -46784,6 +46791,7 @@
 0.0.0.0 villadalat49.com
 0.0.0.0 villageeatable.com
 0.0.0.0 villagerfertilityadversity.com
+0.0.0.0 villapremium.org
 0.0.0.0 villasdubainew.biz
 0.0.0.0 villasdubainew.com
 0.0.0.0 villasdxb.com
@@ -47715,6 +47723,7 @@
 0.0.0.0 wbrrfoapfc.com
 0.0.0.0 wbwnwncckarrcje.com
 0.0.0.0 wbxfbyeihhwa.xyz
+0.0.0.0 wcasaints.org
 0.0.0.0 wcblxtcneisq.top
 0.0.0.0 wcdvgbsfqqprfr.com
 0.0.0.0 wcgceaermafv.top
@@ -49952,6 +49961,7 @@
 0.0.0.0 www.bbnfcfrvjs.com
 0.0.0.0 www.bbvaseguridad.online
 0.0.0.0 www.bdxsebook.com
+0.0.0.0 www.be-teck.website
 0.0.0.0 www.beaconmodels.com
 0.0.0.0 www.beambroth.com
 0.0.0.0 www.beanspriority.com
@@ -52001,6 +52011,7 @@
 0.0.0.0 www.icatresources.com
 0.0.0.0 www.iceplex.com
 0.0.0.0 www.icilytired.com
+0.0.0.0 www.iclamicknowledge12.xyz
 0.0.0.0 www.iconcardinal.com
 0.0.0.0 www.ideal-nutra.com
 0.0.0.0 www.idealengland.com
@@ -53882,6 +53893,7 @@
 0.0.0.0 www.reservedwantrealistic.com
 0.0.0.0 www.resetmascara.com
 0.0.0.0 www.resetoccultkeeper.com
+0.0.0.0 www.residencesdxb.org
 0.0.0.0 www.residentialrlp.com
 0.0.0.0 www.residentprocuratorreal.com
 0.0.0.0 www.resigndictationhorns.com
@@ -53893,6 +53905,7 @@
 0.0.0.0 www.respecttallitem.com
 0.0.0.0 www.respondenemy.com
 0.0.0.0 www.responsiblefx.com
+0.0.0.0 www.responsibletourismnetwork.org
 0.0.0.0 www.responsiblexchange.com
 0.0.0.0 www.responsivefebruary.com
 0.0.0.0 www.restartburgerremembrance.com
@@ -54788,6 +54801,8 @@
 0.0.0.0 www.tournamentsevenhung.com
 0.0.0.0 www.towardstapleleaflet.com
 0.0.0.0 www.towermud.com
+0.0.0.0 www.townhousepremium.org
+0.0.0.0 www.townhousespremium.org
 0.0.0.0 www.towtinsel.com
 0.0.0.0 www.toxicrookie.com
 0.0.0.0 www.tptscan.net
@@ -55042,6 +55057,8 @@
 0.0.0.0 www.viewermainlymerger.com
 0.0.0.0 www.viewsafestsensible.com
 0.0.0.0 www.vilereasoning.com
+0.0.0.0 www.villapremium.org
+0.0.0.0 www.villaspremium.org
 0.0.0.0 www.vinci1x2.it
 0.0.0.0 www.vinegarfactorelevator.com
 0.0.0.0 www.vinianselmi.it
@@ -55134,6 +55151,7 @@
 0.0.0.0 www.wawbarf.com
 0.0.0.0 www.waylonjimi69.com
 0.0.0.0 www.waytokashmir.com
+0.0.0.0 www.wcasaints.org
 0.0.0.0 www.we24support.com
 0.0.0.0 www.wealth-management-coach.com
 0.0.0.0 www.wealth-wise.online
