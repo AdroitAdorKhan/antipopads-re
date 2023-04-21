@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.112
 # Release: 112
-# Entries: 57,581
-# Updated: Sat, 22 Apr 23 00:26:57 +06
+# Entries: 57,583
+# Updated: Sat, 22 Apr 23 02:11:10 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -884,6 +884,7 @@
 0.0.0.0 35acax.com
 0.0.0.0 35dbdbe192.5b541f17b1.com
 0.0.0.0 360adshost.net
+0.0.0.0 360kiralayaninda.site
 0.0.0.0 360popads.com
 0.0.0.0 360protected.com
 0.0.0.0 360tingshu.cc
@@ -54914,6 +54915,7 @@
 0.0.0.0 www.tournamentfraydirection.com
 0.0.0.0 www.tournamentsevenhung.com
 0.0.0.0 www.towardstapleleaflet.com
+0.0.0.0 www.towardsturtle.com
 0.0.0.0 www.towermud.com
 0.0.0.0 www.townhousepremium.org
 0.0.0.0 www.townhousespremium.org
