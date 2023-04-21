@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.111
 # Release: 111
-# Entries: 57,538
-# Updated: Fri, 21 Apr 23 20:21:50 +06
+# Entries: 57,542
+# Updated: Fri, 21 Apr 23 22:08:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7593,6 +7593,7 @@
 0.0.0.0 bluedawning.com
 0.0.0.0 bluedcrwth.com
 0.0.0.0 bluedragonflyapparel.com
+0.0.0.0 bluegrassserenity.com
 0.0.0.0 bluegreaser.com
 0.0.0.0 blueistheneworanges.com
 0.0.0.0 bluejayfacette.com
@@ -18657,6 +18658,7 @@
 0.0.0.0 glasselderly.com
 0.0.0.0 glassesoftruth.com
 0.0.0.0 glassmilheart.com
+0.0.0.0 glasssnowflake.com
 0.0.0.0 glaubuph.com
 0.0.0.0 glaughoa.xyz
 0.0.0.0 glaunsil.xyz
@@ -28604,6 +28606,7 @@
 0.0.0.0 monofilslide.uno
 0.0.0.0 monolerates.com
 0.0.0.0 monopolypenitentiarynegligence.com
+0.0.0.0 monopolyvehemencedisk.com
 0.0.0.0 monotolu.online
 0.0.0.0 monotonoustuneunderestimate.com
 0.0.0.0 monpsy.top
@@ -33821,6 +33824,7 @@
 0.0.0.0 playmathbox.com
 0.0.0.0 playmovies.co.uk
 0.0.0.0 playnationsgames.net
+0.0.0.0 playon.pro
 0.0.0.0 playrota.org
 0.0.0.0 playrummy365.com
 0.0.0.0 playsdonkey.com
