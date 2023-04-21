@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.111
 # Release: 111
-# Entries: 57,529
-# Updated: Fri, 21 Apr 23 18:11:24 +06
+# Entries: 57,538
+# Updated: Fri, 21 Apr 23 20:21:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -32,6 +32,7 @@
 0.0.0.0 0-000.store
 0.0.0.0 0-un.org
 0.0.0.0 000779.com86658.comwww.844644.com
+0.0.0.0 005598.comwww.601122.com
 0.0.0.0 007ioretseqx.com
 0.0.0.0 007seo.net
 0.0.0.0 0080u.com
@@ -4401,6 +4402,7 @@
 0.0.0.0 anjanaasrestaurant.in
 0.0.0.0 anjapparrestaurant.in
 0.0.0.0 anjqaukljplk.com
+0.0.0.0 ankitdhir.com
 0.0.0.0 ankurt.in
 0.0.0.0 anlcld.com
 0.0.0.0 anldnews.pro
@@ -5502,6 +5504,7 @@
 0.0.0.0 attendantsammunitiondeliquencydeliquency.com
 0.0.0.0 attendantsrescuediscrepancy.com
 0.0.0.0 attendantsteakfax.com
+0.0.0.0 attends.group
 0.0.0.0 attentiongolanchampagne.com
 0.0.0.0 attentioniau.com
 0.0.0.0 attentionkick.com
@@ -6526,6 +6529,7 @@
 0.0.0.0 bcdiver.net
 0.0.0.0 bcenuvkijj.com
 0.0.0.0 bcerlnrxdyqw.xyz
+0.0.0.0 bcffkvpjqferl.com
 0.0.0.0 bcfgkycsn.com
 0.0.0.0 bcgbbzxackpk.com
 0.0.0.0 bcjobs.online
@@ -11709,6 +11713,7 @@
 0.0.0.0 csrdoffice.com
 0.0.0.0 csrmohcym.com
 0.0.0.0 cssewa.com
+0.0.0.0 csvlgqsanwry.com
 0.0.0.0 csvljnhkhxt.xyz
 0.0.0.0 cswecare.com
 0.0.0.0 ct.cerebrifetors.com
@@ -36335,6 +36340,7 @@
 0.0.0.0 red-track.xyz
 0.0.0.0 redads.biz
 0.0.0.0 redanludb.xyz
+0.0.0.0 redapplespiritualmentor.in
 0.0.0.0 redbillecphory.com
 0.0.0.0 redcedarinspections.net
 0.0.0.0 redcedarinspections.us
@@ -49110,6 +49116,7 @@
 0.0.0.0 www-monkeyserc.com
 0.0.0.0 www-ok2929.com
 0.0.0.0 www-ok3737.com
+0.0.0.0 www.005598.comwww.601122.com
 0.0.0.0 www.01r2.com
 0.0.0.0 www.01xamxz.com
 0.0.0.0 www.027hccw.com
@@ -49132,6 +49139,7 @@
 0.0.0.0 www.10aksdbjad22.monster
 0.0.0.0 www.10aksjbdk0.monster
 0.0.0.0 www.10asldknlasd00.monster
+0.0.0.0 www.10iopelamse.com
 0.0.0.0 www.10jhsvdjhfsdf10.monster
 0.0.0.0 www.10kajhbsjkd100.monster
 0.0.0.0 www.10lokilesrate.com
@@ -49737,6 +49745,7 @@
 0.0.0.0 www.anielaelzanowska.com
 0.0.0.0 www.animebetter.com
 0.0.0.0 www.animsup.biz
+0.0.0.0 www.ankitdhir.com
 0.0.0.0 www.anmoldev.tech
 0.0.0.0 www.annaandkaren.com
 0.0.0.0 www.announceproposition.com
