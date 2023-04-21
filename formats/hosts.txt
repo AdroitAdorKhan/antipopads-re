@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.111
 # Release: 111
-# Entries: 57,440
-# Updated: Fri, 21 Apr 23 08:10:32 +06
+# Entries: 57,444
+# Updated: Fri, 21 Apr 23 10:12:41 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19249,6 +19249,7 @@
 0.0.0.0 gpprimarycare.co.uk
 0.0.0.0 gpqudvbtu.com
 0.0.0.0 gprhe.com
+0.0.0.0 gps-live.pw
 0.0.0.0 gpt-trump.com
 0.0.0.0 gpt4all.xyz
 0.0.0.0 gptindia.in
@@ -22584,6 +22585,7 @@
 0.0.0.0 intranasalcovid19vaccine.online
 0.0.0.0 intranasalcovid19vaccines.online
 0.0.0.0 intranasalvaccinepassports.online
+0.0.0.0 intranetadv.com
 0.0.0.0 intrepidrosebudstationery.com
 0.0.0.0 intricatering.com
 0.0.0.0 intro4ads.com
@@ -32797,6 +32799,7 @@
 0.0.0.0 pearlmedia.in
 0.0.0.0 peateryfewnes.com
 0.0.0.0 peaterylebes.guru
+0.0.0.0 peatmanpols.store
 0.0.0.0 peatmenbandsaw.website
 0.0.0.0 pebadu.com
 0.0.0.0 pebiqoghsbbpq.com
@@ -39897,6 +39900,7 @@
 0.0.0.0 smartworldtheempiresector66.net
 0.0.0.0 smartworldtriumphsector66.co.in
 0.0.0.0 smartyr.uk
+0.0.0.0 smartytech.io
 0.0.0.0 smashandpull.com
 0.0.0.0 smashnewtab.com
 0.0.0.0 smashnpull.com
