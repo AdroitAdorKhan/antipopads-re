@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.111
 # Release: 111
-# Entries: 57,435
-# Updated: Fri, 21 Apr 23 04:09:53 +06
+# Entries: 57,439
+# Updated: Fri, 21 Apr 23 06:09:42 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8273,6 +8273,7 @@
 0.0.0.0 bsbinter.com
 0.0.0.0 bsgeneral.com
 0.0.0.0 bsiscreations.com
+0.0.0.0 bsjusnip.com
 0.0.0.0 bskhdiylrnxdp.com
 0.0.0.0 bskoxrhkkta.com
 0.0.0.0 bslhcogqiknupo.com
@@ -27014,6 +27015,7 @@
 0.0.0.0 mahdicrofter.com
 0.0.0.0 maheshwara.org
 0.0.0.0 mahilaevambalkalyan.com
+0.0.0.0 mahitimarathit.in
 0.0.0.0 maholinoticed.com
 0.0.0.0 mahoosivemedia.co.uk
 0.0.0.0 mahsirlaurite.guru
@@ -38217,6 +38219,7 @@
 0.0.0.0 sc.franklyrammy.com
 0.0.0.0 scajrimu.com
 0.0.0.0 scalefrog.net
+0.0.0.0 scalemyidea.com
 0.0.0.0 scaleshustleprice.com
 0.0.0.0 scalesmothforget.com
 0.0.0.0 scalfebecky.digital
@@ -52690,6 +52693,7 @@
 0.0.0.0 www.magicianmost.com
 0.0.0.0 www.magnati.co.uk
 0.0.0.0 www.maharajgroup.co.za
+0.0.0.0 www.mahitimarathit.in
 0.0.0.0 www.mahuabika.com
 0.0.0.0 www.maidfrustratingindefinitely.com
 0.0.0.0 www.mailboxleadsphone.com
