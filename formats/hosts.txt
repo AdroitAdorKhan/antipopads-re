@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.112
 # Release: 112
-# Entries: 57,591
-# Updated: Sat, 22 Apr 23 04:11:57 +06
+# Entries: 57,595
+# Updated: Sat, 22 Apr 23 06:08:04 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11887,6 +11887,7 @@
 0.0.0.0 customartvideo.net
 0.0.0.0 customer-savings.net
 0.0.0.0 customerablative.com
+0.0.0.0 customguayas.com
 0.0.0.0 customhistoric.com
 0.0.0.0 customify.pw
 0.0.0.0 customize-everything.co.uk
@@ -17060,6 +17061,7 @@
 0.0.0.0 flcp700.cc
 0.0.0.0 fleabutton.com
 0.0.0.0 fleetmarket.pt
+0.0.0.0 flenbo.online
 0.0.0.0 flewke.com
 0.0.0.0 flewssyzygia.casa
 0.0.0.0 flexi-solarpanel.co.uk
@@ -37110,6 +37112,7 @@
 0.0.0.0 rigiddepth.com
 0.0.0.0 rigidearnest.com
 0.0.0.0 rigidpenholderintelligence.com
+0.0.0.0 rigidtech.net
 0.0.0.0 rigies.com
 0.0.0.0 rigoqvofl.com
 0.0.0.0 rigorousoxidenovelty.com
@@ -51541,6 +51544,7 @@
 0.0.0.0 www.flaxlistedleague.com
 0.0.0.0 www.flb366.com
 0.0.0.0 www.fleabutton.com
+0.0.0.0 www.flenbo.online
 0.0.0.0 www.flexiblepipetool.com
 0.0.0.0 www.flharce.site
 0.0.0.0 www.flightsonline.app
