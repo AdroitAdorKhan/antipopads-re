@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.113
 # Release: 113
-# Entries: 57,793
-# Updated: Sun, 23 Apr 23 00:13:49 +06
+# Entries: 57,798
+# Updated: Sun, 23 Apr 23 02:10:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6629,6 +6629,7 @@
 0.0.0.0 beastintruder.com
 0.0.0.0 beastly.info
 0.0.0.0 beastsclassbiscuit.com
+0.0.0.0 beatenunfinishedguarantee.com
 0.0.0.0 beatifulapplabland.com
 0.0.0.0 beatsnumen.tech
 0.0.0.0 beaucontour.co.uk
@@ -19159,6 +19160,7 @@
 0.0.0.0 gogogox.top
 0.0.0.0 gogoldenvalley.org
 0.0.0.0 gogonime.tel
+0.0.0.0 gogord.com
 0.0.0.0 gogort3.com
 0.0.0.0 gogort4.com
 0.0.0.0 gogreatlakes.org
@@ -24291,6 +24293,7 @@
 0.0.0.0 kafilafoundation.org
 0.0.0.0 kagrooxa.net
 0.0.0.0 kahcxpqaj.com
+0.0.0.0 kahootc.com
 0.0.0.0 kaifiluk.com
 0.0.0.0 kailsfrot.com
 0.0.0.0 kairosvelix.com
@@ -52996,6 +52999,7 @@
 0.0.0.0 www.lyricalbarb.com
 0.0.0.0 www.lyricspartnerindecent.com
 0.0.0.0 www.lzfems.com
+0.0.0.0 www.m.risingproductsearch.com
 0.0.0.0 www.m365-etsgbv.com
 0.0.0.0 www.m3mcityofdream.com
 0.0.0.0 www.m3mindiaproject.com
@@ -54201,6 +54205,7 @@
 0.0.0.0 www.representativerepellentbob.com
 0.0.0.0 www.reproofdiningiris.com
 0.0.0.0 www.reptiles-of-ethiopia-and-eritrea.com
+0.0.0.0 www.republichuntprimary.com
 0.0.0.0 www.republicunableappellation.com
 0.0.0.0 www.requestedgreeting.com
 0.0.0.0 www.research-scischolarmail.biz
