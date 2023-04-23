@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.113
 # Release: 113
-# Entries: 58,023
-# Updated: Sun, 23 Apr 23 20:07:34 +06
+# Entries: 58,024
+# Updated: Sun, 23 Apr 23 22:15:11 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -4059,6 +4059,7 @@
 :: alpinedrct.com
 :: alpineoptometry.ca
 :: alpinesafes.com
+:: alpoalpo.xyz
 :: alqaaqaa.com
 :: alraifutrading.com
 :: alramauae.com
