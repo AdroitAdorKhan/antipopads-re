@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.113
 # Release: 113
-# Entries: 57,801
-# Updated: Sun, 23 Apr 23 04:07:18 +06
+# Entries: 57,804
+# Updated: Sun, 23 Apr 23 06:15:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -42140,6 +42140,7 @@
 0.0.0.0 tammlit.com
 0.0.0.0 tammyandjeff2024.com
 0.0.0.0 tamoafuera.com
+0.0.0.0 tampatim.net
 0.0.0.0 tampermonkey2.net
 0.0.0.0 tamperstationerycultivate.com
 0.0.0.0 tampoprintasia.com
@@ -54428,6 +54429,7 @@
 0.0.0.0 www.secrettips.xyz
 0.0.0.0 www.secure-dw.ru
 0.0.0.0 www.secure.agasis.tech
+0.0.0.0 www.secure.risingproductsearch.com
 0.0.0.0 www.securetaxfilings.com
 0.0.0.0 www.seedattentiontestify.com
 0.0.0.0 www.seerscardactivate.online
@@ -54922,6 +54924,7 @@
 0.0.0.0 www.tamilyogi.news
 0.0.0.0 www.tamilyogi.plus
 0.0.0.0 www.tamoafuera.com
+0.0.0.0 www.tampatim.net
 0.0.0.0 www.tampermonkey2.net
 0.0.0.0 www.tanadong.net
 0.0.0.0 www.taobaoimages.com
