@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.113
 # Release: 113
-# Entries: 58,008
-# Updated: Sun, 23 Apr 23 16:07:43 +06
+# Entries: 58,015
+# Updated: Sun, 23 Apr 23 18:10:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6702,6 +6702,7 @@
 0.0.0.0 beeaimaid.com
 0.0.0.0 beeanna.tech
 0.0.0.0 beechverandahvanilla.com
+0.0.0.0 beedeveled.co
 0.0.0.0 beedifficultyending.com
 0.0.0.0 beefarmstay.com
 0.0.0.0 beeferzak.com
@@ -13253,6 +13254,7 @@
 0.0.0.0 diphuonline.in
 0.0.0.0 diploisaloofly.com
 0.0.0.0 diplomasewerivory.com
+0.0.0.0 diplomasx.com
 0.0.0.0 diplombrendt.com
 0.0.0.0 dipobeds.com
 0.0.0.0 dippingearlier.com
@@ -20353,6 +20355,7 @@
 0.0.0.0 havenattackedevolve.com
 0.0.0.0 havenkingdom.shop
 0.0.0.0 havenwrite.com
+0.0.0.0 havils.com
 0.0.0.0 haviol.com
 0.0.0.0 haviouseulom.club
 0.0.0.0 havocraggedhumble.com
@@ -25164,6 +25167,7 @@
 0.0.0.0 kqraetuvkcymbx.top
 0.0.0.0 kqsavbefvgqrt.xyz
 0.0.0.0 kqtv6izko.com
+0.0.0.0 kqxs3s.com
 0.0.0.0 kqxs88.com
 0.0.0.0 kqxvdahyhfuchcm.com
 0.0.0.0 kqyywvok.xyz
@@ -35154,6 +35158,7 @@
 0.0.0.0 pryrhoohs.site
 0.0.0.0 prytrainer.com
 0.0.0.0 pryvateparteez.net
+0.0.0.0 przywodztwosytuacyjne.io
 0.0.0.0 przywodztwosytuacyjne.space
 0.0.0.0 ps.popcash.net
 0.0.0.0 ps7894.com
@@ -51395,6 +51400,7 @@
 0.0.0.0 www.dinosaurenchantment.com
 0.0.0.0 www.dinosaurrestore.com
 0.0.0.0 www.diplomasewerivory.com
+0.0.0.0 www.diplomasx.com
 0.0.0.0 www.directfares.net
 0.0.0.0 www.directfirstaid.biz
 0.0.0.0 www.directionssecondary.com
@@ -57957,6 +57963,7 @@
 0.0.0.0 zthan.net
 0.0.0.0 ztulkecpeo.com
 0.0.0.0 ztwgames.com
+0.0.0.0 ztyqrwinqpvque.com
 0.0.0.0 zubivu.com
 0.0.0.0 zudaichy.com
 0.0.0.0 zudccobhua.com
