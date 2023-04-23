@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.114
 # Release: 114
-# Entries: 58,059
-# Updated: Mon, 24 Apr 23 02:10:45 +06
+# Entries: 58,060
+# Updated: Mon, 24 Apr 23 04:07:29 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -51859,6 +51859,7 @@
 0.0.0.0 www.fantac.top
 0.0.0.0 www.fantasyspent.com
 0.0.0.0 www.farawayamusement.com
+0.0.0.0 www.farawayreel.com
 0.0.0.0 www.farhotels.xyz
 0.0.0.0 www.farmacia-es.com
 0.0.0.0 www.farmersexchangeonline.com
