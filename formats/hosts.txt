@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.113
 # Release: 113
-# Entries: 57,838
-# Updated: Sun, 23 Apr 23 08:07:10 +06
+# Entries: 57,843
+# Updated: Sun, 23 Apr 23 10:10:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -33972,6 +33972,7 @@
 0.0.0.0 plastleislike.com
 0.0.0.0 platebhmwfndajq.com
 0.0.0.0 platesworked.com
+0.0.0.0 platform-hetcash.com
 0.0.0.0 platform-udcp.com
 0.0.0.0 platform.bidgear.com
 0.0.0.0 plati.ru
@@ -39747,6 +39748,7 @@
 0.0.0.0 simplyjmp.com
 0.0.0.0 simplysalsaaz.com
 0.0.0.0 simplysemblance.com
+0.0.0.0 simplywage.com
 0.0.0.0 simplyyumannightmarket.com
 0.0.0.0 simpulaanseres.store
 0.0.0.0 simpunok.com
@@ -46061,6 +46063,7 @@
 0.0.0.0 uponsurskita.com
 0.0.0.0 upoveqbkia.xyz
 0.0.0.0 uppardjets.com
+0.0.0.0 upperate-video.com
 0.0.0.0 upperbeautylab.com
 0.0.0.0 upperpadreisland.org
 0.0.0.0 uppervileparle.com
@@ -47836,6 +47839,7 @@
 0.0.0.0 wandijltus.com
 0.0.0.0 wanfanghuanbao.com
 0.0.0.0 wangfenxi.com
+0.0.0.0 wanghairead.com
 0.0.0.0 waninusty.com
 0.0.0.0 wanjul.com
 0.0.0.0 wanmolamchoor.store
@@ -55492,6 +55496,7 @@
 0.0.0.0 www.walrusintroducing.com
 0.0.0.0 www.walwave.com
 0.0.0.0 www.wandererbashful.com
+0.0.0.0 www.wanghairead.com
 0.0.0.0 www.wantsindulgencehum.com
 0.0.0.0 www.wap-zfzf.net
 0.0.0.0 www.wappie.world
