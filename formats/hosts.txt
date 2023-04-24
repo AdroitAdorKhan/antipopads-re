@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.114
 # Release: 114
-# Entries: 58,060
-# Updated: Mon, 24 Apr 23 04:07:29 +06
+# Entries: 58,065
+# Updated: Mon, 24 Apr 23 06:15:14 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19541,6 +19541,7 @@
 0.0.0.0 grand-gifts.com
 0.0.0.0 grandchildfee.com
 0.0.0.0 grandclubvacay.com
+0.0.0.0 granddadfindsponderous.com
 0.0.0.0 granddaughterfashioned.com
 0.0.0.0 granddaughterrepresentationintroduce.com
 0.0.0.0 grandeur-bangalore.com
@@ -24499,6 +24500,7 @@
 0.0.0.0 kashacodeina.com
 0.0.0.0 kashani.dev
 0.0.0.0 kasheglesy.pro
+0.0.0.0 kashgenie.com
 0.0.0.0 kashmir-tourism.net
 0.0.0.0 kashvicomputercenter.online
 0.0.0.0 kaspbackers.com
@@ -25115,6 +25117,7 @@
 0.0.0.0 koolahwelder.com
 0.0.0.0 koolturecr.com
 0.0.0.0 koopheen.com
+0.0.0.0 koora.live
 0.0.0.0 koora2live.com
 0.0.0.0 koovapou.xyz
 0.0.0.0 kopehngtragen.com
@@ -52938,6 +52941,7 @@
 0.0.0.0 www.kariadi-hotspot.net
 0.0.0.0 www.karikaturbul.com
 0.0.0.0 www.kartretail.com
+0.0.0.0 www.kashgenie.com
 0.0.0.0 www.katak.fr
 0.0.0.0 www.kathmanduyogaschool.com
 0.0.0.0 www.katsrin.info
@@ -53006,6 +53010,7 @@
 0.0.0.0 www.kolipol.top
 0.0.0.0 www.kolongstore.tech
 0.0.0.0 www.koolturecr.com
+0.0.0.0 www.koora.live
 0.0.0.0 www.kopoertse.com
 0.0.0.0 www.korooz.co.uk
 0.0.0.0 www.kotak811.click
