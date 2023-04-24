@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.114
 # Release: 114
-# Entries: 58,068
-# Updated: Mon, 24 Apr 23 08:08:37 +06
+# Entries: 58,070
+# Updated: Mon, 24 Apr 23 10:11:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28723,6 +28723,7 @@
 0.0.0.0 mobiledisplays.video
 0.0.0.0 mobilehdmi.com
 0.0.0.0 mobilehealthsurveillance.uk
+0.0.0.0 mobilelandscapeuk.com
 0.0.0.0 mobilemedicalscreening.co.uk
 0.0.0.0 mobilepettingfarms.co.uk
 0.0.0.0 mobileraffles.com
@@ -39225,6 +39226,7 @@
 0.0.0.0 seruj.top
 0.0.0.0 serumalkillow.com
 0.0.0.0 serumbosses.com
+0.0.0.0 serv-selectmedia.com
 0.0.0.0 serv01001.xyz
 0.0.0.0 servanttowns.com
 0.0.0.0 servboost.tech
