@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.114
 # Release: 114
-# Entries: 58,183
-# Updated: Mon, 24 Apr 23 20:07:30 +06
+# Entries: 58,218
+# Updated: Mon, 24 Apr 23 22:17:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -484,6 +484,7 @@
 0.0.0.0 1noytherdomain1.com
 0.0.0.0 1nstallxus3x.com
 0.0.0.0 1o1camshow.com
+0.0.0.0 1od1.store
 0.0.0.0 1odi7j43c.de
 0.0.0.0 1oej.com
 0.0.0.0 1ok.ca
@@ -2001,6 +2002,7 @@
 0.0.0.0 9xob25oszs.com
 0.0.0.0 9zx1pj.life
 0.0.0.0 _dmarc.mx.mx.www.connectindian.com
+0.0.0.0 _domainkey.hostmaster.www.todaypk.cz
 0.0.0.0 a-94interdads.com
 0.0.0.0 a-ads.com
 0.0.0.0 a-b-c-d.xyz
@@ -2319,6 +2321,7 @@
 0.0.0.0 acacdn.com
 0.0.0.0 acaciaarraydebate.com
 0.0.0.0 acaciinpreopen.guru
+0.0.0.0 academai.online
 0.0.0.0 academianexus.com
 0.0.0.0 academyblocked.com
 0.0.0.0 academyenrage.com
@@ -2474,6 +2477,7 @@
 0.0.0.0 acquitfigreside.com
 0.0.0.0 acquitjeans.com
 0.0.0.0 acqxkqcv.top
+0.0.0.0 acrakjrzonm.com
 0.0.0.0 acrelogy.com
 0.0.0.0 acresupervision.com
 0.0.0.0 acronycgrimes.com
@@ -7264,6 +7268,7 @@
 0.0.0.0 bigsport.today
 0.0.0.0 bigwavedave.us
 0.0.0.0 bigwinc.us
+0.0.0.0 bigwinnerscircle.com
 0.0.0.0 biharitalks.com
 0.0.0.0 biimum.com
 0.0.0.0 biinminigihi.com
@@ -9731,6 +9736,7 @@
 0.0.0.0 charterporous.com
 0.0.0.0 chartlon.skin
 0.0.0.0 chartstandards.com
+0.0.0.0 chasmsnaa.com
 0.0.0.0 chastepaddlesynthesis.com
 0.0.0.0 chat080.net
 0.0.0.0 chatglm6b.com
@@ -18032,6 +18038,7 @@
 0.0.0.0 furryfriendforever.in
 0.0.0.0 fursentete.digital
 0.0.0.0 furstraitsbrowse.com
+0.0.0.0 furyprosecutionkitchen.com
 0.0.0.0 fusionradio.fm
 0.0.0.0 fusionwishful.com
 0.0.0.0 fusioshoes.com
@@ -20139,6 +20146,7 @@
 0.0.0.0 habitofsticklik.com
 0.0.0.0 habitualremittance.com
 0.0.0.0 habrasysteleii.xyz
+0.0.0.0 habusima.uno
 0.0.0.0 hacade.com
 0.0.0.0 hack3r-pro.tech
 0.0.0.0 hackagents.codes
@@ -22038,6 +22046,7 @@
 0.0.0.0 ifallsjournal.com
 0.0.0.0 ifaupsoo.com
 0.0.0.0 ifbs.uk
+0.0.0.0 ifcdigital.ca
 0.0.0.0 ifdmuggdky.com
 0.0.0.0 ifern.in
 0.0.0.0 ifhtiyosf.com
@@ -22085,6 +22094,7 @@
 0.0.0.0 ignytgmujoxef.xyz
 0.0.0.0 igo.am
 0.0.0.0 igoacross.org
+0.0.0.0 igomaps.co.il
 0.0.0.0 igoognou.xyz
 0.0.0.0 igpcake.org
 0.0.0.0 igran.io
@@ -23792,6 +23802,7 @@
 0.0.0.0 jhsfwutqvnf.xyz
 0.0.0.0 jhsvdjfsdf3.monster
 0.0.0.0 jhwye.com
+0.0.0.0 jhxqfgbj.com
 0.0.0.0 jhyjuwrm.com
 0.0.0.0 jhzotqafwgb.com
 0.0.0.0 ji.dioramarelimit.com
@@ -25840,6 +25851,7 @@
 0.0.0.0 lbleisuremanagement.net
 0.0.0.0 lbnpqngau.com
 0.0.0.0 lbntwwaw.com
+0.0.0.0 lbogspot.com
 0.0.0.0 lbpnnlywgbc.top
 0.0.0.0 lbsbytlru.com
 0.0.0.0 lby2kd27c.com
@@ -26720,6 +26732,7 @@
 0.0.0.0 lolsefti.com
 0.0.0.0 loma.am
 0.0.0.0 lomatefee.com
+0.0.0.0 lombina.shop
 0.0.0.0 loms.online
 0.0.0.0 london-nomad.com
 0.0.0.0 londonbridge.city
@@ -27397,6 +27410,7 @@
 0.0.0.0 maidfrustratingindefinitely.com
 0.0.0.0 maiglair.net
 0.0.0.0 maijauta.xyz
+0.0.0.0 mail._domainkey.hostmaster.www.todaypk.cz
 0.0.0.0 mailboxdoablebasically.com
 0.0.0.0 mailboxleadsphone.com
 0.0.0.0 mailchilly.org
@@ -27479,6 +27493,7 @@
 0.0.0.0 makqfcvs.com
 0.0.0.0 makspeedtech.net
 0.0.0.0 makucoca.com
+0.0.0.0 malabar.shop
 0.0.0.0 maldini.xyz
 0.0.0.0 malect.com
 0.0.0.0 malibubob.org
@@ -27538,6 +27553,7 @@
 0.0.0.0 mandhflooringkitchenandbath.com
 0.0.0.0 mandsdesigns.com
 0.0.0.0 maneretreat.com
+0.0.0.0 manesscrass.com
 0.0.0.0 manewadninth.com
 0.0.0.0 manfjgo2jgb8mg09.com
 0.0.0.0 manga-mods.org
@@ -32768,6 +32784,7 @@
 0.0.0.0 paifemouchoa.com
 0.0.0.0 paifouth.com
 0.0.0.0 paigipto.net
+0.0.0.0 paigna.com
 0.0.0.0 paikaufy.com
 0.0.0.0 painfulpropaganda.com
 0.0.0.0 painintheukraine.net
@@ -36356,6 +36373,7 @@
 0.0.0.0 raigluce.net
 0.0.0.0 raigns.com
 0.0.0.0 railfrog.com
+0.0.0.0 raillimp.com
 0.0.0.0 railport.in
 0.0.0.0 railroadfatherenlargement.com
 0.0.0.0 railroadignorant.com
@@ -40787,6 +40805,7 @@
 0.0.0.0 sonumal.com
 0.0.0.0 soonbigo.com
 0.0.0.0 soopukib.net
+0.0.0.0 sooreejy.xyz
 0.0.0.0 soosooka.com
 0.0.0.0 sootconform.com
 0.0.0.0 sootproclaim.com
@@ -41628,6 +41647,7 @@
 0.0.0.0 stream-all.com
 0.0.0.0 streamflix.tech
 0.0.0.0 streamgoodmusic.com
+0.0.0.0 streaming-illimite2.com
 0.0.0.0 streaming-illimite5.com
 0.0.0.0 streamingmaven.com
 0.0.0.0 streamroutines.com
@@ -44107,6 +44127,7 @@
 0.0.0.0 tocyen18.com
 0.0.0.0 todaykerassentialsdiscountsales05.site
 0.0.0.0 todaykerassentialsdiscountsales08.site
+0.0.0.0 todaypk.cz
 0.0.0.0 todayprodentimsdiscountsales03.site
 0.0.0.0 todayprodentimsdiscountsales08.site
 0.0.0.0 todayrecipes.info
@@ -48300,6 +48321,7 @@
 0.0.0.0 waynagmay.com
 0.0.0.0 wayniac.tech
 0.0.0.0 waynutry.com
+0.0.0.0 wayoftheinnernaut.net
 0.0.0.0 wayoftheinnernaut.org
 0.0.0.0 wayphalowaypoint.com
 0.0.0.0 waythhotels.com
@@ -48583,6 +48605,7 @@
 0.0.0.0 weltercampe.com
 0.0.0.0 welved.com
 0.0.0.0 wematit.world
+0.0.0.0 wemaximizecreativity.info
 0.0.0.0 wemlikxu.xyz
 0.0.0.0 wemonclus.es
 0.0.0.0 wempooboa.com
@@ -49766,6 +49789,7 @@
 0.0.0.0 www.1looklikesooos1.com
 0.0.0.0 www.1n1domainss.com
 0.0.0.0 www.1noytherdomain1.com
+0.0.0.0 www.1od1.store
 0.0.0.0 www.1ooppssww.com
 0.0.0.0 www.1serentes1.com
 0.0.0.0 www.1sgdsssadx.monster
@@ -50098,6 +50122,7 @@
 0.0.0.0 www.absolvecarriagenotify.com
 0.0.0.0 www.absolveparticlesanti.com
 0.0.0.0 www.abwsunml.com
+0.0.0.0 www.academai.online
 0.0.0.0 www.academyenrage.com
 0.0.0.0 www.acceleratedrummer.com
 0.0.0.0 www.acceptablearablezoological.com
@@ -50108,6 +50133,7 @@
 0.0.0.0 www.accomplishedgradual.com
 0.0.0.0 www.accomplishmentmentalresurrection.com
 0.0.0.0 www.accordaudienceeducational.com
+0.0.0.0 www.accout-mail.ru
 0.0.0.0 www.accreditation-services.co.uk
 0.0.0.0 www.accusationankle.com
 0.0.0.0 www.accuserannouncementadulthood.com
@@ -52694,6 +52720,7 @@
 0.0.0.0 www.ignorantrigidpreferred.com
 0.0.0.0 www.ignoringpromisingonce.com
 0.0.0.0 www.igoacross.org
+0.0.0.0 www.igomaps.co.il
 0.0.0.0 www.igreporthelper.com
 0.0.0.0 www.iiidmembership.net.in
 0.0.0.0 www.ikea-business.hu
@@ -53302,6 +53329,7 @@
 0.0.0.0 www.loftathailand.com
 0.0.0.0 www.loftusinghorizon.com
 0.0.0.0 www.logscardiac.com
+0.0.0.0 www.lombina.shop
 0.0.0.0 www.loms.online
 0.0.0.0 www.lonehawkchurch.com
 0.0.0.0 www.lonelinessapp.com
@@ -53391,6 +53419,7 @@
 0.0.0.0 www.makerspaceai.com
 0.0.0.0 www.makingnude.com
 0.0.0.0 www.makspeedtech.net
+0.0.0.0 www.malabar.shop
 0.0.0.0 www.malletpharmacy.com
 0.0.0.0 www.mandhflooringkitchenandbath.com
 0.0.0.0 www.manga-mods.org
@@ -55844,6 +55873,7 @@
 0.0.0.0 www.waterproofmanipulativereunion.com
 0.0.0.0 www.wawbarf.com
 0.0.0.0 www.waylonjimi69.com
+0.0.0.0 www.wayoftheinnernaut.net
 0.0.0.0 www.waytokashmir.com
 0.0.0.0 www.wcasaints.org
 0.0.0.0 www.we24support.com
@@ -55866,6 +55896,7 @@
 0.0.0.0 www.wekenekt.com
 0.0.0.0 www.welfarefit.com
 0.0.0.0 www.wellnessfamily24.com
+0.0.0.0 www.wemaximizecreativity.info
 0.0.0.0 www.wen33dgeneration.com
 0.0.0.0 www.wenchinghour.xyz
 0.0.0.0 www.wereriskbarnacle.com
@@ -55988,6 +56019,7 @@
 0.0.0.0 www.x1h22.com
 0.0.0.0 www.x1tetrerswex.com
 0.0.0.0 www.x3ashdkasd3.monster
+0.0.0.0 www.x67codes.tech
 0.0.0.0 www.x7ajsdgvhajsx.monster
 0.0.0.0 www.x8baidu.com
 0.0.0.0 www.x8sz.com
@@ -56105,6 +56137,7 @@
 0.0.0.0 www.zetnewz.com
 0.0.0.0 www.zetserialo.com
 0.0.0.0 www.zgjdxws.com
+0.0.0.0 www.zgpt.tech
 0.0.0.0 www.zhangranfilm.com
 0.0.0.0 www.zhashuan.com
 0.0.0.0 www.zhiyu188.com
@@ -56116,6 +56149,7 @@
 0.0.0.0 www.zjumpbyts.com
 0.0.0.0 www.zmw22.com
 0.0.0.0 www.zoxford.com
+0.0.0.0 www.zqscore.news
 0.0.0.0 www.zqxwxcb.com
 0.0.0.0 www.zscwdu.com
 0.0.0.0 www.zsokruhle.stranka.info
@@ -57908,6 +57942,7 @@
 0.0.0.0 zgjdxws.com
 0.0.0.0 zglxqljvfa.com
 0.0.0.0 zgoindic.com
+0.0.0.0 zgpt.tech
 0.0.0.0 zgschool.org
 0.0.0.0 zgwjjdwlw.com
 0.0.0.0 zgyhx3318.com
