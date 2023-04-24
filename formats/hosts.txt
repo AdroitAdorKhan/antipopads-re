@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.114
 # Release: 114
-# Entries: 58,181
-# Updated: Mon, 24 Apr 23 18:07:20 +06
+# Entries: 58,183
+# Updated: Mon, 24 Apr 23 20:07:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -23842,6 +23842,7 @@
 0.0.0.0 jiordgxkpglzm.com
 0.0.0.0 jiphihizi.com
 0.0.0.0 jipo.io
+0.0.0.0 jipsegoasho.com
 0.0.0.0 jissingirgoa.com
 0.0.0.0 jistaumt.com
 0.0.0.0 jistvotestabl.space
@@ -48750,6 +48751,7 @@
 0.0.0.0 whenimpossibilityreform.com
 0.0.0.0 wheniscomingout.com
 0.0.0.0 whenmyfe.xyz
+0.0.0.0 whenolri.com
 0.0.0.0 wheral.com
 0.0.0.0 where-to-buy.in
 0.0.0.0 whereaboutsconclusive.com
