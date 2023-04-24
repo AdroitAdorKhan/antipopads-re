@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.115
 # Release: 115
-# Entries: 58,238
-# Updated: Tue, 25 Apr 23 00:08:37 +06
+# Entries: 58,240
+# Updated: Tue, 25 Apr 23 02:08:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20032,6 +20032,7 @@
 0.0.0.0 gvcgmvblssh.com
 0.0.0.0 gvcmiz3vze3n.com
 0.0.0.0 gvjgbufigr.com
+0.0.0.0 gvmojhugkiud.com
 0.0.0.0 gvwvlaybfkd.top
 0.0.0.0 gvygpcvbt.xyz
 0.0.0.0 gvyyhjyyfdgxij.xyz
@@ -38931,6 +38932,7 @@
 0.0.0.0 sddclssws.com
 0.0.0.0 sddhdd.com
 0.0.0.0 sddzchcs.com
+0.0.0.0 sdeiqmltglx.com
 0.0.0.0 sdfdsfwe.com
 0.0.0.0 sdfirewall.com.br
 0.0.0.0 sdgallience.org
