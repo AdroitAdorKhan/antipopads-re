@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.115
 # Release: 115
-# Entries: 58,377
-# Updated: Tue, 25 Apr 23 20:07:31 +06
+# Entries: 58,380
+# Updated: Tue, 25 Apr 23 22:18:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12822,6 +12822,7 @@
 0.0.0.0 deludemesh.com
 0.0.0.0 deludereflexunderwater.com
 0.0.0.0 delusionalrevolt.com
+0.0.0.0 deluxe.news
 0.0.0.0 deluxeinfra.com
 0.0.0.0 delvecchioblend.it
 0.0.0.0 demand.supply
@@ -16153,6 +16154,7 @@
 0.0.0.0 expendituredefeated.com
 0.0.0.0 expensedebeak.com
 0.0.0.0 expensestumble.top
+0.0.0.0 expensewardrobecivil.com
 0.0.0.0 experialmt2.com
 0.0.0.0 experience.racing
 0.0.0.0 experimentalconcerningsuck.com
@@ -49615,6 +49617,7 @@
 0.0.0.0 wounded.cc
 0.0.0.0 woundedassurance.com
 0.0.0.0 wounderfullife.xyz
+0.0.0.0 woupheezoh.com
 0.0.0.0 wouvista.com
 0.0.0.0 wovazaix.com
 0.0.0.0 wovensur.com
