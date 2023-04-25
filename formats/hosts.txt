@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.115
 # Release: 115
-# Entries: 58,375
-# Updated: Tue, 25 Apr 23 18:08:08 +06
+# Entries: 58,377
+# Updated: Tue, 25 Apr 23 20:07:31 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13906,6 +13906,7 @@
 0.0.0.0 dotlessmile.website
 0.0.0.0 dotmini.tech
 0.0.0.0 dotnetmq.com
+0.0.0.0 dotsberry.com
 0.0.0.0 dotsenhanced.com
 0.0.0.0 dottardpenang.space
 0.0.0.0 dottgeaq.com
@@ -51826,6 +51827,7 @@
 0.0.0.0 www.doruvixi.xyz
 0.0.0.0 www.dostavkaalkogolya.com
 0.0.0.0 www.dotnetmq.com
+0.0.0.0 www.dotsberry.com
 0.0.0.0 www.doubl.app
 0.0.0.0 www.doublyconversion.com
 0.0.0.0 www.downrighteat.com
