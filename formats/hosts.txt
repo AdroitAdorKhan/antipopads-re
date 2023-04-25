@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.115
 # Release: 115
-# Entries: 58,250
-# Updated: Tue, 25 Apr 23 04:07:24 +06
+# Entries: 58,252
+# Updated: Tue, 25 Apr 23 06:16:45 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8914,6 +8914,7 @@
 0.0.0.0 calumnylightlyspider.com
 0.0.0.0 calvali.com
 0.0.0.0 calxespatin.com
+0.0.0.0 calyabest.cc
 0.0.0.0 camakaroda.com
 0.0.0.0 camapimenta.com
 0.0.0.0 camarondo.com
@@ -27966,6 +27967,7 @@
 0.0.0.0 mcbro.ru
 0.0.0.0 mccahs.com
 0.0.0.0 mcdwudsdsjqwu.com
+0.0.0.0 mcfilmes.online
 0.0.0.0 mcfruta.com
 0.0.0.0 mcgbvjasbch.com
 0.0.0.0 mciadjusters.com
