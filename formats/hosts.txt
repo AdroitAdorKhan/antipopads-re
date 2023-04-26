@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.116
 # Release: 116
-# Entries: 58,431
-# Updated: Wed, 26 Apr 23 04:07:34 +06
+# Entries: 58,440
+# Updated: Wed, 26 Apr 23 06:16:39 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9427,6 +9427,7 @@
 0.0.0.0 cdn.windealsday.com
 0.0.0.0 cdn.winr4all.com
 0.0.0.0 cdn29-okzy.com
+0.0.0.0 cdn2cdn.me
 0.0.0.0 cdn2reference.com
 0.0.0.0 cdn3.info
 0.0.0.0 cdn4ads.com
@@ -11880,6 +11881,7 @@
 0.0.0.0 csvljnhkhxt.xyz
 0.0.0.0 cswecare.com
 0.0.0.0 ct.cerebrifetors.com
+0.0.0.0 ctckuvmfevxe.com
 0.0.0.0 ctctanks.com
 0.0.0.0 ctdhylltfighs.com
 0.0.0.0 ctengine.io
@@ -33949,6 +33951,7 @@
 0.0.0.0 pileumnimmed.website
 0.0.0.0 pilgrimarduouscorruption.com
 0.0.0.0 pill-market24.com
+0.0.0.0 pillaicenter.info
 0.0.0.0 pillarconcrete.com
 0.0.0.0 pillarinscap.com
 0.0.0.0 pillarinsurancecapital.com
@@ -36559,6 +36562,7 @@
 0.0.0.0 ramosz.lol
 0.0.0.0 rampgravydressing.com
 0.0.0.0 ramplus.pro
+0.0.0.0 rampuliexports.com
 0.0.0.0 ramsonhunk.com
 0.0.0.0 ramstripedbull.com
 0.0.0.0 ramwvfoo.top
@@ -43408,6 +43412,7 @@
 0.0.0.0 thecityracer.com
 0.0.0.0 theclaridges.biz
 0.0.0.0 thecliffsandupo.com
+0.0.0.0 theclimate.work
 0.0.0.0 theclouddiosleepco.org
 0.0.0.0 theclouddiosleepcompany.org
 0.0.0.0 thecloudvantnow.com
@@ -51133,6 +51138,7 @@
 0.0.0.0 www.canepadesign.net
 0.0.0.0 www.cangku.club
 0.0.0.0 www.cannibis.church
+0.0.0.0 www.cannonclam.com
 0.0.0.0 www.canxingtvhx.com
 0.0.0.0 www.caomeizx3.com
 0.0.0.0 www.capawhile.com
@@ -51287,6 +51293,7 @@
 0.0.0.0 www.clementreign.com
 0.0.0.0 www.clenchgreatembarrassment.com
 0.0.0.0 www.clentrk.com
+0.0.0.0 www.cleopatratasty.com
 0.0.0.0 www.clerkcowboy.com
 0.0.0.0 www.clerkits.com
 0.0.0.0 www.clickfacil.net
@@ -51620,6 +51627,7 @@
 0.0.0.0 www.datgoodsandservices.com
 0.0.0.0 www.dating2you.org
 0.0.0.0 www.daughterbump.com
+0.0.0.0 www.dauntlessamusingcomrade.com
 0.0.0.0 www.davidcontributorlanded.com
 0.0.0.0 www.daytoursiceland.com
 0.0.0.0 www.dbftszei.bid
@@ -54672,6 +54680,7 @@
 0.0.0.0 www.rambleonroseco.com
 0.0.0.0 www.ramnaambank.org
 0.0.0.0 www.rampgravydressing.com
+0.0.0.0 www.rampuliexports.com
 0.0.0.0 www.ramstripedbull.com
 0.0.0.0 www.rancidstrait.com
 0.0.0.0 www.randomaccesssoftware.com
