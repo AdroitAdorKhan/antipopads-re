@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.116
 # Release: 116
-# Entries: 58,478
-# Updated: Wed, 26 Apr 23 08:07:29 +06
+# Entries: 58,485
+# Updated: Wed, 26 Apr 23 10:08:13 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15997,6 +15997,7 @@
 0.0.0.0 eveonn.net
 0.0.0.0 eveonnhotels.net
 0.0.0.0 everab.com
+0.0.0.0 evercoss.com
 0.0.0.0 everettwaterfrontapartments.com
 0.0.0.0 everlastgroups.co.uk
 0.0.0.0 everlastinghoneymoon.net
@@ -50534,6 +50535,7 @@
 0.0.0.0 www.amaryar.com
 0.0.0.0 www.amath.world
 0.0.0.0 www.amazementpricelesslocust.com
+0.0.0.0 www.amazinglygarden.com
 0.0.0.0 www.amazon-problems-help-center-12951.com
 0.0.0.0 www.amcclinics.com
 0.0.0.0 www.amenityremorse.com
@@ -51320,6 +51322,7 @@
 0.0.0.0 www.clashguidance.com
 0.0.0.0 www.claspthee.com
 0.0.0.0 www.classgorilla.com
+0.0.0.0 www.cleannaturalists.com
 0.0.0.0 www.clearancejoinjavelin.com
 0.0.0.0 www.clearload.site
 0.0.0.0 www.cleavepreoccupation.com
@@ -51650,6 +51653,7 @@
 0.0.0.0 www.danesuffocate.com
 0.0.0.0 www.dangdepmoingay.xyz
 0.0.0.0 www.dangerouslyblemishsweater.com
+0.0.0.0 www.dangerouslygluttony.com
 0.0.0.0 www.danielduchaine.com
 0.0.0.0 www.daphnedorel.com
 0.0.0.0 www.daplugwholesale.site
@@ -52836,6 +52840,7 @@
 0.0.0.0 www.hongkongeruv.org
 0.0.0.0 www.honorarybreakclank.com
 0.0.0.0 www.honoraryroof.com
+0.0.0.0 www.honourableardently.com
 0.0.0.0 www.honourrib.com
 0.0.0.0 www.hoorayrazor.com
 0.0.0.0 www.hopliteracy.com
@@ -54580,6 +54585,7 @@
 0.0.0.0 www.programmingpastimepeep.com
 0.0.0.0 www.programwrest.com
 0.0.0.0 www.prohealth.today
+0.0.0.0 www.prohibitremarkable.com
 0.0.0.0 www.proidealuser.com
 0.0.0.0 www.projectsbarefootedcompensate.com
 0.0.0.0 www.projectsite666.fun
@@ -55457,6 +55463,7 @@
 0.0.0.0 www.studentcrevice.com
 0.0.0.0 www.studenthelpdesk.nl
 0.0.0.0 www.studentstunnel.com
+0.0.0.0 www.studzip.com
 0.0.0.0 www.stuffedodiousmargin.com
 0.0.0.0 www.stuffedstudy.com
 0.0.0.0 www.subscribeallocateenjoying.com
