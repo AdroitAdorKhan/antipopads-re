@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.117
 # Release: 117
-# Entries: 58,663
-# Updated: Thu, 27 Apr 23 02:08:49 +06
+# Entries: 58,665
+# Updated: Thu, 27 Apr 23 04:07:36 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20626,6 +20626,7 @@
 0.0.0.0 hctiqywqshbpjcc.com
 0.0.0.0 hcuukwgpjiykapf.xyz
 0.0.0.0 hcwqxuyj.xyz
+0.0.0.0 hcxbokndbhw.com
 0.0.0.0 hd-lordfilmslu.com
 0.0.0.0 hd-net.org
 0.0.0.0 hd.bakerlychindi.com
@@ -38616,6 +38617,7 @@
 0.0.0.0 ryxbtcdg.com
 0.0.0.0 ryykyodhl.com
 0.0.0.0 rz.elandsbasses.com
+0.0.0.0 rzanrytwcx.com
 0.0.0.0 rzneekilff.com
 0.0.0.0 rzwebsolution.com
 0.0.0.0 s-adzone.com
