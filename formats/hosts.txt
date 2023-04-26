@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.116
 # Release: 116
-# Entries: 58,485
-# Updated: Wed, 26 Apr 23 10:08:13 +06
+# Entries: 58,486
+# Updated: Wed, 26 Apr 23 12:07:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -18048,6 +18048,7 @@
 0.0.0.0 fullylitacademy.com
 0.0.0.0 fultraightdec.xyz
 0.0.0.0 fulvenebocca.com
+0.0.0.0 fumadexcomputer.tech
 0.0.0.0 fumanhua3.com
 0.0.0.0 fumarinpest.com
 0.0.0.0 fumblingform.com
