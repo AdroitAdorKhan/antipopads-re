@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.117
 # Release: 117
-# Entries: 58,661
-# Updated: Thu, 27 Apr 23 00:08:29 +06
+# Entries: 58,663
+# Updated: Thu, 27 Apr 23 02:08:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8562,6 +8562,7 @@
 0.0.0.0 bullads.net
 0.0.0.0 bullcrypt.org
 0.0.0.0 bullesdesens.top
+0.0.0.0 bulletads.org
 0.0.0.0 bulletfarm.us
 0.0.0.0 bulletprofitads.com
 0.0.0.0 bulletprofitpop.com
@@ -50420,6 +50421,7 @@
 0.0.0.0 www.8jahbsjhdasd88.monster
 0.0.0.0 www.8javwjdaw88x.monster
 0.0.0.0 www.8jawdjhawdx8.monster
+0.0.0.0 www.8jhabjsdasd8.monster
 0.0.0.0 www.8jhabsjda8.monster
 0.0.0.0 www.8jhsjfsefse8.monster
 0.0.0.0 www.8jhsvjdasd13.monster
