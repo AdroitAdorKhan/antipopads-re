@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.117
 # Release: 117
-# Entries: 58,721
-# Updated: Thu, 27 Apr 23 10:08:44 +06
+# Entries: 58,726
+# Updated: Thu, 27 Apr 23 12:07:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7633,6 +7633,7 @@
 0.0.0.0 blizzardcinnamonappointed.com
 0.0.0.0 blizzardstudyfavourite.com
 0.0.0.0 bllibli.com
+0.0.0.0 blliyu.com
 0.0.0.0 blnvpybr.top
 0.0.0.0 bloblohub.com
 0.0.0.0 block-ad-easy.net
@@ -31854,6 +31855,7 @@
 0.0.0.0 ojisloqvgreoug.xyz
 0.0.0.0 ojjnkwrtvshnbnh.top
 0.0.0.0 ojjzpitr.com
+0.0.0.0 ojomrgmhbbpkpz.com
 0.0.0.0 ojpem.com
 0.0.0.0 ojrq.net
 0.0.0.0 ojtjzuobtwf.com
@@ -32938,6 +32940,7 @@
 0.0.0.0 ozooltik.com
 0.0.0.0 ozqabkotrx.com
 0.0.0.0 ozqputbtaav.com
+0.0.0.0 ozsoekwgy.com
 0.0.0.0 ozwtasocx.com
 0.0.0.0 ozzkutkadaj.com
 0.0.0.0 p-store.tech
@@ -38531,6 +38534,7 @@
 0.0.0.0 ruperparverew.xyz
 0.0.0.0 rupexbd.com
 0.0.0.0 ruqpxhctyewtr.com
+0.0.0.0 ruralcr.org
 0.0.0.0 rurate.com
 0.0.0.0 rusenov.com
 0.0.0.0 rushcreekyc.org
@@ -51190,6 +51194,7 @@
 0.0.0.0 www.blindside.finance
 0.0.0.0 www.blizzardcinnamonappointed.com
 0.0.0.0 www.bllibli.com
+0.0.0.0 www.blliyu.com
 0.0.0.0 www.blockadsnot.com
 0.0.0.0 www.blockchaintitleservices.net
 0.0.0.0 www.blockedpriority.com
