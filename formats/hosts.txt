@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.118
 # Release: 118
-# Entries: 58,856
-# Updated: Fri, 28 Apr 23 02:09:41 +06
+# Entries: 58,859
+# Updated: Fri, 28 Apr 23 04:07:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4684,6 +4684,7 @@
 0.0.0.0 apfwipgfy.com
 0.0.0.0 apgfbxcmhpth.com
 0.0.0.0 apglinks.net
+0.0.0.0 aphagiafiking.com
 0.0.0.0 aphidsclee.com
 0.0.0.0 aphoawou.net
 0.0.0.0 api.purpleads.io
@@ -12490,6 +12491,7 @@
 0.0.0.0 datadiary.app
 0.0.0.0 datadrivenplc.info
 0.0.0.0 datajsext.com
+0.0.0.0 datakitschelm.com
 0.0.0.0 datamarts.online
 0.0.0.0 datamuni.org
 0.0.0.0 datangcmel.com
@@ -20685,6 +20687,7 @@
 0.0.0.0 hbaw2014.org
 0.0.0.0 hbfqcy.com
 0.0.0.0 hbfulzie.life
+0.0.0.0 hbloveinfo.com
 0.0.0.0 hblsnjri.com
 0.0.0.0 hboav.com
 0.0.0.0 hbokbjjrllthdra.com
