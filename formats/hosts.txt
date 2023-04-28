@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.118
 # Release: 118
-# Entries: 58,859
-# Updated: Fri, 28 Apr 23 04:07:24 +06
+# Entries: 58,867
+# Updated: Fri, 28 Apr 23 06:15:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -801,6 +801,7 @@
 0.0.0.0 2m3gdt0gc.de
 0.0.0.0 2m55gqleg.de
 0.0.0.0 2mb.social
+0.0.0.0 2mdn-cn.net
 0.0.0.0 2mdn.info
 0.0.0.0 2mf9kkbhab31.com
 0.0.0.0 2mke5l187.de
@@ -2780,6 +2781,7 @@
 0.0.0.0 admittancehubbyfirm.com
 0.0.0.0 admittancetoy.com
 0.0.0.0 admittedfaults.com
+0.0.0.0 admob-cn.com
 0.0.0.0 admob.com
 0.0.0.0 admobe.com
 0.0.0.0 admoob.com
@@ -14013,6 +14015,7 @@
 0.0.0.0 doubl.org
 0.0.0.0 double-check.com
 0.0.0.0 doubleadserve.com
+0.0.0.0 doubleclick-cn.net
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.net
 0.0.0.0 doubleclickbygoogle.com
@@ -19614,6 +19617,7 @@
 0.0.0.0 googame.tech
 0.0.0.0 google--analytics.com
 0.0.0.0 googleadservice.xyz
+0.0.0.0 googleadservices-cn.com
 0.0.0.0 googleapi.club
 0.0.0.0 googlecoin.org
 0.0.0.0 googledyndiction.com
@@ -19622,6 +19626,7 @@
 0.0.0.0 googlesanalytic.com
 0.0.0.0 googlesyndic11111ation.com
 0.0.0.0 googletagmanager.co
+0.0.0.0 googlevads-cn.com
 0.0.0.0 googliya.com
 0.0.0.0 googlwweesyndic232311ation.com
 0.0.0.0 googtion.com
@@ -29863,6 +29868,7 @@
 0.0.0.0 mybevata.com
 0.0.0.0 mybigestore.com
 0.0.0.0 mybigfatsale.com
+0.0.0.0 mybizsite.co
 0.0.0.0 mybmrtrg.com
 0.0.0.0 mybodyschool.com
 0.0.0.0 mybrokenharp.com
@@ -48626,6 +48632,7 @@
 0.0.0.0 wagershare.com
 0.0.0.0 wagersinging.com
 0.0.0.0 waggonerchildrensurly.com
+0.0.0.0 wagnal.com
 0.0.0.0 wagned.com
 0.0.0.0 wagoapse.com
 0.0.0.0 wahahespecked.guru
@@ -54281,6 +54288,7 @@
 0.0.0.0 www.mybajabag.com
 0.0.0.0 www.mybankroll.email
 0.0.0.0 www.mybigestore.com
+0.0.0.0 www.mybizsite.co
 0.0.0.0 www.mycatherderllc.com
 0.0.0.0 www.myclaimmatters.com
 0.0.0.0 www.mycomicxxx.com
