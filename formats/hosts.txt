@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.118
 # Release: 118
-# Entries: 58,958
-# Updated: Fri, 28 Apr 23 16:08:01 +06
+# Entries: 58,961
+# Updated: Fri, 28 Apr 23 18:09:53 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15769,6 +15769,7 @@
 0.0.0.0 ercoeteasacom.com
 0.0.0.0 ercrefundconsultant.com
 0.0.0.0 ercsklxgfbhwped.com
+0.0.0.0 ercsuministrosmineros.com
 0.0.0.0 erdeally.com
 0.0.0.0 erdeallyighab.com
 0.0.0.0 erders.com
@@ -25209,6 +25210,7 @@
 0.0.0.0 kineckekyu.com
 0.0.0.0 king3rsc7ol9e3ge.com
 0.0.0.0 kingads.mobi
+0.0.0.0 kingads.space
 0.0.0.0 kingedbaikie.life
 0.0.0.0 kingoro.in
 0.0.0.0 kingstondispensary.us
@@ -45032,6 +45034,7 @@
 0.0.0.0 totlnkbn.com
 0.0.0.0 totlnkcl.com
 0.0.0.0 totogetica.com
+0.0.0.0 totravel.in
 0.0.0.0 totreatwith.co
 0.0.0.0 totsprout.com
 0.0.0.0 totycb.cyou
