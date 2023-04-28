@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.118
 # Release: 118
-# Entries: 58,929
-# Updated: Fri, 28 Apr 23 12:07:24 +06
+# Entries: 58,951
+# Updated: Fri, 28 Apr 23 14:15:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -43,6 +43,7 @@
 0.0.0.0 0101264c3c.com
 0.0.0.0 0118289a06.com
 0.0.0.0 01234movies.net
+0.0.0.0 0123movies.cam
 0.0.0.0 0154222.com
 0.0.0.0 01ccd7d7e5.e255347009.com
 0.0.0.0 01counter.com
@@ -6695,6 +6696,7 @@
 0.0.0.0 beakns.org
 0.0.0.0 beambroth.com
 0.0.0.0 beamedshipwreck.com
+0.0.0.0 beammanmoile.space
 0.0.0.0 beaniesdepot.com
 0.0.0.0 beansnft.co.uk
 0.0.0.0 beanspriority.com
@@ -8409,6 +8411,7 @@
 0.0.0.0 broworker4s.com
 0.0.0.0 broworker7.com
 0.0.0.0 browserdownloadz.com
+0.0.0.0 browserinwrap.life
 0.0.0.0 browserr.top
 0.0.0.0 browsers.support
 0.0.0.0 browsiprod.com
@@ -11870,6 +11873,7 @@
 0.0.0.0 crowntele.com
 0.0.0.0 crowntrophybadges.com
 0.0.0.0 croxyrproxy.com
+0.0.0.0 crozzleaclydes.space
 0.0.0.0 crpgaddict.com
 0.0.0.0 crptentry.com
 0.0.0.0 crptgate.com
@@ -13137,6 +13141,7 @@
 0.0.0.0 devoidsagacious.com
 0.0.0.0 devotedfootprintsinterstate.com
 0.0.0.0 devotedvarnish.com
+0.0.0.0 devoterornis.com
 0.0.0.0 devotesquinua.com
 0.0.0.0 devotionlongestresearching.com
 0.0.0.0 devsjoy.com
@@ -16195,6 +16200,7 @@
 0.0.0.0 examinationgloves.in
 0.0.0.0 exammate.tech
 0.0.0.0 example-callback-url.com
+0.0.0.0 exampulsate.com
 0.0.0.0 examswrath.com
 0.0.0.0 examsystem.co.uk
 0.0.0.0 exaoulmxffnen.xyz
@@ -23754,6 +23760,7 @@
 0.0.0.0 jamie-beeman.com
 0.0.0.0 jamiejohnson.photography
 0.0.0.0 jamils.org
+0.0.0.0 jamokeuntress.com
 0.0.0.0 jams.wiki
 0.0.0.0 jamsoulsfriday.com
 0.0.0.0 jamuionline.in
@@ -27751,6 +27758,7 @@
 0.0.0.0 mailboxleadsphone.com
 0.0.0.0 mailchilly.org
 0.0.0.0 mailcompose.com
+0.0.0.0 mailieungka.com
 0.0.0.0 mailnewnadopera.site
 0.0.0.0 mailsecloud.com
 0.0.0.0 mailvcc.com
@@ -31982,6 +31990,7 @@
 0.0.0.0 ojtjzuobtwf.com
 0.0.0.0 ojwarkmaw.com
 0.0.0.0 ojyrdwdwxm.com
+0.0.0.0 ojzfinlhemu.com
 0.0.0.0 ok.altaredbegin.com
 0.0.0.0 ok.forearmthave.com
 0.0.0.0 okaa57.com
@@ -45087,6 +45096,7 @@
 0.0.0.0 toyotahats.net
 0.0.0.0 toyotaswag.net
 0.0.0.0 toyotausedautoparts.com
+0.0.0.0 toytaa.com
 0.0.0.0 tozoruaon.com
 0.0.0.0 tozuma-motorsports.com
 0.0.0.0 tozumaparts.com
@@ -46391,6 +46401,7 @@
 0.0.0.0 ugostlyhewo.xyz
 0.0.0.0 ugpskifufsdx.xyz
 0.0.0.0 ugrastes.uk
+0.0.0.0 ugricmoist.com
 0.0.0.0 ugroocuw.net
 0.0.0.0 ugttltvcnvxrusu.com
 0.0.0.0 ugvsbunjneqo.com
@@ -46442,6 +46453,7 @@
 0.0.0.0 ujjxwbfgpfymc.xyz
 0.0.0.0 ujlrvzfws.com
 0.0.0.0 ujmrvfgjbr.top
+0.0.0.0 ujooshog.com
 0.0.0.0 ujpkkbrrmrb.com
 0.0.0.0 ujtketerrehepren.xyz
 0.0.0.0 ujvirkmvv.com
@@ -49718,6 +49730,7 @@
 0.0.0.0 wirelessannexwren.com
 0.0.0.0 wirenth.com
 0.0.0.0 wirewexp.com
+0.0.0.0 wiringcollectorguffaw.com
 0.0.0.0 wirratailage.com
 0.0.0.0 wirsauco.com
 0.0.0.0 wisataponggok.com
@@ -51264,6 +51277,7 @@
 0.0.0.0 www.beechverandahvanilla.com
 0.0.0.0 www.beefypolitics.com
 0.0.0.0 www.beenego.com
+0.0.0.0 www.beeperdecisivecommunication.com
 0.0.0.0 www.beephc.com
 0.0.0.0 www.beetrootopposeddwelling.com
 0.0.0.0 www.beforehanddonkeyannouncement.com
@@ -51274,6 +51288,7 @@
 0.0.0.0 www.begunwomanwhiskey.com
 0.0.0.0 www.beholdrelay.com
 0.0.0.0 www.behradmanesh.com
+0.0.0.0 www.beigefindaccurate.com
 0.0.0.0 www.beingketo.net
 0.0.0.0 www.bekmok.com
 0.0.0.0 www.believeisabella.com
@@ -52591,6 +52606,7 @@
 0.0.0.0 www.explorationlascivious.com
 0.0.0.0 www.explorecomparison.com
 0.0.0.0 www.explosionpee.com
+0.0.0.0 www.exportleggy.com
 0.0.0.0 www.exportoons.com
 0.0.0.0 www.expressalike.com
 0.0.0.0 www.expressinghomemade.com
@@ -53989,6 +54005,7 @@
 0.0.0.0 www.loomremotelywrath.com
 0.0.0.0 www.loomspreadingnamely.com
 0.0.0.0 www.loontribune.org
+0.0.0.0 www.looscreech.com
 0.0.0.0 www.loosenoutfit.com
 0.0.0.0 www.lootypay.com
 0.0.0.0 www.lopertsreare.com
@@ -54111,6 +54128,7 @@
 0.0.0.0 www.maskesys.org
 0.0.0.0 www.massivebelieved.com
 0.0.0.0 www.master365k.com
+0.0.0.0 www.masterpieceplainlythird.com
 0.0.0.0 www.masterthoroughfarepiercing.com
 0.0.0.0 www.mastfiguredrussell.com
 0.0.0.0 www.matandnuri.com
@@ -54327,6 +54345,7 @@
 0.0.0.0 www.muskaanmakeup.com
 0.0.0.0 www.muslimberbagi.xyz
 0.0.0.0 www.musselchangeableskier.com
+0.0.0.0 www.mutinousconductdisk.com
 0.0.0.0 www.muzzleabbot.com
 0.0.0.0 www.mv8.app
 0.0.0.0 www.mwtraff.mobi
@@ -55249,6 +55268,7 @@
 0.0.0.0 www.renderscreech.com
 0.0.0.0 www.renewalsuspiciousrattle.com
 0.0.0.0 www.rentalcarsiceland.com
+0.0.0.0 www.rentalrebuild.com
 0.0.0.0 www.rentingimmoderatereflecting.com
 0.0.0.0 www.renumedspanc.com
 0.0.0.0 www.repairedbringstale.com
@@ -56205,6 +56225,7 @@
 0.0.0.0 www.townhousespremium.org
 0.0.0.0 www.towtinsel.com
 0.0.0.0 www.toxicrookie.com
+0.0.0.0 www.toytaa.com
 0.0.0.0 www.tptscan.net
 0.0.0.0 www.tqlkg.com
 0.0.0.0 www.tracedexplore.com
@@ -56490,6 +56511,7 @@
 0.0.0.0 www.visitsidon.com
 0.0.0.0 www.visittopokhara.com
 0.0.0.0 www.vitalitygo.co.uk
+0.0.0.0 www.vitaminalcove.com
 0.0.0.0 www.vivi-enterprises.com
 0.0.0.0 www.vividvr.co.uk
 0.0.0.0 www.vjlondonphotography.com
