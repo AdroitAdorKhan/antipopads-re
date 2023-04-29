@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.119
 # Release: 119
-# Entries: 59,294
-# Updated: Sat, 29 Apr 23 12:15:36 +06
+# Entries: 59,314
+# Updated: Sat, 29 Apr 23 14:07:19 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4224,6 +4224,7 @@
 0.0.0.0 amazyno.online
 0.0.0.0 ambaab.com
 0.0.0.0 ambassadorpotentsummer.com
+0.0.0.0 ambassadorvaultvisited.com
 0.0.0.0 ambeersporkies.com
 0.0.0.0 amberdub.com
 0.0.0.0 amberjackcharterscr.com
@@ -4252,6 +4253,7 @@
 0.0.0.0 amendablepartridge.com
 0.0.0.0 amendablepredicamentvertical.com
 0.0.0.0 amendes-information.info
+0.0.0.0 amendes-paiements-info.fr
 0.0.0.0 amendsgeneralize.com
 0.0.0.0 amenityleisurelydays.com
 0.0.0.0 amenityremorse.com
@@ -17158,6 +17160,7 @@
 0.0.0.0 fidelity-media.com
 0.0.0.0 fidelitybask.com
 0.0.0.0 fidgetcoolinggadget.com
+0.0.0.0 fidtravel.com
 0.0.0.0 fidufhfhbtuhs.com
 0.0.0.0 fidxclsyeowx.com
 0.0.0.0 fieldbeseech.com
@@ -18541,6 +18544,7 @@
 0.0.0.0 gameapiv1.com
 0.0.0.0 gamebaidoithuongjay.com
 0.0.0.0 gamecranedomestic.com
+0.0.0.0 gameengagedthen.com
 0.0.0.0 gamefowldaily.com
 0.0.0.0 gameistaan.net
 0.0.0.0 gameistan.net
@@ -36784,6 +36788,8 @@
 0.0.0.0 qualature.com
 0.0.0.0 qualificationsomehow.com
 0.0.0.0 qualitiesawarenesshard.com
+0.0.0.0 qualitiesdateabdomen.com
+0.0.0.0 qualitiesyoung.com
 0.0.0.0 qualitydating.top
 0.0.0.0 qualitydestructionhouse.com
 0.0.0.0 qualityhealthessentials.com
@@ -37853,6 +37859,7 @@
 0.0.0.0 republichuntprimary.com
 0.0.0.0 republicunableappellation.com
 0.0.0.0 repuge.com
+0.0.0.0 repulsehandbagperspective.com
 0.0.0.0 reputationsheriffkenneth.com
 0.0.0.0 reputedaytrade.com
 0.0.0.0 reqdkltd.com
@@ -51246,6 +51253,7 @@
 0.0.0.0 www.amazementpricelesslocust.com
 0.0.0.0 www.amazinglygarden.com
 0.0.0.0 www.amazon-problems-help-center-12951.com
+0.0.0.0 www.ambassadorvaultvisited.com
 0.0.0.0 www.amcclinics.com
 0.0.0.0 www.amenityremorse.com
 0.0.0.0 www.amgrow.com
@@ -51740,6 +51748,7 @@
 0.0.0.0 www.bookieunreasonablepriority.com
 0.0.0.0 www.bookserf.com
 0.0.0.0 www.booksprite.com
+0.0.0.0 www.booksrakepine.com
 0.0.0.0 www.bookveggies.com
 0.0.0.0 www.bookwormtiger.com
 0.0.0.0 www.boostknifehumidity.com
@@ -52489,6 +52498,7 @@
 0.0.0.0 www.deskoctavian.com
 0.0.0.0 www.desktopsearchapp.com
 0.0.0.0 www.desperatelydoswarmly.com
+0.0.0.0 www.desperationembassy.com
 0.0.0.0 www.destinar-se.net
 0.0.0.0 www.destinedobstinatesmug.com
 0.0.0.0 www.detachteethsolitude.com
@@ -52879,6 +52889,7 @@
 0.0.0.0 www.etheldintimacy.com
 0.0.0.0 www.eti-code.com
 0.0.0.0 www.eukiert.com
+0.0.0.0 www.eunorau-bike.com
 0.0.0.0 www.eurobrussels.fm
 0.0.0.0 www.europeanconvertiblerepeatedly.com
 0.0.0.0 www.europeanurinebanana.com
@@ -53020,6 +53031,7 @@
 0.0.0.0 www.festivecollections.com
 0.0.0.0 www.festivefranchisetorrent.com
 0.0.0.0 www.feverfreeman.com
+0.0.0.0 www.ffg37.com
 0.0.0.0 www.fgwatcher.com
 0.0.0.0 www.fhxs6.com
 0.0.0.0 www.fidelitybask.com
@@ -53440,6 +53452,7 @@
 0.0.0.0 www.halalcity.xyz
 0.0.0.0 www.halfmoonsights.com
 0.0.0.0 www.halfwayoverreact.com
+0.0.0.0 www.hallucinatebotany.com
 0.0.0.0 www.haloimmigration.com
 0.0.0.0 www.halvepowdercorrectly.com
 0.0.0.0 www.hammerstretching.com
@@ -54176,6 +54189,7 @@
 0.0.0.0 www.lanzouij.com
 0.0.0.0 www.laodeshun.com
 0.0.0.0 www.laomashuo.net
+0.0.0.0 www.laozouv.com
 0.0.0.0 www.lapopetyp.com
 0.0.0.0 www.laptophungyen.com
 0.0.0.0 www.laqddcc.com
@@ -55455,6 +55469,8 @@
 0.0.0.0 www.quakeharrow.com
 0.0.0.0 www.quakingbogbotanicals.com
 0.0.0.0 www.qualitiesawarenesshard.com
+0.0.0.0 www.qualitiesdateabdomen.com
+0.0.0.0 www.qualitiesyoung.com
 0.0.0.0 www.quantitypatiently.com
 0.0.0.0 www.quarrelaimless.com
 0.0.0.0 www.quasimanagespreparation.com
@@ -55465,6 +55481,7 @@
 0.0.0.0 www.quickkiinstallmentloans.org
 0.0.0.0 www.quickvideo.store
 0.0.0.0 www.quickvideo.tech
+0.0.0.0 www.quietannouncementdove.com
 0.0.0.0 www.quietlyrosebudagreeing.com
 0.0.0.0 www.quietsewing.com
 0.0.0.0 www.quiltshiverpowerless.com
@@ -55607,9 +55624,11 @@
 0.0.0.0 www.renumedspanc.com
 0.0.0.0 www.repairedbringstale.com
 0.0.0.0 www.repairedentrailstangle.com
+0.0.0.0 www.repatcher.com
 0.0.0.0 www.repayrotten.com
 0.0.0.0 www.repeatresolve.com
 0.0.0.0 www.repellentcenturiespersevere.com
+0.0.0.0 www.repellentremainingsly.com
 0.0.0.0 www.replacebarhandkerchief.com
 0.0.0.0 www.replacementreluctance.com
 0.0.0.0 www.replacestuntissue.com
@@ -55620,6 +55639,7 @@
 0.0.0.0 www.reptiles-of-ethiopia-and-eritrea.com
 0.0.0.0 www.republichuntprimary.com
 0.0.0.0 www.republicunableappellation.com
+0.0.0.0 www.repulsehandbagperspective.com
 0.0.0.0 www.requestedgreeting.com
 0.0.0.0 www.research-scischolarmail.biz
 0.0.0.0 www.researchmanuscripts.org
