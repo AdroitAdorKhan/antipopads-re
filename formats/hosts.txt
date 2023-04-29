@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.119
 # Release: 119
-# Entries: 59,118
-# Updated: Sat, 29 Apr 23 04:10:09 +06
+# Entries: 59,129
+# Updated: Sat, 29 Apr 23 06:13:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10534,6 +10534,7 @@
 0.0.0.0 clientsedgetax.com
 0.0.0.0 clientsedgewealth.com
 0.0.0.0 clima-1.org
+0.0.0.0 climatakoko.digital
 0.0.0.0 climateandbuildings.org
 0.0.0.0 climatechangeletterart.org
 0.0.0.0 climatedefensefund.global
@@ -15209,6 +15210,7 @@
 0.0.0.0 ekaurord.com
 0.0.0.0 ekaygunas.com
 0.0.0.0 ekb-tv.ru
+0.0.0.0 ekbar.co
 0.0.0.0 ekdata.net
 0.0.0.0 eketlas.it
 0.0.0.0 ekfejfixdfvoi.com
@@ -23148,6 +23150,7 @@
 0.0.0.0 integrityprinciplesthorough.com
 0.0.0.0 inteligen.games
 0.0.0.0 inteligen.studio
+0.0.0.0 intelipo.com
 0.0.0.0 intellectualathlete.net
 0.0.0.0 intellectualcontradictstuck.com
 0.0.0.0 intellibanners.com
@@ -26955,6 +26958,7 @@
 0.0.0.0 lkqd.net
 0.0.0.0 lktmoktmspuayws.com
 0.0.0.0 lkvyfnuaten.com
+0.0.0.0 lkwmercedes-service.com
 0.0.0.0 lkwotgdcmr.com
 0.0.0.0 lkyrxsfsust.com
 0.0.0.0 ll.vereyhinders.com
@@ -28519,6 +28523,7 @@
 0.0.0.0 medidiasugan.tech
 0.0.0.0 mediflam.co.in
 0.0.0.0 medilinkers.com
+0.0.0.0 medino.in
 0.0.0.0 mediodia.org
 0.0.0.0 meditatecable.com
 0.0.0.0 meditationdinner.com
@@ -31866,6 +31871,7 @@
 0.0.0.0 odnaknopka.ru
 0.0.0.0 odnsarlwml.com
 0.0.0.0 odokativa.com
+0.0.0.0 odoos.co
 0.0.0.0 odoredpersia.life
 0.0.0.0 odourprop.com
 0.0.0.0 odoursguard.website
@@ -41268,6 +41274,7 @@
 0.0.0.0 soceano.com
 0.0.0.0 social1listnews.com
 0.0.0.0 socialbars-web1.com
+0.0.0.0 socialclique.com.br
 0.0.0.0 socialcreativesound.com
 0.0.0.0 socialeskills.online
 0.0.0.0 socialimpactspecialists.com
@@ -42119,6 +42126,7 @@
 0.0.0.0 steppy.gay
 0.0.0.0 steptaik.net
 0.0.0.0 stepupbd.com
+0.0.0.0 sterdjs.info
 0.0.0.0 sterenwifi.com
 0.0.0.0 stereosuspension.com
 0.0.0.0 sterilecute.com
@@ -43945,6 +43953,7 @@
 0.0.0.0 thecurioushuman.net
 0.0.0.0 thecurtainied.xyz
 0.0.0.0 thedahomeywarriors.tv
+0.0.0.0 thedayafterforever.com
 0.0.0.0 thedecentralizedalliance.org
 0.0.0.0 thedentorder.com
 0.0.0.0 thediabeticdialysiscook.com
@@ -44215,6 +44224,7 @@
 0.0.0.0 thesalmon.tv
 0.0.0.0 thesamueliyeh.tech
 0.0.0.0 thesandykingteam.com
+0.0.0.0 thesardars.com
 0.0.0.0 thesauruspainfully.com
 0.0.0.0 thesaurussurf.com
 0.0.0.0 thescoville.com
@@ -55911,6 +55921,7 @@
 0.0.0.0 www.soarlearning.net
 0.0.0.0 www.sobatwin.com
 0.0.0.0 www.socalledattestation.com
+0.0.0.0 www.socialclique.com.br
 0.0.0.0 www.socialmargarita.it
 0.0.0.0 www.societymagazinesunfaithful.com
 0.0.0.0 www.sodiumcupboard.com
