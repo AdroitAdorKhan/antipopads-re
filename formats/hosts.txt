@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.120
 # Release: 120
-# Entries: 59,394
-# Updated: Sun, 30 Apr 23 02:07:40 +06
+# Entries: 59,396
+# Updated: Sun, 30 Apr 23 04:15:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -22482,6 +22482,7 @@
 0.0.0.0 ifii.com
 0.0.0.0 ifilez.org
 0.0.0.0 ifinaukncecaf.xyz
+0.0.0.0 ifindyicloud.com
 0.0.0.0 ifixmaster.com
 0.0.0.0 ifjhkbmewdny.com
 0.0.0.0 ifjyo.com
@@ -23395,6 +23396,7 @@
 0.0.0.0 involvedeclarefright.com
 0.0.0.0 involvewalkingthick.com
 0.0.0.0 invox.live
+0.0.0.0 invplpghc.com
 0.0.0.0 invraisemblable.com
 0.0.0.0 inwardxenos.com
 0.0.0.0 inwraptsekane.com
