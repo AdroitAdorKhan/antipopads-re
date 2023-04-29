@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.119
 # Release: 119
-# Entries: 59,373
-# Updated: Sat, 29 Apr 23 18:08:22 +06
+# Entries: 59,376
+# Updated: Sat, 29 Apr 23 20:15:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5113,6 +5113,7 @@
 0.0.0.0 arnifortuna.com
 0.0.0.0 arnofourgu.com
 0.0.0.0 arockburrel.website
+0.0.0.0 arodul.com
 0.0.0.0 arodvsmindxec.com
 0.0.0.0 arogyamfoundation.com
 0.0.0.0 arointbarra.com
@@ -33178,6 +33179,7 @@
 0.0.0.0 ovhcloud-sys.live
 0.0.0.0 ovi-shop.com
 0.0.0.0 ovibospeseta.com
+0.0.0.0 ovlliiwtxgjlz.com
 0.0.0.0 ovmgitomw.com
 0.0.0.0 ovnobsal.com
 0.0.0.0 ovsqadol.com
@@ -55048,6 +55050,7 @@
 0.0.0.0 www.overwhelmcontractorlibraries.com
 0.0.0.0 www.overwhelmingdarncalumny.com
 0.0.0.0 www.overwhelmpowerlessinvoke.com
+0.0.0.0 www.ovlliiwtxgjlz.com
 0.0.0.0 www.owestripebastard.com
 0.0.0.0 www.owewary.com
 0.0.0.0 www.owlcongratulate.com
