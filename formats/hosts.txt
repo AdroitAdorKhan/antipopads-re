@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.119
 # Release: 119
-# Entries: 59,274
-# Updated: Sat, 29 Apr 23 10:09:12 +06
+# Entries: 59,294
+# Updated: Sat, 29 Apr 23 12:15:36 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1200,6 +1200,7 @@
 0.0.0.0 4wank.com
 0.0.0.0 4wnet.com
 0.0.0.0 4wnetwork.com
+0.0.0.0 4x4jhvsdasd.monster
 0.0.0.0 4yaartech.com
 0.0.0.0 4you.live
 0.0.0.0 5-gardens-matunga.com
@@ -4473,6 +4474,7 @@
 0.0.0.0 animebetter.com
 0.0.0.0 animecustomart.store
 0.0.0.0 animemeat.com
+0.0.0.0 animes-jiraiya.xyz
 0.0.0.0 animeunited.ca
 0.0.0.0 animikii-ana.com
 0.0.0.0 animits.com
@@ -6735,6 +6737,7 @@
 0.0.0.0 bearingsandmore.us
 0.0.0.0 bearlanding.net
 0.0.0.0 bearoner.com
+0.0.0.0 bears19.com
 0.0.0.0 bearsdisdainmathematics.com
 0.0.0.0 beassilentasaf.xyz
 0.0.0.0 beastarter.com
@@ -11093,6 +11096,7 @@
 0.0.0.0 compileformality.com
 0.0.0.0 complainfriendshipperry.com
 0.0.0.0 complainlapseobserve.com
+0.0.0.0 complementhardly.com
 0.0.0.0 complementparadeforbid.com
 0.0.0.0 completecaresolutions.org
 0.0.0.0 completedmisunderstand.com
@@ -16736,6 +16740,7 @@
 0.0.0.0 farmtoforkalliance.us
 0.0.0.0 faroff-painting.pro
 0.0.0.0 farranaconaghy.co.uk
+0.0.0.0 farrierbalmy.com
 0.0.0.0 farriersprouthygienic.com
 0.0.0.0 farsightedheathenactually.com
 0.0.0.0 farteniuson.com
@@ -27823,6 +27828,7 @@
 0.0.0.0 madebymahila.com
 0.0.0.0 madebymitchellusa.com
 0.0.0.0 madehimn.xyz
+0.0.0.0 madeupadoption.com
 0.0.0.0 madhuricecream.com
 0.0.0.0 madmanbrainpowervengeance.com
 0.0.0.0 madmucchublogs.online
@@ -29565,6 +29571,7 @@
 0.0.0.0 moreofthesame.rocks
 0.0.0.0 moreplexdthbj.com
 0.0.0.0 morethanjustfitness.com
+0.0.0.0 morgueflabbergasted.com
 0.0.0.0 moriceprich.com
 0.0.0.0 morict.com
 0.0.0.0 moried.com
@@ -33637,6 +33644,7 @@
 0.0.0.0 passannouncing.com
 0.0.0.0 passdoorstepcol.com
 0.0.0.0 passedofferundertake.com
+0.0.0.0 passengersprehistoricrecast.com
 0.0.0.0 passenvyexisting.com
 0.0.0.0 passeportnutrition.com
 0.0.0.0 passeura.com
@@ -50831,6 +50839,7 @@
 0.0.0.0 www.4ltv4.com
 0.0.0.0 www.4rpets.com
 0.0.0.0 www.4sjhdbfsdf41.monster
+0.0.0.0 www.4x4jhvsdasd.monster
 0.0.0.0 www.510areacode.org
 0.0.0.0 www.516cables.com
 0.0.0.0 www.5177kpp.com
@@ -51332,6 +51341,7 @@
 0.0.0.0 www.archiecheekydecline.com
 0.0.0.0 www.archiveofuorown.org
 0.0.0.0 www.arcionteriors.com
+0.0.0.0 www.arcticclairvoyant.com
 0.0.0.0 www.ardourineptlavender.com
 0.0.0.0 www.area56.org
 0.0.0.0 www.arevelk.am
@@ -51561,6 +51571,7 @@
 0.0.0.0 www.beanvehicleopening.com
 0.0.0.0 www.bearagriculture.com
 0.0.0.0 www.bearerassistance.com
+0.0.0.0 www.bears19.com
 0.0.0.0 www.beastarter.com
 0.0.0.0 www.beauhoneycomb.com
 0.0.0.0 www.beautty.xyz
@@ -51779,6 +51790,7 @@
 0.0.0.0 www.brinze.app
 0.0.0.0 www.bristlejaunty.com
 0.0.0.0 www.britishinquisitive.com
+0.0.0.0 www.brittleraising.com
 0.0.0.0 www.brmovies.xyz
 0.0.0.0 www.broochambitioncopies.com
 0.0.0.0 www.brooksireland.org
@@ -52138,6 +52150,7 @@
 0.0.0.0 www.competencecondolejug.com
 0.0.0.0 www.competitivepopcheerleader.com
 0.0.0.0 www.complainlapseobserve.com
+0.0.0.0 www.complementhardly.com
 0.0.0.0 www.completionmercyimpediment.com
 0.0.0.0 www.compoundchaise.com
 0.0.0.0 www.compoundpeeredfrankly.com
@@ -52407,6 +52420,7 @@
 0.0.0.0 www.declarefollowersuspected.com
 0.0.0.0 www.declinetongarage.com
 0.0.0.0 www.declutteryourmind.org
+0.0.0.0 www.decorationproducer.com
 0.0.0.0 www.decoychatterboxextreme.com
 0.0.0.0 www.decreelawsuit.com
 0.0.0.0 www.dedicatenecessarilydowry.com
@@ -52954,6 +52968,7 @@
 0.0.0.0 www.farhotels.xyz
 0.0.0.0 www.farmacia-es.com
 0.0.0.0 www.farmersexchangeonline.com
+0.0.0.0 www.farrierbalmy.com
 0.0.0.0 www.farriersprouthygienic.com
 0.0.0.0 www.farsightedheathenactually.com
 0.0.0.0 www.farterserwx.com
@@ -54370,6 +54385,7 @@
 0.0.0.0 www.macysofts.com
 0.0.0.0 www.madanserwe.com
 0.0.0.0 www.maddenword.com
+0.0.0.0 www.madeupadoption.com
 0.0.0.0 www.madmanbrainpowervengeance.com
 0.0.0.0 www.madridnorte.top
 0.0.0.0 www.maestroactionbleach.com
@@ -54598,6 +54614,7 @@
 0.0.0.0 www.mopesupportrefine.com
 0.0.0.0 www.mopnatrestriction.com
 0.0.0.0 www.mopsaladexperiments.com
+0.0.0.0 www.morgueflabbergasted.com
 0.0.0.0 www.morrison-designs.com
 0.0.0.0 www.mortifyincomparablepeek.com
 0.0.0.0 www.morvimakeupstudio.com
@@ -54740,6 +54757,7 @@
 0.0.0.0 www.neutralsaxophoneaspect.com
 0.0.0.0 www.neutraltoxicpreposition.com
 0.0.0.0 www.neutramix.com
+0.0.0.0 www.neverheartache.com
 0.0.0.0 www.newadflows.com
 0.0.0.0 www.newcrete.com
 0.0.0.0 www.newlytelephone.com
@@ -55028,6 +55046,7 @@
 0.0.0.0 www.passablejeepparliament.com
 0.0.0.0 www.passannouncing.com
 0.0.0.0 www.passdoorstepcol.com
+0.0.0.0 www.passengersprehistoricrecast.com
 0.0.0.0 www.passeportnutrition.com
 0.0.0.0 www.passeura.com
 0.0.0.0 www.passive500.com
@@ -55077,6 +55096,7 @@
 0.0.0.0 www.pendulumkeg.com
 0.0.0.0 www.penetrateresultdisaster.com
 0.0.0.0 www.penheiressfundamental.com
+0.0.0.0 www.penholderlossfrontage.com
 0.0.0.0 www.penitentamaze.com
 0.0.0.0 www.pensiveravine.com
 0.0.0.0 www.peoriabuyermatch.com
