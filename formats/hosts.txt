@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.04.120
-# Release: 120
-# Entries: 59,693
-# Updated: Sun, 30 Apr 23 22:07:15 +06
+# Version: 23.05.121
+# Release: 121
+# Entries: 59,696
+# Updated: Mon, 01 May 23 00:09:38 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5803,6 +5803,7 @@
 0.0.0.0 austinmh.com
 0.0.0.0 austinsherri.com
 0.0.0.0 austintutors.com
+0.0.0.0 austryat.com
 0.0.0.0 autand.com
 0.0.0.0 autate.com
 0.0.0.0 autchoog.net
@@ -20968,6 +20969,7 @@
 0.0.0.0 hbokbjjrllthdra.com
 0.0.0.0 hbpefund.com
 0.0.0.0 hbprodns28.com
+0.0.0.0 hbtnqagdiptv.com
 0.0.0.0 hbvcfund.com
 0.0.0.0 hbvmbvfcqlcd.com
 0.0.0.0 hbvnvgjd.com
@@ -35616,6 +35618,7 @@
 0.0.0.0 ppcnt.pro
 0.0.0.0 ppcpufe.com
 0.0.0.0 ppfrlfe.com
+0.0.0.0 ppidns.com
 0.0.0.0 ppikhedas.com
 0.0.0.0 ppiwpeqfiax.com
 0.0.0.0 ppkhmgvh.com
