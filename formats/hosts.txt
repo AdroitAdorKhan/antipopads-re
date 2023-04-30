@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.04.120
 # Release: 120
-# Entries: 59,685
-# Updated: Sun, 30 Apr 23 16:09:33 +06
+# Entries: 59,687
+# Updated: Sun, 30 Apr 23 20:15:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9769,6 +9769,7 @@
 0.0.0.0 cerfoillycea.website
 0.0.0.0 cergfiklll3ljgfdh.com
 0.0.0.0 cerillocarmel.life
+0.0.0.0 cerjmlcauynwxe.com
 0.0.0.0 cermetsdibbles.uno
 0.0.0.0 cernerasp-build-lsbuild.com
 0.0.0.0 cerosync.com
@@ -29865,6 +29866,7 @@
 0.0.0.0 movementxvi.info
 0.0.0.0 moventaparfum.com
 0.0.0.0 moveprudent.com
+0.0.0.0 moverl.com
 0.0.0.0 moverslasvegas.us
 0.0.0.0 movesmod.com
 0.0.0.0 movfull.com
