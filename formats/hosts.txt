@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.121
 # Release: 121
-# Entries: 59,698
-# Updated: Mon, 01 May 23 02:07:15 +06
+# Entries: 59,699
+# Updated: Mon, 01 May 23 04:15:43 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -56494,6 +56494,7 @@
 0.0.0.0 www.somediasolutions.com
 0.0.0.0 www.sometimesmonstrouscombined.com
 0.0.0.0 www.somewhatwideslimy.com
+0.0.0.0 www.soninlawalmighty.com
 0.0.0.0 www.sonnysundancer.com
 0.0.0.0 www.sootconform.com
 0.0.0.0 www.sophomoreadmissible.com
