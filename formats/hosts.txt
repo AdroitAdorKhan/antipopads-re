@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.121
 # Release: 121
-# Entries: 59,696
-# Updated: Mon, 01 May 23 00:09:38 +06
+# Entries: 59,698
+# Updated: Mon, 01 May 23 02:07:15 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4478,6 +4478,7 @@
 0.0.0.0 anguishexperimental.com
 0.0.0.0 anguishleague.com
 0.0.0.0 anguishlonesome.com
+0.0.0.0 anguishworst.com
 0.0.0.0 angularconstitution.com
 0.0.0.0 anhdqnhxtx.xyz
 0.0.0.0 anida.info
@@ -16510,6 +16511,7 @@
 0.0.0.0 explanationsacrifice.com
 0.0.0.0 explanationstaggered.com
 0.0.0.0 explicitweave.com
+0.0.0.0 exploitingenious.com
 0.0.0.0 exploitnookconsequently.com
 0.0.0.0 explorads.xml-v4.ak-is2.net
 0.0.0.0 explorationlascivious.com
