@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.122
 # Release: 122
-# Entries: 60,001
-# Updated: Tue, 02 May 23 00:09:28 +06
+# Entries: 60,010
+# Updated: Tue, 02 May 23 02:07:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14453,6 +14453,7 @@
 0.0.0.0 driddleurease.com
 0.0.0.0 drifor.com
 0.0.0.0 driftcoalition.com
+0.0.0.0 driftfranchise.com
 0.0.0.0 driftstupidityopponent.com
 0.0.0.0 drifttoilportent.com
 0.0.0.0 drihir.in
@@ -15648,6 +15649,7 @@
 0.0.0.0 emg-network.com
 0.0.0.0 emicalcove.xyz
 0.0.0.0 emieweneusxwjp.com
+0.0.0.0 emigrantfirearmcaliber.com
 0.0.0.0 emilagency.com
 0.0.0.0 eminentbharat.in
 0.0.0.0 eminentshipping.in
@@ -17987,6 +17989,7 @@
 0.0.0.0 foomaque.net
 0.0.0.0 footar.com
 0.0.0.0 foothoupaufa.com
+0.0.0.0 footling.xyz
 0.0.0.0 footloosefloors.com
 0.0.0.0 footnote.com
 0.0.0.0 footprintcollective.co.uk
@@ -19082,6 +19085,7 @@
 0.0.0.0 geometrydash.app
 0.0.0.0 geoneduropheg.info
 0.0.0.0 geoplanetsolutions.co.uk
+0.0.0.0 georgemas.xyz
 0.0.0.0 georgemichael360.com
 0.0.0.0 georgetowninstitute.com
 0.0.0.0 georgianabamboorehearse.com
@@ -27235,6 +27239,7 @@
 0.0.0.0 linkwarkop4d.com
 0.0.0.0 linnechaya.com
 0.0.0.0 linneonunbend.life
+0.0.0.0 linnk.it
 0.0.0.0 linodkjs.ru
 0.0.0.0 linodrvs.ru
 0.0.0.0 linousfalafel.guru
@@ -37876,6 +37881,7 @@
 0.0.0.0 reapinject.com
 0.0.0.0 rearand.com
 0.0.0.0 rearcocoa.com
+0.0.0.0 rearedexpensive.com
 0.0.0.0 rearedimmortal.com
 0.0.0.0 reariikosin.com
 0.0.0.0 rearms.ruinroture.com
@@ -55260,6 +55266,7 @@
 0.0.0.0 www.momentz.info
 0.0.0.0 www.mommishreviews.space
 0.0.0.0 www.momswapperd.com
+0.0.0.0 www.monarchracistsparkle.com
 0.0.0.0 www.money4shopping.com
 0.0.0.0 www.moneymakercdn.com
 0.0.0.0 www.moneyrevelations.com
@@ -56299,12 +56306,14 @@
 0.0.0.0 www.research-scischolarmail.biz
 0.0.0.0 www.researchmanuscripts.org
 0.0.0.0 www.reservedwantrealistic.com
+0.0.0.0 www.resetenhancementsillegal.com
 0.0.0.0 www.resetmascara.com
 0.0.0.0 www.resetoccultkeeper.com
 0.0.0.0 www.residencesdxb.org
 0.0.0.0 www.residentialrlp.com
 0.0.0.0 www.residentprocuratorreal.com
 0.0.0.0 www.resigndictationhorns.com
+0.0.0.0 www.resignedsauna.com
 0.0.0.0 www.resistsarcasm.com
 0.0.0.0 www.resolutefog.com
 0.0.0.0 www.respectfullysavvy.com
