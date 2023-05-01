@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.121
 # Release: 121
-# Entries: 59,839
-# Updated: Mon, 01 May 23 10:07:29 +06
+# Entries: 59,840
+# Updated: Mon, 01 May 23 12:14:39 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16200,6 +16200,7 @@
 0.0.0.0 etheldintimacy.com
 0.0.0.0 etheopportu.biz
 0.0.0.0 etherefwuk.xyz
+0.0.0.0 etherios.com
 0.0.0.0 ethernetmoshi.com
 0.0.0.0 ethicalbreedersindia.com
 0.0.0.0 ethicel.com
