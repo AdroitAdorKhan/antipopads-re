@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.121
 # Release: 121
-# Entries: 59,840
-# Updated: Mon, 01 May 23 12:14:39 +06
+# Entries: 59,842
+# Updated: Mon, 01 May 23 14:07:13 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20913,6 +20913,7 @@
 0.0.0.0 harmlesstacticalhonorable.com
 0.0.0.0 harmoniouspacific.com
 0.0.0.0 harmonycanyon.com
+0.0.0.0 harmonyhealthservice.com
 0.0.0.0 harmonyhealthservices.co.uk
 0.0.0.0 harn8.info
 0.0.0.0 harpiesong8.com
@@ -59786,6 +59787,7 @@
 0.0.0.0 zthan.net
 0.0.0.0 ztulkecpeo.com
 0.0.0.0 ztwgames.com
+0.0.0.0 ztylcxy.top
 0.0.0.0 ztyqrwinqpvque.com
 0.0.0.0 zubivu.com
 0.0.0.0 zudaichy.com
