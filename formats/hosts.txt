@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.121
 # Release: 121
-# Entries: 59,699
-# Updated: Mon, 01 May 23 04:15:43 +06
+# Entries: 59,701
+# Updated: Mon, 01 May 23 06:07:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1046,6 +1046,7 @@
 0.0.0.0 40for40.us
 0.0.0.0 40maoss.com
 0.0.0.0 41059dd7817a0f2559409bce7.xyz
+0.0.0.0 41235.comwww.844644.com
 0.0.0.0 4158zb.com
 0.0.0.0 4176.comwww.677555.com
 0.0.0.0 41a8c98afd.f52a1ac6d9.com
@@ -51156,6 +51157,7 @@
 0.0.0.0 www.3sonsjerky.com
 0.0.0.0 www.3x3habjdasd.monster
 0.0.0.0 www.40maoss.com
+0.0.0.0 www.41235.comwww.844644.com
 0.0.0.0 www.4176.comwww.677555.com
 0.0.0.0 www.4388b.com
 0.0.0.0 www.44aysdajsdh44.monster
