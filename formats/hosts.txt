@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.122
 # Release: 122
-# Entries: 60,144
-# Updated: Tue, 02 May 23 08:10:15 +06
+# Entries: 60,166
+# Updated: Tue, 02 May 23 12:16:01 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4890,6 +4890,7 @@
 0.0.0.0 applicationscombine.com
 0.0.0.0 applicationsluck.com
 0.0.0.0 apploooovin.com
+0.0.0.0 appmakerscorp.com
 0.0.0.0 appmateforbests.com
 0.0.0.0 appointedchildorchestra.com
 0.0.0.0 appointedman.com
@@ -7494,8 +7495,10 @@
 0.0.0.0 billbankslive.com
 0.0.0.0 billdoratycustomerforlife.com
 0.0.0.0 billdunnsfishingcharters.com
+0.0.0.0 billetsoneverything.com
 0.0.0.0 billibit.club
 0.0.0.0 billibit.com
+0.0.0.0 billibit.online
 0.0.0.0 billing-confirmation.info
 0.0.0.0 billingswindshieldreplacement.com
 0.0.0.0 billionpops.com
@@ -7695,6 +7698,7 @@
 0.0.0.0 blablahub.com
 0.0.0.0 blablatterbicycle.com
 0.0.0.0 blabtextmessagephotocopy.com
+0.0.0.0 black-essential.com
 0.0.0.0 black112.co.kr
 0.0.0.0 blackblue.uk
 0.0.0.0 blackcine.org
@@ -11022,6 +11026,7 @@
 0.0.0.0 coetusnappers.com
 0.0.0.0 coexploitates.xyz
 0.0.0.0 coffeehousevertical.com
+0.0.0.0 coffeemildness.com
 0.0.0.0 coffeesinceunwanted.com
 0.0.0.0 coffeeteaorkg.us
 0.0.0.0 coffeeuphold.com
@@ -23127,6 +23132,7 @@
 0.0.0.0 in-page-push.com
 0.0.0.0 in-page-push.net
 0.0.0.0 in-s45662.app
+0.0.0.0 in-tune.org
 0.0.0.0 in.boloismretia.com
 0.0.0.0 in.lacksgeneris.com
 0.0.0.0 in.wzrkt.com
@@ -29317,6 +29323,7 @@
 0.0.0.0 mezzosgrigri.com
 0.0.0.0 mf.rickingrulings.com
 0.0.0.0 mfa4cgad6ahmiaaz.com
+0.0.0.0 mfaust.net
 0.0.0.0 mfcharts.com
 0.0.0.0 mfdhantyelfo.com
 0.0.0.0 mfdyojjjkjbqphy.com
@@ -32228,6 +32235,7 @@
 0.0.0.0 o313o.com
 0.0.0.0 o4uxrk33.com
 0.0.0.0 o626b32etkg6.com
+0.0.0.0 o9ltestsites.online
 0.0.0.0 oa.cmlbromins.com
 0.0.0.0 oa.tolterfranz.com
 0.0.0.0 oaboudsi.com
@@ -34670,6 +34678,7 @@
 0.0.0.0 pesteroverwork.com
 0.0.0.0 pestgermagriculture.com
 0.0.0.0 pestilenttidefilth.org
+0.0.0.0 pesuniversity.org
 0.0.0.0 petaecon.com
 0.0.0.0 petalslars.com
 0.0.0.0 petardmimsey.space
@@ -41438,6 +41447,7 @@
 0.0.0.0 singajaya031.com
 0.0.0.0 singelstodate.com
 0.0.0.0 singerrespectfuljerk.com
+0.0.0.0 singgles.com
 0.0.0.0 singhdigynia.digital
 0.0.0.0 singingdrawback.com
 0.0.0.0 singingpianobooks.com
@@ -43630,6 +43640,7 @@
 0.0.0.0 swift-ii.com
 0.0.0.0 swiftpedigreebike.com
 0.0.0.0 swiftsupportt.com
+0.0.0.0 swiftuation.com
 0.0.0.0 swiminvestigator.com
 0.0.0.0 swimsuitmysteryisland.com
 0.0.0.0 swimsunleisure.com
@@ -52097,6 +52108,7 @@
 0.0.0.0 www.applemagicsauce.com
 0.0.0.0 www.applesometimes.com
 0.0.0.0 www.applicationsluck.com
+0.0.0.0 www.appmakerscorp.com
 0.0.0.0 www.apppa.app
 0.0.0.0 www.approachemployflashy.com
 0.0.0.0 www.appropriatepurse.com
@@ -52430,6 +52442,8 @@
 0.0.0.0 www.bikesframesandlove.com
 0.0.0.0 www.bilingualfestive.com
 0.0.0.0 www.billdoratycustomerforlife.com
+0.0.0.0 www.billetsoneverything.com
+0.0.0.0 www.billibit.online
 0.0.0.0 www.billing-confirmation.info
 0.0.0.0 www.billydropfarther.com
 0.0.0.0 www.binaryspeak.com
@@ -52451,6 +52465,7 @@
 0.0.0.0 www.bklzn.com
 0.0.0.0 www.blablatterbicycle.com
 0.0.0.0 www.blabtextmessagephotocopy.com
+0.0.0.0 www.black-essential.com
 0.0.0.0 www.blackcurrantspent.com
 0.0.0.0 www.blacknesskeepplan.com
 0.0.0.0 www.blackriverlandscaping.com
@@ -54525,6 +54540,7 @@
 0.0.0.0 www.improvebeams.com
 0.0.0.0 www.improviseprofane.com
 0.0.0.0 www.improviserelenthousing.com
+0.0.0.0 www.in-tune.org
 0.0.0.0 www.inaneconstellationindistinct.com
 0.0.0.0 www.inappropriateoutdoorsconfiguration.com
 0.0.0.0 www.inattentivereferredextend.com
@@ -55324,6 +55340,7 @@
 0.0.0.0 www.metamask.cafe
 0.0.0.0 www.metaverseeconomicforum.com
 0.0.0.0 www.methodrumour.com
+0.0.0.0 www.mfaust.net
 0.0.0.0 www.mgzyz0.com
 0.0.0.0 www.mhi.mb.ca
 0.0.0.0 www.mi1a8a.life
@@ -55650,6 +55667,7 @@
 0.0.0.0 www.nzpi.co.nz
 0.0.0.0 www.nzpoolindustries.co.nz
 0.0.0.0 www.o2211.com
+0.0.0.0 www.o9ltestsites.online
 0.0.0.0 www.oaiwpjbpcok.xyz
 0.0.0.0 www.oandabusinessgroup.com
 0.0.0.0 www.oarcompartmentexaggerate.com
@@ -55925,6 +55943,7 @@
 0.0.0.0 www.pesterclinkaltogether.com
 0.0.0.0 www.pestermanageoverturn.com
 0.0.0.0 www.pestgermagriculture.com
+0.0.0.0 www.pesuniversity.org
 0.0.0.0 www.petaecon.com
 0.0.0.0 www.petasiaexpo.com
 0.0.0.0 www.petersapartment.com
@@ -57122,6 +57141,7 @@
 0.0.0.0 www.sweets4.ru
 0.0.0.0 www.sweptaboutlard.com
 0.0.0.0 www.swiassessment.com
+0.0.0.0 www.swiftuation.com
 0.0.0.0 www.swiminvestigator.com
 0.0.0.0 www.swimtwittercloakroom.com
 0.0.0.0 www.swindlebeseech.com
@@ -58001,6 +58021,7 @@
 0.0.0.0 www.zealousquickly.com
 0.0.0.0 www.zelalembelayneh.tech
 0.0.0.0 www.zeninoganecu.com
+0.0.0.0 www.zeroemissionsco2.com
 0.0.0.0 www.zestyprop.com
 0.0.0.0 www.zetaphibetajacksonville.org
 0.0.0.0 www.zetnewz.com
@@ -59820,6 +59841,7 @@
 0.0.0.0 zerles.com
 0.0.0.0 zerlue.com
 0.0.0.0 zerobroker.net
+0.0.0.0 zeroemissionsco2.com
 0.0.0.0 zeroidtech.com
 0.0.0.0 zerolink.space
 0.0.0.0 zeropeace.top
