@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.122
 # Release: 122
-# Entries: 60,166
-# Updated: Tue, 02 May 23 12:16:01 +06
+# Entries: 60,170
+# Updated: Tue, 02 May 23 14:07:06 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3616,6 +3616,7 @@
 0.0.0.0 ai854.com
 0.0.0.0 aia.edu.sg
 0.0.0.0 aiahlilonline.world
+0.0.0.0 aib-transaction-alert41.com
 0.0.0.0 aibaipiao02.com
 0.0.0.0 aibupdate.mobi
 0.0.0.0 aicamera.io
@@ -6363,6 +6364,7 @@
 0.0.0.0 baileyflossallpurpose.com
 0.0.0.0 baileyhistreet.org
 0.0.0.0 bailifftent.com
+0.0.0.0 bailifftoddle.com
 0.0.0.0 bailonushe.com
 0.0.0.0 bailpeas.com
 0.0.0.0 bainbridgeislandboatyard.org
@@ -18023,6 +18025,7 @@
 0.0.0.0 fontainsuny.club
 0.0.0.0 fontawosome.com
 0.0.0.0 fontenlargemonopoly.com
+0.0.0.0 fonts-lab.com
 0.0.0.0 fontsowl.com
 0.0.0.0 fontvoid.com
 0.0.0.0 foocheeb.net
@@ -53912,6 +53915,7 @@
 0.0.0.0 www.foamlifeboatriddance.com
 0.0.0.0 www.focuspatioplumb.com
 0.0.0.0 www.foldercamouflage.com
+0.0.0.0 www.fonts-lab.com
 0.0.0.0 www.fontsowl.com
 0.0.0.0 www.foodhallatcambridgeside.com
 0.0.0.0 www.foolishunequal.com
