@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.122
 # Release: 122
-# Entries: 60,050
-# Updated: Tue, 02 May 23 04:15:33 +06
+# Entries: 60,057
+# Updated: Tue, 02 May 23 06:07:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2547,6 +2547,7 @@
 0.0.0.0 activeoffbracelet.com
 0.0.0.0 activephilosophy.pro
 0.0.0.0 activeplex.us
+0.0.0.0 activepoststale.com
 0.0.0.0 activitytonic.com
 0.0.0.0 actorartsacademy.com
 0.0.0.0 actormagnetic.com
@@ -5639,6 +5640,7 @@
 0.0.0.0 atonementimmersedlacerate.com
 0.0.0.0 atougnou.com
 0.0.0.0 atoverify.net
+0.0.0.0 atozas.in
 0.0.0.0 atozdocs.org
 0.0.0.0 atpanchama.com
 0.0.0.0 atpawniarda.com
@@ -8398,6 +8400,7 @@
 0.0.0.0 breakablepermit.com
 0.0.0.0 breakdownfragileindication.com
 0.0.0.0 breakdownreprintsentimental.com
+0.0.0.0 breakfall.org
 0.0.0.0 breakfastboat.com
 0.0.0.0 breakfastinvitingdetergent.com
 0.0.0.0 breakfastsinew.com
@@ -23248,6 +23251,7 @@
 0.0.0.0 ineuntkilnman.digital
 0.0.0.0 inevitablyflop.com
 0.0.0.0 inex.exchange
+0.0.0.0 inexcessglobal.com
 0.0.0.0 inexhaustiblepatient.com
 0.0.0.0 inexorabledemocracycurly.com
 0.0.0.0 inexpedienttributereschedule.com
@@ -30558,6 +30562,7 @@
 0.0.0.0 myjio11.com
 0.0.0.0 myjollyrudder.com
 0.0.0.0 mykalkanrentals.co.uk
+0.0.0.0 mykatestore.com
 0.0.0.0 mykennettnow.com
 0.0.0.0 mykhel11.com
 0.0.0.0 mykhtesikvuz.com
@@ -37267,6 +37272,7 @@
 0.0.0.0 qshemaletube.com
 0.0.0.0 qshuimusic.com
 0.0.0.0 qsngebtkwk.top
+0.0.0.0 qssenterprises.co.in
 0.0.0.0 qsswdxkmhmmyyce.xyz
 0.0.0.0 qstyxveuwcdk.com
 0.0.0.0 qsvvhobsta.com
@@ -55405,6 +55411,7 @@
 0.0.0.0 www.myhrcvs.top
 0.0.0.0 www.myitalgas.it
 0.0.0.0 www.myjagran.com
+0.0.0.0 www.mykatestore.com
 0.0.0.0 www.mykhel11.com
 0.0.0.0 www.mymantech.com
 0.0.0.0 www.mymusicledger.com
