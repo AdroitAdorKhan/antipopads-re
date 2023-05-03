@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.123
 # Release: 123
-# Entries: 60,353
-# Updated: Wed, 03 May 23 04:13:58 +06
+# Entries: 60,354
+# Updated: Wed, 03 May 23 06:08:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29339,6 +29339,7 @@
 0.0.0.0 merilynship.in
 0.0.0.0 merinokri.in
 0.0.0.0 meritbay.org
+0.0.0.0 merizonrealty.com
 0.0.0.0 mermaidcontemplateadjoining.com
 0.0.0.0 mermenmanzil.life
 0.0.0.0 mermiscoapted.com
