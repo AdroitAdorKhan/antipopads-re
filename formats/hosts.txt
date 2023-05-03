@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.123
 # Release: 123
-# Entries: 60,506
-# Updated: Wed, 03 May 23 18:07:20 +06
+# Entries: 60,507
+# Updated: Wed, 03 May 23 20:14:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -34479,6 +34479,7 @@
 0.0.0.0 paxmedia.net
 0.0.0.0 paxonmarketing.pro
 0.0.0.0 pay-click.ru
+0.0.0.0 pay3d-idy62661.online
 0.0.0.0 payae8moon9.com
 0.0.0.0 payasya.eu
 0.0.0.0 paybackmodified.com
