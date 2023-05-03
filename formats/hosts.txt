@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.124
 # Release: 124
-# Entries: 60,524
-# Updated: Thu, 04 May 23 00:08:54 +06
+# Entries: 60,525
+# Updated: Thu, 04 May 23 02:08:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -31026,6 +31026,7 @@
 0.0.0.0 napkinlucent.com
 0.0.0.0 napkinrighty.com
 0.0.0.0 naplessbesoms.com
+0.0.0.0 napoof.com
 0.0.0.0 nappespatois.com
 0.0.0.0 nappietuckner.guru
 0.0.0.0 nappybedcandid.com
