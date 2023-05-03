@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.124
 # Release: 124
-# Entries: 60,525
-# Updated: Thu, 04 May 23 02:08:23 +06
+# Entries: 60,527
+# Updated: Thu, 04 May 23 04:13:54 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15493,6 +15493,7 @@
 0.0.0.0 eieespovarkm.com
 0.0.0.0 eifold.com
 0.0.0.0 eighes.com
+0.0.0.0 eighly.com
 0.0.0.0 eighthpowerfully.com
 0.0.0.0 eighthwaspish.com
 0.0.0.0 eignal.com
@@ -52622,6 +52623,7 @@
 0.0.0.0 www.banisterspast.com
 0.0.0.0 www.bankatfreedom.com
 0.0.0.0 www.bankr.com
+0.0.0.0 www.banquetunarmedgrater.com
 0.0.0.0 www.bantergleameddecline.com
 0.0.0.0 www.baozimg.com
 0.0.0.0 www.barbabridgeoverprotective.com
