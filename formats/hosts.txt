@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.124
 # Release: 124
-# Entries: 60,819
-# Updated: Thu, 04 May 23 20:07:49 +06
+# Entries: 60,823
+# Updated: Thu, 04 May 23 22:07:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4067,6 +4067,7 @@
 0.0.0.0 allfilesfree.com
 0.0.0.0 allfreecounter.com
 0.0.0.0 allfreshposts.com
+0.0.0.0 allftbsb.com
 0.0.0.0 allgameplayhard.com
 0.0.0.0 allgoldforcash.com
 0.0.0.0 allhotfeed.com
@@ -5582,6 +5583,7 @@
 0.0.0.0 astoundbeach.com
 0.0.0.0 astouthy.net
 0.0.0.0 astra9dlya10.com
+0.0.0.0 astrandconifer.com
 0.0.0.0 astraymeshbury.com
 0.0.0.0 astrochacha.in
 0.0.0.0 astrock.tech
@@ -21327,6 +21329,7 @@
 0.0.0.0 haughtydropszoology.com
 0.0.0.0 hauglees.net
 0.0.0.0 haulrationally.com
+0.0.0.0 haulstugging.com
 0.0.0.0 haulway.co.uk
 0.0.0.0 haunchbelongings.com
 0.0.0.0 haunigre.net
@@ -28325,6 +28328,7 @@
 0.0.0.0 luroman.com
 0.0.0.0 luronews.com
 0.0.0.0 lurzixxiht.com
+0.0.0.0 lusaisso.com
 0.0.0.0 lushcrush.com
 0.0.0.0 lushe.app
 0.0.0.0 lusticasecurity.net
