@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.125
 # Release: 125
-# Entries: 60,832
-# Updated: Fri, 05 May 23 00:18:55 +06
+# Entries: 60,836
+# Updated: Fri, 05 May 23 02:11:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14726,6 +14726,7 @@
 0.0.0.0 dsacademychd.com
 0.0.0.0 dsagxedypw.com
 0.0.0.0 dsandmaroons.com
+0.0.0.0 dsbltr2.com
 0.0.0.0 dscustomstatues.com
 0.0.0.0 dsdomainsq.com
 0.0.0.0 dseden.com
@@ -24736,6 +24737,7 @@
 0.0.0.0 jeehathu.com
 0.0.0.0 jeejeetauz.com
 0.0.0.0 jeejujou.net
+0.0.0.0 jeekomih.com
 0.0.0.0 jeenainternational.org
 0.0.0.0 jeepanoo.net
 0.0.0.0 jeepersfused.live
@@ -28603,6 +28605,7 @@
 0.0.0.0 madsans.com
 0.0.0.0 madsecs.com
 0.0.0.0 madsecz.com
+0.0.0.0 madsims.com
 0.0.0.0 madsips.com
 0.0.0.0 madskis.com
 0.0.0.0 madslimz.com
@@ -43466,6 +43469,7 @@
 0.0.0.0 stitchshed.net
 0.0.0.0 stitchvideo.tv
 0.0.0.0 stitly.com
+0.0.0.0 stitor.com
 0.0.0.0 stitue.com
 0.0.0.0 stiwhugn.net
 0.0.0.0 stixeepou.com
