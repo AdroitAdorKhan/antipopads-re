@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.126
 # Release: 126
-# Entries: 61,283
-# Updated: Sat, 06 May 23 02:07:29 +06
+# Entries: 61,290
+# Updated: Sat, 06 May 23 04:16:07 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7654,6 +7654,7 @@
 0.0.0.0 bin-layer.ru
 0.0.0.0 bin-tds.site
 0.0.0.0 binalbamp.com
+0.0.0.0 binanc3.ru
 0.0.0.0 binancebr.com
 0.0.0.0 binancecom.org
 0.0.0.0 binanceguru.com
@@ -9314,6 +9315,7 @@
 0.0.0.0 calciofvg.online
 0.0.0.0 calculatorscaffoldmingle.com
 0.0.0.0 calcumailapp.com
+0.0.0.0 calefaccionenmexico.com.mx
 0.0.0.0 calendarkidz.com
 0.0.0.0 caleriehealthglobal.us
 0.0.0.0 calexits.uno
@@ -18491,6 +18493,7 @@
 0.0.0.0 forprimeapeon.com
 0.0.0.0 forseisemelo.top
 0.0.0.0 forsendo.com
+0.0.0.0 forseti.cz
 0.0.0.0 forsookjaeger.com
 0.0.0.0 forsphealan.com
 0.0.0.0 forsyedredtwer.com
@@ -20643,6 +20646,7 @@
 0.0.0.0 grandeur-bangalore.com
 0.0.0.0 grandeur-bangalore.in
 0.0.0.0 grandeurbangalore.in
+0.0.0.0 grandeurgodrej.com
 0.0.0.0 grandexpoevent.com
 0.0.0.0 grandhouses.co.uk
 0.0.0.0 grandinvestingwebinar.com
@@ -40940,6 +40944,7 @@
 0.0.0.0 schuhboxphotos.com
 0.0.0.0 schultefamilybusiness.com
 0.0.0.0 sci-hib.ru
+0.0.0.0 sci-huv.ru
 0.0.0.0 sci-hyb.ru
 0.0.0.0 sci-medoajournals.biz
 0.0.0.0 sciadopi5tysverticil1lata.com
@@ -44173,6 +44178,7 @@
 0.0.0.0 summutlarnax.uno
 0.0.0.0 sumnrydp.com
 0.0.0.0 sumosys.net
+0.0.0.0 sumpcity.su
 0.0.0.0 sumperhelder.com
 0.0.0.0 sumpki.com
 0.0.0.0 sumshaggy.com
@@ -54949,6 +54955,7 @@
 0.0.0.0 www.form6059b.net
 0.0.0.0 www.formulame.org
 0.0.0.0 www.forochatgpt.com
+0.0.0.0 www.forseti.cz
 0.0.0.0 www.forsyedredtwer.com
 0.0.0.0 www.forthrisky.com
 0.0.0.0 www.forthwithdreadfullyimpatience.com
