@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.126
 # Release: 126
-# Entries: 61,584
-# Updated: Sat, 06 May 23 18:07:24 +06
+# Entries: 61,585
+# Updated: Sat, 06 May 23 20:18:28 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -24244,6 +24244,7 @@
 0.0.0.0 intimidatekerneljames.com
 0.0.0.0 intnotif.club
 0.0.0.0 intorterraon.com
+0.0.0.0 intoxicatefiglowest.com
 0.0.0.0 intranasalcovid19vaccine.online
 0.0.0.0 intranasalcovid19vaccines.online
 0.0.0.0 intranasalvaccinepassports.online
