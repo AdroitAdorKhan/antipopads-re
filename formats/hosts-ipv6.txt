@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.126
 # Release: 126
-# Entries: 61,582
-# Updated: Sat, 06 May 23 16:07:15 +06
+# Entries: 61,584
+# Updated: Sat, 06 May 23 18:07:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -17983,6 +17983,7 @@
 :: findmy-lost.app
 :: findmy-mac.online
 :: findmy-maps.app
+:: findmy-maps.com
 :: findmyphone-icloud.live
 :: findmysupport.pro
 :: findnewline.com
@@ -27231,6 +27232,7 @@
 :: laqmoejhc.xyz
 :: laraliaethnol.com
 :: lararepl.com
+:: laravel-payment.net
 :: laravel-test-project1.com
 :: larawilliams.org
 :: larbanex.com
