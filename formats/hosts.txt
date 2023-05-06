@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.127
 # Release: 127
-# Entries: 61,633
-# Updated: Sun, 07 May 23 02:07:34 +06
+# Entries: 61,638
+# Updated: Sun, 07 May 23 04:17:09 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10431,6 +10431,7 @@
 0.0.0.0 childsoftlast.top
 0.0.0.0 chilehotink.com
 0.0.0.0 chiliadv.com
+0.0.0.0 chillcondole.com
 0.0.0.0 chilled.surf
 0.0.0.0 chillylanguish.com
 0.0.0.0 chilversputum.uno
@@ -20400,6 +20401,7 @@
 0.0.0.0 godrejexquisitekavesar.org
 0.0.0.0 godrejgrandeur-bangalore.in
 0.0.0.0 godrejgrandeur-sarjapur.in
+0.0.0.0 godrejgrandeurbangalore.com
 0.0.0.0 godrejgrandeurbangalore.in
 0.0.0.0 godrejgrandeursarjapur.com
 0.0.0.0 godrejgrandeursarjapur.in
@@ -41175,12 +41177,14 @@
 0.0.0.0 schuhboxphotos.com
 0.0.0.0 schultefamilybusiness.com
 0.0.0.0 sci-hib.ru
+0.0.0.0 sci-hu.ru
 0.0.0.0 sci-huv.ru
 0.0.0.0 sci-hyb.ru
 0.0.0.0 sci-medoajournals.biz
 0.0.0.0 sciadopi5tysverticil1lata.com
 0.0.0.0 sciadventres.biz
 0.0.0.0 sciconfmit-convention.info
+0.0.0.0 science-hub.ru
 0.0.0.0 scienceofnothingness.org
 0.0.0.0 sciencepeerreview.info
 0.0.0.0 scientificconcentration.com
@@ -59218,6 +59222,7 @@
 0.0.0.0 www.whatsoeverlittle.com
 0.0.0.0 www.wheeledajar.com
 0.0.0.0 www.wheelset.org
+0.0.0.0 www.whencewaxworks.com
 0.0.0.0 www.whenimpossibilityreform.com
 0.0.0.0 www.wheniscomingout.com
 0.0.0.0 www.wherebyinstantly.com
