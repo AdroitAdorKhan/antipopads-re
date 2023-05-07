@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.127
 # Release: 127
-# Entries: 61,960
-# Updated: Sun, 07 May 23 20:15:47 +06
+# Entries: 61,984
+# Updated: Sun, 07 May 23 22:07:38 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2457,6 +2457,7 @@
 0.0.0.0 acceleratedrummer.com
 0.0.0.0 acceleratefortworth.org
 0.0.0.0 accelererlesvacations.com
+0.0.0.0 acceleronpharmaceutical.com
 0.0.0.0 accentamong.com
 0.0.0.0 accentneglectporter.com
 0.0.0.0 acceph.com
@@ -7116,6 +7117,7 @@
 0.0.0.0 beenego.com
 0.0.0.0 beenoper.com
 0.0.0.0 beep4.tech
+0.0.0.0 beepentory.com
 0.0.0.0 beeperdecisivecommunication.com
 0.0.0.0 beephc.com
 0.0.0.0 beepla.uk
@@ -7919,6 +7921,7 @@
 0.0.0.0 blabtextmessagephotocopy.com
 0.0.0.0 black-essential.com
 0.0.0.0 black112.co.kr
+0.0.0.0 blackatoad.com
 0.0.0.0 blackblue.uk
 0.0.0.0 blackcine.org
 0.0.0.0 blackcurrantspent.com
@@ -8363,6 +8366,7 @@
 0.0.0.0 bonzuna.com
 0.0.0.0 boo-boo-kits.co.uk
 0.0.0.0 boodlewrite.com
+0.0.0.0 boogerscannabis.com
 0.0.0.0 boogopee.com
 0.0.0.0 booingaceta.uno
 0.0.0.0 bookadil.com
@@ -9358,6 +9362,7 @@
 0.0.0.0 cadslims.com
 0.0.0.0 cadslimz.com
 0.0.0.0 caesak.com
+0.0.0.0 caesarind.com
 0.0.0.0 caesarporch.com
 0.0.0.0 caesaw.com
 0.0.0.0 caeso-nmr.com
@@ -13391,6 +13396,7 @@
 0.0.0.0 declix.ca
 0.0.0.0 declk.com
 0.0.0.0 declutteryourmind.org
+0.0.0.0 decoastalre.com
 0.0.0.0 decoctionembedded.com
 0.0.0.0 decomaxprofile.ir
 0.0.0.0 decorationproducer.com
@@ -21624,6 +21630,7 @@
 0.0.0.0 happitails.in
 0.0.0.0 happy22kids.org
 0.0.0.0 happybabygames.com
+0.0.0.0 happydriverdr.com
 0.0.0.0 happyfings.com
 0.0.0.0 happyfoodjp.com
 0.0.0.0 happyindianworld.com
@@ -23355,6 +23362,7 @@
 0.0.0.0 icatresources.com
 0.0.0.0 iccompanzens.fun
 0.0.0.0 iccorm.com
+0.0.0.0 iccvit.org
 0.0.0.0 icdirect.com
 0.0.0.0 icebergmagazine.com
 0.0.0.0 iceboxlitre.com
@@ -29192,6 +29200,7 @@
 0.0.0.0 mahaidroagra.com
 0.0.0.0 maharajgroup.co.za
 0.0.0.0 maharbandi.tech
+0.0.0.0 mahatraverse.com
 0.0.0.0 mahaveermobiles.com
 0.0.0.0 mahayaga.in
 0.0.0.0 mahdicrofter.com
@@ -29673,6 +29682,7 @@
 0.0.0.0 matthew1720clothing.org
 0.0.0.0 matthewliu.net
 0.0.0.0 mattlindesay.com
+0.0.0.0 mattlock.services
 0.0.0.0 mattmazelescort.net
 0.0.0.0 mattressdinosaurcausing.com
 0.0.0.0 mattressheaven.com.au
@@ -31519,6 +31529,7 @@
 0.0.0.0 myfenixrealestate.com
 0.0.0.0 myferrmp3.com
 0.0.0.0 myfillers.ru
+0.0.0.0 myfirstrugbybook.co.uk
 0.0.0.0 myflirtclub.life
 0.0.0.0 myflixer.biz
 0.0.0.0 myforest.in
@@ -31538,6 +31549,7 @@
 0.0.0.0 myhomefoundation.org
 0.0.0.0 myhost.name
 0.0.0.0 myhrcvs.top
+0.0.0.0 myhstl.com
 0.0.0.0 myhugewords.com
 0.0.0.0 myhypeposts.com
 0.0.0.0 myhypestories.com
@@ -38754,6 +38766,7 @@
 0.0.0.0 rahasya.shop
 0.0.0.0 rahatblog.tech
 0.0.0.0 rahcmovvrg.top
+0.0.0.0 rahejachhabria.com
 0.0.0.0 rahelaministryinternationalngo.com
 0.0.0.0 rahflorida.com
 0.0.0.0 rahltiqhosud.com
@@ -39686,6 +39699,7 @@
 0.0.0.0 responsidejo.xyz
 0.0.0.0 responsivefebruary.com
 0.0.0.0 responsiverender.com
+0.0.0.0 restabelecidos.se
 0.0.0.0 restartburgerremembrance.com
 0.0.0.0 restaurant-dev.com
 0.0.0.0 restedhope.com
@@ -41017,6 +41031,7 @@
 0.0.0.0 saleteaacid.com
 0.0.0.0 salford-ac.org
 0.0.0.0 salfordac.net
+0.0.0.0 salinaareachamber.com
 0.0.0.0 salinasbhut.com
 0.0.0.0 salineiloko.life
 0.0.0.0 salishcoenact.com
@@ -42352,6 +42367,7 @@
 0.0.0.0 shopgaylecandk.store
 0.0.0.0 shophellosunshine.store
 0.0.0.0 shopibiz.net
+0.0.0.0 shopibliss.com
 0.0.0.0 shopifylab.co.uk
 0.0.0.0 shopifypages.com
 0.0.0.0 shopinbox.uk
@@ -43802,6 +43818,7 @@
 0.0.0.0 sportscienceonline.com
 0.0.0.0 sportsginny.com
 0.0.0.0 sportsgorilla.com
+0.0.0.0 sportsheim.shop
 0.0.0.0 sportsheim.store
 0.0.0.0 sportskit.xyz
 0.0.0.0 sportsonlineeventlive.xyz
@@ -45990,6 +46007,7 @@
 0.0.0.0 the-asteroid.xyz
 0.0.0.0 the-big-life.com
 0.0.0.0 the-binary-trader.biz
+0.0.0.0 the-cryptopay.com
 0.0.0.0 the-dhl.com
 0.0.0.0 the-digiway.com
 0.0.0.0 the-get-yourlady.com
@@ -46124,6 +46142,7 @@
 0.0.0.0 thediabeticdialysiscook.com
 0.0.0.0 thedietingdietitian.com
 0.0.0.0 thedigitalmaniac.online
+0.0.0.0 thedigitalstructure.com
 0.0.0.0 thedirtytongue.com
 0.0.0.0 thedotus.com
 0.0.0.0 thedreamforestfarms.com
@@ -46507,6 +46526,7 @@
 0.0.0.0 thewscozier.uno
 0.0.0.0 they-time-xe.com
 0.0.0.0 thezagros.co.uk
+0.0.0.0 thezdrilichlawgroup.com
 0.0.0.0 thezendendance.com
 0.0.0.0 thgvawdaw7.monster
 0.0.0.0 thibetamylum.com
@@ -46803,6 +46823,7 @@
 0.0.0.0 timerichceo.com
 0.0.0.0 timerseeming.com
 0.0.0.0 timertransfer.com
+0.0.0.0 timeseries-solutions.com
 0.0.0.0 timesletsfightdiabetes.org
 0.0.0.0 timeslicelabs.com
 0.0.0.0 timesofdigital.in
@@ -49076,6 +49097,7 @@
 0.0.0.0 underclick.ru
 0.0.0.0 underdog.media
 0.0.0.0 underestimatedual.com
+0.0.0.0 underfloorheatuk.uk
 0.0.0.0 undergiveto54.com
 0.0.0.0 undergroundcarbon.com
 0.0.0.0 underloveheart.online
@@ -49876,6 +49898,7 @@
 0.0.0.0 valdoouro.org
 0.0.0.0 valemedia.net
 0.0.0.0 valencevinyls.life
+0.0.0.0 valentiscancersolutions.com
 0.0.0.0 valerainingexplain.com
 0.0.0.0 valetisolate.com
 0.0.0.0 valeuceplangka.com
@@ -51755,6 +51778,7 @@
 0.0.0.0 welllwrite.com
 0.0.0.0 wellmendorrs.uno
 0.0.0.0 wellmov.com
+0.0.0.0 wellnessbusinessgrowthsummit.com
 0.0.0.0 wellnessfamily24.com
 0.0.0.0 wellnessvapeclub.com
 0.0.0.0 wellnesszap.com
