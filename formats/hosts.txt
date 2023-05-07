@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.127
 # Release: 127
-# Entries: 61,638
-# Updated: Sun, 07 May 23 04:17:09 +06
+# Entries: 61,646
+# Updated: Sun, 07 May 23 06:10:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4790,6 +4790,7 @@
 0.0.0.0 anybodybutromney.org
 0.0.0.0 anybodytoldsieve.com
 0.0.0.0 anycapsules.com
+0.0.0.0 anychem.eu
 0.0.0.0 anycomply.uk
 0.0.0.0 anydeck.foundation
 0.0.0.0 anydeck.site
@@ -12461,6 +12462,7 @@
 0.0.0.0 cryptoloot.pro
 0.0.0.0 cryptomine.pro
 0.0.0.0 cryptomod.tech
+0.0.0.0 cryptondigital-network.com
 0.0.0.0 cryptostocks.buzz
 0.0.0.0 cryptotitleservices.net
 0.0.0.0 cryptowinjoin.com
@@ -33853,6 +33855,7 @@
 0.0.0.0 onlinefinanceworld.com
 0.0.0.0 onlinegasagency.in
 0.0.0.0 onlinekym.top
+0.0.0.0 onlinemedikart.com
 0.0.0.0 onlinemovies.fun
 0.0.0.0 onlinepan.org
 0.0.0.0 onlinepancardservices.org
@@ -36586,6 +36589,7 @@
 0.0.0.0 polluxnetwork.com
 0.0.0.0 pololuxe.org
 0.0.0.0 polosoa.com
+0.0.0.0 polret.com
 0.0.0.0 polrimsi.xyz
 0.0.0.0 poltarimus.com
 0.0.0.0 poltbassa.com
@@ -43594,6 +43598,7 @@
 0.0.0.0 sportsgorilla.com
 0.0.0.0 sportsheim.store
 0.0.0.0 sportskit.xyz
+0.0.0.0 sportsonlineeventlive.xyz
 0.0.0.0 sportsopenai.com
 0.0.0.0 sportspod.co.za
 0.0.0.0 sportstreams.xyz
@@ -57109,6 +57114,7 @@
 0.0.0.0 www.online-pornhub.com
 0.0.0.0 www.onlinecaclasses.com
 0.0.0.0 www.onlinechardhamyatra.com
+0.0.0.0 www.onlinemedikart.com
 0.0.0.0 www.onlinemovies.fun
 0.0.0.0 www.onlinepornohub.com
 0.0.0.0 www.onlinerealty.app
@@ -59193,8 +59199,10 @@
 0.0.0.0 www.weaveconcretefreakish.com
 0.0.0.0 www.web-kite.ru
 0.0.0.0 www.webbrowser-downloading.com
+0.0.0.0 www.webdisk.sportsonlineeventlive.xyz
 0.0.0.0 www.weblibras.com.br
 0.0.0.0 www.webmail.dimarabeh.com
+0.0.0.0 www.webmail.sportsonlineeventlive.xyz
 0.0.0.0 www.webmaster21.it
 0.0.0.0 www.webreviewstar.com
 0.0.0.0 www.websitehelper.in
