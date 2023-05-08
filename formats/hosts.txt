@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.128
 # Release: 128
-# Entries: 62,518
-# Updated: Mon, 08 May 23 18:07:54 +06
+# Entries: 62,520
+# Updated: Mon, 08 May 23 20:20:34 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -26921,6 +26921,7 @@
 0.0.0.0 kmapagpkik.com
 0.0.0.0 kmbb38.com
 0.0.0.0 kmckayqhjlkbre.top
+0.0.0.0 kmdbjvpriawcg.com
 0.0.0.0 kmfwrqdp.com
 0.0.0.0 kmgfqhxvjhfpsq.com
 0.0.0.0 kmisln.com
@@ -41069,6 +41070,7 @@
 0.0.0.0 ruinedharshlyhere.com
 0.0.0.0 ruinedpenal.com
 0.0.0.0 rukoval.com
+0.0.0.0 rukulibam.com
 0.0.0.0 rulablewarsled.store
 0.0.0.0 rulefloor.com
 0.0.0.0 rulestiming.com
