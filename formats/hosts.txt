@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.129
 # Release: 129
-# Entries: 62,571
-# Updated: Tue, 09 May 23 02:08:16 +06
+# Entries: 62,574
+# Updated: Tue, 09 May 23 04:16:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -23418,6 +23418,7 @@
 0.0.0.0 hydraulic.am
 0.0.0.0 hydrogen-stations.com
 0.0.0.0 hydromot-motors.com
+0.0.0.0 hydroqc-service.net
 0.0.0.0 hydroshop.com.au
 0.0.0.0 hyeff11.com
 0.0.0.0 hygdemo.tech
@@ -36964,6 +36965,7 @@
 0.0.0.0 plokqewres.com
 0.0.0.0 plokyrsv1rgn.com
 0.0.0.0 plopeletres.com
+0.0.0.0 plosaztduojwbe.com
 0.0.0.0 plottercatnap.digital
 0.0.0.0 ployeesihigh.one
 0.0.0.0 ployeesihighlyr.xyz
@@ -43630,6 +43632,7 @@
 0.0.0.0 smisto.com
 0.0.0.0 smists.com
 0.0.0.0 smithumbewreck.com
+0.0.0.0 smitry.com
 0.0.0.0 smizzofficial.com
 0.0.0.0 smjxarmaflpmxj.com
 0.0.0.0 smkhcmcfqerjduk.com
