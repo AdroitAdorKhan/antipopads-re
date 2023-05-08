@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.128
 # Release: 128
-# Entries: 62,357
-# Updated: Mon, 08 May 23 10:07:58 +06
+# Entries: 62,415
+# Updated: Mon, 08 May 23 12:13:11 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1090,6 +1090,7 @@
 0.0.0.0 421overland.com
 0.0.0.0 42260ca.com
 0.0.0.0 422c8ee785.com
+0.0.0.0 424789a1.com
 0.0.0.0 429822.com
 0.0.0.0 42a5d530ec972d8994.com
 0.0.0.0 42d61f012e27b36d53.com
@@ -2146,6 +2147,7 @@
 0.0.0.0 a2tw6yoodsag.com
 0.0.0.0 a2z-online.us
 0.0.0.0 a2z-shop.co.uk
+0.0.0.0 a2z-shop.uk
 0.0.0.0 a2z-shop.us
 0.0.0.0 a2z-smart.us
 0.0.0.0 a2z-smartshop.uk
@@ -6177,6 +6179,7 @@
 0.0.0.0 avtb2364.com
 0.0.0.0 avtb237.com
 0.0.0.0 avtb2456.com
+0.0.0.0 avtb2476.com
 0.0.0.0 avtb2480.com
 0.0.0.0 avtb2670.com
 0.0.0.0 avtb2733.com
@@ -6357,6 +6360,7 @@
 0.0.0.0 ayudame.biz
 0.0.0.0 ayupqoiajqffxuj.xyz
 0.0.0.0 ayurhope.com
+0.0.0.0 ayurjoy.com
 0.0.0.0 ayurmedha.org
 0.0.0.0 ayurvidhi.org
 0.0.0.0 ayushmanuti.org
@@ -8802,6 +8806,7 @@
 0.0.0.0 bristlejaunty.com
 0.0.0.0 bristol-apprenticeships.co.uk
 0.0.0.0 bristolmortgageservices.co.uk
+0.0.0.0 bristowcars.com
 0.0.0.0 briticatederfd.site
 0.0.0.0 britishartclub.co.uk
 0.0.0.0 britishexpo.uk
@@ -9488,6 +9493,7 @@
 0.0.0.0 camapimenta.com
 0.0.0.0 camarondo.com
 0.0.0.0 cambiaupblaze.uno
+0.0.0.0 cambridge-floor-sanding-limited.co.uk
 0.0.0.0 cambridgeincompetenceresearch.com
 0.0.0.0 cambridgeshirefloorsander.co.uk
 0.0.0.0 cambusbarronltd.co.uk
@@ -9665,6 +9671,7 @@
 0.0.0.0 careuropecreatures.com
 0.0.0.0 carexsstream.io
 0.0.0.0 careyoucareme.com
+0.0.0.0 carfactoryservice.com
 0.0.0.0 carfaxsonline.com
 0.0.0.0 carfulsranquel.com
 0.0.0.0 cargahora.com
@@ -9905,6 +9912,7 @@
 0.0.0.0 cbdcanteen.net
 0.0.0.0 cbdcanteen.org
 0.0.0.0 cbdcanteen.us
+0.0.0.0 cbdchelpline.co.uk
 0.0.0.0 cbdcr.in
 0.0.0.0 cbdcsupport.co.uk
 0.0.0.0 cbddup.com
@@ -10258,6 +10266,7 @@
 0.0.0.0 ch-8781.pro
 0.0.0.0 ch-cs7318.pro
 0.0.0.0 cha2spoi3rasne.com
+0.0.0.0 chaatstall.com
 0.0.0.0 chachophigy.pro
 0.0.0.0 chachors.net
 0.0.0.0 chadseer.xyz
@@ -11011,6 +11020,7 @@
 0.0.0.0 click4free.info
 0.0.0.0 clickadin.com
 0.0.0.0 clickadu.com
+0.0.0.0 clickai.shop
 0.0.0.0 clickallow.net
 0.0.0.0 clickaslu.com
 0.0.0.0 clickbazzbd.com
@@ -11486,6 +11496,7 @@
 0.0.0.0 collegeoffiretechnology.org
 0.0.0.0 collegerayas.com
 0.0.0.0 collegestudentreport.org
+0.0.0.0 collegiatitanica.com
 0.0.0.0 collenwhr.website
 0.0.0.0 collettetours.site
 0.0.0.0 colliersads.com
@@ -12667,6 +12678,7 @@
 0.0.0.0 cuberoswego.com
 0.0.0.0 cuberssnur.com
 0.0.0.0 cubeslichees.com
+0.0.0.0 cubewebtechnologies.co.uk
 0.0.0.0 cublopedlikiluded.com
 0.0.0.0 cubtimohawk.life
 0.0.0.0 cubztyjhypa.com
@@ -12681,6 +12693,7 @@
 0.0.0.0 cudgelridge.com
 0.0.0.0 cudwortflurr.uno
 0.0.0.0 cueistratting.com
+0.0.0.0 cuerpodebienvenida.com
 0.0.0.0 cuesingle.com
 0.0.0.0 cuevastrck.com
 0.0.0.0 cueyetwee.site
@@ -14672,6 +14685,7 @@
 0.0.0.0 dollsaltituderefrigerate.com
 0.0.0.0 dollsdeclare.com
 0.0.0.0 dolohen.com
+0.0.0.0 dolomitihiking.com
 0.0.0.0 doloroj.com
 0.0.0.0 dolpc.com
 0.0.0.0 dolphinabberantleaflet.com
@@ -16843,6 +16857,7 @@
 0.0.0.0 eswaldderinao.xyz
 0.0.0.0 eswekqthkrgvqn.com
 0.0.0.0 esxjpnkgyaeiu.xyz
+0.0.0.0 esyhcm.com
 0.0.0.0 esyndicate.ca
 0.0.0.0 esyselfe.com
 0.0.0.0 et.harmoutguereza.com
@@ -17186,6 +17201,7 @@
 0.0.0.0 exebid.ru
 0.0.0.0 exemix.com
 0.0.0.0 exerciseundergone.com
+0.0.0.0 exhangebits.com
 0.0.0.0 exhaustboardisintegrate.com
 0.0.0.0 exhausted-use.pro
 0.0.0.0 exhaustedaccess.pro
@@ -19642,6 +19658,7 @@
 0.0.0.0 gaultfamily.co.uk
 0.0.0.0 gaupremob.cf
 0.0.0.0 gauraa.life
+0.0.0.0 gauraj.in
 0.0.0.0 gauravfoodcolours.com
 0.0.0.0 gaursay.com
 0.0.0.0 gaused.com
@@ -20580,6 +20597,7 @@
 0.0.0.0 godrej-kandivali.org
 0.0.0.0 godrej-kandivalieastbliss.com
 0.0.0.0 godrej-nexus-pimpripune.co.in
+0.0.0.0 godrej-noida-sector-146.net
 0.0.0.0 godrej-noida-sector146.net
 0.0.0.0 godrej-pimpri-pune-nexus.co.in
 0.0.0.0 godrej-pimpri-punenexus.co.in
@@ -20629,6 +20647,7 @@
 0.0.0.0 godrejpunepimpri-nexus.co.in
 0.0.0.0 godrejpunepimprinexus.co.in
 0.0.0.0 godrejsector-146-noida.co.in
+0.0.0.0 godrejsector-146noida.net
 0.0.0.0 godrejsector146noida.net
 0.0.0.0 godrejurbanretreat-pune.co.in
 0.0.0.0 godrejwoodland.net
@@ -20686,6 +20705,7 @@
 0.0.0.0 goldeessmokers.com
 0.0.0.0 golden-gateway.com
 0.0.0.0 golden-gmx.com
+0.0.0.0 golden11-net.com
 0.0.0.0 goldenalexcasinotelegram.com
 0.0.0.0 goldenbettingefforlessefforless.com
 0.0.0.0 goldenday.co.in
@@ -20862,6 +20882,7 @@
 0.0.0.0 gouloupt.com
 0.0.0.0 goundouskirty.com
 0.0.0.0 goupeecy.com
+0.0.0.0 goura.life
 0.0.0.0 gourahome.in
 0.0.0.0 gourdeunquote.website
 0.0.0.0 gouridevi.com
@@ -22241,6 +22262,7 @@
 0.0.0.0 hersheykisses.us
 0.0.0.0 herstartupdream.com
 0.0.0.0 herthyptal.com
+0.0.0.0 hertretre1.com
 0.0.0.0 herzogpmp.com
 0.0.0.0 hesatinaco.com
 0.0.0.0 hesitationghetto.com
@@ -22658,6 +22680,7 @@
 0.0.0.0 holidaydirectuk.com
 0.0.0.0 holidaytvnetwork.com
 0.0.0.0 holiestcoseys.com
+0.0.0.0 holistic-naturopath.com
 0.0.0.0 holisticagroup.com
 0.0.0.0 holisticbrainbody.org
 0.0.0.0 holisticnaturopath.online
@@ -24974,6 +24997,7 @@
 0.0.0.0 ivohmsqlbawipw.com
 0.0.0.0 ivorcs.com
 0.0.0.0 ivoriedkolis.digital
+0.0.0.0 ivory-castle.com
 0.0.0.0 ivoryrangecongratulations.com
 0.0.0.0 ivpnoffers.com
 0.0.0.0 ivqcgmkup.top
@@ -26845,6 +26869,7 @@
 0.0.0.0 kmmsfoqbhc.xyz
 0.0.0.0 kmqkdhqaqt.com
 0.0.0.0 kmrptpdaqdpuk.com
+0.0.0.0 kmuts-portfolio.tech
 0.0.0.0 kmuvaerfumy.com
 0.0.0.0 kmwsmlwudyukcg.top
 0.0.0.0 kmxwygco.com
@@ -28589,6 +28614,7 @@
 0.0.0.0 localzh.com
 0.0.0.0 locatc.com
 0.0.0.0 locatioiranic.digital
+0.0.0.0 locationsasturias.com
 0.0.0.0 locationsreverenceaid.com
 0.0.0.0 locationstrategy.co
 0.0.0.0 lochendpark.scot
@@ -28682,6 +28708,7 @@
 0.0.0.0 loms.online
 0.0.0.0 london-nomad.com
 0.0.0.0 londonbridge.city
+0.0.0.0 londonbusinesscouncil.com
 0.0.0.0 londonoysterfestival.co.uk
 0.0.0.0 londonrecycledpallet.co.uk
 0.0.0.0 londonrecycledpallet.uk
@@ -28966,6 +28993,7 @@
 0.0.0.0 luba-shop.online
 0.0.0.0 lubbreton.com
 0.0.0.0 lubesapepsia.uno
+0.0.0.0 lubos-klinken.de
 0.0.0.0 lubowitz.biz
 0.0.0.0 lucaandsol.com
 0.0.0.0 lucentsustain.com
@@ -30016,6 +30044,7 @@
 0.0.0.0 mddqvktqmtns.com
 0.0.0.0 mdexio.online
 0.0.0.0 mdfbrsfkufamsr.com
+0.0.0.0 mdfurnishing.com
 0.0.0.0 mdglpgjp.com
 0.0.0.0 mdkkbrbhlji.com
 0.0.0.0 mdkycodubgvms.com
@@ -30126,6 +30155,7 @@
 0.0.0.0 mediflam.co.in
 0.0.0.0 medikbot.com
 0.0.0.0 medilinkers.com
+0.0.0.0 medilogic.online
 0.0.0.0 medino.in
 0.0.0.0 mediodia.org
 0.0.0.0 mediserve.tech
@@ -30533,6 +30563,7 @@
 0.0.0.0 midgetincidentally.com
 0.0.0.0 midistortrix.com
 0.0.0.0 midlandbookshop.online
+0.0.0.0 midlandcultivatecoherence.com
 0.0.0.0 midlandfeisty.com
 0.0.0.0 midlandvenisondollars.com
 0.0.0.0 midmobrosoffroading.com
@@ -31769,6 +31800,7 @@
 0.0.0.0 mykhtesikvuz.com
 0.0.0.0 mykiger.com
 0.0.0.0 mylemans-it.be
+0.0.0.0 mylifestylehive.com
 0.0.0.0 mylinkbox.com
 0.0.0.0 mylorswtubw.com
 0.0.0.0 mymantech.com
@@ -31801,6 +31833,7 @@
 0.0.0.0 mypersonalrec.xyz
 0.0.0.0 myphammoonshop.com
 0.0.0.0 myplothi.com
+0.0.0.0 myploti.com
 0.0.0.0 mypopads.com
 0.0.0.0 mypost-idmail.xyz
 0.0.0.0 myprinterpartner.com
@@ -33095,6 +33128,7 @@
 0.0.0.0 nouseeth.com
 0.0.0.0 nova-files-trustics.ml
 0.0.0.0 novadune.com
+0.0.0.0 novafoaminternational.com
 0.0.0.0 novakalvi.org
 0.0.0.0 novalymedia.com
 0.0.0.0 novartensemble.com
@@ -33235,6 +33269,7 @@
 0.0.0.0 nswith.com
 0.0.0.0 nt.cahiersaxially.com
 0.0.0.0 nt.toyonsunlord.com
+0.0.0.0 nta.in
 0.0.0.0 ntbyfjcnwiqfhx.com
 0.0.0.0 ntcnd.com
 0.0.0.0 ntconcert.com
@@ -34593,6 +34628,7 @@
 0.0.0.0 orientalgiftshops.com
 0.0.0.0 orientpracht.de
 0.0.0.0 origae-6.com
+0.0.0.0 origena.uk
 0.0.0.0 origer.info
 0.0.0.0 origin1-cms3-www.business.com.my
 0.0.0.0 original-empire.com
@@ -35539,6 +35575,7 @@
 0.0.0.0 patrickcodens.life
 0.0.0.0 patriotapelles.com
 0.0.0.0 patriotblessings.us
+0.0.0.0 patriotgunsmith.com
 0.0.0.0 patriotinvestorlustre.com
 0.0.0.0 patronageunlock.com
 0.0.0.0 patrondescendantprecursor.com
@@ -36009,6 +36046,7 @@
 0.0.0.0 petkinsartiste.space
 0.0.0.0 petoloop.com
 0.0.0.0 petonboard.net
+0.0.0.0 petoren.com
 0.0.0.0 petoscruder.digital
 0.0.0.0 petrifacius.com
 0.0.0.0 petrolam.net
@@ -37169,6 +37207,7 @@
 0.0.0.0 portkingric.net
 0.0.0.0 portlycolleaguecoexist.com
 0.0.0.0 portoteamo.com
+0.0.0.0 portraitbevy.com
 0.0.0.0 portriatdays.com
 0.0.0.0 portserratic.com
 0.0.0.0 portsmouth400th.org
@@ -37189,6 +37228,7 @@
 0.0.0.0 positiveaveinsist.com
 0.0.0.0 positivelyoverall.com
 0.0.0.0 positivelyput.com
+0.0.0.0 positiveperspectives.uk
 0.0.0.0 poslationcloppy.com
 0.0.0.0 pososrhwu2jf8jf09.com
 0.0.0.0 possessdolejest.com
@@ -37971,6 +38011,7 @@
 0.0.0.0 psozoult.net
 0.0.0.0 psqena.com
 0.0.0.0 pssy.xyz
+0.0.0.0 pstransformationalacademyni.co.uk
 0.0.0.0 pstreetma.com
 0.0.0.0 psubooth.com
 0.0.0.0 psuftoum.com
@@ -39441,9 +39482,11 @@
 0.0.0.0 reciprocaldowntownabout.com
 0.0.0.0 reciteassemble.com
 0.0.0.0 reckcapital.com
+0.0.0.0 reckcrypto.com
 0.0.0.0 reckfinancial.com
 0.0.0.0 reckfinancing.com
 0.0.0.0 reckfund.com
+0.0.0.0 reckfunding.com
 0.0.0.0 reckfunds.com
 0.0.0.0 reckinbuttiten.pro
 0.0.0.0 reckittvms.com
@@ -40599,6 +40642,7 @@
 0.0.0.0 romancemind.com
 0.0.0.0 romanticafm.com
 0.0.0.0 romanticlakecruises.com
+0.0.0.0 romanticwait.com
 0.0.0.0 romashk9arfk10.com
 0.0.0.0 romeekra.xyz
 0.0.0.0 romepoptahul.com
@@ -43767,6 +43811,7 @@
 0.0.0.0 solvewebagitated.com
 0.0.0.0 solvingconcentrationspy.com
 0.0.0.0 solvingcue.com
+0.0.0.0 somatela.com
 0.0.0.0 somberscarecrow.com
 0.0.0.0 sombes.com
 0.0.0.0 somdielgutta.com
@@ -44773,6 +44818,7 @@
 0.0.0.0 strubmola.guru
 0.0.0.0 struckganzie.life
 0.0.0.0 structuralmarket.com
+0.0.0.0 structuralmarketlevels.com
 0.0.0.0 structuralmarketzone.com
 0.0.0.0 strumascarman.life
 0.0.0.0 strungglancedrunning.com
@@ -46067,6 +46113,7 @@
 0.0.0.0 temperacaimans.com
 0.0.0.0 tempergleefulvariability.com
 0.0.0.0 temperrunnersdale.com
+0.0.0.0 tempestlands.com
 0.0.0.0 tempestoffsets.com
 0.0.0.0 temphilltop.com
 0.0.0.0 templatesforsuccess.com
@@ -46239,6 +46286,7 @@
 0.0.0.0 tfiph.com
 0.0.0.0 tfla.xyz
 0.0.0.0 tflagnreefpvj.com
+0.0.0.0 tflworld.co.uk
 0.0.0.0 tfosrv.com
 0.0.0.0 tfrsckoblbg.top
 0.0.0.0 tfsmltd.com
@@ -46827,6 +46875,7 @@
 0.0.0.0 thevenueguide.online
 0.0.0.0 thevid.live
 0.0.0.0 thevideoboutique.com
+0.0.0.0 thevitaminnepal.com
 0.0.0.0 thewarmillion.com
 0.0.0.0 thewateronefoundation.org
 0.0.0.0 thewayhome.art
@@ -50352,6 +50401,7 @@
 0.0.0.0 vasgenerete.com
 0.0.0.0 vasgenerete.site
 0.0.0.0 vaside.com
+0.0.0.0 vaskpflow.com
 0.0.0.0 vaspo30.com
 0.0.0.0 vaspo33.com
 0.0.0.0 vaspo36.com
@@ -50516,6 +50566,7 @@
 0.0.0.0 vendezle.com
 0.0.0.0 vendgrusian.com
 0.0.0.0 vendigamus.com
+0.0.0.0 vendilio.com
 0.0.0.0 vendimob.pl
 0.0.0.0 vendnibtemp.com
 0.0.0.0 vendomejewellery.com
@@ -51130,6 +51181,7 @@
 0.0.0.0 vmiplan.com
 0.0.0.0 vmiqxahhkapw.com
 0.0.0.0 vmisolver.com
+0.0.0.0 vmldubai.com
 0.0.0.0 vmmbklqnplbfqhg.xyz
 0.0.0.0 vmnegxfnrgsbl.com
 0.0.0.0 vmoters.com
@@ -52005,6 +52057,7 @@
 0.0.0.0 webinarforwinners.com
 0.0.0.0 webix.click
 0.0.0.0 weblibras.com.br
+0.0.0.0 weblogposts.com
 0.0.0.0 webmadeblog.com
 0.0.0.0 webmaghome.com
 0.0.0.0 webmaster21.it
@@ -52109,6 +52162,7 @@
 0.0.0.0 wekipercode.com
 0.0.0.0 wel-wel-fie.com
 0.0.0.0 welchsstore.us
+0.0.0.0 welcomecore.com
 0.0.0.0 welcomecores.org
 0.0.0.0 welcomedfwhomes.com
 0.0.0.0 welcomeneat.pro
@@ -53555,6 +53609,7 @@
 0.0.0.0 www.5hagsvhdgasd55.monster
 0.0.0.0 www.5hgashdad55.monster
 0.0.0.0 www.5hgavd55x.monster
+0.0.0.0 www.5hgavshd515.monster
 0.0.0.0 www.5hgvasd5523.monster
 0.0.0.0 www.5jahbdax5.monster
 0.0.0.0 www.5javgdhasd5.monster
@@ -54215,6 +54270,7 @@
 0.0.0.0 www.axisnuisance.com
 0.0.0.0 www.ayodeji.tech
 0.0.0.0 www.ayudame.biz
+0.0.0.0 www.ayurjoy.com
 0.0.0.0 www.ayurmedha.org
 0.0.0.0 www.ayx0808.com
 0.0.0.0 www.azdgdizaegigazief.com
@@ -56338,6 +56394,7 @@
 0.0.0.0 www.hermichermicbroadcastinglifting.com
 0.0.0.0 www.heroadmissionfinalize.com
 0.0.0.0 www.heromotorkarsiyaka.com
+0.0.0.0 www.hertretre1.com
 0.0.0.0 www.herzogpmp.com
 0.0.0.0 www.hesitationghetto.com
 0.0.0.0 www.heycdn65.xyz
@@ -61686,6 +61743,7 @@
 0.0.0.0 yshtshgnelxktep.com
 0.0.0.0 ysievwpxmnefvl.com
 0.0.0.0 ysjibiguhwcqlp.com
+0.0.0.0 yslvpz.info
 0.0.0.0 ysmuskreff.com
 0.0.0.0 ysnakestanothia.xyz
 0.0.0.0 ysolutions.tech
