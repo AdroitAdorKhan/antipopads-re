@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.129
 # Release: 129
-# Entries: 62,771
-# Updated: Tue, 09 May 23 18:13:02 +06
+# Entries: 62,777
+# Updated: Tue, 09 May 23 20:07:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5943,6 +5943,7 @@
 0.0.0.0 atzekromchan.com
 0.0.0.0 aubergearise.com
 0.0.0.0 auberginecorny.com
+0.0.0.0 auburn9819.com
 0.0.0.0 auburnroommate.com
 0.0.0.0 auchoocm.com
 0.0.0.0 auchoons.net
@@ -8510,6 +8511,7 @@
 0.0.0.0 boredomsidion.com
 0.0.0.0 borgach.com
 0.0.0.0 borgoonu.net
+0.0.0.0 borhod.com
 0.0.0.0 boriod.com
 0.0.0.0 boriskink.com
 0.0.0.0 bornegypsy.com
@@ -14648,6 +14650,7 @@
 0.0.0.0 dns9323323898.com
 0.0.0.0 dnseasy1.org
 0.0.0.0 dnsgeoip.org
+0.0.0.0 dnshosthk.com
 0.0.0.0 dnsservers.xyz
 0.0.0.0 dnstest4000.com
 0.0.0.0 dnudlvqqsc.com
@@ -18999,6 +19002,7 @@
 0.0.0.0 fpteaskadgs.com
 0.0.0.0 fpukxcinlf.com
 0.0.0.0 fq.thenarforbare.com
+0.0.0.0 fqanulluixeis.com
 0.0.0.0 fqbairmuodmi.top
 0.0.0.0 fqeoslndsrx.xyz
 0.0.0.0 fqhdccuqprxsit.com
@@ -24991,6 +24995,7 @@
 0.0.0.0 italasebastianifotografia.com
 0.0.0.0 italianbeepimpediment.com
 0.0.0.0 italianfootball24.com
+0.0.0.0 italmilradar.com
 0.0.0.0 itblisseyer.com
 0.0.0.0 itboi.com
 0.0.0.0 itcameruptr.com
@@ -57071,6 +57076,7 @@
 0.0.0.0 www.isntgram.com
 0.0.0.0 www.isxmd.com
 0.0.0.0 www.italianbeepimpediment.com
+0.0.0.0 www.italmilradar.com
 0.0.0.0 www.itechspirit.com
 0.0.0.0 www.itemdangerously.com
 0.0.0.0 www.itineraryborn.com
