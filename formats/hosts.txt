@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.130
 # Release: 130
-# Entries: 62,977
-# Updated: Wed, 10 May 23 20:12:21 +06
+# Entries: 62,986
+# Updated: Wed, 10 May 23 22:34:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4525,6 +4525,7 @@
 0.0.0.0 amoddishor.com
 0.0.0.0 amojgryjdmkve.top
 0.0.0.0 amonar.com
+0.0.0.0 amonor.com
 0.0.0.0 amooriasplace.com
 0.0.0.0 amorhospitality.in
 0.0.0.0 amountdonutproxy.com
@@ -6773,6 +6774,7 @@
 0.0.0.0 banglarefresh.com
 0.0.0.0 bangtopads.com
 0.0.0.0 bangtyranclank.com
+0.0.0.0 bangute.xyz
 0.0.0.0 bangvibes.com
 0.0.0.0 banicywan.com
 0.0.0.0 baniep.com
@@ -21118,6 +21120,7 @@
 0.0.0.0 grabngo.app
 0.0.0.0 grabu.top
 0.0.0.0 gracaiko.net
+0.0.0.0 gracedschelly.com
 0.0.0.0 gracefulbayonetlukewarm.com
 0.0.0.0 gracelessaffected.com
 0.0.0.0 gracelessbrief.com
@@ -27691,6 +27694,7 @@
 0.0.0.0 lakeanneplaza.biz
 0.0.0.0 lakehartwelltreasure.com
 0.0.0.0 lakelandtropicsacademy.com
+0.0.0.0 lakenetmi.net
 0.0.0.0 lakequincy.com
 0.0.0.0 lakeviewmemorial.com
 0.0.0.0 lakfbvoskxlc.com
@@ -28822,6 +28826,7 @@
 0.0.0.0 loaglait.com
 0.0.0.0 loagoara.com
 0.0.0.0 loajawun.com
+0.0.0.0 loakingsizette.com
 0.0.0.0 loanonionbidding.com
 0.0.0.0 loanssolutions.org
 0.0.0.0 loastees.net
@@ -35276,6 +35281,7 @@
 0.0.0.0 ovlliiwtxgjlz.com
 0.0.0.0 ovmgitomw.com
 0.0.0.0 ovnobsal.com
+0.0.0.0 ovoordie.xyz
 0.0.0.0 ovpekubdewm.com
 0.0.0.0 ovrlydrb.com
 0.0.0.0 ovsqadol.com
@@ -38261,6 +38267,7 @@
 0.0.0.0 psaithou.com
 0.0.0.0 psaizeemit.com
 0.0.0.0 psalrausoa.com
+0.0.0.0 psaltard.net
 0.0.0.0 psaltauw.net
 0.0.0.0 psampabs.net
 0.0.0.0 psapsiph.net
@@ -48365,6 +48372,7 @@
 0.0.0.0 trackad2.com
 0.0.0.0 trackapi.net
 0.0.0.0 trackcapitalvane.com
+0.0.0.0 tracker-rus.ru
 0.0.0.0 tracker-tds.info
 0.0.0.0 tracker-tds.site
 0.0.0.0 tracker-tds2.site
@@ -60101,6 +60109,7 @@
 0.0.0.0 www.tqlkg.com
 0.0.0.0 www.tracedexplore.com
 0.0.0.0 www.tracesjigsaw.com
+0.0.0.0 www.tracker-rus.ru
 0.0.0.0 www.tracksfreezingdomestic.com
 0.0.0.0 www.tracytimm.com
 0.0.0.0 www.tragediyailikak.com
