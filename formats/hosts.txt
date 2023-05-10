@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.130
 # Release: 130
-# Entries: 62,974
-# Updated: Wed, 10 May 23 18:07:56 +06
+# Entries: 62,977
+# Updated: Wed, 10 May 23 20:12:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -26836,6 +26836,7 @@
 0.0.0.0 khandragthresh.com
 0.0.0.0 khanjeecahoot.com
 0.0.0.0 khanjeeyapness.website
+0.0.0.0 khansahab.in
 0.0.0.0 kharibaat.live
 0.0.0.0 kharkivcitynft.com
 0.0.0.0 khatro.in
@@ -51734,6 +51735,7 @@
 0.0.0.0 voredi.com
 0.0.0.0 vorgcollective.org
 0.0.0.0 vossulekuk.com
+0.0.0.0 votacall.one
 0.0.0.0 votclkeczz.com
 0.0.0.0 votecan.ca
 0.0.0.0 votemoodyexcavate.com
@@ -60418,6 +60420,7 @@
 0.0.0.0 www.voncleaning.com
 0.0.0.0 www.vongquaymienphi.net
 0.0.0.0 www.voodoo-labb.ru
+0.0.0.0 www.votacall.one
 0.0.0.0 www.votemoodyexcavate.com
 0.0.0.0 www.vowdistractingbuoyancy.com
 0.0.0.0 www.voweldeck.com
