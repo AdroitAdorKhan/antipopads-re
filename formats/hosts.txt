@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.131
 # Release: 131
-# Entries: 63,030
-# Updated: Thu, 11 May 23 02:10:18 +06
+# Entries: 63,054
+# Updated: Thu, 11 May 23 04:36:39 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -577,6 +577,8 @@
 0.0.0.0 2-cents.us
 0.0.0.0 2-is.com
 0.0.0.0 2-o.org
+0.0.0.0 2.48bbd5b5-5c8f-46d6-8ea8-4728611a6f39.www.acessoriosparablogs.com.br
+0.0.0.0 2.9daaf6e4-18f3-4d45-bf21-44c74cb2c175.www.acessoriosparablogs.com.br
 0.0.0.0 2007ip.com
 0.0.0.0 2015search.ru
 0.0.0.0 2016www.601122.com
@@ -1133,6 +1135,7 @@
 0.0.0.0 484222w.com
 0.0.0.0 486bb.com
 0.0.0.0 48ak.com
+0.0.0.0 48bbd5b5-5c8f-46d6-8ea8-4728611a6f39.www.acessoriosparablogs.com.br
 0.0.0.0 48d6b10377.com
 0.0.0.0 48rx.net
 0.0.0.0 493b0eda03.com
@@ -2070,6 +2073,7 @@
 0.0.0.0 9connect.tech
 0.0.0.0 9content.com
 0.0.0.0 9d52e98b67.com
+0.0.0.0 9daaf6e4-18f3-4d45-bf21-44c74cb2c175.www.acessoriosparablogs.com.br
 0.0.0.0 9dmnv9z0gtoh.com
 0.0.0.0 9eb10b7a3d04a.com
 0.0.0.0 9eguoyv.com
@@ -2507,6 +2511,7 @@
 0.0.0.0 acches.com
 0.0.0.0 accidentalinfringementfat.com
 0.0.0.0 accidentallyrussian.com
+0.0.0.0 accids.com
 0.0.0.0 acclaimcraftsman.com
 0.0.0.0 acclaimhostingyt.tech
 0.0.0.0 accoladethoroughly.com
@@ -2549,6 +2554,7 @@
 0.0.0.0 accustomedinaccessible.com
 0.0.0.0 accustomparkedcrave.com
 0.0.0.0 accustomreview.com
+0.0.0.0 acdbidoxmfu.com
 0.0.0.0 acdcdn.com
 0.0.0.0 acdhahqc.com
 0.0.0.0 acdn.adnxs.com
@@ -2948,6 +2954,7 @@
 0.0.0.0 admothreewallent.com
 0.0.0.0 adn.bj
 0.0.0.0 adnani.tech
+0.0.0.0 adnapllits.top
 0.0.0.0 adnesia.com
 0.0.0.0 adnetasia.com
 0.0.0.0 adnetworkme.com
@@ -8506,6 +8513,7 @@
 0.0.0.0 booleanfalces.website
 0.0.0.0 boom-boom-vroom.com
 0.0.0.0 boomads.com
+0.0.0.0 boombang.fr
 0.0.0.0 boomersask.us
 0.0.0.0 boomslot88.site
 0.0.0.0 boonsbarcas.uno
@@ -9108,6 +9116,7 @@
 0.0.0.0 buildnaq91.site
 0.0.0.0 buildsintellecttweak.com
 0.0.0.0 buildsmodeling.com
+0.0.0.0 buildsoft.it
 0.0.0.0 buildsvolumedejection.com
 0.0.0.0 builtchangeable.com
 0.0.0.0 builtdozenprospects.com
@@ -13684,6 +13693,7 @@
 0.0.0.0 degrademeantdig.com
 0.0.0.0 degrainbro.website
 0.0.0.0 degusa-bank.de
+0.0.0.0 degutu.xyz
 0.0.0.0 dehairpodley.com
 0.0.0.0 dehariz.com
 0.0.0.0 dehatwalereporter.site
@@ -21945,6 +21955,7 @@
 0.0.0.0 haofamily.net
 0.0.0.0 haofotlog.com
 0.0.0.0 haokainm.com
+0.0.0.0 haokanpian.com
 0.0.0.0 haolot.com
 0.0.0.0 haoniubicdn.com
 0.0.0.0 haonuo888.com
@@ -26723,6 +26734,7 @@
 0.0.0.0 kegsandremembrance.com
 0.0.0.0 kehalim.com
 0.0.0.0 keidweneth.com
+0.0.0.0 keihel.com
 0.0.0.0 keik6.com
 0.0.0.0 keikh.com
 0.0.0.0 kekeshu8.com
@@ -27251,6 +27263,7 @@
 0.0.0.0 komalbeautycare.in
 0.0.0.0 komarchlupoid.com
 0.0.0.0 komloromnikopicko.com
+0.0.0.0 komoon.site
 0.0.0.0 komoth.com
 0.0.0.0 komuxoe.ru
 0.0.0.0 konamauri.org
@@ -30000,6 +30013,7 @@
 0.0.0.0 marketingenhanced.com
 0.0.0.0 marketinggroupofflorida.com
 0.0.0.0 marketinghinder.com
+0.0.0.0 marketingplantips.com
 0.0.0.0 marketingtools.app
 0.0.0.0 marketplace-construction.com
 0.0.0.0 marketplace-constructo-vip.com
@@ -36469,6 +36483,7 @@
 0.0.0.0 phatlngtmvdrlbk.top
 0.0.0.0 phaucmoa.net
 0.0.0.0 phaudree.com
+0.0.0.0 phauftee.xyz
 0.0.0.0 phaughykdqwtrc.com
 0.0.0.0 phaurtuh.net
 0.0.0.0 phauthoako.com
@@ -39721,6 +39736,7 @@
 0.0.0.0 rdudxejbyxxcb.com
 0.0.0.0 rduutklvx.xyz
 0.0.0.0 re-delivery.pro
+0.0.0.0 re-gov.com
 0.0.0.0 re-jc.com
 0.0.0.0 re.allegeseclair.com
 0.0.0.0 reacheffectsp.work
@@ -46014,6 +46030,7 @@
 0.0.0.0 talblogs.org
 0.0.0.0 talcoidsakis.com
 0.0.0.0 talenthive.tech
+0.0.0.0 talentmatch.in
 0.0.0.0 talentsandsmith.com
 0.0.0.0 talesapricot.com
 0.0.0.0 talkchess.org
@@ -50195,6 +50212,7 @@
 0.0.0.0 unworthydeserts.com
 0.0.0.0 unwroteorcinus.com
 0.0.0.0 unxcomipve.com
+0.0.0.0 unylgxxmrsbb.com
 0.0.0.0 unzipbechic.store
 0.0.0.0 uo.drawbaroddly.com
 0.0.0.0 uod2quk646.com
@@ -52309,6 +52327,7 @@
 0.0.0.0 watchthistop.net
 0.0.0.0 watchtopapps.com
 0.0.0.0 watchvideoplayer.com
+0.0.0.0 watchyourvids.online
 0.0.0.0 waterice.us
 0.0.0.0 waterlinesheet.org
 0.0.0.0 wateronefoundation.org
@@ -55120,6 +55139,7 @@
 0.0.0.0 www.buieslanding.com
 0.0.0.0 www.buildingabettercolumbus.com
 0.0.0.0 www.buildsmodeling.com
+0.0.0.0 www.buildsoft.it
 0.0.0.0 www.builtdozenprospects.com
 0.0.0.0 www.builton.tech
 0.0.0.0 www.bukee.app
@@ -56848,6 +56868,7 @@
 0.0.0.0 www.hansrajnayyar.prashmak.com
 0.0.0.0 www.haodifang5.com
 0.0.0.0 www.haofamily.net
+0.0.0.0 www.haokanpian.com
 0.0.0.0 www.haolot.com
 0.0.0.0 www.haoniubicdn.com
 0.0.0.0 www.haoxianyangrouye.com
@@ -57554,6 +57575,7 @@
 0.0.0.0 www.kolemetersyer.com
 0.0.0.0 www.kolipol.top
 0.0.0.0 www.kolongstore.tech
+0.0.0.0 www.komoon.site
 0.0.0.0 www.koolturecr.com
 0.0.0.0 www.koora.live
 0.0.0.0 www.kopeto.not-tesla.com
@@ -57884,6 +57906,7 @@
 0.0.0.0 www.marieillerbrun.com
 0.0.0.0 www.marinamirch.com
 0.0.0.0 www.markerfraction.com
+0.0.0.0 www.marketingplantips.com
 0.0.0.0 www.marketingtools.app
 0.0.0.0 www.marriedusedaye.com
 0.0.0.0 www.martcubic.com
@@ -58559,6 +58582,7 @@
 0.0.0.0 www.paymybills.app
 0.0.0.0 www.pb2b2.com
 0.0.0.0 www.pbterra.com
+0.0.0.0 www.pcshopbd.com
 0.0.0.0 www.pdf24.uno
 0.0.0.0 www.pdlinstitute.org
 0.0.0.0 www.pdopreroerw.com
