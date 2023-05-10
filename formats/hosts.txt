@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.130
 # Release: 130
-# Entries: 62,855
-# Updated: Wed, 10 May 23 10:09:48 +06
+# Entries: 62,860
+# Updated: Wed, 10 May 23 12:11:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10823,6 +10823,7 @@
 0.0.0.0 cipherjustly.com
 0.0.0.0 cipientco.com
 0.0.0.0 cipledecline.buzz
+0.0.0.0 ciprivatewealth.net
 0.0.0.0 ciqguphollyj.com
 0.0.0.0 ciqwcpkhavricmo.top
 0.0.0.0 ciqwzifwufwu.com
@@ -14193,6 +14194,7 @@
 0.0.0.0 digitalempowers.online
 0.0.0.0 digitalfaas.com
 0.0.0.0 digitalfirecreative.tech
+0.0.0.0 digitalgood.news
 0.0.0.0 digitalicecolorlab.com
 0.0.0.0 digitallucid.com
 0.0.0.0 digitalmediafans.com
@@ -46495,6 +46497,7 @@
 0.0.0.0 terrylhebert.com
 0.0.0.0 terrysoshkoshwi.com
 0.0.0.0 tersactlydeuppends.com
+0.0.0.0 teruiwall.com
 0.0.0.0 tescomoblie.com
 0.0.0.0 tesla-show.net
 0.0.0.0 tesla2023.io
@@ -55177,6 +55180,7 @@
 0.0.0.0 www.churchillalmighty.com
 0.0.0.0 www.chuskii.com
 0.0.0.0 www.cipherjustly.com
+0.0.0.0 www.ciprivatewealth.net
 0.0.0.0 www.circlegrandsonnod.com
 0.0.0.0 www.circles.health
 0.0.0.0 www.circumstantialeltondirtiness.com
@@ -55701,6 +55705,7 @@
 0.0.0.0 www.differencedisinheritpass.com
 0.0.0.0 www.difficultywithhold.com
 0.0.0.0 www.digiroy.com
+0.0.0.0 www.digitalgood.news
 0.0.0.0 www.dijiuyyyy.com
 0.0.0.0 www.dikediffidentsticker.com
 0.0.0.0 www.dilemmafreakish.com
