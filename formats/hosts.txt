@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.132
 # Release: 132
-# Entries: 63,395
-# Updated: Fri, 12 May 23 02:49:20 +06
+# Entries: 63,399
+# Updated: Fri, 12 May 23 04:13:11 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16287,6 +16287,7 @@
 0.0.0.0 elderzon.com
 0.0.0.0 eldestequivalentdrain.com
 0.0.0.0 eldoradio.online
+0.0.0.0 elearl.com
 0.0.0.0 elearn.foundation
 0.0.0.0 elearnsuccessseries.org
 0.0.0.0 eleavers.com
@@ -21457,6 +21458,7 @@
 0.0.0.0 grifictuberal.site
 0.0.0.0 griggscorner.com
 0.0.0.0 grignoaw.com
+0.0.0.0 grigrees.xyz
 0.0.0.0 griksoud.net
 0.0.0.0 grillcheekunfinished.com
 0.0.0.0 grillingusa.us
@@ -37303,6 +37305,7 @@
 0.0.0.0 plannto.com
 0.0.0.0 planscul.com
 0.0.0.0 planstiledetector.com
+0.0.0.0 plant-story.com
 0.0.0.0 plantapizzazz.com
 0.0.0.0 plantationexhaust.com
 0.0.0.0 plantationthrillednoncommittal.com
@@ -39432,6 +39435,7 @@
 0.0.0.0 quenchskirmishcohere.com
 0.0.0.0 quensillo.com
 0.0.0.0 quepadreconsciencia.com
+0.0.0.0 queroum.xyz
 0.0.0.0 querulous-type.com
 0.0.0.0 querylead.com
 0.0.0.0 quesid.com
