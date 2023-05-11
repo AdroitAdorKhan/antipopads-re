@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.131
 # Release: 131
-# Entries: 63,243
-# Updated: Thu, 11 May 23 10:23:53 +06
+# Entries: 63,244
+# Updated: Thu, 11 May 23 12:29:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -39496,6 +39496,7 @@
 0.0.0.0 r-32.xyz
 0.0.0.0 r-insights.com
 0.0.0.0 r-tb.com
+0.0.0.0 r-tiffany.net
 0.0.0.0 r.searchgot.com
 0.0.0.0 r023m83skv5v.com
 0.0.0.0 r3assessments.com
