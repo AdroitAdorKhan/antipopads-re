@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.131
 # Release: 131
-# Entries: 63,345
-# Updated: Thu, 11 May 23 18:35:56 +06
+# Entries: 63,353
+# Updated: Thu, 11 May 23 20:22:42 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8665,6 +8665,7 @@
 0.0.0.0 boximerch.com
 0.0.0.0 boxingweaver.com
 0.0.0.0 boxipeer.com
+0.0.0.0 boxlikepavers.com
 0.0.0.0 boxofficehelping.com
 0.0.0.0 boxofficeliterally.com
 0.0.0.0 boxofwhisper.com
@@ -11844,6 +11845,7 @@
 0.0.0.0 comradeglorious.com
 0.0.0.0 comradiga.com
 0.0.0.0 comsetups.xyz
+0.0.0.0 comseznam.cz
 0.0.0.0 comsite.website
 0.0.0.0 comtecoonline.com
 0.0.0.0 comunicazio.com
@@ -14059,6 +14061,7 @@
 0.0.0.0 devlabra.org
 0.0.0.0 devland.tech
 0.0.0.0 devli.info
+0.0.0.0 devofei.xyz
 0.0.0.0 devoidmoderateale.com
 0.0.0.0 devoidsagacious.com
 0.0.0.0 devotedfootprintsinterstate.com
@@ -16503,6 +16506,7 @@
 0.0.0.0 employmentlawtraining.co.uk
 0.0.0.0 employmentsuppressedbeautiful.com
 0.0.0.0 employmentvip.com
+0.0.0.0 empond.com
 0.0.0.0 empowered4all.org
 0.0.0.0 empoweringhumanitybytaf.org
 0.0.0.0 empowermentculture.com
@@ -18289,6 +18293,7 @@
 0.0.0.0 fiendrhythm.com
 0.0.0.0 fieoefbvsu.com
 0.0.0.0 fiercedental.com
+0.0.0.0 fiercequips.com
 0.0.0.0 fiercydevelopment.tech
 0.0.0.0 fierysolemncow.com
 0.0.0.0 fies.online
@@ -26750,6 +26755,7 @@
 0.0.0.0 kaweiso.com
 0.0.0.0 kawsarsaymon.com
 0.0.0.0 kawunimy.com
+0.0.0.0 kaya303.site
 0.0.0.0 kaybeebio.org
 0.0.0.0 kaybeefruits.com
 0.0.0.0 kaycodes.tech
@@ -29519,6 +29525,7 @@
 0.0.0.0 luxuryhomesofarkansas.co
 0.0.0.0 luxuryhomesofnewyork.co
 0.0.0.0 luxuryworld2030.com
+0.0.0.0 luxusbowboy.com
 0.0.0.0 luydark.com
 0.0.0.0 luyten-98c.com
 0.0.0.0 luzulabeguile.com
@@ -62897,6 +62904,7 @@
 0.0.0.0 zationserv.one
 0.0.0.0 zatnoh.com
 0.0.0.0 zaubanel.com
+0.0.0.0 zaumaico.com
 0.0.0.0 zausosti.net
 0.0.0.0 zauthaus.net
 0.0.0.0 zauthuvy.com
