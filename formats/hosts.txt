@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.131
 # Release: 131
-# Entries: 63,353
-# Updated: Thu, 11 May 23 20:22:42 +06
+# Entries: 63,355
+# Updated: Thu, 11 May 23 22:13:45 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -40649,6 +40649,7 @@
 0.0.0.0 retionattings.xyz
 0.0.0.0 retireblotch.com
 0.0.0.0 retiringmartialaunt.com
+0.0.0.0 retiringoppresssubject.com
 0.0.0.0 retiringrichie.com
 0.0.0.0 retiringspamformed.com
 0.0.0.0 retiringvarieties.com
@@ -51335,6 +51336,7 @@
 0.0.0.0 veridon.social
 0.0.0.0 verifiable-shoot.pro
 0.0.0.0 verificationtracker.com
+0.0.0.0 verify-alert61.com
 0.0.0.0 verify-coinspot-au.website
 0.0.0.0 verify.vet
 0.0.0.0 verifychocolate.com
