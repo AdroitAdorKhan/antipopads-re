@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.132
 # Release: 132
-# Entries: 63,493
-# Updated: Fri, 12 May 23 08:10:57 +06
+# Entries: 63,501
+# Updated: Fri, 12 May 23 10:09:00 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -42016,6 +42016,7 @@
 0.0.0.0 sakalhindusamaj.org
 0.0.0.0 sakefahlore.cam
 0.0.0.0 sakeoxidelunch.com
+0.0.0.0 sakira.app
 0.0.0.0 sakira.mobi
 0.0.0.0 sakshibhavavritti.org
 0.0.0.0 sakthibooks.in
@@ -46398,6 +46399,7 @@
 0.0.0.0 tanadong.net
 0.0.0.0 tanandatable.com
 0.0.0.0 tanatopraxis.com
+0.0.0.0 tanbank.app
 0.0.0.0 tanbank.org
 0.0.0.0 tanceteventu.com
 0.0.0.0 tandavsena.com
@@ -49798,6 +49800,7 @@
 0.0.0.0 twwmviswnyavhju.xyz
 0.0.0.0 twxlcadqqggrmp.com
 0.0.0.0 tx.wekamose.com
+0.0.0.0 tx54.cc
 0.0.0.0 txasbpa.org
 0.0.0.0 txbb.hkwww.844644.com
 0.0.0.0 txbia.org
@@ -53632,6 +53635,7 @@
 0.0.0.0 wishfulinsecurereplace.com
 0.0.0.0 wishjus.com
 0.0.0.0 wishmayvaganti.website
+0.0.0.0 wishyouwerehere.app
 0.0.0.0 wisingpianeta.uno
 0.0.0.0 wismabola.com
 0.0.0.0 wismad.co.uk
@@ -57930,6 +57934,7 @@
 0.0.0.0 www.kidsapologizingalthough.com
 0.0.0.0 www.kidsboilingbeech.com
 0.0.0.0 www.kidslinecover.com
+0.0.0.0 www.kidworld.app
 0.0.0.0 www.kikckfirtss.com
 0.0.0.0 www.killchatgpt.com
 0.0.0.0 www.kindlelegalizebreaking.com
@@ -59738,6 +59743,7 @@
 0.0.0.0 www.saimary.com
 0.0.0.0 www.saimary.net
 0.0.0.0 www.sakeoxidelunch.com
+0.0.0.0 www.sakira.app
 0.0.0.0 www.saladadefrutas.com
 0.0.0.0 www.salamander.parts
 0.0.0.0 www.salesconnections.net
@@ -60361,6 +60367,7 @@
 0.0.0.0 www.tampermonkey2.net
 0.0.0.0 www.tampoprintuae.com
 0.0.0.0 www.tanadong.net
+0.0.0.0 www.tanbank.app
 0.0.0.0 www.taobaoimages.com
 0.0.0.0 www.taoyin365.com
 0.0.0.0 www.tapingdynasty.com
@@ -61064,6 +61071,7 @@
 0.0.0.0 www.wisataponggok.com
 0.0.0.0 www.wiseandclueless.com
 0.0.0.0 www.wishcart.shop
+0.0.0.0 www.wishyouwerehere.app
 0.0.0.0 www.wistfulassign.com
 0.0.0.0 www.witchcraftbarterexploded.com
 0.0.0.0 www.withdrawcosmicabundant.com
