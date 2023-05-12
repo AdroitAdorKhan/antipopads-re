@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.132
 # Release: 132
-# Entries: 63,566
-# Updated: Fri, 12 May 23 18:11:06 +06
+# Entries: 63,567
+# Updated: Fri, 12 May 23 20:26:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -35559,6 +35559,7 @@
 :: ovementerter.xyz
 :: ovemer.com
 :: ovenbifaces.cam
+:: ovenge.com
 :: oveningpummice.digital
 :: overboardbilingual.com
 :: overcomecheck.com
