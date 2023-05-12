@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.132
 # Release: 132
-# Entries: 63,399
-# Updated: Fri, 12 May 23 04:13:11 +06
+# Entries: 63,415
+# Updated: Fri, 12 May 23 06:41:15 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1010,6 +1010,7 @@
 0.0.0.0 3domainscom.com
 0.0.0.0 3dsecurepays.network
 0.0.0.0 3dtops.com
+0.0.0.0 3dtvtechreport.com
 0.0.0.0 3e8f80994d.com
 0.0.0.0 3eb315e3eb.964e7c340a.com
 0.0.0.0 3ef8a8d533.f57fbf2b51.com
@@ -11330,6 +11331,7 @@
 0.0.0.0 clothingsphere.com
 0.0.0.0 clothnasion.com
 0.0.0.0 clothrepublicanbertram.com
+0.0.0.0 clotricks.in
 0.0.0.0 clottedpowerlessmade.com
 0.0.0.0 cloud-repository.com
 0.0.0.0 cloud-sites.uk
@@ -25042,6 +25044,7 @@
 0.0.0.0 iphonecasesbuy.com
 0.0.0.0 iphonehub.info
 0.0.0.0 iphumiki.com
+0.0.0.0 iplrecords.in.net
 0.0.0.0 iplt20hindi.com
 0.0.0.0 iplus.am
 0.0.0.0 ipmbnqqaon.com
@@ -26467,6 +26470,7 @@
 0.0.0.0 jundiedsesamin.com
 0.0.0.0 junedecrepitheroic.com
 0.0.0.0 junemy.com
+0.0.0.0 jungledao.net
 0.0.0.0 jungledefi.net
 0.0.0.0 juniorolivares.com
 0.0.0.0 juniorsalloquy.guru
@@ -29901,6 +29905,7 @@
 0.0.0.0 mairbeets.com
 0.0.0.0 mairho.tech
 0.0.0.0 mairunoa.xyz
+0.0.0.0 maisondazeez.com
 0.0.0.0 maisonrosaly.com
 0.0.0.0 maisoope.xyz
 0.0.0.0 maisvznypp.com
@@ -32229,6 +32234,7 @@
 0.0.0.0 mydraft.us.com
 0.0.0.0 myeasetrack.com
 0.0.0.0 myeasyvpn.com
+0.0.0.0 myebiz.app
 0.0.0.0 myemdwtjqkwvlmw.xyz
 0.0.0.0 myetherwayllet.com
 0.0.0.0 myfaithster.com
@@ -33867,6 +33873,7 @@
 0.0.0.0 nurobi.info
 0.0.0.0 nuroflem.com
 0.0.0.0 nursecompellingsmother.com
+0.0.0.0 nursejob.app
 0.0.0.0 nursequestionmoss.com
 0.0.0.0 nurserylydia.com
 0.0.0.0 nurserysurvivortogether.com
@@ -41985,6 +41992,7 @@
 0.0.0.0 salon526.com
 0.0.0.0 salonfortuna.com
 0.0.0.0 salonsepeti.com
+0.0.0.0 salonsoft.app
 0.0.0.0 salsa.in
 0.0.0.0 salsadistune.digital
 0.0.0.0 salsrus.com
@@ -46367,6 +46375,7 @@
 0.0.0.0 tapole.co.za
 0.0.0.0 tapprove.buzz
 0.0.0.0 tapsirsa.net
+0.0.0.0 tapzap.app
 0.0.0.0 taqowcnzi.com
 0.0.0.0 taqprllivhfm.com
 0.0.0.0 tarabergmane.com
@@ -47859,6 +47868,7 @@
 0.0.0.0 tijori.net
 0.0.0.0 tijorihubrajasthan.gives
 0.0.0.0 tik2download.com
+0.0.0.0 tikclick.app
 0.0.0.0 tikconv.com
 0.0.0.0 tikdownloader.net
 0.0.0.0 tikepdxu.xyz
@@ -58487,6 +58497,7 @@
 0.0.0.0 www.mycomicxxx.com
 0.0.0.0 www.mycrowncollection.net
 0.0.0.0 www.mydigiverse.marketing
+0.0.0.0 www.myebiz.app
 0.0.0.0 www.myfaithster.com
 0.0.0.0 www.myfans.stream
 0.0.0.0 www.myfavoriteperson.info
@@ -58643,6 +58654,7 @@
 0.0.0.0 www.nuggettree.org
 0.0.0.0 www.nukkadexpress.com
 0.0.0.0 www.number1mango.com
+0.0.0.0 www.nursejob.app
 0.0.0.0 www.nursequestionmoss.com
 0.0.0.0 www.nurserylydia.com
 0.0.0.0 www.nurserysurvivortogether.com
@@ -59652,6 +59664,7 @@
 0.0.0.0 www.saladadefrutas.com
 0.0.0.0 www.salamander.parts
 0.0.0.0 www.salesconnections.net
+0.0.0.0 www.salonsoft.app
 0.0.0.0 www.salsrus.com
 0.0.0.0 www.saltsspectacles.com
 0.0.0.0 www.salutationdove.com
@@ -60275,6 +60288,7 @@
 0.0.0.0 www.taoyin365.com
 0.0.0.0 www.tapingdynasty.com
 0.0.0.0 www.tapinvited.com
+0.0.0.0 www.tapzap.app
 0.0.0.0 www.tarabergmane.com
 0.0.0.0 www.tasteyvapes.com
 0.0.0.0 www.tatamedicalcentretrust.net
@@ -60344,6 +60358,7 @@
 0.0.0.0 www.thatsaucyone.com
 0.0.0.0 www.thatsaucyone.net
 0.0.0.0 www.thatsaucyone.shop
+0.0.0.0 www.thatsneat.app
 0.0.0.0 www.the-parent.app
 0.0.0.0 www.theadvantedge.site
 0.0.0.0 www.thebaglounge.com
@@ -60425,6 +60440,7 @@
 0.0.0.0 www.tighterstarringsinking.com
 0.0.0.0 www.tightervarying.com
 0.0.0.0 www.tijori.net
+0.0.0.0 www.tikclick.app
 0.0.0.0 www.tiktokmadeusbuyit.shop
 0.0.0.0 www.tiledissipatelocum.com
 0.0.0.0 www.timberghostoutfitters.com
