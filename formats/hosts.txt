@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.132
 # Release: 132
-# Entries: 63,501
-# Updated: Fri, 12 May 23 10:09:00 +06
+# Entries: 63,508
+# Updated: Fri, 12 May 23 12:08:07 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -22491,6 +22491,7 @@
 0.0.0.0 hellodisappointedscuba.com
 0.0.0.0 hellodoctordrama.com
 0.0.0.0 hellokittyfrens.io
+0.0.0.0 hellostranger.app
 0.0.0.0 hellosumit.tech
 0.0.0.0 hellouran.com
 0.0.0.0 helloworldstudios.uk
@@ -36042,6 +36043,7 @@
 0.0.0.0 parr-it.com
 0.0.0.0 parrecleftne.com
 0.0.0.0 parrecleftne.xyz
+0.0.0.0 parret.app
 0.0.0.0 parringepigene.com
 0.0.0.0 parritapp.app
 0.0.0.0 parritapp.com
@@ -46245,6 +46247,7 @@
 0.0.0.0 t85itha3nitde.com
 0.0.0.0 t8atfwhdtawd8.monster
 0.0.0.0 ta.nixonmordore.com
+0.0.0.0 ta123.app
 0.0.0.0 ta3nfsordd.com
 0.0.0.0 ta5ast2ffeyvhjitde.com
 0.0.0.0 taa-swap.com
@@ -57178,6 +57181,7 @@
 0.0.0.0 www.gravitationobserve.com
 0.0.0.0 www.gravityinduction.com
 0.0.0.0 www.gray.porn
+0.0.0.0 www.grcmgr.app
 0.0.0.0 www.greatagriculture.org
 0.0.0.0 www.greatdexchange.com
 0.0.0.0 www.greatfxopbiz.net
@@ -57320,6 +57324,7 @@
 0.0.0.0 www.helium-3gasolinera.com
 0.0.0.0 www.hellocaterersomeone.com
 0.0.0.0 www.hellodisappointedscuba.com
+0.0.0.0 www.hellostranger.app
 0.0.0.0 www.hellouran.com
 0.0.0.0 www.helpedhandwritingintestine.com
 0.0.0.0 www.helpedlightlyarbour.com
@@ -58952,6 +58957,7 @@
 0.0.0.0 www.parkdues.com
 0.0.0.0 www.parklandcountyhomes.ca
 0.0.0.0 www.parktris.com
+0.0.0.0 www.parret.app
 0.0.0.0 www.partage-constructo.com
 0.0.0.0 www.partedgirlie.com
 0.0.0.0 www.participateoppositedifferent.com
@@ -60340,6 +60346,7 @@
 0.0.0.0 www.sz8051.com
 0.0.0.0 www.szsgmtt.com
 0.0.0.0 www.t8atfwhdtawd8.monster
+0.0.0.0 www.ta123.app
 0.0.0.0 www.tabledownstairsprovocative.com
 0.0.0.0 www.tableshooliganbait.com
 0.0.0.0 www.tabletbragcreak.com
