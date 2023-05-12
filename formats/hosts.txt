@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.132
 # Release: 132
-# Entries: 63,560
-# Updated: Fri, 12 May 23 16:29:56 +06
+# Entries: 63,566
+# Updated: Fri, 12 May 23 18:11:06 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -18858,6 +18858,7 @@
 0.0.0.0 flyhigh-travels.com
 0.0.0.0 flyingsexul.space
 0.0.0.0 flyingsquirellsmooch.com
+0.0.0.0 flyiptv.net
 0.0.0.0 flymob.com
 0.0.0.0 flynto.in
 0.0.0.0 flytechb.com
@@ -19828,6 +19829,7 @@
 0.0.0.0 galotop1.com
 0.0.0.0 galpaodosusados.com
 0.0.0.0 galpkthjpeoe.com
+0.0.0.0 galsajoo.xyz
 0.0.0.0 galyra.com
 0.0.0.0 gam3ah.com
 0.0.0.0 gambar123.com
@@ -41022,6 +41024,7 @@
 0.0.0.0 rigfoxcup.site
 0.0.0.0 rightenedetu.site
 0.0.0.0 righteouscentral.com
+0.0.0.0 rightfuldisintegrate.com
 0.0.0.0 rightfulstudioshades.com
 0.0.0.0 rightiescolled.club
 0.0.0.0 rightnativecontent.com
@@ -46587,6 +46590,7 @@
 0.0.0.0 tataplaybeauty.org
 0.0.0.0 tataplaybinge.net
 0.0.0.0 tataplaybinge.org
+0.0.0.0 tataplaybroadband.co
 0.0.0.0 tataplayclassiccinema.org
 0.0.0.0 tataplaycooking.org
 0.0.0.0 tataplaydish.biz
@@ -46594,6 +46598,7 @@
 0.0.0.0 tataplayfiber.co
 0.0.0.0 tataplayfibre.org
 0.0.0.0 tataplayfitness.org
+0.0.0.0 tataplayfyber.co.in
 0.0.0.0 tataplayguide.biz
 0.0.0.0 tataplayhd.biz
 0.0.0.0 tataplayhelpline.org
@@ -63173,6 +63178,7 @@
 0.0.0.0 zeegreen.net
 0.0.0.0 zeepta.com
 0.0.0.0 zeeshan8281.tech
+0.0.0.0 zeeshech.net
 0.0.0.0 zeeshith.net
 0.0.0.0 zeetelindia.com
 0.0.0.0 zeeweb.tech
