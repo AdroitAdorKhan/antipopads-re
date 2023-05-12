@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.132
 # Release: 132
-# Entries: 63,567
-# Updated: Fri, 12 May 23 20:26:51 +06
+# Entries: 63,568
+# Updated: Fri, 12 May 23 22:12:43 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11831,6 +11831,7 @@
 0.0.0.0 compassionthwartamy.com
 0.0.0.0 compasspenitenthollow.com
 0.0.0.0 compcon.co.in
+0.0.0.0 compelgraduation.com
 0.0.0.0 compensationpropulsion.com
 0.0.0.0 comperesuccessive.com
 0.0.0.0 competencecondolejug.com
