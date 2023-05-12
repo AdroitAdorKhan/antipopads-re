@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.132
 # Release: 132
-# Entries: 63,559
-# Updated: Fri, 12 May 23 14:27:15 +06
+# Entries: 63,560
+# Updated: Fri, 12 May 23 16:29:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8938,6 +8938,7 @@
 0.0.0.0 brioletredeyes.com
 0.0.0.0 brirama.co.uk
 0.0.0.0 briskedmiskept.com
+0.0.0.0 brisksys.net
 0.0.0.0 briskwalk.net
 0.0.0.0 brissapogaic.uno
 0.0.0.0 bristansales.co.uk
