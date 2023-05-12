@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.133
 # Release: 133
-# Entries: 63,603
-# Updated: Sat, 13 May 23 00:14:29 +06
+# Entries: 63,604
+# Updated: Sat, 13 May 23 02:07:29 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -42241,6 +42241,7 @@
 0.0.0.0 saohu563.com
 0.0.0.0 saouknatst.com
 0.0.0.0 sap-list.us
+0.0.0.0 sapayday.co.za
 0.0.0.0 sapdealtsalary.com
 0.0.0.0 sapguruji.com
 0.0.0.0 sapiaostremma.com
