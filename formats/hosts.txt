@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.133
 # Release: 133
-# Entries: 63,759
-# Updated: Sat, 13 May 23 10:07:22 +06
+# Entries: 63,761
+# Updated: Sat, 13 May 23 12:09:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -47919,6 +47919,7 @@
 0.0.0.0 thinbi.com
 0.0.0.0 thingrealtape.com
 0.0.0.0 thingschemesforester.com
+0.0.0.0 thingsdetermine.com
 0.0.0.0 thinkaction.com
 0.0.0.0 thinkandgrowrich.co.za
 0.0.0.0 thinkfreshindia.com
@@ -52012,6 +52013,7 @@
 0.0.0.0 vinianselmi.it
 0.0.0.0 viniciusfrioli.top
 0.0.0.0 vinitgoyal.com
+0.0.0.0 vinnde.com
 0.0.0.0 vinova1-sg.com
 0.0.0.0 vintage-cunts.com
 0.0.0.0 vintageaircraftrestorations.co.uk
