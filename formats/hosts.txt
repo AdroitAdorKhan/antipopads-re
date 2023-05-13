@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.134
 # Release: 134
-# Entries: 63,865
-# Updated: Sun, 14 May 23 02:07:18 +06
+# Entries: 63,867
+# Updated: Sun, 14 May 23 04:09:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16873,6 +16873,7 @@
 0.0.0.0 enviablepoorbutler.com
 0.0.0.0 enviablepostageyesterday.com
 0.0.0.0 enviableunfaithfulinternet.com
+0.0.0.0 envifilter.in
 0.0.0.0 envioscomplot.com
 0.0.0.0 enviousforegroundboldly.com
 0.0.0.0 enviousroom.pro
@@ -44264,6 +44265,7 @@
 0.0.0.0 slavesenviablegrammar.com
 0.0.0.0 slavesubmarinebribery.com
 0.0.0.0 slavewindows.com
+0.0.0.0 slavil.com
 0.0.0.0 slavizesoften.com
 0.0.0.0 slavre.com
 0.0.0.0 slavsbothros.tech
