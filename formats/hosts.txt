@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.134
 # Release: 134
-# Entries: 63,864
-# Updated: Sun, 14 May 23 00:15:58 +06
+# Entries: 63,865
+# Updated: Sun, 14 May 23 02:07:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -23325,6 +23325,7 @@
 0.0.0.0 hopefullyapricot.com
 0.0.0.0 hopefulserversnecklace.com
 0.0.0.0 hopeoceania.org
+0.0.0.0 hopesironic.com
 0.0.0.0 hopeyoga.live
 0.0.0.0 hopghpfa.com
 0.0.0.0 hopiaks.top
