@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.133
 # Release: 133
-# Entries: 63,761
-# Updated: Sat, 13 May 23 12:09:24 +06
+# Entries: 63,765
+# Updated: Sat, 13 May 23 14:07:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -44203,6 +44203,7 @@
 0.0.0.0 slearl.com
 0.0.0.0 sleazyparliamentarybikini.com
 0.0.0.0 sledgedorig.tech
+0.0.0.0 sledimitationsegment.com
 0.0.0.0 sleechepirot.website
 0.0.0.0 sleek-craft.org
 0.0.0.0 sleek-craft.us
@@ -46410,6 +46411,7 @@
 0.0.0.0 syruphamster.com
 0.0.0.0 sys.lv
 0.0.0.0 syscall.tech
+0.0.0.0 syscomputing.com
 0.0.0.0 sysdmt.com
 0.0.0.0 syskonx.co.uk
 0.0.0.0 syskonx.uk
@@ -57373,6 +57375,7 @@
 0.0.0.0 www.gobnks.com
 0.0.0.0 www.goddessclad.com
 0.0.0.0 www.godlessreasoningimaginary.com
+0.0.0.0 www.godrejproperties-hill-side.org
 0.0.0.0 www.godrejpropertiesmahalaxmi.com
 0.0.0.0 www.gofarfast.net
 0.0.0.0 www.gofersteq.com
@@ -57614,6 +57617,7 @@
 0.0.0.0 www.historicaldiagnose.com
 0.0.0.0 www.hitbrilliantcollective.com
 0.0.0.0 www.hitchwanderingillusion.com
+0.0.0.0 www.hj3e.com
 0.0.0.0 www.hjqt.org
 0.0.0.0 www.hjw.design
 0.0.0.0 www.hkeruv.org
