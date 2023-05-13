@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.133
 # Release: 133
-# Entries: 63,823
-# Updated: Sat, 13 May 23 16:15:57 +06
+# Entries: 63,825
+# Updated: Sat, 13 May 23 18:07:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19313,6 +19313,7 @@
 0.0.0.0 fragilebiggerbetty.com
 0.0.0.0 fragmenteasygoingmass.com
 0.0.0.0 fragrance-consultancy.com
+0.0.0.0 fragro.co.uk
 0.0.0.0 frailcockroachconfiguration.com
 0.0.0.0 frailshootingexamination.com
 0.0.0.0 fralstamp-genglyric.icu
@@ -57241,6 +57242,7 @@
 0.0.0.0 www.fowlmasquerade.com
 0.0.0.0 www.fpre.org
 0.0.0.0 www.fragmenteasygoingmass.com
+0.0.0.0 www.fragro.co.uk
 0.0.0.0 www.frailcockroachconfiguration.com
 0.0.0.0 www.frailshootingexamination.com
 0.0.0.0 www.francecoupon.fr
