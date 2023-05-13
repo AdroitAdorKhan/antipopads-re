@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.133
 # Release: 133
-# Entries: 63,828
-# Updated: Sat, 13 May 23 20:09:31 +06
+# Entries: 63,829
+# Updated: Sat, 13 May 23 22:07:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4540,6 +4540,7 @@
 0.0.0.0 amildarclaes.space
 0.0.0.0 amiltineinct.homes
 0.0.0.0 amimi.tech
+0.0.0.0 aminalceignical.com
 0.0.0.0 amindedyowe.life
 0.0.0.0 amir-kefayati.com
 0.0.0.0 amirteeg.com
