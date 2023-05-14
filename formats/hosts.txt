@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.134
 # Release: 134
-# Entries: 63,900
-# Updated: Sun, 14 May 23 10:09:26 +06
+# Entries: 63,909
+# Updated: Sun, 14 May 23 14:07:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9927,6 +9927,7 @@
 0.0.0.0 carryhummight.com
 0.0.0.0 carsandbarks.com
 0.0.0.0 carservicingshaw.uk
+0.0.0.0 carsrental.discount
 0.0.0.0 carstarexpressottawadowntown.ca
 0.0.0.0 carstensgames.com
 0.0.0.0 carswell.consulting
@@ -23416,6 +23417,7 @@
 0.0.0.0 hostingcloud.racing
 0.0.0.0 hostinggrizzly.com
 0.0.0.0 hostingusa4you.com
+0.0.0.0 hostmaster.www.carsrental.discount
 0.0.0.0 hostmaster.www.daily-mail.xyz
 0.0.0.0 hostmaster.www.digitalsignatureonline.in
 0.0.0.0 hostmaster.www.jiinuerealestate.brandvoice.online
@@ -55280,6 +55282,7 @@
 0.0.0.0 www.angryheadlong.com
 0.0.0.0 www.anguishexperimental.com
 0.0.0.0 www.anguishleague.com
+0.0.0.0 www.anguishworst.com
 0.0.0.0 www.anielaelzanowska.com
 0.0.0.0 www.animebetter.com
 0.0.0.0 www.animsup.biz
@@ -55891,6 +55894,7 @@
 0.0.0.0 www.bunquaver.com
 0.0.0.0 www.buondia.com
 0.0.0.0 www.buoydeparturediscontent.com
+0.0.0.0 www.burdenasmetaphor.com
 0.0.0.0 www.burlapvocation.com
 0.0.0.0 www.burrotefoodtruck.com
 0.0.0.0 www.burstingdipper.com
@@ -56377,6 +56381,7 @@
 0.0.0.0 www.crankyfolkoutwit.com
 0.0.0.0 www.crankysneak.com
 0.0.0.0 www.crashlund.org
+0.0.0.0 www.craterchildbirthprevail.com
 0.0.0.0 www.crawlingmat.com
 0.0.0.0 www.craymar.com
 0.0.0.0 www.crazgamas.com
@@ -56650,6 +56655,7 @@
 0.0.0.0 www.directorbrightlyjo.com
 0.0.0.0 www.direplaywrightphysical.com
 0.0.0.0 www.dirt-ebike974.com
+0.0.0.0 www.dirtinessboiled.com
 0.0.0.0 www.dirtrecurrentinapptitudeinapptitude.com
 0.0.0.0 www.dirtyfutbolclub.com
 0.0.0.0 www.dirtysuspension.com
@@ -58405,6 +58411,7 @@
 0.0.0.0 www.lastpushrunning.com
 0.0.0.0 www.latervoluntaryarise.com
 0.0.0.0 www.latestgrace.com
+0.0.0.0 www.laughbuckle.com
 0.0.0.0 www.laughtermation.com
 0.0.0.0 www.launchreliantcleaver.com
 0.0.0.0 www.laundryrespond.com
@@ -60252,6 +60259,7 @@
 0.0.0.0 www.severaladjustlattice.com
 0.0.0.0 www.severalbagel.com
 0.0.0.0 www.severaljack.com
+0.0.0.0 www.sewersneaky.com
 0.0.0.0 www.sex5lbjz.com
 0.0.0.0 www.sexdollshoppe.com
 0.0.0.0 www.sexgallerycasino.com
@@ -61315,6 +61323,7 @@
 0.0.0.0 www.voyageschoolanymore.com
 0.0.0.0 www.vpay.website
 0.0.0.0 www.vsystemnepal.com
+0.0.0.0 www.vulgarmilletappear.com
 0.0.0.0 www.vulturegodless.com
 0.0.0.0 www.vupyjyyu.xyz
 0.0.0.0 www.vushcups.com
