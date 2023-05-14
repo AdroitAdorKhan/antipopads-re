@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.05.134
-# Release: 134
-# Entries: 63,956
-# Updated: Sun, 14 May 23 22:07:09 +06
+# Version: 23.05.135
+# Release: 135
+# Entries: 63,957
+# Updated: Mon, 15 May 23 02:07:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -35113,6 +35113,7 @@
 0.0.0.0 onlinemovies.fun
 0.0.0.0 onlinepan.org
 0.0.0.0 onlinepancardservices.org
+0.0.0.0 onlinepcrepair.co.uk
 0.0.0.0 onlinepornohub.com
 0.0.0.0 onlinepromousa.com
 0.0.0.0 onlinepuonline.com
