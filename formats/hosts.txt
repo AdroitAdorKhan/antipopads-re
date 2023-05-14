@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.135
 # Release: 135
-# Entries: 63,957
-# Updated: Mon, 15 May 23 02:07:23 +06
+# Entries: 63,958
+# Updated: Mon, 15 May 23 04:13:00 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -47556,6 +47556,7 @@
 0.0.0.0 thebluntchic.com
 0.0.0.0 theboathouse.fun
 0.0.0.0 thebobbinsnest.com
+0.0.0.0 theboobyhatch.org
 0.0.0.0 thebrightideasfactory.co.uk
 0.0.0.0 thebromudragroup.com
 0.0.0.0 thebwellgroup.net
