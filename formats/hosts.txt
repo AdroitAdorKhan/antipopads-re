@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.134
 # Release: 134
-# Entries: 63,895
-# Updated: Sun, 14 May 23 08:16:34 +06
+# Entries: 63,900
+# Updated: Sun, 14 May 23 10:09:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1643,6 +1643,7 @@
 0.0.0.0 72aff8bceb.com
 0.0.0.0 72hdgb5o.de
 0.0.0.0 73-j-pinnable.com
+0.0.0.0 73057e1206.com
 0.0.0.0 735454.org
 0.0.0.0 735a0662e8.ff9ffc838f.com
 0.0.0.0 736db92639.0abdab4d27.com
@@ -3530,6 +3531,7 @@
 0.0.0.0 africaauthorised.org
 0.0.0.0 africactx.com
 0.0.0.0 africaewgrhdtb.com
+0.0.0.0 africanart.gallery
 0.0.0.0 africanministersfellowship.org
 0.0.0.0 africanunionsc.org
 0.0.0.0 africastores.co.uk
@@ -44024,6 +44026,7 @@
 0.0.0.0 sinewedretore.casa
 0.0.0.0 sing-tracker.com
 0.0.0.0 singajaya031.com
+0.0.0.0 singaporeferragamo.com
 0.0.0.0 singelstodate.com
 0.0.0.0 singerrespectfuljerk.com
 0.0.0.0 singgles.com
@@ -55131,6 +55134,7 @@
 0.0.0.0 www.affordspoonsgray.com
 0.0.0.0 www.affordstrawberryoverreact.com
 0.0.0.0 www.aforepayoffstutter.com
+0.0.0.0 www.africanart.gallery
 0.0.0.0 www.africanministersfellowship.org
 0.0.0.0 www.africatraveling.com
 0.0.0.0 www.afrikamaat.com
@@ -59543,6 +59547,7 @@
 0.0.0.0 www.ponk.pro
 0.0.0.0 www.pontifique.com
 0.0.0.0 www.ponyexpress30.com
+0.0.0.0 www.ponyresentment.com
 0.0.0.0 www.pool-binance.pro
 0.0.0.0 www.poolbreezecheer.com
 0.0.0.0 www.poorlyorchidrepute.com
