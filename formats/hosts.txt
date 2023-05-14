@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.134
 # Release: 134
-# Entries: 63,941
-# Updated: Sun, 14 May 23 16:12:06 +06
+# Entries: 63,946
+# Updated: Sun, 14 May 23 18:07:41 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4621,6 +4621,7 @@
 0.0.0.0 amyrinunshoed.com
 0.0.0.0 amysaghurtful.com
 0.0.0.0 amywhereby.com
+0.0.0.0 amzbilling-settings.com
 0.0.0.0 amzosmcuhci.com
 0.0.0.0 amzpzylzo.com
 0.0.0.0 amztrad.biz
@@ -15833,6 +15834,7 @@
 0.0.0.0 earth2guide.com
 0.0.0.0 earthenmind.in
 0.0.0.0 earthnow-dubai.com
+0.0.0.0 earthnow.shop
 0.0.0.0 earthspell.org
 0.0.0.0 earthtag.ooo
 0.0.0.0 earthycopy.com
@@ -16234,6 +16236,7 @@
 0.0.0.0 eflow-servicehelp.com
 0.0.0.0 eflowspayment.com
 0.0.0.0 eflowtoll-online-payment.com
+0.0.0.0 eflowtoll-onlinepayment.com
 0.0.0.0 efmrxqjngyc.xyz
 0.0.0.0 efojzbnh.com
 0.0.0.0 efooods.com
@@ -42933,6 +42936,7 @@
 0.0.0.0 secureplustataplay.net.in
 0.0.0.0 secureplustataplay.org
 0.0.0.0 secures-guvens-ticaret-alisveris.site
+0.0.0.0 secures-id00293.com
 0.0.0.0 securesmrt-dt.com
 0.0.0.0 securesurf.biz
 0.0.0.0 securetataplay.co.in
@@ -51395,6 +51399,7 @@
 0.0.0.0 vacaturevoorbeelden.be
 0.0.0.0 vaccinationwear.com
 0.0.0.0 vaccinegrownparliamentary.com
+0.0.0.0 vaccinepassports.live
 0.0.0.0 vaccinesrd.org
 0.0.0.0 vaccinetruthmovement.net
 0.0.0.0 vacexhire.uk
