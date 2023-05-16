@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.05.136
-# Release: 136
-# Entries: 64,621
-# Updated: Tue, 16 May 23 20:12:55 +06
+# Version: 23.05.137
+# Release: 137
+# Entries: 64,623
+# Updated: Wed, 17 May 23 00:15:17 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -21437,6 +21437,7 @@
 0.0.0.0 goniforas.com
 0.0.0.0 gonorthbrook.org
 0.0.0.0 goo1111gie-analytics.su
+0.0.0.0 goo1gle.com
 0.0.0.0 gooblesdd.com
 0.0.0.0 good.bfriend.club
 0.0.0.0 good.offersapp.in
@@ -22464,6 +22465,7 @@
 0.0.0.0 hanoi.foundation
 0.0.0.0 hanoispring.net
 0.0.0.0 hansinaugurate.com
+0.0.0.0 hanstepsschoolofnursing.com
 0.0.0.0 hanstransportation.org
 0.0.0.0 haodifang5.com
 0.0.0.0 haofamily.net
