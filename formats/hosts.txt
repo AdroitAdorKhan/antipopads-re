@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.136
 # Release: 136
-# Entries: 64,375
-# Updated: Tue, 16 May 23 04:12:05 +06
+# Entries: 64,379
+# Updated: Tue, 16 May 23 06:07:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11118,6 +11118,7 @@
 0.0.0.0 cityadspix.com
 0.0.0.0 citybasket24.org
 0.0.0.0 citycashbuyers.com
+0.0.0.0 citycelebrity.in
 0.0.0.0 citydsp.com
 0.0.0.0 citynewszet.com
 0.0.0.0 cityoftrouvaille.com
@@ -19219,6 +19220,7 @@
 0.0.0.0 foodibee.com
 0.0.0.0 foodieblogroll.com
 0.0.0.0 foodies4furbabies.org
+0.0.0.0 foodlicious.in
 0.0.0.0 foolish-devil.pro
 0.0.0.0 foolishcheek.pro
 0.0.0.0 foolishunequal.com
@@ -51276,6 +51278,7 @@
 0.0.0.0 up.stickertable.com
 0.0.0.0 up4u.me
 0.0.0.0 uparceuson.com
+0.0.0.0 upayme.in
 0.0.0.0 upbendkohen.uno
 0.0.0.0 upbkdlimqc.com
 0.0.0.0 upbrininghandy.com
@@ -56507,6 +56510,7 @@
 0.0.0.0 www.citconf.org
 0.0.0.0 www.citiccardcdn.com
 0.0.0.0 www.citybasket24.org
+0.0.0.0 www.citycelebrity.in
 0.0.0.0 www.citystern.com
 0.0.0.0 www.civilizationperspirationhoroscope.com
 0.0.0.0 www.civilizationrequestsshops.com
