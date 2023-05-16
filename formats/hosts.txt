@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.136
 # Release: 136
-# Entries: 64,417
-# Updated: Tue, 16 May 23 08:14:24 +06
+# Entries: 64,421
+# Updated: Tue, 16 May 23 10:07:32 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13964,6 +13964,7 @@
 0.0.0.0 degeronium.com
 0.0.0.0 deghooda.net
 0.0.0.0 degmfmog.xyz
+0.0.0.0 degora.site
 0.0.0.0 degrademeantdig.com
 0.0.0.0 degrainbro.website
 0.0.0.0 degusa-bank.de
@@ -36006,6 +36007,7 @@
 0.0.0.0 outherunrid.digital
 0.0.0.0 outhitcooler.com
 0.0.0.0 outhulem.net
+0.0.0.0 outhurldorask.uno
 0.0.0.0 outkickanoxic.com
 0.0.0.0 outlarvitarer.com
 0.0.0.0 outlawchillpropose.com
@@ -56989,6 +56991,7 @@
 0.0.0.0 www.deficitsilverdisability.com
 0.0.0.0 www.definitepayment.com
 0.0.0.0 www.definitionburlap.com
+0.0.0.0 www.degora.site
 0.0.0.0 www.dehariz.com
 0.0.0.0 www.deityate.com
 0.0.0.0 www.deitynosebleed.com
@@ -57426,6 +57429,7 @@
 0.0.0.0 www.entropist.biz
 0.0.0.0 www.entrustscratchedcriticize.com
 0.0.0.0 www.enviableunfaithfulinternet.com
+0.0.0.0 www.envifilter.in
 0.0.0.0 www.envioscomplot.com
 0.0.0.0 www.envyblundercollide.com
 0.0.0.0 www.eonia.holdings
