@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.136
 # Release: 136
-# Entries: 64,604
-# Updated: Tue, 16 May 23 16:14:23 +06
+# Entries: 64,616
+# Updated: Tue, 16 May 23 18:07:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3781,6 +3781,7 @@
 0.0.0.0 ahjopnbimr.com
 0.0.0.0 ahjrinrucmp.com
 0.0.0.0 ahjuliten.com
+0.0.0.0 ahlanair.co.uk
 0.0.0.0 ahlbhiaq.com
 0.0.0.0 ahlefind.com
 0.0.0.0 ahmatais.co.za
@@ -30404,6 +30405,7 @@
 0.0.0.0 mahadevmetalind.com
 0.0.0.0 mahagchf.com
 0.0.0.0 mahaidroagra.com
+0.0.0.0 mahakriya.com
 0.0.0.0 maharajgroup.co.za
 0.0.0.0 maharbandi.tech
 0.0.0.0 mahatraverse.com
@@ -34045,6 +34047,7 @@
 0.0.0.0 no.daikonmomist.com
 0.0.0.0 no.gasconstushies.com
 0.0.0.0 no2veeamggaseber.com
+0.0.0.0 noabusers.xyz
 0.0.0.0 noahilum.net
 0.0.0.0 noaiaft.com
 0.0.0.0 noalts.tech
@@ -35434,6 +35437,10 @@
 0.0.0.0 online-deal.click
 0.0.0.0 online-kbcambodia.com
 0.0.0.0 online-marketing-consultant.net
+0.0.0.0 online-payment382.fun
+0.0.0.0 online-payment382.space
+0.0.0.0 online-payment382.store
+0.0.0.0 online-payment382.website
 0.0.0.0 online-pornhub.com
 0.0.0.0 online-user-protector.com
 0.0.0.0 onlineajayuk.com
@@ -43472,6 +43479,7 @@
 0.0.0.0 semantictypes.org
 0.0.0.0 semaobf.com
 0.0.0.0 semaphoresystems.net
+0.0.0.0 semarama.co.uk
 0.0.0.0 semicaplus.eu
 0.0.0.0 semicircleanalyzerequire.com
 0.0.0.0 semicoloninadequacypleasantly.com
@@ -55688,6 +55696,7 @@
 0.0.0.0 www.agsoccer.co.uk
 0.0.0.0 www.ahagreatlypromised.com
 0.0.0.0 www.ahaheartburndo.com
+0.0.0.0 www.ahlanair.co.uk
 0.0.0.0 www.ahotelru.com
 0.0.0.0 www.ai-ciso.com
 0.0.0.0 www.aicfun.com
@@ -59253,6 +59262,7 @@
 0.0.0.0 www.magicalflavour.com
 0.0.0.0 www.magicianmost.com
 0.0.0.0 www.magnati.co.uk
+0.0.0.0 www.mahakriya.com
 0.0.0.0 www.maharajgroup.co.za
 0.0.0.0 www.mahitimarathit.in
 0.0.0.0 www.mahuabika.com
@@ -60880,6 +60890,7 @@
 0.0.0.0 www.selfevidentvaccine.com
 0.0.0.0 www.sellinghomesforaliving.com
 0.0.0.0 www.semaobf.com
+0.0.0.0 www.semarama.co.uk
 0.0.0.0 www.semicircleanalyzerequire.com
 0.0.0.0 www.semiglorifyseek.com
 0.0.0.0 www.senator.am
@@ -62358,6 +62369,7 @@
 0.0.0.0 www.zyinfotech.com
 0.0.0.0 www.zz1370.com
 0.0.0.0 www.zzitj.com
+0.0.0.0 www00766666.com
 0.0.0.0 www118626a.com
 0.0.0.0 www147zzz.com
 0.0.0.0 www240marketing.com
