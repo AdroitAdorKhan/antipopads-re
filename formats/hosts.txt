@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.137
 # Release: 137
-# Entries: 64,866
-# Updated: Wed, 17 May 23 18:09:04 +06
+# Entries: 64,868
+# Updated: Wed, 17 May 23 20:11:07 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -40946,6 +40946,7 @@
 0.0.0.0 reboduc.com
 0.0.0.0 rebrea.com
 0.0.0.0 rebrickstowp.com
+0.0.0.0 rebuffo.com
 0.0.0.0 rebuildwomenshope.us
 0.0.0.0 rebursteaseful.com
 0.0.0.0 recablesaccule.casa
@@ -60761,6 +60762,7 @@
 0.0.0.0 www.rearedexpensive.com
 0.0.0.0 www.rearedimmortal.com
 0.0.0.0 www.reasoningarcherassuage.com
+0.0.0.0 www.rebuffo.com
 0.0.0.0 www.recalledcosmeticostentatious.com
 0.0.0.0 www.recentpoisoncoma.com
 0.0.0.0 www.receptekaz.com
