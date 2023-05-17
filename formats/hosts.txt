@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.137
 # Release: 137
-# Entries: 64,864
-# Updated: Wed, 17 May 23 16:12:34 +06
+# Entries: 64,866
+# Updated: Wed, 17 May 23 18:09:04 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -42798,6 +42798,7 @@
 0.0.0.0 saeoacademico.com
 0.0.0.0 safamoon.space
 0.0.0.0 safari.scot
+0.0.0.0 safarioftanzania.com
 0.0.0.0 safarisomalilandtour.com
 0.0.0.0 safarlysins.com
 0.0.0.0 safebrowsdv.com
@@ -49456,6 +49457,7 @@
 0.0.0.0 topgadgethub.com
 0.0.0.0 topgadgetusa.com
 0.0.0.0 topgamescdkeys.com
+0.0.0.0 topgamesmob.com
 0.0.0.0 topgearfresh.com
 0.0.0.0 topgirls-here.com
 0.0.0.0 topgirls-here1.com
