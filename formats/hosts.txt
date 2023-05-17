@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.137
 # Release: 137
-# Entries: 64,629
-# Updated: Wed, 17 May 23 04:12:20 +06
+# Entries: 64,636
+# Updated: Wed, 17 May 23 06:11:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9031,6 +9031,7 @@
 0.0.0.0 bridgeparents.com
 0.0.0.0 bridgetrailer.com
 0.0.0.0 bridgetumbril.space
+0.0.0.0 bridgital-nation.in
 0.0.0.0 bridvyeqbfpywh.com
 0.0.0.0 briefcasebuoyduster.com
 0.0.0.0 briefcasebusy.com
@@ -32853,6 +32854,7 @@
 0.0.0.0 myeasetrack.com
 0.0.0.0 myeasyvpn.com
 0.0.0.0 myebiz.app
+0.0.0.0 myecosphere.life
 0.0.0.0 myemdwtjqkwvlmw.xyz
 0.0.0.0 myetherwayllet.com
 0.0.0.0 myfaithster.com
@@ -42422,6 +42424,7 @@
 0.0.0.0 russellmedical.au
 0.0.0.0 russelloutbreak.com
 0.0.0.0 russellseemslept.com
+0.0.0.0 russiaaffairs.com
 0.0.0.0 russianballoons.com
 0.0.0.0 russianbeauty.net
 0.0.0.0 russianpost.pro
@@ -48977,6 +48980,7 @@
 0.0.0.0 tm.pyritescressy.com
 0.0.0.0 tm.ruttedagnat.com
 0.0.0.0 tm5kpprikka.com
+0.0.0.0 tma0.org
 0.0.0.0 tmb5trk.com
 0.0.0.0 tmcms7.com
 0.0.0.0 tmdbgmhh.com
@@ -53928,6 +53932,7 @@
 0.0.0.0 wellatborana.digital
 0.0.0.0 wellbeingisinyou.com
 0.0.0.0 wellbeingwisdomlifecoach.co.uk
+0.0.0.0 welledufennica.com
 0.0.0.0 wellhealth.me
 0.0.0.0 wellhello.com
 0.0.0.0 welllwrite.com
@@ -56406,6 +56411,7 @@
 0.0.0.0 www.bridesmaidcleft.com
 0.0.0.0 www.bridgeicon.app
 0.0.0.0 www.bridgetrailer.com
+0.0.0.0 www.bridgital-nation.in
 0.0.0.0 www.briefcasebusy.com
 0.0.0.0 www.brieflysympatheticexcellent.com
 0.0.0.0 www.brightpointsis.com
@@ -62094,6 +62100,7 @@
 0.0.0.0 www.weirdstout.com
 0.0.0.0 www.wekenekt.com
 0.0.0.0 www.welfarefit.com
+0.0.0.0 www.welledufennica.com
 0.0.0.0 www.wellnessfamily24.com
 0.0.0.0 www.wemaximizecreativity.info
 0.0.0.0 www.wen33dgeneration.com
