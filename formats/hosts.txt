@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.137
 # Release: 137
-# Entries: 64,868
-# Updated: Wed, 17 May 23 20:11:07 +06
+# Entries: 64,876
+# Updated: Wed, 17 May 23 22:08:54 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6609,6 +6609,7 @@
 0.0.0.0 b.www.thewowfeed.com
 0.0.0.0 b014381c95cb.com
 0.0.0.0 b02byun5xc3s.com
+0.0.0.0 b06fa3033a.com
 0.0.0.0 b0oie4xjeb4ite.com
 0.0.0.0 b0omr3wn6u4b.com
 0.0.0.0 b11stop.com
@@ -8797,6 +8798,7 @@
 0.0.0.0 bosseslaps.website
 0.0.0.0 bossladybee.com
 0.0.0.0 bossymassive.com
+0.0.0.0 bostonchildrenschorus.com
 0.0.0.0 bostonmodular.us
 0.0.0.0 bostonsdoketic.website
 0.0.0.0 bostonwall.com
@@ -16673,6 +16675,7 @@
 0.0.0.0 electrocardiologylab.ru
 0.0.0.0 electrodrones.in
 0.0.0.0 electrogroup.in
+0.0.0.0 electrohem.space
 0.0.0.0 electromotors.info
 0.0.0.0 electromusic.top
 0.0.0.0 electronicc.it
@@ -45384,6 +45387,7 @@
 0.0.0.0 solananet.com
 0.0.0.0 solapoka.com
 0.0.0.0 solaraatscarborodental.com
+0.0.0.0 solaraudition.site
 0.0.0.0 solarcoffee.us
 0.0.0.0 solarextint.com
 0.0.0.0 solarfresh.us
@@ -46794,6 +46798,7 @@
 0.0.0.0 supercuadrossinopticos.com
 0.0.0.0 superdeapp.com
 0.0.0.0 superdiagramasdegantt.com
+0.0.0.0 superduperburger.com
 0.0.0.0 supereduneven.life
 0.0.0.0 superfastcdn.com
 0.0.0.0 superficialstage.pro
@@ -52415,6 +52420,7 @@
 0.0.0.0 vega-mission-partner.com
 0.0.0.0 veganhungerrelief.org
 0.0.0.0 veganicfacts.org
+0.0.0.0 vegasmovie.nl
 0.0.0.0 vegesindia.com
 0.0.0.0 vegetationbuoyspeciality.com
 0.0.0.0 vegoltv25.com
@@ -56585,6 +56591,7 @@
 0.0.0.0 www.bornegypsy.com
 0.0.0.0 www.borrowdefeat.com
 0.0.0.0 www.bossymassive.com
+0.0.0.0 www.bostonchildrenschorus.com
 0.0.0.0 www.bottomsupqld.com
 0.0.0.0 www.botyouridea.com
 0.0.0.0 www.boughtjovialamnesty.com
@@ -61584,6 +61591,7 @@
 0.0.0.0 www.suoshu2023.com
 0.0.0.0 www.supercounters.com
 0.0.0.0 www.superdeapp.com
+0.0.0.0 www.superduperburger.com
 0.0.0.0 www.superheavy.app
 0.0.0.0 www.superheroparticularitaly.com
 0.0.0.0 www.superioritydiningroom.com
