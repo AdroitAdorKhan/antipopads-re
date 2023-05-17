@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.137
 # Release: 137
-# Entries: 64,753
-# Updated: Wed, 17 May 23 10:08:51 +06
+# Entries: 64,776
+# Updated: Wed, 17 May 23 12:12:09 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2258,6 +2258,7 @@
 0.0.0.0 aajkaltv.in
 0.0.0.0 aajkeoffers.com
 0.0.0.0 aajoqmytnrq.com
+0.0.0.0 aakafoundation.org
 0.0.0.0 aakashaieee.com
 0.0.0.0 aakashgangaacademy.in.net
 0.0.0.0 aakashicampus.com
@@ -7765,6 +7766,7 @@
 0.0.0.0 beyond100acrewood.com
 0.0.0.0 beyondcabinets.us
 0.0.0.0 beyondebike.in
+0.0.0.0 beyondeuclid.com
 0.0.0.0 beyondfeeling.in
 0.0.0.0 beyondotp.com
 0.0.0.0 beyondryr1.com
@@ -21760,6 +21762,7 @@
 0.0.0.0 granular-picture.pro
 0.0.0.0 graphenerobotics.co.uk
 0.0.0.0 graphenprotocol.com
+0.0.0.0 graphgeeks.org
 0.0.0.0 graphiktool.com
 0.0.0.0 graphiktool.in
 0.0.0.0 graphy-tee.com
@@ -33750,6 +33753,7 @@
 0.0.0.0 newstarads.com
 0.0.0.0 newstemptation.com
 0.0.0.0 newsunads.com
+0.0.0.0 newswave.in
 0.0.0.0 newswhose.com
 0.0.0.0 newsyour.net
 0.0.0.0 newtab-media.com
@@ -35190,6 +35194,7 @@
 0.0.0.0 oigduusrva.com
 0.0.0.0 oikala.com
 0.0.0.0 oillesssris.guru
+0.0.0.0 oilmwfagyft.com
 0.0.0.0 oilwellcuprene.com
 0.0.0.0 oiniao.com
 0.0.0.0 ointmentaloofpincers.com
@@ -36640,6 +36645,7 @@
 0.0.0.0 pangateballunion.org
 0.0.0.0 panghawn.com
 0.0.0.0 pangrespectfully.com
+0.0.0.0 panibiz.com
 0.0.0.0 paniccursor.com
 0.0.0.0 panjabicocklet.website
 0.0.0.0 panjipump.in
@@ -37820,6 +37826,7 @@
 0.0.0.0 pixiv.org
 0.0.0.0 pixooffset.com
 0.0.0.0 pixxur.com
+0.0.0.0 piyush45.tech
 0.0.0.0 piz7ohhujogi.com
 0.0.0.0 pizasoji.com
 0.0.0.0 pizzamakingmachine.com
@@ -40088,6 +40095,7 @@
 0.0.0.0 qmpnlaxehl.com
 0.0.0.0 qmslojptnngwybu.com
 0.0.0.0 qmtvcuucyhs.xyz
+0.0.0.0 qmultiple.live
 0.0.0.0 qmxgkgykaex.com
 0.0.0.0 qn-5.com
 0.0.0.0 qn.handingfama.com
@@ -44050,6 +44058,7 @@
 0.0.0.0 shazeu7.xyz
 0.0.0.0 shbtob.com
 0.0.0.0 shbzek.com
+0.0.0.0 shcmf.com
 0.0.0.0 shealapish.com
 0.0.0.0 sheduparton.website
 0.0.0.0 shedwalaa.com
@@ -48439,6 +48448,7 @@
 0.0.0.0 thepromisedlanduk.com
 0.0.0.0 theproperprepper.com
 0.0.0.0 theproxisright.com
+0.0.0.0 thepubertyproject.com
 0.0.0.0 thepubertyproject.org
 0.0.0.0 thepuppytherapist.com
 0.0.0.0 thepyramid.tech
@@ -54684,6 +54694,7 @@
 0.0.0.0 wixqpbtkrkovtm.xyz
 0.0.0.0 wixycloud.com
 0.0.0.0 wiyogroup.co.uk
+0.0.0.0 wiyogroup.com
 0.0.0.0 wiyqduev.com
 0.0.0.0 wizardinthetower.com
 0.0.0.0 wizardium.io
@@ -55682,6 +55693,7 @@
 0.0.0.0 www.a4or.com
 0.0.0.0 www.aa1411.com
 0.0.0.0 www.aadyanoverseas.com
+0.0.0.0 www.aakafoundation.org
 0.0.0.0 www.aandbproperties.co.uk
 0.0.0.0 www.aaremshop.com
 0.0.0.0 www.aaroncartermemorial.com
@@ -56351,6 +56363,7 @@
 0.0.0.0 www.betterubet.com
 0.0.0.0 www.bettin2you.com
 0.0.0.0 www.bettingpremier.com
+0.0.0.0 www.beyondeuclid.com
 0.0.0.0 www.bezawada.in
 0.0.0.0 www.bezlya.uk
 0.0.0.0 www.bhagwatidevisharma.org
@@ -57116,6 +57129,7 @@
 0.0.0.0 www.crummybuckprince.com
 0.0.0.0 www.crypto-octagon.site
 0.0.0.0 www.cryptofutureguide.com
+0.0.0.0 www.cryptokharkov.com
 0.0.0.0 www.cryptolitetron.website
 0.0.0.0 www.cryptomod.tech
 0.0.0.0 www.cryptovaluetoday.com
@@ -58269,6 +58283,7 @@
 0.0.0.0 www.grandpacaviarperfection.com
 0.0.0.0 www.grandpaunemployment.com
 0.0.0.0 www.grandsonreverendlawn.com
+0.0.0.0 www.graphgeeks.org
 0.0.0.0 www.grasshopperprudencecondiment.com
 0.0.0.0 www.grassrootsaide.com
 0.0.0.0 www.gravelspell.com
@@ -59744,6 +59759,7 @@
 0.0.0.0 www.nabbaseballsling.com
 0.0.0.0 www.nacsandbox.com
 0.0.0.0 www.naggingirresponsible.com
+0.0.0.0 www.namasteswasth.com
 0.0.0.0 www.namelessably.com
 0.0.0.0 www.namelymutiny.com
 0.0.0.0 www.namesexual.com
@@ -59798,6 +59814,7 @@
 0.0.0.0 www.news8odia.live
 0.0.0.0 www.newsforwashington.com
 0.0.0.0 www.newsforwyoming.com
+0.0.0.0 www.newswave.in
 0.0.0.0 www.newtoki211.com
 0.0.0.0 www.newtoki213.com
 0.0.0.0 www.newtube.co.uk
@@ -60082,6 +60099,7 @@
 0.0.0.0 www.pandre10.ru
 0.0.0.0 www.panecroakblueberry.com
 0.0.0.0 www.paneleyelash.com
+0.0.0.0 www.panibiz.com
 0.0.0.0 www.panshaoxiang.com
 0.0.0.0 www.pantdentaldonate.com
 0.0.0.0 www.panthor.org
@@ -60260,6 +60278,7 @@
 0.0.0.0 www.pistolmuteness.com
 0.0.0.0 www.pistolsizehoe.com
 0.0.0.0 www.pitifulharmless.com
+0.0.0.0 www.piyush45.tech
 0.0.0.0 www.pkajbskdasd10.monster
 0.0.0.0 www.pkajhdad8.monster
 0.0.0.0 www.pkjabksd9.monster
@@ -60552,6 +60571,7 @@
 0.0.0.0 www.qiwen360.com
 0.0.0.0 www.qksrv.net
 0.0.0.0 www.qksz.net
+0.0.0.0 www.qmultiple.live
 0.0.0.0 www.qpopz.com
 0.0.0.0 www.qqmakefafa.com
 0.0.0.0 www.quackdamaging.com
@@ -61678,6 +61698,7 @@
 0.0.0.0 www.theporn255.com
 0.0.0.0 www.thepothigaipalace.com
 0.0.0.0 www.thepreneurnetwork.com
+0.0.0.0 www.thepubertyproject.com
 0.0.0.0 www.thequalitygroup.biz
 0.0.0.0 www.therapypicnic.com
 0.0.0.0 www.therebycapablerising.com
@@ -62285,6 +62306,7 @@
 0.0.0.0 www.withholdstandstill.com
 0.0.0.0 www.withoutcreatures.com
 0.0.0.0 www.wixycloud.com
+0.0.0.0 www.wiyogroup.com
 0.0.0.0 www.wizardinthetower.com
 0.0.0.0 www.wizmia.life
 0.0.0.0 www.wokenoptionalcohabit.com
@@ -62734,6 +62756,7 @@
 0.0.0.0 xdeqhxqu.com
 0.0.0.0 xdhporbv.com
 0.0.0.0 xdiwbc.com
+0.0.0.0 xdkaqqeiucr.com
 0.0.0.0 xdkexwoyqliqxk.com
 0.0.0.0 xdlvnaut.com
 0.0.0.0 xdmanage.com
