@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.139
 # Release: 139
-# Entries: 65,219
-# Updated: Fri, 19 May 23 00:08:59 +06
+# Entries: 65,222
+# Updated: Fri, 19 May 23 02:08:10 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6270,6 +6270,7 @@
 0.0.0.0 aution.pro
 0.0.0.0 auto-garma.tech
 0.0.0.0 auto-im.com
+0.0.0.0 auto-ownersins.com
 0.0.0.0 auto-vox.de
 0.0.0.0 autoblitz.repair
 0.0.0.0 autocarcare.net
@@ -24838,6 +24839,7 @@
 0.0.0.0 ilanton.co.uk
 0.0.0.0 ilaterdeallyi.info
 0.0.0.0 ildwicqrqazgjz.com
+0.0.0.0 ileacfaretta.digital
 0.0.0.0 ileeckut.com
 0.0.0.0 ilevod.com
 0.0.0.0 ilfgbbkqglsupf.com
@@ -64989,6 +64991,7 @@
 0.0.0.0 zimpolo.com
 0.0.0.0 zimugu.com
 0.0.0.0 zincage.com
+0.0.0.0 zincbolt.top
 0.0.0.0 zincdatawipe.com
 0.0.0.0 zinganosesqui.store
 0.0.0.0 zinmnubj1cfr.com
