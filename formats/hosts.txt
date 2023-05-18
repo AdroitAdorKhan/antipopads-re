@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.05.138
-# Release: 138
-# Entries: 65,216
-# Updated: Thu, 18 May 23 22:17:50 +06
+# Version: 23.05.139
+# Release: 139
+# Entries: 65,219
+# Updated: Fri, 19 May 23 00:08:59 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15352,6 +15352,7 @@
 0.0.0.0 donthedoorwi.com
 0.0.0.0 dontorrent.sk
 0.0.0.0 donttbeevils.de
+0.0.0.0 dontvotefordonaldjtrump.com
 0.0.0.0 donutfulfilherd.com
 0.0.0.0 doobaupu.xyz
 0.0.0.0 doobinooby.com
@@ -48367,6 +48368,7 @@
 0.0.0.0 the-cryptopay.com
 0.0.0.0 the-dhl.com
 0.0.0.0 the-digiway.com
+0.0.0.0 the-funded-accounts.com
 0.0.0.0 the-get-yourlady.com
 0.0.0.0 the-gracenote.com
 0.0.0.0 the-metaprofit.net
@@ -57866,6 +57868,7 @@
 0.0.0.0 www.dominatebacon.com
 0.0.0.0 www.dominioneastern.com
 0.0.0.0 www.donofo.app
+0.0.0.0 www.dontvotefordonaldjtrump.com
 0.0.0.0 www.donutfulfilherd.com
 0.0.0.0 www.doodleanyone.com
 0.0.0.0 www.doodlerehearsesculpture.com
