@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.138
 # Release: 138
-# Entries: 65,032
-# Updated: Thu, 18 May 23 12:13:18 +06
+# Entries: 65,039
+# Updated: Thu, 18 May 23 14:07:27 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -41450,6 +41450,7 @@
 0.0.0.0 remoteworking.scot
 0.0.0.0 removalsessex.uk
 0.0.0.0 removedispel.com
+0.0.0.0 remygp.com
 0.0.0.0 remzona-a.ru
 0.0.0.0 renaesquarepeg.com
 0.0.0.0 renaissancewednesday.com
@@ -51508,6 +51509,7 @@
 0.0.0.0 underwards.site
 0.0.0.0 underwearglossary.com
 0.0.0.0 underwearnavigable.com
+0.0.0.0 underwearsourorb.com
 0.0.0.0 undiesthumb.com
 0.0.0.0 undooptimisticsuction.com
 0.0.0.0 undrininvereb.info
@@ -54660,6 +54662,7 @@
 0.0.0.0 wibkwkjohx.com
 0.0.0.0 wibtntmvox.com
 0.0.0.0 wic11.xyz
+0.0.0.0 wichtstoppit.space
 0.0.0.0 wickedhumankindbarrel.com
 0.0.0.0 wickedlongingbelfry.com
 0.0.0.0 wicksokays.tech
@@ -57698,6 +57701,7 @@
 0.0.0.0 www.docomo.network
 0.0.0.0 www.docrel.software
 0.0.0.0 www.docsql02.com
+0.0.0.0 www.doctorenticeflashlights.com
 0.0.0.0 www.doctovc.com
 0.0.0.0 www.dodsonplace.com
 0.0.0.0 www.doerimpertinent.com
@@ -59674,6 +59678,7 @@
 0.0.0.0 www.mandhflooringkitchenandbath.com
 0.0.0.0 www.manga-mods.org
 0.0.0.0 www.manga-sekai.com
+0.0.0.0 www.mangareder.to
 0.0.0.0 www.mangaworld.io
 0.0.0.0 www.manicurereprimand.com
 0.0.0.0 www.manipulatequotedcompletely.com
@@ -62650,6 +62655,7 @@
 0.0.0.0 www.xn--brooksfutcip-8hb33k.com
 0.0.0.0 www.xn--ghq.xn--jrry14l.com
 0.0.0.0 www.xn--i-y44bs62d7lj.net
+0.0.0.0 www.xn--ihq.xn--jrry14l.com
 0.0.0.0 www.xn--jrry14l.com
 0.0.0.0 www.xn--kappaespaa-19a.com
 0.0.0.0 www.xn--kappamxico-g7a.com
@@ -63382,6 +63388,7 @@
 0.0.0.0 xn--jrry14l.com
 0.0.0.0 xn--kappaespaa-19a.com
 0.0.0.0 xn--kappamxico-g7a.com
+0.0.0.0 xn--keenkengt-22a.com
 0.0.0.0 xn--lojobembomvariedades-ryb.com
 0.0.0.0 xn--lt-3va.com
 0.0.0.0 xn--marcadeespaa-khb.com
