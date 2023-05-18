@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.138
 # Release: 138
-# Entries: 65,030
-# Updated: Thu, 18 May 23 10:07:45 +06
+# Entries: 65,032
+# Updated: Thu, 18 May 23 12:13:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16697,6 +16697,7 @@
 0.0.0.0 elderlyevictdeliberately.com
 0.0.0.0 elderzon.com
 0.0.0.0 eldestequivalentdrain.com
+0.0.0.0 eldiariodematamoros.com
 0.0.0.0 eldoradio.online
 0.0.0.0 elearl.com
 0.0.0.0 elearn.foundation
@@ -57867,6 +57868,7 @@
 0.0.0.0 www.elburrote.com
 0.0.0.0 www.elderlyevictdeliberately.com
 0.0.0.0 www.elderzon.com
+0.0.0.0 www.eldiariodematamoros.com
 0.0.0.0 www.elecheri.com
 0.0.0.0 www.electronicconsensus.com
 0.0.0.0 www.element-okna.com
