@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.139
 # Release: 139
-# Entries: 65,222
-# Updated: Fri, 19 May 23 02:08:10 +06
+# Entries: 65,223
+# Updated: Fri, 19 May 23 04:09:14 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -63039,6 +63039,7 @@
 0.0.0.0 wxvsrfurcdm.xyz
 0.0.0.0 wxxjunycgxmgh.com
 0.0.0.0 wxyn0o3xmora.com
+0.0.0.0 wyazsg.xyz
 0.0.0.0 wybuwygro.com
 0.0.0.0 wydcixpqpqbo.xyz
 0.0.0.0 wydtxpctgipa.xyz
