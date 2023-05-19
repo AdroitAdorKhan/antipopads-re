@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.139
 # Release: 139
-# Entries: 65,420
-# Updated: Fri, 19 May 23 18:11:35 +06
+# Entries: 65,432
+# Updated: Fri, 19 May 23 20:10:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -237,6 +237,7 @@
 0.0.0.0 111supjav.xyz
 0.0.0.0 112.events
 0.0.0.0 112170bffe.com
+0.0.0.0 114graph.com
 0.0.0.0 114la8.com
 0.0.0.0 114la9.com
 0.0.0.0 1155k.com
@@ -10593,6 +10594,7 @@
 0.0.0.0 centrinfusion.coffee
 0.0.0.0 centrm.cz
 0.0.0.0 centrogastronomicodelvalle.com
+0.0.0.0 centureunornly.com
 0.0.0.0 centurionyacht.com
 0.0.0.0 centurybending.com
 0.0.0.0 centurylandscapeface.com
@@ -18177,6 +18179,7 @@
 0.0.0.0 facebook-checkpoint-case771045.com
 0.0.0.0 facebookbio.tech
 0.0.0.0 facebookmetaverse.me
+0.0.0.0 facebooksignin.org
 0.0.0.0 facebookuserprivasysettlement.com
 0.0.0.0 facemoi-tube.com
 0.0.0.0 facesargument.com
@@ -18351,6 +18354,7 @@
 0.0.0.0 fapmeth.com
 0.0.0.0 fapping.club
 0.0.0.0 fappwopyaw.com
+0.0.0.0 faquirrelot.com
 0.0.0.0 faracoon.com
 0.0.0.0 faradabban.tk
 0.0.0.0 farawayamusement.com
@@ -22911,6 +22915,7 @@
 0.0.0.0 haymowsbecker.life
 0.0.0.0 hayrealty.com
 0.0.0.0 haywarn.com
+0.0.0.0 hazairgo.net
 0.0.0.0 hazanuttriazo.life
 0.0.0.0 hazardousschooloutcry.com
 0.0.0.0 hazardwatch.gov.au
@@ -23316,6 +23321,7 @@
 0.0.0.0 hfbcjjdegnluw.com
 0.0.0.0 hfc195b.com
 0.0.0.0 hffdjxnyxckf.xyz
+0.0.0.0 hffxc.com
 0.0.0.0 hfkmdcwkcahwo.com
 0.0.0.0 hfmxmnfkfthf.com
 0.0.0.0 hfnha.org
@@ -29237,6 +29243,7 @@
 0.0.0.0 legalway.online
 0.0.0.0 legasingtuiland.com
 0.0.0.0 legcatastrophetransmitted.com
+0.0.0.0 legely.com
 0.0.0.0 legendadmiration.com
 0.0.0.0 legendsmaestri.com
 0.0.0.0 legerbbs.com
@@ -35300,6 +35307,7 @@
 0.0.0.0 octavianflingpod.com
 0.0.0.0 octicdsects.com
 0.0.0.0 octkuhwuvxarsk.xyz
+0.0.0.0 octoatesamhain.com
 0.0.0.0 octobeast.com
 0.0.0.0 octoberanger.com
 0.0.0.0 octogonehb.com
@@ -40469,6 +40477,7 @@
 0.0.0.0 qlpceqckvsopfwv.top
 0.0.0.0 qlqigdcvcbd.com
 0.0.0.0 qlqtnqlruou.com
+0.0.0.0 qlspx.com
 0.0.0.0 qlvlaqcd.com
 0.0.0.0 qlyunjqcyvx.xyz
 0.0.0.0 qm.auguredmorns.com
@@ -55313,6 +55322,7 @@
 0.0.0.0 woathail.net
 0.0.0.0 woawhouzie.com
 0.0.0.0 woazowup.net
+0.0.0.0 wobblyiroha.com
 0.0.0.0 wobsneesty.space
 0.0.0.0 wobynqou.com
 0.0.0.0 wochnmounting.com
@@ -55494,6 +55504,7 @@
 0.0.0.0 worldtraffic.trade
 0.0.0.0 worldtravel.tips
 0.0.0.0 worldtravelcentric.com
+0.0.0.0 worldtrendingnews.net
 0.0.0.0 worldtxt.club
 0.0.0.0 worlduniversitiescouncil.com
 0.0.0.0 worldviralnewz.com
@@ -58380,6 +58391,7 @@
 0.0.0.0 www.fabindia.online
 0.0.0.0 www.fabredo.com
 0.0.0.0 www.faceandhairtrend.com
+0.0.0.0 www.facebooksignin.org
 0.0.0.0 www.facemoi-tube.com
 0.0.0.0 www.facesargument.com
 0.0.0.0 www.facilitycompetition.com
