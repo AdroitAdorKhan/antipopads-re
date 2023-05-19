@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.139
 # Release: 139
-# Entries: 65,284
-# Updated: Fri, 19 May 23 10:11:52 +06
+# Entries: 65,285
+# Updated: Fri, 19 May 23 12:08:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19492,6 +19492,7 @@
 0.0.0.0 forbitnebris.uno
 0.0.0.0 forblanc.com
 0.0.0.0 forced-lose.de
+0.0.0.0 forceddenial.com
 0.0.0.0 forcefulpacehauled.com
 0.0.0.0 forcelessbuoyancy.com
 0.0.0.0 forcelessgreetingbust.com
