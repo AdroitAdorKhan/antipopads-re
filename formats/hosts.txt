@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.140
 # Release: 140
-# Entries: 65,477
-# Updated: Sat, 20 May 23 00:09:48 +06
+# Entries: 65,487
+# Updated: Sat, 20 May 23 02:10:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7009,6 +7009,7 @@
 0.0.0.0 banknj.com
 0.0.0.0 bankofelmwood.com
 0.0.0.0 bankr.com
+0.0.0.0 banktrustaccount.com
 0.0.0.0 bannanje.in
 0.0.0.0 banneradsday.com
 0.0.0.0 bannkongrao.com
@@ -19440,6 +19441,8 @@
 0.0.0.0 foakiwhazoja.com
 0.0.0.0 foamidsputt.com
 0.0.0.0 foamlifeboatriddance.com
+0.0.0.0 foampartiesdaycare.com
+0.0.0.0 foampartiesgalveston.com
 0.0.0.0 foapsovi.net
 0.0.0.0 foazasis.com
 0.0.0.0 fobdhgvemsqh.xyz
@@ -19709,6 +19712,7 @@
 0.0.0.0 fowrty.shop
 0.0.0.0 foxcdn.life
 0.0.0.0 foxcdn.live
+0.0.0.0 foxengtech.com
 0.0.0.0 foxiosolutions.com
 0.0.0.0 foxitapp.pw
 0.0.0.0 foxmeadowstudio.ca
@@ -31265,6 +31269,7 @@
 0.0.0.0 massivemark.com
 0.0.0.0 masslistener.com
 0.0.0.0 masstech.info
+0.0.0.0 master-anime.net
 0.0.0.0 master-lady.ru
 0.0.0.0 master-sad.ru
 0.0.0.0 master365k.com
@@ -47665,6 +47670,7 @@
 0.0.0.0 tabuoriginals.com
 0.0.0.0 tabutelei.guru
 0.0.0.0 taccaclite.live
+0.0.0.0 taccoming.com
 0.0.0.0 tackfxcbyupcyw.top
 0.0.0.0 tackymust.com
 0.0.0.0 tacos-azteca.com
@@ -56854,6 +56860,7 @@
 0.0.0.0 www.banisterspast.com
 0.0.0.0 www.bankatfreedom.com
 0.0.0.0 www.bankr.com
+0.0.0.0 www.banktrustaccount.com
 0.0.0.0 www.banquetunarmedgrater.com
 0.0.0.0 www.bantergleameddecline.com
 0.0.0.0 www.baozimg.com
@@ -58620,6 +58627,8 @@
 0.0.0.0 www.fmi-live.xyz
 0.0.0.0 www.fmkoreaw.com
 0.0.0.0 www.foamlifeboatriddance.com
+0.0.0.0 www.foampartiesdaycare.com
+0.0.0.0 www.foampartiesgalveston.com
 0.0.0.0 www.focuspatioplumb.com
 0.0.0.0 www.fodderripeskyscraper.com
 0.0.0.0 www.fodnass.top
@@ -60104,6 +60113,7 @@
 0.0.0.0 www.masjidnetwork.org
 0.0.0.0 www.maskesys.org
 0.0.0.0 www.massivebelieved.com
+0.0.0.0 www.master-anime.net
 0.0.0.0 www.master365k.com
 0.0.0.0 www.masterpieceplainlythird.com
 0.0.0.0 www.masterthoroughfarepiercing.com
