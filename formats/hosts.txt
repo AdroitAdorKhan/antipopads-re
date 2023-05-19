@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.140
 # Release: 140
-# Entries: 65,487
-# Updated: Sat, 20 May 23 02:10:02 +06
+# Entries: 65,490
+# Updated: Sat, 20 May 23 04:14:45 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -24167,6 +24167,7 @@
 0.0.0.0 hs.punkerbereave.com
 0.0.0.0 hs485.com
 0.0.0.0 hsbrandasia.com
+0.0.0.0 hsctech.biz
 0.0.0.0 hse-symptomscovid19-case.com
 0.0.0.0 hsenhiqeopk.com
 0.0.0.0 hsivmlsgs.xyz
@@ -48394,6 +48395,7 @@
 0.0.0.0 terrificlukewarm.com
 0.0.0.0 territoria-detstva.ru
 0.0.0.0 territoriodoepi.com
+0.0.0.0 terronfestuca.digital
 0.0.0.0 terrylhebert.com
 0.0.0.0 terrysoshkoshwi.com
 0.0.0.0 tersactlydeuppends.com
@@ -51589,6 +51591,7 @@
 0.0.0.0 uiwijwgbgemr.com
 0.0.0.0 uiwsysykqmukkwg.com
 0.0.0.0 uiyoixrejyqeq.xyz
+0.0.0.0 uizepq.xyz
 0.0.0.0 uj.buckranaght.com
 0.0.0.0 uj.embuebreme.com
 0.0.0.0 uj.lorenzopurim.com
