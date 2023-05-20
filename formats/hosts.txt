@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.140
 # Release: 140
-# Entries: 65,737
-# Updated: Sat, 20 May 23 12:15:35 +06
+# Entries: 65,739
+# Updated: Sat, 20 May 23 14:08:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3642,6 +3642,7 @@
 0.0.0.0 agabeldumon.com
 0.0.0.0 agabreloomr.com
 0.0.0.0 agacelebir.com
+0.0.0.0 agacqvofrszqy.com
 0.0.0.0 agadata.online
 0.0.0.0 agadum.com
 0.0.0.0 agaenteitor.com
@@ -52554,6 +52555,7 @@
 0.0.0.0 user-id1070.pro
 0.0.0.0 user-netflx.com
 0.0.0.0 usercash.com
+0.0.0.0 userdocument.com
 0.0.0.0 userful.info
 0.0.0.0 usertag.online
 0.0.0.0 usfamilysavings.com
