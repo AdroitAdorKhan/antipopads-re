@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.05.140
-# Release: 140
-# Entries: 65,842
-# Updated: Sat, 20 May 23 20:16:32 +06
+# Version: 23.05.141
+# Release: 141
+# Entries: 65,843
+# Updated: Sun, 21 May 23 00:07:17 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -65379,6 +65379,7 @@
 0.0.0.0 zationservantas.info
 0.0.0.0 zatnoh.com
 0.0.0.0 zaubanel.com
+0.0.0.0 zauglust.net
 0.0.0.0 zaumaico.com
 0.0.0.0 zausosti.net
 0.0.0.0 zauthaus.net
