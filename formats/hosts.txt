@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.05.141
-# Release: 141
-# Entries: 66,260
-# Updated: Sun, 21 May 23 22:09:55 +06
+# Version: 23.05.142
+# Release: 142
+# Entries: 66,267
+# Updated: Mon, 22 May 23 00:11:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8522,6 +8522,7 @@
 0.0.0.0 blocksly.org
 0.0.0.0 blockspitetough.com
 0.0.0.0 blode-cpq.com
+0.0.0.0 blog-benjaminpardon.online
 0.0.0.0 blog-hit-counters.com
 0.0.0.0 blogger2020.com
 0.0.0.0 bloggerex.com
@@ -21333,6 +21334,7 @@
 0.0.0.0 givingtreeholiday.org
 0.0.0.0 gixiluros.com
 0.0.0.0 gixjtofnjpgxstg.com
+0.0.0.0 gixpoosh.com
 0.0.0.0 giyyyxkxys.com
 0.0.0.0 gizmies.com
 0.0.0.0 gizzenaceric.com
@@ -32886,6 +32888,7 @@
 0.0.0.0 modifiedcarsai.com
 0.0.0.0 modifiedseem.com
 0.0.0.0 modifymaintenance.com
+0.0.0.0 modimetaverse.com
 0.0.0.0 modlinks.com
 0.0.0.0 modo-radio.com
 0.0.0.0 modoro360.com
@@ -35586,6 +35589,7 @@
 0.0.0.0 oaiwpjbpcok.xyz
 0.0.0.0 oajagroax.com
 0.0.0.0 oajykmpfwl.com
+0.0.0.0 oakaumou.xyz
 0.0.0.0 oakchokerfumes.com
 0.0.0.0 oakenboubous.com
 0.0.0.0 oakletquerela.website
@@ -52181,6 +52185,7 @@
 0.0.0.0 ugmcorp.com
 0.0.0.0 ugmouldcnc.com
 0.0.0.0 ugostlyhewo.xyz
+0.0.0.0 ugovori.co.rs
 0.0.0.0 ugpskifufsdx.xyz
 0.0.0.0 ugrastes.uk
 0.0.0.0 ugricmoist.com
@@ -60977,6 +60982,7 @@
 0.0.0.0 www.moderndataplatforms.com
 0.0.0.0 www.modernistal.com
 0.0.0.0 www.modffurniture.com
+0.0.0.0 www.modimetaverse.com
 0.0.0.0 www.moduledescendantlos.com
 0.0.0.0 www.modxguitars.com
 0.0.0.0 www.moizen.xyz
@@ -63362,6 +63368,7 @@
 0.0.0.0 www.uewl.top
 0.0.0.0 www.uglynewyork.com
 0.0.0.0 www.ugmcorp.com
+0.0.0.0 www.ugovori.co.rs
 0.0.0.0 www.ujjain.city
 0.0.0.0 www.uk4net.uk
 0.0.0.0 www.ukdepression.co.uk
