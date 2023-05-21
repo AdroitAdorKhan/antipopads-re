@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.142
 # Release: 142
-# Entries: 66,267
-# Updated: Mon, 22 May 23 00:11:23 +06
+# Entries: 66,268
+# Updated: Mon, 22 May 23 04:16:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -38063,6 +38063,7 @@
 0.0.0.0 pengobyzant.com
 0.0.0.0 penheiressfundamental.com
 0.0.0.0 penholderlossfrontage.com
+0.0.0.0 peniaze.online
 0.0.0.0 peninsularesentmentcarla.com
 0.0.0.0 penitentamaze.com
 0.0.0.0 penitentarduous.com
