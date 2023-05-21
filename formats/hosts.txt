@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.141
 # Release: 141
-# Entries: 65,856
-# Updated: Sun, 21 May 23 04:16:02 +06
+# Entries: 65,857
+# Updated: Sun, 21 May 23 06:08:36 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -65112,6 +65112,7 @@
 0.0.0.0 yqirfdqoaefcfp.com
 0.0.0.0 yqmxfz.com
 0.0.0.0 yqvtqjslflfsq.xyz
+0.0.0.0 yqxhslsqaqkbd.com
 0.0.0.0 yr.sairyglossed.com
 0.0.0.0 yr9n47004g.com
 0.0.0.0 yrdesk.com
