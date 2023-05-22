@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.143
 # Release: 143
-# Entries: 66,495
-# Updated: Tue, 23 May 23 02:15:30 +06
+# Entries: 66,498
+# Updated: Tue, 23 May 23 04:10:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -24378,6 +24378,7 @@
 0.0.0.0 hostmaster.www.jiinuerealestate.brandvoice.online
 0.0.0.0 hostmaster.www.mesovialorganic.com
 0.0.0.0 hostmaster.www.tandoorbaby.indianschool.net
+0.0.0.0 hostnamewww.highrevenuegate.com
 0.0.0.0 hostrybirrs.store
 0.0.0.0 hosupshunk.com
 0.0.0.0 hosyanster.com
@@ -34118,6 +34119,7 @@
 0.0.0.0 namestamp.net
 0.0.0.0 namethisperson.com
 0.0.0.0 namewww.cavalrydoomeddoorbell.com
+0.0.0.0 namewww.highrevenuegate.com
 0.0.0.0 namikos.top
 0.0.0.0 nammalvar.net
 0.0.0.0 namoswap.org
@@ -50724,6 +50726,7 @@
 0.0.0.0 topearningguide.com
 0.0.0.0 topeditsolutions.com
 0.0.0.0 topekatradingpost.com
+0.0.0.0 topemai.xyz
 0.0.0.0 topergoike.com
 0.0.0.0 topfdeals.com
 0.0.0.0 topfiletj.online
