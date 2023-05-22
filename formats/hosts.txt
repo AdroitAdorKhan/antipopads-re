@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.05.142
-# Release: 142
-# Entries: 66,486
-# Updated: Mon, 22 May 23 22:07:52 +06
+# Version: 23.05.143
+# Release: 143
+# Entries: 66,492
+# Updated: Tue, 23 May 23 00:08:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2462,6 +2462,7 @@
 0.0.0.0 abnegateexcavator.com
 0.0.0.0 abnegatespitefulweep.com
 0.0.0.0 abnegationbanquet.com
+0.0.0.0 abnegationgrumpy.com
 0.0.0.0 abnegationsnuff.com
 0.0.0.0 abnormalwidth.com
 0.0.0.0 abnprajasakthi.com
@@ -10275,6 +10276,7 @@
 0.0.0.0 carminetx.com
 0.0.0.0 carnit.one
 0.0.0.0 carnivorouseditsemester.com
+0.0.0.0 carnlval.com
 0.0.0.0 carnscantab.digital
 0.0.0.0 caroleescoggan.com
 0.0.0.0 carolinadatadestruction.com
@@ -24367,6 +24369,7 @@
 0.0.0.0 hostingcloud.racing
 0.0.0.0 hostinggrizzly.com
 0.0.0.0 hostingusa4you.com
+0.0.0.0 hostmaster.www.carnlval.com
 0.0.0.0 hostmaster.www.carsrental.discount
 0.0.0.0 hostmaster.www.daily-mail.xyz
 0.0.0.0 hostmaster.www.digitalsignatureonline.in
@@ -42997,6 +43000,7 @@
 0.0.0.0 riverdogranch.dog
 0.0.0.0 riverdogranchtx.com
 0.0.0.0 riverdogranchwimberley.com
+0.0.0.0 riverhawkhealthcare.com
 0.0.0.0 riverhit.com
 0.0.0.0 riverrunmhc.com
 0.0.0.0 riverrunmhc.net
@@ -43147,6 +43151,7 @@
 0.0.0.0 robescampus.com
 0.0.0.0 robflea.com
 0.0.0.0 robindefensivedancing.com
+0.0.0.0 robiox.tech
 0.0.0.0 roblangille.ca
 0.0.0.0 robohobox.com
 0.0.0.0 roboplastquality.com
@@ -62450,6 +62455,7 @@
 0.0.0.0 www.rivaldeterrentappear.com
 0.0.0.0 www.rivatravel.org
 0.0.0.0 www.riverdogranch.dog
+0.0.0.0 www.riverhawkhealthcare.com
 0.0.0.0 www.riverrunmhc.com
 0.0.0.0 www.riverrunmhc.org
 0.0.0.0 www.rkpharma.co.in
