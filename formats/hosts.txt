@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.142
 # Release: 142
-# Entries: 66,480
-# Updated: Mon, 22 May 23 18:10:55 +06
+# Entries: 66,486
+# Updated: Mon, 22 May 23 22:07:52 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10452,6 +10452,7 @@
 0.0.0.0 catus.store
 0.0.0.0 catwenbat.com
 0.0.0.0 catwrite.com
+0.0.0.0 caubichofus.com
 0.0.0.0 caubouru.xyz
 0.0.0.0 cauchoforegut.space
 0.0.0.0 caugs.com
@@ -18748,6 +18749,7 @@
 0.0.0.0 fastenpaganhelm.com
 0.0.0.0 fastestbesets.com
 0.0.0.0 fastestdwelling.com
+0.0.0.0 fastestjs.info
 0.0.0.0 fastestvolcano.com
 0.0.0.0 fastfinancebnk.com
 0.0.0.0 fastidiousconsensus.com
@@ -21649,6 +21651,7 @@
 0.0.0.0 glowingcupid.com
 0.0.0.0 glowingnews.com
 0.0.0.0 glowingramblelobes.com
+0.0.0.0 glowoapeky.com
 0.0.0.0 gloxeept.com
 0.0.0.0 glpctwalwq.com
 0.0.0.0 glssp.net
@@ -54632,6 +54635,7 @@
 0.0.0.0 vpn-offers.com
 0.0.0.0 vpn-offers.info
 0.0.0.0 vpn-offers.org
+0.0.0.0 vpn-server.xyz
 0.0.0.0 vpn1.cfd
 0.0.0.0 vpnandedi.com
 0.0.0.0 vpnexpert.tech
@@ -64097,6 +64101,7 @@
 0.0.0.0 www.yourmobnotification.com
 0.0.0.0 www.yourmoney.world
 0.0.0.0 www.youthstockholm50.global
+0.0.0.0 www.youtub5s.com
 0.0.0.0 www.yoyogame.net
 0.0.0.0 www.yoyorides.com
 0.0.0.0 www.yozshura.club
@@ -65678,6 +65683,7 @@
 0.0.0.0 youthstockholm50.global
 0.0.0.0 youthycouthe.uno
 0.0.0.0 youtu-ber.tech
+0.0.0.0 youtub5s.com
 0.0.0.0 youtubeactivatetv.com
 0.0.0.0 youtubecenter.net
 0.0.0.0 youtubeindia.shop
