@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.142
 # Release: 142
-# Entries: 66,424
-# Updated: Mon, 22 May 23 10:10:42 +06
+# Entries: 66,425
+# Updated: Mon, 22 May 23 14:08:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3008,6 +3008,7 @@
 0.0.0.0 adjectivedollaralmost.com
 0.0.0.0 adjnni.com
 0.0.0.0 adjoincomprise.com
+0.0.0.0 adjoincultivatedrussian.com
 0.0.0.0 adjoiningfoolish.com
 0.0.0.0 adjoiningrolesuspicious.com
 0.0.0.0 adjointeen.com
