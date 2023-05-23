@@ -20,8 +20,8 @@
 ! Version: 23.05.143
 ! Release: 143
 ! Expires: 1 day
-! Entries: 66,550
-! Updated: Tue, 23 May 23 12:10:41 +06
+! Entries: 66,551
+! Updated: Tue, 23 May 23 14:07:31 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -32392,6 +32392,7 @@
 ||messenger-notify.digital^
 ||messenger-notify.xyz^
 ||messengerinternfair.com^
+||messianic.live^
 ||messic.lol^
 ||mestoaxo.net^
 ||mestreqa.com^

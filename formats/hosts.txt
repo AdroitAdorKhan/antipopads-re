@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.143
 # Release: 143
-# Entries: 66,550
-# Updated: Tue, 23 May 23 12:10:41 +06
+# Entries: 66,551
+# Updated: Tue, 23 May 23 14:07:31 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -32391,6 +32391,7 @@
 0.0.0.0 messenger-notify.digital
 0.0.0.0 messenger-notify.xyz
 0.0.0.0 messengerinternfair.com
+0.0.0.0 messianic.live
 0.0.0.0 messic.lol
 0.0.0.0 mestoaxo.net
 0.0.0.0 mestreqa.com
