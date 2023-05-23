@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.143
 # Release: 143
-# Entries: 66,547
-# Updated: Tue, 23 May 23 10:11:23 +06
+# Entries: 66,550
+# Updated: Tue, 23 May 23 12:10:41 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16287,6 +16287,7 @@
 0.0.0.0 dxmgyqxweyutwdm.com
 0.0.0.0 dxmjyxksvc.com
 0.0.0.0 dxmnqojbhimay.com
+0.0.0.0 dxnglrimuuucmr.com
 0.0.0.0 dxstaham.com
 0.0.0.0 dxvjrccswnhsj.com
 0.0.0.0 dxvwlhqkomydev.xyz
@@ -28604,6 +28605,7 @@
 0.0.0.0 klausmoplah.com
 0.0.0.0 klavront.com
 0.0.0.0 klaycouture.com
+0.0.0.0 klayscope.com
 0.0.0.0 klayswap.site
 0.0.0.0 kleigfarcist.live
 0.0.0.0 klenhosnc.com
@@ -60704,6 +60706,7 @@
 0.0.0.0 www.kkzwvd.com
 0.0.0.0 www.kl-df-a4.com
 0.0.0.0 www.klarvida.com
+0.0.0.0 www.klayscope.com
 0.0.0.0 www.klingeltonemp3.info
 0.0.0.0 www.kloperteyers.com
 0.0.0.0 www.klopiretsrex.com
