@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.143
 # Release: 143
-# Entries: 66,638
-# Updated: Tue, 23 May 23 20:09:58 +06
+# Entries: 66,640
+# Updated: Tue, 23 May 23 22:07:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8283,6 +8283,7 @@
 0.0.0.0 biolretill.guru
 0.0.0.0 biometric-engineering.us
 0.0.0.0 biometricengineering.us
+0.0.0.0 bioplast.co.in
 0.0.0.0 biosda.com
 0.0.0.0 biosecuritedurable.com
 0.0.0.0 biosoins.us
@@ -44147,6 +44148,7 @@
 0.0.0.0 samazd.com
 0.0.0.0 samealliedgunfire.com
 0.0.0.0 sameeksha.tech
+0.0.0.0 sameksscavage.com
 0.0.0.0 samentspersche.com
 0.0.0.0 sameplace.lol
 0.0.0.0 samerzayer.net
