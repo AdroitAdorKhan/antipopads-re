@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.143
 # Release: 143
-# Entries: 66,637
-# Updated: Tue, 23 May 23 18:16:36 +06
+# Entries: 66,638
+# Updated: Tue, 23 May 23 20:09:58 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7615,6 +7615,7 @@
 0.0.0.0 beingcgc.org
 0.0.0.0 beingketo.net
 0.0.0.0 beinri.com
+0.0.0.0 beit.in
 0.0.0.0 beiven.pw
 0.0.0.0 bejbfqpokbio.com
 0.0.0.0 bejolteonor.com
