@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.145
 # Release: 145
-# Entries: 67,004
-# Updated: Thu, 25 May 23 02:16:28 +06
+# Entries: 67,005
+# Updated: Thu, 25 May 23 04:08:37 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20617,6 +20617,7 @@
 0.0.0.0 furiosocomique.com
 0.0.0.0 furiousfar.com
 0.0.0.0 furlsstealbilk.com
+0.0.0.0 furmark.site
 0.0.0.0 furmnas.com
 0.0.0.0 furniae.com
 0.0.0.0 furnierlampa.com
