@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.144
 # Release: 144
-# Entries: 66,947
-# Updated: Wed, 24 May 23 18:17:16 +06
+# Entries: 66,963
+# Updated: Wed, 24 May 23 20:08:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -32704,6 +32704,7 @@
 0.0.0.0 mibuilders.in
 0.0.0.0 micakidaugust.com
 0.0.0.0 micghiga2n7ahjnnsar0fbor.com
+0.0.0.0 michael-jackson.photos
 0.0.0.0 michaelakubasova.com
 0.0.0.0 michaelcargill.com
 0.0.0.0 michaeljackson.photography
@@ -34655,6 +34656,7 @@
 0.0.0.0 neongazer.com
 0.0.0.0 neonitedev.live
 0.0.0.0 neonmath.school
+0.0.0.0 neonmath.site
 0.0.0.0 neopoi.care
 0.0.0.0 neopowerlab.com
 0.0.0.0 neosvn.fun
@@ -36252,6 +36254,7 @@
 0.0.0.0 officetablntry.org
 0.0.0.0 officialbanisters.com
 0.0.0.0 officialcardcarryingtexan.com
+0.0.0.0 officialdetails.online
 0.0.0.0 officialpanthersnflstore.com
 0.0.0.0 officialspamfilter.com
 0.0.0.0 offmachopor.com
@@ -38147,6 +38150,7 @@
 0.0.0.0 paulazeus.com
 0.0.0.0 paulflashlight.com
 0.0.0.0 paulinruntime.digital
+0.0.0.0 pauliz.org
 0.0.0.0 pauloguedes.org
 0.0.0.0 paulsons.com
 0.0.0.0 paulty.com
@@ -46266,6 +46270,7 @@
 0.0.0.0 skipdearbeautify.com
 0.0.0.0 skipfactory.uk
 0.0.0.0 skiplook.net
+0.0.0.0 skipperltd.asia
 0.0.0.0 skippermike.us
 0.0.0.0 skipperx.net
 0.0.0.0 skippylongstockings.us
@@ -61529,6 +61534,7 @@
 0.0.0.0 www.mhzmhd.xyz
 0.0.0.0 www.mi1a8a.life
 0.0.0.0 www.miassav.com
+0.0.0.0 www.michael-jackson.photos
 0.0.0.0 www.michaeljackson.photography
 0.0.0.0 www.michaelkorshandbags.in.net
 0.0.0.0 www.michalgav.com
@@ -61774,6 +61780,7 @@
 0.0.0.0 www.neixue.org
 0.0.0.0 www.neonitedev.live
 0.0.0.0 www.neonmath.school
+0.0.0.0 www.neonmath.site
 0.0.0.0 www.nerdtutors.com
 0.0.0.0 www.nessunalacrima.it
 0.0.0.0 www.nestleexperiment.com
@@ -61928,6 +61935,7 @@
 0.0.0.0 www.offhandnunsill.com
 0.0.0.0 www.officerolivehaughty.com
 0.0.0.0 www.officialcardcarryingtexan.com
+0.0.0.0 www.officialdetails.online
 0.0.0.0 www.officialpanthersnflstore.com
 0.0.0.0 www.offpathgenuinely.com
 0.0.0.0 www.offroadpuntacana.com
@@ -62140,6 +62148,7 @@
 0.0.0.0 www.patronimproveyourselves.com
 0.0.0.0 www.pattachu.com
 0.0.0.0 www.paulflashlight.com
+0.0.0.0 www.pauliz.org
 0.0.0.0 www.paurozel.net
 0.0.0.0 www.pausingrespectfully.com
 0.0.0.0 www.pawschancesponsor.com
@@ -62976,6 +62985,7 @@
 0.0.0.0 www.santacruzam.com
 0.0.0.0 www.sapfollower.com
 0.0.0.0 www.saralsatyalegacy.org
+0.0.0.0 www.saravideoadmin.online
 0.0.0.0 www.sarcasticnotarycontrived.com
 0.0.0.0 www.sarevaght.com
 0.0.0.0 www.sarovarporticosonipat.com
@@ -63249,6 +63259,7 @@
 0.0.0.0 www.skillgames.biz
 0.0.0.0 www.skininvent.com
 0.0.0.0 www.skinsdefinitely.com
+0.0.0.0 www.skipperltd.asia
 0.0.0.0 www.skleriroe1.com
 0.0.0.0 www.skyos.co.uk
 0.0.0.0 www.slanderconstantlyhew.com
@@ -64478,6 +64489,7 @@
 0.0.0.0 www.xn--9kq.xn--jrry14l.com
 0.0.0.0 www.xn--aufklrungsstunde-znb.de
 0.0.0.0 www.xn--brooksfutcip-8hb33k.com
+0.0.0.0 www.xn--fundacinedr-web.org
 0.0.0.0 www.xn--ghq.xn--jrry14l.com
 0.0.0.0 www.xn--i-y44bs62d7lj.net
 0.0.0.0 www.xn--ihq.xn--jrry14l.com
@@ -64531,6 +64543,7 @@
 0.0.0.0 www.yogadignified.com
 0.0.0.0 www.yogaschoolnepal.com
 0.0.0.0 www.yogawrite.com
+0.0.0.0 www.yogsarovar.org
 0.0.0.0 www.yoifjfbzrkcz.com
 0.0.0.0 www.yotroi.notaria2sincelejo.com.co
 0.0.0.0 www.you365.net
@@ -64927,6 +64940,7 @@
 0.0.0.0 xgoywlge.xyz
 0.0.0.0 xgrwjbui.top
 0.0.0.0 xgsgougog.com
+0.0.0.0 xgstemmj.com
 0.0.0.0 xh.eelierrathole.com
 0.0.0.0 xh.tewitbacule.com
 0.0.0.0 xh.typingmimsey.com
@@ -65230,6 +65244,7 @@
 0.0.0.0 xn--brooksjuoksukengt-5qb.com
 0.0.0.0 xn--comunicaodigital-lnb5e.com
 0.0.0.0 xn--d1aihcfio7a4e.online
+0.0.0.0 xn--fundacinedr-web.org
 0.0.0.0 xn--histoiresintolrables-o2b.com
 0.0.0.0 xn--i-y44bs62d7lj.net
 0.0.0.0 xn--impriootaku-dbb.com
@@ -65979,6 +65994,7 @@
 0.0.0.0 yoginisairbus.com
 0.0.0.0 yoginsxylose.life
 0.0.0.0 yogismhexeris.store
+0.0.0.0 yogsarovar.org
 0.0.0.0 yogsnrlvwm.xyz
 0.0.0.0 yohny.tech
 0.0.0.0 yohoho.online
