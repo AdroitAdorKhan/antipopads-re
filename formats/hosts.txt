@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.146
 # Release: 146
-# Entries: 67,189
-# Updated: Fri, 26 May 23 02:16:13 +06
+# Entries: 67,192
+# Updated: Fri, 26 May 23 04:16:15 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4554,6 +4554,7 @@
 0.0.0.0 alshamel.ps
 0.0.0.0 alsindustrateb.info
 0.0.0.0 alsindustratebil.com
+0.0.0.0 alskdjfj.xyz
 0.0.0.0 alskillsexkce.xyz
 0.0.0.0 alspearowa.com
 0.0.0.0 alstesting.org
@@ -44098,6 +44099,7 @@
 0.0.0.0 rusticprice.com
 0.0.0.0 rusticsnoop.com
 0.0.0.0 rusticswollenbelonged.com
+0.0.0.0 rustups.rs
 0.0.0.0 rustymirror.co.uk
 0.0.0.0 rustytableclearance.com
 0.0.0.0 ruta1bolivia.com
@@ -61143,6 +61145,7 @@
 0.0.0.0 www.joomlink.com
 0.0.0.0 www.jopoleryet.com
 0.0.0.0 www.jorbfstarn.com
+0.0.0.0 www.jornalcorreiometropolitano.com
 0.0.0.0 www.josephinegrey.com
 0.0.0.0 www.joshuacharles.tech
 0.0.0.0 www.joshualewis.net
