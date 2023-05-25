@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.145
 # Release: 145
-# Entries: 67,038
-# Updated: Thu, 25 May 23 08:09:16 +06
+# Entries: 67,039
+# Updated: Thu, 25 May 23 10:13:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19183,6 +19183,7 @@
 0.0.0.0 fessoovy.com
 0.0.0.0 festival-gnaoua.info
 0.0.0.0 festival-gnaoua.org
+0.0.0.0 festivaldecine.cc
 0.0.0.0 festivalexcitinghypocrisy.com
 0.0.0.0 festivalgnaoua.info
 0.0.0.0 festivals.company
