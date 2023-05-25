@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.145
 # Release: 145
-# Entries: 67,069
-# Updated: Thu, 25 May 23 12:07:27 +06
+# Entries: 67,070
+# Updated: Thu, 25 May 23 14:09:05 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -66626,6 +66626,7 @@
 0.0.0.0 zcode7.me
 0.0.0.0 zcoptry.com
 0.0.0.0 zcsnjbjlwn.com
+0.0.0.0 zcstech.com
 0.0.0.0 zcxvc.com
 0.0.0.0 zd.gigglesunfalse.com
 0.0.0.0 zdajdudqfq.com
