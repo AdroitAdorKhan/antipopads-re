@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.146
 # Release: 146
-# Entries: 67,382
-# Updated: Fri, 26 May 23 20:15:18 +06
+# Entries: 67,387
+# Updated: Fri, 26 May 23 22:08:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6441,6 +6441,7 @@
 0.0.0.0 authoritativepilgrimwhirlwind.com
 0.0.0.0 authorityasknimble.com
 0.0.0.0 authoritynewz.com
+0.0.0.0 authorizeharnessuncle.com
 0.0.0.0 authorprovocateurpodcast.com
 0.0.0.0 aution.pro
 0.0.0.0 auto-garma.tech
@@ -9278,6 +9279,7 @@
 0.0.0.0 brandinventorgenetically.com
 0.0.0.0 brandlabs.ai
 0.0.0.0 brandnewdeputy.com
+0.0.0.0 brandnewsnorted.com
 0.0.0.0 brandnu-yu.co.uk
 0.0.0.0 brandreachsys.com
 0.0.0.0 brandstds.com
@@ -46700,6 +46702,7 @@
 0.0.0.0 slowbar.in
 0.0.0.0 slowclick.top
 0.0.0.0 slowdn.net
+0.0.0.0 slowdowntoleap.com
 0.0.0.0 slowih.com
 0.0.0.0 slowingfogyism.tech
 0.0.0.0 slowinghardboiled.com
@@ -55203,6 +55206,7 @@
 0.0.0.0 volna2babla1dh1.com
 0.0.0.0 volobe.com
 0.0.0.0 vologos.com
+0.0.0.0 volskbank.it
 0.0.0.0 volsmstrk.cfd
 0.0.0.0 volsmstrk.click
 0.0.0.0 volsmstrk.lol
@@ -64630,6 +64634,7 @@
 0.0.0.0 www.volcanoimplement.com
 0.0.0.0 www.volkswagenunionville.ca
 0.0.0.0 www.volkswagenunionville.com
+0.0.0.0 www.volskbank.it
 0.0.0.0 www.volunteerbrash.com
 0.0.0.0 www.voncleaning.com
 0.0.0.0 www.vongquaymienphi.net
