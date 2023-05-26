@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.146
 # Release: 146
-# Entries: 67,223
-# Updated: Fri, 26 May 23 12:14:49 +06
+# Entries: 67,225
+# Updated: Fri, 26 May 23 14:09:31 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11112,6 +11112,7 @@
 0.0.0.0 chatgptgroup.org
 0.0.0.0 chatgptopenai.org
 0.0.0.0 chatgpttravel.net
+0.0.0.0 chatgptusers.org
 0.0.0.0 chatgptusers.us
 0.0.0.0 chathampark.tv
 0.0.0.0 chatheez.net
@@ -58848,6 +58849,7 @@
 0.0.0.0 www.chatgpt-4.co.uk
 0.0.0.0 www.chatgpt-link.com
 0.0.0.0 www.chatgptair.com
+0.0.0.0 www.chatgptusers.org
 0.0.0.0 www.chatmercado.com
 0.0.0.0 www.chaubseet.com
 0.0.0.0 www.chaudhryclinic.org
