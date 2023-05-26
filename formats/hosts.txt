@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.146
 # Release: 146
-# Entries: 67,192
-# Updated: Fri, 26 May 23 04:16:15 +06
+# Entries: 67,194
+# Updated: Fri, 26 May 23 06:09:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -32547,6 +32547,7 @@
 0.0.0.0 melonplaygroundmods.net
 0.0.0.0 meltedacrid.com
 0.0.0.0 meltedtroll.com
+0.0.0.0 meltmethinlipo.com
 0.0.0.0 meltpiratehamlet.com
 0.0.0.0 membai.com
 0.0.0.0 memberprizes.com
@@ -61706,6 +61707,7 @@
 0.0.0.0 www.meinbao.shop
 0.0.0.0 www.melancholygreedyhonour.com
 0.0.0.0 www.melisko.online
+0.0.0.0 www.meltmethinlipo.com
 0.0.0.0 www.memorandumdismissquietly.com
 0.0.0.0 www.memorizeaestheticspiders.com
 0.0.0.0 www.memotype.net
