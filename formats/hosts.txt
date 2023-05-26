@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.146
 # Release: 146
-# Entries: 67,222
-# Updated: Fri, 26 May 23 10:10:55 +06
+# Entries: 67,223
+# Updated: Fri, 26 May 23 12:14:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -47472,6 +47472,7 @@
 0.0.0.0 spotruth.org
 0.0.0.0 spotscenered.info
 0.0.0.0 spottednoise.com
+0.0.0.0 spottsenommu.com
 0.0.0.0 spottt.com
 0.0.0.0 spotunworthycoercive.com
 0.0.0.0 spotxchange.com
