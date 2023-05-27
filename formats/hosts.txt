@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.148
 # Release: 148
-# Entries: 67,658
-# Updated: Sun, 28 May 23 00:10:33 +06
+# Entries: 67,659
+# Updated: Sun, 28 May 23 04:07:38 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -58697,6 +58697,7 @@
 0.0.0.0 www.bayardsitalia.it
 0.0.0.0 www.bayonnenj.biz
 0.0.0.0 www.bayrammercan.fun
+0.0.0.0 www.bbccode.xyz
 0.0.0.0 www.bbnfcfrvjs.com
 0.0.0.0 www.bbvaseguridad.online
 0.0.0.0 www.bdxsebook.com
