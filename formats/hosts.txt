@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.147
 # Release: 147
-# Entries: 67,536
-# Updated: Sat, 27 May 23 12:13:24 +06
+# Entries: 67,541
+# Updated: Sat, 27 May 23 14:07:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10542,6 +10542,7 @@
 0.0.0.0 casinobrigadereport.com
 0.0.0.0 casinocambodia.online
 0.0.0.0 casinocash.online
+0.0.0.0 casinochat.online
 0.0.0.0 casinolsloty.com
 0.0.0.0 casinoswithapplepay.co.uk
 0.0.0.0 casinoswithgooglepay.co.uk
@@ -12578,6 +12579,7 @@
 0.0.0.0 comsetups.xyz
 0.0.0.0 comseznam.cz
 0.0.0.0 comsite.website
+0.0.0.0 comstackoverflow.com
 0.0.0.0 comtecoonline.com
 0.0.0.0 comunicazio.com
 0.0.0.0 comurbate.com
@@ -32418,6 +32420,7 @@
 0.0.0.0 mbebe-store.com
 0.0.0.0 mbenki.com
 0.0.0.0 mbgbomrshrecpwj.xyz
+0.0.0.0 mbgbpatna.org.in
 0.0.0.0 mbgptxujm.com
 0.0.0.0 mbike-adventure.com
 0.0.0.0 mbkeferuw.com
@@ -49614,6 +49617,7 @@
 0.0.0.0 teacher-academy.org
 0.0.0.0 teacherup.community
 0.0.0.0 teacherup.email
+0.0.0.0 teacherup.net
 0.0.0.0 teachievedim.xyz
 0.0.0.0 teachingtochangelives.com
 0.0.0.0 teachmefutures.com
@@ -59041,6 +59045,7 @@
 0.0.0.0 www.casino-games-free.com
 0.0.0.0 www.casinobrigadereport.com
 0.0.0.0 www.casinocash.online
+0.0.0.0 www.casinochat.online
 0.0.0.0 www.casinox1c3.site
 0.0.0.0 www.casinozy.com
 0.0.0.0 www.casketknightsfolder.com
