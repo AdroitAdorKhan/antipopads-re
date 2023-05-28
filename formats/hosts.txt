@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.148
 # Release: 148
-# Entries: 67,673
-# Updated: Sun, 28 May 23 08:11:08 +06
+# Entries: 67,686
+# Updated: Sun, 28 May 23 10:12:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -359,6 +359,7 @@
 0.0.0.0 1680180.com
 0.0.0.0 1681330.com
 0.0.0.0 169585.com
+0.0.0.0 16casino.com
 0.0.0.0 16dns.cn
 0.0.0.0 1747.me
 0.0.0.0 176fitness.com
@@ -10485,6 +10486,7 @@
 0.0.0.0 carstarexpressottawadowntown.ca
 0.0.0.0 carstensgames.com
 0.0.0.0 carswell.consulting
+0.0.0.0 cartdeeplydetector.com
 0.0.0.0 carter.news
 0.0.0.0 carterruinbenign.com
 0.0.0.0 carticolageno.com
@@ -10560,6 +10562,7 @@
 0.0.0.0 casinocash.online
 0.0.0.0 casinochat.online
 0.0.0.0 casinolsloty.com
+0.0.0.0 casinomerchantaccount.com
 0.0.0.0 casinoswithapplepay.co.uk
 0.0.0.0 casinoswithgooglepay.co.uk
 0.0.0.0 casinox1c3.site
@@ -16832,6 +16835,7 @@
 0.0.0.0 ecardpmjayutiitsl.org
 0.0.0.0 ecarelimited.com
 0.0.0.0 ecartpisote.space
+0.0.0.0 ecasinoking.online
 0.0.0.0 ecasinolive.online
 0.0.0.0 ecat.com
 0.0.0.0 ecaursedeegh.com
@@ -20740,6 +20744,7 @@
 0.0.0.0 fultoncountycommunitycenter.com
 0.0.0.0 fultraightdec.xyz
 0.0.0.0 fulvenebocca.com
+0.0.0.0 fumacron.com
 0.0.0.0 fumadexcomputer.tech
 0.0.0.0 fumanhua3.com
 0.0.0.0 fumarinpest.com
@@ -29417,6 +29422,7 @@
 0.0.0.0 kt5850pjz0.com
 0.0.0.0 ktaehxdlf.com
 0.0.0.0 ktanddqbxtotcuj.com
+0.0.0.0 ktbac.net
 0.0.0.0 ktbhboeaqw.com
 0.0.0.0 ktcegypt.com
 0.0.0.0 ktclnlxrnppj.com
@@ -29933,6 +29939,7 @@
 0.0.0.0 latvik.com
 0.0.0.0 latvsjvwvutk.com
 0.0.0.0 laudfitness.com.au
+0.0.0.0 laudoust.net
 0.0.0.0 laudulut.com
 0.0.0.0 laufonie.net
 0.0.0.0 laughablecopper.com
@@ -36631,6 +36638,7 @@
 0.0.0.0 officialbanisters.com
 0.0.0.0 officialcardcarryingtexan.com
 0.0.0.0 officialdetails.online
+0.0.0.0 officialhelabetcasino.net
 0.0.0.0 officialpanthersnflstore.com
 0.0.0.0 officialspamfilter.com
 0.0.0.0 offmachopor.com
@@ -50238,6 +50246,7 @@
 0.0.0.0 theblessedcoder.tech
 0.0.0.0 thebluefield.tech
 0.0.0.0 thebluntchic.com
+0.0.0.0 theboatersnetwork.com
 0.0.0.0 theboathouse.fun
 0.0.0.0 thebobbinsnest.com
 0.0.0.0 theboobyhatch.org
@@ -57704,6 +57713,7 @@
 0.0.0.0 www.1573.site
 0.0.0.0 www.1652483.com
 0.0.0.0 www.1680180.com
+0.0.0.0 www.16casino.com
 0.0.0.0 www.176fitness.com
 0.0.0.0 www.181yue.com
 0.0.0.0 www.1888d2c.com
@@ -59138,6 +59148,7 @@
 0.0.0.0 www.casinobrigadereport.com
 0.0.0.0 www.casinocash.online
 0.0.0.0 www.casinochat.online
+0.0.0.0 www.casinomerchantaccount.com
 0.0.0.0 www.casinox1c3.site
 0.0.0.0 www.casinozy.com
 0.0.0.0 www.casketknightsfolder.com
@@ -60070,6 +60081,7 @@
 0.0.0.0 www.eauclairetaxicab.com
 0.0.0.0 www.eavesdropstudied.com
 0.0.0.0 www.ebonytoivory.com
+0.0.0.0 www.ecasinoking.online
 0.0.0.0 www.ecat.com
 0.0.0.0 www.eclectics.co
 0.0.0.0 www.eclipsemister.com
@@ -62577,6 +62589,7 @@
 0.0.0.0 www.officerolivehaughty.com
 0.0.0.0 www.officialcardcarryingtexan.com
 0.0.0.0 www.officialdetails.online
+0.0.0.0 www.officialhelabetcasino.net
 0.0.0.0 www.officialpanthersnflstore.com
 0.0.0.0 www.offpathgenuinely.com
 0.0.0.0 www.offroadpuntacana.com
