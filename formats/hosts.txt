@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.149
 # Release: 149
-# Entries: 67,851
-# Updated: Mon, 29 May 23 02:07:25 +06
+# Entries: 67,853
+# Updated: Mon, 29 May 23 04:07:35 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4737,6 +4737,7 @@
 0.0.0.0 amcentraltv.com
 0.0.0.0 amcponfx.com
 0.0.0.0 amcqufwanofuv.top
+0.0.0.0 amdaily.net
 0.0.0.0 amebanbiglot.uno
 0.0.0.0 amediz.com
 0.0.0.0 amegybtx.com
@@ -61054,6 +61055,7 @@
 0.0.0.0 www.gymandtonic.app
 0.0.0.0 www.gyoyunikimchoe.com
 0.0.0.0 www.gypsyardently.com
+0.0.0.0 www.gywb.cn.amdaily.net
 0.0.0.0 www.gyyy88d.com
 0.0.0.0 www.gzmztao.com
 0.0.0.0 www.gzwotvyjejpbxc.com
