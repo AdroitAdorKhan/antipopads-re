@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.148
 # Release: 148
-# Entries: 67,797
-# Updated: Sun, 28 May 23 16:13:47 +06
+# Entries: 67,799
+# Updated: Sun, 28 May 23 18:11:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1394,6 +1394,7 @@
 0.0.0.0 567bets10.com
 0.0.0.0 56bfc388bf12.com
 0.0.0.0 56hui.tech
+0.0.0.0 56rg2.com
 0.0.0.0 56rt2692.de
 0.0.0.0 5726303d87522d05.com
 0.0.0.0 572df.com
@@ -21497,6 +21498,7 @@
 0.0.0.0 getimmediatebitcoin.net
 0.0.0.0 getincz.com
 0.0.0.0 getinstallmentloanbtc.org
+0.0.0.0 getinsurancequotes.info
 0.0.0.0 getintoitconsulting.com
 0.0.0.0 getit.am
 0.0.0.0 getleadsfor.us
