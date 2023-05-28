@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.148
 # Release: 148
-# Entries: 67,799
-# Updated: Sun, 28 May 23 18:11:12 +06
+# Entries: 67,801
+# Updated: Sun, 28 May 23 20:07:42 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -47656,6 +47656,7 @@
 0.0.0.0 spandafoundation.com
 0.0.0.0 spandlelokman.tech
 0.0.0.0 spanishblack.com
+0.0.0.0 spanishnoir.com
 0.0.0.0 spankabgn.com
 0.0.0.0 spankingfashionshop.com
 0.0.0.0 spannercopyright.com
@@ -64153,6 +64154,7 @@
 0.0.0.0 www.sowparnika-euphoriaintheeast.net
 0.0.0.0 www.spabologna.it
 0.0.0.0 www.spadeballroom.com
+0.0.0.0 www.spanishnoir.com
 0.0.0.0 www.spannercopyright.com
 0.0.0.0 www.spareindexes.com
 0.0.0.0 www.spartanpokertour.net
