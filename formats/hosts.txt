@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.148
 # Release: 148
-# Entries: 67,686
-# Updated: Sun, 28 May 23 10:12:12 +06
+# Entries: 67,693
+# Updated: Sun, 28 May 23 12:07:42 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10555,6 +10555,7 @@
 0.0.0.0 casino-philippines.online
 0.0.0.0 casino-russia.online
 0.0.0.0 casino-saudiarabia.online
+0.0.0.0 casino007.online
 0.0.0.0 casino786.io
 0.0.0.0 casinobattles.website
 0.0.0.0 casinobrigadereport.com
@@ -16836,6 +16837,7 @@
 0.0.0.0 ecarelimited.com
 0.0.0.0 ecartpisote.space
 0.0.0.0 ecasinoking.online
+0.0.0.0 ecasinoking.org
 0.0.0.0 ecasinolive.online
 0.0.0.0 ecat.com
 0.0.0.0 ecaursedeegh.com
@@ -25813,6 +25815,7 @@
 0.0.0.0 iloxuyybosvax.top
 0.0.0.0 ilqacare.com
 0.0.0.0 ilqjyivjqwergks.com
+0.0.0.0 ilrifiutolo.it
 0.0.0.0 ilsobpho.xyz
 0.0.0.0 ilstcnaeuhso.com
 0.0.0.0 iltsaxmqyel.xyz
@@ -32632,6 +32635,7 @@
 0.0.0.0 mediatraks.com
 0.0.0.0 mediatrknow.xyz
 0.0.0.0 mediaver.com
+0.0.0.0 mediavordprotection.it
 0.0.0.0 mediaxchange.co
 0.0.0.0 medical-aid.net
 0.0.0.0 medical-journalpublish.info
@@ -50903,6 +50907,7 @@
 0.0.0.0 thriveradioactivecheers.com
 0.0.0.0 thrivewithtrellis.com
 0.0.0.0 thrivindesigns.com
+0.0.0.0 throllig.com
 0.0.0.0 throngsarseno.com
 0.0.0.0 throughlavish.com
 0.0.0.0 throwsynchronizesavoury.com
@@ -59145,6 +59150,7 @@
 0.0.0.0 www.cashmereapprovalnotwithstanding.com
 0.0.0.0 www.cashmereyourselfconsented.com
 0.0.0.0 www.casino-games-free.com
+0.0.0.0 www.casino007.online
 0.0.0.0 www.casinobrigadereport.com
 0.0.0.0 www.casinocash.online
 0.0.0.0 www.casinochat.online
@@ -60082,6 +60088,7 @@
 0.0.0.0 www.eavesdropstudied.com
 0.0.0.0 www.ebonytoivory.com
 0.0.0.0 www.ecasinoking.online
+0.0.0.0 www.ecasinoking.org
 0.0.0.0 www.ecat.com
 0.0.0.0 www.eclectics.co
 0.0.0.0 www.eclipsemister.com
