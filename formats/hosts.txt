@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.05.149
-# Release: 149
-# Entries: 68,331
-# Updated: Mon, 29 May 23 22:07:31 +06
+# Version: 23.05.150
+# Release: 150
+# Entries: 68,338
+# Updated: Tue, 30 May 23 00:17:58 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6501,6 +6501,7 @@
 0.0.0.0 austinmh.com
 0.0.0.0 austinsherri.com
 0.0.0.0 austintutors.com
+0.0.0.0 austro-bohemian-group.com
 0.0.0.0 austryat.com
 0.0.0.0 autand.com
 0.0.0.0 autate.com
@@ -8390,6 +8391,7 @@
 0.0.0.0 bikopol.top
 0.0.0.0 bikrurda.net
 0.0.0.0 bilatzen.com
+0.0.0.0 bilberrysoft.com
 0.0.0.0 bilbrbxidhqx.xyz
 0.0.0.0 bilecontagiousswine.com
 0.0.0.0 bilgebotchy.com
@@ -8634,6 +8636,7 @@
 0.0.0.0 black-essential.com
 0.0.0.0 black112.co.kr
 0.0.0.0 blackatoad.com
+0.0.0.0 blackblogs.info
 0.0.0.0 blackblue.uk
 0.0.0.0 blackcine.org
 0.0.0.0 blackcurrantspent.com
@@ -36019,6 +36022,7 @@
 0.0.0.0 nnbivwzl.com
 0.0.0.0 nndiscov.cfd
 0.0.0.0 nnewllink.ga
+0.0.0.0 nnexi.it
 0.0.0.0 nnhxyjugm.com
 0.0.0.0 nnmnnm.com
 0.0.0.0 nnmtjmkae.xyz
@@ -59188,6 +59192,7 @@
 0.0.0.0 www.aurabar.net
 0.0.0.0 www.auravineyard.com
 0.0.0.0 www.austinmh.com
+0.0.0.0 www.austro-bohemian-group.com
 0.0.0.0 www.authoritativepilgrimwhirlwind.com
 0.0.0.0 www.autographnutmegassail.com
 0.0.0.0 www.autolearnings.info
@@ -59436,6 +59441,7 @@
 0.0.0.0 www.bikehowfaded.com
 0.0.0.0 www.bikesformallycopper.com
 0.0.0.0 www.bikesframesandlove.com
+0.0.0.0 www.bilberrysoft.com
 0.0.0.0 www.bilingualfestive.com
 0.0.0.0 www.billdoratycustomerforlife.com
 0.0.0.0 www.billetsoneverything.com
@@ -63105,6 +63111,7 @@
 0.0.0.0 www.nirveid.com
 0.0.0.0 www.nitrogenblissful.com
 0.0.0.0 www.nitrogeneligible.com
+0.0.0.0 www.nnexi.it
 0.0.0.0 www.no-photo-no-video.info
 0.0.0.0 www.noalts.tech
 0.0.0.0 www.nofikkr.com
