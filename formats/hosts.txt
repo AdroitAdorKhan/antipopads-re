@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.150
 # Release: 150
-# Entries: 68,338
-# Updated: Tue, 30 May 23 00:17:58 +06
+# Entries: 68,339
+# Updated: Tue, 30 May 23 02:08:29 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -37786,6 +37786,7 @@
 0.0.0.0 optad360.io
 0.0.0.0 optcrockery.com
 0.0.0.0 opteama.com
+0.0.0.0 opteeo.com
 0.0.0.0 opter.co
 0.0.0.0 opthushbeginning.com
 0.0.0.0 opticalfashion.in
