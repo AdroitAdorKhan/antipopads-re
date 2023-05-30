@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.150
 # Release: 150
-# Entries: 68,634
-# Updated: Tue, 30 May 23 20:07:49 +06
+# Entries: 68,635
+# Updated: Tue, 30 May 23 22:07:42 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -22776,6 +22776,7 @@
 0.0.0.0 goofypismica.com
 0.0.0.0 googame.tech
 0.0.0.0 google--analytics.com
+0.0.0.0 google-analutics.com
 0.0.0.0 googleadservice.xyz
 0.0.0.0 googleadservices-cn.com
 0.0.0.0 googleapi.club

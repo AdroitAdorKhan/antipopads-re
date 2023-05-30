@@ -20,8 +20,8 @@
 ! Version: 23.05.150
 ! Release: 150
 ! Expires: 1 day
-! Entries: 68,634
-! Updated: Tue, 30 May 23 20:07:49 +06
+! Entries: 68,635
+! Updated: Tue, 30 May 23 22:07:42 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -22777,6 +22777,7 @@
 ||goofypismica.com^
 ||googame.tech^
 ||google--analytics.com^
+||google-analutics.com^
 ||googleadservice.xyz^
 ||googleadservices-cn.com^
 ||googleapi.club^
