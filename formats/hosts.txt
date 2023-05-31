@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.151
 # Release: 151
-# Entries: 68,933
-# Updated: Wed, 31 May 23 18:08:30 +06
+# Entries: 68,935
+# Updated: Wed, 31 May 23 20:07:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13919,6 +13919,7 @@
 0.0.0.0 cueistratting.com
 0.0.0.0 cuerpodebienvenida.com
 0.0.0.0 cuesingle.com
+0.0.0.0 cuev.in
 0.0.0.0 cuevastrck.com
 0.0.0.0 cueyetwee.site
 0.0.0.0 cugiphepty.com
@@ -67387,6 +67388,7 @@
 0.0.0.0 xvlqqcewptxo.com
 0.0.0.0 xvmuobapojunct.com
 0.0.0.0 xvojggwu.com
+0.0.0.0 xvpqmcgf.com
 0.0.0.0 xvrfrfhqao.com
 0.0.0.0 xvuslink.com
 0.0.0.0 xvvideos51.com
