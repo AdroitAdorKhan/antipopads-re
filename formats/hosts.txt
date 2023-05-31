@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.151
 # Release: 151
-# Entries: 68,935
-# Updated: Wed, 31 May 23 20:07:51 +06
+# Entries: 68,937
+# Updated: Wed, 31 May 23 22:07:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5619,6 +5619,7 @@
 0.0.0.0 arashdigital.com
 0.0.0.0 arasinteriors.net
 0.0.0.0 arautsod.com
+0.0.0.0 arbeitsaqentur.de
 0.0.0.0 arbitrywa.uno
 0.0.0.0 arbix.in
 0.0.0.0 arbkeutjopwbk.com
@@ -29331,6 +29332,7 @@
 0.0.0.0 kg.flogspci.com
 0.0.0.0 kg.quinuaknife.com
 0.0.0.0 kgaypqks.com
+0.0.0.0 kgcj00.cn
 0.0.0.0 kgdvs9ov3l2aasw4nuts.com
 0.0.0.0 kgfchapter2freedownload.com
 0.0.0.0 kgfjrb711.com
