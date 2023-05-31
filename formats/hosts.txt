@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.151
 # Release: 151
-# Entries: 68,735
-# Updated: Wed, 31 May 23 12:07:35 +06
+# Entries: 68,744
+# Updated: Wed, 31 May 23 14:07:28 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -33,6 +33,7 @@
 0.0.0.0 0-un.org
 0.0.0.0 0.0.0www.ner-de-mi-nis-6.info
 0.0.0.0 0.0www.ner-de-mi-nis-6.info
+0.0.0.0 00-gov.cn
 0.0.0.0 000779.com86658.comwww.844644.com
 0.0.0.0 001dizhi.com
 0.0.0.0 005598.comwww.601122.com
@@ -7226,6 +7227,7 @@
 0.0.0.0 balken.online
 0.0.0.0 balkscaked.com
 0.0.0.0 balldevelopedhangnail.com
+0.0.0.0 balldollars.com
 0.0.0.0 ballismklootch.digital
 0.0.0.0 ballnotre.space
 0.0.0.0 balloongo.space
@@ -8731,6 +8733,7 @@
 0.0.0.0 bladswetis.com
 0.0.0.0 blaghfpd.com
 0.0.0.0 blakeelses.tech
+0.0.0.0 blakeleyindustrial.com
 0.0.0.0 blakelousepreoccupation.com
 0.0.0.0 blakeneymanagement.co.uk
 0.0.0.0 blaketommyecology.com
@@ -12050,6 +12053,7 @@
 0.0.0.0 clevernt.com
 0.0.0.0 cleverwebserver.com
 0.0.0.0 clevv.com
+0.0.0.0 clfjhnwnba.com
 0.0.0.0 clfxjrlui.com
 0.0.0.0 clfxts.com
 0.0.0.0 clhggc.com
@@ -23570,6 +23574,7 @@
 0.0.0.0 gwslvgmai.com
 0.0.0.0 gwtylvvexe.xyz
 0.0.0.0 gwudfifbofyg.com
+0.0.0.0 gwurinylw.com
 0.0.0.0 gwvuasdnddxlsp.com
 0.0.0.0 gwwhheahisrtld.com
 0.0.0.0 gwxcloud.com
@@ -27070,6 +27075,7 @@
 0.0.0.0 iobqwfkmm.com
 0.0.0.0 ioc.vet
 0.0.0.0 iociley.com
+0.0.0.0 ioclpvtltd.co.in
 0.0.0.0 iodewijker.xyz
 0.0.0.0 iodideeyebath.cam
 0.0.0.0 iodinegerminateplayer.com
@@ -40657,6 +40663,7 @@
 0.0.0.0 pneral.com
 0.0.0.0 pneuth.com
 0.0.0.0 pnkowdbcarxwjua.com
+0.0.0.0 pnkryvnr.xyz
 0.0.0.0 pnmensah.tech
 0.0.0.0 pnmoclqxtcsbw.com
 0.0.0.0 pnpmreuwqv.xyz
@@ -45426,6 +45433,7 @@
 0.0.0.0 saffianxenian.com
 0.0.0.0 safisurfchallenge.com
 0.0.0.0 safruniversity.org
+0.0.0.0 saftyshop24.de
 0.0.0.0 sagarempireagro.co.in
 0.0.0.0 sagargupta.tech
 0.0.0.0 sagaxp.games
@@ -51369,6 +51377,7 @@
 0.0.0.0 themeconsequence.com
 0.0.0.0 themecounty.co
 0.0.0.0 themediaaisle-pixieset.com
+0.0.0.0 themehome.top
 0.0.0.0 themeillogical.com
 0.0.0.0 themelvinmen.org
 0.0.0.0 thementalistsofficial.com
