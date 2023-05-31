@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.05.151
 # Release: 151
-# Entries: 68,643
-# Updated: Wed, 31 May 23 02:08:06 +06
+# Entries: 68,646
+# Updated: Wed, 31 May 23 06:07:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -32724,6 +32724,7 @@
 0.0.0.0 marutiesteem.com
 0.0.0.0 marutigypsy.com
 0.0.0.0 marutiomni.com
+0.0.0.0 marutisuzukiritz.com
 0.0.0.0 marutiswift.com
 0.0.0.0 marutisx4.com
 0.0.0.0 marutiversa.com
@@ -35690,6 +35691,7 @@
 0.0.0.0 newbrandsmark.tech
 0.0.0.0 newbuildslincolnshire.co.uk
 0.0.0.0 newbuildslincolnshire.uk
+0.0.0.0 newbyteas.jp
 0.0.0.0 newcitychurchco.org
 0.0.0.0 newcityco.org
 0.0.0.0 newcitycolorado.org
@@ -48891,6 +48893,7 @@
 0.0.0.0 statisticsdemandeddeficit.com
 0.0.0.0 statisticseither.com
 0.0.0.0 stats-collector.org
+0.0.0.0 statscollector.cf
 0.0.0.0 statsforads.com
 0.0.0.0 statsmobi.com
 0.0.0.0 statsw.com
