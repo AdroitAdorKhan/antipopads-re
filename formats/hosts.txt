@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.152
 # Release: 152
-# Entries: 68,941
-# Updated: Thu, 01 Jun 23 00:17:55 +06
+# Entries: 68,943
+# Updated: Thu, 01 Jun 23 04:08:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -21688,6 +21688,7 @@
 0.0.0.0 gemagroup.ca
 0.0.0.0 gembox.tech
 0.0.0.0 gemfaxaha.com
+0.0.0.0 gemhvac.in
 0.0.0.0 geminex.online
 0.0.0.0 gemlocomotivemid.com
 0.0.0.0 gemorul.com
@@ -28464,6 +28465,7 @@
 0.0.0.0 joomlavn.org
 0.0.0.0 joomlink.com
 0.0.0.0 joomxer.fun
+0.0.0.0 joop.fun
 0.0.0.0 joopaish.com
 0.0.0.0 jooptibi.net
 0.0.0.0 joorijet.net
