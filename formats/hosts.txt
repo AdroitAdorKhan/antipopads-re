@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.152
 # Release: 152
-# Entries: 69,132
-# Updated: Thu, 01 Jun 23 10:07:52 +06
+# Entries: 69,134
+# Updated: Thu, 01 Jun 23 12:07:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29694,6 +29694,7 @@
 0.0.0.0 klaycouture.com
 0.0.0.0 klayscope.com
 0.0.0.0 klayswap.site
+0.0.0.0 klean.co.in
 0.0.0.0 kleen-wear.com
 0.0.0.0 kleigfarcist.live
 0.0.0.0 klenhosnc.com
@@ -37551,6 +37552,7 @@
 0.0.0.0 ogygotcchh.com
 0.0.0.0 oh.trinkmugwump.com
 0.0.0.0 ohartgxiuc.com
+0.0.0.0 ohcasorecruitment.in
 0.0.0.0 ohdep.ca
 0.0.0.0 ohdrgrpfyvughty.xyz
 0.0.0.0 ohealer.in
