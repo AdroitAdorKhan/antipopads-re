@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.153
 # Release: 153
-# Entries: 69,527
-# Updated: Fri, 02 Jun 23 18:08:36 +06
+# Entries: 69,528
+# Updated: Fri, 02 Jun 23 20:08:39 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -24379,6 +24379,7 @@
 0.0.0.0 hdeilprf.com
 0.0.0.0 hdfcbankuat.com
 0.0.0.0 hdfcergo.services
+0.0.0.0 hdfcergohealthonline.co.in
 0.0.0.0 hdhub4u.cz
 0.0.0.0 hditers.com
 0.0.0.0 hdjdglkkq.com
