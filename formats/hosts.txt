@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.153
 # Release: 153
-# Entries: 69,399
-# Updated: Fri, 02 Jun 23 12:07:50 +06
+# Entries: 69,408
+# Updated: Fri, 02 Jun 23 14:07:57 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9121,6 +9121,7 @@
 0.0.0.0 boch-home.com
 0.0.0.0 bocoyoutage.com
 0.0.0.0 bodelen.com
+0.0.0.0 bodenviewer.de
 0.0.0.0 bodgeethenic.com
 0.0.0.0 bodgeratta.store
 0.0.0.0 bodher.com
@@ -42820,6 +42821,7 @@
 0.0.0.0 qdoct.com
 0.0.0.0 qdurxkneqauxko.xyz
 0.0.0.0 qdwhagire.com
+0.0.0.0 qdxvijfxaacmtn.com
 0.0.0.0 qe.naplesspeisage.com
 0.0.0.0 qe0ckm024b.com
 0.0.0.0 qeabgjdgobjnq.xyz
@@ -44894,6 +44896,7 @@
 0.0.0.0 rkgwzfwjgk.com
 0.0.0.0 rkjl1pn.com
 0.0.0.0 rkjnazpgfihz.com
+0.0.0.0 rkjsiipw.com
 0.0.0.0 rklnsnkkgnvkv.com
 0.0.0.0 rkmutrilccihsyx.com
 0.0.0.0 rkomf.com
@@ -58425,6 +58428,7 @@
 0.0.0.0 winenftcoin.com
 0.0.0.0 wineoclockcentral.com
 0.0.0.0 winesparkle.com
+0.0.0.0 winewiden.com
 0.0.0.0 winfreeprize.online
 0.0.0.0 wingads.com
 0.0.0.0 wingerssetiger.com
@@ -66859,7 +66863,9 @@
 0.0.0.0 www.xn--jrry14l.com
 0.0.0.0 www.xn--kappaespaa-19a.com
 0.0.0.0 www.xn--kappamxico-g7a.com
+0.0.0.0 www.xn--keenkengt-22a.com
 0.0.0.0 www.xn--lwryi.com
+0.0.0.0 www.xn--northfaceespaa-2nb.com
 0.0.0.0 www.xn--polygo-1wa.com
 0.0.0.0 www.xn--tevasterreich-lmb.com
 0.0.0.0 www.xn--tv-hk5ia.com
@@ -67634,6 +67640,8 @@
 0.0.0.0 xn--lt-3va.com
 0.0.0.0 xn--lwryi.com
 0.0.0.0 xn--marcadeespaa-khb.com
+0.0.0.0 xn--northfaceespaa-2nb.com
+0.0.0.0 xn--northfacemagyarorszg-0xb.com
 0.0.0.0 xn--northfacemxico-kkb.com
 0.0.0.0 xn--r1a.website
 0.0.0.0 xn--rvinovaes-w3a8m.com
@@ -68116,6 +68124,7 @@
 0.0.0.0 yearthpsyllid.com
 0.0.0.0 yeastarchitect.info
 0.0.0.0 yebomarket.co.uk
+0.0.0.0 yebyfsjkeds.xyz
 0.0.0.0 yechysifaka.website
 0.0.0.0 yednwfwmgevyq.com
 0.0.0.0 yeegsxcwbnn.com
