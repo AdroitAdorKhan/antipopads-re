@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.153
 # Release: 153
-# Entries: 69,283
-# Updated: Fri, 02 Jun 23 04:07:40 +06
+# Entries: 69,287
+# Updated: Fri, 02 Jun 23 06:07:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -18278,6 +18278,7 @@
 0.0.0.0 eosads.com
 0.0.0.0 eoseurlingeringonl.xyz
 0.0.0.0 eoseurlingeringont.com.ua
+0.0.0.0 eotbharat.com
 0.0.0.0 eoveukrnme.info
 0.0.0.0 eoweridus.com
 0.0.0.0 eozoicfirring.com
@@ -36111,6 +36112,7 @@
 0.0.0.0 newsouthsense.com
 0.0.0.0 newstarads.com
 0.0.0.0 newstemptation.com
+0.0.0.0 newstodiscuss.com
 0.0.0.0 newsunads.com
 0.0.0.0 newswave.in
 0.0.0.0 newswhose.com
@@ -50687,6 +50689,7 @@
 0.0.0.0 tasmok.com
 0.0.0.0 tassed.com
 0.0.0.0 tastefulsongs.com
+0.0.0.0 tastemynews.com
 0.0.0.0 tasteofindia-pa.com
 0.0.0.0 tasterscaltha.com
 0.0.0.0 tastesloftyfounded.com
@@ -57288,6 +57291,7 @@
 0.0.0.0 wantmuchmorenews.com
 0.0.0.0 wantopticalfreelance.com
 0.0.0.0 wantsindulgencehum.com
+0.0.0.0 wantsomenews.com
 0.0.0.0 wantsstruckhall.com
 0.0.0.0 wap-zfzf.net
 0.0.0.0 wapatomktg.live
