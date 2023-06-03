@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.155
 # Release: 155
-# Entries: 69,875
-# Updated: Sun, 04 Jun 23 00:18:06 +06
+# Entries: 69,876
+# Updated: Sun, 04 Jun 23 04:07:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5877,6 +5877,7 @@
 0.0.0.0 arousedcricket.com
 0.0.0.0 arousedimitateplane.com
 0.0.0.0 arousestatic.com
+0.0.0.0 arouth.com
 0.0.0.0 arpa-hireachdns.com
 0.0.0.0 arpdhwswf.com
 0.0.0.0 arqlhxuhfw.com
