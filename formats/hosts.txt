@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.155
 # Release: 155
-# Entries: 69,876
-# Updated: Sun, 04 Jun 23 04:07:21 +06
+# Entries: 69,878
+# Updated: Sun, 04 Jun 23 06:08:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -22623,6 +22623,7 @@
 0.0.0.0 globalvaccinepassports.website
 0.0.0.0 globalvaluecenter.com
 0.0.0.0 globalveganfestival.org
+0.0.0.0 globalworks.in
 0.0.0.0 globe-flavors.com
 0.0.0.0 globeapptech.com
 0.0.0.0 globeassociates.in
@@ -25519,6 +25520,7 @@
 0.0.0.0 hospitaid.in
 0.0.0.0 hospitaid.net
 0.0.0.0 hospital-encasa.com
+0.0.0.0 hospitality4you.it
 0.0.0.0 hospitalityconsulting.me
 0.0.0.0 hospitalitystrategy.org.uk
 0.0.0.0 hospitecrew.club

@@ -20,8 +20,8 @@
 ! Version: 23.06.155
 ! Release: 155
 ! Expires: 1 day
-! Entries: 69,876
-! Updated: Sun, 04 Jun 23 04:07:21 +06
+! Entries: 69,878
+! Updated: Sun, 04 Jun 23 06:08:21 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -22624,6 +22624,7 @@
 ||globalvaccinepassports.website^
 ||globalvaluecenter.com^
 ||globalveganfestival.org^
+||globalworks.in^
 ||globe-flavors.com^
 ||globeapptech.com^
 ||globeassociates.in^
@@ -25520,6 +25521,7 @@
 ||hospitaid.in^
 ||hospitaid.net^
 ||hospital-encasa.com^
+||hospitality4you.it^
 ||hospitalityconsulting.me^
 ||hospitalitystrategy.org.uk^
 ||hospitecrew.club^
