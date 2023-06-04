@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.155
 # Release: 155
-# Entries: 69,982
-# Updated: Sun, 04 Jun 23 20:07:22 +06
+# Entries: 69,986
+# Updated: Sun, 04 Jun 23 22:07:59 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29032,6 +29032,7 @@
 0.0.0.0 jrnweuntwtem.com
 0.0.0.0 jroseassisted.com
 0.0.0.0 jrpkizae.com
+0.0.0.0 jrseastman.com
 0.0.0.0 jrskans.com
 0.0.0.0 jrswifi.net
 0.0.0.0 jrtaotu.com
@@ -54646,6 +54647,7 @@
 0.0.0.0 tuseefanjum.com
 0.0.0.0 tushopy.com
 0.0.0.0 tusitiobarter.tech
+0.0.0.0 tusitioweb.com
 0.0.0.0 tuskel.com
 0.0.0.0 tuskercampe.life
 0.0.0.0 tuskerstexas.com
@@ -57196,6 +57198,7 @@
 0.0.0.0 vlmanejvdeimg.xyz
 0.0.0.0 vlnk.me
 0.0.0.0 vlnnoandjtftkvg.com
+0.0.0.0 vloked.com
 0.0.0.0 vlpocxtewtj.com
 0.0.0.0 vlry5l4j5gbn.com
 0.0.0.0 vltwoizzckpp.com
@@ -67129,6 +67132,7 @@
 0.0.0.0 www.vladikin.dev
 0.0.0.0 www.vlasoff.net
 0.0.0.0 www.vleaddesignservice.com
+0.0.0.0 www.vloked.com
 0.0.0.0 www.vmcxdaynkhnekp.com
 0.0.0.0 www.vns999.app
 0.0.0.0 www.vocalconferencesinister.com
