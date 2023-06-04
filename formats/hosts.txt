@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.155
 # Release: 155
-# Entries: 69,980
-# Updated: Sun, 04 Jun 23 18:07:34 +06
+# Entries: 69,982
+# Updated: Sun, 04 Jun 23 20:07:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1070,6 +1070,7 @@
 0.0.0.0 3e8f80994d.com
 0.0.0.0 3eb315e3eb.964e7c340a.com
 0.0.0.0 3ef8a8d533.f57fbf2b51.com
+0.0.0.0 3faz7cskcya.com
 0.0.0.0 3gporn.biz
 0.0.0.0 3gqz.com
 0.0.0.0 3grd.com
@@ -9989,6 +9990,7 @@
 0.0.0.0 bucuc.tech
 0.0.0.0 budapebluest.com
 0.0.0.0 buddedpetrie.space
+0.0.0.0 buddhabhumi.org
 0.0.0.0 buddhisttourindia.info
 0.0.0.0 buddieconine.com
 0.0.0.0 buddingbonsai.com
