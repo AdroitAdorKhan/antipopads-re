@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.155
 # Release: 155
-# Entries: 69,954
-# Updated: Sun, 04 Jun 23 12:07:12 +06
+# Entries: 69,957
+# Updated: Sun, 04 Jun 23 14:07:53 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8837,6 +8837,7 @@
 0.0.0.0 blackscoop.cafe
 0.0.0.0 blackscreenmedia.com
 0.0.0.0 blacksprut.pm
+0.0.0.0 blacksteallion.com
 0.0.0.0 blackstonerestoration.com
 0.0.0.0 blackswaninvestor.com
 0.0.0.0 blacktbuilder.com
@@ -23819,6 +23820,7 @@
 0.0.0.0 guardianinvadecrept.com
 0.0.0.0 guardofdavid.us
 0.0.0.0 guardspearls.com
+0.0.0.0 guargumplant.com
 0.0.0.0 guatecasitas.com
 0.0.0.0 gubopedruph.com
 0.0.0.0 guchihyfa.pro
@@ -62936,6 +62938,7 @@
 0.0.0.0 www.gtm4health.in
 0.0.0.0 www.gtoonfd.com
 0.0.0.0 www.guardspearls.com
+0.0.0.0 www.guargumplant.com
 0.0.0.0 www.guessfumevisited.com
 0.0.0.0 www.guessstartlethrive.com
 0.0.0.0 www.guestsaircondition.com
