@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.157
 # Release: 157
-# Entries: 70,292
-# Updated: Tue, 06 Jun 23 02:08:02 +06
+# Entries: 70,294
+# Updated: Tue, 06 Jun 23 04:07:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10212,6 +10212,7 @@
 0.0.0.0 businessfootprint.co.uk
 0.0.0.0 businessinsurancekitchener.com
 0.0.0.0 businesslinenow.com
+0.0.0.0 businessmantraa.com
 0.0.0.0 businessmencrib.com
 0.0.0.0 businessonline-cib-hu.com
 0.0.0.0 businesssoftwareqa.com
@@ -35602,6 +35603,7 @@
 0.0.0.0 mvlvxzhxjci.com
 0.0.0.0 mvmbs.com
 0.0.0.0 mvnfwfwuqmjgn.com
+0.0.0.0 mvoc.ec
 0.0.0.0 mvprojects.net
 0.0.0.0 mvrdgspmorhkjv.xyz
 0.0.0.0 mvssjkmmnhtnyk.xyz
