@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.156
 # Release: 156
-# Entries: 70,072
-# Updated: Mon, 05 Jun 23 02:07:23 +06
+# Entries: 70,074
+# Updated: Mon, 05 Jun 23 06:08:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3118,6 +3118,7 @@
 0.0.0.0 adiquity.com
 0.0.0.0 adirtlseividwhik.xyz
 0.0.0.0 adit.software
+0.0.0.0 aditigroup.net
 0.0.0.0 aditiinfotek.com
 0.0.0.0 aditlomitj.com
 0.0.0.0 adityauv.in
@@ -60225,6 +60226,7 @@
 0.0.0.0 www.adeptfleamisjudge.com
 0.0.0.0 www.adflect.tech
 0.0.0.0 www.adfwllc.com
+0.0.0.0 www.aditigroup.net
 0.0.0.0 www.administrationpreviewfoolproof.com
 0.0.0.0 www.administratorclassy.com
 0.0.0.0 www.admiredexpansioncollege.com
