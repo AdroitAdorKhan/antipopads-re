@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.156
 # Release: 156
-# Entries: 70,232
-# Updated: Mon, 05 Jun 23 20:07:21 +06
+# Entries: 70,237
+# Updated: Mon, 05 Jun 23 22:07:40 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3711,6 +3711,7 @@
 0.0.0.0 affilwp.com
 0.0.0.0 affinitad.com
 0.0.0.0 affinity.com
+0.0.0.0 affinity.net
 0.0.0.0 affiz.net
 0.0.0.0 afflat3a1.com
 0.0.0.0 afflat3e1.com
@@ -18441,6 +18442,7 @@
 0.0.0.0 entirelysacrament.com
 0.0.0.0 entireweb.com
 0.0.0.0 entitledbalcony.com
+0.0.0.0 entjgcr.com
 0.0.0.0 entjryftqwmsus.com
 0.0.0.0 entlyhaveb.autos
 0.0.0.0 entmassaul.com
@@ -31283,6 +31285,7 @@
 0.0.0.0 learnlifescience.com
 0.0.0.0 learntinga.com
 0.0.0.0 learntjubilee.com
+0.0.0.0 learnwished.com
 0.0.0.0 learnwithsatish.com
 0.0.0.0 leaseholderbarbcompact.com
 0.0.0.0 leashmotto.com
@@ -44721,6 +44724,7 @@
 0.0.0.0 remedygregh.tech
 0.0.0.0 remembercompetitioninexplicable.com
 0.0.0.0 rememberedshamlag.com
+0.0.0.0 remembergirl.com
 0.0.0.0 remeyr.com
 0.0.0.0 remher.com
 0.0.0.0 reminderdate.com
@@ -47048,6 +47052,7 @@
 0.0.0.0 sealedsimplicitynoun.com
 0.0.0.0 sealeryshilpit.com
 0.0.0.0 sealerysuppler.com
+0.0.0.0 sealthatleak.com
 0.0.0.0 seamankidding.com
 0.0.0.0 seamchristmas.com
 0.0.0.0 seamloring.life
