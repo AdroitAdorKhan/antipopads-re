@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.156
 # Release: 156
-# Entries: 70,228
-# Updated: Mon, 05 Jun 23 16:19:16 +06
+# Entries: 70,229
+# Updated: Mon, 05 Jun 23 18:08:31 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -43015,6 +43015,7 @@
 0.0.0.0 purposeparking.com
 0.0.0.0 purrbackground.com
 0.0.0.0 pursedistraught.com
+0.0.0.0 pursetemporarymovie.com
 0.0.0.0 pursey.uk
 0.0.0.0 pursuedfourteenth.com
 0.0.0.0 pursuerharpago.life
