@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.156
 # Release: 156
-# Entries: 70,174
-# Updated: Mon, 05 Jun 23 10:07:55 +06
+# Entries: 70,178
+# Updated: Mon, 05 Jun 23 14:07:27 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14637,6 +14637,7 @@
 0.0.0.0 danitesalary.life
 0.0.0.0 dank.today
 0.0.0.0 dannytobok.com
+0.0.0.0 danonee.com
 0.0.0.0 dansanttina.com
 0.0.0.0 dantbritingd.club
 0.0.0.0 dantehair.co.uk
@@ -15941,6 +15942,7 @@
 0.0.0.0 dischargedecent.com
 0.0.0.0 disciplinetop.com
 0.0.0.0 discipuli.io
+0.0.0.0 discird.gg
 0.0.0.0 discoclubvirus.com
 0.0.0.0 discodancingcat.com
 0.0.0.0 discodjxkqya.com
@@ -18667,6 +18669,7 @@
 0.0.0.0 erovation.com
 0.0.0.0 erpany.com
 0.0.0.0 erpbaby.com
+0.0.0.0 erpmsfox.com
 0.0.0.0 erpworld.in
 0.0.0.0 erranow.tech
 0.0.0.0 errapi.com
@@ -35852,6 +35855,7 @@
 0.0.0.0 mywitzigeproduktempfehlung.de
 0.0.0.0 mywondertrip.com
 0.0.0.0 myworth.online
+0.0.0.0 myx-digistore.com
 0.0.0.0 myxlyajuhsjiwsp.com
 0.0.0.0 myxozilla.icu
 0.0.0.0 myxxxadult.com
