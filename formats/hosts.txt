@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.157
 # Release: 157
-# Entries: 70,368
-# Updated: Tue, 06 Jun 23 08:18:40 +06
+# Entries: 70,402
+# Updated: Tue, 06 Jun 23 10:07:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1069,6 +1069,7 @@
 0.0.0.0 3dsecurepays.network
 0.0.0.0 3dtops.com
 0.0.0.0 3dtvtechreport.com
+0.0.0.0 3dvytisk.com
 0.0.0.0 3e8f80994d.com
 0.0.0.0 3eb315e3eb.964e7c340a.com
 0.0.0.0 3ef8a8d533.f57fbf2b51.com
@@ -2006,6 +2007,7 @@
 0.0.0.0 8baf7ae42000024.com
 0.0.0.0 8ballpoolcheat.org
 0.0.0.0 8bbc81b016.d1bcb5ca9f.com
+0.0.0.0 8bitsinabyte.ca
 0.0.0.0 8c12fd2217.6e3ee87ff2.com
 0.0.0.0 8ca84a0be2.0fc32b5283.com
 0.0.0.0 8d6lbsvg3qkl.com
@@ -4964,6 +4966,7 @@
 0.0.0.0 amreen.xyz
 0.0.0.0 amritbharat.com
 0.0.0.0 amritkaalindia.com
+0.0.0.0 amrta.tv
 0.0.0.0 amrtbbnr.com
 0.0.0.0 amruthaestates.in
 0.0.0.0 amscoteasypay.com
@@ -7385,6 +7388,7 @@
 0.0.0.0 bamfam.uk
 0.0.0.0 bamos.in
 0.0.0.0 banagonatural.tech
+0.0.0.0 banana-way.in
 0.0.0.0 bananastouching.com
 0.0.0.0 banapplegofres.com
 0.0.0.0 bancainermobiliare.it
@@ -7569,6 +7573,7 @@
 0.0.0.0 bashfulweaponsscratch.com
 0.0.0.0 bashnourish.com
 0.0.0.0 bashundharadigi.com
+0.0.0.0 basiconeyearads.com
 0.0.0.0 basicpossibility.com
 0.0.0.0 basilarendowed.website
 0.0.0.0 basilhealthai.us
@@ -10276,6 +10281,7 @@
 0.0.0.0 buysalebiz.com
 0.0.0.0 buyselllovesedona.com
 0.0.0.0 buyseoblog.com
+0.0.0.0 buyshirt.co.in
 0.0.0.0 buysteroidsafe.com
 0.0.0.0 buythefitnessmirror.blog
 0.0.0.0 buytieposer.com
@@ -12134,6 +12140,7 @@
 0.0.0.0 cjxjbpouikk.xyz
 0.0.0.0 cjxomyilmv.com
 0.0.0.0 ckeckstatus.biz
+0.0.0.0 ckemaileditor.net
 0.0.0.0 ckfmccqvog.top
 0.0.0.0 ckfyarfgdt.com
 0.0.0.0 ckgroundan.info
@@ -16384,6 +16391,7 @@
 0.0.0.0 dogolurkr.com
 0.0.0.0 dograenterprises.com
 0.0.0.0 dogrehab.us
+0.0.0.0 dogsatschool.ca
 0.0.0.0 dogshipuniate.live
 0.0.0.0 dogsontherun.org
 0.0.0.0 dogstarlab.co
@@ -16710,6 +16718,7 @@
 0.0.0.0 draggetawayinvalid.com
 0.0.0.0 dragmonarch.com
 0.0.0.0 dragongrinders.com
+0.0.0.0 dragoninwest.com
 0.0.0.0 dragonspontaneous.com
 0.0.0.0 draile.com
 0.0.0.0 drainlot.com
@@ -16796,6 +16805,7 @@
 0.0.0.0 drinkingmeat.com
 0.0.0.0 drinksalesman.com
 0.0.0.0 drinksinvoluntary.com
+0.0.0.0 dripadvisor.online
 0.0.0.0 dripappliance.com
 0.0.0.0 dripintentionstraditional.com
 0.0.0.0 driplifestyle.in
@@ -17237,6 +17247,7 @@
 0.0.0.0 e-fuel.shop
 0.0.0.0 e-hewn.com
 0.0.0.0 e-levelup.com
+0.0.0.0 e-mailckeditor.com
 0.0.0.0 e-mailckeditor.net
 0.0.0.0 e-marking.it
 0.0.0.0 e-novobanco-online.com
@@ -18145,6 +18156,7 @@
 0.0.0.0 emailaction.online
 0.0.0.0 emailcarrierdelivery.com
 0.0.0.0 emailcke.com
+0.0.0.0 emailckeditor.com
 0.0.0.0 emailer2014.com
 0.0.0.0 emailmeditateencourage.com
 0.0.0.0 eman-commerce.com
@@ -20710,6 +20722,7 @@
 0.0.0.0 floridavacations.online
 0.0.0.0 floridgecontracting.com
 0.0.0.0 florindor.com
+0.0.0.0 florindor.online
 0.0.0.0 floristru.shop
 0.0.0.0 floscbd.store
 0.0.0.0 flossyarrayal.life
@@ -22152,6 +22165,7 @@
 0.0.0.0 generatekennelgrain.com
 0.0.0.0 generationscloveinappropriate.com
 0.0.0.0 generativeimaging.com
+0.0.0.0 generatorqrcode.online
 0.0.0.0 genericdavamart.com
 0.0.0.0 genericlink.com
 0.0.0.0 genericsrx.us
@@ -24128,6 +24142,7 @@
 0.0.0.0 gykccbiaef.com
 0.0.0.0 gymalive.shop
 0.0.0.0 gymandtonic.app
+0.0.0.0 gymdefi.com
 0.0.0.0 gymexplorer.com
 0.0.0.0 gymezone.com
 0.0.0.0 gymnastspeaned.uno
@@ -30913,6 +30928,7 @@
 0.0.0.0 lajuriditheque.com
 0.0.0.0 lajvxelxaebpd.com
 0.0.0.0 lakeanneplaza.biz
+0.0.0.0 lakeballdiscount.com
 0.0.0.0 lakehartwelltreasure.com
 0.0.0.0 lakeix.com
 0.0.0.0 lakelandtropicsacademy.com
@@ -31171,6 +31187,7 @@
 0.0.0.0 lavishvanish.com
 0.0.0.0 lavishworld.co.uk
 0.0.0.0 lavlna-arts.co.uk
+0.0.0.0 lavrich.pro
 0.0.0.0 lawbee.net
 0.0.0.0 lawbooktumbaki.uno
 0.0.0.0 lawbyte.net
@@ -31520,6 +31537,7 @@
 0.0.0.0 leteer.com
 0.0.0.0 letheanaumous.tech
 0.0.0.0 letitnews.com
+0.0.0.0 letou499.com
 0.0.0.0 letqejcjo.xyz
 0.0.0.0 lets-casual-dating.com
 0.0.0.0 letsgobixby.org
@@ -33942,6 +33960,7 @@
 0.0.0.0 medicalciti.us
 0.0.0.0 medicalmysteries.org
 0.0.0.0 medicaltourisminindia.in
+0.0.0.0 medicamentcontrelagale.com
 0.0.0.0 medicareplans1.org
 0.0.0.0 medicationneglectedshared.com
 0.0.0.0 medicflippers.com
@@ -38376,6 +38395,7 @@
 0.0.0.0 olindoo.com
 0.0.0.0 oliphantpuzzle.com
 0.0.0.0 oliphantpuzzlecompany.com
+0.0.0.0 oliphon.com
 0.0.0.0 olivebless.org
 0.0.0.0 olivedinflats.space
 0.0.0.0 oliveecart.com
@@ -41020,6 +41040,7 @@
 0.0.0.0 pinsportentpork.com
 0.0.0.0 pintandoalmas.net
 0.0.0.0 pintandoalmas.org
+0.0.0.0 pintesest.com
 0.0.0.0 pinttalewag.com
 0.0.0.0 pinwalerompers.com
 0.0.0.0 pinyuwu.com
@@ -42218,6 +42239,7 @@
 0.0.0.0 presszines.com
 0.0.0.0 prestadsng.com
 0.0.0.0 prestigefunction.com
+0.0.0.0 prestigemulund.in
 0.0.0.0 prestigevacations.org
 0.0.0.0 prestoris.com
 0.0.0.0 prestotechpack.com
@@ -47595,6 +47617,7 @@
 0.0.0.0 servingcdn.net
 0.0.0.0 servingmetrodc.com
 0.0.0.0 servinsta.com
+0.0.0.0 servisnaknizka.online
 0.0.0.0 serviziclienti.it
 0.0.0.0 servtraff97.com
 0.0.0.0 ses-gcc.com
@@ -47693,6 +47716,8 @@
 0.0.0.0 sexvintagesex.com
 0.0.0.0 sexy-sluts.org
 0.0.0.0 sexy357.com
+0.0.0.0 sexyleague.biz
+0.0.0.0 sexyleague.net
 0.0.0.0 sexymujeres.com
 0.0.0.0 sexzy6.com
 0.0.0.0 seychellescarhire.com
@@ -48642,6 +48667,7 @@
 0.0.0.0 skincarebydorina.com
 0.0.0.0 skincleanse.xyz
 0.0.0.0 skindustries.in.net
+0.0.0.0 skinfay.in
 0.0.0.0 skininvent.com
 0.0.0.0 skinkerjeez.com
 0.0.0.0 skinlovemedellin.com
@@ -48864,6 +48890,7 @@
 0.0.0.0 smallteenporn.com
 0.0.0.0 smalltiberbridge.com
 0.0.0.0 smaragdinalounge.com
+0.0.0.0 smaragdinamentalcare.com
 0.0.0.0 smaragdinaspa.com
 0.0.0.0 smart-building.cloud
 0.0.0.0 smart-kiwi.com
@@ -50751,6 +50778,7 @@
 0.0.0.0 sunsetencyclopaedia.com
 0.0.0.0 sunsetjuxtapositioninvoke.com
 0.0.0.0 sunsetpersuadeaffectionately.com
+0.0.0.0 sunshinehospital.in
 0.0.0.0 sunstrokeload.com
 0.0.0.0 sunsystek.com
 0.0.0.0 sunvalley-idaho.com
@@ -51526,6 +51554,7 @@
 0.0.0.0 tata-playsmartsecure.net.in
 0.0.0.0 tatabrands.ru
 0.0.0.0 tatagamesindia.org
+0.0.0.0 tatahealthplus.co.in
 0.0.0.0 tatakhelotv.org
 0.0.0.0 tatamedicalcentretrust.net
 0.0.0.0 tatamedicalcentretrust.org
@@ -51758,6 +51787,7 @@
 0.0.0.0 teamuanataca.com
 0.0.0.0 teamvray.com
 0.0.0.0 teamworkcgs.com
+0.0.0.0 teareceptek.com
 0.0.0.0 tearfuldamnii.guru
 0.0.0.0 tearingdubnought.com
 0.0.0.0 tearingflickermeaning.com
@@ -56379,6 +56409,7 @@
 0.0.0.0 uvdtwpkd.com
 0.0.0.0 uver.top
 0.0.0.0 uvhs.in
+0.0.0.0 uvinsure.com
 0.0.0.0 uvisafe.com
 0.0.0.0 uvomsebouub.top
 0.0.0.0 uvoovoachee.com
@@ -58279,6 +58310,7 @@
 0.0.0.0 watchfreeofads.com
 0.0.0.0 watchingssu.com
 0.0.0.0 watchingthat.com
+0.0.0.0 watchmybudget.com
 0.0.0.0 watchmytopapp.top
 0.0.0.0 watchnewpics.info
 0.0.0.0 watchnewvids.today
@@ -62343,6 +62375,7 @@
 0.0.0.0 www.doerimpertinent.com
 0.0.0.0 www.dogconcurrencesauce.com
 0.0.0.0 www.dogemos.com
+0.0.0.0 www.dogsatschool.ca
 0.0.0.0 www.doingporteddispose.com
 0.0.0.0 www.doiturselfplumbing.net
 0.0.0.0 www.dokterevelyneanggun.com
@@ -70241,6 +70274,7 @@
 0.0.0.0 zosfilm.com
 0.0.0.0 zosteraclumsy.website
 0.0.0.0 zostofou.link
+0.0.0.0 zoubek.art
 0.0.0.0 zoukooso.com
 0.0.0.0 zoulikoopty.com
 0.0.0.0 zouloafi.net
