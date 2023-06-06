@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.157
 # Release: 157
-# Entries: 70,477
-# Updated: Tue, 06 Jun 23 16:19:47 +06
+# Entries: 70,479
+# Updated: Tue, 06 Jun 23 18:08:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15259,6 +15259,7 @@
 0.0.0.0 delookiinasfier.cc
 0.0.0.0 deloplen.com
 0.0.0.0 deloton.com
+0.0.0.0 delphigamedevs.org
 0.0.0.0 delphinedemy.com
 0.0.0.0 delta-plant.earth
 0.0.0.0 deltadiagnostics.net
@@ -62229,6 +62230,7 @@
 0.0.0.0 www.deliveranceirregulareaten.com
 0.0.0.0 www.deliverancelegacymart.com
 0.0.0.0 www.deliveredconsolefleeting.com
+0.0.0.0 www.delphigamedevs.org
 0.0.0.0 www.deludemanageinvite.com
 0.0.0.0 www.deludemesh.com
 0.0.0.0 www.demandedhalfmoon.com
