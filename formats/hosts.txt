@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.159
 # Release: 159
-# Entries: 70,856
-# Updated: Thu, 08 Jun 23 02:07:24 +06
+# Entries: 70,859
+# Updated: Thu, 08 Jun 23 04:07:27 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9693,6 +9693,7 @@
 0.0.0.0 brandelay.com
 0.0.0.0 brandelevation.co.nz
 0.0.0.0 brandezyytest.tech
+0.0.0.0 brandingandmarketingcoach.com
 0.0.0.0 brandinggenius.in.net
 0.0.0.0 brandinventorgenetically.com
 0.0.0.0 brandlabs.ai
@@ -51685,6 +51686,7 @@
 0.0.0.0 talentsandsmith.com
 0.0.0.0 talentusec.com
 0.0.0.0 talesapricot.com
+0.0.0.0 talipotfamilyoffice.com
 0.0.0.0 talkchess.org
 0.0.0.0 talkgpt.tech
 0.0.0.0 talkmego.com
@@ -61724,6 +61726,7 @@
 0.0.0.0 www.brainable.org
 0.0.0.0 www.brainlessshut.com
 0.0.0.0 www.brakescucumbersubjects.com
+0.0.0.0 www.brandingandmarketingcoach.com
 0.0.0.0 www.brandinventorgenetically.com
 0.0.0.0 www.brandnewdeputy.com
 0.0.0.0 www.brasilvalores.com
