@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.160
 # Release: 160
-# Entries: 71,022
-# Updated: Fri, 09 Jun 23 00:18:32 +06
+# Entries: 71,023
+# Updated: Fri, 09 Jun 23 02:07:58 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4447,6 +4447,7 @@
 0.0.0.0 alfredpoleshipwreck.com
 0.0.0.0 alfworldwidecorpinc.online
 0.0.0.0 algardevehme.com
+0.0.0.0 algarvelakeside.net
 0.0.0.0 algeriabruges.life
 0.0.0.0 algocashmaster.com
 0.0.0.0 algolduckan.com
