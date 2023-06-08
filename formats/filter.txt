@@ -20,8 +20,8 @@
 ! Version: 23.06.159
 ! Release: 159
 ! Expires: 1 day
-! Entries: 70,945
-! Updated: Thu, 08 Jun 23 12:07:22 +06
+! Entries: 70,946
+! Updated: Thu, 08 Jun 23 14:07:23 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -47592,6 +47592,7 @@
 ||secure-tataplay.info^
 ||secure-tataplay.net.in^
 ||secure-tataplay.org^
+||securea.org^
 ||secureaddisplay.com^
 ||secureclickers.com^
 ||securecloud-dt.com^

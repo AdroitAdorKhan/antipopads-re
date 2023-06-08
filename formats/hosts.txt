@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.159
 # Release: 159
-# Entries: 70,945
-# Updated: Thu, 08 Jun 23 12:07:22 +06
+# Entries: 70,946
+# Updated: Thu, 08 Jun 23 14:07:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -47591,6 +47591,7 @@
 0.0.0.0 secure-tataplay.info
 0.0.0.0 secure-tataplay.net.in
 0.0.0.0 secure-tataplay.org
+0.0.0.0 securea.org
 0.0.0.0 secureaddisplay.com
 0.0.0.0 secureclickers.com
 0.0.0.0 securecloud-dt.com
