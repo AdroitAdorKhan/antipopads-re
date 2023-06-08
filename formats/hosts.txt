@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.159
 # Release: 159
-# Entries: 71,012
-# Updated: Thu, 08 Jun 23 18:07:55 +06
+# Entries: 71,013
+# Updated: Thu, 08 Jun 23 22:07:19 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -36548,6 +36548,7 @@
 0.0.0.0 nayanacreationsbysunayana.com
 0.0.0.0 naylorsecurityfencing.co.uk
 0.0.0.0 nayohmee.tech
+0.0.0.0 naza.com.co
 0.0.0.0 nazadtq.com
 0.0.0.0 nazahrady.com
 0.0.0.0 nazaninnaghavi.ir
