@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.161
 # Release: 161
-# Entries: 71,309
-# Updated: Sat, 10 Jun 23 02:08:38 +06
+# Entries: 71,311
+# Updated: Sat, 10 Jun 23 04:07:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -26700,6 +26700,7 @@
 0.0.0.0 iamwobeco.com
 0.0.0.0 iamzeeshan.in
 0.0.0.0 ianalysis.xyz
+0.0.0.0 ianliving.com
 0.0.0.0 ianmanyanye.com
 0.0.0.0 ianstarvard.co
 0.0.0.0 ianw.ms
@@ -70791,6 +70792,7 @@
 0.0.0.0 zarishmaritime.com
 0.0.0.0 zarobek4u.com
 0.0.0.0 zarpop.com
+0.0.0.0 zarshop.biz
 0.0.0.0 zasdentalshop.com
 0.0.0.0 zatbat.tech
 0.0.0.0 zationserv.one
