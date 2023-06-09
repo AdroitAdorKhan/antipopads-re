@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.160
 # Release: 160
-# Entries: 71,296
-# Updated: Fri, 09 Jun 23 20:07:56 +06
+# Entries: 71,297
+# Updated: Fri, 09 Jun 23 22:13:43 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -45762,6 +45762,7 @@
 0.0.0.0 reward-win.site
 0.0.0.0 rewardcash.in
 0.0.0.0 rewarding-design.pro
+0.0.0.0 rewardmonkey.net
 0.0.0.0 rewardplanet.net
 0.0.0.0 rewardreviews.fr
 0.0.0.0 rewardsaffiliates.com
