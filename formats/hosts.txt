@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.06.160
-# Release: 160
-# Entries: 71,297
-# Updated: Fri, 09 Jun 23 22:13:43 +06
+# Version: 23.06.161
+# Release: 161
+# Entries: 71,303
+# Updated: Sat, 10 Jun 23 00:16:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6765,6 +6765,7 @@
 0.0.0.0 autoversemobility.store
 0.0.0.0 autrefois.top
 0.0.0.0 autsaisu.xyz
+0.0.0.0 auttoliv.com
 0.0.0.0 autumnleafhomestudio.com
 0.0.0.0 auudcptpkpfdu.top
 0.0.0.0 auuegnvbhx.xyz
@@ -9139,6 +9140,7 @@
 0.0.0.0 blrvtiokf.com
 0.0.0.0 blsrscpqu.com
 0.0.0.0 blu5fdclr.com
+0.0.0.0 blubberspoiled.com
 0.0.0.0 blubbertables.com
 0.0.0.0 blucursor.uk
 0.0.0.0 bludwan.com
@@ -23294,6 +23296,7 @@
 0.0.0.0 gobbinsantos.store
 0.0.0.0 gobiaesker.uno
 0.0.0.0 gobicyice.com
+0.0.0.0 gobitoursmongolia.com
 0.0.0.0 gobixby.org
 0.0.0.0 goblinksye.com
 0.0.0.0 goblocker.xyz
@@ -51781,6 +51784,7 @@
 0.0.0.0 syllin.com
 0.0.0.0 sylvatealonely.com
 0.0.0.0 sylviapettah.com
+0.0.0.0 sylxisys.com
 0.0.0.0 symbioticdependancies.com
 0.0.0.0 symbioticdependancies.net
 0.0.0.0 symbolstudents.com
@@ -61698,6 +61702,7 @@
 0.0.0.0 www.autopsyfowl.com
 0.0.0.0 www.autoservicedepot.webflo.io
 0.0.0.0 www.autrefois.top
+0.0.0.0 www.auttoliv.com
 0.0.0.0 www.av7797.com
 0.0.0.0 www.avaides.com
 0.0.0.0 www.avalanchemight.com
@@ -64020,6 +64025,7 @@
 0.0.0.0 www.gnoo.shop
 0.0.0.0 www.goalcipherhybrid.com
 0.0.0.0 www.goatkicks.shop
+0.0.0.0 www.gobitoursmongolia.com
 0.0.0.0 www.goblinksye.com
 0.0.0.0 www.gobnks.com
 0.0.0.0 www.goddessclad.com
