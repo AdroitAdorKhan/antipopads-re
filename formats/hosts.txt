@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.161
 # Release: 161
-# Entries: 71,548
-# Updated: Sat, 10 Jun 23 18:07:28 +06
+# Entries: 71,550
+# Updated: Sat, 10 Jun 23 20:07:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -30731,6 +30731,7 @@
 0.0.0.0 kmapagpkik.com
 0.0.0.0 kmbb38.com
 0.0.0.0 kmckayqhjlkbre.top
+0.0.0.0 kmcwsjqi.com
 0.0.0.0 kmdbjvpriawcg.com
 0.0.0.0 kmfwrqdp.com
 0.0.0.0 kmgfqhxvjhfpsq.com
@@ -35292,6 +35293,7 @@
 0.0.0.0 mlopezdaneri.top
 0.0.0.0 mlslawmo.com
 0.0.0.0 mlsys.xyz
+0.0.0.0 mlttmtjthqnr.xyz
 0.0.0.0 mltunxdmrv.com
 0.0.0.0 mlu.in
 0.0.0.0 mluniversity.tech
