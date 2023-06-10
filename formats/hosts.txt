@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.161
 # Release: 161
-# Entries: 71,370
-# Updated: Sat, 10 Jun 23 10:07:20 +06
+# Entries: 71,381
+# Updated: Sat, 10 Jun 23 12:07:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2295,7 +2295,9 @@
 0.0.0.0 9xkahjdasda9.monster
 0.0.0.0 9xob25oszs.com
 0.0.0.0 9zx1pj.life
+0.0.0.0 _dmarc._dmarc.www.capenuttraders.co.za
 0.0.0.0 _dmarc.mx.mx.www.connectindian.com
+0.0.0.0 _dmarc.www.capenuttraders.co.za
 0.0.0.0 _domainkey.hostmaster.www.todaypk.cz
 0.0.0.0 _domainkey.www.6be39.wh.3dtops.com
 0.0.0.0 a-94interdads.com
@@ -10872,6 +10874,7 @@
 0.0.0.0 capawhile.com
 0.0.0.0 capcityofgreenfield.com
 0.0.0.0 capeantiquariandecision.com
+0.0.0.0 capenuttraders.co.za
 0.0.0.0 capeplannails.com
 0.0.0.0 caperedlevi.com
 0.0.0.0 caphaiks.com
@@ -30969,6 +30972,7 @@
 0.0.0.0 krishnaaviro.in
 0.0.0.0 krishnadarpannews.live
 0.0.0.0 krishnakotaliya.in
+0.0.0.0 krishnapolytech.com
 0.0.0.0 krisydark.com
 0.0.0.0 kritima.com
 0.0.0.0 krjaj.top
@@ -35803,6 +35807,7 @@
 0.0.0.0 mphmesquitepower.com
 0.0.0.0 mpk01.com
 0.0.0.0 mployeesihi.xyz
+0.0.0.0 mpls.buzz
 0.0.0.0 mpmant.com
 0.0.0.0 mpnrs.com
 0.0.0.0 mppqellliovkuqi.com
@@ -37733,6 +37738,7 @@
 0.0.0.0 nootybites.com
 0.0.0.0 noozjifbn.com
 0.0.0.0 nopaperhand.org
+0.0.0.0 nopests.net
 0.0.0.0 nopithere.com
 0.0.0.0 noplasticsolutions.org
 0.0.0.0 nopolicycrea.com
@@ -57765,6 +57771,7 @@
 0.0.0.0 vetcheck4newpet.com
 0.0.0.0 vetdeberg.com
 0.0.0.0 veteranpackersindia.com
+0.0.0.0 veterans.buzz
 0.0.0.0 veterinarypharmaceuticals.co.uk
 0.0.0.0 vethojoa.net
 0.0.0.0 vetlawnews.org
@@ -65692,6 +65699,7 @@
 0.0.0.0 www.moxfield.dev
 0.0.0.0 www.mozhtu.com
 0.0.0.0 www.mp3lovers.icu
+0.0.0.0 www.mpls.buzz
 0.0.0.0 www.mrsmatch.com
 0.0.0.0 www.ms-seo.com
 0.0.0.0 www.msdrone.net
@@ -65775,6 +65783,7 @@
 0.0.0.0 www.mzyoutube.com
 0.0.0.0 www.n3543eer.com
 0.0.0.0 www.nabbaseballsling.com
+0.0.0.0 www.nablagotdzn.com
 0.0.0.0 www.nablax.co.uk
 0.0.0.0 www.nacsandbox.com
 0.0.0.0 www.naggingirresponsible.com
@@ -68397,6 +68406,7 @@
 0.0.0.0 www.vestatube.store
 0.0.0.0 www.vestigechopped.com
 0.0.0.0 www.vestparticle.com
+0.0.0.0 www.veterans.buzz
 0.0.0.0 www.vets.buzz
 0.0.0.0 www.viabayonetsecretly.com
 0.0.0.0 www.vibrancesystems.com
@@ -70759,6 +70769,7 @@
 0.0.0.0 yyjvimo.com
 0.0.0.0 yymh853.com
 0.0.0.0 yynvtojgjlqwd.com
+0.0.0.0 yyofyejyynud.com
 0.0.0.0 yyptyrrjba.xyz
 0.0.0.0 yyrssdpbhdxbmru.xyz
 0.0.0.0 yyselrqpyu.com
