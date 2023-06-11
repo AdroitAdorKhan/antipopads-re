@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.162
 # Release: 162
-# Entries: 71,898
-# Updated: Sun, 11 Jun 23 18:07:26 +06
+# Entries: 71,899
+# Updated: Sun, 11 Jun 23 20:07:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -58811,6 +58811,7 @@
 0.0.0.0 vn.semifiboolongs.com
 0.0.0.0 vnbegthmqtdapep.com
 0.0.0.0 vnbgcquiihu.xyz
+0.0.0.0 vncgwubmrkw.com
 0.0.0.0 vneffwecka.com
 0.0.0.0 vnfunsvrtm.com
 0.0.0.0 vnfxmrfkjwirnfh.com
