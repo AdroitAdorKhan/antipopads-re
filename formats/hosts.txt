@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.163
 # Release: 163
-# Entries: 71,903
-# Updated: Mon, 12 Jun 23 02:07:18 +06
+# Entries: 71,905
+# Updated: Mon, 12 Jun 23 04:07:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3683,6 +3683,7 @@
 0.0.0.0 aeroselabite.space
 0.0.0.0 aerotowoutrush.website
 0.0.0.0 aerugosspritz.com
+0.0.0.0 aeryple.xyz
 0.0.0.0 aesand.com
 0.0.0.0 aesary.com
 0.0.0.0 aesaul.com
@@ -55292,6 +55293,7 @@
 0.0.0.0 trails8.com
 0.0.0.0 trainbooking.online
 0.0.0.0 trainersbob.online
+0.0.0.0 training-notes.com
 0.0.0.0 trainingdepartment.in
 0.0.0.0 trainingdesigned4u.net
 0.0.0.0 trainingdraught.com
