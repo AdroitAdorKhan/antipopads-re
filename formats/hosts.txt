@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.163
 # Release: 163
-# Entries: 71,902
-# Updated: Mon, 12 Jun 23 00:09:47 +06
+# Entries: 71,903
+# Updated: Mon, 12 Jun 23 02:07:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -46404,6 +46404,7 @@
 0.0.0.0 riskyenglishwreath.com
 0.0.0.0 risode.com
 0.0.0.0 risquedemence.ca
+0.0.0.0 ristorantemareprofondo.it
 0.0.0.0 riszvar.com
 0.0.0.0 ritap-pma.ru
 0.0.0.0 ritechimerasanctify.com
