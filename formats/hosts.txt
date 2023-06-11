@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.162
 # Release: 162
-# Entries: 71,899
-# Updated: Sun, 11 Jun 23 20:07:21 +06
+# Entries: 71,900
+# Updated: Sun, 11 Jun 23 22:16:38 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11472,6 +11472,7 @@
 0.0.0.0 cecitool.net
 0.0.0.0 cecmuthejooz.com
 0.0.0.0 cedarglenhomes.ca
+0.0.0.0 cedeimprovise.com
 0.0.0.0 cedejkgl.com
 0.0.0.0 cee-commodities.com
 0.0.0.0 cee3f0doi1a2.de
