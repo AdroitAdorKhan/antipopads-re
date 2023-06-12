@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.06.163
-# Release: 163
-# Entries: 72,202
-# Updated: Mon, 12 Jun 23 22:18:54 +06
+# Version: 23.06.164
+# Release: 164
+# Entries: 72,238
+# Updated: Tue, 13 Jun 23 00:10:15 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2817,6 +2817,7 @@
 0.0.0.0 acdcdn.com
 0.0.0.0 acdhahqc.com
 0.0.0.0 acdn.adnxs.com
+0.0.0.0 acdwbpxcw.com
 0.0.0.0 ace-europa.com
 0.0.0.0 aceadonis.tech
 0.0.0.0 acediscover.com
@@ -4282,6 +4283,7 @@
 0.0.0.0 aivdoyvicfn.com
 0.0.0.0 aivoonsa.xyz
 0.0.0.0 aivss8k.com
+0.0.0.0 aiwa-ae.com
 0.0.0.0 aiwhiksy.com
 0.0.0.0 aiwissen.com
 0.0.0.0 aiwozo.co.in
@@ -5474,6 +5476,7 @@
 0.0.0.0 aownrhqovggcltb.com
 0.0.0.0 aowubfoundation.com
 0.0.0.0 aowykupwwnqrg.xyz
+0.0.0.0 aoxtyivjpt.com
 0.0.0.0 aoxwjqbmbskoyca.com
 0.0.0.0 aoyhevunpc.top
 0.0.0.0 aozora-seikotsuin.com
@@ -6568,6 +6571,7 @@
 0.0.0.0 atozdocs.org
 0.0.0.0 atpanchama.com
 0.0.0.0 atpawniarda.com
+0.0.0.0 atpfowtcbsedv.xyz
 0.0.0.0 atqhqrcpxn.com
 0.0.0.0 atquvmlcjbctql.com
 0.0.0.0 atraichuor.com
@@ -9353,6 +9357,7 @@
 0.0.0.0 bmndugrupx.com
 0.0.0.0 bmo-secure.ca
 0.0.0.0 bmordsp.com
+0.0.0.0 bmpgkspo.xyz
 0.0.0.0 bmrrkksc.com
 0.0.0.0 bmtkcare.net
 0.0.0.0 bmtmicro.com
@@ -9401,6 +9406,7 @@
 0.0.0.0 bnvrluoltbnmrot.com
 0.0.0.0 bnvtpcltsgth.xyz
 0.0.0.0 bnxqignhikrjaf.com
+0.0.0.0 bnyubycowla.com
 0.0.0.0 bo.yoginsnorland.com
 0.0.0.0 bo2ffe45ss4gie.com
 0.0.0.0 bo4w0.cn
@@ -16817,6 +16823,7 @@
 0.0.0.0 dojoin.live
 0.0.0.0 dokaboka.com
 0.0.0.0 dokauzob.top
+0.0.0.0 dokhmacoining.com
 0.0.0.0 dokondigit.quest
 0.0.0.0 dokseptaufa.com
 0.0.0.0 dokterevelyneanggun.com
@@ -17075,6 +17082,7 @@
 0.0.0.0 dp00.cc
 0.0.0.0 dp25.kr
 0.0.0.0 dpbxtrqyljhse.xyz
+0.0.0.0 dpdcinlfynhg.xyz
 0.0.0.0 dpdnav.com
 0.0.0.0 dpdytjmcynvs.xyz
 0.0.0.0 dpefjzuq.com
@@ -17112,6 +17120,7 @@
 0.0.0.0 dqjouawswgmchn.com
 0.0.0.0 dqppjwqmtdfo.com
 0.0.0.0 dqsdpdofibwsjjg.xyz
+0.0.0.0 dqtemcjldltfa.com
 0.0.0.0 dqxbqubsknfc.com
 0.0.0.0 dr-apps.in
 0.0.0.0 dr.bensheacling.com
@@ -17615,6 +17624,7 @@
 0.0.0.0 dy.tuxedoswishers.com
 0.0.0.0 dyana.in
 0.0.0.0 dyanastudio.com
+0.0.0.0 dybjfcul.com
 0.0.0.0 dyboymmjkcn.com
 0.0.0.0 dyburu.com
 0.0.0.0 dybvjiclmsbpxq.com
@@ -18306,6 +18316,7 @@
 0.0.0.0 ehinkitwkuo.co
 0.0.0.0 ehjaeukm.com
 0.0.0.0 ehlogisticsconstruction.com
+0.0.0.0 ehmweuibiheq.com
 0.0.0.0 ehojam.com
 0.0.0.0 ehpnkugmfatoyhg.com
 0.0.0.0 ehqnheqa.com
@@ -19002,6 +19013,7 @@
 0.0.0.0 eoopersed.one
 0.0.0.0 eooperseducat.xyz
 0.0.0.0 eooslfyhziubo.com
+0.0.0.0 eopudxnabotrlsx.com
 0.0.0.0 eorcanada.com
 0.0.0.0 eoredi.com
 0.0.0.0 eoroxrooms.in.net
@@ -19519,6 +19531,7 @@
 0.0.0.0 euvrouhausens.life
 0.0.0.0 euwukuhxcgdw.com
 0.0.0.0 euxineknoit.space
+0.0.0.0 euytacbbl.com
 0.0.0.0 euz.net
 0.0.0.0 ev-lution-charge.com
 0.0.0.0 ev-lution-charger.com
@@ -19623,6 +19636,7 @@
 0.0.0.0 evists.com
 0.0.0.0 evitingawabi.com
 0.0.0.0 evitinghabnab.guru
+0.0.0.0 evjbuogwmlaxcql.xyz
 0.0.0.0 evjjewelry.com
 0.0.0.0 evjtloaxy.top
 0.0.0.0 evkamarek.com
@@ -25223,6 +25237,7 @@
 0.0.0.0 hbokbjjrllthdra.com
 0.0.0.0 hbpefund.com
 0.0.0.0 hbprodns28.com
+0.0.0.0 hbrdbegppjuaqj.xyz
 0.0.0.0 hbrphusgbhpjpi.com
 0.0.0.0 hbtnqagdiptv.com
 0.0.0.0 hbvcfund.com
@@ -26529,6 +26544,7 @@
 0.0.0.0 hqonlineporn.com
 0.0.0.0 hqpass.com
 0.0.0.0 hqpiibduci.xyz
+0.0.0.0 hqpsosgapieq.com
 0.0.0.0 hqqulwygpq.com
 0.0.0.0 hqquxxjrqy.top
 0.0.0.0 hqsrvwfk.xyz
@@ -26673,6 +26689,7 @@
 0.0.0.0 hublosk.com
 0.0.0.0 hubluminous.fun
 0.0.0.0 hubristambacs.com
+0.0.0.0 hubrpdegylgc.xyz
 0.0.0.0 hubsaints.com
 0.0.0.0 hubturn.info
 0.0.0.0 hubzozo.com
@@ -26744,6 +26761,7 @@
 0.0.0.0 humperdinck.xyz
 0.0.0.0 humpzip.com
 0.0.0.0 humsoolt.net
+0.0.0.0 humxrhvqm.com
 0.0.0.0 humyfra.com
 0.0.0.0 hunchmotherhooddefine.com
 0.0.0.0 hundredproductaffections.com
@@ -30690,6 +30708,7 @@
 0.0.0.0 kfkclxbmdptmehv.com
 0.0.0.0 kflyxfwgbesi.com
 0.0.0.0 kfnobisd.xyz
+0.0.0.0 kfuwkmsbwtve.com
 0.0.0.0 kfxbxfvlepv.xyz
 0.0.0.0 kg.flogspci.com
 0.0.0.0 kg.quinuaknife.com
@@ -33298,6 +33317,7 @@
 0.0.0.0 lovingacute.com
 0.0.0.0 lovingthings.org
 0.0.0.0 lovingyourchild.com
+0.0.0.0 lovltaankvakn.xyz
 0.0.0.0 lovthecov.org
 0.0.0.0 lowdodrioon.com
 0.0.0.0 lowdurantom.com
@@ -34638,6 +34658,7 @@
 0.0.0.0 mcfilmes.online
 0.0.0.0 mcfruta.com
 0.0.0.0 mcgbvjasbch.com
+0.0.0.0 mchrueirmky.com
 0.0.0.0 mciadjusters.com
 0.0.0.0 mcinyaqeaeyrhf.com
 0.0.0.0 mckensecuryr.info
@@ -35596,6 +35617,7 @@
 0.0.0.0 mlbrooklin.site
 0.0.0.0 mlcdjemrx.com
 0.0.0.0 mlfaijbtbspltlx.com
+0.0.0.0 mlhdmotenu.com
 0.0.0.0 mlhlqbdl.xyz
 0.0.0.0 mlknmxqbvo.com
 0.0.0.0 mlkpbktmqrsry.com
@@ -36302,6 +36324,7 @@
 0.0.0.0 msmelaw.org
 0.0.0.0 msmescaleupsummit.com
 0.0.0.0 mspqimyfhwxlv.com
+0.0.0.0 msqfvbfufkgye.com
 0.0.0.0 msrejection.com
 0.0.0.0 msrvt.net
 0.0.0.0 mstorer.net
@@ -37972,6 +37995,7 @@
 0.0.0.0 nkredir.com
 0.0.0.0 nkretnine.rs
 0.0.0.0 nkroeqnmekfj04gfe.com
+0.0.0.0 nksgxsgdejbkshx.com
 0.0.0.0 nkuejvqskxjgu.top
 0.0.0.0 nkuexguv.com
 0.0.0.0 nkwdqmfogrrpdlm.top
@@ -37984,6 +38008,7 @@
 0.0.0.0 nl.alkeneslaired.com
 0.0.0.0 nl.turnipsyoursel.com
 0.0.0.0 nlargeconsu.info
+0.0.0.0 nlbdrwydovuq.xyz
 0.0.0.0 nld0jsg9s9p8.com
 0.0.0.0 nljminvestments.com
 0.0.0.0 nljminvestments.net
@@ -39833,6 +39858,7 @@
 0.0.0.0 ophoadee.xyz
 0.0.0.0 ophophil.net
 0.0.0.0 ophophiz.xyz
+0.0.0.0 opibrcbr.com
 0.0.0.0 opinanttrabant.com
 0.0.0.0 opinionthroughambition.com
 0.0.0.0 oplo.org
@@ -40494,6 +40520,7 @@
 0.0.0.0 oxigeniawaters.com
 0.0.0.0 oxigeniosierra.com
 0.0.0.0 oxing.today
+0.0.0.0 oxkdcbdrh.com
 0.0.0.0 oxkxuvoecktrv.com
 0.0.0.0 oxlaiwhlx.com
 0.0.0.0 oxlandvoicing.digital
@@ -44485,6 +44512,7 @@
 0.0.0.0 qdobrvkddmlgyi.com
 0.0.0.0 qdoct.com
 0.0.0.0 qdurxkneqauxko.xyz
+0.0.0.0 qdvkwkuxvfk.com
 0.0.0.0 qdwhagire.com
 0.0.0.0 qdxvijfxaacmtn.com
 0.0.0.0 qe.naplesspeisage.com
@@ -44513,6 +44541,7 @@
 0.0.0.0 qfdcejjj.com
 0.0.0.0 qfdn3gyfbs.com
 0.0.0.0 qfg945v.com
+0.0.0.0 qfgeefewldr.com
 0.0.0.0 qfjherc.com
 0.0.0.0 qfoafjopdj.com
 0.0.0.0 qfpjlwpcwioo.com
@@ -45268,6 +45297,7 @@
 0.0.0.0 ratebilaterdea.com
 0.0.0.0 ratedphoto.com
 0.0.0.0 ratemytop.app
+0.0.0.0 rathelycornett.com
 0.0.0.0 ratherdroverather.com
 0.0.0.0 rathergist.com
 0.0.0.0 ratib.me
@@ -47402,6 +47432,7 @@
 0.0.0.0 rvclgritxcxioco.com
 0.0.0.0 rvddfchkj.xyz
 0.0.0.0 rveasqig.com
+0.0.0.0 rvfwjcvghfgrrq.com
 0.0.0.0 rvigxvvpkgvvbo.com
 0.0.0.0 rvjkblit.com
 0.0.0.0 rvmessage.online
@@ -54695,6 +54726,7 @@
 0.0.0.0 tj.xerickumni.com
 0.0.0.0 tjbbmwla.com
 0.0.0.0 tjclskcamptg.com
+0.0.0.0 tjevpqsuahhgit.com
 0.0.0.0 tjgoodwinandassociates.com
 0.0.0.0 tjhavwjd10.monster
 0.0.0.0 tjisenap.com
@@ -55952,6 +55984,7 @@
 0.0.0.0 trkunited.com
 0.0.0.0 trmnsite.com
 0.0.0.0 trmobc.com
+0.0.0.0 trmrmgdng.com
 0.0.0.0 trodpigbays.com
 0.0.0.0 troild.com
 0.0.0.0 trojan8.com
@@ -57571,6 +57604,7 @@
 0.0.0.0 ureshikame.com
 0.0.0.0 urgdom.com
 0.0.0.0 urgeutility.com
+0.0.0.0 urgmgrgagr.com
 0.0.0.0 urgoldpie.club
 0.0.0.0 urgpk.pro
 0.0.0.0 uriahboswell.top
@@ -62146,6 +62180,7 @@
 0.0.0.0 www.aiseav3.com
 0.0.0.0 www.aiss.ma
 0.0.0.0 www.aiv878.com
+0.0.0.0 www.aiwa-ae.com
 0.0.0.0 www.akhr5xusu.com
 0.0.0.0 www.akininducepredator.com
 0.0.0.0 www.akinrevenueexcited.com
@@ -70444,6 +70479,7 @@
 0.0.0.0 xpsboardpanel.com
 0.0.0.0 xpvacfxoup.com
 0.0.0.0 xpvojrfwabtkr.com
+0.0.0.0 xpxwecwpjgqwy.com
 0.0.0.0 xq.burgvaguity.com
 0.0.0.0 xqdcquggg.com
 0.0.0.0 xqeontmrvp.com
