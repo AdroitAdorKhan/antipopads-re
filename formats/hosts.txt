@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.163
 # Release: 163
-# Entries: 72,189
-# Updated: Mon, 12 Jun 23 18:08:02 +06
+# Entries: 72,190
+# Updated: Mon, 12 Jun 23 20:07:58 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -18400,6 +18400,7 @@
 0.0.0.0 ekkisan.com
 0.0.0.0 ekkpaxli.xyz
 0.0.0.0 eklavyabooks.co.in
+0.0.0.0 eklfuctjbwddgn.com
 0.0.0.0 ekmanch.in
 0.0.0.0 ekmas.com
 0.0.0.0 eknxcpevh.top
