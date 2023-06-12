@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.163
 # Release: 163
-# Entries: 72,005
-# Updated: Mon, 12 Jun 23 08:10:28 +06
+# Entries: 72,009
+# Updated: Mon, 12 Jun 23 10:07:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6215,6 +6215,7 @@
 0.0.0.0 ashtarakkat.info
 0.0.0.0 ashtecllc.com
 0.0.0.0 ashuagripackaging.com
+0.0.0.0 ashvem.com
 0.0.0.0 ashwagandha.co.in
 0.0.0.0 ashwinkoushan.in
 0.0.0.0 ashwith.com
@@ -10371,6 +10372,7 @@
 0.0.0.0 bunnymediaserver.com
 0.0.0.0 bunnynboo.com
 0.0.0.0 bunopot.com
+0.0.0.0 bunq-bericht.com
 0.0.0.0 bunq-verificatie.net
 0.0.0.0 bunquaver.com
 0.0.0.0 bunth.net
@@ -21855,6 +21857,7 @@
 0.0.0.0 frogleglepra.live
 0.0.0.0 frogrugby.com
 0.0.0.0 frogwokshive.com
+0.0.0.0 frokbsuagevsy.com
 0.0.0.0 frolicbrook.com
 0.0.0.0 frolicfarm.org
 0.0.0.0 frolichost.co.in
@@ -55143,6 +55146,7 @@
 0.0.0.0 towwserdil.com
 0.0.0.0 tox2.in
 0.0.0.0 toxicrookie.com
+0.0.0.0 toxpkfvuln.com
 0.0.0.0 toxqewor.xyz
 0.0.0.0 toyeworld.biz
 0.0.0.0 toyeworld.info
