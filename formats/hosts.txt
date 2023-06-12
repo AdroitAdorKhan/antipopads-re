@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.164
 # Release: 164
-# Entries: 72,238
-# Updated: Tue, 13 Jun 23 00:10:15 +06
+# Entries: 72,240
+# Updated: Tue, 13 Jun 23 02:07:42 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -23964,6 +23964,7 @@
 0.0.0.0 gorilysacken.website
 0.0.0.0 gorindol.net
 0.0.0.0 gorkt.com
+0.0.0.0 goro2023.online
 0.0.0.0 gorono.net
 0.0.0.0 gororn.com
 0.0.0.0 goround-metrics.com
@@ -37641,6 +37642,7 @@
 0.0.0.0 newworleanschimneysweep.com
 0.0.0.0 newxys9.com
 0.0.0.0 newyear3ar.com
+0.0.0.0 newyearsparties.us
 0.0.0.0 newyo.com
 0.0.0.0 newyorkcityburlesque.com
 0.0.0.0 newyorkimmigration.ca
