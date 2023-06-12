@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.163
 # Release: 163
-# Entries: 71,905
-# Updated: Mon, 12 Jun 23 04:07:26 +06
+# Entries: 71,915
+# Updated: Mon, 12 Jun 23 06:19:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2716,6 +2716,7 @@
 0.0.0.0 academyenrage.com
 0.0.0.0 academyforkids.ru
 0.0.0.0 academyhosting.com
+0.0.0.0 academyhosting.org
 0.0.0.0 academyofnewconsciousness.com
 0.0.0.0 acadmy.tech
 0.0.0.0 acalraiz.xyz
@@ -14982,6 +14983,7 @@
 0.0.0.0 dannytobok.com
 0.0.0.0 danonee.com
 0.0.0.0 dansanttina.com
+0.0.0.0 dansullivandc.com
 0.0.0.0 dantbritingd.club
 0.0.0.0 dantehair.co.uk
 0.0.0.0 danzabucks.com
@@ -38608,6 +38610,7 @@
 0.0.0.0 oasazedy.com
 0.0.0.0 oaseafood.org
 0.0.0.0 oasentsbrininner.com
+0.0.0.0 oasiscpprojects.co.uk
 0.0.0.0 oasisgoldagehome.org
 0.0.0.0 oasisvisas.com
 0.0.0.0 oasqrthubiub.com
@@ -38822,6 +38825,7 @@
 0.0.0.0 odentalindia.in
 0.0.0.0 odglhicarv.com
 0.0.0.0 odhebadolfnqgroaudbhjybtadfrurf.com
+0.0.0.0 odin.eco
 0.0.0.0 odinistromneya.com
 0.0.0.0 odinmagick.com
 0.0.0.0 odiochukwmd.xyz
@@ -40682,6 +40686,7 @@
 0.0.0.0 paperwork.tech
 0.0.0.0 papilio3glauecus.com
 0.0.0.0 papimikeofm.com
+0.0.0.0 papirzcech.com
 0.0.0.0 pappajoepizza.com
 0.0.0.0 pappibottoms.website
 0.0.0.0 papunk.com
@@ -43577,6 +43582,7 @@
 0.0.0.0 proyemetal.co
 0.0.0.0 prozessautomation.biz
 0.0.0.0 prozon.am
+0.0.0.0 prozoripvc.com
 0.0.0.0 prpbfltg.com
 0.0.0.0 prplad.com
 0.0.0.0 prpops.com
@@ -46744,6 +46750,7 @@
 0.0.0.0 rootstourism.eu
 0.0.0.0 rootuj.blog
 0.0.0.0 rootzaffiliates.com
+0.0.0.0 rootzone.in
 0.0.0.0 ropeanres.com
 0.0.0.0 ropedsawwort.com
 0.0.0.0 ropemoon.com
@@ -47294,6 +47301,7 @@
 0.0.0.0 ryminos.com
 0.0.0.0 rympsxilkdqywd.com
 0.0.0.0 ryntmyhahy.com
+0.0.0.0 ryptowallet.com
 0.0.0.0 ryretyequiremuke.info
 0.0.0.0 rysheatlengthani.com.ua
 0.0.0.0 rysheatlengthanl.xyz
@@ -47599,6 +47607,7 @@
 0.0.0.0 samsungdigitalservicecenter.in
 0.0.0.0 samtrg.com
 0.0.0.0 samtugli.net
+0.0.0.0 samuelmarcinko.com
 0.0.0.0 samuelphineasupham.com
 0.0.0.0 samuelson.insure
 0.0.0.0 samug.ca
@@ -60590,6 +60599,7 @@
 0.0.0.0 witalfieldt.com
 0.0.0.0 witchcraftbarterexploded.com
 0.0.0.0 witchdc.tech
+0.0.0.0 witeandgoldfashions.de.com
 0.0.0.0 with-agile.com
 0.0.0.0 withdrawcosmicabundant.com
 0.0.0.0 withdromnit.pro
