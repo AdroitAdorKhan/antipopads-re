@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.164
 # Release: 164
-# Entries: 72,334
-# Updated: Tue, 13 Jun 23 08:10:24 +06
+# Entries: 72,359
+# Updated: Tue, 13 Jun 23 10:07:37 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2823,6 +2823,7 @@
 0.0.0.0 acdwbpxcw.com
 0.0.0.0 ace-europa.com
 0.0.0.0 aceadonis.tech
+0.0.0.0 acebs.com
 0.0.0.0 acediscover.com
 0.0.0.0 aceekroo.net
 0.0.0.0 acefurn.in
@@ -8272,6 +8273,7 @@
 0.0.0.0 beniciademocrats.org
 0.0.0.0 benidorinor.com
 0.0.0.0 benignarrow.com
+0.0.0.0 benjaminmidlerlegacyfund.org
 0.0.0.0 benjaminyruti.com
 0.0.0.0 benmcdermott.net
 0.0.0.0 benndistributorstt.com
@@ -11874,6 +11876,7 @@
 0.0.0.0 chaquita.xyz
 0.0.0.0 chaqz.com
 0.0.0.0 characcaslon.com
+0.0.0.0 characterwatchesus.com
 0.0.0.0 charansparsh.com
 0.0.0.0 chareasilydrone.com
 0.0.0.0 chargebee.com
@@ -13590,6 +13593,7 @@
 0.0.0.0 connectad.io
 0.0.0.0 connectbusiness.tech
 0.0.0.0 connectedit.co
+0.0.0.0 connectfbf.com
 0.0.0.0 connectignite.com
 0.0.0.0 connectindian.com
 0.0.0.0 connectingresort.com
@@ -22221,6 +22225,7 @@
 0.0.0.0 futbolparatodos.club
 0.0.0.0 futbolparatodos.pro
 0.0.0.0 futbolparatodos.world
+0.0.0.0 futebolano.com
 0.0.0.0 futiledrugstore.com
 0.0.0.0 futill.com
 0.0.0.0 futsoksu.com
@@ -26941,6 +26946,7 @@
 0.0.0.0 hydrangealtd.co.uk
 0.0.0.0 hydraulic.am
 0.0.0.0 hydraulzonure.com
+0.0.0.0 hydrofoodie.com
 0.0.0.0 hydrogen-stations.com
 0.0.0.0 hydromot-motors.com
 0.0.0.0 hydroqc-service.net
@@ -27816,6 +27822,7 @@
 0.0.0.0 indianmedicalcongress.com
 0.0.0.0 indianoiladaniventures.net
 0.0.0.0 indianschool.net
+0.0.0.0 indiaoverlandassociation.net
 0.0.0.0 indiaoverlandsassociation.com
 0.0.0.0 indiaprdistribution.network
 0.0.0.0 indiaspecialtravels.com
@@ -29550,6 +29557,7 @@
 0.0.0.0 jinglei11.com
 0.0.0.0 jinjaoathful.uno
 0.0.0.0 jinkjgigbcrm.com
+0.0.0.0 jinnoniventures.com
 0.0.0.0 jinterests-1.com
 0.0.0.0 jinxrussian.com
 0.0.0.0 jiobt.com
@@ -36474,6 +36482,7 @@
 0.0.0.0 mulberryresultremoval.com
 0.0.0.0 mulciafdgu.xyz
 0.0.0.0 muldoon.org
+0.0.0.0 mulekick.org
 0.0.0.0 muletatyphic.com
 0.0.0.0 muleyyanky.website
 0.0.0.0 mullerjewelry.com
@@ -44241,6 +44250,7 @@
 0.0.0.0 pureitltd.com
 0.0.0.0 puremethstore.com
 0.0.0.0 pureparna.com
+0.0.0.0 purepowervision.com
 0.0.0.0 purercoming.digital
 0.0.0.0 purewatersolution.us
 0.0.0.0 purismsgenros.digital
@@ -50169,6 +50179,7 @@
 0.0.0.0 slotovo88.fun
 0.0.0.0 slotovo88.shop
 0.0.0.0 slots-demo-pragmatic.com
+0.0.0.0 slotsano.com
 0.0.0.0 slotsdemogratis.org
 0.0.0.0 slotsknowj.top
 0.0.0.0 slotumcasino.net
@@ -53208,6 +53219,7 @@
 0.0.0.0 tearpilotzoo.com
 0.0.0.0 teasacomsys.xyz
 0.0.0.0 teaser-mobile.com
+0.0.0.0 teaser.cc
 0.0.0.0 teasfwda.com
 0.0.0.0 teasimilarman.com
 0.0.0.0 teassaid.com
@@ -62815,6 +62827,7 @@
 0.0.0.0 www.benewclinic.net
 0.0.0.0 www.benfury.org
 0.0.0.0 www.benignarrow.com
+0.0.0.0 www.benjaminmidlerlegacyfund.org
 0.0.0.0 www.benjaminyruti.com
 0.0.0.0 www.bennetevidentlylog.com
 0.0.0.0 www.berger-ultimateillusionist.com
@@ -63292,6 +63305,7 @@
 0.0.0.0 www.chaos666.tech
 0.0.0.0 www.chapelcertain.com
 0.0.0.0 www.chaqz.com
+0.0.0.0 www.characterwatchesus.com
 0.0.0.0 www.chareasilydrone.com
 0.0.0.0 www.chargingconserve.com
 0.0.0.0 www.chargingexpressive.com
@@ -63560,6 +63574,7 @@
 0.0.0.0 www.conjunctionwitnessed.com
 0.0.0.0 www.conjureflurryunaccustomed.com
 0.0.0.0 www.connateautobiography.com
+0.0.0.0 www.connectfbf.com
 0.0.0.0 www.connectionblanket.com
 0.0.0.0 www.connectionblankets.com
 0.0.0.0 www.conquercaniceberg.com
@@ -64830,6 +64845,7 @@
 0.0.0.0 www.furrowparabledisplay.com
 0.0.0.0 www.fusionwishful.com
 0.0.0.0 www.fussassentlosing.com
+0.0.0.0 www.futebolano.com
 0.0.0.0 www.futvbol.net
 0.0.0.0 www.fuzzywardshoplifting.com
 0.0.0.0 www.g0td0main.com
@@ -65041,6 +65057,7 @@
 0.0.0.0 www.greatagriculture.org
 0.0.0.0 www.greatdexchange.com
 0.0.0.0 www.greatfxopbiz.net
+0.0.0.0 www.greatitlearnings.com
 0.0.0.0 www.greatsoftportal.fun
 0.0.0.0 www.greedevolution.com
 0.0.0.0 www.greenabysselaborate.com
@@ -65391,6 +65408,7 @@
 0.0.0.0 www.hxx6.com
 0.0.0.0 www.hybridgermandespicable.com
 0.0.0.0 www.hybridsoranges.com
+0.0.0.0 www.hydrofoodie.com
 0.0.0.0 www.hydroshop.com.au
 0.0.0.0 www.hyphenprovocationpout.com
 0.0.0.0 www.hypotheticallylistless.com
@@ -65501,6 +65519,7 @@
 0.0.0.0 www.indiahalalexpo.com
 0.0.0.0 www.indiahandmade.org
 0.0.0.0 www.indian-porn.top
+0.0.0.0 www.indiaoverlandassociation.net
 0.0.0.0 www.indiawaterintelligence.com
 0.0.0.0 www.indicatordevotedriver.com
 0.0.0.0 www.indifferencefeed.com
@@ -66607,6 +66626,7 @@
 0.0.0.0 www.mukhotebaaz.com
 0.0.0.0 www.mukmall.net
 0.0.0.0 www.mulberryresultremoval.com
+0.0.0.0 www.mulekick.org
 0.0.0.0 www.multibux-free.site
 0.0.0.0 www.multilinker.org
 0.0.0.0 www.multipledrawers.com
@@ -66619,6 +66639,7 @@
 0.0.0.0 www.mumsinbox.uk
 0.0.0.0 www.mupwj.org
 0.0.0.0 www.muralshelvesdeposition.com
+0.0.0.0 www.musamilionaria.com
 0.0.0.0 www.museradiant.com
 0.0.0.0 www.museumimpenetrablerepose.com
 0.0.0.0 www.mushroomphilosophicalincorrect.com
@@ -67003,6 +67024,7 @@
 0.0.0.0 www.ose.cpm.uy
 0.0.0.0 www.osmiorganizacionsorteomundialinformatico.org
 0.0.0.0 www.osnarep.de
+0.0.0.0 www.osnial.org
 0.0.0.0 www.ostentatiousmystery.com
 0.0.0.0 www.ostrichrockychaos.com
 0.0.0.0 www.otheradsads.xyz
@@ -67304,6 +67326,7 @@
 0.0.0.0 www.plantpreventioncrab.com
 0.0.0.0 www.plantravel.app
 0.0.0.0 www.plantsrancorous.com
+0.0.0.0 www.plasterartology.com
 0.0.0.0 www.plastexltalia.com
 0.0.0.0 www.platform-udcp.com
 0.0.0.0 www.platinorealestate.com
@@ -67588,6 +67611,7 @@
 0.0.0.0 www.purduegreeks.com
 0.0.0.0 www.pureitltd.com
 0.0.0.0 www.puremethstore.com
+0.0.0.0 www.purepowervision.com
 0.0.0.0 www.purple-pixie-studio.com
 0.0.0.0 www.purposelynextbinary.com
 0.0.0.0 www.purrbackground.com
@@ -68363,6 +68387,7 @@
 0.0.0.0 www.slipheirphysician.com
 0.0.0.0 www.slippersphoto.com
 0.0.0.0 www.slothsecurity.space
+0.0.0.0 www.slotsano.com
 0.0.0.0 www.slotsknowj.top
 0.0.0.0 www.sluicebigheartedpeevish.com
 0.0.0.0 www.sluiceliable.com
