@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.164
 # Release: 164
-# Entries: 72,537
-# Updated: Tue, 13 Jun 23 18:08:09 +06
+# Entries: 72,539
+# Updated: Tue, 13 Jun 23 20:20:42 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5393,6 +5393,7 @@
 0.0.0.0 antiliajizzen.com
 0.0.0.0 antinghua.com
 0.0.0.0 antio-nar.com
+0.0.0.0 antiquariancapricorn.com
 0.0.0.0 antiquariangerm.com
 0.0.0.0 antiquelongcaseclocks.com
 0.0.0.0 antiqueminefield.com
@@ -42949,6 +42950,7 @@
 0.0.0.0 pollingramblefunctions.com
 0.0.0.0 pollingsagacioustopple.com
 0.0.0.0 pollpublicly.com
+0.0.0.0 pollstover.guru
 0.0.0.0 polluxnetwork.com
 0.0.0.0 pololuxe.org
 0.0.0.0 polosoa.com
