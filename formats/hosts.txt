@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.164
 # Release: 164
-# Entries: 72,539
-# Updated: Tue, 13 Jun 23 20:20:42 +06
+# Entries: 72,541
+# Updated: Tue, 13 Jun 23 22:07:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10451,6 +10451,7 @@
 0.0.0.0 bunnynboo.com
 0.0.0.0 bunopot.com
 0.0.0.0 bunq-bericht.com
+0.0.0.0 bunq-messages.com
 0.0.0.0 bunq-verificatie.net
 0.0.0.0 bunquaver.com
 0.0.0.0 bunth.net
@@ -39543,6 +39544,7 @@
 0.0.0.0 olongercrak.xyz
 0.0.0.0 olongercrav.com.ua
 0.0.0.0 olpost.net
+0.0.0.0 olpxupvisl.com
 0.0.0.0 olqhulfpezp.com
 0.0.0.0 olqlpopji.com
 0.0.0.0 oltdkrjaibvfriv.com
