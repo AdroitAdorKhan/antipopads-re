@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.164
 # Release: 164
-# Entries: 72,240
-# Updated: Tue, 13 Jun 23 02:07:42 +06
+# Entries: 72,252
+# Updated: Tue, 13 Jun 23 06:23:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5773,6 +5773,7 @@
 0.0.0.0 aqualaneshores.life
 0.0.0.0 aqualodgekeys.com
 0.0.0.0 aqualogicswim.net
+0.0.0.0 aquamiro.com
 0.0.0.0 aquaplumbings.in
 0.0.0.0 aquascapereality.com
 0.0.0.0 aquaswim.co.in
@@ -6425,6 +6426,7 @@
 0.0.0.0 astroheal.in
 0.0.0.0 astroidpounce.life
 0.0.0.0 astrologiapatodos.com
+0.0.0.0 astrologycanada.ca
 0.0.0.0 astrologylive.online
 0.0.0.0 astrologypredictor.com
 0.0.0.0 astrologytellyou.com
@@ -12081,6 +12083,7 @@
 0.0.0.0 chiliadv.com
 0.0.0.0 chillcondole.com
 0.0.0.0 chilled.surf
+0.0.0.0 chillhomestudio.com
 0.0.0.0 chillylanguish.com
 0.0.0.0 chilversputum.uno
 0.0.0.0 chimaerason.com
@@ -21643,6 +21646,7 @@
 0.0.0.0 fostter.com
 0.0.0.0 fotbalgame.com
 0.0.0.0 foto-filmdesign.de
+0.0.0.0 fotoboxik.com
 0.0.0.0 fotoompi.com
 0.0.0.0 fotovoltaikasakumulaci.com
 0.0.0.0 fotsaulr.net
@@ -24527,6 +24531,7 @@
 0.0.0.0 gstegenie.com
 0.0.0.0 gstlaaqor.xyz
 0.0.0.0 gstnew.in
+0.0.0.0 gstreetcoop.org
 0.0.0.0 gsurjfkqpgoaeb.xyz
 0.0.0.0 gsvsmlphvh.top
 0.0.0.0 gsvyjunccsw.com
@@ -35268,6 +35273,7 @@
 0.0.0.0 michalkostic.com
 0.0.0.0 michalzajacek.com
 0.0.0.0 michealmoyite.com
+0.0.0.0 michelle-springfield.com
 0.0.0.0 michellejoseph.co
 0.0.0.0 michellelgaugy.com
 0.0.0.0 michellestorment.com
@@ -39408,6 +39414,7 @@
 0.0.0.0 omarcheopson.com
 0.0.0.0 omareeper.com
 0.0.0.0 omarkhalil.tech
+0.0.0.0 omartandcraft.in
 0.0.0.0 omasatra.com
 0.0.0.0 omatbkygxo.xyz
 0.0.0.0 omatri.info
@@ -41045,6 +41052,7 @@
 0.0.0.0 passedofferundertake.com
 0.0.0.0 passengersprehistoricrecast.com
 0.0.0.0 passenvyexisting.com
+0.0.0.0 passepartout-abn.it
 0.0.0.0 passeportnutrition.com
 0.0.0.0 passeura.com
 0.0.0.0 passfixx.com
@@ -47600,6 +47608,7 @@
 0.0.0.0 sacralcabaa.com
 0.0.0.0 sacrascalma.website
 0.0.0.0 sacrawasat.store
+0.0.0.0 sacred-journey.net
 0.0.0.0 sacredheartfloridagardens.org
 0.0.0.0 sacredperpetratorbasketball.com
 0.0.0.0 sacredspaceindia.com
@@ -48487,6 +48496,7 @@
 0.0.0.0 secureplustataplay.org
 0.0.0.0 secures-guvens-ticaret-alisveris.site
 0.0.0.0 secures-id00293.com
+0.0.0.0 secures-runescape.xyz
 0.0.0.0 securesmrt-dt.com
 0.0.0.0 securesurf.biz
 0.0.0.0 securetataplay.co.in
@@ -67035,6 +67045,7 @@
 0.0.0.0 www.passannouncing.com
 0.0.0.0 www.passdoorstepcol.com
 0.0.0.0 www.passengersprehistoricrecast.com
+0.0.0.0 www.passepartout-abn.it
 0.0.0.0 www.passeportnutrition.com
 0.0.0.0 www.passeura.com
 0.0.0.0 www.passive500.com
@@ -67924,6 +67935,7 @@
 0.0.0.0 www.saave.it
 0.0.0.0 www.sabongworlwide.live
 0.0.0.0 www.sac-games.com
+0.0.0.0 www.sacred-journey.net
 0.0.0.0 www.sadflannel.com
 0.0.0.0 www.sadnesscontemporary.com
 0.0.0.0 www.sadtriggerssupporter.com
