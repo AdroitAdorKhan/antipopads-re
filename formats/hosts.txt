@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.165
 # Release: 165
-# Entries: 72,544
-# Updated: Wed, 14 Jun 23 00:07:32 +06
+# Entries: 72,547
+# Updated: Wed, 14 Jun 23 02:07:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4478,6 +4478,7 @@
 0.0.0.0 alegnoackerg.com
 0.0.0.0 aleilu.com
 0.0.0.0 aleinvest.xyz
+0.0.0.0 alemaan.org
 0.0.0.0 alemagu.com
 0.0.0.0 alemna.co.uk
 0.0.0.0 alemna.uk
@@ -20611,6 +20612,7 @@
 0.0.0.0 feltlonelyand.xyz
 0.0.0.0 feluccahoit.com
 0.0.0.0 felupcuve.website
+0.0.0.0 femald.com
 0.0.0.0 femaleagentnetwork.com
 0.0.0.0 femalenurture.com
 0.0.0.0 femalepilesteering.com
@@ -22069,6 +22071,7 @@
 0.0.0.0 fryoresbawl.com
 0.0.0.0 frypanbushlet.com
 0.0.0.0 fryums.store
+0.0.0.0 fs-sywh.com
 0.0.0.0 fs.mayfishtakeout.com
 0.0.0.0 fs28999.com
 0.0.0.0 fsaiucsd.com
