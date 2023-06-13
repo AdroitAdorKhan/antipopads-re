@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.164
 # Release: 164
-# Entries: 72,359
-# Updated: Tue, 13 Jun 23 10:07:37 +06
+# Entries: 72,380
+# Updated: Tue, 13 Jun 23 12:07:19 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4125,6 +4125,7 @@
 0.0.0.0 ahxmarhuhak.com
 0.0.0.0 ai-ciso.com
 0.0.0.0 ai-code-ops.net
+0.0.0.0 ai-counsel.org
 0.0.0.0 ai-wolfs-academy.com
 0.0.0.0 ai.axwortbabysit.com
 0.0.0.0 ai1000xmind.com
@@ -16226,6 +16227,7 @@
 0.0.0.0 digitallucid.com
 0.0.0.0 digitalmediafans.com
 0.0.0.0 digitalmediapp.com
+0.0.0.0 digitalmuru.site
 0.0.0.0 digitalmusicradio.net
 0.0.0.0 digitalreservation.fun
 0.0.0.0 digitalsignatureonline.in
@@ -23706,6 +23708,7 @@
 0.0.0.0 godrejambivaliriviera.net
 0.0.0.0 godrejathena-indiranagar.co.in
 0.0.0.0 godrejblisskandivali.com
+0.0.0.0 godrejcorp.org
 0.0.0.0 godrejcrest-at-horizon.net
 0.0.0.0 godrejcrest-athorizon.net
 0.0.0.0 godrejcrestathorizon-wadala-dadar.net
@@ -34691,6 +34694,7 @@
 0.0.0.0 mbgbpatna.org.in
 0.0.0.0 mbgptxujm.com
 0.0.0.0 mbike-adventure.com
+0.0.0.0 mbiux.com
 0.0.0.0 mbkeferuw.com
 0.0.0.0 mbledeparatea.com
 0.0.0.0 mblink.in
@@ -35562,6 +35566,7 @@
 0.0.0.0 misry.net
 0.0.0.0 miss-cake.co.uk
 0.0.0.0 missav.com
+0.0.0.0 missav02.com
 0.0.0.0 missav2.com
 0.0.0.0 missav777.com
 0.0.0.0 missav8.com
@@ -35748,8 +35753,11 @@
 0.0.0.0 mnblinmmxpereq.com
 0.0.0.0 mnbvjhg.com
 0.0.0.0 mnclubkatud.com
+0.0.0.0 mndd1.app
 0.0.0.0 mndd10.app
 0.0.0.0 mndd3.app
+0.0.0.0 mndd4.app
+0.0.0.0 mndd8.app
 0.0.0.0 mneljcvkiwe.xyz
 0.0.0.0 mnemicguaza.cam
 0.0.0.0 mnetads.com
@@ -46751,6 +46759,7 @@
 0.0.0.0 rjkiqapybnkjie.com
 0.0.0.0 rjkxqf.cn
 0.0.0.0 rjlibjxyp.com
+0.0.0.0 rjmortgage.store
 0.0.0.0 rjrjvqvrepw.com
 0.0.0.0 rjsmaqdk.com
 0.0.0.0 rjsukhnkqcxc.com
@@ -60167,6 +60176,7 @@
 0.0.0.0 webfonts.co.kr
 0.0.0.0 webfusions.site
 0.0.0.0 webgains.com
+0.0.0.0 webgodaddy.site
 0.0.0.0 webhashtags.com
 0.0.0.0 webhawk.in
 0.0.0.0 webhit-now.com
@@ -62254,6 +62264,7 @@
 0.0.0.0 www.ahlanair.co.uk
 0.0.0.0 www.ahotelru.com
 0.0.0.0 www.ai-ciso.com
+0.0.0.0 www.ai-counsel.org
 0.0.0.0 www.aicfun.com
 0.0.0.0 www.aiconsciousness.net
 0.0.0.0 www.aicopywritersoftware.com
@@ -63978,6 +63989,7 @@
 0.0.0.0 www.digiroy.com
 0.0.0.0 www.digitalgood.news
 0.0.0.0 www.digitalgroupnow.com
+0.0.0.0 www.digitalmuru.site
 0.0.0.0 www.digiworkai.com
 0.0.0.0 www.dijiuyyyy.com
 0.0.0.0 www.dikediffidentsticker.com
@@ -64988,6 +65000,7 @@
 0.0.0.0 www.godrej-hillside3.com
 0.0.0.0 www.godrej-properties-hillside.com
 0.0.0.0 www.godrej-tropicalisle.org
+0.0.0.0 www.godrejcorp.org
 0.0.0.0 www.godrejinc.com
 0.0.0.0 www.godrejproperties-hill-side.com
 0.0.0.0 www.godrejproperties-hill-side.org
@@ -66513,6 +66526,7 @@
 0.0.0.0 www.mishapideal.com
 0.0.0.0 www.misplacebrokerscared.com
 0.0.0.0 www.miss-kenya.rainbow-solutions.tech
+0.0.0.0 www.missav02.com
 0.0.0.0 www.missav999.com
 0.0.0.0 www.missilesurvive.com
 0.0.0.0 www.missingsuperstition.com
@@ -66532,6 +66546,9 @@
 0.0.0.0 www.mmngqvbfuzenlk.com
 0.0.0.0 www.mmpcqstnkcelx.com
 0.0.0.0 www.mnagadex.org
+0.0.0.0 www.mndd1.app
+0.0.0.0 www.mndd4.app
+0.0.0.0 www.mndd8.app
 0.0.0.0 www.mnmoe.com
 0.0.0.0 www.mnuinfinity.com
 0.0.0.0 www.mocvanhi.net
@@ -67955,6 +67972,7 @@
 0.0.0.0 www.riverhawkhealthcare.com
 0.0.0.0 www.riverrunmhc.com
 0.0.0.0 www.riverrunmhc.org
+0.0.0.0 www.rjmortgage.store
 0.0.0.0 www.rkpharma.co.in
 0.0.0.0 www.rlg.coach
 0.0.0.0 www.rlg.world
@@ -69515,6 +69533,7 @@
 0.0.0.0 www.webbrowser-downloading.com
 0.0.0.0 www.webcube-dsp.jp
 0.0.0.0 www.webdisk.sportsonlineeventlive.xyz
+0.0.0.0 www.webgodaddy.site
 0.0.0.0 www.weblibras.com.br
 0.0.0.0 www.webmail.dimarabeh.com
 0.0.0.0 www.webmail.sportsonlineeventlive.xyz
@@ -69845,6 +69864,7 @@
 0.0.0.0 www.zjumpbyts.com
 0.0.0.0 www.zliabary.com
 0.0.0.0 www.zmw22.com
+0.0.0.0 www.zodo.store
 0.0.0.0 www.zonadedesmadre.com
 0.0.0.0 www.zoxford.com
 0.0.0.0 www.zqscore.news
@@ -72186,6 +72206,7 @@
 0.0.0.0 zobsaims.com
 0.0.0.0 zodo.co
 0.0.0.0 zodo.network
+0.0.0.0 zodo.store
 0.0.0.0 zoeaegyral.com
 0.0.0.0 zoeyfelix.com
 0.0.0.0 zofice.com
