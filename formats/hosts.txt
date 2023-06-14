@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.166
 # Release: 166
-# Entries: 72,726
-# Updated: Thu, 15 Jun 23 02:07:28 +06
+# Entries: 72,728
+# Updated: Thu, 15 Jun 23 04:19:05 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6499,6 +6499,7 @@
 0.0.0.0 asvvzezk.com
 0.0.0.0 aswaystumbly.com
 0.0.0.0 asweveglump.live
+0.0.0.0 asxjhqaey.com
 0.0.0.0 asyktkjf.xyz
 0.0.0.0 asyndiesserged.xyz
 0.0.0.0 asztalhoz.com
@@ -9664,6 +9665,7 @@
 0.0.0.0 bookljlihooli.com
 0.0.0.0 bookmanzyzzyva.com
 0.0.0.0 bookmarkpdf.com
+0.0.0.0 bookmeratrip.com
 0.0.0.0 bookmsg.com
 0.0.0.0 bookmycanadavisa.com
 0.0.0.0 bookmyhall.in
