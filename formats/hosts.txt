@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.165
 # Release: 165
-# Entries: 72,714
-# Updated: Wed, 14 Jun 23 20:19:38 +06
+# Entries: 72,718
+# Updated: Wed, 14 Jun 23 22:07:40 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4084,6 +4084,7 @@
 0.0.0.0 agweaaf.net
 0.0.0.0 agweaaf.org
 0.0.0.0 ahabcaca.com
+0.0.0.0 ahabmcdsrwlau.com
 0.0.0.0 ahacdn.me
 0.0.0.0 ahadsply.com
 0.0.0.0 ahagreatlypromised.com
@@ -33115,6 +33116,7 @@
 0.0.0.0 lltrsknoob.click
 0.0.0.0 llunlost.uno
 0.0.0.0 lluoiryhgbfef.com
+0.0.0.0 llwcfovpl.com
 0.0.0.0 llyighaboveth.com
 0.0.0.0 llykcdqkbl.xyz
 0.0.0.0 llyyxmav.xyz
@@ -53686,6 +53688,7 @@
 0.0.0.0 tenbowed.com
 0.0.0.0 tencableplug.com
 0.0.0.0 tend-new.com
+0.0.0.0 tendaggimercogliano.it
 0.0.0.0 tendencyexcavatornook.com
 0.0.0.0 tendencysanction.com
 0.0.0.0 tenderlyvenue.com
@@ -69165,6 +69168,7 @@
 0.0.0.0 www.temporarilyruinconsistent.com
 0.0.0.0 www.temporarylikewise.com
 0.0.0.0 www.temporaryvehiclerestraintsystems.co.uk
+0.0.0.0 www.tendaggimercogliano.it
 0.0.0.0 www.tendencysanction.com
 0.0.0.0 www.tenderlyvenue.com
 0.0.0.0 www.tengxunxinwen.com
