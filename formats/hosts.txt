@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.166
 # Release: 166
-# Entries: 72,728
-# Updated: Thu, 15 Jun 23 04:19:05 +06
+# Entries: 72,732
+# Updated: Thu, 15 Jun 23 06:07:41 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6034,6 +6034,7 @@
 0.0.0.0 armisticeexpress.com
 0.0.0.0 armlockyakker.com
 0.0.0.0 armoryleaseholder.com
+0.0.0.0 armoursviolino.com
 0.0.0.0 armovnamorava.com
 0.0.0.0 armpeeoy.com
 0.0.0.0 armpitappreciationeighty.com
@@ -7550,6 +7551,7 @@
 0.0.0.0 balbo.in
 0.0.0.0 balcekonspn.com
 0.0.0.0 balconhoist.com
+0.0.0.0 balconyparded.com
 0.0.0.0 balconypeer.com
 0.0.0.0 baldbaptismrisk.com
 0.0.0.0 baldeaglewaterskishows.com
@@ -25537,6 +25539,7 @@
 0.0.0.0 heartofwelcome.org
 0.0.0.0 heartparachutevictorious.com
 0.0.0.0 heartyhome.co.uk
+0.0.0.0 heartz.co.in
 0.0.0.0 heaterrobotscompute.com
 0.0.0.0 heathertravelledpast.com
 0.0.0.0 heatherulkugpp.com
@@ -56076,6 +56079,7 @@
 0.0.0.0 travelandfitnesslife.com
 0.0.0.0 travelaspora.com
 0.0.0.0 travelcentric.info
+0.0.0.0 traveless.in
 0.0.0.0 travelgeekcircle.com
 0.0.0.0 travelhermochas.com
 0.0.0.0 travelhive.us
