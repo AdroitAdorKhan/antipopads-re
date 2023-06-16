@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.168
 # Release: 168
-# Entries: 73,351
-# Updated: Sat, 17 Jun 23 02:19:12 +06
+# Entries: 73,353
+# Updated: Sat, 17 Jun 23 04:07:27 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4852,6 +4852,7 @@
 0.0.0.0 alraifutrading.com
 0.0.0.0 alramauae.com
 0.0.0.0 alreadyballetrenting.com
+0.0.0.0 alreau.com
 0.0.0.0 alrightastound.com
 0.0.0.0 alrightconsulatevarying.com
 0.0.0.0 alriyaee.com
@@ -12765,6 +12766,7 @@
 0.0.0.0 clearwateracademy.ca
 0.0.0.0 clearwatercigarcompany.com
 0.0.0.0 cleavepreoccupation.com
+0.0.0.0 cleaversince.com
 0.0.0.0 clecxiks.com
 0.0.0.0 cleenfi.com
 0.0.0.0 cleftinform.com
