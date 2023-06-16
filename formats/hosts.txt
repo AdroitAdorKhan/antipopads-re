@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.167
 # Release: 167
-# Entries: 73,336
-# Updated: Fri, 16 Jun 23 18:19:25 +06
+# Entries: 73,338
+# Updated: Fri, 16 Jun 23 20:08:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29371,6 +29371,7 @@
 0.0.0.0 jabailrjmywplv.top
 0.0.0.0 jabbingduskier.store
 0.0.0.0 jabcglufladxgj.xyz
+0.0.0.0 jabconnote.com
 0.0.0.0 jabdb007.com
 0.0.0.0 jabdb008.com
 0.0.0.0 jabddcgqjrvk.com
@@ -44333,6 +44334,7 @@
 0.0.0.0 prophecyrehabilitationcardboard.com
 0.0.0.0 prophetachybrief.com
 0.0.0.0 propjetdomain.website
+0.0.0.0 proponylisten.com
 0.0.0.0 propoorpolicy.org
 0.0.0.0 proposalpearlpleasantly.com
 0.0.0.0 proposedpartly.com
