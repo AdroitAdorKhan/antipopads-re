@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.168
 # Release: 168
-# Entries: 73,494
-# Updated: Sat, 17 Jun 23 12:07:43 +06
+# Entries: 73,540
+# Updated: Sat, 17 Jun 23 14:07:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -762,6 +762,7 @@
 0.0.0.0 258pcf.com
 0.0.0.0 25a9.com
 0.0.0.0 25aef220a1.com
+0.0.0.0 25news.live
 0.0.0.0 25obpfr.de
 0.0.0.0 25v7.com
 0.0.0.0 2621511.com
@@ -3901,6 +3902,8 @@
 0.0.0.0 afrigh.com
 0.0.0.0 afrikamaat.com
 0.0.0.0 afroamerica360.net
+0.0.0.0 afroamerica360.online
+0.0.0.0 afroamerica360.store
 0.0.0.0 afroamerica360.us
 0.0.0.0 afshanthough.pro
 0.0.0.0 afssdmin.com
@@ -3917,6 +3920,7 @@
 0.0.0.0 afterlabel.ru
 0.0.0.0 afterlight.store
 0.0.0.0 afterlyfinc.com
+0.0.0.0 afterpastimebottled.com
 0.0.0.0 afterthoughtdevil.com
 0.0.0.0 afterthoughthassledos.com
 0.0.0.0 afterusmusic.com
@@ -7844,6 +7848,7 @@
 0.0.0.0 baseballapproximately.com
 0.0.0.0 baseballkingacademy.org
 0.0.0.0 baseballswingline.com
+0.0.0.0 basebook.online
 0.0.0.0 basedcloudata.com
 0.0.0.0 baseduser.com
 0.0.0.0 basehotelhakuba.com
@@ -10003,6 +10008,7 @@
 0.0.0.0 brainlessshut.com
 0.0.0.0 brainlyads.com
 0.0.0.0 brainsensueddusty.com
+0.0.0.0 brainwasher.live
 0.0.0.0 brainwav.tech
 0.0.0.0 brairdcaratch.digital
 0.0.0.0 brajras.in.net
@@ -10588,6 +10594,7 @@
 0.0.0.0 burbushprogram.tech
 0.0.0.0 burdenasmetaphor.com
 0.0.0.0 burdensome-gene.pro
+0.0.0.0 burdiesbbq.com
 0.0.0.0 burdiesfogyish.com
 0.0.0.0 bureauxcope.casa
 0.0.0.0 burgerdc.com
@@ -14119,6 +14126,7 @@
 0.0.0.0 corrsnet.au
 0.0.0.0 corruptheedless.com
 0.0.0.0 corruptstruckgames.com
+0.0.0.0 corteon.online
 0.0.0.0 corylinstertor.digital
 0.0.0.0 coryljanty.cam
 0.0.0.0 coryzasaenean.website
@@ -18486,6 +18494,7 @@
 0.0.0.0 eergithi.com
 0.0.0.0 eerjrekklw.com
 0.0.0.0 eeroawug.com
+0.0.0.0 eeseh.one
 0.0.0.0 eesfeakqbysbt.com
 0.0.0.0 eesfljfqg.top
 0.0.0.0 eeshemto.com
@@ -23364,6 +23373,7 @@
 0.0.0.0 ggkan5.com
 0.0.0.0 ggkhgqhnspc.com
 0.0.0.0 ggkk.xyz
+0.0.0.0 ggknkowmh.com
 0.0.0.0 gglx.me
 0.0.0.0 ggmibcjv.com
 0.0.0.0 ggqppaiglthoq.com
@@ -24630,6 +24640,7 @@
 0.0.0.0 greatbonushere.life
 0.0.0.0 greatcpm.com
 0.0.0.0 greatdexchange.com
+0.0.0.0 greaterpacific.solutions
 0.0.0.0 greaterwashingtondchomes.com
 0.0.0.0 greatescapesworldtravel.org
 0.0.0.0 greatestquaint.com
@@ -25532,6 +25543,7 @@
 0.0.0.0 harshassociates.co.in
 0.0.0.0 harshit.ly
 0.0.0.0 harshlygiraffediscover.com
+0.0.0.0 harshvardhansingh.tech
 0.0.0.0 harsik.am
 0.0.0.0 hartalltunker.com
 0.0.0.0 hartattenuate.com
@@ -35200,6 +35212,7 @@
 0.0.0.0 mazdeansteres.digital
 0.0.0.0 maze4aem56jf.com
 0.0.0.0 mazertahil.store
+0.0.0.0 mazinger.fun
 0.0.0.0 mazzakingsbury.co.uk
 0.0.0.0 mb-npltfpro.com
 0.0.0.0 mb.crumcolyone.com
@@ -37657,6 +37670,7 @@
 0.0.0.0 nameluxuries.com
 0.0.0.0 namelymutiny.com
 0.0.0.0 namesakeoscilloscopemarquis.com
+0.0.0.0 nameserver-ops.live
 0.0.0.0 namesexual.com
 0.0.0.0 nameshame.online
 0.0.0.0 namespinner.ai
@@ -37966,6 +37980,7 @@
 0.0.0.0 neetoutoo.com
 0.0.0.0 neewhoum.net
 0.0.0.0 neezausu.net
+0.0.0.0 nefariousattire.store
 0.0.0.0 nefbmymjbmv.top
 0.0.0.0 nefdcnmvbt.com
 0.0.0.0 neffor.com
@@ -38025,6 +38040,7 @@
 0.0.0.0 neoaginglabs.com
 0.0.0.0 neobiobank.us.com
 0.0.0.0 neocounter.net
+0.0.0.0 neofi.lol
 0.0.0.0 neog.cam
 0.0.0.0 neogaeakasher.com
 0.0.0.0 neolegalindia.com
@@ -45782,6 +45798,7 @@
 0.0.0.0 qysxcxnk.com
 0.0.0.0 qyt520.com
 0.0.0.0 qytmshpjkpjtqp.com
+0.0.0.0 qyuywmiskxya.xyz
 0.0.0.0 qyvjtmdpngs.com
 0.0.0.0 qyvrjfajcqglm.top
 0.0.0.0 qyxwfe.com
@@ -46410,6 +46427,7 @@
 0.0.0.0 recommenddoor.com
 0.0.0.0 recommendedforyou.xyz
 0.0.0.0 recommendedlab.com
+0.0.0.0 recommendedseizedbewildered.com
 0.0.0.0 recompensecombinedlooks.com
 0.0.0.0 reconsiderallowinggunfire.com
 0.0.0.0 recordeditionneedful.com
@@ -47344,6 +47362,7 @@
 0.0.0.0 rigedelip92.xyz
 0.0.0.0 rigelbetelgeuse.top
 0.0.0.0 rigfoxcup.site
+0.0.0.0 riggedlove.live
 0.0.0.0 rightenedetu.site
 0.0.0.0 righteouscentral.com
 0.0.0.0 rightfuldisintegrate.com
@@ -48090,6 +48109,7 @@
 0.0.0.0 rtty.in
 0.0.0.0 rtukadwza.com
 0.0.0.0 rtunitytostar.com
+0.0.0.0 rtwewgbk.com
 0.0.0.0 rtwupfly.com
 0.0.0.0 rtybuclmy.com
 0.0.0.0 rtyfdsaaan.com
@@ -49203,6 +49223,7 @@
 0.0.0.0 sdnygannce.com
 0.0.0.0 sdrtimn.com
 0.0.0.0 sds376.com
+0.0.0.0 sdstest.site
 0.0.0.0 sdsttt.com
 0.0.0.0 sduaygmy.xyz
 0.0.0.0 sdukljbsfqdn.com
@@ -49267,6 +49288,7 @@
 0.0.0.0 secondboy.pro
 0.0.0.0 secondchancerent.com
 0.0.0.0 secondcommander.com
+0.0.0.0 secondgod.online
 0.0.0.0 secondhand.click
 0.0.0.0 secondlytorch.com
 0.0.0.0 secondspain.es
@@ -50665,6 +50687,7 @@
 0.0.0.0 sitaopiqure.com
 0.0.0.0 sitbdigj.com
 0.0.0.0 sitdoobly.com
+0.0.0.0 sitebro.com.tw
 0.0.0.0 sitefeytout.com
 0.0.0.0 siteforyou1d.com
 0.0.0.0 sitegoto.com
@@ -51981,6 +52004,7 @@
 0.0.0.0 spotrails.com
 0.0.0.0 spotruth.org
 0.0.0.0 spotscenered.info
+0.0.0.0 spotshop.tech
 0.0.0.0 spottednoise.com
 0.0.0.0 spottsenommu.com
 0.0.0.0 spottt.com
@@ -52398,6 +52422,7 @@
 0.0.0.0 steel-bluebc.us
 0.0.0.0 steelbluebc.us
 0.0.0.0 steeleslaw.ca
+0.0.0.0 steelfiles.in
 0.0.0.0 steelroofing.uk
 0.0.0.0 steelsindia.online
 0.0.0.0 steelsindia.site
@@ -60710,6 +60735,7 @@
 0.0.0.0 walityworial.com
 0.0.0.0 walkamorous.com
 0.0.0.0 walkedcreak.com
+0.0.0.0 walkfree.net
 0.0.0.0 walkinggalicia.com
 0.0.0.0 walkinggrandparents.com
 0.0.0.0 walkinghonoured.com
@@ -62774,6 +62800,7 @@
 0.0.0.0 www.23jhavsjda2.monster
 0.0.0.0 www.242ef57d.com
 0.0.0.0 www.245-animax.gdmig-animax.com
+0.0.0.0 www.25news.live
 0.0.0.0 www.25v7.com
 0.0.0.0 www.2621511.com
 0.0.0.0 www.28388508.com
@@ -63224,6 +63251,8 @@
 0.0.0.0 www.africareview.ajaydubey.in
 0.0.0.0 www.africatraveling.com
 0.0.0.0 www.afrikamaat.com
+0.0.0.0 www.afroamerica360.online
+0.0.0.0 www.afroamerica360.store
 0.0.0.0 www.afterwardcounsel.com
 0.0.0.0 www.afterwardspenal.com
 0.0.0.0 www.againboundless.com
@@ -63752,6 +63781,7 @@
 0.0.0.0 www.basascibilir.com
 0.0.0.0 www.base31venues.com
 0.0.0.0 www.baseballkingacademy.org
+0.0.0.0 www.basebook.online
 0.0.0.0 www.basehotelhakuba.com
 0.0.0.0 www.baseleagueagree.com
 0.0.0.0 www.bashnourish.com
@@ -64045,6 +64075,7 @@
 0.0.0.0 www.braggingdistinguished.com
 0.0.0.0 www.brainable.org
 0.0.0.0 www.brainlessshut.com
+0.0.0.0 www.brainwasher.live
 0.0.0.0 www.brakescucumbersubjects.com
 0.0.0.0 www.brandingandmarketingcoach.com
 0.0.0.0 www.brandinventorgenetically.com
@@ -65279,6 +65310,7 @@
 0.0.0.0 www.educationalreasearch001.online
 0.0.0.0 www.edupro.world
 0.0.0.0 www.eegookiz.com
+0.0.0.0 www.eeseh.one
 0.0.0.0 www.eez.gi
 0.0.0.0 www.effacedefend.com
 0.0.0.0 www.effectdrape.com
@@ -65968,6 +66000,7 @@
 0.0.0.0 www.gigertreqwer.com
 0.0.0.0 www.gigrr.app
 0.0.0.0 www.gildspectrum.com
+0.0.0.0 www.gilzzxds.tech
 0.0.0.0 www.gingercompute.com
 0.0.0.0 www.gingergreen.org
 0.0.0.0 www.ginnymulberryincompetent.com
@@ -66088,6 +66121,7 @@
 0.0.0.0 www.grdgroupscom.com
 0.0.0.0 www.greatagriculture.org
 0.0.0.0 www.greatdexchange.com
+0.0.0.0 www.greaterpacific.solutions
 0.0.0.0 www.greatfxopbiz.net
 0.0.0.0 www.greatitlearnings.com
 0.0.0.0 www.greatsoftportal.fun
@@ -66204,6 +66238,7 @@
 0.0.0.0 www.harlanbullock.com
 0.0.0.0 www.harmoniouspacific.com
 0.0.0.0 www.harshlygiraffediscover.com
+0.0.0.0 www.harshvardhansingh.tech
 0.0.0.0 www.harsik.am
 0.0.0.0 www.hartattenuate.com
 0.0.0.0 www.harvice.net
@@ -67447,6 +67482,7 @@
 0.0.0.0 www.maxxstore.net
 0.0.0.0 www.mayhemreconcileneutral.com
 0.0.0.0 www.mayhemsixtydeserves.com
+0.0.0.0 www.mazinger.fun
 0.0.0.0 www.mbebe-store.com
 0.0.0.0 www.mbtsz.xyz
 0.0.0.0 www.mciadjusters.com
@@ -67765,6 +67801,7 @@
 0.0.0.0 www.namasteswasth.com
 0.0.0.0 www.namelessably.com
 0.0.0.0 www.namelymutiny.com
+0.0.0.0 www.nameserver-ops.live
 0.0.0.0 www.namesexual.com
 0.0.0.0 www.namethisperson.com
 0.0.0.0 www.nammalvar.net
@@ -67795,6 +67832,7 @@
 0.0.0.0 www.necessaryescort.com
 0.0.0.0 www.necessityalternativebigot.com
 0.0.0.0 www.needfulerasemidland.com
+0.0.0.0 www.nefariousattire.store
 0.0.0.0 www.nefos.org.uk
 0.0.0.0 www.negativehorriblecrumple.com
 0.0.0.0 www.neglectdrivingalertness.com
@@ -67802,6 +67840,7 @@
 0.0.0.0 www.neitherpennylack.com
 0.0.0.0 www.neitherpossessedset.com
 0.0.0.0 www.neixue.org
+0.0.0.0 www.neofi.lol
 0.0.0.0 www.neonitedev.live
 0.0.0.0 www.neonmath.school
 0.0.0.0 www.neonmath.site
@@ -68456,6 +68495,7 @@
 0.0.0.0 www.pop-bob.com
 0.0.0.0 www.poplarwindowsmasculine.com
 0.0.0.0 www.popularitydrewdetestable.com
+0.0.0.0 www.popupmanager.corteon.online
 0.0.0.0 www.porepoise.com
 0.0.0.0 www.porkamendableautomobile.com
 0.0.0.0 www.pornaddictionintensive.net
@@ -69005,6 +69045,7 @@
 0.0.0.0 www.riffdepot.com
 0.0.0.0 www.rifleimpenetrable.com
 0.0.0.0 www.riftindexesyourself.com
+0.0.0.0 www.riggedlove.live
 0.0.0.0 www.rightfuldisintegrate.com
 0.0.0.0 www.rightfulstudioshades.com
 0.0.0.0 www.rightypulverizetea.com
@@ -69202,6 +69243,7 @@
 0.0.0.0 www.sddzchcs.com
 0.0.0.0 www.sdjhfsjdfii7.monster
 0.0.0.0 www.sdjhsbjdfsdf6.monster
+0.0.0.0 www.sdstest.site
 0.0.0.0 www.seafoodclickwaited.com
 0.0.0.0 www.seailluminateddeplete.com
 0.0.0.0 www.sealedsimplicitynoun.com
@@ -69213,6 +69255,7 @@
 0.0.0.0 www.secondaryobedience.com
 0.0.0.0 www.secondchancerent.com
 0.0.0.0 www.secondcommander.com
+0.0.0.0 www.secondgod.online
 0.0.0.0 www.secondlytorch.com
 0.0.0.0 www.secondwindhealing.com
 0.0.0.0 www.secrettips.xyz
@@ -69421,6 +69464,7 @@
 0.0.0.0 www.sirudhaaniyafoods.com
 0.0.0.0 www.sis001h1s2.com
 0.0.0.0 www.sistercomb.com
+0.0.0.0 www.sitebro.com.tw
 0.0.0.0 www.siteminderusa.com
 0.0.0.0 www.sitiosaojorge.com.br
 0.0.0.0 www.siwifis.net
@@ -69590,6 +69634,7 @@
 0.0.0.0 www.spookybirch.com
 0.0.0.0 www.spoonsriddle.com
 0.0.0.0 www.sportsheim.store
+0.0.0.0 www.spotshop.tech
 0.0.0.0 www.spotunworthycoercive.com
 0.0.0.0 www.spouttheory.com
 0.0.0.0 www.sprains.xyz
@@ -70560,6 +70605,7 @@
 0.0.0.0 www.waitedsnickrancorous.com
 0.0.0.0 www.waiterregistrydelusional.com
 0.0.0.0 www.walkamorous.com
+0.0.0.0 www.walkfree.net
 0.0.0.0 www.walkinggrandparents.com
 0.0.0.0 www.wallpaperanime.xyz
 0.0.0.0 www.walnutdescendant.com
