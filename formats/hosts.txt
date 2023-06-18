@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.170
 # Release: 170
-# Entries: 73,952
-# Updated: Mon, 19 Jun 23 00:18:40 +06
+# Entries: 73,955
+# Updated: Mon, 19 Jun 23 04:07:13 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15648,6 +15648,7 @@
 0.0.0.0 ddpvnqtpdqid.xyz
 0.0.0.0 ddrsemxv.com
 0.0.0.0 ddrvybof.xyz
+0.0.0.0 ddsee.top
 0.0.0.0 ddsm.sn
 0.0.0.0 ddtbrasil.com.br
 0.0.0.0 ddwdfbsjcfksr.com
@@ -49373,6 +49374,7 @@
 0.0.0.0 scotcheliza.com
 0.0.0.0 scotlandpt.com
 0.0.0.0 scotlynn.us
+0.0.0.0 scottbiddle.com
 0.0.0.0 scottishallotments.co.uk
 0.0.0.0 scottishindependenceday.scot
 0.0.0.0 scottpubs.com
@@ -57956,6 +57958,7 @@
 0.0.0.0 tynt.com
 0.0.0.0 tynulis.top
 0.0.0.0 tyocsjrfqsjipq.com
+0.0.0.0 typablecyclide.com
 0.0.0.0 typerealisepredict.com
 0.0.0.0 typescoordinate.com
 0.0.0.0 typhonwave.com
