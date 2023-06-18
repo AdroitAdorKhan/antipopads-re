@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.169
 # Release: 169
-# Entries: 73,919
-# Updated: Sun, 18 Jun 23 20:07:29 +06
+# Entries: 73,920
+# Updated: Sun, 18 Jun 23 22:07:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -23005,6 +23005,7 @@
 0.0.0.0 gaspbandy.com
 0.0.0.0 gaspcultivateclassroom.com
 0.0.0.0 gaspedcloakroom.com
+0.0.0.0 gastersliddry.com
 0.0.0.0 gasylicyg1e8n6po.com
 0.0.0.0 gatedpeople.net
 0.0.0.0 gateslyricsperpendicular.com
