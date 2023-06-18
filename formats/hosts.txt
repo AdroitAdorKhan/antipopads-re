@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.169
 # Release: 169
-# Entries: 73,761
-# Updated: Sun, 18 Jun 23 12:07:15 +06
+# Entries: 73,821
+# Updated: Sun, 18 Jun 23 14:07:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -730,6 +730,7 @@
 0.0.0.0 23xrp.com
 0.0.0.0 23xrp.net
 0.0.0.0 23xrp.pro
+0.0.0.0 24-366.com
 0.0.0.0 24-sportnews.com
 0.0.0.0 241xxx.com
 0.0.0.0 242d9882a2.com
@@ -4122,6 +4123,7 @@
 0.0.0.0 ahadsply.com
 0.0.0.0 ahagreatlypromised.com
 0.0.0.0 ahaheartburndo.com
+0.0.0.0 ahamshoonyam.com
 0.0.0.0 ahaqua.in
 0.0.0.0 ahaurgoo.net
 0.0.0.0 ahavaakites.com
@@ -9292,6 +9294,7 @@
 0.0.0.0 blancoshrimp.com
 0.0.0.0 bland-husband.com
 0.0.0.0 blaneo.com
+0.0.0.0 blanketlaundry.com
 0.0.0.0 blanketsigh.com
 0.0.0.0 blastcahs.com
 0.0.0.0 blastidanergic.com
@@ -9783,6 +9786,7 @@
 0.0.0.0 booknower.com
 0.0.0.0 bookodus.xyz
 0.0.0.0 bookpostponemoreover.com
+0.0.0.0 bookremo.com
 0.0.0.0 books.berlin
 0.0.0.0 booksandcompany.uk
 0.0.0.0 bookserf.com
@@ -16205,6 +16209,7 @@
 0.0.0.0 deusholds.online
 0.0.0.0 deusnihilo.com
 0.0.0.0 deuted.com
+0.0.0.0 deutsch-lola.com
 0.0.0.0 deutschlander.in
 0.0.0.0 dev-testing-00001.store
 0.0.0.0 dev0.buzz
@@ -18482,6 +18487,7 @@
 0.0.0.0 eduedgebd.com
 0.0.0.0 edufound.org
 0.0.0.0 eduoage.org
+0.0.0.0 eduprepcorz.com
 0.0.0.0 edupro.world
 0.0.0.0 eduprotips.xyz
 0.0.0.0 edushohor.com
@@ -19450,6 +19456,7 @@
 0.0.0.0 epjwugocpvan.xyz
 0.0.0.0 epjynjdjxxtmftk.xyz
 0.0.0.0 epkmekuwwmdlor.xyz
+0.0.0.0 eplana.net
 0.0.0.0 eplclp.com
 0.0.0.0 eplexportal.com
 0.0.0.0 epli.cl
@@ -19910,6 +19917,7 @@
 0.0.0.0 europavintage.net
 0.0.0.0 europe-daily.org
 0.0.0.0 europe-menu.com
+0.0.0.0 europeall.online
 0.0.0.0 europeanbubblyclosed.com
 0.0.0.0 europeanconvertiblerepeatedly.com
 0.0.0.0 europeanurinebanana.com
@@ -20527,6 +20535,7 @@
 0.0.0.0 fajrufqpu.com
 0.0.0.0 fakeallow.com
 0.0.0.0 fakebelts.ru
+0.0.0.0 fakedesigner.org
 0.0.0.0 fakeerupriser.com
 0.0.0.0 fakepredatorybogusjournals.com
 0.0.0.0 fakepredatorybogusjournals.org
@@ -21025,6 +21034,7 @@
 0.0.0.0 festival-gnaoua.info
 0.0.0.0 festival-gnaoua.org
 0.0.0.0 festivaldecine.cc
+0.0.0.0 festivaldumpster.com
 0.0.0.0 festivalexcitinghypocrisy.com
 0.0.0.0 festivalgnaoua.info
 0.0.0.0 festivals.company
@@ -22746,6 +22756,7 @@
 0.0.0.0 g8ball.com
 0.0.0.0 g91games.com
 0.0.0.0 ga-ads.com
+0.0.0.0 gaadiwala.net
 0.0.0.0 gaastnqduvter.com
 0.0.0.0 gabentres.com
 0.0.0.0 gabnsger.com
@@ -26618,6 +26629,7 @@
 0.0.0.0 holict.com
 0.0.0.0 holidaybuddy.in
 0.0.0.0 holidaydirectuk.com
+0.0.0.0 holidaydumpster.com
 0.0.0.0 holidaytvnetwork.com
 0.0.0.0 holiestcoseys.com
 0.0.0.0 holistic-naturopath.com
@@ -27246,6 +27258,7 @@
 0.0.0.0 hughrtaylor.com
 0.0.0.0 hugobernier.blog
 0.0.0.0 hugojmoran.com
+0.0.0.0 hugorcht.tech
 0.0.0.0 hugorelease.com
 0.0.0.0 hugregregy.pro
 0.0.0.0 hugsgnome.com
@@ -27878,6 +27891,7 @@
 0.0.0.0 ih.metingsaeta.com
 0.0.0.0 ih.valleyneatens.com
 0.0.0.0 ihack-apple.com
+0.0.0.0 ihack-mac.com
 0.0.0.0 ihafiwuxeu.com
 0.0.0.0 ihauvogh.com
 0.0.0.0 ihcqwgaahf.com
@@ -28212,6 +28226,7 @@
 0.0.0.0 imxhirrqagtjwd.com
 0.0.0.0 imxlwopst.com
 0.0.0.0 imycnxhgen.com
+0.0.0.0 imyml.com
 0.0.0.0 in-appadvertising.com
 0.0.0.0 in-computer.com
 0.0.0.0 in-page-push.com
@@ -33130,6 +33145,7 @@
 0.0.0.0 liberalblackened.com
 0.0.0.0 liberalmuhafazakarkomunistparti.com
 0.0.0.0 liberia.artertapirus.com
+0.0.0.0 liberty-homestead.com
 0.0.0.0 libertychurchwashington.com
 0.0.0.0 libertystmedia.com
 0.0.0.0 libertywallow.com
@@ -35411,6 +35427,7 @@
 0.0.0.0 mdigitalstore.online
 0.0.0.0 mdkkbrbhlji.com
 0.0.0.0 mdkycodubgvms.com
+0.0.0.0 mdm.org.in
 0.0.0.0 mdn2015x1.com
 0.0.0.0 mdojkjdnnykhk.com
 0.0.0.0 mdpprogressives.org
@@ -38864,6 +38881,7 @@
 0.0.0.0 noabusers.xyz
 0.0.0.0 noahilum.net
 0.0.0.0 noaiaft.com
+0.0.0.0 noakhalishop.com
 0.0.0.0 noalts.tech
 0.0.0.0 noamiscience.pro
 0.0.0.0 noanawie.com
@@ -40483,6 +40501,7 @@
 0.0.0.0 only-dans.us
 0.0.0.0 only-fans.net
 0.0.0.0 only1christyturnquist.com
+0.0.0.0 only2genders.org
 0.0.0.0 only4vips.shop
 0.0.0.0 onlydads.ltd
 0.0.0.0 onlydesiporn.pro
@@ -41789,6 +41808,7 @@
 0.0.0.0 parkdumbest.com
 0.0.0.0 parkecountybustours.com
 0.0.0.0 parkedcheerful.com
+0.0.0.0 parkera.tech
 0.0.0.0 parkingcrew.net
 0.0.0.0 parkingdeceaseddoctrine.com
 0.0.0.0 parkingridiculous.com
@@ -42244,6 +42264,7 @@
 0.0.0.0 peezette-intial.com
 0.0.0.0 pegablackjal.com
 0.0.0.0 pegasuson.com
+0.0.0.0 pegfly.com
 0.0.0.0 peggedperfins.com
 0.0.0.0 pegloang.com
 0.0.0.0 pegpot.com
@@ -51389,6 +51410,7 @@
 0.0.0.0 smsenterprises.in
 0.0.0.0 smsguru.net
 0.0.0.0 smssexygirls.com
+0.0.0.0 smtravelworld.com
 0.0.0.0 smugbeautiful.pro
 0.0.0.0 smuggather.pro
 0.0.0.0 smuggledistance.com
@@ -52360,6 +52382,7 @@
 0.0.0.0 stabilityvatinventory.com
 0.0.0.0 stabledkindler.com
 0.0.0.0 stablever.site
+0.0.0.0 stabmesaveme.com
 0.0.0.0 stackattacka.com
 0.0.0.0 stackfadingdefend.com
 0.0.0.0 stacklegion.com
@@ -52997,6 +53020,7 @@
 0.0.0.0 subeditatresic.com
 0.0.0.0 subeu.rollserver.xyz
 0.0.0.0 subgitrelais.com
+0.0.0.0 subhadrangifoundation.com
 0.0.0.0 subhadraprecast.com
 0.0.0.0 subinternext.us
 0.0.0.0 subjectsextended.com
@@ -53402,6 +53426,7 @@
 0.0.0.0 sv.weanersporta.com
 0.0.0.0 svarajwens.com
 0.0.0.0 svartco.com
+0.0.0.0 svastyogi.com
 0.0.0.0 svatebni-web.com
 0.0.0.0 svatebniregistr.com
 0.0.0.0 svbjqjebtkbc.com
@@ -56147,6 +56172,7 @@
 0.0.0.0 tommiesuntewed.com
 0.0.0.0 tommorris-nm.com
 0.0.0.0 tommydearlyeffectually.com
+0.0.0.0 tommydolso.com
 0.0.0.0 tomoprecision.com
 0.0.0.0 tomorrowof.us
 0.0.0.0 tomponcainite.com
@@ -58796,6 +58822,7 @@
 0.0.0.0 uraseszincy.com
 0.0.0.0 urassdogibog.com
 0.0.0.0 urbanahousingfund.org
+0.0.0.0 urbanbizhub.com
 0.0.0.0 urbandecaysta.com
 0.0.0.0 urbandesignco.co.in
 0.0.0.0 urbangully.shop
@@ -62046,6 +62073,8 @@
 0.0.0.0 windowspay.store
 0.0.0.0 windscreenregimepros.com
 0.0.0.0 windsplay.com
+0.0.0.0 windu4d.com
+0.0.0.0 windu4d.org
 0.0.0.0 windy-apartment.com
 0.0.0.0 windy-bench.pro
 0.0.0.0 windychinese.com
@@ -62981,6 +63010,7 @@
 0.0.0.0 www.23936a.com
 0.0.0.0 www.23dy.info
 0.0.0.0 www.23jhavsjda2.monster
+0.0.0.0 www.24-366.com
 0.0.0.0 www.242ef57d.com
 0.0.0.0 www.245-animax.gdmig-animax.com
 0.0.0.0 www.25news.live
@@ -63457,6 +63487,7 @@
 0.0.0.0 www.agsoccer.co.uk
 0.0.0.0 www.ahagreatlypromised.com
 0.0.0.0 www.ahaheartburndo.com
+0.0.0.0 www.ahamshoonyam.com
 0.0.0.0 www.ahlanair.co.uk
 0.0.0.0 www.ahotelru.com
 0.0.0.0 www.ai-ciso.com
@@ -63470,6 +63501,7 @@
 0.0.0.0 www.aimlessstrewwhistling.com
 0.0.0.0 www.aimn5.com
 0.0.0.0 www.ainakfoundation.org
+0.0.0.0 www.aiposify.com
 0.0.0.0 www.aiqiji1.com
 0.0.0.0 www.airlessquotationtroubled.com
 0.0.0.0 www.airlinerlibrariesfavour.com
@@ -64151,6 +64183,7 @@
 0.0.0.0 www.bladeboyduty.com
 0.0.0.0 www.bladestressfuldeference.com
 0.0.0.0 www.blakelousepreoccupation.com
+0.0.0.0 www.blanketlaundry.com
 0.0.0.0 www.blanketsigh.com
 0.0.0.0 www.blastsullen.com
 0.0.0.0 www.blazeservers.fun
@@ -64224,6 +64257,7 @@
 0.0.0.0 www.bookastaycation.com
 0.0.0.0 www.bookieunreasonablepriority.com
 0.0.0.0 www.bookmykatha.org
+0.0.0.0 www.bookremo.com
 0.0.0.0 www.bookserf.com
 0.0.0.0 www.booksprite.com
 0.0.0.0 www.booksrakepine.com
@@ -65185,6 +65219,7 @@
 0.0.0.0 www.deterioratenor.com
 0.0.0.0 www.deteriorateplaguedemocracy.com
 0.0.0.0 www.deterioratesyrupevents.com
+0.0.0.0 www.deutsch-lola.com
 0.0.0.0 www.developercleavemillions.com
 0.0.0.0 www.developmentcoin.net
 0.0.0.0 www.deviatemysticallocking.com
@@ -65504,6 +65539,7 @@
 0.0.0.0 www.educationaldetachblob.com
 0.0.0.0 www.educationalname.com
 0.0.0.0 www.educationalreasearch001.online
+0.0.0.0 www.eduprepcorz.com
 0.0.0.0 www.edupro.world
 0.0.0.0 www.eegookiz.com
 0.0.0.0 www.eeseh.one
@@ -65638,6 +65674,7 @@
 0.0.0.0 www.ephluxinsights.com
 0.0.0.0 www.epic-invest-24.net
 0.0.0.0 www.epicrussianhistoric.com
+0.0.0.0 www.eplana.net
 0.0.0.0 www.epsauthoup.com
 0.0.0.0 www.equabilityinhospitableforgiven.com
 0.0.0.0 www.equabilitythereupon.com
@@ -65671,6 +65708,7 @@
 0.0.0.0 www.estatestitch.com
 0.0.0.0 www.esterrium.com
 0.0.0.0 www.esthiri.com
+0.0.0.0 www.estudio8k.com
 0.0.0.0 www.esvastickers.com
 0.0.0.0 www.et1edu.com
 0.0.0.0 www.eternityconstructionrang.com
@@ -65682,6 +65720,7 @@
 0.0.0.0 www.eukiert.com
 0.0.0.0 www.eunorau-bike.com
 0.0.0.0 www.eurobrussels.fm
+0.0.0.0 www.europeall.online
 0.0.0.0 www.europeanconvertiblerepeatedly.com
 0.0.0.0 www.europeanurinebanana.com
 0.0.0.0 www.evaniahomments.com
@@ -65781,6 +65820,7 @@
 0.0.0.0 www.fairytaleleapt.com
 0.0.0.0 www.faithcollarhook.com
 0.0.0.0 www.faithfullistenedpurposes.com
+0.0.0.0 www.fakedesigner.org
 0.0.0.0 www.fakepredatorybogusjournals.org
 0.0.0.0 www.falconattendance.com
 0.0.0.0 www.falconisleclip.com
@@ -65863,6 +65903,7 @@
 0.0.0.0 www.fertilisedshoe.com
 0.0.0.0 www.fertilitymuddyfrance.com
 0.0.0.0 www.fesib.com
+0.0.0.0 www.festivaldumpster.com
 0.0.0.0 www.festivecollections.com
 0.0.0.0 www.festivefranchisetorrent.com
 0.0.0.0 www.feverfreeman.com
@@ -66112,6 +66153,7 @@
 0.0.0.0 www.g0td0main.com
 0.0.0.0 www.g2l.ink
 0.0.0.0 www.g6h165y6.online
+0.0.0.0 www.gaadiwala.net
 0.0.0.0 www.gabentres.com
 0.0.0.0 www.gabnsger.com
 0.0.0.0 www.gabyscaferhinebeck.com
@@ -66567,6 +66609,7 @@
 0.0.0.0 www.hogasters.com
 0.0.0.0 www.hoh168.site
 0.0.0.0 www.holdsodourdan.com
+0.0.0.0 www.holidaydumpster.com
 0.0.0.0 www.hollowgleamed.com
 0.0.0.0 www.homeapliancesservices.com
 0.0.0.0 www.homeinspection4u.com
@@ -66650,6 +66693,7 @@
 0.0.0.0 www.huanle998.vip
 0.0.0.0 www.huanxi0718.com
 0.0.0.0 www.hubara.center
+0.0.0.0 www.hugorcht.tech
 0.0.0.0 www.huijia33.com
 0.0.0.0 www.huisvan.com
 0.0.0.0 www.humanoa.app
@@ -66723,6 +66767,7 @@
 0.0.0.0 www.igomaps.co.il
 0.0.0.0 www.igreporthelper.com
 0.0.0.0 www.ihack-apple.com
+0.0.0.0 www.ihack-mac.com
 0.0.0.0 www.ihelp.foundation
 0.0.0.0 www.iiidmembership.net.in
 0.0.0.0 www.ikea-business.hu
@@ -66765,6 +66810,7 @@
 0.0.0.0 www.improviserelenthousing.com
 0.0.0.0 www.impulsivecogitateoats.com
 0.0.0.0 www.impulsiveflop.com
+0.0.0.0 www.imyml.com
 0.0.0.0 www.in-tune.org
 0.0.0.0 www.inaneconstellationindistinct.com
 0.0.0.0 www.inappropriateoutdoorsconfiguration.com
@@ -67413,6 +67459,7 @@
 0.0.0.0 www.libelreader.com
 0.0.0.0 www.liberalblackened.com
 0.0.0.0 www.liberalmuhafazakarkomunistparti.com
+0.0.0.0 www.liberty-homestead.com
 0.0.0.0 www.lico-ys.com
 0.0.0.0 www.liedebris.com
 0.0.0.0 www.liejinvr.com
@@ -68117,6 +68164,7 @@
 0.0.0.0 www.nitrogeneligible.com
 0.0.0.0 www.nnexi.it
 0.0.0.0 www.no-photo-no-video.info
+0.0.0.0 www.noakhalishop.com
 0.0.0.0 www.noalts.tech
 0.0.0.0 www.nofikkr.com
 0.0.0.0 www.noggalogue.com
@@ -68279,6 +68327,7 @@
 0.0.0.0 www.onlinewharf.site
 0.0.0.0 www.onlinexhamster.com
 0.0.0.0 www.onlinexnxx.com
+0.0.0.0 www.only2genders.org
 0.0.0.0 www.only4vips.shop
 0.0.0.0 www.onlylivecasino.online
 0.0.0.0 www.onsetours.com
@@ -68428,6 +68477,7 @@
 0.0.0.0 www.parivartangrinder.com
 0.0.0.0 www.parkautomaticallyinfallible.com
 0.0.0.0 www.parkdues.com
+0.0.0.0 www.parkera.tech
 0.0.0.0 www.parklandcountyhomes.ca
 0.0.0.0 www.parktris.com
 0.0.0.0 www.parlourinvulnerablerighteous.com
@@ -68500,6 +68550,7 @@
 0.0.0.0 www.peerreviewconcierge.org
 0.0.0.0 www.peevishchasingstir.com
 0.0.0.0 www.peevishrace.com
+0.0.0.0 www.pegfly.com
 0.0.0.0 www.pehsc.net
 0.0.0.0 www.peiqianjichang.com
 0.0.0.0 www.peiyu.men
@@ -69230,6 +69281,7 @@
 0.0.0.0 www.revolveoppress.com
 0.0.0.0 www.revulsionwash.com
 0.0.0.0 www.rewardcash.in
+0.0.0.0 www.reyanotechsolutions.com
 0.0.0.0 www.rfactoracingweb.it
 0.0.0.0 www.rfgdjs.info
 0.0.0.0 www.rhinoceroscoketooth.com
@@ -69743,6 +69795,7 @@
 0.0.0.0 www.smokingvetoscent.com
 0.0.0.0 www.smpn1sleman.net
 0.0.0.0 www.smre.sk
+0.0.0.0 www.smtravelworld.com
 0.0.0.0 www.snaji08.com
 0.0.0.0 www.snapmedglobal.com
 0.0.0.0 www.snapmedspeech.com
@@ -69873,6 +69926,7 @@
 0.0.0.0 www.ssyy8888.com
 0.0.0.0 www.st6y.com
 0.0.0.0 www.staarnest.in
+0.0.0.0 www.stabmesaveme.com
 0.0.0.0 www.stacklegion.com
 0.0.0.0 www.stagetortoiseinfatuated.com
 0.0.0.0 www.staggerment.com
@@ -69969,6 +70023,7 @@
 0.0.0.0 www.stuffedodiousmargin.com
 0.0.0.0 www.stuffedstudy.com
 0.0.0.0 www.stylish.gift
+0.0.0.0 www.subhadrangifoundation.com
 0.0.0.0 www.subscribeallocateenjoying.com
 0.0.0.0 www.successappendassemble.com
 0.0.0.0 www.successfulpatience.com
@@ -70040,6 +70095,7 @@
 0.0.0.0 www.suspectedsinewnotary.com
 0.0.0.0 www.sustainableprintdart.net
 0.0.0.0 www.suswasthyaandrairishi.com
+0.0.0.0 www.svastyogi.com
 0.0.0.0 www.svgjs.com
 0.0.0.0 www.svgvector.com
 0.0.0.0 www.swaabhiman.org
@@ -70632,6 +70688,7 @@
 0.0.0.0 www.upwardunderground.com
 0.0.0.0 www.urassdogibog.com
 0.0.0.0 www.urbanahousingfund.org
+0.0.0.0 www.urbanbizhub.com
 0.0.0.0 www.urbaninsights.co.uk
 0.0.0.0 www.urbanvalley.online
 0.0.0.0 www.urbanvalley.shop
@@ -70915,6 +70972,7 @@
 0.0.0.0 www.wheniscomingout.com
 0.0.0.0 www.wherebyinstantly.com
 0.0.0.0 www.whereinpune.online
+0.0.0.0 www.wheresjesus.org
 0.0.0.0 www.whereuponcomicsraft.com
 0.0.0.0 www.whilefitsaltered.com
 0.0.0.0 www.whirltoes.com
@@ -70948,6 +71006,8 @@
 0.0.0.0 www.winarmy.com
 0.0.0.0 www.windealsday.com
 0.0.0.0 www.windowsforus.com
+0.0.0.0 www.windu4d.com
+0.0.0.0 www.windu4d.org
 0.0.0.0 www.windymissphantom.com
 0.0.0.0 www.windyplentiful.com
 0.0.0.0 www.winemakerstable.com
