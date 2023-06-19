@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.171
 # Release: 171
-# Entries: 74,170
-# Updated: Tue, 20 Jun 23 02:08:25 +06
+# Entries: 74,175
+# Updated: Tue, 20 Jun 23 04:07:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8877,6 +8877,7 @@
 0.0.0.0 bidforclicks.com
 0.0.0.0 bidgear.com
 0.0.0.0 bidiology.com
+0.0.0.0 bidreeaxioms.com
 0.0.0.0 bidsxchange.com
 0.0.0.0 bidtest.valueimpression.com
 0.0.0.0 bidtheatre.com
@@ -28398,6 +28399,7 @@
 0.0.0.0 inciterz.tech
 0.0.0.0 inclk.com
 0.0.0.0 incloak.com
+0.0.0.0 inclusacharmed.com
 0.0.0.0 inclusionmirthwitty.com
 0.0.0.0 incmvagwicujui.top
 0.0.0.0 incomepropertiesus.com
@@ -33003,6 +33005,7 @@
 0.0.0.0 leethalo.net
 0.0.0.0 leethm.shop
 0.0.0.0 leetmedia.com
+0.0.0.0 leetmenllew.com
 0.0.0.0 leetravelinn.com
 0.0.0.0 leewayjazzist.com
 0.0.0.0 leewayrambong.com
@@ -36642,6 +36645,7 @@
 0.0.0.0 mob1ledev1ces.com
 0.0.0.0 mobalert.net
 0.0.0.0 mobbahjug.com
+0.0.0.0 mobbersinwalls.com
 0.0.0.0 mobcrummymow.com
 0.0.0.0 mobgold.com
 0.0.0.0 mobi-transfer.com
@@ -62920,6 +62924,7 @@
 0.0.0.0 wowsomefan.com
 0.0.0.0 wowsomefan.store
 0.0.0.0 wowwowhindi.com
+0.0.0.0 woxfiybiepgltf.com
 0.0.0.0 woxisofikvgxs.com
 0.0.0.0 woymebsi.com
 0.0.0.0 wp-blox.com
