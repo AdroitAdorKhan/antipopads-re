@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.170
 # Release: 170
-# Entries: 74,010
-# Updated: Mon, 19 Jun 23 12:07:26 +06
+# Entries: 74,018
+# Updated: Mon, 19 Jun 23 14:08:31 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2784,6 +2784,7 @@
 0.0.0.0 acceptablefabric.com
 0.0.0.0 acceptabletally.com
 0.0.0.0 acceptmyinvoice.net
+0.0.0.0 access-mc.com
 0.0.0.0 access.gift
 0.0.0.0 access2success.in
 0.0.0.0 accessableairport.com
@@ -2975,6 +2976,7 @@
 0.0.0.0 acssteqhllrer.com
 0.0.0.0 acsxpbhbsuk.com
 0.0.0.0 act-my-easyweb.com
+0.0.0.0 actiflex.org
 0.0.0.0 actifsrealestate.com
 0.0.0.0 actingqr.com
 0.0.0.0 actiondawgz.us
@@ -2996,6 +2998,7 @@
 0.0.0.0 activitytonic.com
 0.0.0.0 actorartsacademy.com
 0.0.0.0 actormagnetic.com
+0.0.0.0 actpx.com
 0.0.0.0 actratoronto.net
 0.0.0.0 actratoronto.org
 0.0.0.0 actressact.com
@@ -3280,6 +3283,7 @@
 0.0.0.0 admiredexpansioncollege.com
 0.0.0.0 admiredinde.com
 0.0.0.0 admiringinsightstops.com
+0.0.0.0 admission.net
 0.0.0.0 admissionfest.com
 0.0.0.0 admissionreceipt.com
 0.0.0.0 admitad.com
@@ -15330,6 +15334,7 @@
 0.0.0.0 damskiy.xyz
 0.0.0.0 dana123.com
 0.0.0.0 danaglafeasor.live
+0.0.0.0 danang.live
 0.0.0.0 danang.sale
 0.0.0.0 dancaa.com
 0.0.0.0 danceartsinstitute.ca
@@ -37832,6 +37837,7 @@
 0.0.0.0 nagher.com
 0.0.0.0 naghtquoniam.uno
 0.0.0.0 nagrande.com
+0.0.0.0 nagues.com
 0.0.0.0 nahccnovft.com
 0.0.0.0 nahotseetsoo.com
 0.0.0.0 naicoapt.com
@@ -49826,6 +49832,7 @@
 0.0.0.0 senator.am
 0.0.0.0 senbeach.com.ec
 0.0.0.0 sendaygobresib.com
+0.0.0.0 sendaygobresib.net
 0.0.0.0 sendaygobresib.org
 0.0.0.0 sendegabresib.com
 0.0.0.0 sendegabresib.info
@@ -49840,6 +49847,7 @@
 0.0.0.0 sendegobresibdrug.info
 0.0.0.0 sendegobresibdrug.org
 0.0.0.0 sendegobresibsucks.com
+0.0.0.0 sendegobresibsucks.net
 0.0.0.0 sendegobresob.com
 0.0.0.0 sendegobresob.info
 0.0.0.0 sendegobresob.org
