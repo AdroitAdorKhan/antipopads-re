@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.171
 # Release: 171
-# Entries: 74,181
-# Updated: Tue, 20 Jun 23 06:08:25 +06
+# Entries: 74,186
+# Updated: Tue, 20 Jun 23 08:19:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4608,6 +4608,7 @@
 0.0.0.0 alib.com
 0.0.0.0 alibabacbtf.com
 0.0.0.0 alibabaexch.com
+0.0.0.0 alibeth.org
 0.0.0.0 alibifolksinspired.com
 0.0.0.0 alibisprocessessyntax.com
 0.0.0.0 alibistated.com
@@ -25283,6 +25284,7 @@
 0.0.0.0 guzamel.com
 0.0.0.0 gv.basogachummy.com
 0.0.0.0 gv2.cc
+0.0.0.0 gvaryjovvy.com
 0.0.0.0 gvasoc.com
 0.0.0.0 gvblimgpaiktfvr.com
 0.0.0.0 gvcaffiliates.com
@@ -40160,6 +40162,7 @@
 0.0.0.0 og.seemedgrucche.com
 0.0.0.0 ogarabeverlyhills.com
 0.0.0.0 ogarawestlakevillage.com
+0.0.0.0 ogaugjik.com
 0.0.0.0 ogduabkzinl.com
 0.0.0.0 ogercron.com
 0.0.0.0 ogfntqwalgvpo.com
@@ -45629,6 +45632,7 @@
 0.0.0.0 qbxucdgggl.com
 0.0.0.0 qc.rubesacephal.com
 0.0.0.0 qc.rupeesoldish.com
+0.0.0.0 qcdspewpfqvwc.xyz
 0.0.0.0 qcdxjjivlvljlwe.com
 0.0.0.0 qcfehuoucrtsm.xyz
 0.0.0.0 qcffrrsyaxcccx.xyz
@@ -63862,6 +63866,7 @@
 0.0.0.0 www.alianzbank.it
 0.0.0.0 www.aliasfoot.com
 0.0.0.0 www.alibabacbtf.com
+0.0.0.0 www.alibeth.org
 0.0.0.0 www.alibisprocessessyntax.com
 0.0.0.0 www.alifbo.com
 0.0.0.0 www.aligedgam.com
