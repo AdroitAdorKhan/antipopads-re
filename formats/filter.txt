@@ -20,8 +20,8 @@
 ! Version: 23.06.172
 ! Release: 172
 ! Expires: 1 day
-! Entries: 74,317
-! Updated: Wed, 21 Jun 23 02:20:03 +06
+! Entries: 74,319
+! Updated: Wed, 21 Jun 23 04:09:02 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -4389,6 +4389,7 @@
 ||aj1716.online^
 ||aj1907.online^
 ||aj1913.online^
+||aj1985.online^
 ||aj2031.online^
 ||aj2373.online^
 ||aj2397.online^
@@ -16024,6 +16025,7 @@
 ||deltaplant.earth^
 ||deltasecurityandlossprevention.ca^
 ||deltoidviragin.com^
+||deltraff.com^
 ||delubramoneron.tech^
 ||deludeindelicatevengeance.com^
 ||deludemanageinvite.com^

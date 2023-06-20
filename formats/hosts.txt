@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.172
 # Release: 172
-# Entries: 74,317
-# Updated: Wed, 21 Jun 23 02:20:03 +06
+# Entries: 74,319
+# Updated: Wed, 21 Jun 23 04:09:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4388,6 +4388,7 @@
 0.0.0.0 aj1716.online
 0.0.0.0 aj1907.online
 0.0.0.0 aj1913.online
+0.0.0.0 aj1985.online
 0.0.0.0 aj2031.online
 0.0.0.0 aj2373.online
 0.0.0.0 aj2397.online
@@ -16023,6 +16024,7 @@
 0.0.0.0 deltaplant.earth
 0.0.0.0 deltasecurityandlossprevention.ca
 0.0.0.0 deltoidviragin.com
+0.0.0.0 deltraff.com
 0.0.0.0 delubramoneron.tech
 0.0.0.0 deludeindelicatevengeance.com
 0.0.0.0 deludemanageinvite.com
