@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.173
 # Release: 173
-# Entries: 74,699
-# Updated: Thu, 22 Jun 23 02:16:04 +06
+# Entries: 74,701
+# Updated: Thu, 22 Jun 23 04:14:36 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6989,6 +6989,7 @@
 0.0.0.0 authenticautosales.com
 0.0.0.0 authenticjerseys4you.com
 0.0.0.0 authenticnikeseahawkshop.com
+0.0.0.0 authenticseasickexhausted.com
 0.0.0.0 authenticshopee.com
 0.0.0.0 authookroop.com
 0.0.0.0 author-medarticlepublish.info
@@ -54238,6 +54239,7 @@
 0.0.0.0 swissbed.net
 0.0.0.0 swisslife-selecttst.de
 0.0.0.0 swisspost-delivery.com
+0.0.0.0 swisstoothpastelipstick.com
 0.0.0.0 swissyodeler.com
 0.0.0.0 switchy.tech
 0.0.0.0 swithlywhoop.tech
