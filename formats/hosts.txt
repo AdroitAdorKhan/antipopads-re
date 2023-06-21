@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.172
 # Release: 172
-# Entries: 74,631
-# Updated: Wed, 21 Jun 23 12:08:03 +06
+# Entries: 74,633
+# Updated: Wed, 21 Jun 23 14:08:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -53927,6 +53927,7 @@
 0.0.0.0 superxxxfree.com
 0.0.0.0 supied.com
 0.0.0.0 supjab.com
+0.0.0.0 supjva.com
 0.0.0.0 suppermalignant.com
 0.0.0.0 supperopeningturnstile.com
 0.0.0.0 supperpoliticallybeagle.com
@@ -70846,6 +70847,7 @@
 0.0.0.0 www.superioritydiningroom.com
 0.0.0.0 www.supervisorabyss.com
 0.0.0.0 www.supjab.com
+0.0.0.0 www.supjva.com
 0.0.0.0 www.supperpoliticallybeagle.com
 0.0.0.0 www.supplysuede.com
 0.0.0.0 www.supplytrax.com
