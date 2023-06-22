@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.173
 # Release: 173
-# Entries: 74,847
-# Updated: Thu, 22 Jun 23 12:12:56 +06
+# Entries: 74,850
+# Updated: Thu, 22 Jun 23 14:08:11 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10032,6 +10032,7 @@
 0.0.0.0 bowedsequence.com
 0.0.0.0 bowerinthewood.co.uk
 0.0.0.0 bowerywill.com
+0.0.0.0 boweve.com
 0.0.0.0 bowhow.com
 0.0.0.0 bowled.in.net
 0.0.0.0 bowleghulks.digital
@@ -16728,6 +16729,7 @@
 0.0.0.0 digitalwording.ca
 0.0.0.0 digitalyesssenia.com
 0.0.0.0 digitarea.company
+0.0.0.0 digitec.com
 0.0.0.0 digitink.co
 0.0.0.0 digitneticglobal.com
 0.0.0.0 digivetcare.org
@@ -66191,6 +66193,7 @@
 0.0.0.0 www.digitalgood.news
 0.0.0.0 www.digitalgroupnow.com
 0.0.0.0 www.digitalmuru.site
+0.0.0.0 www.digitec.com
 0.0.0.0 www.digiworkai.com
 0.0.0.0 www.dijiuyyyy.com
 0.0.0.0 www.dikediffidentsticker.com
