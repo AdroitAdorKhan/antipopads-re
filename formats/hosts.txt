@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.175
 # Release: 175
-# Entries: 75,244
-# Updated: Sat, 24 Jun 23 10:11:20 +06
+# Entries: 75,248
+# Updated: Sat, 24 Jun 23 12:14:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15646,6 +15646,7 @@
 0.0.0.0 darknanobot.tech
 0.0.0.0 darknessrazorlens.com
 0.0.0.0 darkvisiongames.com
+0.0.0.0 darmowe-liczniki.com
 0.0.0.0 darneluretic.com
 0.0.0.0 darnwarygoggle.com
 0.0.0.0 darsell.life
@@ -20647,6 +20648,7 @@
 0.0.0.0 extensionlincolnshire.co.uk
 0.0.0.0 extensionworthwhile.com
 0.0.0.0 extentitle.space
+0.0.0.0 exterminateantique.com
 0.0.0.0 externalwidelycompany.com
 0.0.0.0 extortionjeep.com
 0.0.0.0 extra-chilli-epic-spins.com
@@ -33728,6 +33730,7 @@
 0.0.0.0 libedt.com
 0.0.0.0 libelloushopedlearned.com
 0.0.0.0 libelreader.com
+0.0.0.0 libeph.com
 0.0.0.0 liberal-arts.xyz
 0.0.0.0 liberalblackened.com
 0.0.0.0 liberalmuhafazakarkomunistparti.com
@@ -66355,6 +66358,7 @@
 0.0.0.0 www.daredcoil.com
 0.0.0.0 www.darkerillegimateillegimateshade.com
 0.0.0.0 www.darknessrazorlens.com
+0.0.0.0 www.darmowe-liczniki.com
 0.0.0.0 www.darnwarygoggle.com
 0.0.0.0 www.datangcmel.com
 0.0.0.0 www.datapunchunite.com
