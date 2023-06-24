@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.175
 # Release: 175
-# Entries: 75,111
-# Updated: Sat, 24 Jun 23 04:13:37 +06
+# Entries: 75,113
+# Updated: Sat, 24 Jun 23 06:09:14 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -47471,6 +47471,7 @@
 0.0.0.0 reedsinterfering.com
 0.0.0.0 reedsonceoxbow.com
 0.0.0.0 reedthatm.biz
+0.0.0.0 reefingcolures.com
 0.0.0.0 reeflowers.com
 0.0.0.0 reefseasidejunkie.com
 0.0.0.0 reelnk.com
@@ -49964,6 +49965,7 @@
 0.0.0.0 scampreventiontips.tech
 0.0.0.0 scamps.xyz
 0.0.0.0 scan-tap.com
+0.0.0.0 scancemontes.com
 0.0.0.0 scandal-gossip.com
 0.0.0.0 scanunderstiff.com
 0.0.0.0 scanwave.uk
