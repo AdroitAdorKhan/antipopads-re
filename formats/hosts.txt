@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.176
 # Release: 176
-# Entries: 75,386
-# Updated: Sun, 25 Jun 23 02:08:20 +06
+# Entries: 75,387
+# Updated: Sun, 25 Jun 23 04:13:57 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29858,6 +29858,7 @@
 0.0.0.0 italiacasino.eu
 0.0.0.0 italianbeepimpediment.com
 0.0.0.0 italianfootball24.com
+0.0.0.0 italianforesee.com
 0.0.0.0 italipower.it
 0.0.0.0 italmilradar.com
 0.0.0.0 itamc.online
