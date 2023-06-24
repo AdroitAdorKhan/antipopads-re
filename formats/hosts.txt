@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.175
 # Release: 175
-# Entries: 75,333
-# Updated: Sat, 24 Jun 23 16:16:52 +06
+# Entries: 75,334
+# Updated: Sat, 24 Jun 23 18:08:31 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -55863,6 +55863,7 @@
 0.0.0.0 tflagnreefpvj.com
 0.0.0.0 tflworld.co.uk
 0.0.0.0 tfosrv.com
+0.0.0.0 tfovmbclzpekgb.com
 0.0.0.0 tfrphiqgnr.xyz
 0.0.0.0 tfrsckoblbg.top
 0.0.0.0 tfsmltd.com
