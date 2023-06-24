@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.175
 # Release: 175
-# Entries: 75,345
-# Updated: Sat, 24 Jun 23 20:13:53 +06
+# Entries: 75,347
+# Updated: Sat, 24 Jun 23 22:09:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7598,6 +7598,7 @@
 0.0.0.0 badanaproof998.com
 0.0.0.0 badbadinfluencers.us
 0.0.0.0 badexplainimmigrant.com
+0.0.0.0 badgegirdle.com
 0.0.0.0 badgemagnificentblubber.com
 0.0.0.0 badgreenssucceed.com
 0.0.0.0 badhya.in
@@ -46879,6 +46880,7 @@
 0.0.0.0 ra-ki-ra-retreats.com
 0.0.0.0 ra.gurgeonmarron.com
 0.0.0.0 ra.polyserbdom.com
+0.0.0.0 raadth.com
 0.0.0.0 rabaischocs.ch
 0.0.0.0 rabbitshibabsc.com
 0.0.0.0 rabbitys.com
