@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.176
 # Release: 176
-# Entries: 75,506
-# Updated: Sun, 25 Jun 23 10:07:45 +06
+# Entries: 75,509
+# Updated: Sun, 25 Jun 23 12:13:39 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -60410,6 +60410,7 @@
 0.0.0.0 ussian.com
 0.0.0.0 ussive.com
 0.0.0.0 usskbr.com
+0.0.0.0 ussord.com
 0.0.0.0 ussqmgrbiky.com
 0.0.0.0 ussrtelcom.com
 0.0.0.0 ustithoo.net
@@ -60417,6 +60418,7 @@
 0.0.0.0 ustjxrjk.com
 0.0.0.0 usuade.com
 0.0.0.0 usuadr.com
+0.0.0.0 usuads.com
 0.0.0.0 usuage.com
 0.0.0.0 usualaurated.com
 0.0.0.0 usuallyaltered.com
@@ -74288,6 +74290,7 @@
 0.0.0.0 yivmnuod.com
 0.0.0.0 yiwangyijiang.com
 0.0.0.0 yixingjiabbs.com
+0.0.0.0 yixios.com
 0.0.0.0 yiyingaa.com
 0.0.0.0 yizldrdnegazw.com
 0.0.0.0 yj.ringingmandyas.com
