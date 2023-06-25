@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.176
 # Release: 176
-# Entries: 75,514
-# Updated: Sun, 25 Jun 23 16:16:34 +06
+# Entries: 75,517
+# Updated: Sun, 25 Jun 23 22:08:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -48827,6 +48827,7 @@
 0.0.0.0 roagreed.com
 0.0.0.0 roakicat.net
 0.0.0.0 roaliving.com
+0.0.0.0 roambedroom.com
 0.0.0.0 roaptesh.com
 0.0.0.0 roasttroopdilapidation.com
 0.0.0.0 roastyourex.com
@@ -62800,6 +62801,7 @@
 0.0.0.0 weatherhunters.us
 0.0.0.0 weatherpeanutnegligence.com
 0.0.0.0 weatherplllatform.com
+0.0.0.0 weatherpopularitypassage.com
 0.0.0.0 weaveconcretefreakish.com
 0.0.0.0 weavelabsngo.org
 0.0.0.0 weavelurkwiden.com
@@ -70947,6 +70949,7 @@
 0.0.0.0 www.rmsbusinessschool.org
 0.0.0.0 www.rmwelfaretrust.org
 0.0.0.0 www.rnodernpokerclub.com
+0.0.0.0 www.roambedroom.com
 0.0.0.0 www.roasttroopdilapidation.com
 0.0.0.0 www.robberyfurthermore.com
 0.0.0.0 www.robberysordid.com
