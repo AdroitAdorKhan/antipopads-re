@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.178
 # Release: 178
-# Entries: 75,726
-# Updated: Tue, 27 Jun 23 02:10:25 +06
+# Entries: 75,728
+# Updated: Tue, 27 Jun 23 04:10:28 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -40605,6 +40605,7 @@
 0.0.0.0 oberoimall.org
 0.0.0.0 oberoimall.store
 0.0.0.0 oberoiprojectprojectkolshet.in
+0.0.0.0 obesewaterfall.com
 0.0.0.0 obeus.com
 0.0.0.0 obeyedortostr.cc
 0.0.0.0 obeyerwhanged.live
@@ -60332,6 +60333,7 @@
 0.0.0.0 uphastod.xyz
 0.0.0.0 uphelyacurrier.com
 0.0.0.0 uphewoab.net
+0.0.0.0 uphilo.com
 0.0.0.0 upholdobstacleanthony.com
 0.0.0.0 uphovelodha.com
 0.0.0.0 upibhim.com
