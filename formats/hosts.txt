@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.177
 # Release: 177
-# Entries: 75,642
-# Updated: Mon, 26 Jun 23 08:18:38 +06
+# Entries: 75,643
+# Updated: Mon, 26 Jun 23 14:07:58 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4654,6 +4654,7 @@
 0.0.0.0 alichdn.com
 0.0.0.0 aliciaglekas.org
 0.0.0.0 alico.co
+0.0.0.0 alienateappetite.com
 0.0.0.0 aliensold.com
 0.0.0.0 alifafdlnjeruif.com
 0.0.0.0 alifbo.com
