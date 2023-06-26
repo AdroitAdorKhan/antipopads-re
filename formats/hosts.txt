@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.177
 # Release: 177
-# Entries: 75,575
-# Updated: Mon, 26 Jun 23 04:10:38 +06
+# Entries: 75,577
+# Updated: Mon, 26 Jun 23 06:09:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -40704,6 +40704,7 @@
 0.0.0.0 odegumsane.com
 0.0.0.0 odentalindia.com
 0.0.0.0 odentalindia.in
+0.0.0.0 odessa360.net
 0.0.0.0 odglhicarv.com
 0.0.0.0 odhebadolfnqgroaudbhjybtadfrurf.com
 0.0.0.0 odin.eco
@@ -75092,6 +75093,7 @@
 0.0.0.0 zedpen.net
 0.0.0.0 zedsapp.com
 0.0.0.0 zedswrathed.website
+0.0.0.0 zedxknzlwyofh.com
 0.0.0.0 zeeba.in
 0.0.0.0 zeechumy.com
 0.0.0.0 zeegreen.net
