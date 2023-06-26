@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.177
 # Release: 177
-# Entries: 75,683
-# Updated: Mon, 26 Jun 23 16:20:14 +06
+# Entries: 75,685
+# Updated: Mon, 26 Jun 23 20:12:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5922,6 +5922,7 @@
 0.0.0.0 apvmediamagic.com
 0.0.0.0 apwhmiiwg.com
 0.0.0.0 apxlv.com
+0.0.0.0 apxy.io
 0.0.0.0 apzcudhwu.com
 0.0.0.0 aq7ua5ma85rddeinve.com
 0.0.0.0 aqd00.com
@@ -74995,6 +74996,7 @@
 0.0.0.0 ywnhdbrbbtinife.xyz
 0.0.0.0 ywonxkardwn.com
 0.0.0.0 ywuwkklct.top
+0.0.0.0 ywvhxymyk.com
 0.0.0.0 ywyeetvrjx.xyz
 0.0.0.0 yx-ads6.com
 0.0.0.0 yx.drudgescouplet.com
