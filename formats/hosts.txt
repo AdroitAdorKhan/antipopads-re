@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.178
 # Release: 178
-# Entries: 75,778
-# Updated: Tue, 27 Jun 23 12:10:04 +06
+# Entries: 75,779
+# Updated: Tue, 27 Jun 23 14:08:00 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -61960,6 +61960,7 @@
 0.0.0.0 vitrography.com
 0.0.0.0 vittlespot.com
 0.0.0.0 vivareimoveis.net
+0.0.0.0 vivarta.co.in
 0.0.0.0 vivemomentos.com
 0.0.0.0 viverosmartinsl.com
 0.0.0.0 vivi-enterprises.com
