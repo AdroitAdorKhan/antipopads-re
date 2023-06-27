@@ -20,8 +20,8 @@
 ! Version: 23.06.178
 ! Release: 178
 ! Expires: 1 day
-! Entries: 75,821
-! Updated: Tue, 27 Jun 23 16:20:39 +06
+! Entries: 75,822
+! Updated: Tue, 27 Jun 23 18:08:55 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -41729,6 +41729,7 @@
 ||opensourcebikeshare.com^
 ||opensourceisfun.com^
 ||opensrhinos.com^
+||openstreetmap.in^
 ||opentecs.com^
 ||opentoolbox.co.uk^
 ||openwords.online^

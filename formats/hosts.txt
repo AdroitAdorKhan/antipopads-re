@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.178
 # Release: 178
-# Entries: 75,821
-# Updated: Tue, 27 Jun 23 16:20:39 +06
+# Entries: 75,822
+# Updated: Tue, 27 Jun 23 18:08:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -41728,6 +41728,7 @@
 0.0.0.0 opensourcebikeshare.com
 0.0.0.0 opensourceisfun.com
 0.0.0.0 opensrhinos.com
+0.0.0.0 openstreetmap.in
 0.0.0.0 opentecs.com
 0.0.0.0 opentoolbox.co.uk
 0.0.0.0 openwords.online
