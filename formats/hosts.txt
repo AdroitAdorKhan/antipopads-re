@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.178
 # Release: 178
-# Entries: 75,822
-# Updated: Tue, 27 Jun 23 18:08:55 +06
+# Entries: 75,827
+# Updated: Tue, 27 Jun 23 20:11:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5731,6 +5731,7 @@
 0.0.0.0 apmola.com
 0.0.0.0 apmpower.in
 0.0.0.0 apnwcakifv.com
+0.0.0.0 apocarpdogdom.com
 0.0.0.0 apochaeunanime.com
 0.0.0.0 apoll-amp.com
 0.0.0.0 apollo-comptech.in
@@ -16938,6 +16939,7 @@
 0.0.0.0 diguver.com
 0.0.0.0 digvrbpgtolkgvs.com
 0.0.0.0 digx.live
+0.0.0.0 digyniahuffle.com
 0.0.0.0 dihkxoympaw.com
 0.0.0.0 diigneaidftbo.com
 0.0.0.0 diiodidasmear.com
@@ -27447,6 +27449,7 @@
 0.0.0.0 hoodrestaurant.uk
 0.0.0.0 hoodscoop.org
 0.0.0.0 hoofexcessively.com
+0.0.0.0 hoogajee.net
 0.0.0.0 hooify.com
 0.0.0.0 hoojique.xyz
 0.0.0.0 hook-hanger.com
@@ -32349,6 +32352,7 @@
 0.0.0.0 kitcreator.app
 0.0.0.0 kiteblowing.com
 0.0.0.0 kithoasou.com
+0.0.0.0 kithudru.xyz
 0.0.0.0 kitkatkreative.com
 0.0.0.0 kitnmedia.com
 0.0.0.0 kitokit.com
@@ -52084,6 +52088,7 @@
 0.0.0.0 sigmaenterprises.info
 0.0.0.0 sigmaot.com
 0.0.0.0 signal-analysis-systems.org
+0.0.0.0 signalsparfum.uno
 0.0.0.0 signalspotsharshly.com
 0.0.0.0 signanalysissystems.com
 0.0.0.0 signaturebykalpatarus.info
