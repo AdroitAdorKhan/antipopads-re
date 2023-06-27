@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.179
 # Release: 179
-# Entries: 75,863
-# Updated: Wed, 28 Jun 23 00:20:08 +06
+# Entries: 75,864
+# Updated: Wed, 28 Jun 23 02:08:10 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12900,6 +12900,7 @@
 0.0.0.0 citronhotels.com
 0.0.0.0 citsinfoweb.com
 0.0.0.0 citslotgacor.com
+0.0.0.0 cittem.com
 0.0.0.0 cituasacrals.website
 0.0.0.0 cityadspix.com
 0.0.0.0 citybasket24.org
