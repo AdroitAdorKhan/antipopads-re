@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.178
 # Release: 178
-# Entries: 75,827
-# Updated: Tue, 27 Jun 23 20:11:49 +06
+# Entries: 75,828
+# Updated: Tue, 27 Jun 23 22:08:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -38155,6 +38155,7 @@
 0.0.0.0 multilinker.org
 0.0.0.0 multimater.com
 0.0.0.0 multimorphes.tech
+0.0.0.0 multionline.it
 0.0.0.0 multipledrawers.com
 0.0.0.0 multipletrustedpc.com
 0.0.0.0 multiprestamolibranzacolpatria.net.co
