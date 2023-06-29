@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.181
 # Release: 181
-# Entries: 76,314
-# Updated: Fri, 30 Jun 23 00:16:07 +06
+# Entries: 76,317
+# Updated: Fri, 30 Jun 23 02:22:59 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -45691,6 +45691,7 @@
 0.0.0.0 primevalsymphonymuttering.com
 0.0.0.0 primisoftware.com
 0.0.0.0 primitivekitchen.info
+0.0.0.0 primitiveposterappeal.com
 0.0.0.0 primroselegitimate.com
 0.0.0.0 primso.org
 0.0.0.0 primulum.com
@@ -53508,6 +53509,7 @@
 0.0.0.0 solidindexes.com
 0.0.0.0 solidlyrotches.guru
 0.0.0.0 solidmark.online
+0.0.0.0 solispartner.com
 0.0.0.0 solissinteses.com
 0.0.0.0 solitudearbitrary.com
 0.0.0.0 solitudeelection.com
@@ -58456,6 +58458,7 @@
 0.0.0.0 totalnicefeed.com
 0.0.0.0 totalnicestories.com
 0.0.0.0 totalrugrug.com
+0.0.0.0 totalsatisfactorily.com
 0.0.0.0 totalserviceqatar.com
 0.0.0.0 totaltopposts.com
 0.0.0.0 totalwowblog.com
