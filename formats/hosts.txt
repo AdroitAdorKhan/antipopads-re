@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.180
 # Release: 180
-# Entries: 76,289
-# Updated: Thu, 29 Jun 23 18:17:34 +06
+# Entries: 76,291
+# Updated: Thu, 29 Jun 23 20:14:10 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -42291,6 +42291,7 @@
 0.0.0.0 othdgemanow.xyz
 0.0.0.0 othecknotinda.com
 0.0.0.0 othernewsmagazine.com
+0.0.0.0 otherofherlittle.info
 0.0.0.0 othersfohi.com
 0.0.0.0 otherthanman.com
 0.0.0.0 othertheater.org
@@ -75682,6 +75683,7 @@
 0.0.0.0 zaicasoawoul.com
 0.0.0.0 zaid-khan.tech
 0.0.0.0 zains.co.uk
+0.0.0.0 zaistaug.net
 0.0.0.0 zakaheggment.com
 0.0.0.0 zakapp.tech
 0.0.0.0 zakladovadeska.com
