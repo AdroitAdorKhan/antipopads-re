@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.180
 # Release: 180
-# Entries: 76,291
-# Updated: Thu, 29 Jun 23 20:14:10 +06
+# Entries: 76,298
+# Updated: Thu, 29 Jun 23 22:10:35 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12504,6 +12504,7 @@
 0.0.0.0 checkszebroid.com
 0.0.0.0 checkup02.biz
 0.0.0.0 checkyofeed.com
+0.0.0.0 cheddrmedia.com
 0.0.0.0 chedstimaarr.pics
 0.0.0.0 cheecmou.com
 0.0.0.0 cheegoog.net
@@ -15678,8 +15679,10 @@
 0.0.0.0 daluminium.com
 0.0.0.0 dalyai.com
 0.0.0.0 dalyio.com
+0.0.0.0 dalymix.com
 0.0.0.0 dalysb.com
 0.0.0.0 dalysh.com
+0.0.0.0 dalysv.com
 0.0.0.0 damaged-shop.pro
 0.0.0.0 damagedecided.com
 0.0.0.0 damageshaybird.com
@@ -26804,6 +26807,7 @@
 0.0.0.0 helpmybusiness.biz
 0.0.0.0 helpscount.org
 0.0.0.0 helpturkeyandsyria.org
+0.0.0.0 helpvideo.tv
 0.0.0.0 helpwithmybook.com
 0.0.0.0 helvespaellas.uno
 0.0.0.0 hemasejereeds.com
@@ -42240,6 +42244,7 @@
 0.0.0.0 osmanlikaraite.com
 0.0.0.0 osmiorganizacionsorteomundialinformatico.org
 0.0.0.0 osmnhliu.xyz
+0.0.0.0 osmost.com
 0.0.0.0 osmxpccfo.com
 0.0.0.0 osnarep.de
 0.0.0.0 osnial.org
@@ -44359,6 +44364,7 @@
 0.0.0.0 pitch-info.com
 0.0.0.0 pitchedfurs.com
 0.0.0.0 pitchedsprout.com
+0.0.0.0 pithgregor.com
 0.0.0.0 pitifulconcise.com
 0.0.0.0 pitifulharmless.com
 0.0.0.0 pitors.com
@@ -62413,6 +62419,7 @@
 0.0.0.0 vkgtrack.com
 0.0.0.0 vkhmtociokbkm.xyz
 0.0.0.0 vkioqjnunhu.com
+0.0.0.0 vkitfufickpy.com
 0.0.0.0 vkjgkkxj.com
 0.0.0.0 vkkguhveswr.com
 0.0.0.0 vklwqdit.top
