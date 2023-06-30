@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.06.181
 # Release: 181
-# Entries: 76,436
-# Updated: Fri, 30 Jun 23 12:08:10 +06
+# Entries: 76,437
+# Updated: Fri, 30 Jun 23 14:08:06 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -59578,6 +59578,7 @@
 0.0.0.0 ttkdistribution.com
 0.0.0.0 ttlgf99.com
 0.0.0.0 ttlusainc.org
+0.0.0.0 ttney.com
 0.0.0.0 ttnymvvcvwkt.com
 0.0.0.0 ttoc8ok.com
 0.0.0.0 ttoefanyorget.one
