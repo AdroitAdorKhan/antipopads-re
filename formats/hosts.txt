@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.182
 # Release: 182
-# Entries: 76,564
-# Updated: Sat, 01 Jul 23 02:22:53 +06
+# Entries: 76,567
+# Updated: Sat, 01 Jul 23 04:09:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -36556,6 +36556,7 @@
 0.0.0.0 mbgptxujm.com
 0.0.0.0 mbgufryceqkoap.com
 0.0.0.0 mbike-adventure.com
+0.0.0.0 mbindu.com
 0.0.0.0 mbiux.com
 0.0.0.0 mbkeferuw.com
 0.0.0.0 mbledeparatea.com
@@ -46918,6 +46919,7 @@
 0.0.0.0 pz.foilswolof.com
 0.0.0.0 pz.sanderspatined.com
 0.0.0.0 pz.sullensregimes.com
+0.0.0.0 pzawclkyxuno.com
 0.0.0.0 pzhanshipin.com
 0.0.0.0 pziacchirov.com
 0.0.0.0 pziobmoqrtk.com
@@ -66384,6 +66386,7 @@
 0.0.0.0 www.balagwala.com
 0.0.0.0 www.balajinetworks.com
 0.0.0.0 www.balamakina.com
+0.0.0.0 www.balconypeer.com
 0.0.0.0 www.balloonmuteenforce.com
 0.0.0.0 www.balloonnails.com
 0.0.0.0 www.ballroad.myohya.ml
