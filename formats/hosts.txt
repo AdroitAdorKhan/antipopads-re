@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.183
 # Release: 183
-# Entries: 76,791
-# Updated: Sun, 02 Jul 23 02:07:55 +06
+# Entries: 76,792
+# Updated: Sun, 02 Jul 23 04:21:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -75738,6 +75738,7 @@
 0.0.0.0 yorkshiregardengates.uk
 0.0.0.0 yosgynvcxirvnkh.com
 0.0.0.0 yosiboosi.com
+0.0.0.0 yosity.com
 0.0.0.0 yosokulu.ir
 0.0.0.0 yostrendz.biz
 0.0.0.0 yottacash.com
