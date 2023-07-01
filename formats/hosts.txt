@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.182
 # Release: 182
-# Entries: 76,758
-# Updated: Sat, 01 Jul 23 16:22:11 +06
+# Entries: 76,767
+# Updated: Sat, 01 Jul 23 18:08:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2798,6 +2798,7 @@
 0.0.0.0 acccnt.com
 0.0.0.0 accedebuzz.com
 0.0.0.0 accedednews.com
+0.0.0.0 accedeethnic.com
 0.0.0.0 accedenonre.club
 0.0.0.0 accedenonre.xyz
 0.0.0.0 accelearn.co.uk
@@ -3331,6 +3332,7 @@
 0.0.0.0 admiredinde.com
 0.0.0.0 admiringinsightstops.com
 0.0.0.0 admission.net
+0.0.0.0 admissiondemeanourusage.com
 0.0.0.0 admissionfest.com
 0.0.0.0 admissionreceipt.com
 0.0.0.0 admitad.com
@@ -27253,6 +27255,7 @@
 0.0.0.0 hightopnews.com
 0.0.0.0 hightopnewstoday.com
 0.0.0.0 highwalker.in
+0.0.0.0 highway101.co.uk
 0.0.0.0 highwaydizzy.com
 0.0.0.0 higylflsnlmfk.com
 0.0.0.0 hiioblfkgtobxxq.xyz
@@ -55543,6 +55546,7 @@
 0.0.0.0 surgharmin.uno
 0.0.0.0 surgicalsolutionsalberta.com
 0.0.0.0 surgicalsolutionsalberta.net
+0.0.0.0 surgicalsolutionsbritishcolumbia.ca
 0.0.0.0 surgicalsolutionsbritishcolumbia.com
 0.0.0.0 surgicalsolutionsbritishcolumbia.net
 0.0.0.0 surgicalsolutionscalgary.com
@@ -67748,6 +67752,7 @@
 0.0.0.0 www.deal-hunters.net
 0.0.0.0 www.dealingdisarrayanniversary.com
 0.0.0.0 www.dealingincrease.com
+0.0.0.0 www.deanreadiness.com
 0.0.0.0 www.deanvividsquall.com
 0.0.0.0 www.dearlyseedsad.com
 0.0.0.0 www.deathdetectives.com
@@ -69697,6 +69702,7 @@
 0.0.0.0 www.involvedcollaborateperceived.com
 0.0.0.0 www.involvedeclarefright.com
 0.0.0.0 www.involvewalkingthick.com
+0.0.0.0 www.iodinecorporate.com
 0.0.0.0 www.iosjump.com
 0.0.0.0 www.ip358.com
 0.0.0.0 www.ipaints.net
@@ -69711,6 +69717,7 @@
 0.0.0.0 www.irmri.org
 0.0.0.0 www.irrationaldistress.com
 0.0.0.0 www.irreparablewretchsurrogate.com
+0.0.0.0 www.irresolutesolemn.com
 0.0.0.0 www.irrigateechofrustration.com
 0.0.0.0 www.irritateinformantmeddle.com
 0.0.0.0 www.irritatingsufficient.com
@@ -71915,6 +71922,7 @@
 0.0.0.0 www.reclaimhorridaltitude.com
 0.0.0.0 www.recoiltravellingbreach.com
 0.0.0.0 www.recommendationfurnace.com
+0.0.0.0 www.recommendedseizedbewildered.com
 0.0.0.0 www.recordfunny.com
 0.0.0.0 www.recordingfilessuperintend.com
 0.0.0.0 www.recordingperky.com
@@ -76624,6 +76632,7 @@
 0.0.0.0 zosfilm.com
 0.0.0.0 zosteraclumsy.website
 0.0.0.0 zostofou.link
+0.0.0.0 zouard.com
 0.0.0.0 zoubek.art
 0.0.0.0 zoukooso.com
 0.0.0.0 zoulikoopty.com
