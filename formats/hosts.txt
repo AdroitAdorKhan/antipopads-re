@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.182
 # Release: 182
-# Entries: 76,709
-# Updated: Sat, 01 Jul 23 12:08:04 +06
+# Entries: 76,710
+# Updated: Sat, 01 Jul 23 14:07:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -65234,6 +65234,7 @@
 0.0.0.0 wrnmeqkyrguk.com
 0.0.0.0 wrnoapvufjcg.xyz
 0.0.0.0 wronal.com
+0.0.0.0 wronol.com
 0.0.0.0 wronti.com
 0.0.0.0 wrotad.com
 0.0.0.0 wrotop.com
