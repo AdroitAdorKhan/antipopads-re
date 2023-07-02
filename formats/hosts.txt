@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.183
 # Release: 183
-# Entries: 77,031
-# Updated: Sun, 02 Jul 23 20:21:08 +06
+# Entries: 77,032
+# Updated: Sun, 02 Jul 23 22:07:39 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -32108,6 +32108,7 @@
 0.0.0.0 kababskabab.com
 0.0.0.0 kablic.com
 0.0.0.0 kabobitacism.com
+0.0.0.0 kabuut.com
 0.0.0.0 kacangmaspoker.xyz
 0.0.0.0 kaceltd.com
 0.0.0.0 kachchhkesari.in
