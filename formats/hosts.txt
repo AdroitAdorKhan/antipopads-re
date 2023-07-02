@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.183
 # Release: 183
-# Entries: 76,935
-# Updated: Sun, 02 Jul 23 10:07:42 +06
+# Entries: 76,937
+# Updated: Sun, 02 Jul 23 12:19:37 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -137,6 +137,7 @@
 0.0.0.0 0eijh8996i.com
 0.0.0.0 0f461325bf56c3e1b9.com
 0.0.0.0 0fc7a1648c.a533857c63.com
+0.0.0.0 0fucksgiving.com
 0.0.0.0 0gboy4.com
 0.0.0.0 0gw7e6s3wrao9y3q.pro
 0.0.0.0 0h6djpk8fn.com
@@ -5454,6 +5455,7 @@
 0.0.0.0 animikii-ana.com
 0.0.0.0 animits.com
 0.0.0.0 animosityknockedgorgeous.com
+0.0.0.0 animositysofa.com
 0.0.0.0 animotionary.com
 0.0.0.0 animpet.uk
 0.0.0.0 animsup.biz
