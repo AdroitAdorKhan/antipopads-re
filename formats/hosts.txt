@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.183
 # Release: 183
-# Entries: 76,937
-# Updated: Sun, 02 Jul 23 12:19:37 +06
+# Entries: 76,938
+# Updated: Sun, 02 Jul 23 14:09:01 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -45694,6 +45694,7 @@
 0.0.0.0 pousacjgjfqa.com
 0.0.0.0 poushoza.net
 0.0.0.0 poutauge.net
+0.0.0.0 poutdecimal.com
 0.0.0.0 pouvbmpdw.top
 0.0.0.0 pouvoirsafrique.org
 0.0.0.0 pouyfssj.com
