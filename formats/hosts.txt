@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.183
 # Release: 183
-# Entries: 77,008
-# Updated: Sun, 02 Jul 23 16:08:12 +06
+# Entries: 77,009
+# Updated: Sun, 02 Jul 23 18:08:00 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -58628,6 +58628,7 @@
 0.0.0.0 toinstagram.com
 0.0.0.0 toiplus.org
 0.0.0.0 tojadeso.xyz
+0.0.0.0 tojepravice.net
 0.0.0.0 tokboo.com
 0.0.0.0 toke.pw
 0.0.0.0 tokegdujtjha.com
