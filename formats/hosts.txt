@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.184
 # Release: 184
-# Entries: 77,178
-# Updated: Mon, 03 Jul 23 16:08:27 +06
+# Entries: 77,181
+# Updated: Mon, 03 Jul 23 18:13:52 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -41004,6 +41004,7 @@
 0.0.0.0 nubodyequipment.ca
 0.0.0.0 nubseech.com
 0.0.0.0 nubvetsag.com
+0.0.0.0 nuclav.com
 0.0.0.0 nudata1.com
 0.0.0.0 nudebenzoyl.digital
 0.0.0.0 nudemail.online
@@ -42389,6 +42390,7 @@
 0.0.0.0 opeanresultanc.com
 0.0.0.0 opeate.com
 0.0.0.0 opeenup.ir
+0.0.0.0 opefaq.com
 0.0.0.0 opekdefalso.org
 0.0.0.0 opelop.com
 0.0.0.0 open-chat.xyz
@@ -46768,6 +46770,7 @@
 0.0.0.0 psougoar.com
 0.0.0.0 psougrie.com
 0.0.0.0 psoukesh.com
+0.0.0.0 psouphoz.com
 0.0.0.0 psozoult.net
 0.0.0.0 psqena.com
 0.0.0.0 pssy.xyz
