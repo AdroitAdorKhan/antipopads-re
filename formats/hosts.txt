@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.185
 # Release: 185
-# Entries: 77,248
-# Updated: Tue, 04 Jul 23 02:12:52 +06
+# Entries: 77,249
+# Updated: Tue, 04 Jul 23 04:19:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6259,6 +6259,7 @@
 0.0.0.0 armetsremoved.guru
 0.0.0.0 armfile.site
 0.0.0.0 armhoopcoinage.com
+0.0.0.0 armiesinvolve.com
 0.0.0.0 arminius.io
 0.0.0.0 armisticedesigning.com
 0.0.0.0 armisticeexpress.com
