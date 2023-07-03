@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.184
 # Release: 184
-# Entries: 77,133
-# Updated: Mon, 03 Jul 23 10:08:14 +06
+# Entries: 77,134
+# Updated: Mon, 03 Jul 23 12:18:05 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -31657,6 +31657,7 @@
 0.0.0.0 joorijet.net
 0.0.0.0 jopdrnxwrbdhn.com
 0.0.0.0 jopoleryet.com
+0.0.0.0 joqgeluheatlqy.com
 0.0.0.0 joqnoyniblzm.com
 0.0.0.0 jorbfstarn.com
 0.0.0.0 jordangaming3.xyz
