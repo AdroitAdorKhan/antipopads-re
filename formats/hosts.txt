@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.185
 # Release: 185
-# Entries: 77,314
-# Updated: Tue, 04 Jul 23 12:17:29 +06
+# Entries: 77,315
+# Updated: Tue, 04 Jul 23 14:07:59 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16573,6 +16573,7 @@
 0.0.0.0 demolishabolish.com
 0.0.0.0 demolitionpourorganizer.com
 0.0.0.0 demoltionmanchester.co.uk
+0.0.0.0 demonii.si
 0.0.0.0 demonjugsister.com
 0.0.0.0 demonstrata.org
 0.0.0.0 demoworld.app
