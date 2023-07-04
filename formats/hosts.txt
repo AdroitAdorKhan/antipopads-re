@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.185
 # Release: 185
-# Entries: 77,315
-# Updated: Tue, 04 Jul 23 14:07:59 +06
+# Entries: 77,335
+# Updated: Tue, 04 Jul 23 16:08:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -666,6 +666,7 @@
 0.0.0.0 20dollars2surf.com
 0.0.0.0 20gensoftwares.com
 0.0.0.0 20izqvowi.com
+0.0.0.0 20minutestochange.com
 0.0.0.0 20open.live
 0.0.0.0 20sjndkfs32.monster
 0.0.0.0 20tracks.com
@@ -2406,6 +2407,7 @@
 0.0.0.0 a1a.shop
 0.0.0.0 a1airandgasco.in
 0.0.0.0 a1bonac.com
+0.0.0.0 a1craft.in
 0.0.0.0 a1hosting.online
 0.0.0.0 a1megamart.com
 0.0.0.0 a1panel.tech
@@ -4398,6 +4400,7 @@
 0.0.0.0 aircraftreign.com
 0.0.0.0 aircraftsplendid.com
 0.0.0.0 airdoamoord.com
+0.0.0.0 airdreamsrl.com
 0.0.0.0 airdropconnects.pro
 0.0.0.0 airdropemboil.com
 0.0.0.0 airent.io
@@ -4424,6 +4427,8 @@
 0.0.0.0 airydeservesannounce.com
 0.0.0.0 aisaipty.xyz
 0.0.0.0 aiscreenplaycompetition.com
+0.0.0.0 aiscreenplaycontest.com
+0.0.0.0 aiscriptcontest.com
 0.0.0.0 aiseav3.com
 0.0.0.0 aiseav4.com
 0.0.0.0 aiset.in
@@ -9697,6 +9702,7 @@
 0.0.0.0 bloodyfrighten.com
 0.0.0.0 blooks.info
 0.0.0.0 bloomfragrances.store
+0.0.0.0 bloomingmills.com
 0.0.0.0 bloomon3rd.com
 0.0.0.0 bloomon3rdla.com
 0.0.0.0 bloomonthird.com
@@ -10568,6 +10574,7 @@
 0.0.0.0 brithungown.com
 0.0.0.0 briticatederfd.site
 0.0.0.0 britishartclub.co.uk
+0.0.0.0 britishcolumbiabusinessinsurance.com
 0.0.0.0 britishexpo.uk
 0.0.0.0 britishinquisitive.com
 0.0.0.0 britonseyer.com
@@ -13262,6 +13269,7 @@
 0.0.0.0 clearload.site
 0.0.0.0 clearlybestdirectoil.org
 0.0.0.0 clearlylenz.com
+0.0.0.0 clearlyreverendsurvey.com
 0.0.0.0 clearningseri.xyz
 0.0.0.0 clearonclick.com
 0.0.0.0 clearpointquebec.ca
@@ -14408,6 +14416,7 @@
 0.0.0.0 constructpoll.com
 0.0.0.0 construment.com
 0.0.0.0 constrvoided.com
+0.0.0.0 consultantshoplifting.com
 0.0.0.0 consultaum.com
 0.0.0.0 consultech.tech
 0.0.0.0 consultingballetshortest.com
@@ -14949,6 +14958,7 @@
 0.0.0.0 cranebaby.ca
 0.0.0.0 cranebecomingwindfall.com
 0.0.0.0 cranecreekhoneybeefarm.com
+0.0.0.0 cranenondescript.com
 0.0.0.0 craneykori.uno
 0.0.0.0 cranialjehu.com
 0.0.0.0 cranksidleful.store
@@ -15934,6 +15944,7 @@
 0.0.0.0 dapurosyom.com
 0.0.0.0 dapurxxi.com
 0.0.0.0 darccosproperty.co.uk
+0.0.0.0 darcyturkey.com
 0.0.0.0 dareavproductions.com
 0.0.0.0 daredcoil.com
 0.0.0.0 daredstrapelinor.com
@@ -16516,6 +16527,7 @@
 0.0.0.0 deliveranceirregulareaten.com
 0.0.0.0 deliverancelegacymart.com
 0.0.0.0 deliveredconsolefleeting.com
+0.0.0.0 deliveringrecognize.com
 0.0.0.0 deliverysapgoblet.com
 0.0.0.0 deliverytrafficnews.com
 0.0.0.0 deliverytraffico.com
@@ -17411,6 +17423,7 @@
 0.0.0.0 dishmagicallycoloured.com
 0.0.0.0 dishonztny.site
 0.0.0.0 dishphysics.com
+0.0.0.0 dishwasherreliable.com
 0.0.0.0 dishwaterfloodinginvisible.com
 0.0.0.0 disillusioninventorsoften.com
 0.0.0.0 disingenuousdismissed.com
@@ -19717,6 +19730,7 @@
 0.0.0.0 elmetgroup.info
 0.0.0.0 elmspro.com
 0.0.0.0 elnufiae.fun
+0.0.0.0 eloiseattempt.com
 0.0.0.0 elole.tech
 0.0.0.0 elon23.com
 0.0.0.0 elon23.net
@@ -21365,6 +21379,7 @@
 0.0.0.0 fallaciousfifth.com
 0.0.0.0 fallenteen.com
 0.0.0.0 fallingfalcon.com
+0.0.0.0 falloutbraidengaged.com
 0.0.0.0 falsemulticultural.com
 0.0.0.0 falsewrist.com
 0.0.0.0 falsifybrightly.com
@@ -22420,6 +22435,7 @@
 0.0.0.0 flagnetwork.it
 0.0.0.0 flagresponsive.com
 0.0.0.0 flagros2sii8fdbrh09.com
+0.0.0.0 flagsportclamour.com
 0.0.0.0 flaire.in
 0.0.0.0 flairindustries.net
 0.0.0.0 flakecontainsgrill.com
@@ -50808,6 +50824,7 @@
 0.0.0.0 sacculegrowse.space
 0.0.0.0 sacculiputts.store
 0.0.0.0 sacegryri.com
+0.0.0.0 sachets-emballages.ca
 0.0.0.0 sachmitrafinserv.com
 0.0.0.0 sackswaycheese.com
 0.0.0.0 sacolaosupermercado.com
@@ -63467,6 +63484,7 @@
 0.0.0.0 voosegou.xyz
 0.0.0.0 vooshagy.net
 0.0.0.0 vooshozo.com
+0.0.0.0 voowiche.com
 0.0.0.0 vope.pw
 0.0.0.0 voraciousthursdaydaughterinlaw.com
 0.0.0.0 voredi.com
@@ -64540,6 +64558,7 @@
 0.0.0.0 wellmov.com
 0.0.0.0 wellnessbusinessgrowthsummit.com
 0.0.0.0 wellnessfamily24.com
+0.0.0.0 wellnesshomeocare.com
 0.0.0.0 wellnessrewards.in
 0.0.0.0 wellnessvapeclub.com
 0.0.0.0 wellnesszap.com
@@ -66395,6 +66414,7 @@
 0.0.0.0 www.a123ck.com
 0.0.0.0 www.a1a.shop
 0.0.0.0 www.a1airandgasco.in
+0.0.0.0 www.a1craft.in
 0.0.0.0 www.a1tas.net
 0.0.0.0 www.a4or.com
 0.0.0.0 www.aa1411.com
