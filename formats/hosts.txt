@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.185
 # Release: 185
-# Entries: 77,312
-# Updated: Tue, 04 Jul 23 10:10:27 +06
+# Entries: 77,314
+# Updated: Tue, 04 Jul 23 12:17:29 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -35336,6 +35336,7 @@
 0.0.0.0 longislandpiledriving.com
 0.0.0.0 longliveindia.org
 0.0.0.0 longpointsteel.com
+0.0.0.0 longreachtavern.com.au
 0.0.0.0 longridgetowbars.co.uk
 0.0.0.0 longteng52.com
 0.0.0.0 loniil.com
@@ -59288,6 +59289,7 @@
 0.0.0.0 towermud.com
 0.0.0.0 towerneom.com
 0.0.0.0 towerpro-ksa.com
+0.0.0.0 towersalighthybrids.com
 0.0.0.0 townepro.com
 0.0.0.0 townervirgas.casa
 0.0.0.0 townhousepremium.org
