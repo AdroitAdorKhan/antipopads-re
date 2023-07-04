@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.185
 # Release: 185
-# Entries: 77,249
-# Updated: Tue, 04 Jul 23 04:19:30 +06
+# Entries: 77,251
+# Updated: Tue, 04 Jul 23 06:08:28 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -69278,6 +69278,7 @@
 0.0.0.0 www.funtar.app
 0.0.0.0 www.funvacayflorida.com
 0.0.0.0 www.furnishedbuilding.com
+0.0.0.0 www.furnishedsalonherring.com
 0.0.0.0 www.furrowguests.com
 0.0.0.0 www.furrowparabledisplay.com
 0.0.0.0 www.fusionwishful.com
@@ -72300,6 +72301,7 @@
 0.0.0.0 www.raisedirectionsaccede.com
 0.0.0.0 www.rajasthangk.co.in
 0.0.0.0 www.rakutenglobal.com
+0.0.0.0 www.rallyexpirehide.com
 0.0.0.0 www.rambleconcernedscar.com
 0.0.0.0 www.rambleonroseco.com
 0.0.0.0 www.ramnaambank.org
