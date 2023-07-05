@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.186
 # Release: 186
-# Entries: 77,457
-# Updated: Wed, 05 Jul 23 10:26:17 +06
+# Entries: 77,458
+# Updated: Wed, 05 Jul 23 12:14:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -44846,6 +44846,7 @@
 0.0.0.0 pictureviewer.org
 0.0.0.0 picyurb.com
 0.0.0.0 pidelo.co.com
+0.0.0.0 pidginstropine.guru
 0.0.0.0 pidqnmpwfldflry.com
 0.0.0.0 pidvcbrvq.top
 0.0.0.0 pieceofcakeinvest.us
