@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.186
 # Release: 186
-# Entries: 77,493
-# Updated: Wed, 05 Jul 23 20:49:51 +06
+# Entries: 77,494
+# Updated: Wed, 05 Jul 23 22:42:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -21823,6 +21823,7 @@
 0.0.0.0 fegdad.com
 0.0.0.0 feghex.site
 0.0.0.0 fegroawie.com
+0.0.0.0 fegsbatak.uno
 0.0.0.0 feignoccasionedmound.com
 0.0.0.0 feignthat.com
 0.0.0.0 feijisu11.com
