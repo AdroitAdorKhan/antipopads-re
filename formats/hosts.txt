@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.186
 # Release: 186
-# Entries: 77,458
-# Updated: Wed, 05 Jul 23 12:14:51 +06
+# Entries: 77,460
+# Updated: Wed, 05 Jul 23 14:12:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13560,6 +13560,7 @@
 0.0.0.0 cloudiiv.com
 0.0.0.0 cloudimagesa.com
 0.0.0.0 cloudimagesb.com
+0.0.0.0 cloudlessjimarmpit.com
 0.0.0.0 cloudlessverticallyrender.com
 0.0.0.0 cloudliya.com
 0.0.0.0 cloudlogobox.com
@@ -59543,6 +59544,7 @@
 0.0.0.0 trackad2.com
 0.0.0.0 trackapi.net
 0.0.0.0 trackcapitalvane.com
+0.0.0.0 trackellia.com
 0.0.0.0 tracker-rus.ru
 0.0.0.0 tracker-tds.info
 0.0.0.0 tracker-tds.site
