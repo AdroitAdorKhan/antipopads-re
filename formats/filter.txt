@@ -20,8 +20,8 @@
 ! Version: 23.07.188
 ! Release: 188
 ! Expires: 1 day
-! Entries: 77,786
-! Updated: Fri, 07 Jul 23 02:10:48 +06
+! Entries: 77,787
+! Updated: Fri, 07 Jul 23 04:21:48 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -62232,6 +62232,7 @@
 ||uspscc.com^
 ||uspsfaqs.com^
 ||uspstp.com^
+||uspsword.com^
 ||usrewnjv.com^
 ||usrguksvbnejfsd.com^
 ||ussavingstips.com^

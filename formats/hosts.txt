@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.188
 # Release: 188
-# Entries: 77,786
-# Updated: Fri, 07 Jul 23 02:10:48 +06
+# Entries: 77,787
+# Updated: Fri, 07 Jul 23 04:21:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -62231,6 +62231,7 @@
 0.0.0.0 uspscc.com
 0.0.0.0 uspsfaqs.com
 0.0.0.0 uspstp.com
+0.0.0.0 uspsword.com
 0.0.0.0 usrewnjv.com
 0.0.0.0 usrguksvbnejfsd.com
 0.0.0.0 ussavingstips.com
