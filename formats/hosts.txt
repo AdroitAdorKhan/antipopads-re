@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.187
 # Release: 187
-# Entries: 77,650
-# Updated: Thu, 06 Jul 23 12:18:09 +06
+# Entries: 77,688
+# Updated: Thu, 06 Jul 23 14:33:09 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3422,6 +3422,7 @@
 0.0.0.0 adovr.com
 0.0.0.0 adpass.co.uk
 0.0.0.0 adpatrof.com
+0.0.0.0 adpay.network
 0.0.0.0 adperium.com
 0.0.0.0 adpijpmen.com
 0.0.0.0 adpinion.com
@@ -4923,6 +4924,7 @@
 0.0.0.0 alltopposts.com
 0.0.0.0 allturnedgrey.com
 0.0.0.0 alluarjun.net
+0.0.0.0 alludedapexdepression.com
 0.0.0.0 alludedgrinbanquet.com
 0.0.0.0 allureencourage.com
 0.0.0.0 allurehome-ua.com
@@ -8089,6 +8091,7 @@
 0.0.0.0 barktong.com
 0.0.0.0 barleylatestinches.com
 0.0.0.0 barnabaslinger.com
+0.0.0.0 barnaclecocoonjest.com
 0.0.0.0 barnassumedaddict.com
 0.0.0.0 barneycomedy.com
 0.0.0.0 barneysunsharp.com
@@ -8552,6 +8555,7 @@
 0.0.0.0 befriendgenialviscount.com
 0.0.0.0 begamechanger.com
 0.0.0.0 begantotireo.xyz
+0.0.0.0 begardsawagrobin.com
 0.0.0.0 begasuthy.com
 0.0.0.0 beggarlyfilmingabreast.com
 0.0.0.0 beggarlyquietlyrabble.com
@@ -9937,6 +9941,7 @@
 0.0.0.0 boarshrubforemost.com
 0.0.0.0 boasstylijoked.com
 0.0.0.0 boastauw.xyz
+0.0.0.0 boastfive.com
 0.0.0.0 boastpretenddied.com
 0.0.0.0 boasttrial.com
 0.0.0.0 boaswooned.com
@@ -11563,6 +11568,7 @@
 0.0.0.0 candacecameronburepresents.com
 0.0.0.0 candbremovals.com
 0.0.0.0 candelagoyanes.com
+0.0.0.0 candiedtouch.com
 0.0.0.0 candiedvolatilepeep.com
 0.0.0.0 candielzenaga.com
 0.0.0.0 candiruarf.com
@@ -14723,6 +14729,7 @@
 0.0.0.0 correctcitolas.com
 0.0.0.0 correry.com
 0.0.0.0 correspondimpulsive.com
+0.0.0.0 correspondingcamouflage.com
 0.0.0.0 corrsnet.au
 0.0.0.0 corruptheedless.com
 0.0.0.0 corruptstruckgames.com
@@ -16447,6 +16454,7 @@
 0.0.0.0 deeheede.com
 0.0.0.0 deemail.ca
 0.0.0.0 deemcompatibility.com
+0.0.0.0 deemfriday.com
 0.0.0.0 deemsoil.com
 0.0.0.0 deemsteppemental.com
 0.0.0.0 deenclassic.com
@@ -16630,6 +16638,7 @@
 0.0.0.0 demandedhalfmoon.com
 0.0.0.0 demarre-ici.ca
 0.0.0.0 demarre-ici.com
+0.0.0.0 demclick.xyz
 0.0.0.0 demeepsi.xyz
 0.0.0.0 dementedstalesimultaneous.com
 0.0.0.0 dementesmillonarios.com
@@ -17436,6 +17445,7 @@
 0.0.0.0 disbow.com
 0.0.0.0 discgolfprisonministries.org
 0.0.0.0 dischargedecent.com
+0.0.0.0 disciplehorizon.com
 0.0.0.0 disciplinetop.com
 0.0.0.0 discipuli.io
 0.0.0.0 discird.gg
@@ -20186,6 +20196,7 @@
 0.0.0.0 enteringimposter.com
 0.0.0.0 enterniai.net
 0.0.0.0 enterofort.site
+0.0.0.0 enterpriseinclinedvandalism.com
 0.0.0.0 enterpriseinnovations.org
 0.0.0.0 enterprisetax.accountants
 0.0.0.0 entertainedshook.com
@@ -21059,6 +21070,7 @@
 0.0.0.0 exdynsrv.com
 0.0.0.0 exe1fil3ready.com
 0.0.0.0 exebid.ru
+0.0.0.0 executiontoothache.com
 0.0.0.0 executivetalentconsulting.com
 0.0.0.0 exemix.com
 0.0.0.0 exemplary-range.pro
@@ -21344,6 +21356,7 @@
 0.0.0.0 facebooksignin.org
 0.0.0.0 facebookuserprivasysettlement.com
 0.0.0.0 faceboovk.com
+0.0.0.0 faceeatingleapordbook.com
 0.0.0.0 facemoi-tube.com
 0.0.0.0 facesargument.com
 0.0.0.0 facesnotebook.com
@@ -22113,6 +22126,7 @@
 0.0.0.0 fieldconversationfounded.com
 0.0.0.0 fieldofbachus.com
 0.0.0.0 fieldsinsurancebrokers.com
+0.0.0.0 fielproxy.com
 0.0.0.0 fiendadmittance.com
 0.0.0.0 fiendrhythm.com
 0.0.0.0 fienttestor.guru
@@ -22816,6 +22830,7 @@
 0.0.0.0 fodnass.top
 0.0.0.0 fodvajnjd.com
 0.0.0.0 foetusconductfold.com
+0.0.0.0 foetuslipstickreassure.com
 0.0.0.0 foflib.org
 0.0.0.0 fogayeown.com
 0.0.0.0 foggytube.com
@@ -22959,6 +22974,7 @@
 0.0.0.0 foreverglobal.shop
 0.0.0.0 foreverhealthsculptor.com
 0.0.0.0 foreverrenovation.com
+0.0.0.0 forewordmoneychange.com
 0.0.0.0 forex-affiliate.net
 0.0.0.0 forexarby.com
 0.0.0.0 forexio.net
@@ -23321,6 +23337,7 @@
 0.0.0.0 french-stream.one
 0.0.0.0 frencheagle.in
 0.0.0.0 frenchequal.pro
+0.0.0.0 frenchhypotheticallysubquery.com
 0.0.0.0 frenchoak.us
 0.0.0.0 frenin.com
 0.0.0.0 frenth.com
@@ -24615,6 +24632,7 @@
 0.0.0.0 gicqwrgawpc.com
 0.0.0.0 gid.wonderlandads.com
 0.0.0.0 gidaxlzi.com
+0.0.0.0 giddinessrefusal.com
 0.0.0.0 giddogal.com
 0.0.0.0 gidmikipluoju.com
 0.0.0.0 gieswebinar.com
@@ -26631,6 +26649,7 @@
 0.0.0.0 halltrasy.com
 0.0.0.0 hallucinatebotany.com
 0.0.0.0 hallucinatecompute.com
+0.0.0.0 hallucinatediploma.com
 0.0.0.0 hallucinatepromise.com
 0.0.0.0 hallwayscarf.com
 0.0.0.0 halo-insights.com
@@ -31219,6 +31238,7 @@
 0.0.0.0 jbbahwang.com
 0.0.0.0 jbbd.tv
 0.0.0.0 jbcloud-oss.com
+0.0.0.0 jbcp.bc.ca
 0.0.0.0 jbdtkvsai.com
 0.0.0.0 jbfsygihecmaryg.com
 0.0.0.0 jbhilpxwmiaapa.com
@@ -35660,6 +35680,7 @@
 0.0.0.0 lovecatch.net
 0.0.0.0 lovedance888.com
 0.0.0.0 lovedate.online
+0.0.0.0 lovedcorrectionsuffix.com
 0.0.0.0 lovedrug.us
 0.0.0.0 loveepictravels.com
 0.0.0.0 lovehour.online
@@ -36798,6 +36819,7 @@
 0.0.0.0 marriagecounsellor.online
 0.0.0.0 marriagegardendekho.com
 0.0.0.0 marriedusedaye.com
+0.0.0.0 marryclamour.com
 0.0.0.0 marryrapidlypursuing.com
 0.0.0.0 marshagalea.com
 0.0.0.0 marshallmedbilling.com
@@ -37820,6 +37842,7 @@
 0.0.0.0 midouwhi.com
 0.0.0.0 midpopedge.com
 0.0.0.0 midstpoor.com
+0.0.0.0 midstpounceavouch.com
 0.0.0.0 midswestonebk.com
 0.0.0.0 midtermconcordalight.com
 0.0.0.0 midwestbeads.us
@@ -37993,6 +38016,7 @@
 0.0.0.0 miraclenecklace.com
 0.0.0.0 miracslubs.com
 0.0.0.0 miraculousgranny.com
+0.0.0.0 miraculousregimentabbreviate.com
 0.0.0.0 mirador1.com
 0.0.0.0 mirafaren.pw
 0.0.0.0 miragederbend.com
@@ -38320,6 +38344,7 @@
 0.0.0.0 mobipromote.com
 0.0.0.0 mobiright.com
 0.0.0.0 mobislet.com
+0.0.0.0 mobitechads.com
 0.0.0.0 mobitracker.info
 0.0.0.0 mobitraxx.info
 0.0.0.0 mobiyield.com
@@ -44272,6 +44297,7 @@
 0.0.0.0 peakadapt.com
 0.0.0.0 peakchewing.com
 0.0.0.0 peakclick.com
+0.0.0.0 peakluckily.com
 0.0.0.0 peakperks.ca
 0.0.0.0 pealia.com
 0.0.0.0 pealmeditate.com
@@ -46292,6 +46318,7 @@
 0.0.0.0 prebid.org
 0.0.0.0 precedechampion.com
 0.0.0.0 precedentadministrator.com
+0.0.0.0 precedentbasepicky.com
 0.0.0.0 precedingdippingtune.com
 0.0.0.0 precent.academy
 0.0.0.0 precequiv.com
@@ -48924,6 +48951,7 @@
 0.0.0.0 recoverytool.org
 0.0.0.0 recreationhiddenmosque.com
 0.0.0.0 recruitburp.com
+0.0.0.0 recruitresidebitterness.com
 0.0.0.0 rectanthenwirit.com
 0.0.0.0 rectificationnervous.com
 0.0.0.0 rectionedlictegic.com
@@ -49037,6 +49065,7 @@
 0.0.0.0 reeflowers.com
 0.0.0.0 reefseasidejunkie.com
 0.0.0.0 reelnk.com
+0.0.0.0 reelnutmegmortimer.com
 0.0.0.0 reenakun.com
 0.0.0.0 reencoccous.store
 0.0.0.0 reenginee.club
@@ -53122,6 +53151,7 @@
 0.0.0.0 shoutgeological.com
 0.0.0.0 shouthisoult.com
 0.0.0.0 shoutssportly.com
+0.0.0.0 shoututtersir.com
 0.0.0.0 shouvods.net
 0.0.0.0 shovedrailwaynurse.com
 0.0.0.0 shovelcosign.com
@@ -54495,6 +54525,7 @@
 0.0.0.0 someonei.buzz
 0.0.0.0 someperceptionparade.com
 0.0.0.0 sometea.net
+0.0.0.0 somethingalbumexasperation.com
 0.0.0.0 somethingprecursorfairfax.com
 0.0.0.0 sometimesfaith.com
 0.0.0.0 sometimesmonstrouscombined.com
@@ -55609,6 +55640,7 @@
 0.0.0.0 stopsmokingnow.us
 0.0.0.0 stopsrepetitious.com
 0.0.0.0 stopthepardons.org
+0.0.0.0 stopvirus.link
 0.0.0.0 stopzoology.com
 0.0.0.0 stoqtcwupnucpi.xyz
 0.0.0.0 storader.com
@@ -58142,6 +58174,7 @@
 0.0.0.0 thenaturemama.com
 0.0.0.0 thenceafeard.com
 0.0.0.0 thenceextremeeyewitness.com
+0.0.0.0 thencemutinyhamburger.com
 0.0.0.0 thenewagephilosopher.online
 0.0.0.0 thenewagephilosopher.org
 0.0.0.0 thenewagephilosopher.store
@@ -58547,6 +58580,7 @@
 0.0.0.0 thoughclassifiedjeff.com
 0.0.0.0 thoughgaffer.uno
 0.0.0.0 thoughtbargeglittering.com
+0.0.0.0 thoughtfulcontroversy.com
 0.0.0.0 thoughts-expressed.com
 0.0.0.0 thoughtsusta.xyz
 0.0.0.0 thoughtthricecompress.com
@@ -59846,6 +59880,7 @@
 0.0.0.0 trailmercadante.it
 0.0.0.0 trails8.com
 0.0.0.0 trainbooking.online
+0.0.0.0 traineeappraiser.com
 0.0.0.0 trainersbob.online
 0.0.0.0 training-notes.com
 0.0.0.0 trainingdepartment.in
@@ -65403,6 +65438,7 @@
 0.0.0.0 windowdemiselowlife.com
 0.0.0.0 windowmentaria.com
 0.0.0.0 windowsastronomyfading.com
+0.0.0.0 windowsdaggerminiaturization.com
 0.0.0.0 windowsforus.com
 0.0.0.0 windowspay.store
 0.0.0.0 windscreenregimepros.com
@@ -66099,6 +66135,7 @@
 0.0.0.0 wrygraphicstheme.com
 0.0.0.0 wrykxfqcfkmgs.com
 0.0.0.0 wrymreszua.com
+0.0.0.0 wrypassenger.com
 0.0.0.0 ws.beguesscrabbit.com
 0.0.0.0 ws.meggerblucher.com
 0.0.0.0 wscakdn.website
@@ -76601,6 +76638,7 @@
 0.0.0.0 youask.top
 0.0.0.0 youcangetwhatyoulike.com
 0.0.0.0 youdatinghottest.com
+0.0.0.0 youdiscussed.com
 0.0.0.0 youdunngood.com
 0.0.0.0 youearrid.com
 0.0.0.0 yougoargentina.com
