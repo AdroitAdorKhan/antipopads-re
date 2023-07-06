@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.187
 # Release: 187
-# Entries: 77,647
-# Updated: Thu, 06 Jul 23 10:17:11 +06
+# Entries: 77,650
+# Updated: Thu, 06 Jul 23 12:18:09 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -38371,6 +38371,7 @@
 0.0.0.0 modoro360.com
 0.0.0.0 modslaucher.download
 0.0.0.0 modtrnxsmf.com
+0.0.0.0 modularafrica.co.za
 0.0.0.0 modularmental.com
 0.0.0.0 modulate.nyc
 0.0.0.0 modulecooper.com
@@ -48966,6 +48967,7 @@
 0.0.0.0 redewdit.pro
 0.0.0.0 redeyeattacus.uno
 0.0.0.0 redfruitx.shop
+0.0.0.0 redhawkrealestategroup.com
 0.0.0.0 redic.net
 0.0.0.0 redic2.net
 0.0.0.0 redic3.com
@@ -72769,6 +72771,7 @@
 0.0.0.0 www.redeemlesson.com
 0.0.0.0 www.redesteleco.com
 0.0.0.0 www.redfruitx.shop
+0.0.0.0 www.redhawkrealestategroup.com
 0.0.0.0 www.redirectms.com
 0.0.0.0 www.redplus.com
 0.0.0.0 www.redtimeco-co.com
