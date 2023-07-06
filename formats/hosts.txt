@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.187
 # Release: 187
-# Entries: 77,743
-# Updated: Thu, 06 Jul 23 20:35:44 +06
+# Entries: 77,746
+# Updated: Thu, 06 Jul 23 22:13:57 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4243,6 +4243,7 @@
 0.0.0.0 aheadcycling.com
 0.0.0.0 aheale.com
 0.0.0.0 ahean.com
+0.0.0.0 aheave.com
 0.0.0.0 ahedrankslowl.com.ua
 0.0.0.0 ahedrankslowwe.xyz
 0.0.0.0 ahemsoku.net
@@ -26545,6 +26546,7 @@
 0.0.0.0 habitofsticklik.com
 0.0.0.0 habitstems.com
 0.0.0.0 habitualremittance.com
+0.0.0.0 habovethecityon.info
 0.0.0.0 habrakenruten.com
 0.0.0.0 habrasysteleii.xyz
 0.0.0.0 habusima.uno
@@ -48428,6 +48430,7 @@
 0.0.0.0 rainbow-solutions.tech
 0.0.0.0 rainensolomon.com
 0.0.0.0 rainierem.com
+0.0.0.0 rainmobi.com
 0.0.0.0 rainsiderecords.com
 0.0.0.0 rainwealth.com
 0.0.0.0 rainyautumnnews.com
