@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.188
 # Release: 188
-# Entries: 77,985
-# Updated: Fri, 07 Jul 23 20:12:25 +06
+# Entries: 77,988
+# Updated: Fri, 07 Jul 23 22:11:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -36309,6 +36309,7 @@
 0.0.0.0 maac-mcl.com
 0.0.0.0 maagayatrirealtech.com
 0.0.0.0 maalabaala.com
+0.0.0.0 maapitambra36.com
 0.0.0.0 maatenacted.guru
 0.0.0.0 mableyable.com
 0.0.0.0 maboazolsamp.com
@@ -71453,6 +71454,7 @@
 0.0.0.0 www.m3mindiaproject.com
 0.0.0.0 www.m3mtheculinan.net
 0.0.0.0 www.m42software.com
+0.0.0.0 www.maapitambra36.com
 0.0.0.0 www.machineattitudeace.com
 0.0.0.0 www.macrosoftware.io
 0.0.0.0 www.macsignuae.com
@@ -73772,6 +73774,7 @@
 0.0.0.0 www.soarlearning.net
 0.0.0.0 www.sobatwin.com
 0.0.0.0 www.socalledattestation.com
+0.0.0.0 www.soceano.com
 0.0.0.0 www.socialclique.com.br
 0.0.0.0 www.socialmargarita.it
 0.0.0.0 www.societymagazinesunfaithful.com
