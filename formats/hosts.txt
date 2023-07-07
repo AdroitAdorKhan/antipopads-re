@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.189
 # Release: 189
-# Entries: 78,035
-# Updated: Sat, 08 Jul 23 02:22:47 +06
+# Entries: 78,036
+# Updated: Sat, 08 Jul 23 04:10:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -35285,6 +35285,7 @@
 0.0.0.0 livetheidea.com
 0.0.0.0 liveunderestimate.com
 0.0.0.0 livezombymil.com
+0.0.0.0 lividn.com
 0.0.0.0 lividtrash.pro
 0.0.0.0 living-my-big-life.com
 0.0.0.0 living-my-biglife.com
