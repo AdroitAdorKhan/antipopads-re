@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.190
 # Release: 190
-# Entries: 78,232
-# Updated: Sun, 09 Jul 23 00:45:58 +06
+# Entries: 78,234
+# Updated: Sun, 09 Jul 23 02:11:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5211,6 +5211,7 @@
 0.0.0.0 amendes-gouvfr.info
 0.0.0.0 amendes-information.info
 0.0.0.0 amendes-paiements-info.fr
+0.0.0.0 amendmentbutterfly.com
 0.0.0.0 amendsgeneralize.com
 0.0.0.0 amenityleisurelydays.com
 0.0.0.0 amenityremorse.com
@@ -24697,6 +24698,7 @@
 0.0.0.0 ggsexwgevgjjwst.com
 0.0.0.0 ggsfq.com
 0.0.0.0 ggubmneaaefglxq.top
+0.0.0.0 ggxyyalrj.com
 0.0.0.0 gh.spaleswairsh.com
 0.0.0.0 ghabillsintional.com
 0.0.0.0 ghableleader.xyz
