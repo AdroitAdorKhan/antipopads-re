@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.190
 # Release: 190
-# Entries: 78,234
-# Updated: Sun, 09 Jul 23 02:11:23 +06
+# Entries: 78,236
+# Updated: Sun, 09 Jul 23 04:14:10 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -18540,6 +18540,7 @@
 0.0.0.0 drupta.com
 0.0.0.0 druseshorreum.digital
 0.0.0.0 drv47apps.com
+0.0.0.0 drvato.com
 0.0.0.0 drvngiyss.com
 0.0.0.0 drweldt.com
 0.0.0.0 drwornspinster.com
@@ -39797,6 +39798,7 @@
 0.0.0.0 nabbaseballsling.com
 0.0.0.0 nabbr.com
 0.0.0.0 nabil180.xyz
+0.0.0.0 nablabee.com
 0.0.0.0 nablagotdzn.com
 0.0.0.0 nablax.co.uk
 0.0.0.0 nableemblems.com
