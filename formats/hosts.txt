@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.189
 # Release: 189
-# Entries: 78,130
-# Updated: Sat, 08 Jul 23 12:10:20 +06
+# Entries: 78,132
+# Updated: Sat, 08 Jul 23 14:10:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3747,6 +3747,7 @@
 0.0.0.0 advisoradvantagemarketingservices.com
 0.0.0.0 advisoramplifier.com
 0.0.0.0 advisorded.com
+0.0.0.0 advitalise.com
 0.0.0.0 adviva.net
 0.0.0.0 advmaker.ru
 0.0.0.0 advmaker.su
@@ -21370,6 +21371,7 @@
 0.0.0.0 ezcgojaamg.com
 0.0.0.0 ezdaytrader.com
 0.0.0.0 ezdeb.tech
+0.0.0.0 ezdgmtsaeu.com
 0.0.0.0 ezdnsenterprise.com
 0.0.0.0 ezdnssec.com
 0.0.0.0 ezdomainplus.com
