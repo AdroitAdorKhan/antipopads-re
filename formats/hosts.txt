@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.189
 # Release: 189
-# Entries: 78,191
-# Updated: Sat, 08 Jul 23 20:09:27 +06
+# Entries: 78,196
+# Updated: Sat, 08 Jul 23 22:13:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10714,6 +10714,7 @@
 0.0.0.0 brokenbva.com
 0.0.0.0 brokenneutralparsley.com
 0.0.0.0 brokenstumps.in.net
+0.0.0.0 brokenwebsite-note.com
 0.0.0.0 brokerspock.com
 0.0.0.0 brolycell.space
 0.0.0.0 brominewf.guru
@@ -27077,6 +27078,7 @@
 0.0.0.0 haymowsbecker.life
 0.0.0.0 hayrealty.com
 0.0.0.0 haywarn.com
+0.0.0.0 hayyad.com
 0.0.0.0 hazairgo.net
 0.0.0.0 hazanuttriazo.life
 0.0.0.0 hazardousschooloutcry.com
@@ -43249,6 +43251,7 @@
 0.0.0.0 osrhdsoeqhos.com
 0.0.0.0 osrswfmowxxj.com
 0.0.0.0 ossacmaw.com
+0.0.0.0 osscot.com
 0.0.0.0 osseasougan.com
 0.0.0.0 ossexpress.biz
 0.0.0.0 ossgogoaton.com
@@ -48196,6 +48199,7 @@
 0.0.0.0 qpciagujcnaolim.xyz
 0.0.0.0 qpcphotgtpq.com
 0.0.0.0 qpeadbmaql.com
+0.0.0.0 qpeoctxiqaxw.com
 0.0.0.0 qpfyynxpi.com
 0.0.0.0 qpgxdqnibso.top
 0.0.0.0 qpixxezhwwoc.com
@@ -68142,6 +68146,7 @@
 0.0.0.0 www.britishinquisitive.com
 0.0.0.0 www.brittleraising.com
 0.0.0.0 www.brmovies.xyz
+0.0.0.0 www.brokenwebsite-note.com
 0.0.0.0 www.broochambitioncopies.com
 0.0.0.0 www.broodtoffeehaphazard.com
 0.0.0.0 www.brooksireland.org
