@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.191
 # Release: 191
-# Entries: 78,491
-# Updated: Mon, 10 Jul 23 02:16:51 +06
+# Entries: 78,492
+# Updated: Mon, 10 Jul 23 04:10:43 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14093,6 +14093,7 @@
 0.0.0.0 colourevening.com
 0.0.0.0 colouringbooks.in
 0.0.0.0 colouringelements.com
+0.0.0.0 colourinitiative.com
 0.0.0.0 coloursstandard.com
 0.0.0.0 colsanfer.edu.co
 0.0.0.0 colsuchy.com
