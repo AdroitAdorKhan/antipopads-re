@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.191
 # Release: 191
-# Entries: 78,490
-# Updated: Mon, 10 Jul 23 00:12:19 +06
+# Entries: 78,491
+# Updated: Mon, 10 Jul 23 02:16:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13898,6 +13898,7 @@
 0.0.0.0 coconutsumptuousreseptivereseptive.com
 0.0.0.0 cocoonelectronicsconfined.com
 0.0.0.0 cocoonmedicalusa.com
+0.0.0.0 cocoontonight.com
 0.0.0.0 cocosyeta.com
 0.0.0.0 cocoyohouse.com
 0.0.0.0 cocteleriabyron.com
