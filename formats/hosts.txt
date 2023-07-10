@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.191
 # Release: 191
-# Entries: 78,697
-# Updated: Mon, 10 Jul 23 20:16:55 +06
+# Entries: 78,699
+# Updated: Mon, 10 Jul 23 22:27:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5545,6 +5545,7 @@
 0.0.0.0 anirudhduvva.in
 0.0.0.0 anisegoff.com
 0.0.0.0 anityahope.com
+0.0.0.0 aniyae.net
 0.0.0.0 anjanaasrestaurant.in
 0.0.0.0 anjapparrestaurant.in
 0.0.0.0 anjqaukljplk.com
@@ -44294,6 +44295,7 @@
 0.0.0.0 pannumregnal.com
 0.0.0.0 panoplyfinance.com
 0.0.0.0 panorama-at-ascend.in
+0.0.0.0 panoramalogistico.net
 0.0.0.0 pansarecomputereducation.tech
 0.0.0.0 panshaoxiang.com
 0.0.0.0 pansymerbaby.com
