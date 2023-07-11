@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.192
 # Release: 192
-# Entries: 78,896
-# Updated: Tue, 11 Jul 23 16:47:25 +06
+# Entries: 78,898
+# Updated: Tue, 11 Jul 23 18:23:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -24054,6 +24054,7 @@
 0.0.0.0 fwbntw.com
 0.0.0.0 fwfrt7dsl.com
 0.0.0.0 fwha.pw
+0.0.0.0 fwifsicmviybd.com
 0.0.0.0 fwilmdact.com
 0.0.0.0 fwiqjwxf.xyz
 0.0.0.0 fwjriuhjrvb.com
@@ -77388,6 +77389,7 @@
 0.0.0.0 ycadenevery.xyz
 0.0.0.0 yccitybrain.com
 0.0.0.0 ycghvwoeylmmn.com
+0.0.0.0 ycjjlbshx.com
 0.0.0.0 yckfuwqrgjwrhv.com
 0.0.0.0 yclost.com
 0.0.0.0 yclpevqtckhn.xyz
