@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.192
 # Release: 192
-# Entries: 78,898
-# Updated: Tue, 11 Jul 23 18:23:56 +06
+# Entries: 78,904
+# Updated: Tue, 11 Jul 23 20:21:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2489,6 +2489,7 @@
 0.0.0.0 aabproxytests.top
 0.0.0.0 aabproxytestsdomain.top
 0.0.0.0 aabtestsproxydomain.top
+0.0.0.0 aac-eg.net
 0.0.0.0 aacain.co.uk
 0.0.0.0 aacas.app
 0.0.0.0 aacharya.net
@@ -8169,6 +8170,7 @@
 0.0.0.0 barelytwinkledelegate.com
 0.0.0.0 baresi.xyz
 0.0.0.0 barfsmiaowpit.com
+0.0.0.0 bargainingbrotherhood.com
 0.0.0.0 bargainsafeinvest.com
 0.0.0.0 bargainwant.com
 0.0.0.0 bargedoctarch.com
@@ -38690,6 +38692,7 @@
 0.0.0.0 mkaff.com
 0.0.0.0 mkcurches.com
 0.0.0.0 mkdbpbpi.com
+0.0.0.0 mkeliihb.com
 0.0.0.0 mkgerustbauteam.com
 0.0.0.0 mkh-dev.tech
 0.0.0.0 mkhoj.com
@@ -67093,6 +67096,7 @@
 0.0.0.0 wthkaqftgbdhr.com
 0.0.0.0 wthwoopb.xyz
 0.0.0.0 wtiwfdsqiiicaim.xyz
+0.0.0.0 wtlvrrgtcm.com
 0.0.0.0 wtmrkfcvqehjlwi.com
 0.0.0.0 wtnewz.com
 0.0.0.0 wtovrlllbvhm.com
@@ -67674,6 +67678,7 @@
 0.0.0.0 www.a1tas.net
 0.0.0.0 www.a4or.com
 0.0.0.0 www.aa1411.com
+0.0.0.0 www.aac-eg.net
 0.0.0.0 www.aadyanoverseas.com
 0.0.0.0 www.aakafoundation.org
 0.0.0.0 www.aandbproperties.co.uk
@@ -77744,6 +77749,7 @@
 0.0.0.0 yoddha.org
 0.0.0.0 yodhehcyfd.com
 0.0.0.0 yodr.net
+0.0.0.0 yodrotyqevg.xyz
 0.0.0.0 yodwhmxuswkbwtf.com
 0.0.0.0 yoeduco.com
 0.0.0.0 yoelsan.tech
