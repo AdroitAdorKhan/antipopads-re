@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.192
 # Release: 192
-# Entries: 78,811
-# Updated: Tue, 11 Jul 23 10:11:42 +06
+# Entries: 78,813
+# Updated: Tue, 11 Jul 23 12:15:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5873,6 +5873,7 @@
 0.0.0.0 aplisoft-ided.com
 0.0.0.0 apmola.com
 0.0.0.0 apmpower.in
+0.0.0.0 apncosffqsjy.com
 0.0.0.0 apnwcakifv.com
 0.0.0.0 apnxasonfn.com
 0.0.0.0 apocarpdogdom.com
@@ -44782,6 +44783,7 @@
 0.0.0.0 pbjft.com
 0.0.0.0 pbjs.e-planning.net
 0.0.0.0 pbjxpxgjwn.com
+0.0.0.0 pbkgkmpsbkttxh.com
 0.0.0.0 pbkkwksiiphhusd.xyz
 0.0.0.0 pbkqidejmes.ru
 0.0.0.0 pbktjrpxumjxgiw.top
