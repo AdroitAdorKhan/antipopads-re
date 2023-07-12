@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.193
 # Release: 193
-# Entries: 79,062
-# Updated: Wed, 12 Jul 23 20:11:15 +06
+# Entries: 79,065
+# Updated: Wed, 12 Jul 23 22:22:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12643,6 +12643,7 @@
 0.0.0.0 chainads.io
 0.0.0.0 chainbelt.top
 0.0.0.0 chaindedicated.com
+0.0.0.0 chainedinfer.com
 0.0.0.0 chainerunca.com
 0.0.0.0 chainforchange.world
 0.0.0.0 chainllist.org
@@ -35651,6 +35652,7 @@
 0.0.0.0 liquidtraffic.id
 0.0.0.0 liquorsref.com
 0.0.0.0 lira.london
+0.0.0.0 lirateblister.com
 0.0.0.0 lirmecnlpmv.com
 0.0.0.0 lisawilliams.life
 0.0.0.0 lispingwraths.space
@@ -52541,6 +52543,7 @@
 0.0.0.0 scentedindication.com
 0.0.0.0 scepth.com
 0.0.0.0 scfhhjykp.xyz
+0.0.0.0 scfsdvc.com
 0.0.0.0 scg6666win.com
 0.0.0.0 scg9.online
 0.0.0.0 schavsorpines.guru
