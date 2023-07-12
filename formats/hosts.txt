@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.193
 # Release: 193
-# Entries: 79,058
-# Updated: Wed, 12 Jul 23 18:09:23 +06
+# Entries: 79,062
+# Updated: Wed, 12 Jul 23 20:11:15 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4804,6 +4804,7 @@
 0.0.0.0 alignedventure.com
 0.0.0.0 alignedventure.net
 0.0.0.0 alignedventure.org
+0.0.0.0 alignmentcoaching.com
 0.0.0.0 alignmentflattery.com
 0.0.0.0 alihutan.com
 0.0.0.0 alikapro.com
@@ -16840,6 +16841,7 @@
 0.0.0.0 deliverablity.top
 0.0.0.0 deliveranceirregulareaten.com
 0.0.0.0 deliverancelegacymart.com
+0.0.0.0 deliverbrokeneloise.com
 0.0.0.0 deliveredconsolefleeting.com
 0.0.0.0 deliveringrecognize.com
 0.0.0.0 deliverysapgoblet.com
@@ -57347,6 +57349,7 @@
 0.0.0.0 swedecornysupper.com
 0.0.0.0 swedessaughs.live
 0.0.0.0 swedgebaraca.space
+0.0.0.0 sweemory.com
 0.0.0.0 sweepadstoday.click
 0.0.0.0 sweepawejasper.com
 0.0.0.0 sweepfrequencydissolved.com
@@ -75108,6 +75111,7 @@
 0.0.0.0 www.swasthyasampada.com
 0.0.0.0 www.swearanalogous.com
 0.0.0.0 www.swedecornysupper.com
+0.0.0.0 www.sweemory.com
 0.0.0.0 www.sweepfrequencydissolved.com
 0.0.0.0 www.sweepstakessurveytoday.com
 0.0.0.0 www.sweetaddictionshop.com
