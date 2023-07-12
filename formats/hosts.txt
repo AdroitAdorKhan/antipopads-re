@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.194
 # Release: 194
-# Entries: 79,074
-# Updated: Thu, 13 Jul 23 02:09:03 +06
+# Entries: 79,075
+# Updated: Thu, 13 Jul 23 04:10:54 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13102,6 +13102,7 @@
 0.0.0.0 choreluggage.com
 0.0.0.0 chortletarging.uno
 0.0.0.0 choruscompanion.com
+0.0.0.0 chosensoccerwriter.com
 0.0.0.0 choseoffhandsight.com
 0.0.0.0 chosesleptcattish.com
 0.0.0.0 chota.fun
