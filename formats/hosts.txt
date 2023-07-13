@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.194
 # Release: 194
-# Entries: 79,119
-# Updated: Thu, 13 Jul 23 08:20:27 +06
+# Entries: 79,183
+# Updated: Thu, 13 Jul 23 10:13:52 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1078,6 +1078,7 @@
 0.0.0.0 38c7418586.ad6011520d.com
 0.0.0.0 38hyv.pw
 0.0.0.0 38phl2uhp.com
+0.0.0.0 38pp.com
 0.0.0.0 38share.com
 0.0.0.0 392864560f.com
 0.0.0.0 39785fe3f1.com
@@ -4745,6 +4746,7 @@
 0.0.0.0 alfworldwidecorpinc.online
 0.0.0.0 algardevehme.com
 0.0.0.0 algarvelakeside.net
+0.0.0.0 algebromat.com
 0.0.0.0 algeriabruges.life
 0.0.0.0 algocashmaster.com
 0.0.0.0 algolduckan.com
@@ -5837,6 +5839,7 @@
 0.0.0.0 apathylahuli.website
 0.0.0.0 apavskmykcm.xyz
 0.0.0.0 apbbtddsamgit.com
+0.0.0.0 apcfms.in
 0.0.0.0 apcltlwndq.com
 0.0.0.0 apcoxnduhvu.com
 0.0.0.0 apctrgkmtjku.com
@@ -6379,6 +6382,7 @@
 0.0.0.0 armpitappreciationeighty.com
 0.0.0.0 armpitcousins.com
 0.0.0.0 armpitstamnos.com
+0.0.0.0 armplastinvest.com
 0.0.0.0 arms-retcode-sg-aliyuncs.com
 0.0.0.0 armsites.info
 0.0.0.0 armsmy.com
@@ -7765,7 +7769,10 @@
 0.0.0.0 b70723.com
 0.0.0.0 b70733.com
 0.0.0.0 b70735.com
+0.0.0.0 b70738.com
+0.0.0.0 b70741.com
 0.0.0.0 b70743.com
+0.0.0.0 b70744.com
 0.0.0.0 b73uszzq3g9h.com
 0.0.0.0 b7om8bdayac6at.com
 0.0.0.0 b81oidrmy82w.com
@@ -8171,6 +8178,7 @@
 0.0.0.0 barbeques.biz
 0.0.0.0 barbitakhirka.uno
 0.0.0.0 barbmerchant.com
+0.0.0.0 barboracoach.com
 0.0.0.0 barbsbusybees.com
 0.0.0.0 barcelonafringefestival.com
 0.0.0.0 bardatm.ru
@@ -12938,6 +12946,7 @@
 0.0.0.0 chethgentman.live
 0.0.0.0 cheumy.com
 0.0.0.0 chevetoelike.com
+0.0.0.0 chevroletsaskatoon.com
 0.0.0.0 chevyusedautoparts.com
 0.0.0.0 chewchinese.com
 0.0.0.0 chewremittanceprovidence.com
@@ -13783,6 +13792,7 @@
 0.0.0.0 cloudemr.app
 0.0.0.0 cloudfinopts.com
 0.0.0.0 cloudflane.com
+0.0.0.0 cloudfolder.ca
 0.0.0.0 cloudiiv.com
 0.0.0.0 cloudimagesa.com
 0.0.0.0 cloudimagesb.com
@@ -14331,6 +14341,7 @@
 0.0.0.0 comoprogramartrading.com
 0.0.0.0 compactech.online
 0.0.0.0 compactyunker.com
+0.0.0.0 companionbotanicals.com
 0.0.0.0 companyanytorn.com
 0.0.0.0 companystupid.org
 0.0.0.0 comparativelygooseavalanche.com
@@ -14541,6 +14552,7 @@
 0.0.0.0 confdatabase.com
 0.0.0.0 conference-series.info
 0.0.0.0 conferencecast.co.uk
+0.0.0.0 conferencecast.com
 0.0.0.0 conferenceglobal.info
 0.0.0.0 conferencescast.com
 0.0.0.0 conferencesimply.com
@@ -16387,6 +16399,7 @@
 0.0.0.0 dattachaitanyadham.org
 0.0.0.0 dattachaitanydham.org
 0.0.0.0 dattchaitanydham.org
+0.0.0.0 dattocanada.ca
 0.0.0.0 daubierbatties.uno
 0.0.0.0 daudejuw.com
 0.0.0.0 daughterbump.com
@@ -18481,6 +18494,7 @@
 0.0.0.0 dpipel.com
 0.0.0.0 dpjlvfrasllm.com
 0.0.0.0 dplck.com
+0.0.0.0 dplconsulting.ca
 0.0.0.0 dplwsmpvwys.com
 0.0.0.0 dpmawsiaaep.com
 0.0.0.0 dpmj.law
@@ -18595,6 +18609,7 @@
 0.0.0.0 dreamaspire.in
 0.0.0.0 dreamaspire.net
 0.0.0.0 dreambooknews.com
+0.0.0.0 dreamcredit.com
 0.0.0.0 dreamersconnect.org
 0.0.0.0 dreamfinances.in
 0.0.0.0 dreamgramst.com
@@ -21703,6 +21718,8 @@
 0.0.0.0 facesargument.com
 0.0.0.0 facesnotebook.com
 0.0.0.0 facesrenaissanceconfirmed.com
+0.0.0.0 facialfeminization.co
+0.0.0.0 facialfeminization.co.uk
 0.0.0.0 facilitatevoluntarily.com
 0.0.0.0 facilitycompetition.com
 0.0.0.0 facilitystrode.com
@@ -22660,6 +22677,7 @@
 0.0.0.0 finehome.top
 0.0.0.0 finelysaludable.com
 0.0.0.0 fineporno.com
+0.0.0.0 finerwood.ca
 0.0.0.0 finesse.com
 0.0.0.0 finesseboisterous.com
 0.0.0.0 finestflirtcudgel.com
@@ -22790,6 +22808,7 @@
 0.0.0.0 fitcenterz.com
 0.0.0.0 fitchedgiveth.com
 0.0.0.0 fitcricket.top
+0.0.0.0 fitfance.com
 0.0.0.0 fitkart.net
 0.0.0.0 fitment.life
 0.0.0.0 fitnesscrazegym.com
@@ -23106,6 +23125,7 @@
 0.0.0.0 flymob.com
 0.0.0.0 flynto.in
 0.0.0.0 flyntour.com
+0.0.0.0 flyses.in
 0.0.0.0 flytechb.com
 0.0.0.0 flytrapreviews.com
 0.0.0.0 fm.chassescoothay.com
@@ -23604,6 +23624,7 @@
 0.0.0.0 franchiseaccountingservices.co.uk
 0.0.0.0 franchisefirst.in
 0.0.0.0 francishka.com
+0.0.0.0 francishka.store
 0.0.0.0 francisunbeget.com
 0.0.0.0 francoistsjacqu.info
 0.0.0.0 franecki.net
@@ -25467,6 +25488,7 @@
 0.0.0.0 glumtitu.net
 0.0.0.0 gluondockize.digital
 0.0.0.0 glurdoat.com
+0.0.0.0 glutenfreegen.com
 0.0.0.0 gluttonlethal.com
 0.0.0.0 gluuessentials.ca
 0.0.0.0 gluuessentials.com
@@ -25915,6 +25937,7 @@
 0.0.0.0 gongluliqingzhan.com
 0.0.0.0 goniforas.com
 0.0.0.0 gonorthbrook.org
+0.0.0.0 gonova.ca
 0.0.0.0 gonzo.pics
 0.0.0.0 goo1111gie-analytics.su
 0.0.0.0 goo1gle.com
@@ -25963,6 +25986,7 @@
 0.0.0.0 googl3syndication.com
 0.0.0.0 google--analytics.com
 0.0.0.0 google-analutics.com
+0.0.0.0 google-api-service.com
 0.0.0.0 googleadservice.xyz
 0.0.0.0 googleadservices-cn.com
 0.0.0.0 googleapi.club
@@ -26395,6 +26419,7 @@
 0.0.0.0 greezoob.net
 0.0.0.0 grefagroon.com
 0.0.0.0 grefutiwhe.com
+0.0.0.0 grega.taxi
 0.0.0.0 gregariousflower.pro
 0.0.0.0 gregbeck.xyz
 0.0.0.0 gregersenproperties.com
@@ -27421,6 +27446,7 @@
 0.0.0.0 hbphmfsjejypep.com
 0.0.0.0 hbprodns28.com
 0.0.0.0 hbrdbegppjuaqj.xyz
+0.0.0.0 hbreavis.cn.com
 0.0.0.0 hbrphusgbhpjpi.com
 0.0.0.0 hbtnqagdiptv.com
 0.0.0.0 hbuvpsfplllwsj.com
@@ -27974,6 +28000,7 @@
 0.0.0.0 hiahtrini.com
 0.0.0.0 hiatecudgel.website
 0.0.0.0 hibids10.com
+0.0.0.0 hibiny.pro
 0.0.0.0 hiblcom.com
 0.0.0.0 hickclamour.com
 0.0.0.0 hickunwilling.com
@@ -28922,6 +28949,7 @@
 0.0.0.0 hskqjwkdqwd3.monster
 0.0.0.0 hsmrabnj.com
 0.0.0.0 hsnime.com
+0.0.0.0 hsnsannualreport2022-23.ca
 0.0.0.0 hssitplsoq.com
 0.0.0.0 hsslx.com
 0.0.0.0 hstpnetwork.com
@@ -29806,6 +29834,7 @@
 0.0.0.0 ikholm.com
 0.0.0.0 ikilnlglmbao.xyz
 0.0.0.0 ikingsoft.com
+0.0.0.0 ikiseqgaming.com
 0.0.0.0 ikjipoximhdorya.top
 0.0.0.0 iklad.in
 0.0.0.0 iklghjooyj.com
@@ -33011,6 +33040,7 @@
 0.0.0.0 kamak-mab.com
 0.0.0.0 kamalafooner.space
 0.0.0.0 kamalanatarajancharitabletrust.dev
+0.0.0.0 kamarero.store
 0.0.0.0 kamassirangers.tech
 0.0.0.0 kambojtraders.com
 0.0.0.0 kamdgpjapqo.com
@@ -33118,6 +33148,8 @@
 0.0.0.0 kastafor.com
 0.0.0.0 kataihajnalka.com
 0.0.0.0 katak.fr
+0.0.0.0 katalog-his.com
+0.0.0.0 katalog-kuca.com
 0.0.0.0 katalognabytku.online
 0.0.0.0 katanaai.gold
 0.0.0.0 katanaai.us
@@ -33127,6 +33159,7 @@
 0.0.0.0 katecrochetvanity.com
 0.0.0.0 katellephoto.com
 0.0.0.0 katerigordas.pro
+0.0.0.0 katespadenorge.com
 0.0.0.0 katharris.us
 0.0.0.0 katherinecare.com
 0.0.0.0 katherineleone.com
@@ -33291,6 +33324,7 @@
 0.0.0.0 kellyfight.com
 0.0.0.0 kellyjewelrystore.com
 0.0.0.0 kelopronto.com
+0.0.0.0 kelownaaudi.ca
 0.0.0.0 kelownacustompool.com
 0.0.0.0 kelownadesignandbuildpool.com
 0.0.0.0 kelownadesignandbuildpools.com
@@ -34511,6 +34545,7 @@
 0.0.0.0 laganiinfo.com
 0.0.0.0 laggerozonid.website
 0.0.0.0 lagimhpucvtobl.top
+0.0.0.0 lagoconnect.com
 0.0.0.0 lagoonsandlakes.co
 0.0.0.0 lagunamadre.org
 0.0.0.0 lahanbertyes.com
@@ -34592,6 +34627,7 @@
 0.0.0.0 lamuistanbul.com
 0.0.0.0 lamzede.us
 0.0.0.0 lan20ut.com
+0.0.0.0 lanadmin.net
 0.0.0.0 lanaisgoll.com
 0.0.0.0 lanaojets.space
 0.0.0.0 lanbeforetime.ca
@@ -36250,6 +36286,7 @@
 0.0.0.0 louisaprocedureegoism.com
 0.0.0.0 louisegabriellelake.com
 0.0.0.0 louisvillecc.org
+0.0.0.0 louisvuittonoutletlv.us.com
 0.0.0.0 loukoost.net
 0.0.0.0 loulauzo.com
 0.0.0.0 louloapi.com
@@ -36827,6 +36864,7 @@
 0.0.0.0 maagayatrirealtech.com
 0.0.0.0 maalabaala.com
 0.0.0.0 maapitambra36.com
+0.0.0.0 maar-c.com
 0.0.0.0 maatenacted.guru
 0.0.0.0 mableyable.com
 0.0.0.0 maboazolsamp.com
@@ -37260,6 +37298,7 @@
 0.0.0.0 manmahapparels.com
 0.0.0.0 manmahapparels.in
 0.0.0.0 manmanlu.tech
+0.0.0.0 manna-webaruhaz.com
 0.0.0.0 mannarora.com
 0.0.0.0 mannaskinsmart.com
 0.0.0.0 mannerstiring.com
@@ -37452,6 +37491,7 @@
 0.0.0.0 martinkolcun.com
 0.0.0.0 martinscannabis.com
 0.0.0.0 martinsever.com
+0.0.0.0 martinsmejc.com
 0.0.0.0 martinuhrecky.com
 0.0.0.0 martuconfuse.com
 0.0.0.0 martyandrenee.com
@@ -38411,6 +38451,7 @@
 0.0.0.0 michaelkorshandbags.in.net
 0.0.0.0 michalgav.com
 0.0.0.0 michalkostic.com
+0.0.0.0 michalkukla.xyz
 0.0.0.0 michalzajacek.com
 0.0.0.0 michealmoyite.com
 0.0.0.0 michelle-springfield.com
@@ -39032,6 +39073,7 @@
 0.0.0.0 modernistal.com
 0.0.0.0 modescrips.info
 0.0.0.0 modestknownspooky.com
+0.0.0.0 modestmycyk.com
 0.0.0.0 modestsoftware.pro
 0.0.0.0 modffurniture.com
 0.0.0.0 modgendevelopers.com
@@ -40045,6 +40087,7 @@
 0.0.0.0 myhappygarden.shop
 0.0.0.0 myhomefoundation.org
 0.0.0.0 myhost.name
+0.0.0.0 myhosting-mail.com
 0.0.0.0 myhoteldating.us
 0.0.0.0 myhotelwoo.net
 0.0.0.0 myhotelwoo.us
@@ -41794,6 +41837,7 @@
 0.0.0.0 novascotiabusinessinsurance.com
 0.0.0.0 novascotiaworks.info
 0.0.0.0 novastylish.shop
+0.0.0.0 novatalk.xyz
 0.0.0.0 novatris.in
 0.0.0.0 novechufa.xyz
 0.0.0.0 novelas360.cc
@@ -43189,6 +43233,7 @@
 0.0.0.0 oniine-auth-go.com
 0.0.0.0 onindexicowillio.com
 0.0.0.0 oninewsful.life
+0.0.0.0 onionlake.org
 0.0.0.0 onkavst.com
 0.0.0.0 onkeskin.com
 0.0.0.0 onlecture.com
@@ -50015,6 +50060,7 @@
 0.0.0.0 regimehabitwarfare.com
 0.0.0.0 reginabusinessinsurance.ca
 0.0.0.0 reginabusinessinsurance.com
+0.0.0.0 reginacredit.ca
 0.0.0.0 reginagolden.com
 0.0.0.0 reginaldfield.top
 0.0.0.0 reginamundihomes.ng
@@ -51341,6 +51387,7 @@
 0.0.0.0 roucoutaivers.com
 0.0.0.0 roudoduor.com
 0.0.0.0 rougeslilyfy.tech
+0.0.0.0 roughknife.com
 0.0.0.0 rougloowhair.com
 0.0.0.0 rouinfernapean.com
 0.0.0.0 roujonoa.net
@@ -53862,6 +53909,7 @@
 0.0.0.0 sherpaworldexpedition.com
 0.0.0.0 sherpurreport.com
 0.0.0.0 sherryziegelmeyer.com
+0.0.0.0 sherwoodcarwash.ca
 0.0.0.0 sherylryklein.com
 0.0.0.0 sheschemetraitor.com
 0.0.0.0 shesh.in.net
@@ -55051,6 +55099,7 @@
 0.0.0.0 smertmoskalam.online
 0.0.0.0 smervyfenks.com
 0.0.0.0 smescorts.net
+0.0.0.0 smesh.net
 0.0.0.0 smetvonline.net
 0.0.0.0 smfsaudi.com
 0.0.0.0 smfsojvsaxbgf.com
@@ -56782,6 +56831,7 @@
 0.0.0.0 studioleoprotesecapilar.com
 0.0.0.0 studiom.store
 0.0.0.0 studiomc.agency
+0.0.0.0 studioplachy.com
 0.0.0.0 studiouspedal.com
 0.0.0.0 studiovogueluxury.com
 0.0.0.0 studsurs.net
@@ -57585,6 +57635,7 @@
 0.0.0.0 sysdmt.com
 0.0.0.0 syskonx.co.uk
 0.0.0.0 syskonx.uk
+0.0.0.0 sysmic.in.net
 0.0.0.0 sysnixautomation.com
 0.0.0.0 system-notify.app
 0.0.0.0 systemforge.org
@@ -58488,6 +58539,7 @@
 0.0.0.0 teqeupyyiipuoi.top
 0.0.0.0 teqnosys.com
 0.0.0.0 tequilaxchg.com
+0.0.0.0 teracloud.ca
 0.0.0.0 teraconnex.tech
 0.0.0.0 teracreative.com
 0.0.0.0 teradukaan.online
@@ -58498,6 +58550,7 @@
 0.0.0.0 terasflex.com
 0.0.0.0 terbaru.cyou
 0.0.0.0 terciogouge.com
+0.0.0.0 teresiamaitner.com
 0.0.0.0 terestriai.com
 0.0.0.0 terhousoopeuk.work
 0.0.0.0 terialnevitiesini.com
@@ -59397,6 +59450,7 @@
 0.0.0.0 thetruthbehindtheposts.org
 0.0.0.0 thetruthvortices.com
 0.0.0.0 thetshop.us
+0.0.0.0 theuniverserocket.com
 0.0.0.0 theurs.global
 0.0.0.0 theursglobal.com
 0.0.0.0 theusportal.com
@@ -60613,6 +60667,7 @@
 0.0.0.0 towerneom.com
 0.0.0.0 towerpro-ksa.com
 0.0.0.0 towersalighthybrids.com
+0.0.0.0 townandwaterproof.com
 0.0.0.0 townepro.com
 0.0.0.0 townervirgas.casa
 0.0.0.0 townhousepremium.org
@@ -64030,6 +64085,7 @@
 0.0.0.0 vernonrychapman.com
 0.0.0.0 vernonsales.net
 0.0.0.0 vernonsales.us
+0.0.0.0 veronahead.com
 0.0.0.0 veronicavalentine.com
 0.0.0.0 veronikastadnyk.xyz
 0.0.0.0 verossartesana.info
@@ -64480,6 +64536,7 @@
 0.0.0.0 vipdatingmania.com
 0.0.0.0 vipefx.com
 0.0.0.0 viperydeer.com
+0.0.0.0 vipgirlescort.com
 0.0.0.0 vipicmou.net
 0.0.0.0 vipinfrahousing.com
 0.0.0.0 vipinhell.com
@@ -64623,6 +64680,7 @@
 0.0.0.0 vivanovalink.co
 0.0.0.0 vivareimoveis.net
 0.0.0.0 vivarta.co.in
+0.0.0.0 vivatelecom.com.mx
 0.0.0.0 vivemomentos.com
 0.0.0.0 viverosmartinsl.com
 0.0.0.0 vivi-enterprises.com
@@ -65221,6 +65279,7 @@
 0.0.0.0 vypi.me
 0.0.0.0 vypime.com
 0.0.0.0 vypisy.net
+0.0.0.0 vyrobto.com
 0.0.0.0 vytand.com
 0.0.0.0 vytans.com
 0.0.0.0 vytisk3d.com
@@ -65961,6 +66020,7 @@
 0.0.0.0 welcomeylc.com
 0.0.0.0 welcomingcasklive.com
 0.0.0.0 welcurious.com
+0.0.0.0 weldfab.ca
 0.0.0.0 welfarefit.com
 0.0.0.0 welfds.com
 0.0.0.0 weliketofuckstrangers.com
@@ -67009,6 +67069,7 @@
 0.0.0.0 worldcommonwords.com
 0.0.0.0 worldcoolfeed.com
 0.0.0.0 worlddate.online
+0.0.0.0 worldetox.com
 0.0.0.0 worldfamoustantrik.com
 0.0.0.0 worldfiremedia.in
 0.0.0.0 worldfreshblog.com
@@ -69484,6 +69545,7 @@
 0.0.0.0 www.confifihotels.com
 0.0.0.0 www.confinedneighthimble.com
 0.0.0.0 www.confirmationefficiency.com
+0.0.0.0 www.confirmationevidence.com
 0.0.0.0 www.confirmedinfant.com
 0.0.0.0 www.confiscatetasted.com
 0.0.0.0 www.conformcashier.com
@@ -77535,6 +77597,7 @@
 0.0.0.0 yaomo520.com
 0.0.0.0 yaowsivumw.com
 0.0.0.0 yapockspayess.com
+0.0.0.0 yara.clinic
 0.0.0.0 yaraa.co.uk
 0.0.0.0 yarbthermos.com
 0.0.0.0 yardinflatableslide.com
@@ -78139,6 +78202,7 @@
 0.0.0.0 yourskincare.space
 0.0.0.0 yoursnaturalle.com
 0.0.0.0 yoursoulmate.xyz
+0.0.0.0 yourteethsaskatoon.com
 0.0.0.0 yourtopnews.com
 0.0.0.0 yourtubetvs.site
 0.0.0.0 yourviralnewz.com
