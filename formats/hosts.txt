@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.195
 # Release: 195
-# Entries: 79,366
-# Updated: Fri, 14 Jul 23 10:15:59 +06
+# Entries: 79,368
+# Updated: Fri, 14 Jul 23 12:13:37 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7552,6 +7552,7 @@
 0.0.0.0 awscloudfront.ml
 0.0.0.0 awsharproofed.com
 0.0.0.0 awshucksnashville.com
+0.0.0.0 awsnjsduyhgpk.com
 0.0.0.0 awstaticdn.net
 0.0.0.0 awsurveys.com
 0.0.0.0 awtcher.guru
@@ -29747,6 +29748,7 @@
 0.0.0.0 igaros.org
 0.0.0.0 igbiraintsv.com
 0.0.0.0 igcedgjbfifgibjfafc.ru
+0.0.0.0 igdtpohxlht.com
 0.0.0.0 igeijilkojopnl.xyz
 0.0.0.0 igepgyeyqtoiwtv.com
 0.0.0.0 igetis-global.com
