@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.196
 # Release: 196
-# Entries: 79,570
-# Updated: Sat, 15 Jul 23 10:11:44 +06
+# Entries: 79,572
+# Updated: Sat, 15 Jul 23 12:13:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -64467,6 +64467,7 @@
 0.0.0.0 vfudrqibtl.com
 0.0.0.0 vfuplfbmtph.com
 0.0.0.0 vfvdsati.com
+0.0.0.0 vfwbhmtyipkni.com
 0.0.0.0 vfyxjsclor.com
 0.0.0.0 vg.postboxabbacy.com
 0.0.0.0 vg.singphooleary.com
@@ -78195,6 +78196,7 @@
 0.0.0.0 ygamey.com
 0.0.0.0 ygawouif.com
 0.0.0.0 ygbexehbrn.com
+0.0.0.0 ygchprpbt.com
 0.0.0.0 ygfgtcom.cn
 0.0.0.0 ygoeqrmeqdbg.com
 0.0.0.0 ygor.fail
