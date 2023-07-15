@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.197
 # Release: 197
-# Entries: 79,646
-# Updated: Sun, 16 Jul 23 02:08:36 +06
+# Entries: 79,647
+# Updated: Sun, 16 Jul 23 04:14:57 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -63187,6 +63187,7 @@
 0.0.0.0 unpleasantconcrete.com
 0.0.0.0 unpleasantlaugh.pro
 0.0.0.0 unpluguraemic.com
+0.0.0.0 unpred.com
 0.0.0.0 unpredictablehateagent.com
 0.0.0.0 unpredictableshell.com
 0.0.0.0 unprojetdiscretdebienveillance.ca
