@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.196
 # Release: 196
-# Entries: 79,547
-# Updated: Sat, 15 Jul 23 04:15:24 +06
+# Entries: 79,550
+# Updated: Sat, 15 Jul 23 06:12:45 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1220,6 +1220,7 @@
 0.0.0.0 41a8c98afd.f52a1ac6d9.com
 0.0.0.0 41bp-url.com
 0.0.0.0 41df76c67812005c.com
+0.0.0.0 41iryo.com
 0.0.0.0 41ky.app
 0.0.0.0 420177978.world
 0.0.0.0 420community.tech
@@ -48788,6 +48789,7 @@
 0.0.0.0 qbphlrvkbwwanx.com
 0.0.0.0 qbrejpaccmtodu.com
 0.0.0.0 qbsrpdko.com
+0.0.0.0 qbtsukrm.com
 0.0.0.0 qbxpinblqmnjuin.xyz
 0.0.0.0 qbxucdgggl.com
 0.0.0.0 qbxwgnyrogc.xyz
@@ -49002,6 +49004,7 @@
 0.0.0.0 qn-5.com
 0.0.0.0 qn.handingfama.com
 0.0.0.0 qnailsandspafargo.com
+0.0.0.0 qnesrbdmfe.com
 0.0.0.0 qniadrptwh.com
 0.0.0.0 qnmhcnlwlbuh.com
 0.0.0.0 qnrnwihxtae.com
