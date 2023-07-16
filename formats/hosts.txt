@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.197
 # Release: 197
-# Entries: 79,710
-# Updated: Sun, 16 Jul 23 18:07:58 +06
+# Entries: 79,711
+# Updated: Sun, 16 Jul 23 20:14:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -45281,6 +45281,7 @@
 0.0.0.0 pbdlpvic.com
 0.0.0.0 pbfmmpohqvviqx.com
 0.0.0.0 pbgclgwyb.xyz
+0.0.0.0 pbgormggma.com
 0.0.0.0 pbhrxxcuobz.com
 0.0.0.0 pbjft.com
 0.0.0.0 pbjs.e-planning.net
