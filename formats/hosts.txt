@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.197
 # Release: 197
-# Entries: 79,665
-# Updated: Sun, 16 Jul 23 10:08:15 +06
+# Entries: 79,666
+# Updated: Sun, 16 Jul 23 12:12:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -39578,6 +39578,7 @@
 0.0.0.0 moroccovisiting.com
 0.0.0.0 moroccowaterrace.org
 0.0.0.0 mororvaginas.com
+0.0.0.0 morphio.info
 0.0.0.0 morpressa.com
 0.0.0.0 morps.xyz
 0.0.0.0 morred.com
