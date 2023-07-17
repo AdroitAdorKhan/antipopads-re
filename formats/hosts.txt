@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.199
 # Release: 199
-# Entries: 79,946
-# Updated: Tue, 18 Jul 23 02:11:17 +06
+# Entries: 79,947
+# Updated: Tue, 18 Jul 23 04:10:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -53237,6 +53237,7 @@
 0.0.0.0 scrubbleslaundryandmore.org
 0.0.0.0 scrubheiress.com
 0.0.0.0 scrubyes.com
+0.0.0.0 scruis.com
 0.0.0.0 scsivra.it
 0.0.0.0 scsm-selfservice.com
 0.0.0.0 scso-ok.org
