@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.198
 # Release: 198
-# Entries: 79,811
-# Updated: Mon, 17 Jul 23 12:12:03 +06
+# Entries: 79,813
+# Updated: Mon, 17 Jul 23 14:09:10 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -51173,6 +51173,7 @@
 0.0.0.0 richdothis.com
 0.0.0.0 richensapient.top
 0.0.0.0 richer.healthcare
+0.0.0.0 richersitfast.life
 0.0.0.0 richesknew.com
 0.0.0.0 richheartpr.life
 0.0.0.0 richinfo.co
@@ -59174,6 +59175,7 @@
 0.0.0.0 thavshgdad2.monster
 0.0.0.0 thawbootsamplitude.com
 0.0.0.0 thawheek.com
+0.0.0.0 thayed.com
 0.0.0.0 thaz.xyz
 0.0.0.0 thazukom.net
 0.0.0.0 thbum.xyz
