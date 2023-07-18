@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.200
 # Release: 200
-# Entries: 80,088
-# Updated: Wed, 19 Jul 23 02:09:12 +06
+# Entries: 80,090
+# Updated: Wed, 19 Jul 23 04:09:07 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14801,6 +14801,7 @@
 0.0.0.0 constintptr.com
 0.0.0.0 constituentonset.com
 0.0.0.0 constitutekidnapping.com
+0.0.0.0 constrictbuzz.com
 0.0.0.0 constructavix.com
 0.0.0.0 constructcowardlysurface.com
 0.0.0.0 constructdrankconcentration.com
@@ -28473,6 +28474,7 @@
 0.0.0.0 hiseewhatmyou.xyz
 0.0.0.0 hisens.de
 0.0.0.0 hissagain.com
+0.0.0.0 hissmergerflounder.com
 0.0.0.0 hissoverout.com
 0.0.0.0 histats.com
 0.0.0.0 histats.me
