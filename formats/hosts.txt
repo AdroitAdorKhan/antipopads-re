@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.199
 # Release: 199
-# Entries: 80,045
-# Updated: Tue, 18 Jul 23 20:10:21 +06
+# Entries: 80,052
+# Updated: Tue, 18 Jul 23 22:26:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9924,6 +9924,7 @@
 0.0.0.0 blode-cpq.com
 0.0.0.0 blog-benjaminpardon.online
 0.0.0.0 blog-hit-counters.com
+0.0.0.0 blogemagrecimento.xyz
 0.0.0.0 blogger2020.com
 0.0.0.0 bloggerex.com
 0.0.0.0 bloghero.academy
@@ -17588,6 +17589,7 @@
 0.0.0.0 didchinosdub.cam
 0.0.0.0 didibreakfreeparkingsearch.co.uk
 0.0.0.0 didiessyrt.com
+0.0.0.0 didisi-cofidis.it
 0.0.0.0 didmakingby.xyz
 0.0.0.0 didpuprat.com
 0.0.0.0 didwuxdpojkaxxk.com
@@ -38377,6 +38379,7 @@
 0.0.0.0 medscriptowl.com
 0.0.0.0 medseainvestment.com
 0.0.0.0 medstandart.biz
+0.0.0.0 medswebstore.com
 0.0.0.0 medtestlabs.com
 0.0.0.0 medtkvdoqef.com
 0.0.0.0 meduofk.net
@@ -39916,6 +39919,7 @@
 0.0.0.0 mpfwoxjfn.com
 0.0.0.0 mphmesquitepower.com
 0.0.0.0 mpk01.com
+0.0.0.0 mplayeranyd.info
 0.0.0.0 mployeesihi.xyz
 0.0.0.0 mpls.buzz
 0.0.0.0 mpmant.com
@@ -58361,6 +58365,7 @@
 0.0.0.0 takiparkrb.site
 0.0.0.0 takqart.com
 0.0.0.0 takychasing.com
+0.0.0.0 talaeidl.com
 0.0.0.0 talamk3.beauty
 0.0.0.0 talblogs.org
 0.0.0.0 talcoidsakis.com
@@ -70683,6 +70688,7 @@
 0.0.0.0 www.dictatepantry.com
 0.0.0.0 www.dictaterepublicbog.com
 0.0.0.0 www.dictatorcarefulday.com
+0.0.0.0 www.didisi-cofidis.it
 0.0.0.0 www.diealliedlocked.com
 0.0.0.0 www.dieta21dias.app
 0.0.0.0 www.dietaryexpanded.com
@@ -73455,6 +73461,7 @@
 0.0.0.0 www.mediversebd.com
 0.0.0.0 www.medscriptowl.com
 0.0.0.0 www.medseainvestment.com
+0.0.0.0 www.medswebstore.com
 0.0.0.0 www.medtestlabs.com
 0.0.0.0 www.medynsky.co.uk
 0.0.0.0 www.meetexhibitcautiously.com
