@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.200
 # Release: 200
-# Entries: 80,217
-# Updated: Wed, 19 Jul 23 14:26:51 +06
+# Entries: 80,224
+# Updated: Wed, 19 Jul 23 16:12:00 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -26740,6 +26740,7 @@
 0.0.0.0 greetham.net
 0.0.0.0 greetingirritation.com
 0.0.0.0 greetpanda.org
+0.0.0.0 greewepi.net
 0.0.0.0 greezoob.net
 0.0.0.0 grefagroon.com
 0.0.0.0 grefutiwhe.com
@@ -31221,6 +31222,7 @@
 0.0.0.0 invaluable-approach.com
 0.0.0.0 invaluablespectacularshovel.com
 0.0.0.0 invass.com
+0.0.0.0 inventactiveeasy.com
 0.0.0.0 inventaire-constructo.com
 0.0.0.0 inventorypikepockets.com
 0.0.0.0 inventpeer.info
@@ -40342,6 +40344,7 @@
 0.0.0.0 musmrebitfic.com
 0.0.0.0 muspecs.net
 0.0.0.0 musselchangeableskier.com
+0.0.0.0 musselpumpalone.com
 0.0.0.0 musselregimentcharles.com
 0.0.0.0 musswu.cn
 0.0.0.0 mustbehand.com
@@ -44472,6 +44475,7 @@
 0.0.0.0 ouldlikukemyfu.com
 0.0.0.0 oulsawha.net
 0.0.0.0 oulscvrifabk.xyz
+0.0.0.0 oulsools.com
 0.0.0.0 oulukdliketo.shop
 0.0.0.0 oulukdltobepa.com
 0.0.0.0 ouncillorswhow.info
@@ -45776,6 +45780,7 @@
 0.0.0.0 pendant-light.org
 0.0.0.0 penderfundcapital.com
 0.0.0.0 penderventurecapital.com
+0.0.0.0 pendinghollow.com
 0.0.0.0 pendingtx.com
 0.0.0.0 pendle.online
 0.0.0.0 pendulousopeningambassador.com
@@ -72868,6 +72873,7 @@
 0.0.0.0 www.javpiayer.com
 0.0.0.0 www.javstudy1.com
 0.0.0.0 www.jawlawolf.com
+0.0.0.0 www.jawsspecific.com
 0.0.0.0 www.jaydriftornament.com
 0.0.0.0 www.jazzchampionshipsca.org
 0.0.0.0 www.jazzmoist.com
@@ -78191,6 +78197,7 @@
 0.0.0.0 xn--lt-3va.com
 0.0.0.0 xn--lwryi.com
 0.0.0.0 xn--marcadeespaa-khb.com
+0.0.0.0 xn--mephistoespaa-tkb.com
 0.0.0.0 xn--northfaceespaa-2nb.com
 0.0.0.0 xn--northfacemagyarorszg-0xb.com
 0.0.0.0 xn--northfacemxico-kkb.com
