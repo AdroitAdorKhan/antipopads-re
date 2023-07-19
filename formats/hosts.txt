@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.201
 # Release: 201
-# Entries: 80,288
-# Updated: Thu, 20 Jul 23 02:10:36 +06
+# Entries: 80,292
+# Updated: Thu, 20 Jul 23 04:09:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14492,6 +14492,7 @@
 0.0.0.0 comoprogramartrading.com
 0.0.0.0 compactech.online
 0.0.0.0 compactyunker.com
+0.0.0.0 compandlap.xyz
 0.0.0.0 companionbotanicals.com
 0.0.0.0 companyanytorn.com
 0.0.0.0 companystupid.org
@@ -46358,6 +46359,7 @@
 0.0.0.0 picalchymic.uno
 0.0.0.0 picath.com
 0.0.0.0 picbucks.com
+0.0.0.0 piccid.com
 0.0.0.0 pickaflick.co
 0.0.0.0 pickarts.co
 0.0.0.0 pickedlawhandshake.com
@@ -51681,6 +51683,7 @@
 0.0.0.0 rlmcegsrhuspsq.com
 0.0.0.0 rlnwccqsko.com
 0.0.0.0 rlomivunesqal.com
+0.0.0.0 rlrekuaonqt.com
 0.0.0.0 rlvvakyuipqbl.com
 0.0.0.0 rlyorbiditys.online
 0.0.0.0 rm.braizescereza.com
@@ -77262,6 +77265,7 @@
 0.0.0.0 www.winarmy.com
 0.0.0.0 www.windealsday.com
 0.0.0.0 www.windowdemiselowlife.com
+0.0.0.0 www.windowsdaggerminiaturization.com
 0.0.0.0 www.windowsforus.com
 0.0.0.0 www.windu4d.com
 0.0.0.0 www.windu4d.org
