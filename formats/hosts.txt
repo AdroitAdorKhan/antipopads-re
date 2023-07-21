@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.202
 # Release: 202
-# Entries: 80,631
-# Updated: Fri, 21 Jul 23 12:08:15 +06
+# Entries: 80,662
+# Updated: Fri, 21 Jul 23 14:21:07 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1250,6 +1250,7 @@
 0.0.0.0 43t53c9e.de
 0.0.0.0 4422432.com
 0.0.0.0 442hu.com
+0.0.0.0 442picks.com
 0.0.0.0 44455663.com
 0.0.0.0 444wc.com
 0.0.0.0 446555.comwww.844644.com
@@ -11593,6 +11594,7 @@
 0.0.0.0 c-4-l.us
 0.0.0.0 c-4fambt.com
 0.0.0.0 c-nft.org
+0.0.0.0 c-pras.com
 0.0.0.0 c.fatulichin.com
 0.0.0.0 c.getsurv2you.com
 0.0.0.0 c.grendex.com
@@ -12538,6 +12540,7 @@
 0.0.0.0 cdwyjuchsqvwa.xyz
 0.0.0.0 cdxnopt.com
 0.0.0.0 ce-midstream.com
+0.0.0.0 ce-pras.com
 0.0.0.0 ce.welficpucelle.com
 0.0.0.0 ce614db82b.3eb8f81779.com
 0.0.0.0 ceamtaaprhha.xyz
@@ -12673,6 +12676,7 @@
 0.0.0.0 centimetresnappeddock.com
 0.0.0.0 centpopped.com
 0.0.0.0 centraldaoferta.shop
+0.0.0.0 centralgoverment.com
 0.0.0.0 centralheat.me
 0.0.0.0 centralheat.net
 0.0.0.0 centralindore.in
@@ -13702,6 +13706,7 @@
 0.0.0.0 clearac.com
 0.0.0.0 clearadnetwork.com
 0.0.0.0 clearancejoinjavelin.com
+0.0.0.0 clearancetastybroadsheet.com
 0.0.0.0 clearascrystaldata.us
 0.0.0.0 clearfootprint.com
 0.0.0.0 clearload.site
@@ -24350,6 +24355,7 @@
 0.0.0.0 fugcgfilma.com
 0.0.0.0 fugi.online
 0.0.0.0 fugles.net
+0.0.0.0 fuhr31.com
 0.0.0.0 fujifilrm.com
 0.0.0.0 fujigar.com
 0.0.0.0 fujitsu.co
@@ -25259,6 +25265,7 @@
 0.0.0.0 geterdone.ca
 0.0.0.0 geteversensecgm.com
 0.0.0.0 getgoodgaming.net
+0.0.0.0 gethelpofficiating.com
 0.0.0.0 gethere3fat3r.com
 0.0.0.0 getherefwu.xyz
 0.0.0.0 getimmediatebitcoin.net
@@ -26604,6 +26611,7 @@
 0.0.0.0 gpylmwtjiy.com
 0.0.0.0 gpysthpf.top
 0.0.0.0 gq.varsalbuckpot.com
+0.0.0.0 gqaecrxbj.com
 0.0.0.0 gqcmqihonrx.com
 0.0.0.0 gqejwlkgcnfrkw.com
 0.0.0.0 gqhomez.ca
@@ -38696,6 +38704,7 @@
 0.0.0.0 megaeauction.com
 0.0.0.0 megaeauction.net
 0.0.0.0 megaffiliates.com
+0.0.0.0 megamingpc.com
 0.0.0.0 megaplastna.com
 0.0.0.0 megapopads.com
 0.0.0.0 megapornbase.com
@@ -41741,6 +41750,7 @@
 0.0.0.0 newsnewsmagazinetoday.com
 0.0.0.0 newsnourish.com
 0.0.0.0 newsouthsense.com
+0.0.0.0 newsprattle.com
 0.0.0.0 newsrade.tk
 0.0.0.0 newsrishta.com
 0.0.0.0 newssale.info
@@ -42274,6 +42284,7 @@
 0.0.0.0 noddinglavish.com
 0.0.0.0 node.ec
 0.0.0.0 nodeleng.com
+0.0.0.0 nodormers.com
 0.0.0.0 noekaflv.com
 0.0.0.0 noelbenc.com
 0.0.0.0 noelsdoc.cam
@@ -42743,6 +42754,7 @@
 0.0.0.0 nuggetscrore.life
 0.0.0.0 nuggettree.org
 0.0.0.0 nuggsoft.com
+0.0.0.0 nuglegdkyjlaye.com
 0.0.0.0 nugrudsu.xyz
 0.0.0.0 nugxmtkydv.com
 0.0.0.0 nuheartbeat.com
@@ -48058,6 +48070,7 @@
 0.0.0.0 presideproreassure.com
 0.0.0.0 presisource.tech
 0.0.0.0 press-here-to-continue.com
+0.0.0.0 pressedserdered.com
 0.0.0.0 pressidergotered.com
 0.0.0.0 pressingequation.com
 0.0.0.0 pressingmiscellaneoustry.com
@@ -48630,7 +48643,9 @@
 0.0.0.0 pryvateparteez.net
 0.0.0.0 przywodztwosytuacyjne.io
 0.0.0.0 przywodztwosytuacyjne.space
+0.0.0.0 ps-bl.com
 0.0.0.0 ps.popcash.net
+0.0.0.0 ps4bl.com
 0.0.0.0 ps7894.com
 0.0.0.0 psackesh.xyz
 0.0.0.0 psaftilr.com
@@ -49538,6 +49553,7 @@
 0.0.0.0 qkiljxvihu.com
 0.0.0.0 qkjuwqysugom.com
 0.0.0.0 qkkksk.com
+0.0.0.0 qkmfhcvowbksi.com
 0.0.0.0 qkmxpfbomofn.com
 0.0.0.0 qkouawnjejedvno.xyz
 0.0.0.0 qkqhliaipbfwuxd.com
@@ -51368,6 +51384,7 @@
 0.0.0.0 retdbushtit.website
 0.0.0.0 retenservice.de
 0.0.0.0 retheme.net
+0.0.0.0 rethinkacromegaly.com
 0.0.0.0 rethinkingcriminaljustice.org
 0.0.0.0 rethowilmari.com
 0.0.0.0 reticencecarefully.com
@@ -52076,6 +52093,7 @@
 0.0.0.0 roiughttohimhe.xyz
 0.0.0.0 rokanyy.africa
 0.0.0.0 rokitokijoki.com
+0.0.0.0 rokolabs.xyz
 0.0.0.0 rokreeza.com
 0.0.0.0 roksit.net
 0.0.0.0 rolamerheb.com
@@ -55885,6 +55903,8 @@
 0.0.0.0 smartcarinsurance.info
 0.0.0.0 smartcityhub.org
 0.0.0.0 smartcj.com
+0.0.0.0 smartdoco.app
+0.0.0.0 smartdoco.cloud
 0.0.0.0 smartdoco.com
 0.0.0.0 smarteam.space
 0.0.0.0 smartel.uk
@@ -62668,6 +62688,7 @@
 0.0.0.0 tubepure.com
 0.0.0.0 tuberapacitynotably.com
 0.0.0.0 tuberay.com
+0.0.0.0 tuberculosis.news
 0.0.0.0 tuberise.com
 0.0.0.0 tubeskagos.life
 0.0.0.0 tubespyder.com
@@ -67086,6 +67107,7 @@
 0.0.0.0 wellnessfamily24.com
 0.0.0.0 wellnesshomeocare.com
 0.0.0.0 wellnesshoteltummers.com
+0.0.0.0 wellnessinlaw.com
 0.0.0.0 wellnessrewards.in
 0.0.0.0 wellnessvapeclub.com
 0.0.0.0 wellnesszap.com
@@ -68073,6 +68095,8 @@
 0.0.0.0 woowwwzz.com
 0.0.0.0 wopgpowhbk.com
 0.0.0.0 woplffyuodnc.com
+0.0.0.0 wopocapital.com
+0.0.0.0 wopogroup.com
 0.0.0.0 wopsedoaltuwipp.com
 0.0.0.0 wopsedoaltuwn.com
 0.0.0.0 wopsedoaltuwo.com
@@ -70117,6 +70141,7 @@
 0.0.0.0 www.brotherspooltn.com
 0.0.0.0 www.brownoclock.com
 0.0.0.0 www.brrcaqvz.com
+0.0.0.0 www.brud.app
 0.0.0.0 www.bruisesstomach.com
 0.0.0.0 www.brunchcreatesenses.com
 0.0.0.0 www.brunetbooks.ca
@@ -72156,6 +72181,7 @@
 0.0.0.0 www.fuckyoucheater.com
 0.0.0.0 www.fuelcompatibleblaspheme.com
 0.0.0.0 www.fuelsfromco2.com
+0.0.0.0 www.fuhr31.com
 0.0.0.0 www.fuke160.com
 0.0.0.0 www.fuli19.sk
 0.0.0.0 www.fuli2023.com
@@ -72260,6 +72286,7 @@
 0.0.0.0 www.germinateensue.com
 0.0.0.0 www.getcgdtested.com
 0.0.0.0 www.getclassification.com
+0.0.0.0 www.gethelpofficiating.com
 0.0.0.0 www.gethere3fat3r.com
 0.0.0.0 www.getmecure.com
 0.0.0.0 www.getnewnaukri.com
@@ -73808,6 +73835,7 @@
 0.0.0.0 www.m3mtheculinan.net
 0.0.0.0 www.m42software.com
 0.0.0.0 www.maapitambra36.com
+0.0.0.0 www.macabray.com
 0.0.0.0 www.machineattitudeace.com
 0.0.0.0 www.macrosoftware.io
 0.0.0.0 www.macsignuae.com
@@ -74414,6 +74442,7 @@
 0.0.0.0 www.noakhalishop.com
 0.0.0.0 www.noalts.tech
 0.0.0.0 www.noddinglavish.com
+0.0.0.0 www.nodormers.com
 0.0.0.0 www.nofikkr.com
 0.0.0.0 www.noggalogue.com
 0.0.0.0 www.noiseslaveoutfit.com
@@ -78771,6 +78800,7 @@
 0.0.0.0 xtraserp.com
 0.0.0.0 xtreme-setups.com
 0.0.0.0 xtremeserve.xyz
+0.0.0.0 xtrl.net
 0.0.0.0 xtrl.org
 0.0.0.0 xtropy.biz
 0.0.0.0 xtropy.info
@@ -80283,6 +80313,7 @@
 0.0.0.0 zhenhaole.com
 0.0.0.0 zhenhaomv.com
 0.0.0.0 zheptheleap.com
+0.0.0.0 zhfvwkkftg.com
 0.0.0.0 zhgnbn.xyz
 0.0.0.0 zhhxxnfuxn.com
 0.0.0.0 zhiptechnologies.com
