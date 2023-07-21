@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.202
 # Release: 202
-# Entries: 80,628
-# Updated: Fri, 21 Jul 23 10:09:27 +06
+# Entries: 80,631
+# Updated: Fri, 21 Jul 23 12:08:15 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5354,6 +5354,7 @@
 0.0.0.0 amltaqap.com
 0.0.0.0 ammaculot.net
 0.0.0.0 ammankeyan.com
+0.0.0.0 ammits.com
 0.0.0.0 ammomanusa.com
 0.0.0.0 ammunitionconsiderinstitution.com
 0.0.0.0 amnetcorp.com.hn
@@ -19297,6 +19298,7 @@
 0.0.0.0 dvdl.net
 0.0.0.0 dvecollective.com
 0.0.0.0 dverinaminke.ru
+0.0.0.0 dvfmdgdk.com
 0.0.0.0 dvhymipl.com
 0.0.0.0 dviccvivms.com
 0.0.0.0 dvigukindal.com
@@ -65225,6 +65227,7 @@
 0.0.0.0 vhsxikfsrm.com
 0.0.0.0 vhtvcwtalrwpi.com
 0.0.0.0 vhug.net
+0.0.0.0 vhvbghdmhwage.com
 0.0.0.0 vhwjbjqqd.com
 0.0.0.0 vhxckxnykra.top
 0.0.0.0 vhydgqplmbbrdq.com
