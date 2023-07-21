@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.202
 # Release: 202
-# Entries: 80,679
-# Updated: Fri, 21 Jul 23 18:08:44 +06
+# Entries: 80,687
+# Updated: Fri, 21 Jul 23 20:09:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5141,6 +5141,7 @@
 0.0.0.0 alterupholdcinema.com
 0.0.0.0 alterwebshop.com
 0.0.0.0 altfilmschool.com
+0.0.0.0 altharwattatili.com
 0.0.0.0 altheasspit.store
 0.0.0.0 althov.com
 0.0.0.0 altitude-arena.com
@@ -21637,6 +21638,7 @@
 0.0.0.0 evidhjksdtgyxrh.xyz
 0.0.0.0 evidyakosh.com
 0.0.0.0 evieshouseoftravel.online
+0.0.0.0 eviety.com
 0.0.0.0 evilhost24eifvco.com
 0.0.0.0 evilhostd1f0h2qo.com
 0.0.0.0 evilhostgxkamtkd.com
@@ -57102,6 +57104,7 @@
 0.0.0.0 ssoap2day.live
 0.0.0.0 ssoap2day.rs
 0.0.0.0 ssogxeas.com
+0.0.0.0 ssotiyrecekqv.com
 0.0.0.0 ssp-bcc-ads.com
 0.0.0.0 ssp-theheartbidnet.monster
 0.0.0.0 ssp.bidvol.com
@@ -68766,6 +68769,7 @@
 0.0.0.0 www.33ywnrqqx.com
 0.0.0.0 www.345a6.com
 0.0.0.0 www.35593c.com
+0.0.0.0 www.360-180.net
 0.0.0.0 www.366xsw.com
 0.0.0.0 www.367tv.com
 0.0.0.0 www.369hezi.com
@@ -69066,6 +69070,7 @@
 0.0.0.0 www.abhithedev.tech
 0.0.0.0 www.abhrajitenterprise.com
 0.0.0.0 www.abiderestless.com
+0.0.0.0 www.abigbeautifullife.com
 0.0.0.0 www.abjectionblame.com
 0.0.0.0 www.ablyfought.com
 0.0.0.0 www.abnegateexcavator.com
@@ -73457,6 +73462,7 @@
 0.0.0.0 www.killchatgpt.com
 0.0.0.0 www.kindleaimingbase.com
 0.0.0.0 www.kindlelegalizebreaking.com
+0.0.0.0 www.kinfuse.com
 0.0.0.0 www.kingdomtrusts.org
 0.0.0.0 www.kingluxuriantstern.com
 0.0.0.0 www.kingrecommendation.com
@@ -76001,7 +76007,9 @@
 0.0.0.0 www.sendegobresib.co.uk
 0.0.0.0 www.sendegobresob.com
 0.0.0.0 www.sendegobresob.info
+0.0.0.0 www.sendegobresob.net
 0.0.0.0 www.sendegobresub.org
+0.0.0.0 www.sendegovresib.net
 0.0.0.0 www.senecapolytech.net
 0.0.0.0 www.senecapolytechnic.net
 0.0.0.0 www.senecapolytechnicinstitute.net
