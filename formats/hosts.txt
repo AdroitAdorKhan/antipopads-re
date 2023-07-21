@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.202
 # Release: 202
-# Entries: 80,561
-# Updated: Fri, 21 Jul 23 04:08:39 +06
+# Entries: 80,568
+# Updated: Fri, 21 Jul 23 06:26:41 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10429,6 +10429,7 @@
 0.0.0.0 boombang.fr
 0.0.0.0 boomcastmedianetwork.com
 0.0.0.0 boomersask.us
+0.0.0.0 boomouso.xyz
 0.0.0.0 boomslot88.site
 0.0.0.0 boonsbarcas.uno
 0.0.0.0 boopstorm.net
@@ -10498,6 +10499,7 @@
 0.0.0.0 bosmahjong.com
 0.0.0.0 bosquesagradoglamping.com
 0.0.0.0 bossageagree.com
+0.0.0.0 bosscrystudious.com
 0.0.0.0 bosseslaps.website
 0.0.0.0 bossijan.com
 0.0.0.0 bossladybee.com
@@ -23246,6 +23248,7 @@
 0.0.0.0 fk.unpopewaltzed.com
 0.0.0.0 fkahuhuhk.xyz
 0.0.0.0 fkbwtoopwg.com
+0.0.0.0 fkcvtiqbbgedb.com
 0.0.0.0 fkdlltltbm.com
 0.0.0.0 fkeaghhuh.com
 0.0.0.0 fkexeijtqstuh.xyz
@@ -27813,6 +27816,7 @@
 0.0.0.0 havenkingdom.shop
 0.0.0.0 havenwrite.com
 0.0.0.0 haveproceeding.com
+0.0.0.0 haveralupbeat.website
 0.0.0.0 haverhillmultiservices.com
 0.0.0.0 havils.com
 0.0.0.0 havingsreward.com
@@ -42806,6 +42810,7 @@
 0.0.0.0 nuzuki.com
 0.0.0.0 nv.anginasallodge.com
 0.0.0.0 nv.uglieraccoll.com
+0.0.0.0 nvaepsns.com
 0.0.0.0 nvduqupvlvnklb.xyz
 0.0.0.0 nversitymi.com
 0.0.0.0 nveryldgittle.cc
@@ -54817,6 +54822,7 @@
 0.0.0.0 shiwexgk.xyz
 0.0.0.0 shki321.com
 0.0.0.0 shkola21morf.ru
+0.0.0.0 shlcvxdpm.com
 0.0.0.0 shlkqfkyvh.com
 0.0.0.0 shloemi.com
 0.0.0.0 shlyapajhd2kle8pnc09.com
@@ -78523,6 +78529,7 @@
 0.0.0.0 xn--lwryi.com
 0.0.0.0 xn--marcadeespaa-khb.com
 0.0.0.0 xn--mephistoespaa-tkb.com
+0.0.0.0 xn--nobulltrkiye-jlb.com
 0.0.0.0 xn--northfaceespaa-2nb.com
 0.0.0.0 xn--northfacemagyarorszg-0xb.com
 0.0.0.0 xn--northfacemxico-kkb.com
