@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.202
 # Release: 202
-# Entries: 80,672
-# Updated: Fri, 21 Jul 23 16:11:02 +06
+# Entries: 80,679
+# Updated: Fri, 21 Jul 23 18:08:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14760,6 +14760,7 @@
 0.0.0.0 conexionpuma.us
 0.0.0.0 conf-scimeeting.biz
 0.0.0.0 confdatabase.com
+0.0.0.0 confectionerytaxi.com
 0.0.0.0 conference-series.info
 0.0.0.0 conferencecast.co.uk
 0.0.0.0 conferencecast.com
@@ -18872,6 +18873,7 @@
 0.0.0.0 draokrojba.com
 0.0.0.0 drapefabric.com
 0.0.0.0 drapmedia.net
+0.0.0.0 drarcchewdfk.com
 0.0.0.0 drasticdrama.com
 0.0.0.0 drasticmean.com
 0.0.0.0 drasticnoplastic.org
@@ -22641,6 +22643,7 @@
 0.0.0.0 feisucn.com
 0.0.0.0 feisze.com
 0.0.0.0 feiyu666.top
+0.0.0.0 fejisu.com
 0.0.0.0 fejla.com
 0.0.0.0 fejlek.com
 0.0.0.0 fejwcnbsu.com
@@ -51891,6 +51894,7 @@
 0.0.0.0 rlaa.xyz
 0.0.0.0 rlasesoria.com
 0.0.0.0 rldwideorga.com
+0.0.0.0 rlfbusiness.com
 0.0.0.0 rlflsndcr.com
 0.0.0.0 rlfqwlstxhq.xyz
 0.0.0.0 rlfvuficzdmsx.com
@@ -71929,6 +71933,7 @@
 0.0.0.0 www.feisucn.com
 0.0.0.0 www.feisze.com
 0.0.0.0 www.feiyu666.top
+0.0.0.0 www.fejisu.com
 0.0.0.0 www.fekratoday.com
 0.0.0.0 www.felicitychill.com
 0.0.0.0 www.femalenurture.com
@@ -73696,6 +73701,7 @@
 0.0.0.0 www.lincswype.com
 0.0.0.0 www.line-up2009.com
 0.0.0.0 www.linealtwelfthinject.com
+0.0.0.0 www.lineclaimform.com
 0.0.0.0 www.linedprocurator.com
 0.0.0.0 www.linedpuzzle.com
 0.0.0.0 www.linendoubtful.com
@@ -75747,6 +75753,7 @@
 0.0.0.0 www.riverrunmhc.org
 0.0.0.0 www.rjmortgage.store
 0.0.0.0 www.rkpharma.co.in
+0.0.0.0 www.rlfbusiness.com
 0.0.0.0 www.rlg.coach
 0.0.0.0 www.rlg.world
 0.0.0.0 www.rmcoinpay.com
