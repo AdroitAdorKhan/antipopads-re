@@ -20,8 +20,8 @@
 ! Version: 23.07.203
 ! Release: 203
 ! Expires: 1 day
-! Entries: 80,708
-! Updated: Sat, 22 Jul 23 02:08:54 +06
+! Entries: 80,709
+! Updated: Sat, 22 Jul 23 04:08:49 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -55286,6 +55286,7 @@
 ||simaccweb.com^
 ||simaowilliams.com^
 ||simatimes.com^
+||simba-digital.com^
 ||simbiworks.org^
 ||simchascribe.com^
 ||simcoereads.com^
