@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.205
 # Release: 205
-# Entries: 81,215
-# Updated: Mon, 24 Jul 23 00:09:11 +06
+# Entries: 81,221
+# Updated: Mon, 24 Jul 23 02:07:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2279,6 +2279,7 @@
 0.0.0.0 996.fish
 0.0.0.0 996.works
 0.0.0.0 997ky.app
+0.0.0.0 9981shop.com
 0.0.0.0 9988ky.vip
 0.0.0.0 9996777888.com
 0.0.0.0 99968tz.com
@@ -8774,6 +8775,7 @@
 0.0.0.0 beedeveled.co
 0.0.0.0 beedifficultyending.com
 0.0.0.0 beefarmstay.com
+0.0.0.0 beefeggspin.com
 0.0.0.0 beeferzak.com
 0.0.0.0 beefrantravelled.com
 0.0.0.0 beefypolitics.com
@@ -36422,6 +36424,7 @@
 0.0.0.0 likefun.online
 0.0.0.0 likehardcoreporn.com
 0.0.0.0 likeix.com
+0.0.0.0 likelabs.de
 0.0.0.0 likelihoodjoggingrepresent.com
 0.0.0.0 likenaavu.com
 0.0.0.0 likenesscollecting.com
@@ -60655,6 +60658,7 @@
 0.0.0.0 theoriginalstutzcider.com
 0.0.0.0 theoryloveescort.com
 0.0.0.0 theoutdoorshootingadacemy.com
+0.0.0.0 theoutdoortoycentre.com
 0.0.0.0 theoxfordfreepress.co.uk
 0.0.0.0 thep293.com
 0.0.0.0 thep322.com
@@ -69500,6 +69504,7 @@
 0.0.0.0 www.9857047066.com
 0.0.0.0 www.990hk.com5555k.comwwwhkjcxcomjndltc.comwww333883comwww.mh59.comwww.880666.comwww.601122.com
 0.0.0.0 www.996.works
+0.0.0.0 www.9981shop.com
 0.0.0.0 www.99968tz.com
 0.0.0.0 www.999stores.online
 0.0.0.0 www.99ri126.com
@@ -77379,6 +77384,7 @@
 0.0.0.0 www.theobaidur.dev
 0.0.0.0 www.theologicallimbs.com
 0.0.0.0 www.theologicalpresentation.com
+0.0.0.0 www.theoutdoortoycentre.com
 0.0.0.0 www.thep322.com
 0.0.0.0 www.thepackingshed.com.au
 0.0.0.0 www.thepeoplestoreentertainmentcompany.online
