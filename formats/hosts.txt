@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.205
 # Release: 205
-# Entries: 81,221
-# Updated: Mon, 24 Jul 23 02:07:56 +06
+# Entries: 81,228
+# Updated: Mon, 24 Jul 23 04:08:35 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5805,6 +5805,7 @@
 0.0.0.0 antyoubelike.buzz
 0.0.0.0 antyoubeliketheap.com
 0.0.0.0 anu-desk.space
+0.0.0.0 anubhavs.net
 0.0.0.0 anubinbrewed.tech
 0.0.0.0 anujnandeshwar.tech
 0.0.0.0 anuni.net
@@ -8401,6 +8402,7 @@
 0.0.0.0 bashundharadigi.com
 0.0.0.0 basiconeyearads.com
 0.0.0.0 basicpossibility.com
+0.0.0.0 basicwhenpear.com
 0.0.0.0 basilarendowed.website
 0.0.0.0 basilhealthai.us
 0.0.0.0 basilicahall.com
@@ -10119,6 +10121,7 @@
 0.0.0.0 bluelabelmoscow.com
 0.0.0.0 bluelte.com
 0.0.0.0 bluemacun.org
+0.0.0.0 bluemedix.online
 0.0.0.0 bluemercury.shop
 0.0.0.0 blueomatic.com
 0.0.0.0 blueonecard.us
@@ -49460,6 +49463,7 @@
 0.0.0.0 pushcampaign.club
 0.0.0.0 pushcentric.com
 0.0.0.0 pushclk.com
+0.0.0.0 pushcord.net
 0.0.0.0 pushdelone.com
 0.0.0.0 pushdistilleries.com
 0.0.0.0 pushdom.co
@@ -69945,6 +69949,7 @@
 0.0.0.0 www.antlerrecordingcat.com
 0.0.0.0 www.antoniaduchesne.com
 0.0.0.0 www.antonysurface.com
+0.0.0.0 www.anubhavs.net
 0.0.0.0 www.anvilcompetitivepills.com
 0.0.0.0 www.anybanner.net
 0.0.0.0 www.anybodytoldsieve.com
@@ -70515,6 +70520,7 @@
 0.0.0.0 www.blubberspoiled.com
 0.0.0.0 www.blueberrydanelarger.com
 0.0.0.0 www.blueleaf.users.aulsidakr.com
+0.0.0.0 www.bluemedix.online
 0.0.0.0 www.bluetero.online
 0.0.0.0 www.bluetero.space
 0.0.0.0 www.bluffdetermine.com
@@ -75889,6 +75895,7 @@
 0.0.0.0 www.pursuitnauseousinvalid.com
 0.0.0.0 www.push-play.it
 0.0.0.0 www.push-services.com
+0.0.0.0 www.pushcord.net
 0.0.0.0 www.pushdistilleries.com
 0.0.0.0 www.pushedgraceful.com
 0.0.0.0 www.pushynations.com
