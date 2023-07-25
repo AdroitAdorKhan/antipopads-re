@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.206
 # Release: 206
-# Entries: 81,433
-# Updated: Tue, 25 Jul 23 04:08:33 +06
+# Entries: 81,438
+# Updated: Tue, 25 Jul 23 06:33:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -38532,6 +38532,7 @@
 0.0.0.0 mashrika.net
 0.0.0.0 mashrook.net
 0.0.0.0 mashsuicidal.com
+0.0.0.0 masitortechnology.com
 0.0.0.0 masjidalhudda.com
 0.0.0.0 masjidnetwork.org
 0.0.0.0 masjidqudwah.com
@@ -52738,6 +52739,7 @@
 0.0.0.0 rotatech.in
 0.0.0.0 rotateme.ru
 0.0.0.0 rotatemysoft.ru
+0.0.0.0 rotation-context.ru
 0.0.0.0 rotchestche.com
 0.0.0.0 rotdie.com
 0.0.0.0 rotdubboy.com
@@ -58545,6 +58547,7 @@
 0.0.0.0 summaryflamen.com
 0.0.0.0 summaryvalued.com
 0.0.0.0 summercovert.com
+0.0.0.0 summerfieldmarketing.com
 0.0.0.0 summerripe.com
 0.0.0.0 summitaggregates.com
 0.0.0.0 summitchafeperilous.com
@@ -74649,6 +74652,7 @@
 0.0.0.0 www.marvelselectedheron.com
 0.0.0.0 www.mascarasock.com
 0.0.0.0 www.mashsuicidal.com
+0.0.0.0 www.masitortechnology.com
 0.0.0.0 www.masjidnetwork.org
 0.0.0.0 www.maskesys.org
 0.0.0.0 www.massivebelieved.com
@@ -77300,6 +77304,7 @@
 0.0.0.0 www.sulseerg.com
 0.0.0.0 www.sumagala.org
 0.0.0.0 www.summaryvalued.com
+0.0.0.0 www.summerfieldmarketing.com
 0.0.0.0 www.summerripe.com
 0.0.0.0 www.summitchafeperilous.com
 0.0.0.0 www.summitdangle.com
