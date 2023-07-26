@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.207
 # Release: 207
-# Entries: 81,791
-# Updated: Wed, 26 Jul 23 16:08:04 +06
+# Entries: 81,797
+# Updated: Wed, 26 Jul 23 18:09:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -25342,6 +25342,7 @@
 0.0.0.0 gdmig-choicehospitalitygroup.com
 0.0.0.0 gdmig-davewhittle.net
 0.0.0.0 gdmig-deadscreen.net
+0.0.0.0 gdmig-fidllcit.net
 0.0.0.0 gdmig-mjtek.net
 0.0.0.0 gdmig-musclesculpture.com
 0.0.0.0 gdmig-psychacademy.net
@@ -32501,6 +32502,7 @@
 0.0.0.0 jacksonhogarth.com
 0.0.0.0 jacksonrecruiters.site
 0.0.0.0 jacmolta.com
+0.0.0.0 jacobcarroll.xyz
 0.0.0.0 jacobijewelry.com
 0.0.0.0 jacobphilip.org
 0.0.0.0 jacobsalomons.com
@@ -38279,6 +38281,7 @@
 0.0.0.0 maliciouscuffwaspish.com
 0.0.0.0 malickiagraphic.sn
 0.0.0.0 malief.com
+0.0.0.0 malik-group.org
 0.0.0.0 malinesmanses.com
 0.0.0.0 malinix.com
 0.0.0.0 malishopgt.com
@@ -38622,6 +38625,7 @@
 0.0.0.0 marutisx4.com
 0.0.0.0 marutiversa.com
 0.0.0.0 marutiwagonr.com
+0.0.0.0 marutizen.com
 0.0.0.0 marutv8.xyz
 0.0.0.0 marvedesderef.info
 0.0.0.0 marvelhuntcountry.com
@@ -69514,6 +69518,7 @@
 0.0.0.0 www.11domani123.com
 0.0.0.0 www.11sdfhsf11.monster
 0.0.0.0 www.121third.com
+0.0.0.0 www.123-campverdegeneralstore.gdmig-fidllcit.net
 0.0.0.0 www.12365chia.com
 0.0.0.0 www.12580kp.com
 0.0.0.0 www.12am.tech
@@ -74891,6 +74896,7 @@
 0.0.0.0 www.malabar.shop
 0.0.0.0 www.maleliteral.com
 0.0.0.0 www.maliciouscuffwaspish.com
+0.0.0.0 www.malik-group.org
 0.0.0.0 www.malletpharmacy.com
 0.0.0.0 www.mallettraumatize.com
 0.0.0.0 www.mamaapparent.com
