@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.208
 # Release: 208
-# Entries: 81,857
-# Updated: Thu, 27 Jul 23 02:08:43 +06
+# Entries: 81,864
+# Updated: Thu, 27 Jul 23 04:23:27 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10467,6 +10467,7 @@
 0.0.0.0 bonnetiere-infrangible-burthening.xyz
 0.0.0.0 bonnettaking.com
 0.0.0.0 bonniemcdowell.com
+0.0.0.0 bonnnesfoxily.com
 0.0.0.0 bonswacafe.net
 0.0.0.0 bonswacoffee.net
 0.0.0.0 bonus-app.net
@@ -17518,6 +17519,7 @@
 0.0.0.0 derangenameunlimited.com
 0.0.0.0 derasas.tech
 0.0.0.0 derbendlunet.com
+0.0.0.0 derbies.net
 0.0.0.0 dereksoldmine.com
 0.0.0.0 derelictfascinatinginmate.com
 0.0.0.0 deresearched.com
@@ -49721,6 +49723,7 @@
 0.0.0.0 purismsgenros.digital
 0.0.0.0 purlieudinette.uno
 0.0.0.0 purlingmoonmen.tech
+0.0.0.0 purnhub.org
 0.0.0.0 purpes.com
 0.0.0.0 purple-pixie-studio.com
 0.0.0.0 purpleads.io
@@ -60397,6 +60400,7 @@
 0.0.0.0 testimonypersuadedclinic.com
 0.0.0.0 testingib.com
 0.0.0.0 testingmetriksbre.ru
+0.0.0.0 testinstalaciewp.online
 0.0.0.0 testisurbian.top
 0.0.0.0 testmitra.com
 0.0.0.0 testsces1.net
@@ -72129,6 +72133,7 @@
 0.0.0.0 www.depressionostensible.com
 0.0.0.0 www.depriscolaw.com
 0.0.0.0 www.derangenameunlimited.com
+0.0.0.0 www.derbies.net
 0.0.0.0 www.derelictfascinatinginmate.com
 0.0.0.0 www.deridebleatacheless.com
 0.0.0.0 www.deridejackknifeforcing.com
@@ -76446,6 +76451,7 @@
 0.0.0.0 www.pureitltd.com
 0.0.0.0 www.puremethstore.com
 0.0.0.0 www.purepowervision.com
+0.0.0.0 www.purnhub.org
 0.0.0.0 www.purple-pixie-studio.com
 0.0.0.0 www.purposelynextbinary.com
 0.0.0.0 www.purrbackground.com
@@ -77915,6 +77921,7 @@
 0.0.0.0 www.testimony4angelschurches.store
 0.0.0.0 www.testimonypersuadedclinic.com
 0.0.0.0 www.testingmetriksbre.ru
+0.0.0.0 www.testinstalaciewp.online
 0.0.0.0 www.tevas.fun
 0.0.0.0 www.tex80.com
 0.0.0.0 www.texansgamelive.xyz
