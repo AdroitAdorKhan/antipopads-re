@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.207
 # Release: 207
-# Entries: 81,797
-# Updated: Wed, 26 Jul 23 18:09:02 +06
+# Entries: 81,801
+# Updated: Wed, 26 Jul 23 20:22:36 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -33495,6 +33495,7 @@
 0.0.0.0 joyvowdig.com
 0.0.0.0 jozefpacan.com
 0.0.0.0 jozefpalkovic.com
+0.0.0.0 jozefstefanak.online
 0.0.0.0 jozzby.uk
 0.0.0.0 jp.dugwayaswing.com
 0.0.0.0 jp.galosheconsent.com
@@ -48790,6 +48791,7 @@
 0.0.0.0 primejewelry.org
 0.0.0.0 primemail.uk
 0.0.0.0 primenautica.net
+0.0.0.0 priment.tech
 0.0.0.0 primerclicks.com
 0.0.0.0 primerian.us
 0.0.0.0 primeriansecurityconsulting.us
@@ -74354,6 +74356,7 @@
 0.0.0.0 www.joyfuldwight.com
 0.0.0.0 www.joyhetail.com
 0.0.0.0 www.joyouscreedweasel.com
+0.0.0.0 www.jozefstefanak.online
 0.0.0.0 www.jpjmpqaupc.com
 0.0.0.0 www.jpq123.com
 0.0.0.0 www.jqqewvxp.club
@@ -76244,6 +76247,7 @@
 0.0.0.0 www.primejewelry.org
 0.0.0.0 www.primemail.uk
 0.0.0.0 www.primenautica.net
+0.0.0.0 www.priment.tech
 0.0.0.0 www.primerootz.com
 0.0.0.0 www.primetimeautospa.com
 0.0.0.0 www.primevalrespectful.com
