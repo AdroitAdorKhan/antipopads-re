@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.207
 # Release: 207
-# Entries: 81,669
-# Updated: Wed, 26 Jul 23 04:23:13 +06
+# Entries: 81,670
+# Updated: Wed, 26 Jul 23 06:09:57 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -7921,6 +7921,7 @@
 :: b70742.com
 :: b70743.com
 :: b70744.com
+:: b70app.com
 :: b73uszzq3g9h.com
 :: b7om8bdayac6at.com
 :: b81oidrmy82w.com
