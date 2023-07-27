@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.209
 # Release: 209
-# Entries: 82,015
-# Updated: Fri, 28 Jul 23 02:24:17 +06
+# Entries: 82,017
+# Updated: Fri, 28 Jul 23 04:09:35 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -25070,6 +25070,7 @@
 0.0.0.0 gainesrealtygroup.net
 0.0.0.0 gainground.co
 0.0.0.0 gainregister.com
+0.0.0.0 gainsecretssurvey.top
 0.0.0.0 gaiphaud.xyz
 0.0.0.0 gaisteem.net
 0.0.0.0 gaiteshu.net
@@ -73389,6 +73390,7 @@
 0.0.0.0 www.gabnsger.com
 0.0.0.0 www.gabyscaferhinebeck.com
 0.0.0.0 www.gadsbygoogleooglesyndication.com
+0.0.0.0 www.gainsecretssurvey.top
 0.0.0.0 www.gamber.bet
 0.0.0.0 www.gambiran.net
 0.0.0.0 www.gamecranedomestic.com
