@@ -20,8 +20,8 @@
 ! Version: 23.07.209
 ! Release: 209
 ! Expires: 1 day
-! Entries: 82,017
-! Updated: Fri, 28 Jul 23 04:09:35 +06
+! Entries: 82,018
+! Updated: Fri, 28 Jul 23 06:09:35 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -7431,6 +7431,7 @@
 ||autoblitz.repair^
 ||autobusovezastavky.com^
 ||autocarcare.net^
+||autodes.de^
 ||autofactoryservice.com^
 ||autographnutmegassail.com^
 ||autokino-kemnader-see.de^

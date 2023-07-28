@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.209
 # Release: 209
-# Entries: 82,017
-# Updated: Fri, 28 Jul 23 04:09:35 +06
+# Entries: 82,018
+# Updated: Fri, 28 Jul 23 06:09:35 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7430,6 +7430,7 @@
 0.0.0.0 autoblitz.repair
 0.0.0.0 autobusovezastavky.com
 0.0.0.0 autocarcare.net
+0.0.0.0 autodes.de
 0.0.0.0 autofactoryservice.com
 0.0.0.0 autographnutmegassail.com
 0.0.0.0 autokino-kemnader-see.de
