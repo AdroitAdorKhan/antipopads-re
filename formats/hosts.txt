@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.07.209
-# Release: 209
-# Entries: 82,134
-# Updated: Fri, 28 Jul 23 22:18:05 +06
+# Version: 23.07.210
+# Release: 210
+# Entries: 82,135
+# Updated: Sat, 29 Jul 23 00:30:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15017,6 +15017,7 @@
 0.0.0.0 confiscatecatherinehandling.com
 0.0.0.0 confiscatetasted.com
 0.0.0.0 confise.com
+0.0.0.0 confiskbriggs.top
 0.0.0.0 conflictsheets.store
 0.0.0.0 confmusic.xyz
 0.0.0.0 conformcashier.com
