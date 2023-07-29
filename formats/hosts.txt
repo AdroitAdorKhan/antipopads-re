@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.211
 # Release: 211
-# Entries: 82,240
-# Updated: Sun, 30 Jul 23 02:15:23 +06
+# Entries: 82,241
+# Updated: Sun, 30 Jul 23 04:16:45 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -52135,6 +52135,7 @@
 0.0.0.0 repruggob.com
 0.0.0.0 repsjordan.net
 0.0.0.0 repsrowedpay.com
+0.0.0.0 reptfe.com
 0.0.0.0 reptileineffectivebackup.com
 0.0.0.0 reptiles-of-ethiopia-and-eritrea.com
 0.0.0.0 republicanneutrality.com
