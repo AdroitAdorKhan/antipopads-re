@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.210
 # Release: 210
-# Entries: 82,211
-# Updated: Sat, 29 Jul 23 20:16:42 +06
+# Entries: 82,218
+# Updated: Sat, 29 Jul 23 22:30:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1210,6 +1210,7 @@
 0.0.0.0 3sk7d418al8u.com
 0.0.0.0 3sonsjerky.com
 0.0.0.0 3spectiv.com
+0.0.0.0 3voot0dg7.com
 0.0.0.0 3wa.academy
 0.0.0.0 3wq6ahg2mqm.com
 0.0.0.0 3wr110.net
@@ -28976,6 +28977,7 @@
 0.0.0.0 hhuplqunpiflxyu.com
 0.0.0.0 hhvbdeewfgpnb.xyz
 0.0.0.0 hhvivsbiip.com
+0.0.0.0 hhxxtp0zy.com
 0.0.0.0 hhyalsk.com
 0.0.0.0 hhznet.com
 0.0.0.0 hi5-solutions.com
@@ -70617,6 +70619,7 @@
 0.0.0.0 www.anatomyassault.com
 0.0.0.0 www.anchovysuccession.com
 0.0.0.0 www.andicooper.info
+0.0.0.0 www.andrea-cornell.com
 0.0.0.0 www.andreatalarico.work
 0.0.0.0 www.android-devs.top
 0.0.0.0 www.anewproprietorinvent.com
@@ -71609,6 +71612,7 @@
 0.0.0.0 www.cavecredentialdeer.com
 0.0.0.0 www.caveestate.com
 0.0.0.0 www.cbarmedia.com
+0.0.0.0 www.cbdcsurvival.com
 0.0.0.0 www.cbreezeimports.com
 0.0.0.0 www.cbseastra.com
 0.0.0.0 www.cbtfalibaba.com
@@ -77656,6 +77660,7 @@
 0.0.0.0 www.skidgleambrand.com
 0.0.0.0 www.skilledcleaningservices.com
 0.0.0.0 www.skillgames.biz
+0.0.0.0 www.skillpaver.com
 0.0.0.0 www.skinfay.org
 0.0.0.0 www.skininvent.com
 0.0.0.0 www.skinsdefinitely.com
@@ -78286,6 +78291,7 @@
 0.0.0.0 www.thecrypto-genius.net
 0.0.0.0 www.theecomfamily.online
 0.0.0.0 www.theelegantstores.com
+0.0.0.0 www.theenglishclubchamonix.com
 0.0.0.0 www.theethicmed.com
 0.0.0.0 www.theeventdumpster.com
 0.0.0.0 www.thefabricmansion.shop
@@ -79362,6 +79368,7 @@
 0.0.0.0 www.zen62.com
 0.0.0.0 www.zeninoganecu.com
 0.0.0.0 www.zeroemissionsco2.com
+0.0.0.0 www.zerotrustentry.com
 0.0.0.0 www.zestyprop.com
 0.0.0.0 www.zetaphibetajacksonville.org
 0.0.0.0 www.zetnewz.com
