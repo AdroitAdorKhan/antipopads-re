@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.210
 # Release: 210
-# Entries: 82,136
-# Updated: Sat, 29 Jul 23 02:17:01 +06
+# Entries: 82,138
+# Updated: Sat, 29 Jul 23 06:19:32 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -45293,6 +45293,7 @@
 0.0.0.0 osnarep.de
 0.0.0.0 osnial.org
 0.0.0.0 osolocomotorcycles.com
+0.0.0.0 osoolgroup.co
 0.0.0.0 osorclhhbins.com
 0.0.0.0 osotirukurwyo.com
 0.0.0.0 ospicalad.buzz
@@ -61356,6 +61357,7 @@
 0.0.0.0 thesocialblander.com
 0.0.0.0 thesocietyofenoch.org
 0.0.0.0 thesockdesigner.com
+0.0.0.0 thesolarmat.com
 0.0.0.0 thesolotimebook.com
 0.0.0.0 thesoundmoneypodcast.com
 0.0.0.0 thespeaktruth.com
