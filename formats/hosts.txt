@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.211
 # Release: 211
-# Entries: 82,352
-# Updated: Sun, 30 Jul 23 16:15:28 +06
+# Entries: 82,355
+# Updated: Sun, 30 Jul 23 18:20:45 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -33844,6 +33844,7 @@
 0.0.0.0 jscount.com
 0.0.0.0 jsd1zew.net
 0.0.0.0 jsdeivr.net
+0.0.0.0 jsdellivr.net
 0.0.0.0 jsdelvr.com
 0.0.0.0 jsdems.com
 0.0.0.0 jsdrbybbeomrx.com
@@ -48251,6 +48252,7 @@
 0.0.0.0 pmrekpmrqmkk.com
 0.0.0.0 pmshhugwrwwxn.com
 0.0.0.0 pmsrvr.com
+0.0.0.0 pmsvy.com
 0.0.0.0 pmtdynamics.com
 0.0.0.0 pmvqepmcq.com
 0.0.0.0 pmvyrvrkreckbv.xyz
@@ -67551,6 +67553,7 @@
 0.0.0.0 vviprishte.com
 0.0.0.0 vvlqtlgoyy.com
 0.0.0.0 vvmcxclricxt.com
+0.0.0.0 vvobtrjtinsd.com
 0.0.0.0 vvpcsvrw.com
 0.0.0.0 vvqknwws.com
 0.0.0.0 vvrbjtjxmlgcd.xyz
