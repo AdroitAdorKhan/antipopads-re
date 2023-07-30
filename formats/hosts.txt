@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.211
 # Release: 211
-# Entries: 82,374
-# Updated: Sun, 30 Jul 23 20:17:31 +06
+# Entries: 82,378
+# Updated: Sun, 30 Jul 23 22:28:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -57013,6 +57013,7 @@
 0.0.0.0 smart-url.net
 0.0.0.0 smart2cnjuh34jb.com
 0.0.0.0 smart2deploy.com
+0.0.0.0 smartabc-ccc.com
 0.0.0.0 smartabc-ccc.org
 0.0.0.0 smartadserver.com
 0.0.0.0 smartaerospacenews.com
@@ -73701,6 +73702,7 @@
 0.0.0.0 www.gambiran.net
 0.0.0.0 www.gamecranedomestic.com
 0.0.0.0 www.gameengagedthen.com
+0.0.0.0 www.gameznation.net
 0.0.0.0 www.gamingchairz.com
 0.0.0.0 www.gaminglaptops.deals
 0.0.0.0 www.gampley.com
@@ -75852,6 +75854,7 @@
 0.0.0.0 www.mywebchat.app
 0.0.0.0 www.myweedwire.info
 0.0.0.0 www.mywipro.wipro.in
+0.0.0.0 www.myx-digistore.com
 0.0.0.0 www.mzyoutube.com
 0.0.0.0 www.n3543eer.com
 0.0.0.0 www.nabbaseballsling.com
@@ -77854,6 +77857,7 @@
 0.0.0.0 www.sluiceliable.com
 0.0.0.0 www.smackass.com
 0.0.0.0 www.smart-building.cloud
+0.0.0.0 www.smartabc-ccc.com
 0.0.0.0 www.smartel.uk
 0.0.0.0 www.smartfinstories.biz
 0.0.0.0 www.smartmarker.com
