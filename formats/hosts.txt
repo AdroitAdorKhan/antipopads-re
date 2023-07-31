@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.212
 # Release: 212
-# Entries: 82,492
-# Updated: Mon, 31 Jul 23 20:10:41 +06
+# Entries: 82,499
+# Updated: Mon, 31 Jul 23 22:38:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20069,6 +20069,7 @@
 0.0.0.0 eatmenttog.xyz
 0.0.0.0 eaton-grp.com
 0.0.0.0 eaton-tubeaudio.com
+0.0.0.0 eatsbot.com
 0.0.0.0 eatsidebicep.com
 0.0.0.0 eatwinner.com
 0.0.0.0 eatyummies.net
@@ -37369,6 +37370,7 @@
 0.0.0.0 loafplaceunchanged.com
 0.0.0.0 loaglait.com
 0.0.0.0 loagoara.com
+0.0.0.0 loaire.com
 0.0.0.0 loajawun.com
 0.0.0.0 loakingsizette.com
 0.0.0.0 loanonionbidding.com
@@ -42029,6 +42031,7 @@
 0.0.0.0 nathanaeldan.pro
 0.0.0.0 nathusrdc.com
 0.0.0.0 nationaldeliquencydeliquency.com
+0.0.0.0 nationalgausewatrust.com
 0.0.0.0 nationalityblizzard.com
 0.0.0.0 nationalparksforall.com
 0.0.0.0 nationalsmartbuildings.com
@@ -64692,6 +64695,7 @@
 0.0.0.0 uhcbrandedcallingoversight.com
 0.0.0.0 uhdjkshnff.xyz
 0.0.0.0 uhdokoq5ocmk.com
+0.0.0.0 uhealth.care
 0.0.0.0 uhedsplo.com
 0.0.0.0 uhexjygkfvpp.com
 0.0.0.0 uhfdsplo.com
@@ -75982,6 +75986,7 @@
 0.0.0.0 www.napkinlucent.com
 0.0.0.0 www.napkinrighty.com
 0.0.0.0 www.nasalburglarthomas.com
+0.0.0.0 www.nationalgausewatrust.com
 0.0.0.0 www.nationalityblizzard.com
 0.0.0.0 www.nationssalvation.com
 0.0.0.0 www.natspiders.com
@@ -77967,6 +77972,7 @@
 0.0.0.0 www.smackass.com
 0.0.0.0 www.smart-building.cloud
 0.0.0.0 www.smartabc-ccc.com
+0.0.0.0 www.smartaerospacenews.com
 0.0.0.0 www.smartel.uk
 0.0.0.0 www.smartfinstories.biz
 0.0.0.0 www.smartmarker.com
@@ -78927,6 +78933,7 @@
 0.0.0.0 www.uglynewyork.com
 0.0.0.0 www.ugmcorp.com
 0.0.0.0 www.ugovori.co.rs
+0.0.0.0 www.uhealth.care
 0.0.0.0 www.ujjain.city
 0.0.0.0 www.uk4net.uk
 0.0.0.0 www.ukdepression.co.uk
