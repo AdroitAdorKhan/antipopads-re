@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.07.212
 # Release: 212
-# Entries: 82,430
-# Updated: Mon, 31 Jul 23 04:15:43 +06
+# Entries: 82,433
+# Updated: Mon, 31 Jul 23 06:31:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6610,6 +6610,7 @@
 0.0.0.0 arrowtoldilim.xyz
 0.0.0.0 arrowworldtravels.com
 0.0.0.0 arsafvzwobu.com
+0.0.0.0 arsahahada.com
 0.0.0.0 arshadsafrash.com
 0.0.0.0 arshelmeton.com
 0.0.0.0 arshineensnarl.com
@@ -19189,6 +19190,7 @@
 0.0.0.0 dr.bensheacling.com
 0.0.0.0 dr.unshinykerite.com
 0.0.0.0 dr0.biz
+0.0.0.0 dr460nf1r3.tech
 0.0.0.0 dr6.biz
 0.0.0.0 dr88.xyz
 0.0.0.0 drabalue.life
@@ -72876,6 +72878,7 @@
 0.0.0.0 www.dozenactually.com
 0.0.0.0 www.dpbolvw.net
 0.0.0.0 www.dplck.com
+0.0.0.0 www.dr460nf1r3.tech
 0.0.0.0 www.drabhasharma.com
 0.0.0.0 www.draggedeffectuallyhelicopter.com
 0.0.0.0 www.dragongrinders.com
