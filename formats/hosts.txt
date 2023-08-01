@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.213
 # Release: 213
-# Entries: 82,720
-# Updated: Tue, 01 Aug 23 20:11:17 +06
+# Entries: 82,727
+# Updated: Tue, 01 Aug 23 22:27:15 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9698,6 +9698,7 @@
 0.0.0.0 bikehelmet.net
 0.0.0.0 bikehowfaded.com
 0.0.0.0 bikelife.digital
+0.0.0.0 bikerleasing.de
 0.0.0.0 bikesformallycopper.com
 0.0.0.0 bikesframesandlove.com
 0.0.0.0 bikesmachineryi.com
@@ -12894,12 +12895,14 @@
 0.0.0.0 cemeterysimilar.com
 0.0.0.0 cemsidamid.us
 0.0.0.0 cemsidamide.us
+0.0.0.0 cemsidimid.org
 0.0.0.0 cemsidimid.us
 0.0.0.0 cemsidimide.us
 0.0.0.0 cemsidomi.co
 0.0.0.0 cemsidomi.us
 0.0.0.0 cemsidomid.us
 0.0.0.0 cemsidomide.us
+0.0.0.0 cemsidomidedrug.info
 0.0.0.0 cemsidomidedrug.net
 0.0.0.0 cemsidomidedrug.us
 0.0.0.0 cemsidomidesucks.us
@@ -13116,6 +13119,7 @@
 0.0.0.0 chaiptut.xyz
 0.0.0.0 chairgaubsy.com
 0.0.0.0 chairmanfreelancetravelling.com
+0.0.0.0 chairmansmile.com
 0.0.0.0 chairwaydenew.site
 0.0.0.0 chaiseconcierge.com
 0.0.0.0 chaisehoorahs.com
@@ -72004,6 +72008,8 @@
 0.0.0.0 www.celsiusours.com
 0.0.0.0 www.cemeterybonnet.com
 0.0.0.0 www.cemeterysimilar.com
+0.0.0.0 www.cemsidimid.org
+0.0.0.0 www.cemsidomidedrug.info
 0.0.0.0 www.cenlib.iitm.ac
 0.0.0.0 www.cenrefk.com
 0.0.0.0 www.censorcolonizegreatness.com
@@ -82420,6 +82426,7 @@
 0.0.0.0 zillaleegte.com
 0.0.0.0 zillion06.com
 0.0.0.0 zillionable.com
+0.0.0.0 zillionarrive.uno
 0.0.0.0 zillionpe.com
 0.0.0.0 zilosconsulting.com
 0.0.0.0 zim-zim-zam.com
