@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.08.214
-# Release: 214
-# Entries: 83,093
-# Updated: Wed, 02 Aug 23 22:10:59 +06
+# Version: 23.08.215
+# Release: 215
+# Entries: 83,119
+# Updated: Thu, 03 Aug 23 00:10:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4761,6 +4761,7 @@
 0.0.0.0 alamanahuae.com
 0.0.0.0 alamba.org
 0.0.0.0 alamovillage.com
+0.0.0.0 alamrb.com
 0.0.0.0 alancorp-sa.com
 0.0.0.0 alanibelen.com
 0.0.0.0 alanticgecking.uno
@@ -5196,6 +5197,7 @@
 0.0.0.0 alps.life
 0.0.0.0 alpurs.com
 0.0.0.0 alqaaqaa.com
+0.0.0.0 alqaysarlb.com
 0.0.0.0 alquilavivienda.com
 0.0.0.0 alquilen.com
 0.0.0.0 alraifutrading.com
@@ -11793,11 +11795,13 @@
 0.0.0.0 bxflight.com
 0.0.0.0 bxgwpt.com
 0.0.0.0 bxhkvathr.xyz
+0.0.0.0 bxikceucv.com
 0.0.0.0 bxreebskiie.com
 0.0.0.0 bxrgwkln.com
 0.0.0.0 bxvxfsdvgstu.com
 0.0.0.0 bxwmfozavo.com
 0.0.0.0 bxxiklwst.xyz
+0.0.0.0 bxxvmjrpegqy.com
 0.0.0.0 by-frame.com
 0.0.0.0 by.inhumanhuashi.com
 0.0.0.0 by12356.com
@@ -16998,6 +17002,7 @@
 0.0.0.0 datadrivenplc.info
 0.0.0.0 datajsext.com
 0.0.0.0 datakitschelm.com
+0.0.0.0 datamanagment.it
 0.0.0.0 datamarts.online
 0.0.0.0 datamuni.org
 0.0.0.0 datangcmel.com
@@ -23472,6 +23477,7 @@
 0.0.0.0 fiberedvaleryl.com
 0.0.0.0 fiberlasercontrol.com
 0.0.0.0 fibfgfptaeci.com
+0.0.0.0 fibodjuxbxd.xyz
 0.0.0.0 fibrela.com
 0.0.0.0 ficinvesses.com
 0.0.0.0 fickehdllbv.com
@@ -29246,6 +29252,7 @@
 0.0.0.0 hhvivsbiip.com
 0.0.0.0 hhxxtp0zy.com
 0.0.0.0 hhyalsk.com
+0.0.0.0 hhyefjmx.com
 0.0.0.0 hhznet.com
 0.0.0.0 hi5-solutions.com
 0.0.0.0 hiadone.com
@@ -30946,6 +30953,7 @@
 0.0.0.0 ie8eamus.com
 0.0.0.0 ieamsbpzu.com
 0.0.0.0 ieat.care
+0.0.0.0 iebfcfcthrepbqw.com
 0.0.0.0 iebqabkbvkh.top
 0.0.0.0 iecjqkiawvifx.com
 0.0.0.0 iedyjpgykq.top
@@ -34100,6 +34108,7 @@
 0.0.0.0 js44l.com
 0.0.0.0 js7k.com
 0.0.0.0 jsbhatia.in
+0.0.0.0 jsbpegtvuur.xyz
 0.0.0.0 jsc.adskeeper.co.uk
 0.0.0.0 jsc9988.com
 0.0.0.0 jscdn.online
@@ -34469,6 +34478,7 @@
 0.0.0.0 kadamudakkam.net
 0.0.0.0 kadernickepotreby.xyz
 0.0.0.0 kadernictvonature.com
+0.0.0.0 kadggriffshoyv.com
 0.0.0.0 kadij.top
 0.0.0.0 kadikama.fun
 0.0.0.0 kadmmijinb.com
@@ -36291,6 +36301,7 @@
 0.0.0.0 laq940.com
 0.0.0.0 laqddcc.com
 0.0.0.0 laqmoejhc.xyz
+0.0.0.0 laracchettaferrara.com
 0.0.0.0 laraliaethnol.com
 0.0.0.0 lararepl.com
 0.0.0.0 laravel-payment.net
@@ -45810,6 +45821,7 @@
 0.0.0.0 ostrava.org
 0.0.0.0 ostrichrockychaos.com
 0.0.0.0 osutqbnsblb.com
+0.0.0.0 oswalantiquecoin.com
 0.0.0.0 oswerebage.xyz
 0.0.0.0 osybiaqxqkrqy.com
 0.0.0.0 osyrhjwnwoaya.com
@@ -50140,6 +50152,7 @@
 0.0.0.0 ptapephygli.com
 0.0.0.0 ptapjmp.com
 0.0.0.0 ptarepjx.com
+0.0.0.0 ptatauephnl.xyz
 0.0.0.0 ptauftie.net
 0.0.0.0 ptaughar.com
 0.0.0.0 ptaulratch.com
@@ -50768,6 +50781,7 @@
 0.0.0.0 qchilnnyfhcvoc.xyz
 0.0.0.0 qchqevvv.xyz
 0.0.0.0 qcigbljyenh.com
+0.0.0.0 qcimcapibpvp.com
 0.0.0.0 qcmjdptyikwf.xyz
 0.0.0.0 qcnapaxxfuijga.com
 0.0.0.0 qcqirqaqdq.top
@@ -51493,6 +51507,7 @@
 0.0.0.0 ragersville.online
 0.0.0.0 ragged-weakness.pro
 0.0.0.0 raggedselsyn.com
+0.0.0.0 raggnrvy.com
 0.0.0.0 raghavbuilders.com
 0.0.0.0 raghunathconstructions.com
 0.0.0.0 raginikamble.xyz
@@ -58547,6 +58562,7 @@
 0.0.0.0 sqeqqjnigmqjx.top
 0.0.0.0 sqfecayrmb.xyz
 0.0.0.0 sqgfytux.com
+0.0.0.0 sqgofqnyamo.com
 0.0.0.0 sqhneencmysrk.com
 0.0.0.0 sqhrm.com
 0.0.0.0 sqjokhqmabe.com
@@ -65113,6 +65129,7 @@
 0.0.0.0 uifxofswexcefdj.com
 0.0.0.0 uigruwtql.com
 0.0.0.0 uijydgndyje.com
+0.0.0.0 uimaodkhcokm.com
 0.0.0.0 uingroundhe.com
 0.0.0.0 uiowarvxpeni.com
 0.0.0.0 uippcpkngb.com
@@ -65331,6 +65348,7 @@
 0.0.0.0 unairazoads.com
 0.0.0.0 unallowferae.com
 0.0.0.0 unampharostor.com
+0.0.0.0 unanac.com
 0.0.0.0 unanimousinflammableboxing.com
 0.0.0.0 unanimouslyrejectproperly.com
 0.0.0.0 unapprovedlearning.net
@@ -70393,6 +70411,7 @@
 0.0.0.0 wvmfauig.com
 0.0.0.0 wvmlmcvoiy.com
 0.0.0.0 wvnuubmothth.com
+0.0.0.0 wvqkkeheet.xyz
 0.0.0.0 wvrjuwmi.com
 0.0.0.0 wvsgqifpvg.xyz
 0.0.0.0 wvtnccld.com
@@ -71231,6 +71250,7 @@
 0.0.0.0 www.alphaorina.tech
 0.0.0.0 www.alphax.company
 0.0.0.0 www.alpinesafes.com
+0.0.0.0 www.alqaysarlb.com
 0.0.0.0 www.alquilen.com
 0.0.0.0 www.alshamel.ps
 0.0.0.0 www.altamerica.org
@@ -75701,6 +75721,7 @@
 0.0.0.0 www.lapraline.online
 0.0.0.0 www.laptophungyen.com
 0.0.0.0 www.laqddcc.com
+0.0.0.0 www.laracchettaferrara.com
 0.0.0.0 www.larawilliams.org
 0.0.0.0 www.lardyfascinated.com
 0.0.0.0 www.largegiganticcounting.com
@@ -76860,6 +76881,7 @@
 0.0.0.0 www.ostensibledressmaker.com
 0.0.0.0 www.ostentatiousmystery.com
 0.0.0.0 www.ostrichrockychaos.com
+0.0.0.0 www.oswalantiquecoin.com
 0.0.0.0 www.otheradsads.xyz
 0.0.0.0 www.otherwiseassurednessloaf.com
 0.0.0.0 www.otherwiseparticipate.com
@@ -77658,6 +77680,7 @@
 0.0.0.0 www.raisedirectionsaccede.com
 0.0.0.0 www.rajasthangk.co.in
 0.0.0.0 www.rakutenglobal.com
+0.0.0.0 www.rallydisprove.com
 0.0.0.0 www.rallyexpirehide.com
 0.0.0.0 www.ralphes.com
 0.0.0.0 www.rambleconcernedscar.com
@@ -81358,6 +81381,7 @@
 0.0.0.0 xzhmu.com
 0.0.0.0 xziptaogt.com
 0.0.0.0 xzvfyowf.com
+0.0.0.0 xzxomkrfn.com
 0.0.0.0 y-pay.site
 0.0.0.0 y1.in.net
 0.0.0.0 y12ou.com
@@ -81836,6 +81860,7 @@
 0.0.0.0 ym8p.net
 0.0.0.0 ymapgddhayxi.com
 0.0.0.0 ymaptwurhj.com
+0.0.0.0 ymbonllyl.com
 0.0.0.0 ymchcohvncak.xyz
 0.0.0.0 ymcptamerica.com
 0.0.0.0 ymenstore.com
@@ -82201,6 +82226,7 @@
 0.0.0.0 ysjibiguhwcqlp.com
 0.0.0.0 yslvpz.info
 0.0.0.0 ysmmgold.com
+0.0.0.0 ysmtuljlohpts.com
 0.0.0.0 ysmuskreff.com
 0.0.0.0 ysnakestanothia.xyz
 0.0.0.0 ysnysmysm2.com
