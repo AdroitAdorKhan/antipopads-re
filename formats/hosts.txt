@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.216
 # Release: 216
-# Entries: 83,809
-# Updated: Fri, 04 Aug 23 18:12:48 +06
+# Entries: 83,815
+# Updated: Fri, 04 Aug 23 20:22:57 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5834,6 +5834,7 @@
 0.0.0.0 ansera.co
 0.0.0.0 ansera.consulting
 0.0.0.0 ansera.net
+0.0.0.0 anshcrm.com
 0.0.0.0 anshumanbagla.com
 0.0.0.0 anspeechless.com
 0.0.0.0 anssigia.xyz
@@ -7152,6 +7153,7 @@
 0.0.0.0 atedmonastyd.xyz
 0.0.0.0 atekplastics.com
 0.0.0.0 atelegendinflected.com
+0.0.0.0 atelesmusters.website
 0.0.0.0 ateletswitoto.com
 0.0.0.0 atelierplachy.com
 0.0.0.0 atelusa.com
@@ -15762,6 +15764,7 @@
 0.0.0.0 countshryw.xyz
 0.0.0.0 countymeath.com
 0.0.0.0 countypuddleillusion.com
+0.0.0.0 coupageoutrant.guru
 0.0.0.0 coupdisturb.com
 0.0.0.0 couphait.net
 0.0.0.0 couple.education
@@ -34077,6 +34080,7 @@
 0.0.0.0 johanarabinovich.org
 0.0.0.0 johannayawing.space
 0.0.0.0 johannesburg.top
+0.0.0.0 johannesburgtrainingprograms.online
 0.0.0.0 johays.co
 0.0.0.0 johnaly.com
 0.0.0.0 johncdavis.com
@@ -71918,6 +71922,7 @@
 0.0.0.0 www.anotherdoinass1.com
 0.0.0.0 www.anrdoezrs.net
 0.0.0.0 www.ansarclip.com
+0.0.0.0 www.anshcrm.com
 0.0.0.0 www.anspeechless.com
 0.0.0.0 www.antai-infoos.com
 0.0.0.0 www.antennarollcellar.com
@@ -76090,6 +76095,7 @@
 0.0.0.0 www.joertopersersx.com
 0.0.0.0 www.jogo11.live
 0.0.0.0 www.jogrigidreconnect.com
+0.0.0.0 www.johannesburgtrainingprograms.online
 0.0.0.0 www.johnaly.com
 0.0.0.0 www.johnnieaborigine.org
 0.0.0.0 www.johnnieaborigine.store
