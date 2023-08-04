@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.217
 # Release: 217
-# Entries: 83,848
-# Updated: Sat, 05 Aug 23 02:25:18 +06
+# Entries: 83,852
+# Updated: Sat, 05 Aug 23 04:09:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16213,6 +16213,7 @@
 0.0.0.0 crowneclipse.com
 0.0.0.0 crownnewz.com
 0.0.0.0 crownrealtor.in
+0.0.0.0 crownshake.digital
 0.0.0.0 crowntele.com
 0.0.0.0 crowntrophybadges.com
 0.0.0.0 crowriversportsmensclub.com
@@ -29752,6 +29753,7 @@
 0.0.0.0 hkhppodw.com
 0.0.0.0 hkilops.com
 0.0.0.0 hkilyflawp.com
+0.0.0.0 hkiztcykfb.com
 0.0.0.0 hkjc.comwww24406comwww.844644.com
 0.0.0.0 hkjjfpkghxec.xyz
 0.0.0.0 hkkiicvpf.top
@@ -53027,6 +53029,7 @@
 0.0.0.0 rentevio.org
 0.0.0.0 rentingimmoderatereflecting.com
 0.0.0.0 rentingmyrv.pw
+0.0.0.0 rentio.space
 0.0.0.0 rentlbay.us
 0.0.0.0 rently.bike
 0.0.0.0 rentooze.com
@@ -78545,6 +78548,7 @@
 0.0.0.0 www.rentalcarsiceland.com
 0.0.0.0 www.rentalrebuild.com
 0.0.0.0 www.rentingimmoderatereflecting.com
+0.0.0.0 www.rentio.space
 0.0.0.0 www.renumedspanc.com
 0.0.0.0 www.repairedbringstale.com
 0.0.0.0 www.repairedentrailstangle.com
