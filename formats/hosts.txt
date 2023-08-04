@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.216
 # Release: 216
-# Entries: 83,806
-# Updated: Fri, 04 Aug 23 16:13:28 +06
+# Entries: 83,809
+# Updated: Fri, 04 Aug 23 18:12:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9340,6 +9340,7 @@
 0.0.0.0 bestglobaltravels.net
 0.0.0.0 besthookup-findhere1.com
 0.0.0.0 besthookuphere.com
+0.0.0.0 bestialboomcaterpillar.com
 0.0.0.0 bestialjames.com
 0.0.0.0 bestialvehemence.com
 0.0.0.0 bestie-butik.com
@@ -22707,6 +22708,7 @@
 0.0.0.0 eyebrowsasperitygarret.com
 0.0.0.0 eyebrowscrambledlater.com
 0.0.0.0 eyebrowsneardual.com
+0.0.0.0 eyecarebarrie.ca
 0.0.0.0 eyedoutbestproducts.net
 0.0.0.0 eyefuneve.com
 0.0.0.0 eyeingoutproducts.net
@@ -50521,6 +50523,7 @@
 0.0.0.0 pstransformationalacademyni.co.uk
 0.0.0.0 pstreetma.com
 0.0.0.0 psubooth.com
+0.0.0.0 psucmulr.net
 0.0.0.0 psuftoum.com
 0.0.0.0 psuphuns.net
 0.0.0.0 psurdoak.com
