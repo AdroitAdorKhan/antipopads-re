@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.216
 # Release: 216
-# Entries: 83,815
-# Updated: Fri, 04 Aug 23 20:22:57 +06
+# Entries: 83,823
+# Updated: Fri, 04 Aug 23 22:12:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8673,6 +8673,7 @@
 0.0.0.0 bawlerhanoi.website
 0.0.0.0 bax0416.com
 0.0.0.0 baxavxa.com
+0.0.0.0 baxotjdtesah.com
 0.0.0.0 bayalnephite.com
 0.0.0.0 bayardsitalia.it
 0.0.0.0 baycolonybiltmore.com
@@ -18141,6 +18142,7 @@
 0.0.0.0 dg.squallpleuron.com
 0.0.0.0 dgafgadsgkjg.top
 0.0.0.0 dgampgvouar.com
+0.0.0.0 dgcarears.com
 0.0.0.0 dgdfrchyy.com
 0.0.0.0 dgemanowhot.com.ua
 0.0.0.0 dgemanowhowe.xyz
@@ -20927,6 +20929,7 @@
 0.0.0.0 ekaygunas.com
 0.0.0.0 ekb-tv.ru
 0.0.0.0 ekbar.co
+0.0.0.0 ekcentric.com
 0.0.0.0 ekdata.net
 0.0.0.0 eketlas.it
 0.0.0.0 ekeykskus.com
@@ -25322,6 +25325,7 @@
 0.0.0.0 funnymoneyu.com
 0.0.0.0 funnysack.com
 0.0.0.0 funnyvacant.com
+0.0.0.0 funparkmeridien.com
 0.0.0.0 funpostcardsfrom.co.uk
 0.0.0.0 funtar.app
 0.0.0.0 funter.club
@@ -35858,6 +35862,7 @@
 0.0.0.0 kootzjkz.com
 0.0.0.0 koovapou.xyz
 0.0.0.0 koovaubi.xyz
+0.0.0.0 koowhoos.com
 0.0.0.0 kopehngtragen.com
 0.0.0.0 kopeukasrsiha.com
 0.0.0.0 kopoertse.com
@@ -48917,6 +48922,7 @@
 0.0.0.0 playtodaymagazine.com
 0.0.0.0 playukinternet.com
 0.0.0.0 playvideoclub.com
+0.0.0.0 playvideodirect.com
 0.0.0.0 playvulcasino.xyz
 0.0.0.0 playwrightglancing.com
 0.0.0.0 playwrightgrant.com
@@ -60149,6 +60155,7 @@
 0.0.0.0 sunithashomedecor.org
 0.0.0.0 sunkawaiting.com
 0.0.0.0 sunkenclogarc.com
+0.0.0.0 sunkencurledexpanded.com
 0.0.0.0 sunlampassumes.com
 0.0.0.0 sunlightirrationalhearty.com
 0.0.0.0 sunlova.com
@@ -74908,6 +74915,7 @@
 0.0.0.0 www.funkyaloftdesirable.com
 0.0.0.0 www.funkyziggurat.com
 0.0.0.0 www.funnyvacant.com
+0.0.0.0 www.funparkmeridien.com
 0.0.0.0 www.funtar.app
 0.0.0.0 www.funvacayflorida.com
 0.0.0.0 www.furnishedbuilding.com
