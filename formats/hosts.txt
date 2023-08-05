@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.217
 # Release: 217
-# Entries: 83,852
-# Updated: Sat, 05 Aug 23 04:09:46 +06
+# Entries: 83,854
+# Updated: Sat, 05 Aug 23 06:09:40 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15655,6 +15655,7 @@
 0.0.0.0 corpbankphone.com
 0.0.0.0 corpdomain.us
 0.0.0.0 corporal.com
+0.0.0.0 corporaldisobedience.com
 0.0.0.0 corporategarnish.com
 0.0.0.0 corporatekernelimpassable.com
 0.0.0.0 corporatepro.co.in
@@ -27849,6 +27850,7 @@
 0.0.0.0 greyincident.com
 0.0.0.0 greylazpgl.site
 0.0.0.0 greyman.company
+0.0.0.0 greyscaleagency.com
 0.0.0.0 greystripe.com
 0.0.0.0 grfiliwbqtnrvsg.com
 0.0.0.0 grfinancialaccess.net
