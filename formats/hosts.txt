@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.219
 # Release: 219
-# Entries: 84,318
-# Updated: Mon, 07 Aug 23 08:24:31 +06
+# Entries: 84,319
+# Updated: Mon, 07 Aug 23 10:08:04 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -35220,6 +35220,7 @@
 0.0.0.0 kduiplo.pw
 0.0.0.0 kdvewlabjokfoc.com
 0.0.0.0 kdvtfbqhftvgpd.com
+0.0.0.0 kdwdrpiwdxof.com
 0.0.0.0 kdxwcppmed.com
 0.0.0.0 ke.business
 0.0.0.0 keamateorski.xyz
