@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.219
 # Release: 219
-# Entries: 84,445
-# Updated: Mon, 07 Aug 23 20:24:43 +06
+# Entries: 84,447
+# Updated: Mon, 07 Aug 23 22:10:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10459,6 +10459,7 @@
 0.0.0.0 bmanh.com
 0.0.0.0 bmaojdb.com
 0.0.0.0 bmarco.in
+0.0.0.0 bmbmwiadmvx.com
 0.0.0.0 bmbuqmdrjjhny.com
 0.0.0.0 bmcdn1.com
 0.0.0.0 bmcdn2.com
@@ -34351,6 +34352,7 @@
 0.0.0.0 jollytestpartying.com
 0.0.0.0 joltidiotichighest.com
 0.0.0.0 joltouch.net
+0.0.0.0 joltperforming.com
 0.0.0.0 jomasportec.com
 0.0.0.0 jomcomic2.onl
 0.0.0.0 jometro.com
