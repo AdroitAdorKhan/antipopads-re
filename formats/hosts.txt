@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.220
 # Release: 220
-# Entries: 84,457
-# Updated: Tue, 08 Aug 23 00:10:02 +06
+# Entries: 84,459
+# Updated: Tue, 08 Aug 23 02:09:59 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4461,6 +4461,7 @@
 0.0.0.0 ahvmsyemcldyjjr.com
 0.0.0.0 ahwrin88tl.com
 0.0.0.0 ahxmarhuhak.com
+0.0.0.0 ahyghotmptj.com
 0.0.0.0 ai-ciso.com
 0.0.0.0 ai-code-ops.net
 0.0.0.0 ai-counsel.org
@@ -17339,6 +17340,7 @@
 0.0.0.0 daygrumpyexchange.com
 0.0.0.0 daylightdean.com
 0.0.0.0 dayopkerwemn.com
+0.0.0.0 daysstone.com
 0.0.0.0 daytonabeachmedicare.org
 0.0.0.0 daytoursiceland.com
 0.0.0.0 dayznews.biz
