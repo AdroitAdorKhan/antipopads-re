@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.220
 # Release: 220
-# Entries: 84,459
-# Updated: Tue, 08 Aug 23 02:09:59 +06
+# Entries: 84,465
+# Updated: Tue, 08 Aug 23 06:09:40 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11698,6 +11698,7 @@
 0.0.0.0 bunopot.com
 0.0.0.0 bunq-bericht.com
 0.0.0.0 bunq-inloggen.com
+0.0.0.0 bunq-login.net
 0.0.0.0 bunq-messages.com
 0.0.0.0 bunq-verificatie.net
 0.0.0.0 bunq-verificatiebericht.com
@@ -24288,6 +24289,7 @@
 0.0.0.0 flashclicks.com
 0.0.0.0 flashdeals.co.in
 0.0.0.0 flashesmouches.store
+0.0.0.0 flashipy.store
 0.0.0.0 flashlightsstrawberry.com
 0.0.0.0 flashnetic.com
 0.0.0.0 flashsix.com
@@ -42757,6 +42759,7 @@
 0.0.0.0 n9s74npl.de
 0.0.0.0 na.woohoobiolith.com
 0.0.0.0 na1ver.com
+0.0.0.0 na3to.com
 0.0.0.0 na85vip.com
 0.0.0.0 naa.si
 0.0.0.0 naabyula.com
@@ -57603,6 +57606,7 @@
 0.0.0.0 sigilstimes.guru
 0.0.0.0 sigiward-ger.com
 0.0.0.0 siglux.com
+0.0.0.0 sigma-portfolio.com
 0.0.0.0 sigmaenterprises.info
 0.0.0.0 sigmaot.com
 0.0.0.0 signal-analysis-systems.org
@@ -69868,6 +69872,7 @@
 0.0.0.0 webmedrtb.com
 0.0.0.0 webmetapin.com
 0.0.0.0 webmotos.store
+0.0.0.0 weboccpuied.com
 0.0.0.0 weborevmedia.com
 0.0.0.0 webpfy.com
 0.0.0.0 webpinp.com
@@ -84413,6 +84418,7 @@
 0.0.0.0 zutasrbu.com
 0.0.0.0 zutorcagvmas.com
 0.0.0.0 zuuboto.com
+0.0.0.0 zuumba.com
 0.0.0.0 zuvary.tech
 0.0.0.0 zuvino.shop
 0.0.0.0 zuvino.store
