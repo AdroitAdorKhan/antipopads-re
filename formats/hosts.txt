@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.223
 # Release: 223
-# Entries: 85,023
-# Updated: Fri, 11 Aug 23 00:08:46 +06
+# Entries: 85,024
+# Updated: Fri, 11 Aug 23 02:08:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -78246,6 +78246,7 @@
 0.0.0.0 www.navalhazard.com
 0.0.0.0 www.navdeeshahuja.com
 0.0.0.0 www.naveljutmistress.com
+0.0.0.0 www.navigationconcept.com
 0.0.0.0 www.nayohmee.tech
 0.0.0.0 www.nbridge.net
 0.0.0.0 www.ncgtc.org
