@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.223
 # Release: 223
-# Entries: 85,133
-# Updated: Fri, 11 Aug 23 12:23:18 +06
+# Entries: 85,134
+# Updated: Fri, 11 Aug 23 14:08:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -83812,6 +83812,7 @@
 0.0.0.0 ykmmkhdcubgjia.xyz
 0.0.0.0 ykmskivf.com
 0.0.0.0 ykpllarvxijhox.com
+0.0.0.0 ykrwopdxkw.com
 0.0.0.0 yksauphesirchr.xyz
 0.0.0.0 ykxfcsqdobyuw.com
 0.0.0.0 ykxipfcg.com
