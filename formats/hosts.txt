@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.225
 # Release: 225
-# Entries: 85,434
-# Updated: Sun, 13 Aug 23 00:08:21 +06
+# Entries: 85,437
+# Updated: Sun, 13 Aug 23 02:08:07 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14552,6 +14552,7 @@
 0.0.0.0 clipwhip.com
 0.0.0.0 cliquesteria.net
 0.0.0.0 clitorist.com
+0.0.0.0 clitorius.com
 0.0.0.0 clitterouanga.digital
 0.0.0.0 cliveredington.co.uk
 0.0.0.0 clivesawyer.co.uk
@@ -56026,6 +56027,7 @@
 0.0.0.0 sallyfundamental.com
 0.0.0.0 sallyoxenstops.com
 0.0.0.0 salomonaustralia.net
+0.0.0.0 salomonbelgique.com
 0.0.0.0 salomonsuisse.com
 0.0.0.0 salon24.in
 0.0.0.0 salon526.com
@@ -81432,6 +81434,7 @@
 0.0.0.0 www.thoughtfulcontroversy.com
 0.0.0.0 www.threadlikeauth.ru
 0.0.0.0 www.threatenedpersonnel.com
+0.0.0.0 www.threateningeleven.com
 0.0.0.0 www.threatotherwise.com
 0.0.0.0 www.threefortressfork.com
 0.0.0.0 www.threeperspectivesph.com
