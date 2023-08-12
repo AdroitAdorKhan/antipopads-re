@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.08.224
-# Release: 224
-# Entries: 85,426
-# Updated: Sat, 12 Aug 23 22:08:08 +06
+# Version: 23.08.225
+# Release: 225
+# Entries: 85,434
+# Updated: Sun, 13 Aug 23 00:08:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4702,6 +4702,7 @@
 0.0.0.0 aj1913.online
 0.0.0.0 aj1985.online
 0.0.0.0 aj2031.online
+0.0.0.0 aj2218.online
 0.0.0.0 aj2373.online
 0.0.0.0 aj2397.online
 0.0.0.0 aj2430.online
@@ -16161,6 +16162,7 @@
 0.0.0.0 cql-shop.com
 0.0.0.0 cqlupb.com
 0.0.0.0 cqmqudieixhc.xyz
+0.0.0.0 cqnmtmqxecqvyl.com
 0.0.0.0 cqpngvqucjytw.com
 0.0.0.0 cqrvwq.com
 0.0.0.0 cqsfdunhf.com
@@ -21504,6 +21506,7 @@
 0.0.0.0 elotributeband.com
 0.0.0.0 elpasocountycourts.com
 0.0.0.0 elpfnmboivvwxkd.com
+0.0.0.0 elrkovhhyfkor.com
 0.0.0.0 elrxjtkq.com
 0.0.0.0 elsatthereandh.cc
 0.0.0.0 elsaunny.com
@@ -39032,6 +39035,7 @@
 0.0.0.0 lqfnbjsaqajrll.com
 0.0.0.0 lqmrxmavv.com
 0.0.0.0 lqnuwlybijnh.com
+0.0.0.0 lqpmulou.com
 0.0.0.0 lqqamsqh.xyz
 0.0.0.0 lqriubyebqo.top
 0.0.0.0 lqrlhmdwy.com
@@ -42498,6 +42502,7 @@
 0.0.0.0 msmnhwds.com
 0.0.0.0 mspqimyfhwxlv.com
 0.0.0.0 msqfvbfufkgye.com
+0.0.0.0 msrehcmpeme.com
 0.0.0.0 msrejection.com
 0.0.0.0 msrvt.net
 0.0.0.0 msrwkntc.com
@@ -52177,6 +52182,7 @@
 0.0.0.0 qfdn3gyfbs.com
 0.0.0.0 qfg945v.com
 0.0.0.0 qfgeefewldr.com
+0.0.0.0 qfgkixvmwgaf.com
 0.0.0.0 qfjherc.com
 0.0.0.0 qfnvqalpgiriub.com
 0.0.0.0 qfoafjopdj.com
@@ -52364,6 +52370,7 @@
 0.0.0.0 qoqoriginals.com
 0.0.0.0 qoqtonkcmndxp.com
 0.0.0.0 qoqv.com
+0.0.0.0 qoqxnuxneo.xyz
 0.0.0.0 qoredi.com
 0.0.0.0 qosbdscuvuqnvxc.xyz
 0.0.0.0 qotbvnbipfgwg.com
@@ -59814,6 +59821,7 @@
 0.0.0.0 spatikona.com
 0.0.0.0 spatterjointposition.com
 0.0.0.0 spattermutiny.com
+0.0.0.0 spaupmbxhqto.xyz
 0.0.0.0 spawnpredicatemutual.com
 0.0.0.0 spbaolovjvyj.com
 0.0.0.0 spbcdrrldemmn.com
