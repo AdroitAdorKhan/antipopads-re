@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.224
 # Release: 224
-# Entries: 85,342
-# Updated: Sat, 12 Aug 23 12:21:33 +06
+# Entries: 85,344
+# Updated: Sat, 12 Aug 23 14:08:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -22258,6 +22258,7 @@
 0.0.0.0 escelente.store
 0.0.0.0 escers.com
 0.0.0.0 escolajudicial.com
+0.0.0.0 escort-video.com
 0.0.0.0 escorts.ma
 0.0.0.0 escortsex.online
 0.0.0.0 escortsocialmedia.net
@@ -32663,6 +32664,7 @@
 0.0.0.0 inquietchronos.website
 0.0.0.0 inquiredcriticalprosecution.com
 0.0.0.0 inquiriescape.com
+0.0.0.0 inquiriesdishonest.com
 0.0.0.0 inquirybloom.com
 0.0.0.0 inquiryblue.com
 0.0.0.0 inquiryclank.com
