@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.224
 # Release: 224
-# Entries: 85,394
-# Updated: Sat, 12 Aug 23 16:08:46 +06
+# Entries: 85,397
+# Updated: Sat, 12 Aug 23 18:08:19 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -18656,6 +18656,7 @@
 0.0.0.0 digitalmediapp.com
 0.0.0.0 digitalmuru.site
 0.0.0.0 digitalmusicradio.net
+0.0.0.0 digitalprintxpress.co.za
 0.0.0.0 digitalreservation.fun
 0.0.0.0 digitalsignatureonline.in
 0.0.0.0 digitalsolarbusiness.com
@@ -24527,6 +24528,7 @@
 0.0.0.0 flatbedcouthy.space
 0.0.0.0 flatcapspriggy.cam
 0.0.0.0 flatepicbats.com
+0.0.0.0 flatfishsafetest.com
 0.0.0.0 flatlyforensics.com
 0.0.0.0 flatlywireless.com
 0.0.0.0 flatroofinginderbyshire.co.uk
@@ -75174,6 +75176,7 @@
 0.0.0.0 www.digitalgood.news
 0.0.0.0 www.digitalgroupnow.com
 0.0.0.0 www.digitalmuru.site
+0.0.0.0 www.digitalprintxpress.co.za
 0.0.0.0 www.digitec.com
 0.0.0.0 www.digiworkai.com
 0.0.0.0 www.dijiuyyyy.com
