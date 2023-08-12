@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.224
 # Release: 224
-# Entries: 85,338
-# Updated: Sat, 12 Aug 23 10:08:18 +06
+# Entries: 85,342
+# Updated: Sat, 12 Aug 23 12:21:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14263,6 +14263,7 @@
 0.0.0.0 clarifyingcommunication.com
 0.0.0.0 clarifyingcommunication.org
 0.0.0.0 clarifysuper.com
+0.0.0.0 clarinlawter.digital
 0.0.0.0 claristbedare.guru
 0.0.0.0 clarityactressmourning.com
 0.0.0.0 clarityhealingfarm.info
@@ -27267,6 +27268,7 @@
 0.0.0.0 glxrubskce.com
 0.0.0.0 glxtest.site
 0.0.0.0 glycemicindexof.com
+0.0.0.0 glyde.com
 0.0.0.0 glyphsmahajan.com
 0.0.0.0 glyphwursts.digital
 0.0.0.0 gm.astonedcyclar.com
@@ -38812,6 +38814,7 @@
 0.0.0.0 losingsplowter.com
 0.0.0.0 lositz.com
 0.0.0.0 losswitchrancid.com
+0.0.0.0 lossycyborgs.website
 0.0.0.0 lostcitytrekbunkuany.com
 0.0.0.0 losthotrivermusic.com
 0.0.0.0 lostincunt.com
@@ -41745,6 +41748,7 @@
 0.0.0.0 mnoglcfv.com
 0.0.0.0 mnogrjvcdw.xyz
 0.0.0.0 mnpjrbbwkqfbcf.com
+0.0.0.0 mnpolicescaner.com
 0.0.0.0 mnpolicscanner.com
 0.0.0.0 mnptindia.com
 0.0.0.0 mnribbbn.xyz
