@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.225
 # Release: 225
-# Entries: 85,438
-# Updated: Sun, 13 Aug 23 04:22:21 +06
+# Entries: 85,440
+# Updated: Sun, 13 Aug 23 06:08:29 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -4889,6 +4889,7 @@
 :: alemna.co.uk
 :: alemna.uk
 :: alemnainvestments.uk
+:: alena.kiwi
 :: alenabenesova.com
 :: alenagrove.com
 :: alenajackson.com
@@ -73047,6 +73048,7 @@
 :: www.alancorp-sa.com
 :: www.alcoholsupervisiondisplace.com
 :: www.alebrinkfed.com
+:: www.alena.kiwi
 :: www.alenagrove.com
 :: www.aleshagroups.com
 :: www.aletheiafulfillment.com
