@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.227
 # Release: 227
-# Entries: 85,785
-# Updated: Tue, 15 Aug 23 02:08:19 +06
+# Entries: 85,788
+# Updated: Tue, 15 Aug 23 04:24:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6291,6 +6291,7 @@
 0.0.0.0 applesecurity.app
 0.0.0.0 appleseedsplayschool.in
 0.0.0.0 applesometimes.com
+0.0.0.0 applestram.com
 0.0.0.0 applevfcu.org
 0.0.0.0 applewfcu.org
 0.0.0.0 applfc.org
@@ -15270,6 +15271,7 @@
 0.0.0.0 commercialvalue.org
 0.0.0.0 commercialwaterfeatures.uk
 0.0.0.0 commfram.com
+0.0.0.0 commiserateeffects.com
 0.0.0.0 commiseratefacilenotably.com
 0.0.0.0 commiseratelavishness.com
 0.0.0.0 commissionkings.ag
@@ -30273,6 +30275,7 @@
 0.0.0.0 hiredpetro.com
 0.0.0.0 hiredpoison.life
 0.0.0.0 hirefreelancers.uk
+0.0.0.0 hirepuces.uno
 0.0.0.0 hiretech.jobs
 0.0.0.0 hirted.com
 0.0.0.0 hirtghckjkkj.com
