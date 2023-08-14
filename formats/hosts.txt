@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.226
 # Release: 226
-# Entries: 85,712
-# Updated: Mon, 14 Aug 23 10:08:45 +06
+# Entries: 85,714
+# Updated: Mon, 14 Aug 23 12:19:41 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -17976,6 +17976,7 @@
 0.0.0.0 delhicomputertraininginstitute.com
 0.0.0.0 delhidowntown.net
 0.0.0.0 delhiprofessionalinstitute.com
+0.0.0.0 delhishine.com
 0.0.0.0 delhiwaxrefinery.com
 0.0.0.0 delicacyclungscalpel.com
 0.0.0.0 deliciosa-senorita.com
@@ -38612,6 +38613,7 @@
 0.0.0.0 lm-defense.com
 0.0.0.0 lm.boosetrocha.com
 0.0.0.0 lm04.tv
+0.0.0.0 lmdkrimv.com
 0.0.0.0 lmdramsmcx.xyz
 0.0.0.0 lmeexisten.xyz
 0.0.0.0 lmefarketi.com
