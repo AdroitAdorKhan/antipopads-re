@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.227
 # Release: 227
-# Entries: 85,800
-# Updated: Tue, 15 Aug 23 10:08:20 +06
+# Entries: 85,805
+# Updated: Tue, 15 Aug 23 12:24:36 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13391,6 +13391,7 @@
 0.0.0.0 cesfttajihif.top
 0.0.0.0 cesi1.com
 0.0.0.0 cesi2.com
+0.0.0.0 cesiumscredits.uno
 0.0.0.0 cesiumsemboite.com
 0.0.0.0 ceska-republika.click
 0.0.0.0 ceska-republika.cool
@@ -31193,6 +31194,7 @@
 0.0.0.0 huanxi0718.com
 0.0.0.0 huardelectrique.com
 0.0.0.0 huavaqvqhlcxu.com
+0.0.0.0 huawei.academy
 0.0.0.0 huaweicloudoneaccess.com
 0.0.0.0 huaykae.com
 0.0.0.0 hub-sci.net
@@ -68396,6 +68398,7 @@
 0.0.0.0 uxjquaekos.com
 0.0.0.0 uxnovmyasb.com
 0.0.0.0 uxodisposal.co.uk
+0.0.0.0 uxorialangoise.top
 0.0.0.0 uxosurveys.uk
 0.0.0.0 uxpascal.com
 0.0.0.0 uxpiecvufhqyk.com
@@ -68779,6 +68782,7 @@
 0.0.0.0 vbtrax.com
 0.0.0.0 vbubveslca.com
 0.0.0.0 vbukkeouir.com
+0.0.0.0 vbulletin-api.com
 0.0.0.0 vbwlyqke.com
 0.0.0.0 vc.rearerstombs.com
 0.0.0.0 vc83.org
@@ -82246,6 +82250,7 @@
 0.0.0.0 www.varycares.com
 0.0.0.0 www.vasaiindustries.com
 0.0.0.0 www.vatcertaininject.com
+0.0.0.0 www.vbulletin-api.com
 0.0.0.0 www.vchit.com
 0.0.0.0 www.vco.health
 0.0.0.0 www.vdigitaltechies.com
