@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.227
 # Release: 227
-# Entries: 85,859
-# Updated: Tue, 15 Aug 23 20:25:11 +06
+# Entries: 85,860
+# Updated: Tue, 15 Aug 23 22:08:40 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -39635,6 +39635,7 @@
 0.0.0.0 m-shes.ru
 0.0.0.0 m-trk.online
 0.0.0.0 m.expensestumble.top
+0.0.0.0 m.www.unoakrookroo.com
 0.0.0.0 m.www.yourbestlandever.com
 0.0.0.0 m0hcppadsnq8.com
 0.0.0.0 m0res.xyz
