@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.228
 # Release: 228
-# Entries: 85,868
-# Updated: Wed, 16 Aug 23 02:09:04 +06
+# Entries: 85,872
+# Updated: Wed, 16 Aug 23 04:24:43 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -18912,6 +18912,7 @@
 0.0.0.0 dirt-ebike974.com
 0.0.0.0 dirtbikerace.com
 0.0.0.0 dirtcoineth.com
+0.0.0.0 dirtilyurbane.digital
 0.0.0.0 dirtinessboiled.com
 0.0.0.0 dirtrecurrentinapptitudeinapptitude.com
 0.0.0.0 dirtyasmr.com
@@ -44541,6 +44542,7 @@
 0.0.0.0 nifty-transportation.com
 0.0.0.0 niftygateway.website
 0.0.0.0 niftyjelly.com
+0.0.0.0 niftyplumlet.website
 0.0.0.0 niftysavage.io
 0.0.0.0 niganmaaiiyooo.com
 0.0.0.0 nigdom.com
@@ -47127,6 +47129,7 @@
 0.0.0.0 originedreting.site
 0.0.0.0 originjargon.com
 0.0.0.0 originriver.com
+0.0.0.0 originsluo.website
 0.0.0.0 origintube.com
 0.0.0.0 origunix.com
 0.0.0.0 orion-gen.com
@@ -66620,6 +66623,7 @@
 0.0.0.0 turmoilragcrutch.com
 0.0.0.0 turneryates.com
 0.0.0.0 turnhub.net
+0.0.0.0 turningchi.digital
 0.0.0.0 turnipobjection.com
 0.0.0.0 turnreview.com
 0.0.0.0 turnstilespacious.com
