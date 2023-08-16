@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.228
 # Release: 228
-# Entries: 85,991
-# Updated: Wed, 16 Aug 23 10:08:52 +06
+# Entries: 85,993
+# Updated: Wed, 16 Aug 23 12:25:38 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -66641,6 +66641,7 @@
 0.0.0.0 tumblebit.com
 0.0.0.0 tumblerearthquakehappily.com
 0.0.0.0 tumbleweedpeppercompany.com
+0.0.0.0 tumbrildespin.space
 0.0.0.0 tumedhan.com
 0.0.0.0 tumitukuri.com
 0.0.0.0 tummeddomicil.space
@@ -80569,6 +80570,7 @@
 0.0.0.0 www.representativerepellentbob.com
 0.0.0.0 www.representrollerpurposely.com
 0.0.0.0 www.reproofdiningiris.com
+0.0.0.0 www.reprovems.com
 0.0.0.0 www.reptiles-of-ethiopia-and-eritrea.com
 0.0.0.0 www.republicanneutrality.com
 0.0.0.0 www.republichuntprimary.com
