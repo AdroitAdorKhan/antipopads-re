@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.230
 # Release: 230
-# Entries: 86,229
-# Updated: Fri, 18 Aug 23 00:10:39 +06
+# Entries: 86,230
+# Updated: Fri, 18 Aug 23 02:23:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28903,6 +28903,7 @@
 0.0.0.0 gushswarthy.com
 0.0.0.0 gussame.com
 0.0.0.0 gussbkpr.website
+0.0.0.0 gussiemarkup.life
 0.0.0.0 gusss07xd.com
 0.0.0.0 gustdeficitwry.com
 0.0.0.0 gustilyoblate.uno
