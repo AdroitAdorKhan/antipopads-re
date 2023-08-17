@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.229
 # Release: 229
-# Entries: 86,131
-# Updated: Thu, 17 Aug 23 12:25:16 +06
+# Entries: 86,132
+# Updated: Thu, 17 Aug 23 14:08:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -64367,6 +64367,7 @@
 :: thisistvfordogs.com
 :: thisiswaldo.com
 :: thisisyourprize.site
+:: thislaboratory.com
 :: thismetric.com
 :: thisonethingido.com
 :: thispositionw.biz

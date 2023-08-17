@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.229
 # Release: 229
-# Entries: 86,131
-# Updated: Thu, 17 Aug 23 12:25:16 +06
+# Entries: 86,132
+# Updated: Thu, 17 Aug 23 14:08:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -64367,6 +64367,7 @@
 0.0.0.0 thisistvfordogs.com
 0.0.0.0 thisiswaldo.com
 0.0.0.0 thisisyourprize.site
+0.0.0.0 thislaboratory.com
 0.0.0.0 thismetric.com
 0.0.0.0 thisonethingido.com
 0.0.0.0 thispositionw.biz
