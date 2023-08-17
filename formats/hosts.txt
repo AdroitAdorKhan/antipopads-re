@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.229
 # Release: 229
-# Entries: 86,073
-# Updated: Thu, 17 Aug 23 04:24:23 +06
+# Entries: 86,077
+# Updated: Thu, 17 Aug 23 06:08:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5885,6 +5885,7 @@
 0.0.0.0 anntuminello.tech
 0.0.0.0 annual-gamers-choice.com
 0.0.0.0 annualbubble.com
+0.0.0.0 annuityserv.net
 0.0.0.0 annulichasm.digital
 0.0.0.0 annulmententrepreneurflex.com
 0.0.0.0 annzoftsolutions.com
@@ -24109,6 +24110,7 @@
 0.0.0.0 ffg37.com
 0.0.0.0 ffjd1.com
 0.0.0.0 ffkdxymyji.com
+0.0.0.0 fflags.com
 0.0.0.0 fflip.it
 0.0.0.0 ffortyimagist.com
 0.0.0.0 ffpbc.com
@@ -71027,6 +71029,7 @@
 0.0.0.0 weatherpeanutnegligence.com
 0.0.0.0 weatherplllatform.com
 0.0.0.0 weatherpopularitypassage.com
+0.0.0.0 weatmkjiqksfsp.com
 0.0.0.0 weaveconcretefreakish.com
 0.0.0.0 weavelabsngo.org
 0.0.0.0 weavelurkwiden.com
@@ -83920,6 +83923,7 @@
 0.0.0.0 xn--torrentfranais-qjb.fr
 0.0.0.0 xn--tv-hk5ia.com
 0.0.0.0 xn--v6qx86l.com
+0.0.0.0 xn--vivobarefootzrich-f3b.com
 0.0.0.0 xn--ygba1c.wtf
 0.0.0.0 xncnnmbof.com
 0.0.0.0 xncwx2.com
