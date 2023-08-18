@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.230
 # Release: 230
-# Entries: 86,239
-# Updated: Fri, 18 Aug 23 10:17:18 +06
+# Entries: 86,241
+# Updated: Fri, 18 Aug 23 12:08:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -41350,6 +41350,7 @@
 0.0.0.0 meromeals.com
 0.0.0.0 merosgramash.com
 0.0.0.0 merrellbotturkiye.com
+0.0.0.0 merrellbratislava.com
 0.0.0.0 merrellmxmexico.com
 0.0.0.0 merrickpayment.com
 0.0.0.0 merryindecisionremained.com
@@ -47173,6 +47174,7 @@
 0.0.0.0 oqfgpdnwdbirpc.com
 0.0.0.0 oqfvsgfj.com
 0.0.0.0 oqgdakxdqu.com
+0.0.0.0 oqlirdwyxnkewf.com
 0.0.0.0 oqnfizm.com
 0.0.0.0 oqnfsivlp.com
 0.0.0.0 oqsdospfd.xyz
