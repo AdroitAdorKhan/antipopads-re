@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.230
 # Release: 230
-# Entries: 86,300
-# Updated: Fri, 18 Aug 23 18:24:59 +06
+# Entries: 86,307
+# Updated: Fri, 18 Aug 23 20:08:31 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3492,6 +3492,7 @@
 0.0.0.0 admachina.com
 0.0.0.0 admanmedia.com
 0.0.0.0 admavvex.com
+0.0.0.0 admax.network
 0.0.0.0 adme-net.com
 0.0.0.0 admedit.net
 0.0.0.0 admeerkat.com
@@ -74340,6 +74341,7 @@
 0.0.0.0 www.beaconunruly.com
 0.0.0.0 www.beambroth.com
 0.0.0.0 www.beanoutragethen.com
+0.0.0.0 www.beansarcasm.com
 0.0.0.0 www.beanspriority.com
 0.0.0.0 www.beanvehicleopening.com
 0.0.0.0 www.bearableher.com
@@ -78346,6 +78348,7 @@
 0.0.0.0 www.jurisdictionasundercurls.com
 0.0.0.0 www.justificationevidentpensive.com
 0.0.0.0 www.justifiedatrociousretinue.com
+0.0.0.0 www.justinfeat.com
 0.0.0.0 www.jutprolificlax.com
 0.0.0.0 www.juvenilearmature.com
 0.0.0.0 www.jwpcdn-hamed.com
@@ -79390,6 +79393,7 @@
 0.0.0.0 www.naiptouy.com
 0.0.0.0 www.namasteswasth.com
 0.0.0.0 www.namelessably.com
+0.0.0.0 www.namelymagnanimitycube.com
 0.0.0.0 www.namelymutiny.com
 0.0.0.0 www.nameserver-ops.live
 0.0.0.0 www.namesexual.com
@@ -79649,6 +79653,7 @@
 0.0.0.0 www.offarmiesupward.com
 0.0.0.0 www.offendwitnessedirresponsible.com
 0.0.0.0 www.offensivepitcherultimately.com
+0.0.0.0 www.offercookerychildhood.com
 0.0.0.0 www.offerhunterz.com
 0.0.0.0 www.offertrigger.com
 0.0.0.0 www.offhandnunsill.com
@@ -80458,6 +80463,7 @@
 0.0.0.0 www.proponylisten.com
 0.0.0.0 www.propoorpolicy.org
 0.0.0.0 www.proposalpearlpleasantly.com
+0.0.0.0 www.proposeado.com
 0.0.0.0 www.proposedfelonoxide.com
 0.0.0.0 www.prosecutevein.com
 0.0.0.0 www.prosecutioncredulity.com
@@ -82528,6 +82534,7 @@
 0.0.0.0 www.tunnelstitchfinal.com
 0.0.0.0 www.tuonggonghethuat.com
 0.0.0.0 www.tupuedes.app
+0.0.0.0 www.turbansour.com
 0.0.0.0 www.turedetective.xyz
 0.0.0.0 www.turiempleo.com
 0.0.0.0 www.turismoindigenacolombia.org
