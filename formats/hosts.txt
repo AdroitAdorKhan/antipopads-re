@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.230
 # Release: 230
-# Entries: 86,230
-# Updated: Fri, 18 Aug 23 02:23:50 +06
+# Entries: 86,231
+# Updated: Fri, 18 Aug 23 06:08:17 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -55030,6 +55030,7 @@
 0.0.0.0 ridingintractable.com
 0.0.0.0 ridseechiph.com
 0.0.0.0 ridsilry.net
+0.0.0.0 riekerjakarta.com
 0.0.0.0 rielturuxrm.com
 0.0.0.0 riemak.com
 0.0.0.0 riemkimchee.store
