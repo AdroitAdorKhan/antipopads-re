@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.230
 # Release: 230
-# Entries: 86,231
-# Updated: Fri, 18 Aug 23 06:08:17 +06
+# Entries: 86,233
+# Updated: Fri, 18 Aug 23 08:08:19 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11154,6 +11154,7 @@
 0.0.0.0 bpapuqorv.com
 0.0.0.0 bpbjlfkyaenvi.xyz
 0.0.0.0 bpcicfavcs.com
+0.0.0.0 bpcmjhhmh.com
 0.0.0.0 bpcrigbuilders.com
 0.0.0.0 bpfntvfbqmtttn.com
 0.0.0.0 bpinfragroup.com
@@ -30520,6 +30521,7 @@
 0.0.0.0 hlljldhlwvfw.com
 0.0.0.0 hllowvsion.click
 0.0.0.0 hlm2.xyz
+0.0.0.0 hlminc.org
 0.0.0.0 hlmiq.com
 0.0.0.0 hlpnowp-c.com
 0.0.0.0 hlrvfycqtlfjd.com
