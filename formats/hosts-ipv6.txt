@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.08.230
-# Release: 230
-# Entries: 86,310
-# Updated: Fri, 18 Aug 23 22:08:50 +06
+# Version: 23.08.231
+# Release: 231
+# Entries: 86,311
+# Updated: Sat, 19 Aug 23 00:08:31 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -79254,6 +79254,7 @@
 :: www.moshimoshi-nippon-la.com
 :: www.mosquesituated.com
 :: www.mosswhinepanther.com
+:: www.mostdeport.com
 :: www.mostlytreasure.com
 :: www.motherhoodlimiteddetest.com
 :: www.motionperformedstew.com
