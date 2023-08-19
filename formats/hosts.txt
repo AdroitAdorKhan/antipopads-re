@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.232
 # Release: 232
-# Entries: 86,494
-# Updated: Sun, 20 Aug 23 02:22:30 +06
+# Entries: 86,498
+# Updated: Sun, 20 Aug 23 04:08:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28013,6 +28013,7 @@
 0.0.0.0 goloshyacal.space
 0.0.0.0 golpnkgkndw.com
 0.0.0.0 golpuri.in
+0.0.0.0 golshacosmetics.com
 0.0.0.0 gomain.pro
 0.0.0.0 gomain2.pro
 0.0.0.0 gomakeyourtrips.com
@@ -42988,6 +42989,7 @@
 0.0.0.0 mswyndemerecs.com
 0.0.0.0 msypr.com
 0.0.0.0 mt-b-online.com
+0.0.0.0 mt-b-online.xyz
 0.0.0.0 mt.rtmark.net
 0.0.0.0 mt34iofvjay.com
 0.0.0.0 mtapdeletion.com
@@ -77403,6 +77405,7 @@
 0.0.0.0 www.goldfishquestion.com
 0.0.0.0 www.goldjunge.xyz
 0.0.0.0 www.goldmoncler.top
+0.0.0.0 www.golshacosmetics.com
 0.0.0.0 www.gomerch.shop
 0.0.0.0 www.gongluliqingzhan.com
 0.0.0.0 www.goo1111gie-analytics.su
@@ -79452,6 +79455,7 @@
 0.0.0.0 www.mslots88.com
 0.0.0.0 www.msrejection.com
 0.0.0.0 www.mstradingbd.xyz
+0.0.0.0 www.mt-b-online.xyz
 0.0.0.0 www.mtindex.com
 0.0.0.0 www.muchmiller.com
 0.0.0.0 www.muconstructions.com
