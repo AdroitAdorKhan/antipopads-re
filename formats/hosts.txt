@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.232
 # Release: 232
-# Entries: 86,498
-# Updated: Sun, 20 Aug 23 04:08:55 +06
+# Entries: 86,499
+# Updated: Sun, 20 Aug 23 06:08:29 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -39764,6 +39764,7 @@
 0.0.0.0 lvrgu.us
 0.0.0.0 lvscspiurklnlh.com
 0.0.0.0 lvwdrsrerso.com
+0.0.0.0 lvyxangbgfdpxby.com
 0.0.0.0 lvztx.com
 0.0.0.0 lw.sciniphruffin.com
 0.0.0.0 lw.sylingegoism.com
