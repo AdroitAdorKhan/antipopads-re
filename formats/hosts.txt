@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.233
 # Release: 233
-# Entries: 86,700
-# Updated: Mon, 21 Aug 23 00:23:18 +06
+# Entries: 86,705
+# Updated: Mon, 21 Aug 23 06:08:42 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19569,6 +19569,7 @@
 0.0.0.0 dogconcurrencesauce.com
 0.0.0.0 doge2.app
 0.0.0.0 dogemos.com
+0.0.0.0 doggiedesygns.com
 0.0.0.0 doggroomerslondon.co.uk
 0.0.0.0 doggycards.co.uk
 0.0.0.0 doggyunderline.com
@@ -71472,6 +71473,7 @@
 0.0.0.0 wearbykz.com
 0.0.0.0 weareborntoexplore.com
 0.0.0.0 wearecli.com
+0.0.0.0 wearenca.ca
 0.0.0.0 wearewintersprings.org
 0.0.0.0 wearinggenear.com
 0.0.0.0 wearingmarte.com
@@ -76384,6 +76386,7 @@
 0.0.0.0 www.doerimpertinent.com
 0.0.0.0 www.dogconcurrencesauce.com
 0.0.0.0 www.dogemos.com
+0.0.0.0 www.doggiedesygns.com
 0.0.0.0 www.dogsatschool.ca
 0.0.0.0 www.dohsnowentities.com
 0.0.0.0 www.doingporteddispose.com
@@ -76645,6 +76648,7 @@
 0.0.0.0 www.elderzon.com
 0.0.0.0 www.eldestcasualelements.com
 0.0.0.0 www.eldiariodematamoros.com
+0.0.0.0 www.eleccionesseccionales2023.com
 0.0.0.0 www.elecheri.com
 0.0.0.0 www.electricalbicyclelistnonfiction.com
 0.0.0.0 www.electronicconsensus.com
@@ -79417,6 +79421,7 @@
 0.0.0.0 www.mercedesswag.com
 0.0.0.0 www.mercurysugarconsulting.com
 0.0.0.0 www.mercurywindscreencane.com
+0.0.0.0 www.mercyschoolsapp.com
 0.0.0.0 www.meresire.com
 0.0.0.0 www.mergerreclaim.com
 0.0.0.0 www.mergleft.com
