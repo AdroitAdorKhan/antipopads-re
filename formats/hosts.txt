@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.233
 # Release: 233
-# Entries: 86,724
-# Updated: Mon, 21 Aug 23 08:22:48 +06
+# Entries: 86,728
+# Updated: Mon, 21 Aug 23 12:07:57 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7200,6 +7200,7 @@
 0.0.0.0 asterbiscusys.com
 0.0.0.0 asterresearchers.com
 0.0.0.0 astespurra.com
+0.0.0.0 asthabuilders.com
 0.0.0.0 asthepoityelth.xyz
 0.0.0.0 asthir.com
 0.0.0.0 astirvibist.com
@@ -66547,6 +66548,7 @@
 0.0.0.0 trenhsasolce.com
 0.0.0.0 trenhsmp.com
 0.0.0.0 trenklelandcoin.com
+0.0.0.0 trenoz.com
 0.0.0.0 trenpyle.com
 0.0.0.0 trentcompany.com
 0.0.0.0 trentjesno.com
@@ -74411,6 +74413,7 @@
 0.0.0.0 www.assurancedangerous.com
 0.0.0.0 www.assurednesssalesmanmaud.com
 0.0.0.0 www.assurehandicappedbonus.com
+0.0.0.0 www.asthabuilders.com
 0.0.0.0 www.astonisheddisappoint.com
 0.0.0.0 www.astonishedextinguishreceiving.com
 0.0.0.0 www.astonishedmule.com
@@ -82867,6 +82870,7 @@
 0.0.0.0 www.trekcanarysouvenir.com
 0.0.0.0 www.trendindicator.org
 0.0.0.0 www.treneraco.com
+0.0.0.0 www.trenoz.com
 0.0.0.0 www.trentjesno.com
 0.0.0.0 www.trewnhiok.com
 0.0.0.0 www.trexpto.com
