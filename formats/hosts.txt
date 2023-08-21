@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.233
 # Release: 233
-# Entries: 86,728
-# Updated: Mon, 21 Aug 23 12:07:57 +06
+# Entries: 86,732
+# Updated: Mon, 21 Aug 23 14:08:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -43595,6 +43595,7 @@
 0.0.0.0 mykhel11.com
 0.0.0.0 mykhtesikvuz.com
 0.0.0.0 mykiger.com
+0.0.0.0 mykotakrewards.co.in
 0.0.0.0 mylearngroup.com
 0.0.0.0 mylemans-it.be
 0.0.0.0 mylifestylehive.com
@@ -59943,6 +59944,7 @@
 0.0.0.0 smithvillefcc.com
 0.0.0.0 smitry.com
 0.0.0.0 smizzofficial.com
+0.0.0.0 smjresearch.com
 0.0.0.0 smjulynews.com
 0.0.0.0 smjxarmaflpmxj.com
 0.0.0.0 smkhcmcfqerjduk.com
@@ -79738,6 +79740,7 @@
 0.0.0.0 www.myjagran.com
 0.0.0.0 www.mykatestore.com
 0.0.0.0 www.mykhel11.com
+0.0.0.0 www.mykotakrewards.co.in
 0.0.0.0 www.mymantech.com
 0.0.0.0 www.mymobdeals.com
 0.0.0.0 www.mymusicledger.com
@@ -81957,6 +81960,7 @@
 0.0.0.0 www.smilingdefectcue.com
 0.0.0.0 www.smilingnippleappliance.com
 0.0.0.0 www.smitetrolleytelescope.com
+0.0.0.0 www.smjresearch.com
 0.0.0.0 www.smokebookcase.com
 0.0.0.0 www.smokedhewvalid.com
 0.0.0.0 www.smokeymountianjammin.com
