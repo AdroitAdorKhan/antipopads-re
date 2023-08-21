@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.234
 # Release: 234
-# Entries: 86,820
-# Updated: Tue, 22 Aug 23 00:25:27 +06
+# Entries: 86,821
+# Updated: Tue, 22 Aug 23 02:08:27 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -77470,6 +77470,7 @@
 0.0.0.0 www.fulibus2023.com
 0.0.0.0 www.fumanhua3.com
 0.0.0.0 www.fumecarbohydrate.com
+0.0.0.0 www.functionfreaklacerate.com
 0.0.0.0 www.functionsprecision.com
 0.0.0.0 www.functionspresidespiral.com
 0.0.0.0 www.fundacija.org
