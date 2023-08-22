@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.234
 # Release: 234
-# Entries: 86,821
-# Updated: Tue, 22 Aug 23 02:08:27 +06
+# Entries: 86,829
+# Updated: Tue, 22 Aug 23 06:10:34 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28769,6 +28769,7 @@
 0.0.0.0 groininsightclaimed.com
 0.0.0.0 groinmonsieur.com
 0.0.0.0 groj5yfg.com
+0.0.0.0 grokit.dev
 0.0.0.0 gromairt.net
 0.0.0.0 grooksom.com
 0.0.0.0 groomingos.in
@@ -43441,6 +43442,7 @@
 0.0.0.0 mwcxljdywq.com
 0.0.0.0 mwemsias.com
 0.0.0.0 mwfdaciicqhyrj.com
+0.0.0.0 mwglegal.com
 0.0.0.0 mwihruozvmzu.com
 0.0.0.0 mwkexbte.com
 0.0.0.0 mwklvovwmnwi.xyz
@@ -46868,6 +46870,7 @@
 0.0.0.0 omni-ads.com
 0.0.0.0 omnibusassuage.life
 0.0.0.0 omnidokingon.com
+0.0.0.0 omnilifecenter.com
 0.0.0.0 omnimatter.com
 0.0.0.0 omnipotentglobalbeer.com
 0.0.0.0 omnipresenttrifleclosed.com
@@ -55429,6 +55432,7 @@
 0.0.0.0 ringsrecord.com
 0.0.0.0 ringtonepartner.com
 0.0.0.0 ringtonesfree.info
+0.0.0.0 rinkbars.com
 0.0.0.0 rinkcomms.net
 0.0.0.0 rinkiq.com
 0.0.0.0 rinlpmbu.com
@@ -77789,6 +77793,7 @@
 0.0.0.0 www.grishamkansal.com
 0.0.0.0 www.grodtur.com
 0.0.0.0 www.groininsightclaimed.com
+0.0.0.0 www.grokit.dev
 0.0.0.0 www.grooveoperate.com
 0.0.0.0 www.group108expressway.com
 0.0.0.0 www.grtaanmdu.com
@@ -79796,6 +79801,7 @@
 0.0.0.0 www.muzzleabbot.com
 0.0.0.0 www.muzzlematrix.com
 0.0.0.0 www.mv8.app
+0.0.0.0 www.mwglegal.com
 0.0.0.0 www.mwtraff.mobi
 0.0.0.0 www.mxkfraxfrtgsj.com
 0.0.0.0 www.my-tago.com
@@ -80149,6 +80155,7 @@
 0.0.0.0 www.omelettecrippledemployee.com
 0.0.0.0 www.omelettegeometryguts.com
 0.0.0.0 www.omenreprimanddesigner.com
+0.0.0.0 www.omnilifecenter.com
 0.0.0.0 www.omnimatter.com
 0.0.0.0 www.omnipotentglobalbeer.com
 0.0.0.0 www.omnipresenttrifleclosed.com
@@ -81446,6 +81453,7 @@
 0.0.0.0 www.rimstonecivilize.com
 0.0.0.0 www.ringsempty.com
 0.0.0.0 www.ringtonesfree.info
+0.0.0.0 www.rinkbars.com
 0.0.0.0 www.riotousunspeakablestreet.com
 0.0.0.0 www.ripeabacktuition.com
 0.0.0.0 www.ripvariation.com
