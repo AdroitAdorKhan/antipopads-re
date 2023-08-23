@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.235
 # Release: 235
-# Entries: 87,038
-# Updated: Wed, 23 Aug 23 10:08:19 +06
+# Entries: 87,040
+# Updated: Wed, 23 Aug 23 12:24:19 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -17024,6 +17024,7 @@
 0.0.0.0 curdlecobiron.com
 0.0.0.0 curedonswab.com
 0.0.0.0 curekid.in
+0.0.0.0 curfewmuta.guru
 0.0.0.0 curids.com
 0.0.0.0 curiescapade.org
 0.0.0.0 curiesremove.com
@@ -68800,6 +68801,7 @@
 0.0.0.0 upliftsearch.com
 0.0.0.0 uplinecliency.com
 0.0.0.0 upload-pics.com
+0.0.0.0 uploommyacea.uno
 0.0.0.0 uplucarioon.com
 0.0.0.0 upmoveatoms.com
 0.0.0.0 upnedakusumc1.in
