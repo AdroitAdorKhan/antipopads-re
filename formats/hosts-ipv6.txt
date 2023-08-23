@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.235
 # Release: 235
-# Entries: 87,117
-# Updated: Wed, 23 Aug 23 20:26:23 +06
+# Entries: 87,119
+# Updated: Wed, 23 Aug 23 22:09:19 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -48528,6 +48528,7 @@
 :: pagadi.net
 :: paganrabbits.com
 :: paganscove.ca
+:: page-analytic.com
 :: pageantbagauspice.com
 :: pageantcause.com
 :: pageantinsanitydistressed.com
@@ -80587,6 +80588,7 @@
 :: www.padlodging.com
 :: www.padmavaticrystal.com
 :: www.padratrade.com
+:: www.page-analytic.com
 :: www.pagolly.com
 :: www.paicosoftware.com
 :: www.paintoppo.com
