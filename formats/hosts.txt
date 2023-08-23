@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.235
 # Release: 235
-# Entries: 87,004
-# Updated: Wed, 23 Aug 23 04:27:31 +06
+# Entries: 87,006
+# Updated: Wed, 23 Aug 23 06:08:53 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -44117,6 +44117,7 @@
 0.0.0.0 naqewsa.top
 0.0.0.0 narayanarealtors.com
 0.0.0.0 narayanayogafoundation.com
+0.0.0.0 narchanger.guru
 0.0.0.0 narenrosrow.com
 0.0.0.0 narepuewrwq.info
 0.0.0.0 narioub.com
@@ -52508,6 +52509,7 @@
 0.0.0.0 puertolifesciences.net
 0.0.0.0 puerty.com
 0.0.0.0 puffdifferent.com
+0.0.0.0 puffieralveloz.guru
 0.0.0.0 pugdisguise.com
 0.0.0.0 pugehjjxdr.xyz
 0.0.0.0 puggedproses.com
