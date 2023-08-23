@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.235
 # Release: 235
-# Entries: 87,040
-# Updated: Wed, 23 Aug 23 12:24:19 +06
+# Entries: 87,042
+# Updated: Wed, 23 Aug 23 14:09:35 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6561,6 +6561,7 @@
 0.0.0.0 archaicgrilledignorant.com
 0.0.0.0 archanapanchutney.com
 0.0.0.0 archbishopsheettwitter.com
+0.0.0.0 archbishopthighsubsided.com
 0.0.0.0 archeafrica.com
 0.0.0.0 archeswethers.live
 0.0.0.0 archgrotesqueiso.com
@@ -64756,6 +64757,7 @@
 0.0.0.0 thereforetreadvoluntarily.com
 0.0.0.0 thereincarnationgame.com
 0.0.0.0 thereliablefoundation.org
+0.0.0.0 therelimitless.com
 0.0.0.0 theresedescamp.ca
 0.0.0.0 theresedescamp.com
 0.0.0.0 thereshotowner.com
