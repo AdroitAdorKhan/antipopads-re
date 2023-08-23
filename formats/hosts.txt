@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.236
 # Release: 236
-# Entries: 87,144
-# Updated: Thu, 24 Aug 23 02:08:51 +06
+# Entries: 87,147
+# Updated: Thu, 24 Aug 23 04:25:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11470,6 +11470,7 @@
 0.0.0.0 bridae.com
 0.0.0.0 bridalboutiquenarberth.uk
 0.0.0.0 bridalplums.com
+0.0.0.0 bridearisto.life
 0.0.0.0 bridelydishley.space
 0.0.0.0 bridepov.com
 0.0.0.0 bridesmaidcleft.com
@@ -40618,6 +40619,8 @@
 0.0.0.0 manage-appleid.info
 0.0.0.0 manage-applewallet.com
 0.0.0.0 manageamxegifts.com
+0.0.0.0 manageids.support
+0.0.0.0 manageld.support
 0.0.0.0 managementbeganrapt.com
 0.0.0.0 manageoriginalmostinfo-product.info
 0.0.0.0 managepy.com
