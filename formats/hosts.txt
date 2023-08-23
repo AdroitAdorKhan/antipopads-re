@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.235
 # Release: 235
-# Entries: 87,035
-# Updated: Wed, 23 Aug 23 08:08:36 +06
+# Entries: 87,038
+# Updated: Wed, 23 Aug 23 10:08:19 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14854,6 +14854,7 @@
 0.0.0.0 cloudcamtechnologies.in
 0.0.0.0 cloudcdn.ml
 0.0.0.0 cloudcnfare.com
+0.0.0.0 cloudconvenient.com
 0.0.0.0 cloudcreosol.com
 0.0.0.0 cloudcrib.live
 0.0.0.0 clouddecrease.com
@@ -36359,6 +36360,7 @@
 0.0.0.0 kerimacademy.tech
 0.0.0.0 kermanapple.com
 0.0.0.0 kerndale.co.uk
+0.0.0.0 kernelindiscreet.com
 0.0.0.0 kernelthanks.com
 0.0.0.0 kernowcctv.co.uk
 0.0.0.0 keroajum.xyz
@@ -63630,6 +63632,7 @@
 0.0.0.0 teamhroverseas.com
 0.0.0.0 teamlimitless.tech
 0.0.0.0 teammagic.me
+0.0.0.0 teammanluteum.digital
 0.0.0.0 teamsmarched.com
 0.0.0.0 teamsperilous.com
 0.0.0.0 teamuanataca.com
