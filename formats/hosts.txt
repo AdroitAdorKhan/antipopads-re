@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.236
 # Release: 236
-# Entries: 87,236
-# Updated: Thu, 24 Aug 23 20:24:26 +06
+# Entries: 87,238
+# Updated: Thu, 24 Aug 23 22:09:40 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -30060,6 +30060,7 @@
 0.0.0.0 heartyhome.co.uk
 0.0.0.0 heartz.co.in
 0.0.0.0 heaterrobotscompute.com
+0.0.0.0 heathenexcruciationprior.com
 0.0.0.0 heathertravelledpast.com
 0.0.0.0 heatherulkugpp.com
 0.0.0.0 heathy-life.com
@@ -33221,6 +33222,7 @@
 0.0.0.0 injureconsultseek.com
 0.0.0.0 injuredcandy.com
 0.0.0.0 injuredchalked.com
+0.0.0.0 injuredeprivation.com
 0.0.0.0 injuredgetrich.us
 0.0.0.0 injuredripplegentleman.com
 0.0.0.0 injurg.com
