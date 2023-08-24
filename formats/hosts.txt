@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.236
 # Release: 236
-# Entries: 87,147
-# Updated: Thu, 24 Aug 23 04:25:48 +06
+# Entries: 87,150
+# Updated: Thu, 24 Aug 23 06:08:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -34857,6 +34857,7 @@
 0.0.0.0 jesusandmarysecurityservices.in
 0.0.0.0 jesusrhope.org
 0.0.0.0 jetdeprivation.com
+0.0.0.0 jetexch.biz
 0.0.0.0 jetgadget.me
 0.0.0.0 jetgadget.xyz
 0.0.0.0 jetgatem.com
@@ -78064,6 +78065,7 @@
 0.0.0.0 www.grehtrsan.com
 0.0.0.0 www.greworganizer.com
 0.0.0.0 www.greyincident.com
+0.0.0.0 www.greyscaleagency.com
 0.0.0.0 www.grhardewarenply.com
 0.0.0.0 www.griefseminargrowl.com
 0.0.0.0 www.grievedclaimed.com
@@ -78985,6 +78987,7 @@
 0.0.0.0 www.jestthankfulcaption.com
 0.0.0.0 www.jesus-gpt.net
 0.0.0.0 www.jetdeprivation.com
+0.0.0.0 www.jetexch.biz
 0.0.0.0 www.jetordinarilysouvenirs.com
 0.0.0.0 www.jeuxcasinolive.com
 0.0.0.0 www.jewelstastesrecovery.com
