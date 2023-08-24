@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.237
 # Release: 237
-# Entries: 87,258
-# Updated: Fri, 25 Aug 23 02:09:02 +06
+# Entries: 87,261
+# Updated: Fri, 25 Aug 23 04:25:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15757,6 +15757,7 @@
 0.0.0.0 conformion.com
 0.0.0.0 conformityhedgehog.com
 0.0.0.0 confrontationdrunk.com
+0.0.0.0 confrontationlift.com
 0.0.0.0 confused-classic.pro
 0.0.0.0 confusionfowlsomen.com
 0.0.0.0 congestionbeautycrystal.com
@@ -46789,6 +46790,7 @@
 0.0.0.0 ohkakbradcu.com
 0.0.0.0 ohkdsplu.com
 0.0.0.0 ohktpaajnzk.com
+0.0.0.0 ohkyxnjj.com
 0.0.0.0 ohldsplu.com
 0.0.0.0 ohmagesloftman.guru
 0.0.0.0 ohmaicat.com
@@ -87060,6 +87062,7 @@
 0.0.0.0 zog.link
 0.0.0.0 zogoluggers.com
 0.0.0.0 zogrepsili.com
+0.0.0.0 zoiqrudc.com
 0.0.0.0 zoirjon.tech
 0.0.0.0 zojewa.com
 0.0.0.0 zolaangels.org
