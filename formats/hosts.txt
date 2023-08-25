@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.237
 # Release: 237
-# Entries: 87,318
-# Updated: Fri, 25 Aug 23 12:22:26 +06
+# Entries: 87,330
+# Updated: Fri, 25 Aug 23 14:08:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2464,6 +2464,9 @@
 0.0.0.0 _dmarc.www.capenuttraders.co.za
 0.0.0.0 _domainkey.hostmaster.www.todaypk.cz
 0.0.0.0 _domainkey.www.6be39.wh.3dtops.com
+0.0.0.0 _ldap._tcp.mx-mexicocity._sites.dc._msdcs.www.sterenwifi.com
+0.0.0.0 _sites.dc._msdcs.www.sterenwifi.com
+0.0.0.0 _tcp.mx-mexicocity._sites.dc._msdcs.www.sterenwifi.com
 0.0.0.0 a-94interdads.com
 0.0.0.0 a-ads.com
 0.0.0.0 a-b-c-d.xyz
@@ -11074,6 +11077,7 @@
 0.0.0.0 booster-vax.com
 0.0.0.0 booster.monster
 0.0.0.0 boostknifehumidity.com
+0.0.0.0 boostyourecom.store
 0.0.0.0 boostyourlinkedinprofile.com
 0.0.0.0 bootdescendant.com
 0.0.0.0 bootedmothers.digital
@@ -40601,6 +40605,7 @@
 0.0.0.0 makeyourmillion.online
 0.0.0.0 makiavel.com
 0.0.0.0 makineturk.net
+0.0.0.0 makingassisted.com
 0.0.0.0 makingbookworm.com
 0.0.0.0 makingdevil.com
 0.0.0.0 makingforexsimple.com
@@ -43686,6 +43691,7 @@
 0.0.0.0 mwyjjxcbv.com
 0.0.0.0 mwylcfaa.com
 0.0.0.0 mx-front9.com
+0.0.0.0 mx-mexicocity._sites.dc._msdcs.www.sterenwifi.com
 0.0.0.0 mx0100inf02.www.sterenwifi.com
 0.0.0.0 mxatoopb.com
 0.0.0.0 mxbwljebpngb.xyz
@@ -51677,6 +51683,7 @@
 0.0.0.0 premovenonda.com
 0.0.0.0 premrajesh.com
 0.0.0.0 premuimpsychedelics.com
+0.0.0.0 prenajmy.online
 0.0.0.0 preoccupationjames.com
 0.0.0.0 preoccupycommittee.com
 0.0.0.0 preoccupycorrecttalented.com
@@ -52248,6 +52255,7 @@
 0.0.0.0 protocolburlap.com
 0.0.0.0 protocolenterprise.com
 0.0.0.0 protocolgroupgroups.com
+0.0.0.0 protocolsnappedimpure.com
 0.0.0.0 protomedlabs.services
 0.0.0.0 protontherapytreatment.in
 0.0.0.0 protosandbox.com
@@ -55335,6 +55343,7 @@
 0.0.0.0 retiringvarieties.com
 0.0.0.0 retofa.com
 0.0.0.0 retoldcocama.com
+0.0.0.0 retortedstray.com
 0.0.0.0 retourspetitesentreprisesbell.ca
 0.0.0.0 retoxo.com
 0.0.0.0 retr0dev.tech
@@ -63694,6 +63703,7 @@
 0.0.0.0 tconf.ru
 0.0.0.0 tcopengroup.com
 0.0.0.0 tcow.store
+0.0.0.0 tcp.mx
 0.0.0.0 tcp.sh
 0.0.0.0 tcpdprhha.com
 0.0.0.0 tcplpasdiiepsl.com
@@ -75403,6 +75413,7 @@
 0.0.0.0 www.bookveggies.com
 0.0.0.0 www.bookwormtiger.com
 0.0.0.0 www.boostknifehumidity.com
+0.0.0.0 www.boostyourecom.store
 0.0.0.0 www.bootdescendant.com
 0.0.0.0 www.bootypleatpublisher.com
 0.0.0.0 www.boredactress.com
@@ -81258,6 +81269,7 @@
 0.0.0.0 www.premiumcvmaker.com
 0.0.0.0 www.premiumgadgets.tech
 0.0.0.0 www.premonitioneuropeanstems.com
+0.0.0.0 www.prenajmy.online
 0.0.0.0 www.preoccupationjames.com
 0.0.0.0 www.preoccupycommittee.com
 0.0.0.0 www.preoccupycorrecttalented.com

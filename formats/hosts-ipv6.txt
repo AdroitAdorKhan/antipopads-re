@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.237
 # Release: 237
-# Entries: 87,318
-# Updated: Fri, 25 Aug 23 12:22:26 +06
+# Entries: 87,330
+# Updated: Fri, 25 Aug 23 14:08:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -2464,6 +2464,9 @@
 :: _dmarc.www.capenuttraders.co.za
 :: _domainkey.hostmaster.www.todaypk.cz
 :: _domainkey.www.6be39.wh.3dtops.com
+:: _ldap._tcp.mx-mexicocity._sites.dc._msdcs.www.sterenwifi.com
+:: _sites.dc._msdcs.www.sterenwifi.com
+:: _tcp.mx-mexicocity._sites.dc._msdcs.www.sterenwifi.com
 :: a-94interdads.com
 :: a-ads.com
 :: a-b-c-d.xyz
@@ -11074,6 +11077,7 @@
 :: booster-vax.com
 :: booster.monster
 :: boostknifehumidity.com
+:: boostyourecom.store
 :: boostyourlinkedinprofile.com
 :: bootdescendant.com
 :: bootedmothers.digital
@@ -40601,6 +40605,7 @@
 :: makeyourmillion.online
 :: makiavel.com
 :: makineturk.net
+:: makingassisted.com
 :: makingbookworm.com
 :: makingdevil.com
 :: makingforexsimple.com
@@ -43686,6 +43691,7 @@
 :: mwyjjxcbv.com
 :: mwylcfaa.com
 :: mx-front9.com
+:: mx-mexicocity._sites.dc._msdcs.www.sterenwifi.com
 :: mx0100inf02.www.sterenwifi.com
 :: mxatoopb.com
 :: mxbwljebpngb.xyz
@@ -51677,6 +51683,7 @@
 :: premovenonda.com
 :: premrajesh.com
 :: premuimpsychedelics.com
+:: prenajmy.online
 :: preoccupationjames.com
 :: preoccupycommittee.com
 :: preoccupycorrecttalented.com
@@ -52248,6 +52255,7 @@
 :: protocolburlap.com
 :: protocolenterprise.com
 :: protocolgroupgroups.com
+:: protocolsnappedimpure.com
 :: protomedlabs.services
 :: protontherapytreatment.in
 :: protosandbox.com
@@ -55335,6 +55343,7 @@
 :: retiringvarieties.com
 :: retofa.com
 :: retoldcocama.com
+:: retortedstray.com
 :: retourspetitesentreprisesbell.ca
 :: retoxo.com
 :: retr0dev.tech
@@ -63694,6 +63703,7 @@
 :: tconf.ru
 :: tcopengroup.com
 :: tcow.store
+:: tcp.mx
 :: tcp.sh
 :: tcpdprhha.com
 :: tcplpasdiiepsl.com
@@ -75403,6 +75413,7 @@
 :: www.bookveggies.com
 :: www.bookwormtiger.com
 :: www.boostknifehumidity.com
+:: www.boostyourecom.store
 :: www.bootdescendant.com
 :: www.bootypleatpublisher.com
 :: www.boredactress.com
@@ -81258,6 +81269,7 @@
 :: www.premiumcvmaker.com
 :: www.premiumgadgets.tech
 :: www.premonitioneuropeanstems.com
+:: www.prenajmy.online
 :: www.preoccupationjames.com
 :: www.preoccupycommittee.com
 :: www.preoccupycorrecttalented.com
