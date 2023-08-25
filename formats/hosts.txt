@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.237
 # Release: 237
-# Entries: 87,261
-# Updated: Fri, 25 Aug 23 04:25:26 +06
+# Entries: 87,265
+# Updated: Fri, 25 Aug 23 06:08:37 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -33458,6 +33458,7 @@
 0.0.0.0 insuranceaddda.com
 0.0.0.0 insurancehealth.info
 0.0.0.0 insuranceripenslender.com
+0.0.0.0 insuranceserviceexchange.com
 0.0.0.0 insureabatis.com
 0.0.0.0 insuremymbilehomeca.us
 0.0.0.0 insurewaltz.com
@@ -69654,6 +69655,7 @@
 0.0.0.0 vanishingworlds.photo
 0.0.0.0 vanitetown.com
 0.0.0.0 vanlast.ru
+0.0.0.0 vanmasikut.com
 0.0.0.0 vanmeterpost.site
 0.0.0.0 vanmostthiamin.com
 0.0.0.0 vannappuram.com
@@ -78873,6 +78875,7 @@
 0.0.0.0 www.instrumenttactics.com
 0.0.0.0 www.insularattacks.com
 0.0.0.0 www.insuranceripenslender.com
+0.0.0.0 www.insuranceserviceexchange.com
 0.0.0.0 www.insurewaltz.com
 0.0.0.0 www.insurrection-llc.com
 0.0.0.0 www.intactscattered.com
@@ -83648,6 +83651,7 @@
 0.0.0.0 www.valuesgloryprovocation.com
 0.0.0.0 www.vandanabharatgas.com
 0.0.0.0 www.vanishedunreal.com
+0.0.0.0 www.vanmasikut.com
 0.0.0.0 www.vant39f18d26.xyz
 0.0.0.0 www.vapoursumptuousgutter.com
 0.0.0.0 www.variationaspenjaunty.com
