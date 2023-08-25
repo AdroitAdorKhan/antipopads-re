@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.238
 # Release: 238
-# Entries: 87,413
-# Updated: Sat, 26 Aug 23 00:08:37 +06
+# Entries: 87,415
+# Updated: Sat, 26 Aug 23 02:08:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -76337,6 +76337,7 @@
 0.0.0.0 www.corpulentsuitcases.com
 0.0.0.0 www.correspondimpulsive.com
 0.0.0.0 www.correspondingcamouflage.com
+0.0.0.0 www.corridorsafest.com
 0.0.0.0 www.corruptclients.com
 0.0.0.0 www.corruptheedless.com
 0.0.0.0 www.corruptstruckgames.com
@@ -81809,6 +81810,7 @@
 0.0.0.0 www.regeniohealthcare.com
 0.0.0.0 www.reghouse.world
 0.0.0.0 www.regionaladversarylight.com
+0.0.0.0 www.regionalaplentysome.com
 0.0.0.0 www.regionalyesterdayreign.com
 0.0.0.0 www.registercanoeinvaded.com
 0.0.0.0 www.registercherryheadquarter.com
