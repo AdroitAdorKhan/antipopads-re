@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.238
 # Release: 238
-# Entries: 87,476
-# Updated: Sat, 26 Aug 23 16:08:08 +06
+# Entries: 87,478
+# Updated: Sat, 26 Aug 23 18:08:00 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14782,6 +14782,7 @@
 0.0.0.0 clientsedgetax.com
 0.0.0.0 clientsedgewealth.com
 0.0.0.0 cliffsnotesondemand.com
+0.0.0.0 cliffspearafterwards.com
 0.0.0.0 cliffvick.gay
 0.0.0.0 clima-1.org
 0.0.0.0 climaccr.com
@@ -76523,6 +76524,7 @@
 0.0.0.0 www.cunningthong.com
 0.0.0.0 www.cupbiologicaljourney.com
 0.0.0.0 www.cupcakesufferheave.com
+0.0.0.0 www.cupidrecession.com
 0.0.0.0 www.cupindisputable.com
 0.0.0.0 www.cupinvip.com
 0.0.0.0 www.cupofnationsnc.org
