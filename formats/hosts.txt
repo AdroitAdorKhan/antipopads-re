@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.238
 # Release: 238
-# Entries: 87,456
-# Updated: Sat, 26 Aug 23 08:08:11 +06
+# Entries: 87,457
+# Updated: Sat, 26 Aug 23 10:08:06 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -33294,6 +33294,7 @@
 0.0.0.0 inklestutted.com
 0.0.0.0 inklinkor.com
 0.0.0.0 inkornesto.com
+0.0.0.0 inksterpennae.life
 0.0.0.0 inkstorylikeness.com
 0.0.0.0 inktad.com
 0.0.0.0 inkydfrktgy.com
