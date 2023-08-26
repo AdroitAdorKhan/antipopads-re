@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.238
 # Release: 238
-# Entries: 87,462
-# Updated: Sat, 26 Aug 23 12:23:05 +06
+# Entries: 87,463
+# Updated: Sat, 26 Aug 23 14:08:14 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -60067,6 +60067,7 @@
 :: sleechepirot.website
 :: sleek-craft.org
 :: sleek-craft.us
+:: sleepcaimagedev.com
 :: sleepmed.cn
 :: sleepnetcpap.ca
 :: sleepxoomit.com
