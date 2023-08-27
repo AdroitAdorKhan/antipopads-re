@@ -20,8 +20,8 @@
 ! Version: 23.08.240
 ! Release: 240
 ! Expires: 1 day
-! Entries: 87,732
-! Updated: Mon, 28 Aug 23 00:08:27 +06
+! Entries: 87,734
+! Updated: Mon, 28 Aug 23 04:26:22 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -19695,6 +19695,7 @@
 ||dnsparking.xyz^
 ||dnsservers.xyz^
 ||dnstest4000.com^
+||dnswinq.com^
 ||dnudlvqqsc.com^
 ||dnushatech.in^
 ||dnwine.com^
@@ -20678,6 +20679,7 @@
 ||duroomtoa.com^
 ||durpolitei.guru^
 ||durshiksha.com^
+||dursocoa.com^
 ||durxizsmao.com^
 ||duscleouphes.com^
 ||dushorgy.com^
