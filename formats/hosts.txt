@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.240
 # Release: 240
-# Entries: 87,749
-# Updated: Mon, 28 Aug 23 12:23:24 +06
+# Entries: 87,755
+# Updated: Mon, 28 Aug 23 14:08:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -81658,6 +81658,7 @@
 0.0.0.0 www.premiereblinkconfessed.com
 0.0.0.0 www.premiumcvmaker.com
 0.0.0.0 www.premiumgadgets.tech
+0.0.0.0 www.premlagun.com
 0.0.0.0 www.premonitioneuropeanstems.com
 0.0.0.0 www.prenajmy.online
 0.0.0.0 www.preoccupationjames.com
@@ -83592,6 +83593,7 @@
 0.0.0.0 www.thelocaldistro.com
 0.0.0.0 www.theloftartists.com
 0.0.0.0 www.themiddlecrossbaptistchurch.org
+0.0.0.0 www.themonarchultramovie.com
 0.0.0.0 www.themortgageadvicehub.co.uk
 0.0.0.0 www.themselvesafloatmirth.com
 0.0.0.0 www.thencemutinyhamburger.com
@@ -84381,6 +84383,7 @@
 0.0.0.0 www.websitehelper.in
 0.0.0.0 www.websitespare.com
 0.0.0.0 www.webswpos.com
+0.0.0.0 www.wecdsb.net
 0.0.0.0 www.wedflossbecause.com
 0.0.0.0 www.wednesdaygranddadlecture.com
 0.0.0.0 www.weedprolific.com
@@ -84744,6 +84747,9 @@
 0.0.0.0 www.zelalembelayneh.tech
 0.0.0.0 www.zen62.com
 0.0.0.0 www.zenchores.com
+0.0.0.0 www.zendegobres.net
+0.0.0.0 www.zendegobrezib.net
+0.0.0.0 www.zendegobrezib.org
 0.0.0.0 www.zeninoganecu.com
 0.0.0.0 www.zeroemissionsco2.com
 0.0.0.0 www.zerotrustentry.com
