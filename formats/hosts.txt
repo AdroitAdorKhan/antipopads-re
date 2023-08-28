@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.08.240
-# Release: 240
-# Entries: 87,815
-# Updated: Mon, 28 Aug 23 22:09:53 +06
+# Version: 23.08.241
+# Release: 241
+# Entries: 87,819
+# Updated: Tue, 29 Aug 23 00:09:05 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19874,6 +19874,7 @@
 0.0.0.0 domainabuse.email
 0.0.0.0 domainanalyticsapi.com
 0.0.0.0 domainbuyingservices.com
+0.0.0.0 domaincntrol.com
 0.0.0.0 domaineiodatapoint.digital
 0.0.0.0 domainnoc.com
 0.0.0.0 domainprivacy.watch
@@ -35627,6 +35628,7 @@
 0.0.0.0 jotchept.com
 0.0.0.0 jotdarxevyh.com
 0.0.0.0 jotpoolwarren.com
+0.0.0.0 jotqmmf.com
 0.0.0.0 jotterads.xml-v4.ak-is2.net
 0.0.0.0 jotthhehskipax.com
 0.0.0.0 jotwmwoybgw.com
@@ -57125,6 +57127,7 @@
 0.0.0.0 rxdirect.shop
 0.0.0.0 rxeosevsso.com
 0.0.0.0 rxfilesz.com
+0.0.0.0 rxmxit.com
 0.0.0.0 rxouwtosqb.com
 0.0.0.0 rxsavingexpert.com
 0.0.0.0 rxtbuacedjc.com
@@ -87077,6 +87080,7 @@
 0.0.0.0 yykkhmcfvpk.com
 0.0.0.0 yymh853.com
 0.0.0.0 yynvtojgjlqwd.com
+0.0.0.0 yynwgrdr.com
 0.0.0.0 yyofyejyynud.com
 0.0.0.0 yyptyrrjba.xyz
 0.0.0.0 yyrssdpbhdxbmru.xyz

@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: abp
-! Version: 23.08.240
-! Release: 240
+! Version: 23.08.241
+! Release: 241
 ! Expires: 1 day
-! Entries: 87,815
-! Updated: Mon, 28 Aug 23 22:09:53 +06
+! Entries: 87,819
+! Updated: Tue, 29 Aug 23 00:09:05 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -19875,6 +19875,7 @@
 ||domainabuse.email^
 ||domainanalyticsapi.com^
 ||domainbuyingservices.com^
+||domaincntrol.com^
 ||domaineiodatapoint.digital^
 ||domainnoc.com^
 ||domainprivacy.watch^
@@ -35628,6 +35629,7 @@
 ||jotchept.com^
 ||jotdarxevyh.com^
 ||jotpoolwarren.com^
+||jotqmmf.com^
 ||jotterads.xml-v4.ak-is2.net^
 ||jotthhehskipax.com^
 ||jotwmwoybgw.com^
@@ -57126,6 +57128,7 @@
 ||rxdirect.shop^
 ||rxeosevsso.com^
 ||rxfilesz.com^
+||rxmxit.com^
 ||rxouwtosqb.com^
 ||rxsavingexpert.com^
 ||rxtbuacedjc.com^
@@ -87078,6 +87081,7 @@
 ||yykkhmcfvpk.com^
 ||yymh853.com^
 ||yynvtojgjlqwd.com^
+||yynwgrdr.com^
 ||yyofyejyynud.com^
 ||yyptyrrjba.xyz^
 ||yyrssdpbhdxbmru.xyz^
