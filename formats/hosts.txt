@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.241
 # Release: 241
-# Entries: 87,857
-# Updated: Tue, 29 Aug 23 12:21:32 +06
+# Entries: 87,860
+# Updated: Tue, 29 Aug 23 14:08:15 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -32597,6 +32597,7 @@
 0.0.0.0 igrooveatwake.org
 0.0.0.0 igsaplayonline.com
 0.0.0.0 igspcspices.com
+0.0.0.0 iguaklinazswz.com
 0.0.0.0 igualet.vip
 0.0.0.0 igualet.world
 0.0.0.0 iguare.com
@@ -47666,6 +47667,7 @@
 0.0.0.0 ontariospinaldecompression.com
 0.0.0.0 ontexmall.com
 0.0.0.0 ontj.com
+0.0.0.0 ontodirection.com
 0.0.0.0 ontosocietyweary.com
 0.0.0.0 ontqrid.com
 0.0.0.0 ontro.co.in
@@ -81128,6 +81130,7 @@
 0.0.0.0 www.ontario-croissance.com
 0.0.0.0 www.ontariocroissance.com
 0.0.0.0 www.ontarioinsurancebroker.com
+0.0.0.0 www.ontodirection.com
 0.0.0.0 www.ontosocietyweary.com
 0.0.0.0 www.onusitservices.com
 0.0.0.0 www.onwardfertilizerlinger.com
