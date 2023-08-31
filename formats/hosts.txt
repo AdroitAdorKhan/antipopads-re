@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.09.244
 # Release: 244
-# Entries: 88,253
-# Updated: Fri, 01 Sep 23 00:10:05 +06
+# Entries: 88,270
+# Updated: Fri, 01 Sep 23 02:25:05 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4023,6 +4023,7 @@
 0.0.0.0 adxxx.org
 0.0.0.0 adygl.com
 0.0.0.0 adz-shield.com
+0.0.0.0 adzblockersentinel.net
 0.0.0.0 adzfun.info
 0.0.0.0 adzfun.me
 0.0.0.0 adzhub.com
@@ -7627,6 +7628,7 @@
 0.0.0.0 audienceline.com
 0.0.0.0 audienceprofiler.com
 0.0.0.0 audienceutmost.com
+0.0.0.0 audiocritter.com
 0.0.0.0 audioexaminationearl.com
 0.0.0.0 audioheavy.us
 0.0.0.0 audiomidilab.net
@@ -13573,6 +13575,8 @@
 0.0.0.0 cemsidimid.us
 0.0.0.0 cemsidimide.us
 0.0.0.0 cemsidomi.co
+0.0.0.0 cemsidomi.com
+0.0.0.0 cemsidomi.net
 0.0.0.0 cemsidomi.us
 0.0.0.0 cemsidomid.us
 0.0.0.0 cemsidomida.co
@@ -22790,6 +22794,7 @@
 0.0.0.0 eramrusttec.us
 0.0.0.0 eraopeuvrutqpb.com
 0.0.0.0 erapracticalaccommodating.com
+0.0.0.0 erasedata.shop
 0.0.0.0 eraseficins.website
 0.0.0.0 eraserindecent.com
 0.0.0.0 erasmus-school.com
@@ -32176,6 +32181,7 @@
 0.0.0.0 hwjqxlmrek.com
 0.0.0.0 hwjtec.com
 0.0.0.0 hwjvwvsuocbghq.com
+0.0.0.0 hwlvxbousrtswm.com
 0.0.0.0 hwmrulghdyyk.com
 0.0.0.0 hwnhdslufb.com
 0.0.0.0 hwnytherapy.com
@@ -48182,6 +48188,7 @@
 0.0.0.0 oqfvsgfj.com
 0.0.0.0 oqgdakxdqu.com
 0.0.0.0 oqlirdwyxnkewf.com
+0.0.0.0 oqnabsatfn.com
 0.0.0.0 oqnfizm.com
 0.0.0.0 oqnfsivlp.com
 0.0.0.0 oqsdospfd.xyz
@@ -64793,6 +64800,7 @@
 0.0.0.0 tetractsycon.uno
 0.0.0.0 tetrastav.com
 0.0.0.0 tetrylscullion.com
+0.0.0.0 tettrro.info
 0.0.0.0 teui2.ca
 0.0.0.0 teurop.com
 0.0.0.0 tevas.fun
@@ -70492,6 +70500,7 @@
 0.0.0.0 vbemewfoibmldk.com
 0.0.0.0 vbet24ua.com
 0.0.0.0 vbfdnxwun.com
+0.0.0.0 vbijjrg.com
 0.0.0.0 vbiv-probiv.xyz
 0.0.0.0 vbndbvtirtvd.xyz
 0.0.0.0 vbnewcrdhxtetk.com
@@ -72403,6 +72412,7 @@
 0.0.0.0 watche.guru
 0.0.0.0 watchercupboard.com
 0.0.0.0 watchesprim.com
+0.0.0.0 watchexcellent.pics
 0.0.0.0 watchfreeofads.com
 0.0.0.0 watchingssu.com
 0.0.0.0 watchingthat.com
@@ -75639,6 +75649,7 @@
 0.0.0.0 www.atw-amulets.com
 0.0.0.0 www.aucry.store
 0.0.0.0 www.audaciousdefault.com
+0.0.0.0 www.audiocritter.com
 0.0.0.0 www.audiosuffer.com
 0.0.0.0 www.auditioningantidoteconnections.com
 0.0.0.0 www.auditioningborder.com
@@ -76511,6 +76522,8 @@
 0.0.0.0 www.cemeterybonnet.com
 0.0.0.0 www.cemeterysimilar.com
 0.0.0.0 www.cemsidimid.org
+0.0.0.0 www.cemsidomi.com
+0.0.0.0 www.cemsidomi.net
 0.0.0.0 www.cemsidomidedrug.info
 0.0.0.0 www.cenlib.iitm.ac
 0.0.0.0 www.cenrefk.com
@@ -78080,6 +78093,7 @@
 0.0.0.0 www.equitydefault.com
 0.0.0.0 www.equityjesusdisappointment.com
 0.0.0.0 www.erapracticalaccommodating.com
+0.0.0.0 www.erasedata.shop
 0.0.0.0 www.erikaeleniak.info
 0.0.0.0 www.erodeopticals.com
 0.0.0.0 www.erpbaby.com
@@ -82202,6 +82216,7 @@
 0.0.0.0 www.proceduresjeer.com
 0.0.0.0 www.proceduresthrilled.com
 0.0.0.0 www.proclaimincurable.com
+0.0.0.0 www.proclamationgumadvocate.com
 0.0.0.0 www.prodigiousutmostwould.com
 0.0.0.0 www.producercoconutgroup.com
 0.0.0.0 www.producesdiminishhardworking.com
@@ -85227,6 +85242,7 @@
 0.0.0.0 www.ze66.xyz
 0.0.0.0 www.zealousquickly.com
 0.0.0.0 www.zealousstraitcommit.com
+0.0.0.0 www.zefyrel.com
 0.0.0.0 www.zekeeksaita.com
 0.0.0.0 www.zelalembelayneh.tech
 0.0.0.0 www.zen62.com
@@ -87716,6 +87732,7 @@
 0.0.0.0 zeetelindia.com
 0.0.0.0 zeeweb.tech
 0.0.0.0 zefusgk.com
+0.0.0.0 zefyrel.com
 0.0.0.0 zegrumse.net
 0.0.0.0 zeissbezil.space
 0.0.0.0 zekeeksaita.com
