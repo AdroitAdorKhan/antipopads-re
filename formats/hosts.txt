@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.08.243
 # Release: 243
-# Entries: 88,242
-# Updated: Thu, 31 Aug 23 18:25:18 +06
+# Entries: 88,249
+# Updated: Thu, 31 Aug 23 20:09:37 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3685,6 +3685,7 @@
 0.0.0.0 ads.worldnews.observer
 0.0.0.0 ads1-adnow.com
 0.0.0.0 ads1-adselo.com
+0.0.0.0 ads2-adnow.com
 0.0.0.0 ads2550.bid
 0.0.0.0 ads2ads.net
 0.0.0.0 ads3-adnow.com
@@ -26273,6 +26274,7 @@
 0.0.0.0 fructus.app
 0.0.0.0 frugalityabruptly.com
 0.0.0.0 frugalpublic.com
+0.0.0.0 frugalpurpose.pro
 0.0.0.0 frugalrushcap.com
 0.0.0.0 fruins.com
 0.0.0.0 fruitfulgreenhousefacility.com
@@ -40214,6 +40216,7 @@
 0.0.0.0 lrebvqrfmdskn.com
 0.0.0.0 lrepackslrepacks.net
 0.0.0.0 lrepampipa.com
+0.0.0.0 lreqmoonpjka.com
 0.0.0.0 lrfkj.com
 0.0.0.0 lrimrbkrwgv.com
 0.0.0.0 lrotwtjqyhj.com
@@ -42878,6 +42881,7 @@
 0.0.0.0 mjddnwetumykju.com
 0.0.0.0 mjehvuwgy.com
 0.0.0.0 mjeltachv.com
+0.0.0.0 mjgvrxbu.com
 0.0.0.0 mjgyxhlyjmqox.top
 0.0.0.0 mjhmgdyrnm.xyz
 0.0.0.0 mjinform.com
@@ -49745,6 +49749,7 @@
 0.0.0.0 pc180101.com
 0.0.0.0 pc1ads.com
 0.0.0.0 pc2ads.com
+0.0.0.0 pc2ads.ru
 0.0.0.0 pc5ads.com
 0.0.0.0 pcafharsgzjv.com
 0.0.0.0 pcar.tech
@@ -71036,6 +71041,7 @@
 0.0.0.0 vidscity.info
 0.0.0.0 vidsera.com
 0.0.0.0 vidsforyou.mom
+0.0.0.0 vidsforyou.online
 0.0.0.0 vidsfun.info
 0.0.0.0 vidsfun.online
 0.0.0.0 vidsfun.space
@@ -73679,6 +73685,7 @@
 0.0.0.0 wittilyfrogleg.com
 0.0.0.0 wivesdandyemulation.com
 0.0.0.0 wivesstandpoint.com
+0.0.0.0 wivoqi.uno
 0.0.0.0 wixorqoqmq.com
 0.0.0.0 wixqpbtkrkovtm.xyz
 0.0.0.0 wixycloud.com
