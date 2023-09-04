@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.09.247
 # Release: 247
-# Entries: 89,232
-# Updated: Mon, 04 Sep 23 02:07:55 +06
+# Entries: 89,236
+# Updated: Mon, 04 Sep 23 06:08:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20854,6 +20854,7 @@
 0.0.0.0 dubailux.net
 0.0.0.0 dubainbd.com
 0.0.0.0 dubaiok.com
+0.0.0.0 dubajserver.com
 0.0.0.0 dubannihilation.com
 0.0.0.0 dubbylxutstyn.com
 0.0.0.0 dubggge.com
@@ -38042,6 +38043,7 @@
 0.0.0.0 krazil.com
 0.0.0.0 krazykenz.com
 0.0.0.0 krcuoujleerrun.com
+0.0.0.0 krcykddubkrsjm.xyz
 0.0.0.0 kreativeconnections.co
 0.0.0.0 kreativeflora.com
 0.0.0.0 kreativevue.com
@@ -73491,6 +73493,7 @@
 0.0.0.0 webfonts.co.kr
 0.0.0.0 webfusions.site
 0.0.0.0 webgains.com
+0.0.0.0 webgarden.name
 0.0.0.0 webgodaddy.site
 0.0.0.0 webhashtags.com
 0.0.0.0 webhawk.in
@@ -78622,6 +78625,7 @@
 0.0.0.0 www.dualdirectnessrobber.com
 0.0.0.0 www.dubaichatgpt.com
 0.0.0.0 www.dubaifreezonecompany.biz
+0.0.0.0 www.dubajserver.com
 0.0.0.0 www.dubannihilation.com
 0.0.0.0 www.dubiousdiscreditcambridge.com
 0.0.0.0 www.duchesscranberrywander.com
