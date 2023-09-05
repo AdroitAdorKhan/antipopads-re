@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.09.248
 # Release: 248
-# Entries: 89,468
-# Updated: Tue, 05 Sep 23 08:25:18 +06
+# Entries: 89,470
+# Updated: Tue, 05 Sep 23 10:08:45 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12524,6 +12524,7 @@
 0.0.0.0 bydsmartsystems.com
 0.0.0.0 bydsolars.com
 0.0.0.0 bydurantr.com
+0.0.0.0 byeavupo.com
 0.0.0.0 byeej.com
 0.0.0.0 byfoongusor.com
 0.0.0.0 bygoneplacidity.com
@@ -72998,6 +72999,7 @@
 0.0.0.0 vxetlgoo.com
 0.0.0.0 vxjmolopbsma.com
 0.0.0.0 vxoajwsfttgwvbj.com
+0.0.0.0 vxopxaqckcyt.com
 0.0.0.0 vxosylrqktmj.com
 0.0.0.0 vxsxczfsmfj.com
 0.0.0.0 vxsxjsuul.com
