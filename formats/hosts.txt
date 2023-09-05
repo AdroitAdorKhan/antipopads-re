@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.09.249
 # Release: 249
-# Entries: 89,653
-# Updated: Wed, 06 Sep 23 02:09:03 +06
+# Entries: 89,656
+# Updated: Wed, 06 Sep 23 04:09:53 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2368,6 +2368,7 @@
 0.0.0.0 9996777888.com
 0.0.0.0 99968tz.com
 0.0.0.0 9997484e4c4b694c4e6602.online
+0.0.0.0 999833.info
 0.0.0.0 99998009.com
 0.0.0.0 999aaq.com
 0.0.0.0 999cum.com
@@ -43704,6 +43705,7 @@
 0.0.0.0 mntdwztuzq.com
 0.0.0.0 mnuesamwg.xyz
 0.0.0.0 mnuinfinity.com
+0.0.0.0 mnvgvhksif.com
 0.0.0.0 mnyaa.si
 0.0.0.0 mo.proteasdlvy.com
 0.0.0.0 mo3i5n46.de
@@ -76030,6 +76032,7 @@
 0.0.0.0 www.996.works
 0.0.0.0 www.9981shop.com
 0.0.0.0 www.99968tz.com
+0.0.0.0 www.999833.info
 0.0.0.0 www.999stores.online
 0.0.0.0 www.99ri126.com
 0.0.0.0 www.99riav100.com
