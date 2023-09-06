@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.09.250
 # Release: 250
-# Entries: 89,965
-# Updated: Thu, 07 Sep 23 02:09:38 +06
+# Entries: 89,967
+# Updated: Thu, 07 Sep 23 04:09:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12483,6 +12483,7 @@
 0.0.0.0 buzztimenetwork.link
 0.0.0.0 buzzvids-direct.com
 0.0.0.0 bvckjtvkj5ieklkka.com
+0.0.0.0 bvcsfcx.com
 0.0.0.0 bvcvpxbnpcpm.xyz
 0.0.0.0 bvgbujdt.xyz
 0.0.0.0 bvhgcdgfjekw.top
@@ -69270,6 +69271,7 @@
 0.0.0.0 tsoimora.com
 0.0.0.0 tsougrjwqrnai.xyz
 0.0.0.0 tspops.com
+0.0.0.0 tsrrbok.com
 0.0.0.0 tssandycateup.com
 0.0.0.0 tssfshin.com
 0.0.0.0 tsshruggle.com
