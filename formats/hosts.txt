@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.09.250
 # Release: 250
-# Entries: 89,967
-# Updated: Thu, 07 Sep 23 04:09:22 +06
+# Entries: 89,972
+# Updated: Thu, 07 Sep 23 06:09:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5090,6 +5090,7 @@
 0.0.0.0 algolduckan.com
 0.0.0.0 algonian.com
 0.0.0.0 algorithmbuysell.com
+0.0.0.0 algorithmic.group
 0.0.0.0 algorithmiclevels.com
 0.0.0.0 algothitaon.com
 0.0.0.0 alhjres.co
@@ -7712,6 +7713,7 @@
 0.0.0.0 auckledfathere.xyz
 0.0.0.0 aucred.com
 0.0.0.0 aucry.net
+0.0.0.0 aucry.space
 0.0.0.0 aucry.store
 0.0.0.0 auctination.co.za
 0.0.0.0 auctodian.quest
@@ -9794,6 +9796,7 @@
 0.0.0.0 bestattorneydesigns.com
 0.0.0.0 bestawesomeproducts.net
 0.0.0.0 bestaybuzzed.website
+0.0.0.0 bestbakeriesinbudapest.com
 0.0.0.0 bestbodyme.com
 0.0.0.0 bestbodyyou.com
 0.0.0.0 bestbooking.top
@@ -14737,6 +14740,7 @@
 0.0.0.0 circusmediocre.com
 0.0.0.0 circusystonied.website
 0.0.0.0 ciriellolawandmediation.com
+0.0.0.0 cirkadiannyrytmus.online
 0.0.0.0 cirkits.co.uk
 0.0.0.0 cirruscommunications.us
 0.0.0.0 cirsepuh.net
@@ -73968,6 +73972,7 @@
 0.0.0.0 wearecli.com
 0.0.0.0 weared.company
 0.0.0.0 weared.fitness
+0.0.0.0 wearelega.com
 0.0.0.0 wearenca.ca
 0.0.0.0 wearewintersprings.org
 0.0.0.0 wearingcoof.cfd
