@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.09.254
 # Release: 254
-# Entries: 90,758
-# Updated: Mon, 11 Sep 23 02:07:49 +06
+# Entries: 90,761
+# Updated: Mon, 11 Sep 23 04:08:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4817,6 +4817,7 @@
 0.0.0.0 airtmxmffetgahq.com
 0.0.0.0 airwalk-consulting.com
 0.0.0.0 airydeservesannounce.com
+0.0.0.0 ais-journal.com
 0.0.0.0 aisaipty.xyz
 0.0.0.0 aiscreenplaycompetition.com
 0.0.0.0 aiscreenplaycontest.com
@@ -18521,6 +18522,7 @@
 0.0.0.0 ddenknowl.com
 0.0.0.0 ddfa.in
 0.0.0.0 ddfthjqg4okivq.com
+0.0.0.0 ddgkkzauxdl.com
 0.0.0.0 ddgunsmithing.org
 0.0.0.0 ddhjxakewpp.com
 0.0.0.0 ddjagedfbifdfejagaca.world
@@ -88908,6 +88910,7 @@
 0.0.0.0 yadrmavhccyasrl.com
 0.0.0.0 yaefddu.com
 0.0.0.0 yafabu.uno
+0.0.0.0 yafmqibivbuu.com
 0.0.0.0 yafmufpgbcr.xyz
 0.0.0.0 yafsyd.com
 0.0.0.0 yafxrwoclkcbu.com
