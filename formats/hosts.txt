@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.09.254
 # Release: 254
-# Entries: 91,012
-# Updated: Mon, 11 Sep 23 20:11:13 +06
+# Entries: 91,015
+# Updated: Mon, 11 Sep 23 22:09:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -339,6 +339,7 @@
 0.0.0.0 1314tingshu.com
 0.0.0.0 131708.ru
 0.0.0.0 1324f.com
+0.0.0.0 133.222madeasuccessfuldnsrequestforwww.movcpm.com
 0.0.0.0 1337c.to
 0.0.0.0 1337to.com
 0.0.0.0 1337torrents.com
@@ -28582,6 +28583,7 @@
 0.0.0.0 gjnrtzqz.com
 0.0.0.0 gjonfartyb.com
 0.0.0.0 gjpcwjzzc.com
+0.0.0.0 gjrhqyc.com
 0.0.0.0 gjtrade.org
 0.0.0.0 gjwos.org
 0.0.0.0 gjybasbw.com
@@ -55703,6 +55705,7 @@
 0.0.0.0 qshuimusic.com
 0.0.0.0 qsiuiwnh.com
 0.0.0.0 qskrbdbnkm.com
+0.0.0.0 qsmsmahlrhop.com
 0.0.0.0 qsmzbddlwqoogt.com
 0.0.0.0 qsngebtkwk.top
 0.0.0.0 qsotcgbtfsixt.com
