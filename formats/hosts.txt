@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.09.260
 # Release: 260
-# Entries: 93,587
-# Updated: Sun, 17 Sep 23 02:09:39 +06
+# Entries: 93,589
+# Updated: Sun, 17 Sep 23 04:10:06 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -60205,6 +60205,7 @@
 0.0.0.0 rvigxvvpkgvvbo.com
 0.0.0.0 rvioyjme.com
 0.0.0.0 rvjkblit.com
+0.0.0.0 rvlrjzfow.com
 0.0.0.0 rvmessage.online
 0.0.0.0 rvmessage.site
 0.0.0.0 rvmessage.top
@@ -79733,6 +79734,7 @@
 0.0.0.0 www.beingketo.net
 0.0.0.0 www.bekmok.com
 0.0.0.0 www.belezaproeffectived.site
+0.0.0.0 www.beliefnormandygarbage.com
 0.0.0.0 www.believeisabella.com
 0.0.0.0 www.bellamyawardinfallible.com
 0.0.0.0 www.bellaroseconfections.com
