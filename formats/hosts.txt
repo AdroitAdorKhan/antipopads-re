@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.09.262
 # Release: 262
-# Entries: 93,942
-# Updated: Tue, 19 Sep 23 02:12:29 +06
+# Entries: 93,945
+# Updated: Tue, 19 Sep 23 04:12:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -30637,6 +30637,7 @@
 0.0.0.0 greworganizer.com
 0.0.0.0 grewquartersupporting.com
 0.0.0.0 greyersuppl.guru
+0.0.0.0 greyfirst.ca
 0.0.0.0 greyghetti.ca
 0.0.0.0 greygrid.net
 0.0.0.0 greyincident.com
@@ -41050,6 +41051,7 @@
 0.0.0.0 lfpthkipndval.com
 0.0.0.0 lfstmedia.com
 0.0.0.0 lfsuigdrtsszog.com
+0.0.0.0 lfxkgdvf.com
 0.0.0.0 lfxshttouhop.com
 0.0.0.0 lfydytolvlfvp.com
 0.0.0.0 lfywxgpkev.com
@@ -67269,6 +67271,7 @@
 0.0.0.0 szxizhiw.com
 0.0.0.0 szyr524.com
 0.0.0.0 szzhwaaxhnnrx.com
+0.0.0.0 szzvswjgf.com
 0.0.0.0 t-20league.com
 0.0.0.0 t-a-w.tech
 0.0.0.0 t-commerce.io
