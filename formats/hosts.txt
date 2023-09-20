@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.09.263
 # Release: 263
-# Entries: 94,191
-# Updated: Wed, 20 Sep 23 18:09:39 +06
+# Entries: 94,192
+# Updated: Wed, 20 Sep 23 20:14:58 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -58011,6 +58011,7 @@
 0.0.0.0 rdreamsofcryin.info
 0.0.0.0 rdrhmxyitc.com
 0.0.0.0 rdroot.com
+0.0.0.0 rdrotecu.com
 0.0.0.0 rdroucnqv.com
 0.0.0.0 rdrpvtwthgvkjrb.com
 0.0.0.0 rdrsec.com
