@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.09.263
 # Release: 263
-# Entries: 94,084
-# Updated: Wed, 20 Sep 23 10:08:38 +06
+# Entries: 94,085
+# Updated: Wed, 20 Sep 23 12:10:53 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -33453,6 +33453,7 @@
 0.0.0.0 hprmbmtegydcwc.com
 0.0.0.0 hprmnfctkj.com
 0.0.0.0 hpsvgbrlqa.com
+0.0.0.0 hpsxayld.com
 0.0.0.0 hptcwtmzuj.com
 0.0.0.0 hpugmsqcpylhrdx.com
 0.0.0.0 hpumitdl.xyz
