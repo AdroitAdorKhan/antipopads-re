@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.09.264
 # Release: 264
-# Entries: 94,250
-# Updated: Thu, 21 Sep 23 10:10:12 +06
+# Entries: 94,251
+# Updated: Thu, 21 Sep 23 12:11:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29057,6 +29057,7 @@
 0.0.0.0 ggmibcjv.com
 0.0.0.0 ggovpekfdemswu.com
 0.0.0.0 ggqppaiglthoq.com
+0.0.0.0 ggqrqmkisu.com
 0.0.0.0 ggqygkaunot.com
 0.0.0.0 ggrawwbi.xyz
 0.0.0.0 ggrhocaxqr.com
