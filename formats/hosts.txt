@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.09.267
 # Release: 267
-# Entries: 95,188
-# Updated: Sun, 24 Sep 23 02:09:27 +06
+# Entries: 95,190
+# Updated: Sun, 24 Sep 23 04:13:28 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -61623,6 +61623,7 @@
 0.0.0.0 saisonsrusseslyon.fr
 0.0.0.0 saitours.org
 0.0.0.0 saitsol.com
+0.0.0.0 saiwecee.com
 0.0.0.0 saiwhoal.xyz
 0.0.0.0 saiwhute.com
 0.0.0.0 saiyamjain.tech
@@ -70869,6 +70870,7 @@
 0.0.0.0 tkictet.com
 0.0.0.0 tkidcigitrte.com
 0.0.0.0 tkitvbwlp.com
+0.0.0.0 tkivirdavwi.com
 0.0.0.0 tkkbcwrmwfyymfo.xyz
 0.0.0.0 tkklassykids.com
 0.0.0.0 tkojkhsfaplctiu.top
