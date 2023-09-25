@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.09.268
 # Release: 268
-# Entries: 95,418
-# Updated: Mon, 25 Sep 23 08:11:51 +06
+# Entries: 95,420
+# Updated: Mon, 25 Sep 23 10:10:00 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -85869,6 +85869,7 @@
 0.0.0.0 www.itsinfosolution.com
 0.0.0.0 www.itsmyturn.nablabee.com
 0.0.0.0 www.itsshowtime.top
+0.0.0.0 www.itvalleynews.com
 0.0.0.0 www.ivanvillager.com
 0.0.0.0 www.ivar-ltd.com
 0.0.0.0 www.ivd513.com
@@ -94736,6 +94737,7 @@
 0.0.0.0 zbnfhsk.com
 0.0.0.0 zc.crosaean.com
 0.0.0.0 zcekqwlqktzrfq.com
+0.0.0.0 zceneqwhe.com
 0.0.0.0 zcljfimhng.com
 0.0.0.0 zcode12.me
 0.0.0.0 zcode7.me
