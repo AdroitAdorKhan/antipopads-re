@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.09.269
 # Release: 269
-# Entries: 95,576
-# Updated: Tue, 26 Sep 23 02:14:51 +06
+# Entries: 95,577
+# Updated: Tue, 26 Sep 23 04:09:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -39279,6 +39279,7 @@
 0.0.0.0 kebule.org
 0.0.0.0 kebyartopsman.website
 0.0.0.0 kechmark.com
+0.0.0.0 keckleassents.uno
 0.0.0.0 kecmuhot.net
 0.0.0.0 kecomanager.com
 0.0.0.0 kecomenedzser.com
