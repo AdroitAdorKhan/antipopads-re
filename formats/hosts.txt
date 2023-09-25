@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.09.268
 # Release: 268
-# Entries: 95,414
-# Updated: Mon, 25 Sep 23 06:35:54 +06
+# Entries: 95,418
+# Updated: Mon, 25 Sep 23 08:11:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3842,6 +3842,7 @@
 0.0.0.0 adsalo.com
 0.0.0.0 adsame.com
 0.0.0.0 adsandcomputer.com
+0.0.0.0 adsbar.online
 0.0.0.0 adsbeard.com
 0.0.0.0 adsblocker-ultra.com
 0.0.0.0 adsblockersentinel.info
@@ -25963,6 +25964,7 @@
 0.0.0.0 fdf1aacd86.com
 0.0.0.0 fdf4.com
 0.0.0.0 fdghedgpj.com
+0.0.0.0 fdheincvdbp.com
 0.0.0.0 fdiirjong.com
 0.0.0.0 fdirseqqotw.xyz
 0.0.0.0 fditldpuoumv.com
@@ -41355,6 +41357,7 @@
 0.0.0.0 ledrapti.net
 0.0.0.0 ledsign4u.com
 0.0.0.0 ledslevier.com
+0.0.0.0 ledzfmfadmkb.com
 0.0.0.0 leeante.com
 0.0.0.0 leebankandtrust.com
 0.0.0.0 leebisuk.xyz
@@ -54471,6 +54474,7 @@
 0.0.0.0 pjblqxvmcjyiel.com
 0.0.0.0 pjcinfra.in.net
 0.0.0.0 pjgltd.com
+0.0.0.0 pjhcyfksmvasi.xyz
 0.0.0.0 pjiungbdfcfituj.com
 0.0.0.0 pjjpp.com
 0.0.0.0 pjjxcfpnhymwi.top
