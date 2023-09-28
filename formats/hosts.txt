@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.09.271
 # Release: 271
-# Entries: 96,077
-# Updated: Thu, 28 Sep 23 10:11:26 +06
+# Entries: 96,079
+# Updated: Thu, 28 Sep 23 12:09:38 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2731,6 +2731,7 @@
 0.0.0.0 aaoeavlyxdjatqe.xyz
 0.0.0.0 aapkasamaj.com
 0.0.0.0 aaremshop.com
+0.0.0.0 aarfmftslfz.com
 0.0.0.0 aarghwoning.digital
 0.0.0.0 aarne.in
 0.0.0.0 aarneeltechnocraft.co
@@ -40773,6 +40774,7 @@
 0.0.0.0 kxcemmfk.com
 0.0.0.0 kxclorpruisyo.com
 0.0.0.0 kxcratfgfk.xyz
+0.0.0.0 kxcslpllryojw.com
 0.0.0.0 kxdwmjrd.com
 0.0.0.0 kxeredrhsummac.xyz
 0.0.0.0 kxerprliudkqteo.com
