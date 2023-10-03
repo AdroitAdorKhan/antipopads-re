@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.277
 # Release: 277
-# Entries: 97,069
-# Updated: Wed, 04 Oct 23 02:10:50 +06
+# Entries: 97,070
+# Updated: Wed, 04 Oct 23 04:26:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15423,6 +15423,7 @@
 0.0.0.0 chrisrespectivelynostrils.com
 0.0.0.0 chrissydodds.com
 0.0.0.0 christabruhn.space
+0.0.0.0 christeningscholarship.com
 0.0.0.0 christiangirlsstrive.com
 0.0.0.0 christiannarcissistic.com
 0.0.0.0 christianpokerplayers.com
