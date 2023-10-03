@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.276
 # Release: 276
-# Entries: 96,931
-# Updated: Tue, 03 Oct 23 06:48:31 +06
+# Entries: 96,932
+# Updated: Tue, 03 Oct 23 08:12:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -48744,6 +48744,7 @@
 0.0.0.0 ncukgqjfaxjv.com
 0.0.0.0 ncuwtufam.com
 0.0.0.0 ncvsspaq.com
+0.0.0.0 ncvvfhex.com
 0.0.0.0 ncxtnilgj.com
 0.0.0.0 ncyj5.com
 0.0.0.0 ncyj6.com
