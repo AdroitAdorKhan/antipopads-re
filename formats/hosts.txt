@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.277
 # Release: 277
-# Entries: 97,074
-# Updated: Wed, 04 Oct 23 08:09:49 +06
+# Entries: 97,075
+# Updated: Wed, 04 Oct 23 10:08:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -50127,6 +50127,7 @@
 0.0.0.0 norwichyogaroom.uk
 0.0.0.0 nos1gnal.fr
 0.0.0.0 nosaul.com
+0.0.0.0 nosebkpr.top
 0.0.0.0 nosebleedlonerdays.com
 0.0.0.0 nosedetriment.com
 0.0.0.0 nosforages.org
