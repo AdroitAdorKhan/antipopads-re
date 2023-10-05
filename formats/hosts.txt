@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.278
 # Release: 278
-# Entries: 97,216
-# Updated: Thu, 05 Oct 23 14:09:08 +06
+# Entries: 97,242
+# Updated: Thu, 05 Oct 23 16:08:27 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4857,6 +4857,8 @@
 0.0.0.0 aibooks.in
 0.0.0.0 aibopic.com
 0.0.0.0 aibsgc.com
+0.0.0.0 aibuildingsystems.com
+0.0.0.0 aibuildingtechnologies.com
 0.0.0.0 aibupdate.mobi
 0.0.0.0 aicabsix.net
 0.0.0.0 aicamera.io
@@ -9432,6 +9434,7 @@
 0.0.0.0 barleylatestinches.com
 0.0.0.0 barnabaslinger.com
 0.0.0.0 barnaclecocoonjest.com
+0.0.0.0 barnacleoverdo.com
 0.0.0.0 barnassumedaddict.com
 0.0.0.0 barneycomedy.com
 0.0.0.0 barneysunsharp.com
@@ -13750,6 +13753,7 @@
 0.0.0.0 candycture.com
 0.0.0.0 candygainpeace.com
 0.0.0.0 candyheartsblog.com
+0.0.0.0 candyhiss.com
 0.0.0.0 candypeaches.com
 0.0.0.0 cane4thebrain.com
 0.0.0.0 canepadesign.net
@@ -19490,6 +19494,7 @@
 0.0.0.0 ddjagedfbifdfejagaca.world
 0.0.0.0 ddji.in
 0.0.0.0 ddjmypwjkau.com
+0.0.0.0 ddkoverseas.com
 0.0.0.0 ddksdjybngdfqe.com
 0.0.0.0 ddlesswale.co
 0.0.0.0 ddnmzrpp.com
@@ -29027,6 +29032,7 @@
 0.0.0.0 gadssystems.com
 0.0.0.0 gadzwhglnxhbjs.com
 0.0.0.0 gaeebjednl.xyz
+0.0.0.0 gaegwdkirfcgp.com
 0.0.0.0 gaejbsjai.com
 0.0.0.0 gaelsdaniele.website
 0.0.0.0 gaesataigal.uno
@@ -33024,6 +33030,8 @@
 0.0.0.0 hebenefitssheasht.info
 0.0.0.0 hebeupleaps.live
 0.0.0.0 hebiichigo.com
+0.0.0.0 hebname.com
+0.0.0.0 hebnamer.com
 0.0.0.0 hebraicwain.website
 0.0.0.0 hebrewnamer.com
 0.0.0.0 hebridesnews.scot
@@ -33093,6 +33101,7 @@
 0.0.0.0 heleric.com
 0.0.0.0 helesandoral.com
 0.0.0.0 helgmgyq.com
+0.0.0.0 heli.direct
 0.0.0.0 helic3oniusrcharithonia.com
 0.0.0.0 helicobuilders.com
 0.0.0.0 helicoptercharterhire.co.uk
@@ -33104,6 +33113,7 @@
 0.0.0.0 heliltag.com
 0.0.0.0 helio-3plus.com
 0.0.0.0 helio-3recharge.com
+0.0.0.0 helitag.direct
 0.0.0.0 helitagrfid.com
 0.0.0.0 helium-3gasolinera.com
 0.0.0.0 helium3-luxury.com
@@ -39555,6 +39565,7 @@
 0.0.0.0 kaikenhikaku.com
 0.0.0.0 kaikohome.com.au
 0.0.0.0 kailsfrot.com
+0.0.0.0 kainitsblet.life
 0.0.0.0 kairoscarsservices.com
 0.0.0.0 kairosvelix.com
 0.0.0.0 kaisaimy.net
@@ -43972,6 +43983,7 @@
 0.0.0.0 luobuzhou.com
 0.0.0.0 luohu.me
 0.0.0.0 lupekibxilmq.com
+0.0.0.0 lupinelanding.com
 0.0.0.0 lupintoto.org
 0.0.0.0 lupus-nephritis-trials.com
 0.0.0.0 lupusnephritistrials.com
@@ -44849,6 +44861,7 @@
 0.0.0.0 manysex.com
 0.0.0.0 manysoftlink.ru
 0.0.0.0 manywayswellbeing.co.uk
+0.0.0.0 manzanitarest.com
 0.0.0.0 maomaotang.com
 0.0.0.0 maomiav87.com
 0.0.0.0 maonderndbeco.com.ua
@@ -48144,6 +48157,7 @@
 0.0.0.0 mycuhovuukw.com
 0.0.0.0 mycurrentview.com
 0.0.0.0 mycusgaue.com
+0.0.0.0 mydaewallet.com
 0.0.0.0 mydailynewz.com
 0.0.0.0 mydating-partner2.com
 0.0.0.0 mydigitaltribe.com.au
@@ -50310,6 +50324,7 @@
 0.0.0.0 nousmeilleur.fr
 0.0.0.0 nouvhidtxryveg.com
 0.0.0.0 nova-files-trustics.ml
+0.0.0.0 novabottova.com
 0.0.0.0 novadune.com
 0.0.0.0 novafoaminternational.com
 0.0.0.0 novafoster.info
@@ -51627,6 +51642,7 @@
 0.0.0.0 okmentally.com
 0.0.0.0 okmingle.online
 0.0.0.0 okmugelo.it
+0.0.0.0 oknodosveta.online
 0.0.0.0 oknssfjarym.xyz
 0.0.0.0 oknxx.com
 0.0.0.0 oko-maroc.com
@@ -52122,6 +52138,7 @@
 0.0.0.0 onsetknives.com
 0.0.0.0 onsetours.com
 0.0.0.0 onseviperon.com
+0.0.0.0 onshipyard.com
 0.0.0.0 onshipyards.com
 0.0.0.0 onshowit.com
 0.0.0.0 onsighttherapies.com
@@ -69110,6 +69127,7 @@
 0.0.0.0 svetorechov.online
 0.0.0.0 svetposteli.com
 0.0.0.0 svetrealit.online
+0.0.0.0 svetzaoknom.online
 0.0.0.0 svfcndybmpsgop.xyz
 0.0.0.0 svgbdctjff.com
 0.0.0.0 svgjs.com
@@ -74401,6 +74419,7 @@
 0.0.0.0 tvdltjik.xyz
 0.0.0.0 tvetejamjfdqb.com
 0.0.0.0 tvfilxawdmu.top
+0.0.0.0 tvfllp.com
 0.0.0.0 tvggjapmfkgd.com
 0.0.0.0 tvidak.com
 0.0.0.0 tvifuyupybtj.com
@@ -75454,6 +75473,7 @@
 0.0.0.0 unipsycle.com
 0.0.0.0 uniqdigital.info
 0.0.0.0 uniqino.com
+0.0.0.0 uniqpex.com
 0.0.0.0 unique-novelties.com
 0.0.0.0 unique-shop99.com
 0.0.0.0 uniquecontracting.com.au
@@ -75741,6 +75761,7 @@
 0.0.0.0 updatecompletelyfreetheproduct.vip
 0.0.0.0 updatedbut.com
 0.0.0.0 updateenow.com
+0.0.0.0 updategreatlyadvancedtheproduct.vip
 0.0.0.0 updateguck.com
 0.0.0.0 updateinfo2022.icu
 0.0.0.0 updatephone.club
@@ -88855,6 +88876,7 @@
 0.0.0.0 www.myclaimmatters.com
 0.0.0.0 www.mycomicxxx.com
 0.0.0.0 www.mycrowncollection.net
+0.0.0.0 www.mydaewallet.com
 0.0.0.0 www.mydigiverse.marketing
 0.0.0.0 www.myebiz.app
 0.0.0.0 www.myfaithster.com
@@ -89135,6 +89157,7 @@
 0.0.0.0 www.notwithstandingpeel.com
 0.0.0.0 www.noughtefface.com
 0.0.0.0 www.nounrespectively.com
+0.0.0.0 www.novabottova.com
 0.0.0.0 www.novakem.in
 0.0.0.0 www.novemberassimilate.com
 0.0.0.0 www.novemberseatsuccession.com
@@ -89257,6 +89280,7 @@
 0.0.0.0 www.okayfreemanknot.com
 0.0.0.0 www.okmentally.com
 0.0.0.0 www.okmingle.online
+0.0.0.0 www.oknodosveta.online
 0.0.0.0 www.okuchynskychspotrebicich.info
 0.0.0.0 www.ol-internacional.com
 0.0.0.0 www.oldcoinbuyer.info
@@ -92111,6 +92135,7 @@
 0.0.0.0 www.suswasthyaandrairishi.com
 0.0.0.0 www.suwotsoukry.com
 0.0.0.0 www.svastyogi.com
+0.0.0.0 www.svetzaoknom.online
 0.0.0.0 www.svgjs.com
 0.0.0.0 www.svgvector.com
 0.0.0.0 www.swaabhiman.org
@@ -97212,6 +97237,7 @@
 0.0.0.0 zyelum.com
 0.0.0.0 zyf03k.xyz
 0.0.0.0 zygenidempaper.digital
+0.0.0.0 zygicjyssca.com
 0.0.0.0 zygomasbeaches.guru
 0.0.0.0 zyinfotech.com
 0.0.0.0 zyklen.net
