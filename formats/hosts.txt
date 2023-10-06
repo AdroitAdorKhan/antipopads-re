@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.279
 # Release: 279
-# Entries: 97,356
-# Updated: Fri, 06 Oct 23 18:09:49 +06
+# Entries: 97,363
+# Updated: Fri, 06 Oct 23 22:15:00 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2783,6 +2783,7 @@
 0.0.0.0 aamromusic.info
 0.0.0.0 aamromusic.li
 0.0.0.0 aamromusic.org
+0.0.0.0 aan2016.org
 0.0.0.0 aanantbisht-healing.online
 0.0.0.0 aandbproperties.co.uk
 0.0.0.0 aanqylta.com
@@ -40862,6 +40863,7 @@
 0.0.0.0 koolahwelder.com
 0.0.0.0 koolartcars.com
 0.0.0.0 koolautomated.com
+0.0.0.0 koolawet.net
 0.0.0.0 koolform.com
 0.0.0.0 koolturecr.com
 0.0.0.0 koopheen.com
@@ -57067,6 +57069,7 @@
 0.0.0.0 prezzopillole.com
 0.0.0.0 prfctmney.com
 0.0.0.0 prfpktammbj.xyz
+0.0.0.0 prftonnes.com
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 prhagpkwrp.top
 0.0.0.0 prhqohelycoddl.xyz
@@ -74976,6 +74979,7 @@
 0.0.0.0 ufebgpjijoc.com
 0.0.0.0 ufeevhhnjilfeo.com
 0.0.0.0 uffmiboucpcqmns.com
+0.0.0.0 ufgkypfhervr.com
 0.0.0.0 ufhdumnkhgk.com
 0.0.0.0 ufinkln.com
 0.0.0.0 ufjfyvvtsi.top
@@ -81696,6 +81700,7 @@
 0.0.0.0 www.aamericana.com
 0.0.0.0 www.aamrathe1986.com
 0.0.0.0 www.aamrolicensing.org
+0.0.0.0 www.aan2016.org
 0.0.0.0 www.aandbproperties.co.uk
 0.0.0.0 www.aaremshop.com
 0.0.0.0 www.aaroncartermemorial.com
@@ -86141,6 +86146,7 @@
 0.0.0.0 www.fullycoordinatecarbonate.com
 0.0.0.0 www.fumanhua3.com
 0.0.0.0 www.fumecarbohydrate.com
+0.0.0.0 www.fumenicknamepoking.com
 0.0.0.0 www.functionfreaklacerate.com
 0.0.0.0 www.functionsprecision.com
 0.0.0.0 www.functionspresidespiral.com
@@ -96549,6 +96555,7 @@
 0.0.0.0 zadasas.top
 0.0.0.0 zadauque.net
 0.0.0.0 zaeblobo.xyz
+0.0.0.0 zaffarnimbed.com
 0.0.0.0 zaful.com
 0.0.0.0 zaglushkaaa.com
 0.0.0.0 zagtertda.com
