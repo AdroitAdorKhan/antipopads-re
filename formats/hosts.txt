@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.279
 # Release: 279
-# Entries: 97,291
-# Updated: Fri, 06 Oct 23 04:27:22 +06
+# Entries: 97,292
+# Updated: Fri, 06 Oct 23 06:09:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -21920,6 +21920,7 @@
 0.0.0.0 dpefjzuq.com
 0.0.0.0 dpfchqsiksjuyjc.xyz
 0.0.0.0 dpfciqqxa.com
+0.0.0.0 dpfrsmdjdskfpo.com
 0.0.0.0 dphmmqhslvb.com
 0.0.0.0 dphpycbr.com
 0.0.0.0 dpipel.com
