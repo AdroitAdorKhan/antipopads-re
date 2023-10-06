@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.279
 # Release: 279
-# Entries: 97,298
-# Updated: Fri, 06 Oct 23 10:09:49 +06
+# Entries: 97,302
+# Updated: Fri, 06 Oct 23 12:27:34 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5971,6 +5971,7 @@
 0.0.0.0 amicsaco.store
 0.0.0.0 amicube.ca
 0.0.0.0 amicube.com
+0.0.0.0 amidatemolompi.space
 0.0.0.0 amiddespair.com
 0.0.0.0 amildarclaes.space
 0.0.0.0 amiltineinct.homes
@@ -54108,6 +54109,7 @@
 0.0.0.0 paulsfamily.ca
 0.0.0.0 paulsons.com
 0.0.0.0 paulty.com
+0.0.0.0 paulusacor.uno
 0.0.0.0 paumoogo.net
 0.0.0.0 paunchyaraba.life
 0.0.0.0 paunct.com
@@ -68601,6 +68603,7 @@
 0.0.0.0 subscriptioneccentric.com
 0.0.0.0 subseaprinker.com
 0.0.0.0 subseatech.net
+0.0.0.0 subsectfanes.guru
 0.0.0.0 subsectivexe.xyz
 0.0.0.0 subsequentswim.com
 0.0.0.0 subsezavlp.com
@@ -92192,6 +92195,7 @@
 0.0.0.0 www.svgjs.com
 0.0.0.0 www.svgvector.com
 0.0.0.0 www.swaabhiman.org
+0.0.0.0 www.swachatahiseva.com
 0.0.0.0 www.swallowaccidentdrip.com
 0.0.0.0 www.swallowpunctual.com
 0.0.0.0 www.swarmwastefultried.com
