@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.279
 # Release: 279
-# Entries: 97,292
-# Updated: Fri, 06 Oct 23 06:09:02 +06
+# Entries: 97,295
+# Updated: Fri, 06 Oct 23 08:09:00 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -40869,6 +40869,7 @@
 0.0.0.0 korarea.com
 0.0.0.0 korcihcaq.com
 0.0.0.0 kordeltasche.com
+0.0.0.0 kordshubbtmhmx.com
 0.0.0.0 korearepcrom.com
 0.0.0.0 korekenkadir.tech
 0.0.0.0 korenle.com
@@ -77202,6 +77203,7 @@
 0.0.0.0 vfvdsati.com
 0.0.0.0 vfwbhmtyipkni.com
 0.0.0.0 vfyxjsclor.com
+0.0.0.0 vfzondwzs.com
 0.0.0.0 vg.postboxabbacy.com
 0.0.0.0 vg.singphooleary.com
 0.0.0.0 vg.swagerpluck.com
@@ -96996,6 +96998,7 @@
 0.0.0.0 zmfinancesurvey.top
 0.0.0.0 zmfindyourhalf.top
 0.0.0.0 zmfinsurvey.top
+0.0.0.0 zmflnfffbl.com
 0.0.0.0 zmgainfulsurvey.top
 0.0.0.0 zmgetdollarsurvey.top
 0.0.0.0 zmgetmoneysurvey.top
