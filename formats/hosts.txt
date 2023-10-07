@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.281
 # Release: 281
-# Entries: 97,434
-# Updated: Sun, 08 Oct 23 00:18:44 +06
+# Entries: 97,435
+# Updated: Sun, 08 Oct 23 02:08:29 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -85161,6 +85161,7 @@
 0.0.0.0 www.earlpenholder.com
 0.0.0.0 www.earlymorningrain.ca
 0.0.0.0 www.earnbearerelectricity.com
+0.0.0.0 www.earnedwisdom.net
 0.0.0.0 www.earnestadornment.com
 0.0.0.0 www.earningsrapt.com
 0.0.0.0 www.earnmoneysurvey.top
