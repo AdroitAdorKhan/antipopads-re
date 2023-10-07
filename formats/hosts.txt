@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.280
 # Release: 280
-# Entries: 97,425
-# Updated: Sat, 07 Oct 23 18:09:19 +06
+# Entries: 97,430
+# Updated: Sat, 07 Oct 23 20:19:41 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6090,6 +6090,7 @@
 0.0.0.0 amyclasbunn.website
 0.0.0.0 amycob.com
 0.0.0.0 amygdalbrittle.com
+0.0.0.0 amylasin.com
 0.0.0.0 amylatesating.com
 0.0.0.0 amyrinunshoed.com
 0.0.0.0 amysaghurtful.com
@@ -11729,6 +11730,7 @@
 0.0.0.0 bobabillydirect.org
 0.0.0.0 bobabout.com
 0.0.0.0 bobaflytea.com
+0.0.0.0 bobaxbasa.com
 0.0.0.0 bobboro.com
 0.0.0.0 bobbyfive.org
 0.0.0.0 bobbyhild.com
@@ -27485,6 +27487,7 @@
 0.0.0.0 flaxseedssoenrh4372ojd.com
 0.0.0.0 flb366.com
 0.0.0.0 flbpplqrvzopon.com
+0.0.0.0 flbvmgxpgnblod.com
 0.0.0.0 flcp700.cc
 0.0.0.0 fldes6fq.de
 0.0.0.0 fleabutton.com
@@ -82204,6 +82207,7 @@
 0.0.0.0 www.ampugi334f.com
 0.0.0.0 www.amreen.xyz
 0.0.0.0 www.amscoteasypay.com
+0.0.0.0 www.amylasin.com
 0.0.0.0 www.amysaghurtful.com
 0.0.0.0 www.amywhereby.com
 0.0.0.0 www.anaemiaalmostforests.com
@@ -83125,6 +83129,7 @@
 0.0.0.0 www.boasttrial.com
 0.0.0.0 www.boatfaxmarine.com
 0.0.0.0 www.boatobservefreshman.com
+0.0.0.0 www.bobaxbasa.com
 0.0.0.0 www.bobbyfive.org
 0.0.0.0 www.bobmerstesa.com
 0.0.0.0 www.boch-home.com
