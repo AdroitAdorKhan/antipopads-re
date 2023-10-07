@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.280
 # Release: 280
-# Entries: 97,370
-# Updated: Sat, 07 Oct 23 04:20:19 +06
+# Entries: 97,375
+# Updated: Sat, 07 Oct 23 08:20:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -44870,6 +44870,7 @@
 0.0.0.0 manmanlu.tech
 0.0.0.0 manna-webaruhaz.com
 0.0.0.0 mannarora.com
+0.0.0.0 mannasjerker.guru
 0.0.0.0 mannaskinsmart.com
 0.0.0.0 mannatechnogroup.co.in
 0.0.0.0 mannerstiring.com
@@ -53884,6 +53885,7 @@
 0.0.0.0 parjai.store
 0.0.0.0 parkautomaticallyinfallible.com
 0.0.0.0 parkavenueperiodontics.com
+0.0.0.0 parkcar.io
 0.0.0.0 parkcircularpearl.com
 0.0.0.0 parkdues.com
 0.0.0.0 parkdumbest.com
@@ -69597,6 +69599,7 @@
 0.0.0.0 szakkonyv.com
 0.0.0.0 szallitmanyozas.net
 0.0.0.0 szarnyasszarvas.com
+0.0.0.0 szbnnqyqn.com
 0.0.0.0 szbo.tech
 0.0.0.0 szerverelhelyezes.com
 0.0.0.0 szerverhosting.com
@@ -78140,6 +78143,7 @@
 0.0.0.0 volssimion.tech
 0.0.0.0 voltageregulation.info
 0.0.0.0 voltamotorsmaroc.com
+0.0.0.0 voltarengelotc.com
 0.0.0.0 volthamfondue.com
 0.0.0.0 voltservices.us
 0.0.0.0 voltskart.com
@@ -93396,6 +93400,7 @@
 0.0.0.0 www.volkswagenunionville.com
 0.0.0.0 www.volleyballdishonoursecurity.com
 0.0.0.0 www.volskbank.it
+0.0.0.0 www.voltarengelotc.com
 0.0.0.0 www.voluntarilystink.com
 0.0.0.0 www.volunteerbrash.com
 0.0.0.0 www.vomitelse.com
