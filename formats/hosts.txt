@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.10.281
-# Release: 281
-# Entries: 97,515
-# Updated: Sun, 08 Oct 23 22:09:12 +06
+# Version: 23.10.282
+# Release: 282
+# Entries: 97,520
+# Updated: Mon, 09 Oct 23 00:17:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1033,6 +1033,7 @@
 0.0.0.0 2pahiya.net
 0.0.0.0 2pc6q54ga.de
 0.0.0.0 2por.net
+0.0.0.0 2pse.com
 0.0.0.0 2ptxxjjzpy.com
 0.0.0.0 2qgsjjy90x.com
 0.0.0.0 2qj7mq3w4uxe.com
@@ -12527,6 +12528,7 @@
 0.0.0.0 brigi-jar.com
 0.0.0.0 brigitte-dauphas.com
 0.0.0.0 brije-cor.info
+0.0.0.0 brikinhpaxk.com
 0.0.0.0 brilejewelry.com
 0.0.0.0 brilitex.com
 0.0.0.0 brilliant-raise.pro
@@ -50126,6 +50128,7 @@
 0.0.0.0 no2veeamggaseber.com
 0.0.0.0 no4abuse2.xyz
 0.0.0.0 noabusers.xyz
+0.0.0.0 noafoaji.xyz
 0.0.0.0 noahilum.net
 0.0.0.0 noahmciver.ca
 0.0.0.0 noaiaft.com
@@ -59540,6 +59543,7 @@
 0.0.0.0 radull.com
 0.0.0.0 radvany205.com
 0.0.0.0 raenamelstore.com
+0.0.0.0 raeoaxqxhvtxe.xyz
 0.0.0.0 raeturghttcou.com
 0.0.0.0 raeubwdfifmjy.com
 0.0.0.0 raf-group.net
@@ -96311,6 +96315,7 @@
 0.0.0.0 youta-ube.com
 0.0.0.0 youthakalidalamritsar.org
 0.0.0.0 youthdiscourse.com
+0.0.0.0 youthfulcontest.pro
 0.0.0.0 youthitclub.com
 0.0.0.0 youthkranti.in
 0.0.0.0 youthntraining.org
