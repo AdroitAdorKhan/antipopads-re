@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.281
 # Release: 281
-# Entries: 97,445
-# Updated: Sun, 08 Oct 23 06:10:04 +06
+# Entries: 97,447
+# Updated: Sun, 08 Oct 23 08:17:58 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2852,6 +2852,7 @@
 0.0.0.0 abancacuenta.online
 0.0.0.0 abanchtvoi.com
 0.0.0.0 abandonrecommendationwars.com
+0.0.0.0 abanetmoggy.cfd
 0.0.0.0 abange.com
 0.0.0.0 abanicmasons.uno
 0.0.0.0 abanmusic.org
@@ -5206,6 +5207,7 @@
 0.0.0.0 akwaabahomes.ca
 0.0.0.0 akwxtceohbmu.xyz
 0.0.0.0 akychhluvbh.com
+0.0.0.0 akyldpjmlh.com
 0.0.0.0 akzfxmgcq.com
 0.0.0.0 akzvponimot.com
 0.0.0.0 al-bo.cfd
