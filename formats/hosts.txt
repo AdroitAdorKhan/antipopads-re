@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.281
 # Release: 281
-# Entries: 97,448
-# Updated: Sun, 08 Oct 23 10:09:06 +06
+# Entries: 97,449
+# Updated: Sun, 08 Oct 23 12:16:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -96440,6 +96440,7 @@
 0.0.0.0 yue988.com
 0.0.0.0 yuebofa.cc
 0.0.0.0 yuekutv.com
+0.0.0.0 yuelecsa.com
 0.0.0.0 yuflowers24.com
 0.0.0.0 yugnirman.org
 0.0.0.0 yugout.com
