@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.281
 # Release: 281
-# Entries: 97,441
-# Updated: Sun, 08 Oct 23 04:20:21 +06
+# Entries: 97,445
+# Updated: Sun, 08 Oct 23 06:10:04 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1783,6 +1783,7 @@
 0.0.0.0 5tyerstae.com
 0.0.0.0 5umpz4evlgkm.com
 0.0.0.0 5vcl2z9la7.com
+0.0.0.0 5vhgwd152.monster
 0.0.0.0 5vpbnbkiey24.com
 0.0.0.0 5w8.fun
 0.0.0.0 5wuefo9haif3.com
@@ -15310,6 +15311,7 @@
 0.0.0.0 chinabasaltfrp.com
 0.0.0.0 chinaboilertech.com
 0.0.0.0 chinabreakout.com
+0.0.0.0 chinacar.asia
 0.0.0.0 chinacloudaiot.net
 0.0.0.0 chinaelectricars.ru
 0.0.0.0 chinaloadingarm.com
@@ -81568,6 +81570,7 @@
 0.0.0.0 www.5spotband.com
 0.0.0.0 www.5thpillar.org
 0.0.0.0 www.5tyerstae.com
+0.0.0.0 www.5vhgwd152.monster
 0.0.0.0 www.5w8.fun
 0.0.0.0 www.5x5javwd.monster
 0.0.0.0 www.602studios.net
@@ -83739,6 +83742,7 @@
 0.0.0.0 www.chillcondole.com
 0.0.0.0 www.chillylanguish.com
 0.0.0.0 www.chimid.org
+0.0.0.0 www.chinacar.asia
 0.0.0.0 www.chinapubmet.net
 0.0.0.0 www.chineseashamed.com
 0.0.0.0 www.chipoats.com
