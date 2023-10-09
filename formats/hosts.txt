@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.282
 # Release: 282
-# Entries: 97,563
-# Updated: Mon, 09 Oct 23 16:20:46 +06
+# Entries: 97,569
+# Updated: Mon, 09 Oct 23 18:11:36 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12741,6 +12741,7 @@
 0.0.0.0 brynh-lei.com
 0.0.0.0 bryond.com
 0.0.0.0 bryovo.com
+0.0.0.0 bryrknek.com
 0.0.0.0 bryteboost.com
 0.0.0.0 brzgame.com
 0.0.0.0 bs-gg.cam
@@ -35275,6 +35276,7 @@
 0.0.0.0 iaisbsspay.xyz
 0.0.0.0 iakjiamqg.com
 0.0.0.0 ialijqedjb.com
+0.0.0.0 ialnbnwxwdvebqv.com
 0.0.0.0 iam9p3eri3as5lc6hllege.com
 0.0.0.0 iamadssystems.com
 0.0.0.0 iambpa.com
@@ -45450,6 +45452,7 @@
 0.0.0.0 mavisoft.tech
 0.0.0.0 mavitechs.com
 0.0.0.0 mavq.net
+0.0.0.0 mavqddgigxo.com
 0.0.0.0 mavrus.tech
 0.0.0.0 maw5r7y9s9helley.com
 0.0.0.0 mawlaybob.com
@@ -64153,6 +64156,7 @@
 0.0.0.0 seginus.org
 0.0.0.0 segludsi.net
 0.0.0.0 segmentcoax.com
+0.0.0.0 segrbdscumdk.com
 0.0.0.0 segrea.com
 0.0.0.0 segsticaret.com
 0.0.0.0 segtic.com
@@ -77420,11 +77424,13 @@
 0.0.0.0 vhihvqsuarpp.com
 0.0.0.0 vhildeiygwnwoo.com
 0.0.0.0 vhjwlmlhd.com
+0.0.0.0 vhkbvpbuhwon.com
 0.0.0.0 vhlikelicfxfxjo.com
 0.0.0.0 vhmbcaduljbekhx.com
 0.0.0.0 vhneajupavrb.com
 0.0.0.0 vhoarnmrrxkjkv.com
 0.0.0.0 vhod-id.info
+0.0.0.0 vhovgvprny.xyz
 0.0.0.0 vhrdwayksjrls.com
 0.0.0.0 vhsxikfsrm.com
 0.0.0.0 vhtvcwtalrwpi.com
