@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.285
 # Release: 285
-# Entries: 97,982
-# Updated: Thu, 12 Oct 23 18:09:16 +06
+# Entries: 97,983
+# Updated: Thu, 12 Oct 23 22:13:14 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -75698,6 +75698,7 @@
 0.0.0.0 ummahacademybd.com
 0.0.0.0 ummerciseha.com
 0.0.0.0 ummihaqhu.xyz
+0.0.0.0 umnaqptetqilkf.com
 0.0.0.0 umnnokwryziz.com
 0.0.0.0 umnstoodthe.com
 0.0.0.0 umoughtcallm.com
