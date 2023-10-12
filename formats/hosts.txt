@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.285
 # Release: 285
-# Entries: 97,875
-# Updated: Thu, 12 Oct 23 12:14:39 +06
+# Entries: 97,895
+# Updated: Thu, 12 Oct 23 14:28:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9849,6 +9849,8 @@
 0.0.0.0 beach-house-nc.com
 0.0.0.0 beachfrontapartment.org
 0.0.0.0 beachfrontvilla.org
+0.0.0.0 beachhouserv.com
+0.0.0.0 beachhouservresort.com
 0.0.0.0 beacon-research-study.org
 0.0.0.0 beaconmodels.com
 0.0.0.0 beaconunruly.com
@@ -10143,6 +10145,7 @@
 0.0.0.0 belia-glp.com
 0.0.0.0 belickitungchan.com
 0.0.0.0 beliefnormandygarbage.com
+0.0.0.0 beliefwork.net
 0.0.0.0 beliet.com
 0.0.0.0 believedvarieties.com
 0.0.0.0 believeisabella.com
@@ -13172,6 +13175,7 @@
 0.0.0.0 businessagencynetwork.com
 0.0.0.0 businessbooks.co.in
 0.0.0.0 businesscultureinturkey.com
+0.0.0.0 businessendorse.com
 0.0.0.0 businessenviron.com
 0.0.0.0 businessessities.com
 0.0.0.0 businessfootprint.co.uk
@@ -22113,6 +22117,7 @@
 0.0.0.0 dramaticagreementsalt.com
 0.0.0.0 dramaticdirection.com
 0.0.0.0 dramaticoverthrow.com
+0.0.0.0 drambedkar.net
 0.0.0.0 dramechecker.tech
 0.0.0.0 dramipmsxyutc.xyz
 0.0.0.0 dramssoftware.co.uk
@@ -33195,6 +33200,7 @@
 0.0.0.0 heatlyanalytics.com
 0.0.0.0 heatnewborn.com
 0.0.0.0 heatpracticallyease.com
+0.0.0.0 heatseekerdrone.com
 0.0.0.0 heavebury.co.uk
 0.0.0.0 heavecoordinate.com
 0.0.0.0 heavenexceed.com
@@ -34991,6 +34997,7 @@
 0.0.0.0 humble-green.pro
 0.0.0.0 humblecooperate.com
 0.0.0.0 humbledleelang.com
+0.0.0.0 humblesmaki.top
 0.0.0.0 humdlbundle.pw
 0.0.0.0 humdrumhat.com
 0.0.0.0 humejylu.com
@@ -36405,6 +36412,7 @@
 0.0.0.0 indiankartingleague.in
 0.0.0.0 indianmedicalcongress.com
 0.0.0.0 indianoiladaniventures.net
+0.0.0.0 indianrocksbeachrv.com
 0.0.0.0 indianschool.net
 0.0.0.0 indiaoverlandassociation.net
 0.0.0.0 indiaoverlandsassociation.com
@@ -49164,6 +49172,7 @@
 0.0.0.0 ncih5app.com
 0.0.0.0 ncisxlvh.com
 0.0.0.0 nciypt.com
+0.0.0.0 ncnatec.com
 0.0.0.0 ncovebrwyronpg.com
 0.0.0.0 ncpvxltfbsrcavo.com
 0.0.0.0 ncpxhrurirscgsd.com
@@ -49856,6 +49865,7 @@
 0.0.0.0 nghan.com
 0.0.0.0 nghesi.net
 0.0.0.0 nghiabach.com
+0.0.0.0 nghsretirement.com
 0.0.0.0 nghsserviceawards.com
 0.0.0.0 nghsservicerewards.com
 0.0.0.0 ngisl.net
@@ -55509,6 +55519,7 @@
 0.0.0.0 picsservices.online
 0.0.0.0 picsservices.space
 0.0.0.0 picsti.com
+0.0.0.0 pictaviwormers.life
 0.0.0.0 picti.org
 0.0.0.0 pictishnation.com
 0.0.0.0 picturecorrespond.com
@@ -69248,6 +69259,8 @@
 0.0.0.0 superbdolly.com
 0.0.0.0 superbisle.com
 0.0.0.0 superbodds.com
+0.0.0.0 superboosted.finance
+0.0.0.0 superboosted.org
 0.0.0.0 superceram.org
 0.0.0.0 supercitynews.com
 0.0.0.0 superclimaxacademy.in
@@ -70866,6 +70879,7 @@
 0.0.0.0 temperrunnersdale.com
 0.0.0.0 tempestlands.com
 0.0.0.0 tempestoffsets.com
+0.0.0.0 tempestzsteel.com
 0.0.0.0 temphilltop.com
 0.0.0.0 templarofbyzantium.net
 0.0.0.0 templatesblogger.net
@@ -74478,6 +74492,7 @@
 0.0.0.0 tshirtprintstore.com
 0.0.0.0 tshirtvender.com
 0.0.0.0 tshiwolabs.com
+0.0.0.0 tsi-india.com
 0.0.0.0 tsiknsk.com
 0.0.0.0 tsilli.net
 0.0.0.0 tsing123.com
@@ -74952,6 +74967,7 @@
 0.0.0.0 twinklehomes.live
 0.0.0.0 twinky.online
 0.0.0.0 twinnercarrat.digital
+0.0.0.0 twinoft.com
 0.0.0.0 twinpinenetwork.com
 0.0.0.0 twinrdack.com
 0.0.0.0 twinrdsrv.com
@@ -76261,6 +76277,8 @@
 0.0.0.0 upload-pics.com
 0.0.0.0 uploommyacea.uno
 0.0.0.0 uplucarioon.com
+0.0.0.0 upmissionactivation.com
+0.0.0.0 upmissionactivation.org
 0.0.0.0 upmoveatoms.com
 0.0.0.0 upnedakusumc1.in
 0.0.0.0 upnnujmpmsenc.com
@@ -76424,6 +76442,7 @@
 0.0.0.0 urmilan.info
 0.0.0.0 urmooxwdkg.top
 0.0.0.0 urnkcqzu.com
+0.0.0.0 urnuldon.com
 0.0.0.0 urocyonirchin.guru
 0.0.0.0 uromexile.site
 0.0.0.0 urophianchovy.guru
@@ -95957,6 +95976,7 @@
 0.0.0.0 yawoctebq.com
 0.0.0.0 yawpslaputan.life
 0.0.0.0 yaxfwddoyhmjuvr.xyz
+0.0.0.0 yaxissoftwares.com
 0.0.0.0 yazaki.com.co
 0.0.0.0 yazaral20.net
 0.0.0.0 yazcash.com
