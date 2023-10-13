@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.286
 # Release: 286
-# Entries: 98,029
-# Updated: Fri, 13 Oct 23 12:20:01 +06
+# Entries: 98,030
+# Updated: Fri, 13 Oct 23 14:10:59 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -48566,6 +48566,7 @@
 0.0.0.0 mykiger.com
 0.0.0.0 mykotakrewards.co.in
 0.0.0.0 mylearngroup.com
+0.0.0.0 mylearnworld.com
 0.0.0.0 mylemans-it.be
 0.0.0.0 mylifestylehive.com
 0.0.0.0 mylinkbox.com
