@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.286
 # Release: 286
-# Entries: 98,028
-# Updated: Fri, 13 Oct 23 10:09:42 +06
+# Entries: 98,029
+# Updated: Fri, 13 Oct 23 12:20:01 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -47875,6 +47875,7 @@
 0.0.0.0 mpsnagaruntari.in
 0.0.0.0 mpsqvsylctp.com
 0.0.0.0 mpsuadv.ru
+0.0.0.0 mpsv-platby.online
 0.0.0.0 mptentry.com
 0.0.0.0 mptgate.com
 0.0.0.0 mptobaccocontrolsociety.org
