@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.287
 # Release: 287
-# Entries: 98,080
-# Updated: Sat, 14 Oct 23 02:09:00 +06
+# Entries: 98,083
+# Updated: Sat, 14 Oct 23 04:20:37 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -42749,6 +42749,7 @@
 0.0.0.0 lgjdwqiqgqqw.com
 0.0.0.0 lgjrpewwkca.com
 0.0.0.0 lgkdnlienpynmn.com
+0.0.0.0 lgmrsjiy.com
 0.0.0.0 lgmvmfywd.com
 0.0.0.0 lgprmmhtdubto.top
 0.0.0.0 lgpumcja.com
@@ -55911,6 +55912,7 @@
 0.0.0.0 pkthyp.uno
 0.0.0.0 pkudawbkcl.com
 0.0.0.0 pkumakerspace.org
+0.0.0.0 pkuxtkzpzwyl.com
 0.0.0.0 pkvffbbsxf.top
 0.0.0.0 pkwcagjc.com
 0.0.0.0 pkyxqppj.com
@@ -94546,6 +94548,7 @@
 0.0.0.0 www.xn--northfaceespaa-2nb.com
 0.0.0.0 www.xn--polygo-1wa.com
 0.0.0.0 www.xn--tevasterreich-lmb.com
+0.0.0.0 www.xn--thursdaybootstrkiye-jbc.com
 0.0.0.0 www.xn--tv-hk5ia.com
 0.0.0.0 www.xn--tvome-weby-m8a90k.com
 0.0.0.0 www.xn--tvorba-webovch-strnek-r0b15d.com
