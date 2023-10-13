@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.286
 # Release: 286
-# Entries: 98,026
-# Updated: Fri, 13 Oct 23 04:20:38 +06
+# Entries: 98,027
+# Updated: Fri, 13 Oct 23 06:10:15 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -77303,6 +77303,7 @@
 0.0.0.0 vcfr-membprime.com
 0.0.0.0 vcgdfvbvfxq.com
 0.0.0.0 vchffctf.com
+0.0.0.0 vchfus-p.net
 0.0.0.0 vchit.com
 0.0.0.0 vchsxhecjorrmi.com
 0.0.0.0 vclfsubji.com
