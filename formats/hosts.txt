@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.286
 # Release: 286
-# Entries: 98,056
-# Updated: Fri, 13 Oct 23 20:23:13 +06
+# Entries: 98,058
+# Updated: Fri, 13 Oct 23 22:13:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -18411,6 +18411,7 @@
 0.0.0.0 cryptotitleservices.net
 0.0.0.0 cryptotwittercoin.com
 0.0.0.0 cryptovaluetoday.com
+0.0.0.0 cryptovilla.info
 0.0.0.0 cryptowinjoin.com
 0.0.0.0 cryptoworldtoday.net
 0.0.0.0 cryptozotees.com
@@ -76844,6 +76845,7 @@
 0.0.0.0 uvomsebouub.top
 0.0.0.0 uvoovoachee.com
 0.0.0.0 uvpanqentn.com
+0.0.0.0 uvpjmtajkkx.com
 0.0.0.0 uvpwipgaqsamn.com
 0.0.0.0 uvpxshjn.xyz
 0.0.0.0 uvqjlolargixxea.top
