@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.287
 # Release: 287
-# Entries: 98,091
-# Updated: Sat, 14 Oct 23 08:17:56 +06
+# Entries: 98,095
+# Updated: Sat, 14 Oct 23 10:26:36 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -653,6 +653,7 @@
 0.0.0.0 1tyaresw1.com
 0.0.0.0 1uckyme.net
 0.0.0.0 1ueikseq1.com
+0.0.0.0 1uhsghsawji12.monster
 0.0.0.0 1up-amusements.com
 0.0.0.0 1upload43ver1.monster
 0.0.0.0 1upwebhosting.com
@@ -59575,6 +59576,7 @@
 0.0.0.0 quoo.eu
 0.0.0.0 quotecosmopolitandetached.com
 0.0.0.0 quoteprocesses.com
+0.0.0.0 quotes-p.com
 0.0.0.0 quotes.com
 0.0.0.0 qupurda.com
 0.0.0.0 quqcasuxuytehkw.com
@@ -81818,6 +81820,7 @@
 0.0.0.0 www.1svdhsdf112.monster
 0.0.0.0 www.1tyaresw1.com
 0.0.0.0 www.1uckyme.net
+0.0.0.0 www.1uhsghsawji12.monster
 0.0.0.0 www.1uysdufs1.monster
 0.0.0.0 www.1wegeterets1.com
 0.0.0.0 www.1weretserses1.com
@@ -98057,6 +98060,7 @@
 0.0.0.0 zwmkfoo.cn
 0.0.0.0 zwnhufcwhaw.com
 0.0.0.0 zwnoeqzsuz.com
+0.0.0.0 zwqhlymx.com
 0.0.0.0 zwqpqrtpjt.com
 0.0.0.0 zwqzxh.com
 0.0.0.0 zwtssi.com
