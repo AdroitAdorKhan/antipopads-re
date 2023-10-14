@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.287
 # Release: 287
-# Entries: 98,083
-# Updated: Sat, 14 Oct 23 04:20:37 +06
+# Entries: 98,085
+# Updated: Sat, 14 Oct 23 06:10:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -31169,6 +31169,7 @@
 0.0.0.0 gold2762.com
 0.0.0.0 goldalternateattributed.com
 0.0.0.0 goldeessmokers.com
+0.0.0.0 golden--goose.us.com
 0.0.0.0 golden-gateway.com
 0.0.0.0 golden-gmx.com
 0.0.0.0 golden11-net.com
@@ -42217,6 +42218,7 @@
 0.0.0.0 lbwjqrtxeeriap.com
 0.0.0.0 lbxcnbrczmmp.com
 0.0.0.0 lbxetynjwqyrw.com
+0.0.0.0 lbxmeskoa.com
 0.0.0.0 lby2kd27c.com
 0.0.0.0 lc.hisspitfold.com
 0.0.0.0 lc.impavidcircean.com
