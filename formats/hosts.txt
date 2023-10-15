@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.288
 # Release: 288
-# Entries: 98,356
-# Updated: Sun, 15 Oct 23 20:24:57 +06
+# Entries: 98,368
+# Updated: Sun, 15 Oct 23 22:08:53 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -24019,6 +24019,7 @@
 0.0.0.0 elegiachalo.website
 0.0.0.0 elegynybble.com
 0.0.0.0 elektrekoverland.com
+0.0.0.0 elektroinstalacia.top
 0.0.0.0 elektrosan.net
 0.0.0.0 elektrosuciastky.com
 0.0.0.0 element-okna.com
@@ -47225,6 +47226,7 @@
 0.0.0.0 mlwstbdnwdfyng.com
 0.0.0.0 mlygvdfj.xyz
 0.0.0.0 mlzbotz.tech
+0.0.0.0 mlzxfwvonky.com
 0.0.0.0 mm-cgnews.com
 0.0.0.0 mm-syringe.com
 0.0.0.0 mm.tassagohecatic.com
@@ -52311,6 +52313,7 @@
 0.0.0.0 omicronls.com
 0.0.0.0 omid-sport.net
 0.0.0.0 omidsaleh.ir
+0.0.0.0 omietky.top
 0.0.0.0 omikhainpretts.xyz
 0.0.0.0 omiotravels.world
 0.0.0.0 omitbailey.com
@@ -54221,6 +54224,7 @@
 0.0.0.0 papajohn.in
 0.0.0.0 papaneecorche.com
 0.0.0.0 papatyafilmizlesene.com
+0.0.0.0 papaveri.online
 0.0.0.0 papawrefits.com
 0.0.0.0 papaxb.com
 0.0.0.0 papayaburbles.com
@@ -79204,6 +79208,7 @@
 0.0.0.0 vyfzvrdik.com
 0.0.0.0 vyhecujse.com
 0.0.0.0 vyhra.me
+0.0.0.0 vyhrivaneobleceni.online
 0.0.0.0 vyilkacpsw.xyz
 0.0.0.0 vyinglyfomites.com
 0.0.0.0 vyiosamgdc.xyz
@@ -79952,6 +79957,7 @@
 0.0.0.0 webmotos.store
 0.0.0.0 weboccpuied.com
 0.0.0.0 weborevmedia.com
+0.0.0.0 webovy-atelier.online
 0.0.0.0 webpfy.com
 0.0.0.0 webpinp.com
 0.0.0.0 webpresent.pw
@@ -80080,6 +80086,7 @@
 0.0.0.0 wegoodsttr.com
 0.0.0.0 wegotmedia.com
 0.0.0.0 wegotya.com.au
+0.0.0.0 wegreenbeanextract.net
 0.0.0.0 wegrowcompany.com
 0.0.0.0 wegz.tech
 0.0.0.0 wehbhcqs.com
@@ -85986,6 +85993,7 @@
 0.0.0.0 www.electricalpartedapartment.com
 0.0.0.0 www.electronicconsensus.com
 0.0.0.0 www.elegancemixed.com
+0.0.0.0 www.elektroinstalacia.top
 0.0.0.0 www.element-okna.com
 0.0.0.0 www.elementarycleaver.com
 0.0.0.0 www.elementarydrypoverty.com
@@ -90268,6 +90276,7 @@
 0.0.0.0 www.omelettecrippledemployee.com
 0.0.0.0 www.omelettegeometryguts.com
 0.0.0.0 www.omenreprimanddesigner.com
+0.0.0.0 www.omietky.top
 0.0.0.0 www.omnilifecenter.com
 0.0.0.0 www.omnimatter.com
 0.0.0.0 www.omnipotentglobalbeer.com
@@ -90509,6 +90518,7 @@
 0.0.0.0 www.pantdentaldonate.com
 0.0.0.0 www.panthor.org
 0.0.0.0 www.papatyafilmizlesene.com
+0.0.0.0 www.papaveri.online
 0.0.0.0 www.papaxb.com
 0.0.0.0 www.paper-machinery.com
 0.0.0.0 www.paperwork.tech
@@ -94369,6 +94379,7 @@
 0.0.0.0 www.vushcups.com
 0.0.0.0 www.vuuwd.com
 0.0.0.0 www.vyafac.com
+0.0.0.0 www.vyhrivaneobleceni.online
 0.0.0.0 www.w12atendim.digital
 0.0.0.0 www.w1360.com
 0.0.0.0 www.w1w1.pro
@@ -94484,6 +94495,7 @@
 0.0.0.0 www.webmail.sportsonlineeventlive.xyz
 0.0.0.0 www.webmaster21.it
 0.0.0.0 www.webmetapin.com
+0.0.0.0 www.webovy-atelier.online
 0.0.0.0 www.webreviewstar.com
 0.0.0.0 www.websitehelper.in
 0.0.0.0 www.websitespare.com
