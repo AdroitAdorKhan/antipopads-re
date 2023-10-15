@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.288
 # Release: 288
-# Entries: 98,334
-# Updated: Sun, 15 Oct 23 16:11:12 +06
+# Entries: 98,347
+# Updated: Sun, 15 Oct 23 18:08:40 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12650,6 +12650,7 @@
 0.0.0.0 brittleraising.com
 0.0.0.0 brivak.com
 0.0.0.0 brjgcumoydeixd.com
+0.0.0.0 brjnmpnuh.com
 0.0.0.0 brjyhgebqwl.com
 0.0.0.0 brkaka.com
 0.0.0.0 brkaxcuqhha.com
@@ -24165,6 +24166,7 @@
 0.0.0.0 elsaunny.com
 0.0.0.0 else.biz
 0.0.0.0 elsewherebuckle.com
+0.0.0.0 elsve.online
 0.0.0.0 elsverdsdegandia.net
 0.0.0.0 eltbbvcqgnkc.com
 0.0.0.0 eltwit.com
@@ -43450,6 +43452,7 @@
 0.0.0.0 ljoyjuis.com
 0.0.0.0 ljpnpsiyyhowcq.xyz
 0.0.0.0 ljprxswcpqvk.xyz
+0.0.0.0 ljreality.top
 0.0.0.0 ljubimacmoj.com
 0.0.0.0 ljubljanahotels.net
 0.0.0.0 ljwosnxfgi.com
@@ -46970,6 +46973,7 @@
 0.0.0.0 mirrbwlv.com
 0.0.0.0 mirri2020.com
 0.0.0.0 mirrorsguide.biz
+0.0.0.0 mirrorskin.store
 0.0.0.0 mirroryavision.life
 0.0.0.0 mirthbail.com
 0.0.0.0 mirthcolections.com
@@ -63506,6 +63510,7 @@
 0.0.0.0 salestingoner.org
 0.0.0.0 saleswala.in
 0.0.0.0 saleteaacid.com
+0.0.0.0 salewa.online
 0.0.0.0 salford-ac.org
 0.0.0.0 salfordac.net
 0.0.0.0 salidasmallenginerepair.com
@@ -70155,6 +70160,7 @@
 0.0.0.0 szinvarazs.com
 0.0.0.0 sziszisorozo.online
 0.0.0.0 szjs2015.com
+0.0.0.0 szlipubod.com
 0.0.0.0 szolraegara.com
 0.0.0.0 szovegmuhely.com
 0.0.0.0 szqxvo.com
@@ -85999,6 +86005,7 @@
 0.0.0.0 www.elmarai.net
 0.0.0.0 www.elmspro.com
 0.0.0.0 www.eloiseattempt.com
+0.0.0.0 www.elsve.online
 0.0.0.0 www.elsverdsdegandia.net
 0.0.0.0 www.eltwit.com
 0.0.0.0 www.emarketingcourses.in
@@ -89072,6 +89079,7 @@
 0.0.0.0 www.lizhimajiang.com
 0.0.0.0 www.lizziefullrounded.com
 0.0.0.0 www.lj-reality.top
+0.0.0.0 www.ljreality.top
 0.0.0.0 www.llab.fr
 0.0.0.0 www.llf-rlp.de
 0.0.0.0 www.lmzvvyefpe.com
@@ -89573,6 +89581,7 @@
 0.0.0.0 www.miocene.io
 0.0.0.0 www.miraculousregimentabbreviate.com
 0.0.0.0 www.mirrorsguide.biz
+0.0.0.0 www.mirrorskin.store
 0.0.0.0 www.mirthbail.com
 0.0.0.0 www.miscalculatesuccessiverelish.com
 0.0.0.0 www.miscdot.net
@@ -92064,6 +92073,7 @@
 0.0.0.0 www.saladadefrutas.com
 0.0.0.0 www.salamander.parts
 0.0.0.0 www.salesconnections.net
+0.0.0.0 www.salewa.online
 0.0.0.0 www.sallyoxenstops.com
 0.0.0.0 www.salonsoft.app
 0.0.0.0 www.salsrus.com
@@ -92289,6 +92299,7 @@
 0.0.0.0 www.sesameasterisk.com
 0.0.0.0 www.sesamedetermination.com
 0.0.0.0 www.sesameebookspeedy.com
+0.0.0.0 www.setinsweet.com
 0.0.0.0 www.setssetting.com
 0.0.0.0 www.setsspreadenable.com
 0.0.0.0 www.settlenice.com
@@ -94850,6 +94861,7 @@
 0.0.0.0 www.yogawrite.com
 0.0.0.0 www.yogsarovar.org
 0.0.0.0 www.yoifjfbzrkcz.com
+0.0.0.0 www.yonipower.art
 0.0.0.0 www.yotroi.notaria2sincelejo.com.co
 0.0.0.0 www.you365.net
 0.0.0.0 www.youdiscussed.com
@@ -96949,6 +96961,7 @@
 0.0.0.0 yongki.net
 0.0.0.0 yongyongmalden.com
 0.0.0.0 yonhelioliskor.com
+0.0.0.0 yonipower.art
 0.0.0.0 yoniwigs.com
 0.0.0.0 yoniyin.com
 0.0.0.0 yonkerhallier.com
