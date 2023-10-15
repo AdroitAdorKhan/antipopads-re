@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.288
 # Release: 288
-# Entries: 98,237
-# Updated: Sun, 15 Oct 23 08:11:43 +06
+# Entries: 98,249
+# Updated: Sun, 15 Oct 23 10:09:29 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8979,6 +8979,8 @@
 0.0.0.0 b67767.com
 0.0.0.0 b67768.com
 0.0.0.0 b67769.com
+0.0.0.0 b67789.com
+0.0.0.0 b67790.com
 0.0.0.0 b7-mytag.com
 0.0.0.0 b70623.com
 0.0.0.0 b70626.com
@@ -35516,6 +35518,7 @@
 0.0.0.0 ibicrxnap.com
 0.0.0.0 ibidemkorari.com
 0.0.0.0 ibikini.cyou
+0.0.0.0 ibisingold.app
 0.0.0.0 ibizachartertoys.com
 0.0.0.0 ibjbqobqgfkx.xyz
 0.0.0.0 ibkneb.xyz
@@ -41757,6 +41760,7 @@
 0.0.0.0 lacexxxmovies.com
 0.0.0.0 laciezit.com
 0.0.0.0 lackgoodwillmagnet.com
+0.0.0.0 lacnakozmetika.online
 0.0.0.0 lacocinadeteddy.com
 0.0.0.0 laconicbath.com
 0.0.0.0 lacquerpreponderantconsist.com
@@ -52174,6 +52178,7 @@
 0.0.0.0 ollsukztoo.com
 0.0.0.0 olmecat.com
 0.0.0.0 olmsoneenh.info
+0.0.0.0 olnist.com
 0.0.0.0 olnjitvizo.com
 0.0.0.0 ologeysurincon.com
 0.0.0.0 ololopis.com
@@ -78558,6 +78563,7 @@
 0.0.0.0 vmprolific.com
 0.0.0.0 vmraahnmspzy.com
 0.0.0.0 vmrbti.xyz
+0.0.0.0 vmsmshzwgc.com
 0.0.0.0 vmspgcdl.com
 0.0.0.0 vmssolutions.space
 0.0.0.0 vmuid.com
@@ -83234,6 +83240,8 @@
 0.0.0.0 www.azdgdizaegigazief.com
 0.0.0.0 www.azhousingvalues.com
 0.0.0.0 www.b5z55.com
+0.0.0.0 www.b67789.com
+0.0.0.0 www.b67790.com
 0.0.0.0 www.baavarmag.com
 0.0.0.0 www.babinjectbother.com
 0.0.0.0 www.baboyita.net
@@ -88705,6 +88713,7 @@
 0.0.0.0 www.labsappland.com
 0.0.0.0 www.labsoacu.com
 0.0.0.0 www.lacasaresortpushkar.com
+0.0.0.0 www.lacnakozmetika.online
 0.0.0.0 www.laconicbath.com
 0.0.0.0 www.lacquerpreponderantconsist.com
 0.0.0.0 www.lacquerreddeform.com
@@ -90154,6 +90163,7 @@
 0.0.0.0 www.olivefolderutilities.com
 0.0.0.0 www.olivetreetechnologies.in
 0.0.0.0 www.olmecat.com
+0.0.0.0 www.olnist.com
 0.0.0.0 www.olympicsappointment.com
 0.0.0.0 www.omaravi.shop
 0.0.0.0 www.omarkhalil.tech
@@ -94877,6 +94887,7 @@
 0.0.0.0 www.zmrichsurvey.top
 0.0.0.0 www.zmtopgiftssurvey.top
 0.0.0.0 www.zmw22.com
+0.0.0.0 www.zniev.online
 0.0.0.0 www.zodo.store
 0.0.0.0 www.zonadedesmadre.com
 0.0.0.0 www.zoulikoopty.com
@@ -97973,6 +97984,7 @@
 0.0.0.0 znaptag.com
 0.0.0.0 znazlahbcu.com
 0.0.0.0 zndmetalcorporation.com
+0.0.0.0 zniev.online
 0.0.0.0 zniqgergvpk.com
 0.0.0.0 znnhmzumod.com
 0.0.0.0 znw1.com
