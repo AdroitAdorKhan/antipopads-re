@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.288
 # Release: 288
-# Entries: 98,249
-# Updated: Sun, 15 Oct 23 10:09:29 +06
+# Entries: 98,269
+# Updated: Sun, 15 Oct 23 12:19:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8979,6 +8979,11 @@
 0.0.0.0 b67767.com
 0.0.0.0 b67768.com
 0.0.0.0 b67769.com
+0.0.0.0 b67780.com
+0.0.0.0 b67781.com
+0.0.0.0 b67782.com
+0.0.0.0 b67784.com
+0.0.0.0 b67785.com
 0.0.0.0 b67789.com
 0.0.0.0 b67790.com
 0.0.0.0 b7-mytag.com
@@ -12590,6 +12595,7 @@
 0.0.0.0 brilliantly-living.com
 0.0.0.0 brilliantminds.tech
 0.0.0.0 brilliantpooldeckin.com
+0.0.0.0 brillingface.com
 0.0.0.0 brillsaffiliate.com
 0.0.0.0 brillspedlars.com
 0.0.0.0 brimmallow.com
@@ -24876,6 +24882,7 @@
 0.0.0.0 equipmentfinder.com.au
 0.0.0.0 equipservice.eu
 0.0.0.0 equirekeither.xyz
+0.0.0.0 equistudium.com
 0.0.0.0 equitydefault.com
 0.0.0.0 equityjesusdisappointment.com
 0.0.0.0 equityrights.co.in
@@ -28784,6 +28791,7 @@
 0.0.0.0 fsalfrwdr.com
 0.0.0.0 fsccafstr.com
 0.0.0.0 fscfbfrof.com
+0.0.0.0 fsdbyjarvwqu.com
 0.0.0.0 fsfnzvji.com
 0.0.0.0 fsfwetubfgd.com
 0.0.0.0 fsgfl.yt
@@ -41205,6 +41213,7 @@
 0.0.0.0 korsdesign.com
 0.0.0.0 kortefam.org
 0.0.0.0 korunabevy.com
+0.0.0.0 korzo.restaurant
 0.0.0.0 koserlawchambers.com
 0.0.0.0 koshergetaway.org
 0.0.0.0 koshidigital.com
@@ -59013,6 +59022,7 @@
 0.0.0.0 qclgcdtv.com
 0.0.0.0 qcmjdptyikwf.xyz
 0.0.0.0 qcnapaxxfuijga.com
+0.0.0.0 qcotzalsettiv.com
 0.0.0.0 qcqirqaqdq.top
 0.0.0.0 qcsjmidihe.com
 0.0.0.0 qcsvhhnbgh.xyz
@@ -63097,6 +63107,7 @@
 0.0.0.0 rxcaeqtwt.xyz
 0.0.0.0 rxceelhiogyad.com
 0.0.0.0 rxcghhurloldkeu.xyz
+0.0.0.0 rxcjedhdf.com
 0.0.0.0 rxdirect.shop
 0.0.0.0 rxeosevsso.com
 0.0.0.0 rxfilesz.com
@@ -75616,6 +75627,7 @@
 0.0.0.0 uhtskoyr.com
 0.0.0.0 uhubseva.com
 0.0.0.0 uhvcsyrxfsmhv.com
+0.0.0.0 uhxaylqu.com
 0.0.0.0 uhxmyqyevkcvit.com
 0.0.0.0 uhylmklwnfbrel.com
 0.0.0.0 uhyxjguckuoxrlx.com
@@ -83240,6 +83252,11 @@
 0.0.0.0 www.azdgdizaegigazief.com
 0.0.0.0 www.azhousingvalues.com
 0.0.0.0 www.b5z55.com
+0.0.0.0 www.b67780.com
+0.0.0.0 www.b67781.com
+0.0.0.0 www.b67782.com
+0.0.0.0 www.b67784.com
+0.0.0.0 www.b67785.com
 0.0.0.0 www.b67789.com
 0.0.0.0 www.b67790.com
 0.0.0.0 www.baavarmag.com
@@ -83834,6 +83851,7 @@
 0.0.0.0 www.brightgluttony.com
 0.0.0.0 www.brightpointsis.com
 0.0.0.0 www.brilliantexcavate.com
+0.0.0.0 www.brillingface.com
 0.0.0.0 www.bringclockwise.com
 0.0.0.0 www.bringingclothing.store
 0.0.0.0 www.bringsconserve.com
@@ -86066,6 +86084,7 @@
 0.0.0.0 www.equabilitythereupon.com
 0.0.0.0 www.equatorabash.com
 0.0.0.0 www.equilibriumindifferentsoak.com
+0.0.0.0 www.equistudium.com
 0.0.0.0 www.equitydefault.com
 0.0.0.0 www.equityjesusdisappointment.com
 0.0.0.0 www.erapracticalaccommodating.com
@@ -88671,6 +88690,7 @@
 0.0.0.0 www.kopeto.not-tesla.com
 0.0.0.0 www.kopoertse.com
 0.0.0.0 www.korooz.co.uk
+0.0.0.0 www.korzo.restaurant
 0.0.0.0 www.kostasbeys.gr
 0.0.0.0 www.kotak811.click
 0.0.0.0 www.koufuqi.com
