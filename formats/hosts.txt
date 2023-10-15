@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.288
 # Release: 288
-# Entries: 98,269
-# Updated: Sun, 15 Oct 23 12:19:44 +06
+# Entries: 98,280
+# Updated: Sun, 15 Oct 23 14:11:35 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8984,6 +8984,7 @@
 0.0.0.0 b67782.com
 0.0.0.0 b67784.com
 0.0.0.0 b67785.com
+0.0.0.0 b67788.com
 0.0.0.0 b67789.com
 0.0.0.0 b67790.com
 0.0.0.0 b7-mytag.com
@@ -10018,6 +10019,8 @@
 0.0.0.0 bedspictures.com
 0.0.0.0 bedspursueclueless.com
 0.0.0.0 bedtimestoriesprogram.com
+0.0.0.0 bee-box.online
+0.0.0.0 bee-box.space
 0.0.0.0 beeaimaid.com
 0.0.0.0 beeanna.tech
 0.0.0.0 beechverandahvanilla.com
@@ -16375,6 +16378,7 @@
 0.0.0.0 clubvaluesadamant.com
 0.0.0.0 clucti.com
 0.0.0.0 cludic.com
+0.0.0.0 clueostensiblebureaucracy.com
 0.0.0.0 clues4.com
 0.0.0.0 cluethydash.com
 0.0.0.0 cluewauling.life
@@ -25811,6 +25815,7 @@
 0.0.0.0 expertcamomile.com
 0.0.0.0 expertisefall.com
 0.0.0.0 expertmodernadvice.com
+0.0.0.0 expertnafotovoltiku.online
 0.0.0.0 expertnifg.com
 0.0.0.0 experts-gossip.com
 0.0.0.0 expertseminargroup.com
@@ -53869,6 +53874,7 @@
 0.0.0.0 p3hcg.com
 0.0.0.0 p3i.club
 0.0.0.0 p3yiov9l0.com
+0.0.0.0 p4investments.store
 0.0.0.0 p4kjaskdasd4.monster
 0.0.0.0 p4pfile.com
 0.0.0.0 p59othersq.com
@@ -83257,6 +83263,7 @@
 0.0.0.0 www.b67782.com
 0.0.0.0 www.b67784.com
 0.0.0.0 www.b67785.com
+0.0.0.0 www.b67788.com
 0.0.0.0 www.b67789.com
 0.0.0.0 www.b67790.com
 0.0.0.0 www.baavarmag.com
@@ -83438,6 +83445,8 @@
 0.0.0.0 www.becomingpressfelicity.com
 0.0.0.0 www.bedengongpakalingu.tech
 0.0.0.0 www.bedford.vet
+0.0.0.0 www.bee-box.online
+0.0.0.0 www.bee-box.space
 0.0.0.0 www.beechverandahvanilla.com
 0.0.0.0 www.beefeggspin.com
 0.0.0.0 www.beefyespeciallydrunken.com
@@ -86226,6 +86235,7 @@
 0.0.0.0 www.experimentbearingirrigate.com
 0.0.0.0 www.experimentsconscientiousshirt.com
 0.0.0.0 www.expertisefall.com
+0.0.0.0 www.expertnafotovoltiku.online
 0.0.0.0 www.explainpompeywistful.com
 0.0.0.0 www.explanationstaggered.com
 0.0.0.0 www.explicitweave.com
@@ -90377,6 +90387,7 @@
 0.0.0.0 www.p-store.tech
 0.0.0.0 www.p1hjabsjfasd1.monster
 0.0.0.0 www.p2kajskda2.monster
+0.0.0.0 www.p4investments.store
 0.0.0.0 www.p4kjaskdasd4.monster
 0.0.0.0 www.p7kjhabjskdasp7.monster
 0.0.0.0 www.paathshaalaclasses.com
