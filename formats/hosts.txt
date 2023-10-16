@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.289
 # Release: 289
-# Entries: 98,398
-# Updated: Mon, 16 Oct 23 12:51:46 +06
+# Entries: 98,402
+# Updated: Mon, 16 Oct 23 14:18:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12913,6 +12913,7 @@
 0.0.0.0 btwtssrnntidgb.com
 0.0.0.0 btwujiji.com
 0.0.0.0 btwwiwmhfhh.com
+0.0.0.0 btxdbuaxn.com
 0.0.0.0 btxvqmdmwawypdw.com
 0.0.0.0 btxxxnav.com
 0.0.0.0 btydhm.com
@@ -31938,6 +31939,7 @@
 0.0.0.0 greyman.company
 0.0.0.0 greyreconnect.com
 0.0.0.0 greyscaleagency.com
+0.0.0.0 greystokeassociates.com
 0.0.0.0 greystripe.com
 0.0.0.0 grfiliwbqtnrvsg.com
 0.0.0.0 grfinancialaccess.net
@@ -32950,6 +32952,7 @@
 0.0.0.0 hartbasketenviable.com
 0.0.0.0 hartcommunicationsgroup.com
 0.0.0.0 harthawksgroup.com
+0.0.0.0 hartig.network
 0.0.0.0 hartlyengland.com
 0.0.0.0 harvardunions.com
 0.0.0.0 harvesttheory.com
@@ -54222,6 +54225,7 @@
 0.0.0.0 pansymerbaby.com
 0.0.0.0 pantafives.com
 0.0.0.0 pantdentaldonate.com
+0.0.0.0 pantherculture.com
 0.0.0.0 panthor.org
 0.0.0.0 pantietestar.digital
 0.0.0.0 pantomimethat.com
