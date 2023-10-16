@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.289
 # Release: 289
-# Entries: 98,386
-# Updated: Mon, 16 Oct 23 04:24:59 +06
+# Entries: 98,389
+# Updated: Mon, 16 Oct 23 06:13:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -32505,6 +32505,7 @@
 0.0.0.0 gzsqsm.com
 0.0.0.0 gztejx.com
 0.0.0.0 gzwotvyjejpbxc.com
+0.0.0.0 gzwtamtkf.com
 0.0.0.0 h--m.net
 0.0.0.0 h-imageblock.com
 0.0.0.0 h-plus-a.com
@@ -94932,6 +94933,7 @@
 0.0.0.0 www.ysmuskreff.com
 0.0.0.0 www.yspulsa.biz
 0.0.0.0 www.ytmp4.nu
+0.0.0.0 www.yuegui.xyz
 0.0.0.0 www.yugnirman.org
 0.0.0.0 www.yukepower.com
 0.0.0.0 www.yump3s.com
@@ -97365,6 +97367,7 @@
 0.0.0.0 yudnhkbrkig.com
 0.0.0.0 yue988.com
 0.0.0.0 yuebofa.cc
+0.0.0.0 yuegui.xyz
 0.0.0.0 yuekutv.com
 0.0.0.0 yuelecsa.com
 0.0.0.0 yuflowers24.com
