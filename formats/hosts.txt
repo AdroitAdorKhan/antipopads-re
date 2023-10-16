@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.290
 # Release: 290
-# Entries: 98,446
-# Updated: Tue, 17 Oct 23 00:59:50 +06
+# Entries: 98,450
+# Updated: Tue, 17 Oct 23 02:29:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16506,6 +16506,7 @@
 0.0.0.0 cnsis001.com
 0.0.0.0 cnt.my
 0.0.0.0 cntrafficpro.com
+0.0.0.0 cntrktaieagnam.com
 0.0.0.0 cnvuspci.com
 0.0.0.0 cnwihtlgu.com
 0.0.0.0 cnwtpbkxqspd.com
@@ -39953,6 +39954,7 @@
 0.0.0.0 kah0ot.com
 0.0.0.0 kahcxpqaj.com
 0.0.0.0 kahgoot.com
+0.0.0.0 kahiit.it
 0.0.0.0 kahootc.com
 0.0.0.0 kahootl.com
 0.0.0.0 kahootplayers.com
@@ -42898,6 +42900,7 @@
 0.0.0.0 lhdwpdpreuh.com
 0.0.0.0 lhecbmq.com
 0.0.0.0 lhedgelnha.com
+0.0.0.0 lheipjbr.com
 0.0.0.0 lheoutn.com
 0.0.0.0 lhfctivml.com
 0.0.0.0 lhgwyrecj.com
@@ -88678,6 +88681,7 @@
 0.0.0.0 www.kaayaloram.com
 0.0.0.0 www.kacangmaspoker.xyz
 0.0.0.0 www.kadochi-iml.com
+0.0.0.0 www.kahiit.it
 0.0.0.0 www.kaiyu.xyz
 0.0.0.0 www.kaiyuan1.com
 0.0.0.0 www.kakdelausa.online
