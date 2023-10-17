@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.290
 # Release: 290
-# Entries: 98,459
-# Updated: Tue, 17 Oct 23 08:22:35 +06
+# Entries: 98,462
+# Updated: Tue, 17 Oct 23 10:18:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -41378,6 +41378,7 @@
 0.0.0.0 krahejaamaltis.in
 0.0.0.0 kraism.com
 0.0.0.0 kral.one
+0.0.0.0 krankenhaus-band.info
 0.0.0.0 krasnacokolada.com
 0.0.0.0 krato.us.com
 0.0.0.0 kratomeurope.com
@@ -62732,6 +62733,7 @@
 0.0.0.0 rq.trangamcoached.com
 0.0.0.0 rqakljxbs.com
 0.0.0.0 rqbmritxfcfefsp.top
+0.0.0.0 rqdcusltmryapg.com
 0.0.0.0 rqdteptu.info
 0.0.0.0 rqeqgvxuey.com
 0.0.0.0 rqeyxceoyojbcc.xyz
@@ -79180,6 +79182,7 @@
 0.0.0.0 vv.habaerashiksas.com
 0.0.0.0 vv8h9vyjgnst.com
 0.0.0.0 vvackker.com
+0.0.0.0 vvcxhdtpbnlct.com
 0.0.0.0 vvfrdcuxrergrjy.com
 0.0.0.0 vvguceexpcibtev.xyz
 0.0.0.0 vvhdhnqjnuo.com
