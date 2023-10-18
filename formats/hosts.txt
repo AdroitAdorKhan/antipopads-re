@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.292
 # Release: 292
-# Entries: 98,581
-# Updated: Thu, 19 Oct 23 00:17:45 +06
+# Entries: 98,583
+# Updated: Thu, 19 Oct 23 02:16:37 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -40809,6 +40809,7 @@
 0.0.0.0 kioo.tech
 0.0.0.0 kiosk-konnect.com
 0.0.0.0 kioskkonnect.com
+0.0.0.0 kipapjhs.com
 0.0.0.0 kipassignment.com
 0.0.0.0 kipeir.com
 0.0.0.0 kiperformance.ca
@@ -61659,6 +61660,7 @@
 0.0.0.0 rethowilmari.com
 0.0.0.0 rethusiasm.com
 0.0.0.0 reticencecarefully.com
+0.0.0.0 retinaebiaxal.guru
 0.0.0.0 retintsmillion.com
 0.0.0.0 retinuealike.com
 0.0.0.0 retinuearithmetic.com
