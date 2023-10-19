@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.292
 # Release: 292
-# Entries: 98,583
-# Updated: Thu, 19 Oct 23 02:16:37 +06
+# Entries: 98,591
+# Updated: Thu, 19 Oct 23 06:54:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9113,6 +9113,7 @@
 0.0.0.0 baconaces.pro
 0.0.0.0 baconclank.com
 0.0.0.0 baconybeek.uno
+0.0.0.0 baconyscalar.guru
 0.0.0.0 bacoonandeggs.xyz
 0.0.0.0 bacquetsituate.uno
 0.0.0.0 bactfjdert.com
@@ -21637,6 +21638,7 @@
 0.0.0.0 dnqlunngvdmfam.com
 0.0.0.0 dnrc.in
 0.0.0.0 dns9323323898.com
+0.0.0.0 dnsbl.test.www.highconvertingformats.com
 0.0.0.0 dnseasy1.org
 0.0.0.0 dnsgeoip.org
 0.0.0.0 dnshosthk.com
@@ -29254,6 +29256,7 @@
 0.0.0.0 fyhgvfmryxprn.xyz
 0.0.0.0 fyiyducvgp.com
 0.0.0.0 fykdxpdnhy.com
+0.0.0.0 fykjhzjyjvx.com
 0.0.0.0 fyklt.yt
 0.0.0.0 fyleejyhfo.com
 0.0.0.0 fymlwv.com
@@ -63936,6 +63939,7 @@
 0.0.0.0 satelliteexaminer.com
 0.0.0.0 sathderegional.com
 0.0.0.0 satik64.com
+0.0.0.0 sationturret.top
 0.0.0.0 satirevegetableshaw.com
 0.0.0.0 satis-qqu.com
 0.0.0.0 satisfactionpredictmusic.com
@@ -71419,6 +71423,7 @@
 0.0.0.0 tesplan.com
 0.0.0.0 tesshcjcqepmli.com
 0.0.0.0 tesswithoughcle.com
+0.0.0.0 test.www.highconvertingformats.com
 0.0.0.0 test943.online
 0.0.0.0 testamentstrand.com
 0.0.0.0 testamenttakeoutkill.com
@@ -77184,6 +77189,7 @@
 0.0.0.0 uvpxshjn.xyz
 0.0.0.0 uvqjlolargixxea.top
 0.0.0.0 uvrapigl.com
+0.0.0.0 uvrdhasvzal.com
 0.0.0.0 uvsvlisbartwq.com
 0.0.0.0 uvudfzxc.com
 0.0.0.0 uvvnvngdspeb.com
@@ -79033,6 +79039,7 @@
 0.0.0.0 vpffyhhgocbuyv.com
 0.0.0.0 vphjyhlmkeo.com
 0.0.0.0 vpico.com
+0.0.0.0 vpipi.com
 0.0.0.0 vpirwqlva.xyz
 0.0.0.0 vpixrlkggv.com
 0.0.0.0 vply.in
@@ -96692,6 +96699,7 @@
 0.0.0.0 ycsagj.com
 0.0.0.0 ycssw.edu.in
 0.0.0.0 ycurrentjobis.biz
+0.0.0.0 ycvrydtjsgymez.com
 0.0.0.0 ycywhmyiixjafa.com
 0.0.0.0 yczrgigyspm.com
 0.0.0.0 yd.strikenarette.com
