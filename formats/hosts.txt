@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.293
 # Release: 293
-# Entries: 98,701
-# Updated: Fri, 20 Oct 23 00:13:54 +06
+# Entries: 98,702
+# Updated: Fri, 20 Oct 23 02:08:40 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -98059,6 +98059,7 @@
 0.0.0.0 zefyrel.com
 0.0.0.0 zegrumse.net
 0.0.0.0 zeissbezil.space
+0.0.0.0 zejhnptr.com
 0.0.0.0 zekeeksaita.com
 0.0.0.0 zekkdxt.com
 0.0.0.0 zel-zel-fie.com
