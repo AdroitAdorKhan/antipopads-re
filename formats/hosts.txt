@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.293
 # Release: 293
-# Entries: 98,734
-# Updated: Fri, 20 Oct 23 10:10:57 +06
+# Entries: 98,735
+# Updated: Fri, 20 Oct 23 12:10:35 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -79200,6 +79200,7 @@
 0.0.0.0 vrtechnicalanalysis.in
 0.0.0.0 vrtnicenternaia.com
 0.0.0.0 vrtzads.com
+0.0.0.0 vrutitndfuipst.com
 0.0.0.0 vrwbcsxkjstrfoa.com
 0.0.0.0 vs.ecouteizars.com
 0.0.0.0 vs.herabutyrin.com
