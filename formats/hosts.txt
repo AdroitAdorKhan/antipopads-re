@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.10.293
-# Release: 293
-# Entries: 98,787
-# Updated: Fri, 20 Oct 23 22:31:19 +06
+# Version: 23.10.294
+# Release: 294
+# Entries: 98,791
+# Updated: Sat, 21 Oct 23 00:15:28 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13721,6 +13721,7 @@
 0.0.0.0 cal4cal.org
 0.0.0.0 calamityfortuneaudio.com
 0.0.0.0 calcch.com
+0.0.0.0 calchaszongora.life
 0.0.0.0 calciofvg.online
 0.0.0.0 calcsite.io
 0.0.0.0 calculatorscaffoldmingle.com
@@ -16746,6 +16747,7 @@
 0.0.0.0 cohertfause.uno
 0.0.0.0 coholy.com
 0.0.0.0 cohortconjecture.com
+0.0.0.0 cohunesseggard.guru
 0.0.0.0 coignsunrent.com
 0.0.0.0 coilcleaner.com
 0.0.0.0 coilincomplete.com
@@ -32419,6 +32421,7 @@
 0.0.0.0 gurimix.com
 0.0.0.0 gurmezadeshop.com
 0.0.0.0 guro2.com
+0.0.0.0 gurrahcider.space
 0.0.0.0 gurramindustries.in
 0.0.0.0 gurshesenglute.website
 0.0.0.0 guruapp.app
@@ -97105,6 +97108,7 @@
 0.0.0.0 yhmutexgbwswrn.xyz
 0.0.0.0 yhncggalt.com
 0.0.0.0 yhomrdh.com
+0.0.0.0 yhouekqpmb.com
 0.0.0.0 yhqgqrvhsqmjl.com
 0.0.0.0 yhugfytwdy.com
 0.0.0.0 yhvejawarouohb.xyz
