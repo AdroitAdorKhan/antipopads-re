@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.293
 # Release: 293
-# Entries: 98,710
-# Updated: Fri, 20 Oct 23 04:10:06 +06
+# Entries: 98,716
+# Updated: Fri, 20 Oct 23 06:47:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10702,6 +10702,7 @@
 0.0.0.0 bgcoll.com
 0.0.0.0 bgdysipmfygo.xyz
 0.0.0.0 bgeclklgpnk.xyz
+0.0.0.0 bgejgulprscgv.com
 0.0.0.0 bgen-ltd.co.uk
 0.0.0.0 bgeswhdk.com
 0.0.0.0 bgevhldiekl.xyz
@@ -27581,6 +27582,7 @@
 0.0.0.0 fixingcereal.com
 0.0.0.0 fixit-services.com
 0.0.0.0 fixittoday.biz
+0.0.0.0 fixitymetabit.website
 0.0.0.0 fixm.xyz
 0.0.0.0 fixosint.com
 0.0.0.0 fixpass.net
@@ -29225,6 +29227,7 @@
 0.0.0.0 fwmrm.net
 0.0.0.0 fwnowvgk.com
 0.0.0.0 fwnxbcogqcjj.com
+0.0.0.0 fwpanels.com
 0.0.0.0 fwsgroup.net
 0.0.0.0 fwskotewexa.xyz
 0.0.0.0 fwsnewsletter.com
@@ -56706,6 +56709,7 @@
 0.0.0.0 pmsvy.com
 0.0.0.0 pmtdynamics.com
 0.0.0.0 pmtkhcr.com
+0.0.0.0 pmugsiowt.com
 0.0.0.0 pmvqepmcq.com
 0.0.0.0 pmvyrvrkreckbv.xyz
 0.0.0.0 pmyuuhmjasauoc.com
@@ -76894,6 +76898,7 @@
 0.0.0.0 urmilan.info
 0.0.0.0 urmooxwdkg.top
 0.0.0.0 urnkcqzu.com
+0.0.0.0 urnsscruff.guru
 0.0.0.0 urnuldon.com
 0.0.0.0 urocyonirchin.guru
 0.0.0.0 uromexile.site
@@ -93288,6 +93293,7 @@
 0.0.0.0 www.stoachaigog.com
 0.0.0.0 www.stobartoilgas.com
 0.0.0.0 www.stolenforensicssausage.com
+0.0.0.0 www.stone.cryptaloot.pro
 0.0.0.0 www.stonehunterstudio.net
 0.0.0.0 www.stooliroori.com
 0.0.0.0 www.stoolsymphony.com
