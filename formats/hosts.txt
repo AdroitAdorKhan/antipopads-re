@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.294
 # Release: 294
-# Entries: 98,845
-# Updated: Sat, 21 Oct 23 14:26:21 +06
+# Entries: 98,847
+# Updated: Sat, 21 Oct 23 16:14:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10047,6 +10047,7 @@
 0.0.0.0 bedspictures.com
 0.0.0.0 bedspursueclueless.com
 0.0.0.0 bedtimestoriesprogram.com
+0.0.0.0 bedwokvbyuygl.com
 0.0.0.0 bee-box.online
 0.0.0.0 bee-box.space
 0.0.0.0 beeaimaid.com
@@ -17691,6 +17692,7 @@
 0.0.0.0 coopwination.org
 0.0.0.0 coordinatedcub.com
 0.0.0.0 coordinatefelon.com
+0.0.0.0 cooryieldconally.com
 0.0.0.0 coostujina.com
 0.0.0.0 coostuni.com
 0.0.0.0 coosync.com
