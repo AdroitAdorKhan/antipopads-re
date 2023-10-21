@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.294
 # Release: 294
-# Entries: 98,822
-# Updated: Sat, 21 Oct 23 10:11:34 +06
+# Entries: 98,823
+# Updated: Sat, 21 Oct 23 12:14:32 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -30013,6 +30013,7 @@
 0.0.0.0 geoaddicted.net
 0.0.0.0 geodaljoyless.com
 0.0.0.0 geodetickakopule.com
+0.0.0.0 geodsnabble.top
 0.0.0.0 geoffreybutler.com
 0.0.0.0 geoffreymailcollar.com
 0.0.0.0 geoffreyquitimpression.com
