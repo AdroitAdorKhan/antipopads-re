@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.295
 # Release: 295
-# Entries: 98,930
-# Updated: Sun, 22 Oct 23 20:23:03 +06
+# Entries: 98,934
+# Updated: Sun, 22 Oct 23 22:10:00 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6455,6 +6455,7 @@
 0.0.0.0 anpost-service-importfee.com
 0.0.0.0 anpost-services.com
 0.0.0.0 anpostfeepayment.com
+0.0.0.0 anpptedtah.com
 0.0.0.0 anqaabd.com
 0.0.0.0 anqigmbloqnnypa.com
 0.0.0.0 anriluce.com
@@ -11604,6 +11605,7 @@
 0.0.0.0 blsrscpqu.com
 0.0.0.0 blswap.art
 0.0.0.0 bltggjlybj.com
+0.0.0.0 bltxxmmv.com
 0.0.0.0 blu5fdclr.com
 0.0.0.0 blubberobsessionsound.com
 0.0.0.0 blubberspoiled.com
@@ -43044,6 +43046,7 @@
 0.0.0.0 lgjdwqiqgqqw.com
 0.0.0.0 lgjrpewwkca.com
 0.0.0.0 lgkdnlienpynmn.com
+0.0.0.0 lgkzjlffsfgt.com
 0.0.0.0 lgmrsjiy.com
 0.0.0.0 lgmvmfywd.com
 0.0.0.0 lgprmmhtdubto.top
@@ -97781,6 +97784,7 @@
 0.0.0.0 yr9n47004g.com
 0.0.0.0 yragcvgrtfsuafy.com
 0.0.0.0 yrcotwykyrlln.xyz
+0.0.0.0 yrcpsfqoyi.com
 0.0.0.0 yrdesk.com
 0.0.0.0 yrecomemu.one
 0.0.0.0 yresumeform.autos
