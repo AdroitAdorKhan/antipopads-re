@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.295
 # Release: 295
-# Entries: 98,914
-# Updated: Sun, 22 Oct 23 12:50:12 +06
+# Entries: 98,915
+# Updated: Sun, 22 Oct 23 14:12:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -35921,6 +35921,7 @@
 0.0.0.0 iedlytlrcp.com
 0.0.0.0 iedtalruy.com
 0.0.0.0 iedyjpgykq.top
+0.0.0.0 ieefwurb.com
 0.0.0.0 ieehxlksojqfch.com
 0.0.0.0 ieememberhima.xyz
 0.0.0.0 iegpibcq.com
