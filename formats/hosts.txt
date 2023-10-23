@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.296
 # Release: 296
-# Entries: 99,020
-# Updated: Mon, 23 Oct 23 14:18:31 +06
+# Entries: 99,024
+# Updated: Mon, 23 Oct 23 16:15:27 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -66450,6 +66450,7 @@
 0.0.0.0 silenthill-live.com
 0.0.0.0 silentinevitable.com
 0.0.0.0 silicavalley.online
+0.0.0.0 silicon-skills.com
 0.0.0.0 siliconelovedoll.com
 0.0.0.0 siliconengi.tech
 0.0.0.0 silisii2.com
@@ -77799,6 +77800,7 @@
 0.0.0.0 vanmeterpost.site
 0.0.0.0 vanmostthiamin.com
 0.0.0.0 vannappuram.com
+0.0.0.0 vanocni-cukrovi.net
 0.0.0.0 vanovaculinary.com
 0.0.0.0 vans-ireland.com
 0.0.0.0 vant39f18d26.xyz
@@ -83182,6 +83184,7 @@
 0.0.0.0 www.alfayed.com
 0.0.0.0 www.alfredpoleshipwreck.com
 0.0.0.0 www.algobeacon.yourarchitects.in
+0.0.0.0 www.algopapa.com
 0.0.0.0 www.alhashimia.net
 0.0.0.0 www.alianzbank.it
 0.0.0.0 www.aliasfoot.com
@@ -94772,6 +94775,7 @@
 0.0.0.0 www.vandanabharatgas.com
 0.0.0.0 www.vanishedunreal.com
 0.0.0.0 www.vanmasikut.com
+0.0.0.0 www.vanocni-cukrovi.net
 0.0.0.0 www.vant39f18d26.xyz
 0.0.0.0 www.vapoursumptuousgutter.com
 0.0.0.0 www.variationaspenjaunty.com
