@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.296
 # Release: 296
-# Entries: 99,017
-# Updated: Mon, 23 Oct 23 10:10:20 +06
+# Entries: 99,019
+# Updated: Mon, 23 Oct 23 12:34:39 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -63174,6 +63174,7 @@
 0.0.0.0 rtb.store.sncoupons.com
 0.0.0.0 rtb.trafficadventure.com
 0.0.0.0 rtb.value.us
+0.0.0.0 rtb42td.com
 0.0.0.0 rtbbnr.com
 0.0.0.0 rtbbnrdip.com
 0.0.0.0 rtbdnav.com
@@ -82062,6 +82063,7 @@
 0.0.0.0 wqlkp.com
 0.0.0.0 wqmbarlvwvdebms.com
 0.0.0.0 wqnqaiml.xyz
+0.0.0.0 wqolocxvsuxl.com
 0.0.0.0 wqourvraehwobu.com
 0.0.0.0 wqvkerqmxt.com
 0.0.0.0 wqwjd.yt

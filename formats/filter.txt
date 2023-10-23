@@ -20,8 +20,8 @@
 ! Version: 23.10.296
 ! Release: 296
 ! Expires: 1 day
-! Entries: 99,017
-! Updated: Mon, 23 Oct 23 10:10:20 +06
+! Entries: 99,019
+! Updated: Mon, 23 Oct 23 12:34:39 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -63175,6 +63175,7 @@
 ||rtb.store.sncoupons.com^
 ||rtb.trafficadventure.com^
 ||rtb.value.us^
+||rtb42td.com^
 ||rtbbnr.com^
 ||rtbbnrdip.com^
 ||rtbdnav.com^
@@ -82063,6 +82064,7 @@
 ||wqlkp.com^
 ||wqmbarlvwvdebms.com^
 ||wqnqaiml.xyz^
+||wqolocxvsuxl.com^
 ||wqourvraehwobu.com^
 ||wqvkerqmxt.com^
 ||wqwjd.yt^
