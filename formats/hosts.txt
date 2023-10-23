@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.296
 # Release: 296
-# Entries: 99,019
-# Updated: Mon, 23 Oct 23 12:34:39 +06
+# Entries: 99,020
+# Updated: Mon, 23 Oct 23 14:18:31 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11208,6 +11208,7 @@
 0.0.0.0 bitads.io
 0.0.0.0 bitaxe.co.uk
 0.0.0.0 bitbeat7.com
+0.0.0.0 bitboltapp.org
 0.0.0.0 bitbuy.asia
 0.0.0.0 bitbybitconcepts.com
 0.0.0.0 bitchbroth.com
