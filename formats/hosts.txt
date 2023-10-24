@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.297
 # Release: 297
-# Entries: 99,101
-# Updated: Tue, 24 Oct 23 12:13:04 +06
+# Entries: 99,146
+# Updated: Tue, 24 Oct 23 14:13:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4696,6 +4696,7 @@
 0.0.0.0 aggarwalcollege.in.net
 0.0.0.0 aggarwalrishta.com
 0.0.0.0 aggary.com
+0.0.0.0 agger.online
 0.0.0.0 aggestose.com
 0.0.0.0 aggjprvqamtl.com
 0.0.0.0 agglite.co.uk
@@ -5524,6 +5525,7 @@
 0.0.0.0 all4fast.com
 0.0.0.0 allaboutcat.org
 0.0.0.0 allaboutslp.com
+0.0.0.0 allaboutusbooks.net
 0.0.0.0 allaboutverification.com
 0.0.0.0 allactualjournal.com
 0.0.0.0 allactualstories.com
@@ -12585,6 +12587,7 @@
 0.0.0.0 brghpgkdswxjhyf.xyz
 0.0.0.0 brgul.com
 0.0.0.0 brhjvyqmgkyxmal.xyz
+0.0.0.0 brialluminate.com
 0.0.0.0 brian-auth.com
 0.0.0.0 brianhenderson.net
 0.0.0.0 brianholtry.com
@@ -22401,6 +22404,7 @@
 0.0.0.0 drevokras.com
 0.0.0.0 drevopol.com
 0.0.0.0 drewmichaeldesign.com
+0.0.0.0 drewsheltie.com
 0.0.0.0 dreyeli.info
 0.0.0.0 dribletbogled.com
 0.0.0.0 dridderpfunde.life
@@ -28447,6 +28451,7 @@
 0.0.0.0 fortlachanhecksof.com
 0.0.0.0 fortnightindictment.com
 0.0.0.0 fortorterrar.com
+0.0.0.0 fortpavilioncamomile.com
 0.0.0.0 fortpush.com
 0.0.0.0 fortressanthillamendment.com
 0.0.0.0 fortunaholdings.co
@@ -29736,6 +29741,8 @@
 0.0.0.0 gasolineunityauspice.com
 0.0.0.0 gaspbandy.com
 0.0.0.0 gaspcultivateclassroom.com
+0.0.0.0 gaspe-adventures.com
+0.0.0.0 gaspeadventures.com
 0.0.0.0 gaspedcloakroom.com
 0.0.0.0 gassingunspicy.guru
 0.0.0.0 gastersliddry.com
@@ -33855,6 +33862,7 @@
 0.0.0.0 hewscrocin.life
 0.0.0.0 hex-cdn.link
 0.0.0.0 hexersakund.tech
+0.0.0.0 hexesinfixed.website
 0.0.0.0 hexinsxekejfiyn.com
 0.0.0.0 hexkroma.com
 0.0.0.0 hexodesmacker.com
@@ -36915,6 +36923,7 @@
 0.0.0.0 inflationmileage.com
 0.0.0.0 inflectedminimalbits.com
 0.0.0.0 inflectioninadequatecandied.com
+0.0.0.0 inflectioninflection.com
 0.0.0.0 inflectionquake.com
 0.0.0.0 infles.com
 0.0.0.0 inflictgive.com
@@ -42075,6 +42084,7 @@
 0.0.0.0 ladakhmitra.com
 0.0.0.0 ladbrokesaffiliates.com.au
 0.0.0.0 ladderfrog.com
+0.0.0.0 ladderswagger.com
 0.0.0.0 ladenapp.com
 0.0.0.0 ladianitalia.nl
 0.0.0.0 ladiathdefinishe.com
@@ -46870,6 +46880,7 @@
 0.0.0.0 mgnugltoplan.com
 0.0.0.0 mgoeth.com
 0.0.0.0 mgrattedropenrigh.xyz
+0.0.0.0 mgrfggmhtbdgci.com
 0.0.0.0 mgrkfbkpyn.com
 0.0.0.0 mgruanjian.com
 0.0.0.0 mgrvhxroitfth.xyz
@@ -50934,6 +50945,7 @@
 0.0.0.0 nonwarmarge.website
 0.0.0.0 nonyabank.org
 0.0.0.0 nonyaprofit.org
+0.0.0.0 nooakedchardonnaywineco.com
 0.0.0.0 noobilubi.com
 0.0.0.0 noobydoobi.com
 0.0.0.0 noodlesignifyghosts.com
@@ -52920,6 +52932,7 @@
 0.0.0.0 onlinepcrepair.co.uk
 0.0.0.0 onlinepornohub.com
 0.0.0.0 onlinepromousa.com
+0.0.0.0 onlinepublicist.net
 0.0.0.0 onlinepuonline.com
 0.0.0.0 onlinerealty.app
 0.0.0.0 onlinesa.top
@@ -60292,6 +60305,7 @@
 0.0.0.0 raceacute.top
 0.0.0.0 racebay.org
 0.0.0.0 racerready.shop
+0.0.0.0 racesaggravate.com
 0.0.0.0 racesundermine.com
 0.0.0.0 racewhisperingsnow.com
 0.0.0.0 racheldaniel.ca
@@ -61704,6 +61718,7 @@
 0.0.0.0 republicanneutrality.com
 0.0.0.0 republicanparty.scot
 0.0.0.0 republichuntprimary.com
+0.0.0.0 republicoftea.mobi
 0.0.0.0 republicunableappellation.com
 0.0.0.0 republicusefulclothe.com
 0.0.0.0 repuge.com
@@ -62816,6 +62831,7 @@
 0.0.0.0 rollergaragedooressex.uk
 0.0.0.0 rollerplanet.us
 0.0.0.0 rollersadnessstranded.com
+0.0.0.0 rollingthroughit.com
 0.0.0.0 rollinsrealty.us
 0.0.0.0 rollmantic.net
 0.0.0.0 rollmeout.xyz
@@ -63316,6 +63332,7 @@
 0.0.0.0 rubfastened.com
 0.0.0.0 rubiconproject.com
 0.0.0.0 rubiestagaty.com
+0.0.0.0 rubinesquewines.com
 0.0.0.0 rubisco.ru
 0.0.0.0 rubricagalah.guru
 0.0.0.0 rubstove.com
@@ -67550,6 +67567,7 @@
 0.0.0.0 sndbdudbdbjdidjdndifjdjsks.com
 0.0.0.0 sneakersbook.com
 0.0.0.0 sneakersip.com
+0.0.0.0 sneakintriguecasting.com
 0.0.0.0 sneakyinfected.com
 0.0.0.0 snealp.com
 0.0.0.0 snebbubbled.com
@@ -68193,6 +68211,7 @@
 0.0.0.0 spargedunhot.website
 0.0.0.0 spargegytling.com
 0.0.0.0 sparidssimps.life
+0.0.0.0 sparkcheck.net
 0.0.0.0 sparkerz.com
 0.0.0.0 sparkinventor.com
 0.0.0.0 sparkle-industries-i-205.site
@@ -68968,6 +68987,7 @@
 0.0.0.0 stat-rock.com
 0.0.0.0 stat-well.com
 0.0.0.0 stat.trackstat.site
+0.0.0.0 statburian.cfd
 0.0.0.0 statcamp.net
 0.0.0.0 statefertilitycount.com
 0.0.0.0 stateinformatics.com
@@ -70981,6 +71001,7 @@
 0.0.0.0 tari.xyz
 0.0.0.0 tarimaspergo.com
 0.0.0.0 taritrebolkuyvh.com
+0.0.0.0 tarjetaexito.net
 0.0.0.0 tarkettsee.com
 0.0.0.0 taro-ezoterika.com
 0.0.0.0 taroads.com
@@ -72510,6 +72531,7 @@
 0.0.0.0 thephoenixcapital.com
 0.0.0.0 thepitstopauction.com
 0.0.0.0 thepizzasociety.com
+0.0.0.0 theplanyoucantrust.com
 0.0.0.0 theplayadvisor.com
 0.0.0.0 theplumbermarketer.net
 0.0.0.0 theplumbersmarketer.net
@@ -83175,6 +83197,7 @@
 0.0.0.0 www.agenpokeronline.top
 0.0.0.0 www.agent-connect.tech
 0.0.0.0 www.agenziaentrateriscossione.it
+0.0.0.0 www.agger.online
 0.0.0.0 www.agglite.co.uk
 0.0.0.0 www.aggravatecapeamoral.com
 0.0.0.0 www.aggravateexaggerate.com
@@ -84885,6 +84908,7 @@
 0.0.0.0 www.cerebralvortexgames.com
 0.0.0.0 www.cerialhd.org
 0.0.0.0 www.cerosync.com
+0.0.0.0 www.certainlydisparagewholesome.com
 0.0.0.0 www.certaintysniffed.com
 0.0.0.0 www.certaintysurroundingcab.com
 0.0.0.0 www.certificadoespanol.com
@@ -85285,6 +85309,7 @@
 0.0.0.0 www.compoundchaise.com
 0.0.0.0 www.compoundministerindoor.com
 0.0.0.0 www.compoundpeeredfrankly.com
+0.0.0.0 www.comprehensivechristmasgathering.com
 0.0.0.0 www.compresssavvydetected.com
 0.0.0.0 www.compromiseprepenseprepenseassumed.com
 0.0.0.0 www.comptagecafecacao.com
@@ -86036,6 +86061,7 @@
 0.0.0.0 www.diamondkcompany.com
 0.0.0.0 www.dianlijieneng.com
 0.0.0.0 www.diarrhoeacrookedchampagne.com
+0.0.0.0 www.diarrhoeaeaglesunday.com
 0.0.0.0 www.diarypuddle.com
 0.0.0.0 www.dibqu.com
 0.0.0.0 www.dicknearbyaircraft.com
@@ -86974,6 +87000,7 @@
 0.0.0.0 www.fademployedtransactions.com
 0.0.0.0 www.fahrenheitstrap.com
 0.0.0.0 www.failedcibil.com
+0.0.0.0 www.failingdrillscatter.com
 0.0.0.0 www.faintdefrost.com
 0.0.0.0 www.faintlystock.com
 0.0.0.0 www.faintstates.com
@@ -87283,6 +87310,7 @@
 0.0.0.0 www.floatr.app
 0.0.0.0 www.flogmacaroni.com
 0.0.0.0 www.flogunethicalexceedingly.com
+0.0.0.0 www.floodedinburgh.com
 0.0.0.0 www.floodeighty.com
 0.0.0.0 www.floodingdaredsanctuary.com
 0.0.0.0 www.floodtender.com
@@ -87448,6 +87476,7 @@
 0.0.0.0 www.fransvanpraet.site
 0.0.0.0 www.franticallyswap.com
 0.0.0.0 www.franticportal.com
+0.0.0.0 www.fraudbreakdown.com
 0.0.0.0 www.fraudclatterflying.com
 0.0.0.0 www.fraudgranulated.com
 0.0.0.0 www.fraudholdingpeas.com
@@ -87737,6 +87766,7 @@
 0.0.0.0 www.gigrr.app
 0.0.0.0 www.gildspectrum.com
 0.0.0.0 www.gillspaste.com
+0.0.0.0 www.gillstaught.com
 0.0.0.0 www.gilzzxds.tech
 0.0.0.0 www.gingercompute.com
 0.0.0.0 www.gingergreen.org
@@ -88340,6 +88370,7 @@
 0.0.0.0 www.honestlyfosterchild.com
 0.0.0.0 www.honestlygipsy.com
 0.0.0.0 www.honestpeaceable.com
+0.0.0.0 www.honeycombfingerbunch.com
 0.0.0.0 www.honeymoonregular.com
 0.0.0.0 www.hongkongeruv.org
 0.0.0.0 www.honorarybreakclank.com
@@ -88662,6 +88693,7 @@
 0.0.0.0 www.inchrepay.com
 0.0.0.0 www.incidentenglandtattoo.com
 0.0.0.0 www.incidentmerriment.com
+0.0.0.0 www.inclineflaming.com
 0.0.0.0 www.incomecanary.com
 0.0.0.0 www.incomerse.com
 0.0.0.0 www.incomprehensibleacrid.com
@@ -88737,6 +88769,7 @@
 0.0.0.0 www.inflationabstinence.com
 0.0.0.0 www.inflectedminimalbits.com
 0.0.0.0 www.inflictmistycarlos.com
+0.0.0.0 www.inflictrind.com
 0.0.0.0 www.influenzagodfathercopier.com
 0.0.0.0 www.info.samruddhishivaraj.xyz
 0.0.0.0 www.infodesigners.app
@@ -88846,6 +88879,7 @@
 0.0.0.0 www.institutionenrapturebags.com
 0.0.0.0 www.instructionluxuriant.com
 0.0.0.0 www.instructionwantsflew.com
+0.0.0.0 www.instructoralphabetoverreact.com
 0.0.0.0 www.instructorconfoundstayed.com
 0.0.0.0 www.instructorstudied.com
 0.0.0.0 www.instrumenttactics.com
@@ -89583,6 +89617,7 @@
 0.0.0.0 www.lemerigothotelsantamonica.com
 0.0.0.0 www.lemerigothotelsm.com
 0.0.0.0 www.lemerigotsm.com
+0.0.0.0 www.lemondependedadminister.com
 0.0.0.0 www.lenaghannam.com
 0.0.0.0 www.lenastock.com
 0.0.0.0 www.lennoxentertainment.com
@@ -89919,6 +89954,7 @@
 0.0.0.0 www.maiptica.com
 0.0.0.0 www.maisonrosaly.com
 0.0.0.0 www.majesticinsensitive.com
+0.0.0.0 www.majordistinguishedguide.com
 0.0.0.0 www.makeinbelgaum.com
 0.0.0.0 www.makeovertheologicalfatigue.com
 0.0.0.0 www.makerspaceai.com
@@ -90250,6 +90286,7 @@
 0.0.0.0 www.misunderstandlivelinessgargle.com
 0.0.0.0 www.misunderstandrough.com
 0.0.0.0 www.misuseartsy.com
+0.0.0.0 www.misuseoyster.com
 0.0.0.0 www.mittenheatdied.com
 0.0.0.0 www.mixdisparity.com
 0.0.0.0 www.mixedknitting.com
@@ -91120,6 +91157,7 @@
 0.0.0.0 www.pagolly.com
 0.0.0.0 www.paicosoftware.com
 0.0.0.0 www.paifouth.com
+0.0.0.0 www.painfultransport.com
 0.0.0.0 www.painharmlesscommence.com
 0.0.0.0 www.paintoppo.com
 0.0.0.0 www.pairaffirmative.com
@@ -91990,6 +92028,7 @@
 0.0.0.0 www.publicunloadbags.com
 0.0.0.0 www.publishedlocal.com
 0.0.0.0 www.publishercounting.com
+0.0.0.0 www.publisherride.com
 0.0.0.0 www.pubopenaccess.org
 0.0.0.0 www.puccipix.co.uk
 0.0.0.0 www.puddingamass.com
@@ -93206,6 +93245,7 @@
 0.0.0.0 www.sjinternal.com
 0.0.0.0 www.skanfashion.uk
 0.0.0.0 www.skatestooped.com
+0.0.0.0 www.skatingbelonged.com
 0.0.0.0 www.skechersbrazil.com
 0.0.0.0 www.skecherswarszawa.com
 0.0.0.0 www.skeletonemail.com
@@ -93711,6 +93751,7 @@
 0.0.0.0 www.studenthelpdesk.nl
 0.0.0.0 www.studentstunnel.com
 0.0.0.0 www.studiografis.com
+0.0.0.0 www.studiorejoinedtrinity.com
 0.0.0.0 www.studytorestore.com
 0.0.0.0 www.studzip.com
 0.0.0.0 www.stuffedodiousmargin.com
@@ -94343,6 +94384,7 @@
 0.0.0.0 www.toogeepaun.com
 0.0.0.0 www.toolsbestbuy.top
 0.0.0.0 www.toolsdividedacquaint.com
+0.0.0.0 www.toothacheformer.com
 0.0.0.0 www.toothbrushconceitedsemi.com
 0.0.0.0 www.toothbrushlimbperformance.com
 0.0.0.0 www.toothcauldron.com
@@ -95529,6 +95571,7 @@
 0.0.0.0 www.yander.re
 0.0.0.0 www.yaomo520.com
 0.0.0.0 www.yashvik.com
+0.0.0.0 www.yazutopia.com
 0.0.0.0 www.yazyzw.com
 0.0.0.0 www.ybghlanzouv.com
 0.0.0.0 www.yc320.com
@@ -97014,6 +97057,7 @@
 0.0.0.0 y1.in.net
 0.0.0.0 y12ou.com
 0.0.0.0 y1jxiqds7v.com
+0.0.0.0 y2-games.net
 0.0.0.0 y2y2.com.de
 0.0.0.0 y3d3apip.buzz
 0.0.0.0 y41my.com
@@ -97145,6 +97189,7 @@
 0.0.0.0 yazaral20.net
 0.0.0.0 yazcash.com
 0.0.0.0 yazftdbwgmwj.com
+0.0.0.0 yazutopia.com
 0.0.0.0 yazyzw.com
 0.0.0.0 yb.chappinhobbler.com
 0.0.0.0 yb.indexesport.com
