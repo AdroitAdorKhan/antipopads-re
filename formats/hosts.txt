@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.297
 # Release: 297
-# Entries: 99,096
-# Updated: Tue, 24 Oct 23 08:12:24 +06
+# Entries: 99,097
+# Updated: Tue, 24 Oct 23 10:36:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -26829,6 +26829,7 @@
 0.0.0.0 fdubbogbean.guru
 0.0.0.0 fdvhisow.com
 0.0.0.0 fdyirusevt.com
+0.0.0.0 fdymjuczmo.com
 0.0.0.0 fe-matters.co.uk
 0.0.0.0 fe.junglyaspiree.com
 0.0.0.0 fe028f0519.com
