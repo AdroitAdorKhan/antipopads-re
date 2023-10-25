@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.298
 # Release: 298
-# Entries: 99,318
-# Updated: Wed, 25 Oct 23 10:26:35 +06
+# Entries: 99,326
+# Updated: Wed, 25 Oct 23 12:11:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6721,6 +6721,7 @@
 0.0.0.0 apcltlwndq.com
 0.0.0.0 apcoxnduhvu.com
 0.0.0.0 apcpaxwfej.com
+0.0.0.0 apcpel.ca
 0.0.0.0 apcrijournal.com
 0.0.0.0 apctrgkmtjku.com
 0.0.0.0 apdav.cc
@@ -23327,6 +23328,7 @@
 0.0.0.0 eatnotwork.com
 0.0.0.0 eaton-grp.com
 0.0.0.0 eaton-tubeaudio.com
+0.0.0.0 eatprayrun.net
 0.0.0.0 eatsbot.com
 0.0.0.0 eatsidebicep.com
 0.0.0.0 eatwinner.com
@@ -40123,6 +40125,7 @@
 0.0.0.0 jxofoyftjdo.xyz
 0.0.0.0 jxpjltwdeu.com
 0.0.0.0 jxpsgxmmdyc.com
+0.0.0.0 jxqxethowlcxgd.com
 0.0.0.0 jxsqbvyjjqmyd.com
 0.0.0.0 jxtjuhucyog.com
 0.0.0.0 jxtvsb.com
@@ -48449,6 +48452,7 @@
 0.0.0.0 mroceyookhkw.com
 0.0.0.0 mroehtuy.com
 0.0.0.0 mroqogotufe.com
+0.0.0.0 mrozaidi.net
 0.0.0.0 mrporoxy.com
 0.0.0.0 mrpsptpspesyg.com
 0.0.0.0 mrpztdpe.com
@@ -62139,6 +62143,7 @@
 0.0.0.0 revilerseptum.com
 0.0.0.0 revimedia.com
 0.0.0.0 revincenizam.com
+0.0.0.0 revistahistoria.net
 0.0.0.0 revistalairademorfeo.net
 0.0.0.0 revistasufletului.net
 0.0.0.0 revitalizedretreats.com
@@ -63425,6 +63430,7 @@
 0.0.0.0 rubinfamilyofwines.wine
 0.0.0.0 rubinfamilyvineyard.com
 0.0.0.0 rubinfamilyvineyards.com
+0.0.0.0 rubinvineyard.com
 0.0.0.0 rubisco.ru
 0.0.0.0 rubricagalah.guru
 0.0.0.0 rubstove.com
@@ -72610,6 +72616,7 @@
 0.0.0.0 theologicallimbs.com
 0.0.0.0 theologicalpresentation.com
 0.0.0.0 theologizerg.xyz
+0.0.0.0 theolsonfam.net
 0.0.0.0 theoltoozle.com
 0.0.0.0 theonecdn.com
 0.0.0.0 theonlinesalescompany.com
@@ -78589,6 +78596,7 @@
 0.0.0.0 vgoexclusive.com
 0.0.0.0 vgqvthulcwps.com
 0.0.0.0 vgsjapnjykapgq.com
+0.0.0.0 vgufdountma.com
 0.0.0.0 vgw35hwr4w6x.com
 0.0.0.0 vgwtjbeqfpesefn.xyz
 0.0.0.0 vgxrdgfwfkbkmx.com
