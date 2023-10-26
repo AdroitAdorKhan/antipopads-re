@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.299
 # Release: 299
-# Entries: 99,466
-# Updated: Thu, 26 Oct 23 04:11:57 +06
+# Entries: 99,469
+# Updated: Thu, 26 Oct 23 06:13:41 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -17230,6 +17230,7 @@
 0.0.0.0 comseznam.cz
 0.0.0.0 comsite.website
 0.0.0.0 comstackoverflow.com
+0.0.0.0 comsuperbisle.com
 0.0.0.0 comtecoonline.com
 0.0.0.0 comtightsaturdayi.comtilltucked.comwilfulpessimistic.comwww.profitabledisplaycontent.com
 0.0.0.0 comuneenergy.com
@@ -54067,6 +54068,7 @@
 0.0.0.0 outwoodeuropa.com
 0.0.0.0 outyanmegaom.com
 0.0.0.0 ouuewagi.com
+0.0.0.0 ouutgwdo.com
 0.0.0.0 ouveelsa.xyz
 0.0.0.0 ouxvgihpkjfkhs.xyz
 0.0.0.0 ouzavamt.com
@@ -71598,6 +71600,7 @@
 0.0.0.0 tebo0o2xw4.com
 0.0.0.0 tecaavdsy.com
 0.0.0.0 teccretenyc.cam
+0.0.0.0 tech-cluster.org
 0.0.0.0 tech-hunt.org
 0.0.0.0 tech-statiza.com
 0.0.0.0 techahv.com
