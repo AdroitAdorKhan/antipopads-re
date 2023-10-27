@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.301
 # Release: 301
-# Entries: 99,896
-# Updated: Sat, 28 Oct 23 02:24:37 +06
+# Entries: 99,898
+# Updated: Sat, 28 Oct 23 04:10:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10014,6 +10014,7 @@
 0.0.0.0 beatenunfinishedguarantee.com
 0.0.0.0 beatfantasy.co.in
 0.0.0.0 beatifulapplabland.com
+0.0.0.0 beatifulllhistory.com
 0.0.0.0 beatmakersoftware.net
 0.0.0.0 beatshustle.com
 0.0.0.0 beatsnumen.tech
@@ -36215,6 +36216,7 @@
 0.0.0.0 iendoo.com
 0.0.0.0 ienjoymusiccc.com
 0.0.0.0 ieoyptnech.com
+0.0.0.0 iepmpzvnbqejr.com
 0.0.0.0 iepprimaria.edu.mx
 0.0.0.0 iere.digital
 0.0.0.0 ietbwrkg.com
