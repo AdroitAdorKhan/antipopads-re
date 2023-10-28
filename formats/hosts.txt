@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.301
 # Release: 301
-# Entries: 99,898
-# Updated: Sat, 28 Oct 23 04:10:25 +06
+# Entries: 99,903
+# Updated: Sat, 28 Oct 23 06:07:59 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -41021,6 +41021,7 @@
 0.0.0.0 kflyxfwgbesi.com
 0.0.0.0 kfnobisd.xyz
 0.0.0.0 kfri.in
+0.0.0.0 kfsfvqjzq.com
 0.0.0.0 kfuwkmsbwtve.com
 0.0.0.0 kfxbxfvlepv.xyz
 0.0.0.0 kfxkxyb.com
@@ -54430,6 +54431,7 @@
 0.0.0.0 ovhodsalpm.com
 0.0.0.0 ovi-shop.com
 0.0.0.0 ovibospeseta.com
+0.0.0.0 ovjexghy.com
 0.0.0.0 ovlliiwtxgjlz.com
 0.0.0.0 ovmgitomw.com
 0.0.0.0 ovmhwiccikr.com
@@ -77030,6 +77032,7 @@
 0.0.0.0 umakov.group
 0.0.0.0 umararain.tech
 0.0.0.0 umbanwdiegg.xyz
+0.0.0.0 umbdyuvlcycii.com
 0.0.0.0 umbrellaomendear.com
 0.0.0.0 umcqtxnn.com
 0.0.0.0 umebella.com
@@ -82452,6 +82455,7 @@
 0.0.0.0 woncherish.com
 0.0.0.0 woncrawford.com
 0.0.0.0 wondefulapplend.com
+0.0.0.0 wonder-mix.info
 0.0.0.0 wonderandshinetv.info
 0.0.0.0 wonderbookkeeping.com
 0.0.0.0 wonderexports.com
@@ -99600,6 +99604,7 @@
 0.0.0.0 zmmeetsurvey.top
 0.0.0.0 zmmeetyourmate.top
 0.0.0.0 zmmoneysurvey.top
+0.0.0.0 zmpqfjkxbdygwu.com
 0.0.0.0 zmprizesurvey.top
 0.0.0.0 zmprizzesurvey.top
 0.0.0.0 zmprofitabilitysurvey.top
