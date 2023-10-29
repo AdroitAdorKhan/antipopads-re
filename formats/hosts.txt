@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.302
 # Release: 302
-# Entries: 100,345
-# Updated: Sun, 29 Oct 23 12:08:27 +06
+# Entries: 100,354
+# Updated: Sun, 29 Oct 23 14:07:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1151,6 +1151,7 @@
 0.0.0.0 34e3ea7b64.c39ed4de0b.com
 0.0.0.0 34einfo.site
 0.0.0.0 34pavouhj7.com
+0.0.0.0 3510.info
 0.0.0.0 35521d3f25.98a54df250.com
 0.0.0.0 35593c.com
 0.0.0.0 35624.fm
@@ -7534,6 +7535,7 @@
 0.0.0.0 artinit.io
 0.0.0.0 artisanalcode.dev
 0.0.0.0 artisanblend.in
+0.0.0.0 artist2sense.com
 0.0.0.0 artistbazaar.live
 0.0.0.0 artistdavidb.com
 0.0.0.0 artisticbitten.com
@@ -14312,6 +14314,7 @@
 0.0.0.0 carpettraders8.com
 0.0.0.0 carpi3fnusbetgu5lus.com
 0.0.0.0 carradine.xyz
+0.0.0.0 carrd.ci
 0.0.0.0 carredwithblao.xyz
 0.0.0.0 carrellsubdit.com
 0.0.0.0 carrentalinc.net
@@ -29673,6 +29676,7 @@
 0.0.0.0 fzfqjmjrrnex.com
 0.0.0.0 fzfxqjilrzvdw.com
 0.0.0.0 fzgyvbrmwzho.com
+0.0.0.0 fzkqshbim.com
 0.0.0.0 fzommizpo.com
 0.0.0.0 fztmn.top
 0.0.0.0 g-onion.net
@@ -37342,6 +37346,7 @@
 0.0.0.0 inftgvcytzzt.com
 0.0.0.0 infuseawee.guru
 0.0.0.0 infusesrhyptic.com
+0.0.0.0 ing-betaalverzoek.com
 0.0.0.0 ingarelentcleave.com
 0.0.0.0 ingasideline.com
 0.0.0.0 ingcuentasnaranja.online
@@ -80669,6 +80674,7 @@
 0.0.0.0 vvrbjtjxmlgcd.xyz
 0.0.0.0 vvsesfeunlu.com
 0.0.0.0 vvsnbhodsys.com
+0.0.0.0 vvsoeupkeovd.com
 0.0.0.0 vvsvnmrqvcvrie.com
 0.0.0.0 vvtvvrgbmd.com
 0.0.0.0 vvuefbfj.com
@@ -83634,6 +83640,7 @@
 0.0.0.0 www.2bliveperu.com
 0.0.0.0 www.2bmusicpro.com
 0.0.0.0 www.2comcom.com
+0.0.0.0 www.2dehands.ing-betaalverzoek.com
 0.0.0.0 www.2hsgeteq1.com
 0.0.0.0 www.2jahbjsdasd2.monster
 0.0.0.0 www.2jahsjdasd22.monster
@@ -83662,6 +83669,7 @@
 0.0.0.0 www.3381.ma
 0.0.0.0 www.33ywnrqqx.com
 0.0.0.0 www.345a6.com
+0.0.0.0 www.3510.info
 0.0.0.0 www.35593c.com
 0.0.0.0 www.360-180.net
 0.0.0.0 www.366xsw.com
@@ -92294,6 +92302,7 @@
 0.0.0.0 www.panibiz.com
 0.0.0.0 www.panshaoxiang.com
 0.0.0.0 www.pantdentaldonate.com
+0.0.0.0 www.pantherculture.com
 0.0.0.0 www.panthor.org
 0.0.0.0 www.papatyafilmizlesene.com
 0.0.0.0 www.papaveri.online
