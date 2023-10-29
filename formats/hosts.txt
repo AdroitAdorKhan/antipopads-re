@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.10.302
-# Release: 302
-# Entries: 100,453
-# Updated: Sun, 29 Oct 23 22:08:59 +06
+# Version: 23.10.303
+# Release: 303
+# Entries: 100,492
+# Updated: Mon, 30 Oct 23 00:27:53 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5047,6 +5047,7 @@
 0.0.0.0 air-bo.com
 0.0.0.0 air-max-270.us.com
 0.0.0.0 air-protected.com
+0.0.0.0 air-slovenia.com
 0.0.0.0 air8cushion.co.uk
 0.0.0.0 airairgu.com
 0.0.0.0 airavat.tech
@@ -9155,6 +9156,7 @@
 0.0.0.0 baboyita.net
 0.0.0.0 babramon.info
 0.0.0.0 babssata.com
+0.0.0.0 babujiconventschool.com
 0.0.0.0 babun.club
 0.0.0.0 baby360.ru
 0.0.0.0 baby8kreal.com
@@ -9810,6 +9812,7 @@
 0.0.0.0 bayford-adrian.com
 0.0.0.0 bayirksrap.com
 0.0.0.0 baylnk.com
+0.0.0.0 baynach.com
 0.0.0.0 bayonnenj.biz
 0.0.0.0 bayoubarbie.us
 0.0.0.0 baypops.com
@@ -11097,6 +11100,7 @@
 0.0.0.0 bijwehk.com
 0.0.0.0 bikama.com
 0.0.0.0 bikamh.com
+0.0.0.0 bikasi.space
 0.0.0.0 bike-bosch.com
 0.0.0.0 bike-projekt.com
 0.0.0.0 bikeaccidents.tech
@@ -11760,6 +11764,7 @@
 0.0.0.0 blueflagmagazine.com
 0.0.0.0 bluegoldsolutionsinc.com
 0.0.0.0 bluegrasscannabistherapy.com
+0.0.0.0 bluegrassdokoran.info
 0.0.0.0 bluegrassmama.com
 0.0.0.0 bluegrassserenity.com
 0.0.0.0 bluegreaser.com
@@ -12609,6 +12614,7 @@
 0.0.0.0 brasthingut.com
 0.0.0.0 bratislava.club
 0.0.0.0 bratislavaburlesque.com
+0.0.0.0 bratislavastag.fun
 0.0.0.0 brattyogor.com
 0.0.0.0 brava.fit
 0.0.0.0 bravecare.biz
@@ -14321,6 +14327,7 @@
 0.0.0.0 carpenterexplorerdemolition.com
 0.0.0.0 carpentersingurgaon.in
 0.0.0.0 carpenterspal.com
+0.0.0.0 carpentio.com
 0.0.0.0 carperspiration.com
 0.0.0.0 carpetcleaningreno.net
 0.0.0.0 carpetliquidation.com
@@ -15597,6 +15604,7 @@
 0.0.0.0 chiddennibs.digital
 0.0.0.0 chiefcover.net
 0.0.0.0 chieldsaine.com
+0.0.0.0 chiesipharma.org
 0.0.0.0 chiesirarecare.com
 0.0.0.0 chigua5.com
 0.0.0.0 chihak.us
@@ -20004,6 +20012,7 @@
 0.0.0.0 ddylxccl.xyz
 0.0.0.0 ddzm3.com
 0.0.0.0 de-airdrop.net
+0.0.0.0 de-amor.casa
 0.0.0.0 de-ner-mi-nis4.info
 0.0.0.0 de-nis-ner-mi-5.info
 0.0.0.0 de0ddea259.2a710318ec.com
@@ -22427,6 +22436,7 @@
 0.0.0.0 dowtyler.com
 0.0.0.0 dowygrrxtp.com
 0.0.0.0 doxiescramble.website
+0.0.0.0 doxocard.com
 0.0.0.0 doxycyclineonlinerx.net
 0.0.0.0 doydplivplr.com
 0.0.0.0 doyfama.net
@@ -22458,6 +22468,7 @@
 0.0.0.0 dpjlvfrasllm.com
 0.0.0.0 dplck.com
 0.0.0.0 dplconsulting.ca
+0.0.0.0 dplgtjck.com
 0.0.0.0 dplwsmpvwys.com
 0.0.0.0 dpmawsiaaep.com
 0.0.0.0 dpmj.law
@@ -29079,6 +29090,7 @@
 0.0.0.0 freesyllabus.org
 0.0.0.0 freetheync.com
 0.0.0.0 freetrckr.com
+0.0.0.0 freevideo.chat
 0.0.0.0 freewayadventureexactly.com
 0.0.0.0 freewaylogisticscourier.com
 0.0.0.0 freeworkspa.it
@@ -29532,6 +29544,7 @@
 0.0.0.0 furiosocomique.com
 0.0.0.0 furiousfar.com
 0.0.0.0 furivaedangler.digital
+0.0.0.0 furkamed.com
 0.0.0.0 furlsstealbilk.com
 0.0.0.0 furmark.site
 0.0.0.0 furmnas.com
@@ -32175,6 +32188,7 @@
 0.0.0.0 grainfarm.in
 0.0.0.0 grainforbrains.us
 0.0.0.0 grainger.top
+0.0.0.0 grainned.com
 0.0.0.0 grainsgranny.com
 0.0.0.0 grainsprogenymonarchy.com
 0.0.0.0 grainsslaughter.com
@@ -35509,6 +35523,7 @@
 0.0.0.0 hrtennaarn.com
 0.0.0.0 hruby.software
 0.0.0.0 hruwfyovqa.com
+0.0.0.0 hrvatskazasigurnetehonlogije.com
 0.0.0.0 hrvfrioaudsxk.com
 0.0.0.0 hrxjqyxvdqidpv.com
 0.0.0.0 hry-zadarmo.com
@@ -38902,6 +38917,7 @@
 0.0.0.0 jakubptr.com
 0.0.0.0 jakubsimkovic.com
 0.0.0.0 jakubzelenak.com
+0.0.0.0 jalapenotree.com
 0.0.0.0 jaleepsorous.website
 0.0.0.0 jaletemetia.com
 0.0.0.0 jalewaads.com
@@ -38937,6 +38953,7 @@
 0.0.0.0 jamuuratv.in
 0.0.0.0 jan-bync.com
 0.0.0.0 jan-legal.com
+0.0.0.0 janakirschner.com
 0.0.0.0 janamtamil.tv
 0.0.0.0 janapadnews.in
 0.0.0.0 janaraksha.co.in
@@ -45141,6 +45158,7 @@
 0.0.0.0 ludmilalorena.com.br
 0.0.0.0 ludo2way.com
 0.0.0.0 ludocsbho.com
+0.0.0.0 ludvikm.dev
 0.0.0.0 ludwigreseise.tech
 0.0.0.0 lueticajuga.com
 0.0.0.0 luffic.com
@@ -45973,6 +45991,7 @@
 0.0.0.0 man2ch5836dester.com
 0.0.0.0 manaforge.online
 0.0.0.0 manage-appleid.info
+0.0.0.0 manage-appleid.support
 0.0.0.0 manage-applewallet.com
 0.0.0.0 manageamxegifts.com
 0.0.0.0 manageids.support
@@ -48087,6 +48106,7 @@
 0.0.0.0 mlnkagdobhakj.com
 0.0.0.0 mlnkfoqfk.com
 0.0.0.0 mlnsetyxcut.com
+0.0.0.0 mlnybwnbwzhiy.com
 0.0.0.0 mlobursdbc.com
 0.0.0.0 mlopezdaneri.guru
 0.0.0.0 mlopezdaneri.org
@@ -48157,6 +48177,7 @@
 0.0.0.0 mmudlmldc.com
 0.0.0.0 mmuovrobta.com
 0.0.0.0 mmuwbwyispryr.com
+0.0.0.0 mmwllp.ca
 0.0.0.0 mmwomwbrsero.xyz
 0.0.0.0 mmworld.info
 0.0.0.0 mmxipdtcnvfctf.com
@@ -50223,6 +50244,7 @@
 0.0.0.0 nazadtq.com
 0.0.0.0 nazahrady.com
 0.0.0.0 nazaninnaghavi.ir
+0.0.0.0 nazdarthegame.com
 0.0.0.0 nazifmalhi.tech
 0.0.0.0 nazolncubha.com
 0.0.0.0 nazornavyuka.dev
@@ -51842,6 +51864,7 @@
 0.0.0.0 nowcashforgold.com
 0.0.0.0 nowhaphopi.com
 0.0.0.0 nowhereunbox.com
+0.0.0.0 nowhyprod.com
 0.0.0.0 nowivegotyou.co.uk
 0.0.0.0 nowledco.work
 0.0.0.0 nowlooking.net
@@ -53603,6 +53626,7 @@
 0.0.0.0 onlinesexchat.live
 0.0.0.0 onlineshopping.website
 0.0.0.0 onlineshops.guide
+0.0.0.0 onlinetbi.in
 0.0.0.0 onlinetrhovisko.sk
 0.0.0.0 onlineuserprotector.com
 0.0.0.0 onlinevisa.travel
@@ -53705,6 +53729,7 @@
 0.0.0.0 onwardnosebleedcommon.com
 0.0.0.0 onwardrespirationcommandment.com
 0.0.0.0 onwasrv.com
+0.0.0.0 onwebinar.com
 0.0.0.0 onwekdebd.xyz
 0.0.0.0 onwin702.com
 0.0.0.0 onxatutor.com
@@ -56330,6 +56355,7 @@
 0.0.0.0 peterejtel.com
 0.0.0.0 petergarajart.com
 0.0.0.0 peterklaudiny.com
+0.0.0.0 petermunka.com
 0.0.0.0 petersapartment.com
 0.0.0.0 petersmatana.online
 0.0.0.0 peterwooster.ca
@@ -57435,6 +57461,7 @@
 0.0.0.0 plasticsloop.org
 0.0.0.0 plastleislike.com
 0.0.0.0 plastrix.in
+0.0.0.0 plataformasuperior.com
 0.0.0.0 platatarjeta.mx
 0.0.0.0 platebhmwfndajq.com
 0.0.0.0 plateriaramirez.com.co
@@ -57468,6 +57495,7 @@
 0.0.0.0 play5play1.com
 0.0.0.0 playairplanerighty.com
 0.0.0.0 playamopartners.com
+0.0.0.0 playapreciosa.com
 0.0.0.0 playaroasters.com
 0.0.0.0 playbook88a2.com
 0.0.0.0 playboyconformhusband.com
@@ -58082,6 +58110,7 @@
 0.0.0.0 pornlemon.com
 0.0.0.0 pornloli.com
 0.0.0.0 pornlovo.co
+0.0.0.0 porno.archi
 0.0.0.0 pornoegg.com
 0.0.0.0 pornofilmspremium.com
 0.0.0.0 pornofolders.com
@@ -68128,12 +68157,14 @@
 0.0.0.0 slouchat.online
 0.0.0.0 sloughybucayo.com
 0.0.0.0 slourenrib.top
+0.0.0.0 slovak-wells.com
 0.0.0.0 slovakcompanyformation.com
 0.0.0.0 slovakhomeschool.online
 0.0.0.0 slovakiank9.com
 0.0.0.0 slovakiaopen.online
 0.0.0.0 slovakscombite.guru
 0.0.0.0 slovaktransfer.com
+0.0.0.0 slovakwells.com
 0.0.0.0 slovenko.pizza
 0.0.0.0 slovenskakolibajasna.com
 0.0.0.0 slovensko.sl
@@ -69495,6 +69526,7 @@
 0.0.0.0 spreau.com
 0.0.0.0 spreebogbean.com
 0.0.0.0 sprengaivr.digital
+0.0.0.0 sprevadzanie.space
 0.0.0.0 sprightlywellness.com
 0.0.0.0 spring-haven.com
 0.0.0.0 springformindia.com
@@ -69981,6 +70013,7 @@
 0.0.0.0 stav-amazonaslocal.com
 0.0.0.0 stav.market
 0.0.0.0 stavbysatan.com
+0.0.0.0 stavebneprace.top
 0.0.0.0 stavebni-chemie.com
 0.0.0.0 stavebniny.top
 0.0.0.0 stavebninysekule.com
@@ -73571,6 +73604,7 @@
 0.0.0.0 thepropertico.com
 0.0.0.0 theprosperagroup.net
 0.0.0.0 theproxisright.com
+0.0.0.0 theptagency.co.uk
 0.0.0.0 thepubertyproject.com
 0.0.0.0 thepubertyproject.org
 0.0.0.0 thepuppytherapist.com
@@ -76159,6 +76193,7 @@
 0.0.0.0 trusted-click-host.com
 0.0.0.0 trusted.website
 0.0.0.0 trustedadultsitting.us
+0.0.0.0 trustedbanana.com
 0.0.0.0 trustedcpmrevenue.com
 0.0.0.0 trustedgatetocontent.com
 0.0.0.0 trustedpeach.com
@@ -77000,6 +77035,7 @@
 0.0.0.0 ub.zekedisco.com
 0.0.0.0 ub2023.org
 0.0.0.0 ubackup.ca
+0.0.0.0 ubadzufyfjcd.com
 0.0.0.0 ubantukylin.com
 0.0.0.0 ubbfpm.com
 0.0.0.0 ubboke.com
@@ -79330,6 +79366,7 @@
 0.0.0.0 veobeitkalson.info
 0.0.0.0 veosgrupon.xyz
 0.0.0.0 vepornhd.com
+0.0.0.0 veprovehody.com
 0.0.0.0 veqhmylw.com
 0.0.0.0 ver-comic-porno.com
 0.0.0.0 veracausarealty.com
@@ -99094,6 +99131,7 @@
 0.0.0.0 youngesthumorshaving.com
 0.0.0.0 youngestsow.com
 0.0.0.0 youngfootballtalents.com
+0.0.0.0 youngfootballtalents.store
 0.0.0.0 youngorganiser.online
 0.0.0.0 youngspectator.com
 0.0.0.0 youngsterbusinessman.com
@@ -99741,6 +99779,7 @@
 0.0.0.0 zdrav-zajtrk.com
 0.0.0.0 zdrava-vyziva-raciolka.com
 0.0.0.0 zdravje-synergy.net
+0.0.0.0 zdravoachutne.info
 0.0.0.0 zdsaegvrgrsaom.com
 0.0.0.0 zdsfnagupwkztl.com
 0.0.0.0 zdsiwtid.com
