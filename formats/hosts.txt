@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.10.304
 # Release: 304
-# Entries: 100,850
-# Updated: Tue, 31 Oct 23 00:31:51 +06
+# Entries: 100,885
+# Updated: Tue, 31 Oct 23 02:10:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -364,6 +364,7 @@
 0.0.0.0 133xto.to
 0.0.0.0 1352014.xyz
 0.0.0.0 1358785.com
+0.0.0.0 1362.yt
 0.0.0.0 13630gmail.com
 0.0.0.0 136ffb81df.df253f3b96.com
 0.0.0.0 1374.comwww.844644.com
@@ -386,6 +387,7 @@
 0.0.0.0 14cpoff22.de
 0.0.0.0 14fefmsjd.de
 0.0.0.0 14i8trbbx4.com
+0.0.0.0 1506.yt
 0.0.0.0 150cambridgesideplace.com
 0.0.0.0 150csplace.com
 0.0.0.0 152media.com
@@ -399,6 +401,7 @@
 0.0.0.0 15rc.net
 0.0.0.0 16-merchant-s.com
 0.0.0.0 1600jk.com
+0.0.0.0 1604.yt
 0.0.0.0 16066bf4a6.1c7154dd67.com
 0.0.0.0 1608.yt
 0.0.0.0 161286.com
@@ -433,6 +436,7 @@
 0.0.0.0 185.ooo
 0.0.0.0 1851qq.com
 0.0.0.0 1851rr.com
+0.0.0.0 1852.yt
 0.0.0.0 186113dbe4.com
 0.0.0.0 186dswl.com
 0.0.0.0 1888d2c.com
@@ -853,6 +857,7 @@
 0.0.0.0 254b27c125.2859933b6d.com
 0.0.0.0 2567ya.com
 0.0.0.0 256x192.com
+0.0.0.0 2571.yt
 0.0.0.0 257y.cc
 0.0.0.0 25814s.com
 0.0.0.0 258pcf.com
@@ -864,6 +869,7 @@
 0.0.0.0 25obpfr.de
 0.0.0.0 25v7.com
 0.0.0.0 2621511.com
+0.0.0.0 2630.yt
 0.0.0.0 263128.com
 0.0.0.0 2639iqjkl.de
 0.0.0.0 265e474e8c.660cba7db1.com
@@ -1096,6 +1102,7 @@
 0.0.0.0 31396.info
 0.0.0.0 313rrr.com
 0.0.0.0 314gqd3es.de
+0.0.0.0 3158.yt
 0.0.0.0 316feq0nc.de
 0.0.0.0 3174dad139.com
 0.0.0.0 3184.yt
@@ -1192,8 +1199,10 @@
 0.0.0.0 367tv.com
 0.0.0.0 369hezi.com
 0.0.0.0 36io.co
+0.0.0.0 3724.yt
 0.0.0.0 3760k.com
 0.0.0.0 3761fcd24ef9281f5.com
+0.0.0.0 3762.tf
 0.0.0.0 3762626.com
 0.0.0.0 3782588.com
 0.0.0.0 3796.in
@@ -1414,12 +1423,15 @@
 0.0.0.0 469f8f0b89.com
 0.0.0.0 46f33ab625.b97482f4b9.com
 0.0.0.0 47-ecommercet.com
+0.0.0.0 4735.tf
 0.0.0.0 4756.wf
 0.0.0.0 47riu.space
+0.0.0.0 48.tf
 0.0.0.0 480areacode.org
 0.0.0.0 48116b.com
 0.0.0.0 4821.yt
 0.0.0.0 482199.comwww.000779.com86658.comwww.844644.com
+0.0.0.0 4825.yt
 0.0.0.0 484222w.com
 0.0.0.0 486528289.cn
 0.0.0.0 486bb.com
@@ -1622,6 +1634,7 @@
 0.0.0.0 5345is.com
 0.0.0.0 534zh.com
 0.0.0.0 535666h.com
+0.0.0.0 5370.yt
 0.0.0.0 53887.comwww.601122.com
 0.0.0.0 539trdzkf.com
 0.0.0.0 53baefdba7.5da55619e0.com
@@ -1670,6 +1683,7 @@
 0.0.0.0 55yy2.com
 0.0.0.0 561010.com
 0.0.0.0 562i7aqkxu.com
+0.0.0.0 5641.yt
 0.0.0.0 567bets10.com
 0.0.0.0 56bfc388bf12.com
 0.0.0.0 56hui.tech
@@ -1806,6 +1820,7 @@
 0.0.0.0 5xlbeauties.com
 0.0.0.0 6-rbc.com
 0.0.0.0 60.xml.wowcon.net
+0.0.0.0 60.yt
 0.0.0.0 6004yebew.com
 0.0.0.0 600z.com
 0.0.0.0 601122.com
@@ -1840,6 +1855,7 @@
 0.0.0.0 62793c.co
 0.0.0.0 62805b.com
 0.0.0.0 6283.yt
+0.0.0.0 6284.yt
 0.0.0.0 629cgw10.cc
 0.0.0.0 62ah.com
 0.0.0.0 62b70ac32d4614b.com
@@ -1869,6 +1885,7 @@
 0.0.0.0 65010191910guide-sgstoping.fr
 0.0.0.0 65446a.com
 0.0.0.0 65535.la
+0.0.0.0 6581.yt
 0.0.0.0 65mjvw6i1z.com
 0.0.0.0 65thz.com
 0.0.0.0 65vk1fba34.com
@@ -1891,6 +1908,7 @@
 0.0.0.0 66thg.com
 0.0.0.0 66vvyy.com
 0.0.0.0 67293b.com
+0.0.0.0 6732.yt
 0.0.0.0 6745jj.com
 0.0.0.0 677555.com
 0.0.0.0 67812.comwww.677555.com
@@ -1903,6 +1921,7 @@
 0.0.0.0 684ck.com
 0.0.0.0 684nn.com
 0.0.0.0 685678.comwww.677555.com
+0.0.0.0 6857.yt
 0.0.0.0 6868.site
 0.0.0.0 688de7b3822de.com
 0.0.0.0 68amt53h.de
@@ -2025,6 +2044,7 @@
 0.0.0.0 70b39d22e26f.org
 0.0.0.0 70fn.com
 0.0.0.0 710e779685.b89d654db3.com
+0.0.0.0 7134.yt
 0.0.0.0 714a39ef94.086f39952a.com
 0.0.0.0 71692fai4cc0.com
 0.0.0.0 71a30cae934e.com
@@ -2042,6 +2062,7 @@
 0.0.0.0 73-j-pinnable.com
 0.0.0.0 7303.comwww.900hk.com
 0.0.0.0 73057e1206.com
+0.0.0.0 7352.yt
 0.0.0.0 735454.org
 0.0.0.0 735a0662e8.ff9ffc838f.com
 0.0.0.0 736db92639.0abdab4d27.com
@@ -2055,6 +2076,7 @@
 0.0.0.0 7480b.com
 0.0.0.0 74c1faa635.f3a173b897.com
 0.0.0.0 74ibcasino.xyz
+0.0.0.0 7543.yt
 0.0.0.0 755.fun
 0.0.0.0 75720rcz.cn
 0.0.0.0 757areacode.com
@@ -2063,6 +2085,7 @@
 0.0.0.0 75ky.app
 0.0.0.0 760areacode.org
 0.0.0.0 7639.wf
+0.0.0.0 7658.tf
 0.0.0.0 7662ljdeo.com
 0.0.0.0 76709876806.click
 0.0.0.0 769292.com
@@ -2075,6 +2098,7 @@
 0.0.0.0 770544.com
 0.0.0.0 7710458.ru
 0.0.0.0 7713.wf
+0.0.0.0 7720.tf
 0.0.0.0 7765.in
 0.0.0.0 77667669052.click
 0.0.0.0 777-7777.ca
@@ -2109,6 +2133,7 @@
 0.0.0.0 79358.ma
 0.0.0.0 7960.wf
 0.0.0.0 796fs.com
+0.0.0.0 7977.tf
 0.0.0.0 7978dc24e7.11f1b925c4.com
 0.0.0.0 7979xx.com
 0.0.0.0 7994.comwww.601122.com
@@ -2205,6 +2230,7 @@
 0.0.0.0 80169363175.click
 0.0.0.0 8020.group
 0.0.0.0 803009.com
+0.0.0.0 8053.yt
 0.0.0.0 807888.comwww.601122.com
 0.0.0.0 8080102.comwww.601122.com
 0.0.0.0 8088ky.app
@@ -2225,6 +2251,7 @@
 0.0.0.0 823bc1a6cd3f1657.com
 0.0.0.0 82448dceaaa13034.com
 0.0.0.0 826dfb3390.5dec6805a0.com
+0.0.0.0 8275.yt
 0.0.0.0 827724.com
 0.0.0.0 827fa7c868b4b.com
 0.0.0.0 82902m.xyz
@@ -2241,6 +2268,7 @@
 0.0.0.0 83ky.app
 0.0.0.0 83ky.cc
 0.0.0.0 83u7q.top
+0.0.0.0 8413.yt
 0.0.0.0 8420.wf
 0.0.0.0 844644.com
 0.0.0.0 8454.comwww.844644.com
@@ -2253,8 +2281,11 @@
 0.0.0.0 84thc.com
 0.0.0.0 85-20.com
 0.0.0.0 85.ma
+0.0.0.0 8504.yt
+0.0.0.0 8520.yt
 0.0.0.0 8547.wf
 0.0.0.0 855122c.com
+0.0.0.0 8576.yt
 0.0.0.0 85c485513f.com
 0.0.0.0 85ul.cn
 0.0.0.0 862afc8f42dd4d6ad04ecc7568a34b34.com
@@ -5432,6 +5463,7 @@
 0.0.0.0 alfredandmcfarland.com
 0.0.0.0 alfredgeorgehole.com
 0.0.0.0 alfredpoleshipwreck.com
+0.0.0.0 alfredvariablecavalry.com
 0.0.0.0 alfworldwidecorpinc.online
 0.0.0.0 algardevehme.com
 0.0.0.0 algarvelakeside.net
@@ -17882,6 +17914,7 @@
 0.0.0.0 contributorshaveangry.com
 0.0.0.0 contributortagseaweed.com
 0.0.0.0 contried.com
+0.0.0.0 contrivancefrontage.com
 0.0.0.0 contrivancepalette.com
 0.0.0.0 contrivedflowchilly.com
 0.0.0.0 contrivedpalgorgeous.com
@@ -33173,6 +33206,7 @@
 0.0.0.0 gzmztao.com
 0.0.0.0 gzsqsm.com
 0.0.0.0 gztejx.com
+0.0.0.0 gzvbyfibxlxqwq.com
 0.0.0.0 gzwotvyjejpbxc.com
 0.0.0.0 gzwtamtkf.com
 0.0.0.0 h--m.net
@@ -35228,6 +35262,7 @@
 0.0.0.0 hooppuk.uk
 0.0.0.0 hoopstrat.site
 0.0.0.0 hooptaik.net
+0.0.0.0 hoorayprescribenavigate.com
 0.0.0.0 hoorayrazor.com
 0.0.0.0 hoosgowhandbow.com
 0.0.0.0 hootexcitingprofound.com
