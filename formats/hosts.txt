@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.306
 # Release: 306
-# Entries: 101,327
-# Updated: Thu, 02 Nov 23 00:20:43 +06
+# Entries: 101,332
+# Updated: Thu, 02 Nov 23 02:11:53 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1887,6 +1887,7 @@
 0.0.0.0 65446a.com
 0.0.0.0 65535.la
 0.0.0.0 6581.yt
+0.0.0.0 65ma0ff.com
 0.0.0.0 65mjvw6i1z.com
 0.0.0.0 65thz.com
 0.0.0.0 65vk1fba34.com
@@ -34033,6 +34034,7 @@
 0.0.0.0 hct-firetech.in
 0.0.0.0 hctgxobpcyjlm.com
 0.0.0.0 hctiqywqshbpjcc.com
+0.0.0.0 hcukkqux.com
 0.0.0.0 hcuukwgpjiykapf.xyz
 0.0.0.0 hcvmaellmyyecn.com
 0.0.0.0 hcwmnryoyf.com
@@ -51812,6 +51814,7 @@
 0.0.0.0 nizationsuch.com
 0.0.0.0 nj.coyotesgangan.com
 0.0.0.0 njalla.ma
+0.0.0.0 njbaveru.com
 0.0.0.0 njbison.us
 0.0.0.0 njfwjnpuq.com
 0.0.0.0 njhyut.site
@@ -52858,6 +52861,7 @@
 0.0.0.0 nythemorewasth.xyz
 0.0.0.0 nytrng.com
 0.0.0.0 nyutkikha.info
+0.0.0.0 nyxcdxvpzpj.com
 0.0.0.0 nyxinstitute.org
 0.0.0.0 nz.amazulutrishna.com
 0.0.0.0 nz.mottlerginner.com
@@ -77487,6 +77491,7 @@
 0.0.0.0 twbaby1007.net
 0.0.0.0 twbaby530.net
 0.0.0.0 twbaby5366.net
+0.0.0.0 twbaby555.net
 0.0.0.0 twbhthewaybackhome.space
 0.0.0.0 twbialxclsvcgu.com
 0.0.0.0 twcoin.io
