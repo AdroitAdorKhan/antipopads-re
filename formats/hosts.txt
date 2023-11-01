@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.11.305
-# Release: 305
-# Entries: 101,322
-# Updated: Wed, 01 Nov 23 22:17:00 +06
+# Version: 23.11.306
+# Release: 306
+# Entries: 101,327
+# Updated: Thu, 02 Nov 23 00:20:43 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8334,6 +8334,7 @@
 0.0.0.0 atxngifmp.com
 0.0.0.0 atxretrocomputing.org
 0.0.0.0 atxzajpatki.com
+0.0.0.0 atyrsldq.com
 0.0.0.0 atytalqqcup.com
 0.0.0.0 atzekromchan.com
 0.0.0.0 auaryvvhjabggly.com
@@ -24774,6 +24775,7 @@
 0.0.0.0 ellmtlvlpihr.com
 0.0.0.0 ellorafestival.in
 0.0.0.0 ellpaniers.com
+0.0.0.0 elltheprecise.org
 0.0.0.0 elmamlaka.cafe
 0.0.0.0 elmarai.net
 0.0.0.0 elmaroc.net
@@ -38013,6 +38015,7 @@
 0.0.0.0 instagramvk.com
 0.0.0.0 instalacie.online
 0.0.0.0 instalacioncargadorcochejerez.com
+0.0.0.0 install-check.com
 0.0.0.0 install1nstall1.com
 0.0.0.0 installapp.info
 0.0.0.0 installationmidterm.com
@@ -53272,6 +53275,7 @@
 0.0.0.0 odkup-avtomobila.com
 0.0.0.0 odlozeno.com
 0.0.0.0 odnaknopka.ru
+0.0.0.0 odnaturedfe.org
 0.0.0.0 odnkotkfipcnvc.com
 0.0.0.0 odnsarlwml.com
 0.0.0.0 odocc.com
@@ -61346,6 +61350,7 @@
 0.0.0.0 quantitypatiently.com
 0.0.0.0 quantitysharplymaturity.com
 0.0.0.0 quantomcoding.com
+0.0.0.0 quantoz.xyz
 0.0.0.0 quantum-analytica.com
 0.0.0.0 quantum-ecosystem.online
 0.0.0.0 quantum-legal.online
