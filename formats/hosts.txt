@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.305
 # Release: 305
-# Entries: 101,318
-# Updated: Wed, 01 Nov 23 18:10:33 +06
+# Entries: 101,319
+# Updated: Wed, 01 Nov 23 20:18:01 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -80061,6 +80061,7 @@
 0.0.0.0 vendomat.online
 0.0.0.0 vendomejewellery.com
 0.0.0.0 vendorspro.org
+0.0.0.0 vendos.tech
 0.0.0.0 vendulalensmith.com
 0.0.0.0 venedors.com
 0.0.0.0 venedorz.com
