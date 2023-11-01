@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.305
 # Release: 305
-# Entries: 101,165
-# Updated: Wed, 01 Nov 23 10:12:32 +06
+# Entries: 101,203
+# Updated: Wed, 01 Nov 23 12:09:17 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -276,6 +276,7 @@
 0.0.0.0 111supjavcom.xyz
 0.0.0.0 112.events
 0.0.0.0 112170bffe.com
+0.0.0.0 1122334455.cc
 0.0.0.0 114graph.com
 0.0.0.0 114la8.com
 0.0.0.0 114la9.com
@@ -7353,6 +7354,7 @@
 0.0.0.0 arfacqwifvp.com
 0.0.0.0 arfbiqgapb.com
 0.0.0.0 arflyfishing.online
+0.0.0.0 arfoto.art
 0.0.0.0 argalsunclay.space
 0.0.0.0 argeersarchfoe.com
 0.0.0.0 argella.us
@@ -8043,6 +8045,7 @@
 0.0.0.0 astrotimings.com
 0.0.0.0 astrovashist.com
 0.0.0.0 astrovastubyrashmi.in
+0.0.0.0 astrumtrace.com
 0.0.0.0 astscolipedeor.com
 0.0.0.0 astspewpaor.com
 0.0.0.0 astumbreonon.com
@@ -8625,6 +8628,7 @@
 0.0.0.0 av.tapemanfoxship.com
 0.0.0.0 av142.xyz
 0.0.0.0 av1ator-game-kz.online
+0.0.0.0 av20miaopai.xyz
 0.0.0.0 av3y.yt
 0.0.0.0 av7797.com
 0.0.0.0 av999j.com
@@ -9114,6 +9118,7 @@
 0.0.0.0 b2bsaas.agency
 0.0.0.0 b2bsupport.agency
 0.0.0.0 b2o6b39taril.com
+0.0.0.0 b2w.law
 0.0.0.0 b2world.in.net
 0.0.0.0 b2wrld.com
 0.0.0.0 b2y33.com
@@ -9239,6 +9244,7 @@
 0.0.0.0 babyishmate.pro
 0.0.0.0 babykm.top
 0.0.0.0 babyloncup.com
+0.0.0.0 babymasaze.online
 0.0.0.0 babynaz.xyz
 0.0.0.0 babyniceshark.com
 0.0.0.0 babysitterdeadlockjuly.com
@@ -11037,6 +11043,7 @@
 0.0.0.0 biblesausage.com
 0.0.0.0 bibliaquantica.com
 0.0.0.0 biblicalcharades.com
+0.0.0.0 biblickaskola.org
 0.0.0.0 bibliothequeserignesouhaibou.com
 0.0.0.0 bibobaja.com
 0.0.0.0 bibtu.com
@@ -12074,6 +12081,7 @@
 0.0.0.0 bobnbhsbmo.com
 0.0.0.0 bobokam.space
 0.0.0.0 bobpractices.online
+0.0.0.0 bobrik.mobi
 0.0.0.0 bobsteardrop.com
 0.0.0.0 bobuildsit.com
 0.0.0.0 bocadita.com
@@ -12393,6 +12401,7 @@
 0.0.0.0 boridescyamid.com
 0.0.0.0 boringassistantincite.com
 0.0.0.0 boriod.com
+0.0.0.0 borisbelan.com
 0.0.0.0 boriskink.com
 0.0.0.0 bornegypsy.com
 0.0.0.0 borneolesp.guru
@@ -13460,6 +13469,7 @@
 0.0.0.0 burgledgypsums.uno
 0.0.0.0 burgomeg.com
 0.0.0.0 burhanitradelink.com
+0.0.0.0 burhformant.com
 0.0.0.0 burialdiffer.com
 0.0.0.0 burialgerminatebizarre.com
 0.0.0.0 buriedwithmyiphone.com
@@ -17617,6 +17627,7 @@
 0.0.0.0 concordevalves.in
 0.0.0.0 concordexchange.ca
 0.0.0.0 concordexchange.com
+0.0.0.0 concordexchangecondo.ca
 0.0.0.0 concordexchangecondo.com
 0.0.0.0 concordexchangecondos.com
 0.0.0.0 concordia.co.in
@@ -17782,6 +17793,7 @@
 0.0.0.0 consciencebarrowcash.com
 0.0.0.0 consciencecollective.club
 0.0.0.0 conscious-ambivert.com
+0.0.0.0 consciousdiary.com
 0.0.0.0 consciousnessquaint.com
 0.0.0.0 consciousslice.com
 0.0.0.0 consensusarticles.com
@@ -19804,6 +19816,7 @@
 0.0.0.0 daredstrapelinor.com
 0.0.0.0 darersan.co
 0.0.0.0 darghinruskin.com
+0.0.0.0 darholdny.com
 0.0.0.0 darienilhistory.org
 0.0.0.0 daringcooper.com
 0.0.0.0 dariolunus.com
@@ -19828,6 +19841,7 @@
 0.0.0.0 darksincenightclub.com
 0.0.0.0 darkvisiongames.com
 0.0.0.0 darkweblink.xyz
+0.0.0.0 darkweblinks.co
 0.0.0.0 darkwebpath.online
 0.0.0.0 darlingfrightenunit.com
 0.0.0.0 darmowe-liczniki.com
@@ -22354,6 +22368,7 @@
 0.0.0.0 donaldrkatz.com
 0.0.0.0 donaskakvetov.online
 0.0.0.0 donatecanuck.com
+0.0.0.0 donategrid.com
 0.0.0.0 donateindiafoundation.org
 0.0.0.0 donatelloflowfirstly.ga
 0.0.0.0 donation-tools.org
@@ -22864,6 +22879,7 @@
 0.0.0.0 drivewayspecialistsbath.uk
 0.0.0.0 drivewayssuffolk.uk
 0.0.0.0 drivewinchester.com
+0.0.0.0 drivewithpride.net
 0.0.0.0 drivingshoe.com
 0.0.0.0 drivout.net
 0.0.0.0 drizzleexperimentdysentery.com
@@ -23023,6 +23039,7 @@
 0.0.0.0 dsujqhgxba.com
 0.0.0.0 dsultra.com
 0.0.0.0 dswnetwork.com
+0.0.0.0 dswqtkpk.com
 0.0.0.0 dsxsbc.com
 0.0.0.0 dsygubntxgvxo.com
 0.0.0.0 dsysgroup.com
@@ -25507,6 +25524,7 @@
 0.0.0.0 equifaxinvestigate.com
 0.0.0.0 equilibrioyterapia.com
 0.0.0.0 equilibriumindifferentsoak.com
+0.0.0.0 equine-wisdom.net
 0.0.0.0 equinecupping.org
 0.0.0.0 equinecuppingtherapy.org
 0.0.0.0 equinox.scot
@@ -26979,6 +26997,7 @@
 0.0.0.0 fanbyepee.com
 0.0.0.0 fanciedproduced.com
 0.0.0.0 fancifulbrand.com
+0.0.0.0 fancify.com
 0.0.0.0 fancifylucific.guru
 0.0.0.0 fancilybates.uno
 0.0.0.0 fancybet.online
@@ -33568,6 +33587,7 @@
 0.0.0.0 handlingattic.com
 0.0.0.0 handlingblare.com
 0.0.0.0 handll.us
+0.0.0.0 handpan.help
 0.0.0.0 handrailab.com
 0.0.0.0 handsenvious.com
 0.0.0.0 handshakeapp.com
@@ -35493,6 +35513,7 @@
 0.0.0.0 hostingos.com
 0.0.0.0 hostingos.org
 0.0.0.0 hostingusa4you.com
+0.0.0.0 hostko.info
 0.0.0.0 hostlyacus.digital
 0.0.0.0 hostmaster.www.carnlval.com
 0.0.0.0 hostmaster.www.carsrental.discount
@@ -37454,6 +37475,7 @@
 0.0.0.0 indiankartingleague.in
 0.0.0.0 indianmedicalcongress.com
 0.0.0.0 indianoiladaniventures.net
+0.0.0.0 indianregal.com
 0.0.0.0 indianrocksbeachrv.com
 0.0.0.0 indianrocksrvpark.com
 0.0.0.0 indianschool.net
@@ -39176,6 +39198,7 @@
 0.0.0.0 jainghar.com
 0.0.0.0 jaininfo.info
 0.0.0.0 jainlearning.org
+0.0.0.0 jainnjain.com
 0.0.0.0 jainott.com
 0.0.0.0 jainott.net
 0.0.0.0 jaipheeph.com
@@ -41175,6 +41198,7 @@
 0.0.0.0 katellephoto.com
 0.0.0.0 katerigordas.pro
 0.0.0.0 katespadenorge.com
+0.0.0.0 katgame.com
 0.0.0.0 katharris.us
 0.0.0.0 katherinecare.com
 0.0.0.0 katherineleone.com
@@ -42365,6 +42389,7 @@
 0.0.0.0 kovenn.biz
 0.0.0.0 koverdan.com
 0.0.0.0 kovim.net
+0.0.0.0 kovopal.com
 0.0.0.0 kovotvar.com
 0.0.0.0 kowan.club
 0.0.0.0 koxqdviupg.xyz
@@ -42439,6 +42464,7 @@
 0.0.0.0 kredekor.com
 0.0.0.0 kredenc.studio
 0.0.0.0 kreditexpert.top
+0.0.0.0 krejcir.tech
 0.0.0.0 kremarkedone.com
 0.0.0.0 kremlin-clearance.us
 0.0.0.0 krence.com
@@ -57410,6 +57436,7 @@
 0.0.0.0 pinetq.com
 0.0.0.0 pineycaids.com
 0.0.0.0 pinfqqeqhk.com
+0.0.0.0 pingalas.com
 0.0.0.0 pingpon.net
 0.0.0.0 pinitolshouldn.com
 0.0.0.0 pinjjgrsrikk.com
@@ -58371,6 +58398,7 @@
 0.0.0.0 pololuxe.org
 0.0.0.0 polosoa.com
 0.0.0.0 poloud.com
+0.0.0.0 polovacka.com
 0.0.0.0 polret.com
 0.0.0.0 polrimsi.xyz
 0.0.0.0 polska52.com
@@ -61236,6 +61264,7 @@
 0.0.0.0 quantum-market.support
 0.0.0.0 quantum-service.online
 0.0.0.0 quantumdiamonds.net
+0.0.0.0 quantumglobal.online
 0.0.0.0 quantumhealth4.us
 0.0.0.0 quantumleapsclub.com
 0.0.0.0 quantumsenz.co.uk
@@ -61437,6 +61466,7 @@
 0.0.0.0 qwhc.yt
 0.0.0.0 qwhmyolw.com
 0.0.0.0 qwhocasp.xyz
+0.0.0.0 qwiga.com
 0.0.0.0 qwiistakul.com
 0.0.0.0 qwikbacyrnjegk.com
 0.0.0.0 qwits.com
@@ -64731,6 +64761,7 @@
 0.0.0.0 ruiacarrentalsdelhi.online
 0.0.0.0 ruiannyu784.com
 0.0.0.0 ruiferreira.me
+0.0.0.0 ruihxbfajk.com
 0.0.0.0 ruineddefectivecurb.com
 0.0.0.0 ruinedequatorascertained.com
 0.0.0.0 ruinedharshlyhere.com
@@ -68691,6 +68722,7 @@
 0.0.0.0 slovenskodoformy.com
 0.0.0.0 slovenskonadlani.com
 0.0.0.0 slovenskovoforme.online
+0.0.0.0 slovinsky.art
 0.0.0.0 slowbar.in
 0.0.0.0 slowclick.top
 0.0.0.0 slowdn.net
@@ -69281,6 +69313,7 @@
 0.0.0.0 softgluenet.org
 0.0.0.0 softitup.com
 0.0.0.0 softkrinteltech.com
+0.0.0.0 softmedia.online
 0.0.0.0 softonixs.xyz
 0.0.0.0 softovikget.ru
 0.0.0.0 softpopads.com
@@ -79052,6 +79085,7 @@
 0.0.0.0 usozeyaf.xyz
 0.0.0.0 uspasitela.com
 0.0.0.0 uspechamotivacia.com
+0.0.0.0 uspesnarestaurace.com
 0.0.0.0 uspesny.online
 0.0.0.0 uspjutyvwrbsn.com
 0.0.0.0 uspost-nuux-us.net
@@ -80491,6 +80525,7 @@
 0.0.0.0 vikkitor.biz
 0.0.0.0 vikkitor.com
 0.0.0.0 vikkitor.world
+0.0.0.0 vikkitor.xyz
 0.0.0.0 vikna-servis.com
 0.0.0.0 vikrak.com
 0.0.0.0 vikramastro.com
@@ -80516,6 +80551,7 @@
 0.0.0.0 villacampetra.it
 0.0.0.0 villadalat49.com
 0.0.0.0 villaedeinos.com
+0.0.0.0 villaencanta.com
 0.0.0.0 villageeatable.com
 0.0.0.0 villageofmenandsny.gov
 0.0.0.0 villagerfertilityadversity.com
@@ -98103,6 +98139,7 @@
 0.0.0.0 xensia.tech
 0.0.0.0 xenworld.info
 0.0.0.0 xepkfd.com
+0.0.0.0 xepma.com
 0.0.0.0 xepqedhtxb.com
 0.0.0.0 xero-gravity.co.uk
 0.0.0.0 xero-gravity.uk
@@ -99819,6 +99856,7 @@
 0.0.0.0 youraiarchitect.com
 0.0.0.0 yourarchitects.in
 0.0.0.0 yourawesomeprize.com
+0.0.0.0 yourbandhan.com
 0.0.0.0 yourbestappever.com
 0.0.0.0 yourbestappever.top
 0.0.0.0 yourbestlandever.com
