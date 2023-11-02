@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.306
 # Release: 306
-# Entries: 101,451
-# Updated: Thu, 02 Nov 23 16:19:18 +06
+# Entries: 101,453
+# Updated: Thu, 02 Nov 23 18:09:59 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -76969,6 +76969,7 @@
 0.0.0.0 trucksift.com
 0.0.0.0 trucktransmissionparts.info
 0.0.0.0 true-lights.com
+0.0.0.0 true-religionoutlet.us.com
 0.0.0.0 true2file.com
 0.0.0.0 truebeautyworld.shop
 0.0.0.0 truechihuahua.com
@@ -80262,6 +80263,7 @@
 0.0.0.0 verifiable-shoot.pro
 0.0.0.0 verificationtracker.com
 0.0.0.0 verifieernummer.com
+0.0.0.0 verifizierenumfeld.com
 0.0.0.0 verify-alert61.com
 0.0.0.0 verify-bunq.com
 0.0.0.0 verify-coinspot-au.website
