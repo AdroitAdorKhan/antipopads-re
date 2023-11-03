@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.307
 # Release: 307
-# Entries: 101,752
-# Updated: Fri, 03 Nov 23 14:08:50 +06
+# Entries: 101,768
+# Updated: Fri, 03 Nov 23 16:21:11 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3888,6 +3888,7 @@
 0.0.0.0 admissiondemeanourusage.com
 0.0.0.0 admissionfest.com
 0.0.0.0 admissionreceipt.com
+0.0.0.0 admitad-srv.com
 0.0.0.0 admitad.com
 0.0.0.0 admith.com
 0.0.0.0 admitoutspokensupreme.com
@@ -6921,6 +6922,7 @@
 0.0.0.0 apokreaamoeban.guru
 0.0.0.0 apoll-amp.com
 0.0.0.0 apollo-comptech.in
+0.0.0.0 apollo-platforms.com
 0.0.0.0 apolloclinic.care
 0.0.0.0 apollocradle.care
 0.0.0.0 apollocradle.hospital
@@ -7061,6 +7063,7 @@
 0.0.0.0 applied-ai-medicine.ca
 0.0.0.0 applifycontent.com
 0.0.0.0 applifysolutions.com
+0.0.0.0 applik1.online
 0.0.0.0 apploooovin.com
 0.0.0.0 applyingloan.co.in
 0.0.0.0 appmafias.com
@@ -12132,6 +12135,7 @@
 0.0.0.0 bobpractices.online
 0.0.0.0 bobrik.mobi
 0.0.0.0 bobsteardrop.com
+0.0.0.0 bobthescreamingchicken.com
 0.0.0.0 bobuildsit.com
 0.0.0.0 bocadita.com
 0.0.0.0 bocageicepick.com
@@ -14170,6 +14174,7 @@
 0.0.0.0 campanula.am
 0.0.0.0 campervanhirelakedistrict.co.uk
 0.0.0.0 campgroundsitemap.com
+0.0.0.0 campimetry.com
 0.0.0.0 campinespinae.guru
 0.0.0.0 campingalmare.it
 0.0.0.0 campingknown.com
@@ -17001,6 +17006,7 @@
 0.0.0.0 coachbrandiforbes.com
 0.0.0.0 coachdax.com
 0.0.0.0 coacheematic.net
+0.0.0.0 coachemup.community
 0.0.0.0 coachersvalley.com
 0.0.0.0 coachesdomain.blog
 0.0.0.0 coachesdomain.co.uk
@@ -19424,6 +19430,7 @@
 0.0.0.0 cvydrwowjr.top
 0.0.0.0 cvyimypsjxca.com
 0.0.0.0 cvytjfempvjor.com
+0.0.0.0 cwbankgroup.xyz
 0.0.0.0 cwcpjngtko.com
 0.0.0.0 cwdisqjogjxnr.com
 0.0.0.0 cwefccw.net
@@ -44856,6 +44863,7 @@
 0.0.0.0 ljifuqqvs.com
 0.0.0.0 ljjqqierdk.com
 0.0.0.0 ljldipfjbh.com
+0.0.0.0 ljlofkhgfwarmi.com
 0.0.0.0 ljlxgotqph.com
 0.0.0.0 ljmytntyhzevf.com
 0.0.0.0 ljntxsmdcvemlh.com
@@ -45552,6 +45560,7 @@
 0.0.0.0 lpawakkabpho.com
 0.0.0.0 lpcollection.com
 0.0.0.0 lpdh.buzz
+0.0.0.0 lpetooopz.com
 0.0.0.0 lpfmeavbcqbmy.com
 0.0.0.0 lpfulinotaherere.info
 0.0.0.0 lpfztnyr.com
@@ -47803,6 +47812,7 @@
 0.0.0.0 memunjcvfv.xyz
 0.0.0.0 menacehabit.com
 0.0.0.0 menandallc.com
+0.0.0.0 menandsny.gov
 0.0.0.0 menbej.com
 0.0.0.0 menchumble.guru
 0.0.0.0 mendationforca.info
@@ -50122,6 +50132,7 @@
 0.0.0.0 mwoukrkskills.xyz
 0.0.0.0 mwprotected.com
 0.0.0.0 mwquick.com
+0.0.0.0 mwshipping.org
 0.0.0.0 mwtraff.mobi
 0.0.0.0 mwuqjnnnjnrx.com
 0.0.0.0 mwwfnfdunhc.com
@@ -51447,6 +51458,8 @@
 0.0.0.0 newfavbetstar.net
 0.0.0.0 newfavkyiv.pro
 0.0.0.0 newfinanceapproach.com
+0.0.0.0 newflora-ltd.com
+0.0.0.0 newfloraltd.com
 0.0.0.0 newfoundlandandlabradormoderate.ca
 0.0.0.0 newfuture-happiness.com
 0.0.0.0 newgateinnmunnar.com
@@ -55123,6 +55136,7 @@
 0.0.0.0 oswerebage.xyz
 0.0.0.0 oswskyvmvh.com
 0.0.0.0 osybiaqxqkrqy.com
+0.0.0.0 osyhcwvs.com
 0.0.0.0 osyrhjwnwoaya.com
 0.0.0.0 osytuyvnyhvfws.com
 0.0.0.0 oszzxhqhfh.com
@@ -69332,6 +69346,7 @@
 0.0.0.0 smbe-app.com
 0.0.0.0 smbibccet.xyz
 0.0.0.0 smboxubu.com
+0.0.0.0 smbtfinanciallyfit.com
 0.0.0.0 smbull.com
 0.0.0.0 smcm.in
 0.0.0.0 smcschoolsonatalab.in
@@ -74961,6 +74976,7 @@
 0.0.0.0 thisisyourprize.site
 0.0.0.0 thislaboratory.com
 0.0.0.0 thismetric.com
+0.0.0.0 thisnumbermatters.com
 0.0.0.0 thisonethingido.com
 0.0.0.0 thispositionw.biz
 0.0.0.0 thistinylittlebook.com
