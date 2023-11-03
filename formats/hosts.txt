@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.307
 # Release: 307
-# Entries: 101,791
-# Updated: Fri, 03 Nov 23 20:20:50 +06
+# Entries: 101,799
+# Updated: Fri, 03 Nov 23 22:08:59 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15532,6 +15532,7 @@
 0.0.0.0 charityweekly.co.uk
 0.0.0.0 charityweekly.uk
 0.0.0.0 charkasturnoff.com
+0.0.0.0 charlesandjackie.com
 0.0.0.0 charlesbridge.group
 0.0.0.0 charlessponsor.com
 0.0.0.0 charliethegoldenretriever.com
@@ -24431,6 +24432,7 @@
 0.0.0.0 eglesloc.com
 0.0.0.0 egllhcnwro.com
 0.0.0.0 egloochy.com
+0.0.0.0 egmfjmhffbarsxd.xyz
 0.0.0.0 egmyz.com
 0.0.0.0 egnba.yt
 0.0.0.0 egoaxdyp.com
@@ -46906,6 +46908,7 @@
 0.0.0.0 markerfraction.com
 0.0.0.0 markerperceivehick.com
 0.0.0.0 market.community
+0.0.0.0 marketaas.com
 0.0.0.0 marketavokiel.com
 0.0.0.0 marketbrew.in
 0.0.0.0 marketbrew.money
@@ -60203,6 +60206,7 @@
 0.0.0.0 prudentcrushing.com
 0.0.0.0 prudenttruthfulcarter.com
 0.0.0.0 pruhpilaws.website
+0.0.0.0 prulruyaoq.com
 0.0.0.0 prunerceleb.top
 0.0.0.0 prunesderelicttug.com
 0.0.0.0 pruneslustremind.com
@@ -64228,6 +64232,7 @@
 0.0.0.0 riyawallet.org
 0.0.0.0 rize-create.net
 0.0.0.0 rizer.in
+0.0.0.0 rizjtrprrazn.com
 0.0.0.0 rizk.com
 0.0.0.0 rizqpay.co.uk
 0.0.0.0 rj-a1.com
@@ -66174,6 +66179,7 @@
 0.0.0.0 saylor23.com
 0.0.0.0 saylor23.net
 0.0.0.0 saylor23.org
+0.0.0.0 saytbcrdmyyfb.com
 0.0.0.0 sayyidscronies.life
 0.0.0.0 sazute.uno
 0.0.0.0 sb-stat1.com
@@ -87322,6 +87328,7 @@
 0.0.0.0 www.chargingserviceprovider.com
 0.0.0.0 www.charicymill.com
 0.0.0.0 www.charitydestinyscornful.com
+0.0.0.0 www.charlesandjackie.com
 0.0.0.0 www.charlessponsor.com
 0.0.0.0 www.charmingblur.com
 0.0.0.0 www.charmingresumed.com
@@ -92458,6 +92465,7 @@
 0.0.0.0 www.marinegruffexpecting.com
 0.0.0.0 www.marineprospectsthirst.com
 0.0.0.0 www.markerfraction.com
+0.0.0.0 www.marketaas.com
 0.0.0.0 www.marketcreatedwry.com
 0.0.0.0 www.marketingplantips.com
 0.0.0.0 www.marketingtools.app
