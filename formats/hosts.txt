@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.307
 # Release: 307
-# Entries: 101,748
-# Updated: Fri, 03 Nov 23 12:20:46 +06
+# Entries: 101,752
+# Updated: Fri, 03 Nov 23 14:08:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -33952,6 +33952,7 @@
 0.0.0.0 harvesttheory.com
 0.0.0.0 harvice.net
 0.0.0.0 haryanviragni.in
+0.0.0.0 harzpzbsr.com
 0.0.0.0 hasava.net
 0.0.0.0 haschahasch.com
 0.0.0.0 hasdrs.com
@@ -67878,6 +67879,7 @@
 0.0.0.0 shestrozo.com
 0.0.0.0 shethavante-kanjurmarg.in
 0.0.0.0 shethdarshblog.tech
+0.0.0.0 shethilroa.com
 0.0.0.0 shevrinavis.website
 0.0.0.0 shewaglumpy.tech
 0.0.0.0 shexawhy.net
@@ -95529,6 +95531,7 @@
 0.0.0.0 www.shelvesragged.com
 0.0.0.0 www.shemelex.com
 0.0.0.0 www.sheridangop.us
+0.0.0.0 www.shethilroa.com
 0.0.0.0 www.shgsmes.com
 0.0.0.0 www.shieldforce.uk
 0.0.0.0 www.shieldthanks.com
@@ -98126,6 +98129,7 @@
 0.0.0.0 www.your-instant-chance.com
 0.0.0.0 www.yourbestappever.com
 0.0.0.0 www.yourbestlandever.com
+0.0.0.0 www.yourfreshposts.com
 0.0.0.0 www.yourhotfeed.com
 0.0.0.0 www.yourmobnotification.com
 0.0.0.0 www.yourmoney.world
