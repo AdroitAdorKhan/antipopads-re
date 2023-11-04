@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.11.308
-# Release: 308
-# Entries: 102,102
-# Updated: Sat, 04 Nov 23 22:09:00 +06
+# Version: 23.11.309
+# Release: 309
+# Entries: 102,108
+# Updated: Sun, 05 Nov 23 00:18:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6787,6 +6787,7 @@
 0.0.0.0 aofzkovajqti.com
 0.0.0.0 aoglarbert.org
 0.0.0.0 aogrcdihfodlr.xyz
+0.0.0.0 aoihaizo.xyz
 0.0.0.0 aojgggbwish.xyz
 0.0.0.0 aojwe.yt
 0.0.0.0 aonefntecsp.com
@@ -13110,6 +13111,7 @@
 0.0.0.0 brovines.xyz
 0.0.0.0 broweb.site
 0.0.0.0 browliner.com
+0.0.0.0 brown-gas.com
 0.0.0.0 brownerchunam.com
 0.0.0.0 brownoclock.com
 0.0.0.0 brownsdown.com
@@ -57609,6 +57611,7 @@
 0.0.0.0 phoacmutenee.com
 0.0.0.0 phoaglee.com
 0.0.0.0 phoalard.net
+0.0.0.0 phoampun.net
 0.0.0.0 phoapsoo.com
 0.0.0.0 phoaraut.com
 0.0.0.0 phoawhap.net
@@ -65057,6 +65060,7 @@
 0.0.0.0 rpp.net
 0.0.0.0 rprinc6etodn9kunjiv.com
 0.0.0.0 rpscabinets.com
+0.0.0.0 rpsoybm.com
 0.0.0.0 rpsrv.com
 0.0.0.0 rptech.co
 0.0.0.0 rptechsg.com
@@ -83726,6 +83730,7 @@
 0.0.0.0 whodan.tech
 0.0.0.0 whodouth.net
 0.0.0.0 whoevercloakroom.com
+0.0.0.0 whofiguredso.org
 0.0.0.0 whoftits.xyz
 0.0.0.0 whoisextractor.org
 0.0.0.0 whoisfreaks.org
@@ -100976,6 +100981,7 @@
 0.0.0.0 ytgzz.com
 0.0.0.0 ythjhk.com
 0.0.0.0 ytiiggvmbfjoi.com
+0.0.0.0 ytimewornan.org
 0.0.0.0 ytimm.com
 0.0.0.0 ytjkcheuoit.com
 0.0.0.0 ytkaiblmesmq.top
