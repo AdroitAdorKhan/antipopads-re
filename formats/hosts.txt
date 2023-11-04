@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.308
 # Release: 308
-# Entries: 101,848
-# Updated: Sat, 04 Nov 23 04:19:56 +06
+# Entries: 101,849
+# Updated: Sat, 04 Nov 23 06:08:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -73404,6 +73404,7 @@
 0.0.0.0 tcujuqqqhqd.com
 0.0.0.0 tcvg.pw
 0.0.0.0 tcvsdseprayxmw.com
+0.0.0.0 tcvteiuklpfapi.com
 0.0.0.0 tcwcs.com
 0.0.0.0 tcxt.ai
 0.0.0.0 tcxt.app
