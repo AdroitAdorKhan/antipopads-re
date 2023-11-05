@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.309
 # Release: 309
-# Entries: 102,129
-# Updated: Sun, 05 Nov 23 04:09:46 +06
+# Entries: 102,131
+# Updated: Sun, 05 Nov 23 06:11:10 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -72777,6 +72777,7 @@
 0.0.0.0 swskcwuqvopm.com
 0.0.0.0 swsxsnmaa.xyz
 0.0.0.0 swtcyjxauxsxbbl.com
+0.0.0.0 swtpc.com
 0.0.0.0 swuakhtaqo.com
 0.0.0.0 swunge.com
 0.0.0.0 swungencetacea.website
@@ -96754,6 +96755,7 @@
 0.0.0.0 www.swordframe.com
 0.0.0.0 www.swornpride.com
 0.0.0.0 www.swrggntsvmsgv.com
+0.0.0.0 www.swtpc.com
 0.0.0.0 www.swwebblaw.com
 0.0.0.0 www.sxcpt.org
 0.0.0.0 www.sxellett.com
