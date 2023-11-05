@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.309
 # Release: 309
-# Entries: 102,276
-# Updated: Sun, 05 Nov 23 12:10:04 +06
+# Entries: 102,324
+# Updated: Sun, 05 Nov 23 14:11:09 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2700,6 +2700,7 @@
 0.0.0.0 a-csontos.com
 0.0.0.0 a-k-v.net
 0.0.0.0 a-o-w.ru
+0.0.0.0 a-ply.store
 0.0.0.0 a-sto.com
 0.0.0.0 a-waiting.com
 0.0.0.0 a.audrte.com
@@ -4762,6 +4763,7 @@
 0.0.0.0 agenkasus303.xyz
 0.0.0.0 agenpokeronline.top
 0.0.0.0 agent-connect.tech
+0.0.0.0 agentmight.com
 0.0.0.0 agentporno.com
 0.0.0.0 agents-link.com
 0.0.0.0 agentsofagency.org
@@ -5366,6 +5368,7 @@
 0.0.0.0 alaldidw.top
 0.0.0.0 alamanahuae.com
 0.0.0.0 alamba.org
+0.0.0.0 alamco-holding.com
 0.0.0.0 alamovillage.com
 0.0.0.0 alamrb.com
 0.0.0.0 alancorp-sa.com
@@ -9235,10 +9238,13 @@
 0.0.0.0 b67788.com
 0.0.0.0 b67789.com
 0.0.0.0 b67790.com
+0.0.0.0 b67791.com
 0.0.0.0 b67792.com
 0.0.0.0 b67793.com
+0.0.0.0 b67794.com
 0.0.0.0 b67795.com
 0.0.0.0 b67796.com
+0.0.0.0 b67797.com
 0.0.0.0 b67800.com
 0.0.0.0 b7-mytag.com
 0.0.0.0 b70623.com
@@ -11188,6 +11194,7 @@
 0.0.0.0 bigappboi.com
 0.0.0.0 bigballsbit.pro
 0.0.0.0 bigbandemic.ca
+0.0.0.0 bigbangyayinlari.com
 0.0.0.0 bigbasketshop.com
 0.0.0.0 bigbay.store
 0.0.0.0 bigbazar.ltd
@@ -13622,6 +13629,7 @@
 0.0.0.0 bushpoutquest.com
 0.0.0.0 business-cib-login.com
 0.0.0.0 business-leaders.com
+0.0.0.0 business-targets.com
 0.0.0.0 business-writers-conference.net
 0.0.0.0 business.com.my
 0.0.0.0 business.org.my
@@ -20661,6 +20669,7 @@
 0.0.0.0 degaswassail.website
 0.0.0.0 degenerateabackjaguar.com
 0.0.0.0 degeronium.com
+0.0.0.0 degessiconstruction.com
 0.0.0.0 deghooda.net
 0.0.0.0 degmfmog.xyz
 0.0.0.0 degora.site
@@ -28457,6 +28466,7 @@
 0.0.0.0 fivetorrent.com
 0.0.0.0 fivetwosixsalon.com
 0.0.0.0 fiveyardlab.com
+0.0.0.0 fivig.com
 0.0.0.0 fivulsou.xyz
 0.0.0.0 fivulu.uno
 0.0.0.0 fiwhibse.com
@@ -34638,6 +34648,7 @@
 0.0.0.0 hellyesoffer.us
 0.0.0.0 helmethopeinscription.com
 0.0.0.0 helmettell.com
+0.0.0.0 helmvantage.ca
 0.0.0.0 helodesdhoni.com
 0.0.0.0 help-for-ukraine.eu.com
 0.0.0.0 helpcard.info
@@ -35092,6 +35103,7 @@
 0.0.0.0 hikarinoakari.org
 0.0.0.0 hikarinoakariost.net
 0.0.0.0 hikedwarfgipsy.com
+0.0.0.0 hikergoods.com
 0.0.0.0 hikewildcoast.com
 0.0.0.0 hikimate.com
 0.0.0.0 hikkoo.co.in
@@ -39052,6 +39064,7 @@
 0.0.0.0 iseoiknnqckto.xyz
 0.0.0.0 isftdmoj.com
 0.0.0.0 isgxeiqted.com
+0.0.0.0 ish20.xyz
 0.0.0.0 ishancomputers.online
 0.0.0.0 ishanvi.online
 0.0.0.0 ishanvi.shop
@@ -41083,6 +41096,7 @@
 0.0.0.0 jullyambery.net
 0.0.0.0 julolecalve.website
 0.0.0.0 julpcusgglhnkd.top
+0.0.0.0 julsofafrica.com
 0.0.0.0 julyhadchose.com
 0.0.0.0 julymedian2022news.com
 0.0.0.0 julynut.com
@@ -42041,6 +42055,7 @@
 0.0.0.0 khanjeeyapness.website
 0.0.0.0 khansahab.in
 0.0.0.0 khantradingoman.com
+0.0.0.0 khaprocessing.com
 0.0.0.0 kharibaat.live
 0.0.0.0 kharkivcitynft.com
 0.0.0.0 khatexcepeded.info
@@ -42246,6 +42261,7 @@
 0.0.0.0 kiperformance.ca
 0.0.0.0 kipesa.info
 0.0.0.0 kipodell.com
+0.0.0.0 kipsellies.com
 0.0.0.0 kiputan6.com
 0.0.0.0 kiranawala.in
 0.0.0.0 kirao.tech
@@ -44020,6 +44036,7 @@
 0.0.0.0 leaps.co.in
 0.0.0.0 learn-hustlersuniversity.com
 0.0.0.0 learnarid.com
+0.0.0.0 learnbetterworkbetter.ca
 0.0.0.0 learncryptocurrencybasics.com
 0.0.0.0 learndancehweb.live
 0.0.0.0 learnedmarket.com
@@ -45020,6 +45037,7 @@
 0.0.0.0 livelyfemales.com
 0.0.0.0 livemop.in
 0.0.0.0 livenaturelab.com
+0.0.0.0 livengoodphoto.com
 0.0.0.0 liveqna.me
 0.0.0.0 liverbarrelrustle.com
 0.0.0.0 liveredwilton.com
@@ -48153,6 +48171,7 @@
 0.0.0.0 merid.app
 0.0.0.0 meridiaforyourdiet.net
 0.0.0.0 meridiance.com
+0.0.0.0 meridianestateagents.com
 0.0.0.0 meridiusbio.com
 0.0.0.0 meried.co
 0.0.0.0 merilynship.in
@@ -48426,6 +48445,7 @@
 0.0.0.0 michael-royal.com
 0.0.0.0 michaelakubasova.com
 0.0.0.0 michaelcargill.com
+0.0.0.0 michaelgbouton.com
 0.0.0.0 michaeljackson.photography
 0.0.0.0 michaeljackson.photos
 0.0.0.0 michaelkilbeyassociateslimited.co.uk
@@ -50420,6 +50440,7 @@
 0.0.0.0 my-bitcoin-storm.net
 0.0.0.0 my-bitcoinlifestyle-app.com
 0.0.0.0 my-dream.site
+0.0.0.0 my-gagarin.com
 0.0.0.0 my-new-bitcoin-circuit.net
 0.0.0.0 my-new-bitqs-apps.net
 0.0.0.0 my-pay.pro
@@ -51058,6 +51079,7 @@
 0.0.0.0 narkalignevil.com
 0.0.0.0 narkwhelmed.digital
 0.0.0.0 naroci-avto.net
+0.0.0.0 narozeniny.org
 0.0.0.0 narrativewatch.org
 0.0.0.0 narratour.co.uk
 0.0.0.0 narrowstaredmaking.com
@@ -56280,6 +56302,7 @@
 0.0.0.0 palpatethinkinginflate.com
 0.0.0.0 palroudi.xyz
 0.0.0.0 paltryheadline.com
+0.0.0.0 palubkyrezivo.com
 0.0.0.0 paluedudd.com
 0.0.0.0 palundrus.com
 0.0.0.0 palushop.com
@@ -56327,6 +56350,7 @@
 0.0.0.0 pandoracooper.top
 0.0.0.0 pandorafarm.ec
 0.0.0.0 pandoraforlove.top
+0.0.0.0 pandoserver.info
 0.0.0.0 pandptradesolutions.ca
 0.0.0.0 pandptradesolutions.com
 0.0.0.0 pandre10.ru
@@ -56955,6 +56979,7 @@
 0.0.0.0 pdfsearchhq.com
 0.0.0.0 pdfurqok.com
 0.0.0.0 pdga.ca
+0.0.0.0 pdhardware.ca
 0.0.0.0 pdhqipvewgrg.com
 0.0.0.0 pdibplxhqbptag.com
 0.0.0.0 pdiyluhfttb.xyz
@@ -58049,6 +58074,7 @@
 0.0.0.0 pilotsforleadersandmanagers.com
 0.0.0.0 pilpulbagmen.com
 0.0.0.0 pilsarde.net
+0.0.0.0 pilules-en-france.com
 0.0.0.0 pimco-hk.net
 0.0.0.0 pimitgroup.com
 0.0.0.0 pimlicoouranos.space
@@ -59427,6 +59453,7 @@
 0.0.0.0 poushoza.net
 0.0.0.0 poutauge.net
 0.0.0.0 poutdecimal.com
+0.0.0.0 poutnice.com
 0.0.0.0 pouvbmpdw.top
 0.0.0.0 pouvoirsafrique.org
 0.0.0.0 pouyfssj.com
@@ -63460,6 +63487,7 @@
 0.0.0.0 reklamz.com
 0.0.0.0 reknowfirbolg.com
 0.0.0.0 rekonstrukcespolehlive.com
+0.0.0.0 rekreacnypoukaz.com
 0.0.0.0 rekrutmen-asdpexperd.com
 0.0.0.0 relagamaungapain.online
 0.0.0.0 relaimedwoodfurniture.com
@@ -63575,6 +63603,7 @@
 0.0.0.0 remembergirl.com
 0.0.0.0 remennoam.top
 0.0.0.0 remeselno.store
+0.0.0.0 remeslostrojal.com
 0.0.0.0 remeyr.com
 0.0.0.0 remfcekactfad.com
 0.0.0.0 remher.com
@@ -64356,6 +64385,7 @@
 0.0.0.0 rictritor.com
 0.0.0.0 riddanceresolutionharshly.com
 0.0.0.0 riddenyapocks.com
+0.0.0.0 riddhiintl.com
 0.0.0.0 rideaulakestours.ca
 0.0.0.0 rideautours.net
 0.0.0.0 rideawaken.com
@@ -68007,6 +68037,7 @@
 0.0.0.0 shadimates.com
 0.0.0.0 shadow-lady.com
 0.0.0.0 shadow-shop.xyz
+0.0.0.0 shadow-shops.xyz
 0.0.0.0 shadow360.co.uk
 0.0.0.0 shadowdarktools.com
 0.0.0.0 shady-addition.com
@@ -68843,6 +68874,7 @@
 0.0.0.0 simoneloren.com
 0.0.0.0 simonesstore.com
 0.0.0.0 simonkrivda.com
+0.0.0.0 simontgruppe.com
 0.0.0.0 simoolkankrej.com
 0.0.0.0 simp-city.su
 0.0.0.0 simpaisan.com
@@ -69369,6 +69401,8 @@
 0.0.0.0 slavesubmarinebribery.com
 0.0.0.0 slavewindows.com
 0.0.0.0 slaviafans.com
+0.0.0.0 slavianclub.com
+0.0.0.0 slavianmir.com
 0.0.0.0 slavil.com
 0.0.0.0 slavinthose.life
 0.0.0.0 slavizesoften.com
@@ -71395,12 +71429,14 @@
 0.0.0.0 stav.market
 0.0.0.0 stavara.com
 0.0.0.0 stavbysatan.com
+0.0.0.0 stavebnaaznalecka.org
 0.0.0.0 stavebneprace.top
 0.0.0.0 stavebni-chemie.com
 0.0.0.0 stavebniny.top
 0.0.0.0 stavebninysekule.com
 0.0.0.0 stavebnyrozpocet.org
 0.0.0.0 staviam.store
+0.0.0.0 stavter.com
 0.0.0.0 stawhoph.com
 0.0.0.0 staxaidso.com
 0.0.0.0 staxe-block.com
@@ -71533,6 +71569,7 @@
 0.0.0.0 stevemaddensouthafrica.net
 0.0.0.0 stevengullan.com
 0.0.0.0 stevensvillefamilydentistry.com
+0.0.0.0 steveorduno.com
 0.0.0.0 steveoriginate.com
 0.0.0.0 steveskeyslocksmith.co.uk
 0.0.0.0 stevestonproperties.com
@@ -72185,6 +72222,7 @@
 0.0.0.0 sufiai.org
 0.0.0.0 sufips.com
 0.0.0.0 sufismm.tech
+0.0.0.0 sugamniavara.in
 0.0.0.0 suganthiindustries.com
 0.0.0.0 sugardenny.com
 0.0.0.0 sugarridgehoa.com
@@ -73620,6 +73658,7 @@
 0.0.0.0 tattepush.com
 0.0.0.0 tatteredapron.com
 0.0.0.0 tattoobrutally.com
+0.0.0.0 tattoobysofie.com
 0.0.0.0 tattoocommit.com
 0.0.0.0 tattoopiercingsupply.com
 0.0.0.0 tattoos.ninja
@@ -73642,6 +73681,7 @@
 0.0.0.0 tauwoumo.net
 0.0.0.0 tavangarmashin.com
 0.0.0.0 tavazovalieasr.ir
+0.0.0.0 tavmunka.digital
 0.0.0.0 tawdevivah.org
 0.0.0.0 tawjihmaroc.tv
 0.0.0.0 tawkinmotmot.digital
@@ -73804,6 +73844,7 @@
 0.0.0.0 tdyjtqqfheggby.com
 0.0.0.0 te.astrutfluoran.com
 0.0.0.0 tea-chings.com
+0.0.0.0 tea-chings.net
 0.0.0.0 tea-chings.org
 0.0.0.0 teaandtaste.com
 0.0.0.0 teacast.net
@@ -73981,6 +74022,7 @@
 0.0.0.0 teetertoddler.us
 0.0.0.0 teethaur.com
 0.0.0.0 teethbatchevy.com
+0.0.0.0 teethcleaningcalgary.com
 0.0.0.0 teetogreensimgolf.com
 0.0.0.0 teeveetakahe.space
 0.0.0.0 teewithcare.com
@@ -79287,6 +79329,7 @@
 0.0.0.0 uniclients.dev
 0.0.0.0 unicorndirtiness.com
 0.0.0.0 unicornlaboratories.com
+0.0.0.0 unicornusdt.co.in
 0.0.0.0 unidei.it
 0.0.0.0 unidentifiedlackingrebuff.com
 0.0.0.0 unidlylunging.guru
@@ -79930,9 +79973,11 @@
 0.0.0.0 usecausal.com
 0.0.0.0 usedaifi.xyz
 0.0.0.0 usedautos.online
+0.0.0.0 usedcarbadcreditlynnwood.com
 0.0.0.0 usedcarsaleslondon.uk
 0.0.0.0 usedcarsalesmanchester.co.uk
 0.0.0.0 usedcarshropshire.co.uk
+0.0.0.0 usedcarsineverettwa.com
 0.0.0.0 usedjensenwoodchippers.co.uk
 0.0.0.0 usedsurveyequipment.co.uk
 0.0.0.0 usedsurveyingequipment.co.uk
@@ -80653,6 +80698,7 @@
 0.0.0.0 vaukdljmljvsbe.com
 0.0.0.0 vaultwrite.com
 0.0.0.0 vaumvxgrjiicdp.com
+0.0.0.0 vauu.pet
 0.0.0.0 vauwhusa.net
 0.0.0.0 vauzoaph.net
 0.0.0.0 vavada-go.xyz
@@ -83351,6 +83397,7 @@
 0.0.0.0 wedding-plans.uk
 0.0.0.0 weddinganniversaryincarriacou.com
 0.0.0.0 weddingchurch.co.uk
+0.0.0.0 weddingdjnegriljamaica.com
 0.0.0.0 weddingdresseskent.com
 0.0.0.0 weddingeventbynina.com
 0.0.0.0 weddingguruji.com
@@ -84238,6 +84285,7 @@
 0.0.0.0 winroc.us
 0.0.0.0 wins4d-tergacor.world
 0.0.0.0 winslinks.com
+0.0.0.0 winsun-insul.com
 0.0.0.0 winter.partners
 0.0.0.0 wintergetaways.com.au
 0.0.0.0 winterlabs.tech
