@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.11.310
-# Release: 310
-# Entries: 102,847
-# Updated: Mon, 06 Nov 23 22:10:44 +06
+# Version: 23.11.311
+# Release: 311
+# Entries: 102,848
+# Updated: Tue, 07 Nov 23 00:10:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -519,6 +519,7 @@
 0.0.0.0 1chance.live
 0.0.0.0 1ckbfk08k.de
 0.0.0.0 1clickpricefinder.com
+0.0.0.0 1contacts.com
 0.0.0.0 1d341a8f98.c0e8977ddc.com
 0.0.0.0 1da19a918c.com
 0.0.0.0 1dbjhsjdfbj1.monster
