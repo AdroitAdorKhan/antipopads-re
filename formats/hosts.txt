@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.312
 # Release: 312
-# Entries: 103,046
-# Updated: Wed, 08 Nov 23 06:12:41 +06
+# Entries: 103,048
+# Updated: Wed, 08 Nov 23 08:14:36 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4446,6 +4446,7 @@
 0.0.0.0 aereobus.com
 0.0.0.0 aerialmistaken.com
 0.0.0.0 aerialpics.art
+0.0.0.0 aernsoo.com
 0.0.0.0 aerobiabassing.com
 0.0.0.0 aeroboostmarketing.net
 0.0.0.0 aeroded.com
@@ -99503,6 +99504,7 @@
 0.0.0.0 www.zodo.store
 0.0.0.0 www.zonadedesmadre.com
 0.0.0.0 www.zoulikoopty.com
+0.0.0.0 www.zoustestocoa.com
 0.0.0.0 www.zoutubephaid.com
 0.0.0.0 www.zoxford.com
 0.0.0.0 www.zprelandappslab.com
