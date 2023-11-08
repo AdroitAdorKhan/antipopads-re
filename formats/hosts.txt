@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.312
 # Release: 312
-# Entries: 103,222
-# Updated: Wed, 08 Nov 23 20:23:58 +06
+# Entries: 103,226
+# Updated: Wed, 08 Nov 23 22:09:41 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8772,6 +8772,7 @@
 0.0.0.0 avantscale.org
 0.0.0.0 avanwater.com
 0.0.0.0 avariansambos.guru
+0.0.0.0 avast.com.www.sterenwifi.com
 0.0.0.0 avatar4d.net
 0.0.0.0 avataraqa.com
 0.0.0.0 avatarasandbox.com
@@ -72079,6 +72080,7 @@
 0.0.0.0 statoilbiluthyrning.net
 0.0.0.0 stats-best.site
 0.0.0.0 stats-collector.org
+0.0.0.0 stats.avast.com.www.sterenwifi.com
 0.0.0.0 statscollector.cf
 0.0.0.0 statsforads.com
 0.0.0.0 statsl.co
@@ -81119,6 +81121,7 @@
 0.0.0.0 v6.eu.rollserver.xyz
 0.0.0.0 v6kf.com.cn
 0.0.0.0 v6rxv5coo5.com
+0.0.0.0 v7.stats.avast.com.www.sterenwifi.com
 0.0.0.0 v88av81.com
 0.0.0.0 v8serramenti.com
 0.0.0.0 v96-surf.com
@@ -82624,6 +82627,7 @@
 0.0.0.0 vkrforktv.ml
 0.0.0.0 vkslyigdyb.com
 0.0.0.0 vktechnicalworks.in
+0.0.0.0 vkusbtnxubme.com
 0.0.0.0 vkwkbxmtlptcpg.xyz
 0.0.0.0 vkwknwmeutislk.com
 0.0.0.0 vkxpihctykjzlc.com
