@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.313
 # Release: 313
-# Entries: 103,330
-# Updated: Thu, 09 Nov 23 02:09:28 +06
+# Entries: 103,333
+# Updated: Thu, 09 Nov 23 06:08:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -42516,6 +42516,7 @@
 0.0.0.0 khovdimina.com
 0.0.0.0 khowawala.com
 0.0.0.0 khryjt.com
+0.0.0.0 khshsixmp.com
 0.0.0.0 khthsmumga.com
 0.0.0.0 khushiagarwal.tech
 0.0.0.0 khvbibuodnnf.com
@@ -62922,6 +62923,7 @@
 0.0.0.0 qzp-xyz.tech
 0.0.0.0 qzthcw.com
 0.0.0.0 qzybsfolu.com
+0.0.0.0 qzyllgqficyd.com
 0.0.0.0 r-32.xyz
 0.0.0.0 r-insights.com
 0.0.0.0 r-project.online
@@ -63160,6 +63162,7 @@
 0.0.0.0 rakutenglobal.com
 0.0.0.0 ralene.us
 0.0.0.0 ralesgalago.life
+0.0.0.0 ralhciawwpsg.com
 0.0.0.0 rallantynethebra.com
 0.0.0.0 rallydisprove.com
 0.0.0.0 rallyexpirehide.com
