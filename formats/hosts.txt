@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.314
 # Release: 314
-# Entries: 103,587
-# Updated: Fri, 10 Nov 23 02:09:54 +06
+# Entries: 103,590
+# Updated: Fri, 10 Nov 23 04:28:41 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3744,6 +3744,7 @@
 0.0.0.0 addroplet.com
 0.0.0.0 addtakingcontinuous.com
 0.0.0.0 addthief.com
+0.0.0.0 addthirs.com
 0.0.0.0 adecosystems.tech
 0.0.0.0 adeepado.xyz
 0.0.0.0 adegacasawine.com
@@ -23467,6 +23468,7 @@
 0.0.0.0 dryfood.co.nz
 0.0.0.0 dryinfestinsight.com
 0.0.0.0 drylnk.com
+0.0.0.0 drystervernile.life
 0.0.0.0 ds-tronic.com
 0.0.0.0 ds.puleynoomiac.com
 0.0.0.0 ds.svelterterton.com
@@ -53065,6 +53067,7 @@
 0.0.0.0 nkeokgokfkuz.com
 0.0.0.0 nkewmih.com
 0.0.0.0 nkfinsdg.com
+0.0.0.0 nkfuypwknwlxm.com
 0.0.0.0 nkhjioewwc.xyz
 0.0.0.0 nkhuu.yt
 0.0.0.0 nkie.sk
