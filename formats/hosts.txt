@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.313
 # Release: 313
-# Entries: 103,528
-# Updated: Thu, 09 Nov 23 18:10:55 +06
+# Entries: 103,533
+# Updated: Thu, 09 Nov 23 20:25:41 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9536,6 +9536,7 @@
 0.0.0.0 baiducdn.shop
 0.0.0.0 baidusou.com
 0.0.0.0 baiduuk.xyz
+0.0.0.0 baiduxigua.com
 0.0.0.0 baijav.com
 0.0.0.0 baijing110.com
 0.0.0.0 baikogru.net
@@ -32368,6 +32369,7 @@
 0.0.0.0 gnoorivolacci.org
 0.0.0.0 gnosticwinks.com
 0.0.0.0 gnotpxlbo.top
+0.0.0.0 gnqtageoyy.com
 0.0.0.0 gnucleus.network
 0.0.0.0 gnuindia.online
 0.0.0.0 gnzfwmnfiy.com
@@ -33014,6 +33016,7 @@
 0.0.0.0 govnet.in.net
 0.0.0.0 govowhaca.com
 0.0.0.0 govsec.io
+0.0.0.0 govso.xyz
 0.0.0.0 govtalks.org
 0.0.0.0 govtdumpster.com
 0.0.0.0 govtendremetre.in
@@ -33928,6 +33931,7 @@
 0.0.0.0 gwpcomqsyflewv.com
 0.0.0.0 gwqhfhctnchlju.com
 0.0.0.0 gwrgoaunieybo.com
+0.0.0.0 gwseekkprpsfx.com
 0.0.0.0 gwslvgmai.com
 0.0.0.0 gwtylvvexe.xyz
 0.0.0.0 gwudfifbofyg.com
@@ -55415,6 +55419,7 @@
 0.0.0.0 onlylunch.in
 0.0.0.0 onlyry.net
 0.0.0.0 onlyyourbiglove.com
+0.0.0.0 onmarilltor.com
 0.0.0.0 onmarshtompor.com
 0.0.0.0 onmoderate.ca
 0.0.0.0 onnavrah.com
