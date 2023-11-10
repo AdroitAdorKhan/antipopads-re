@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.314
 # Release: 314
-# Entries: 103,590
-# Updated: Fri, 10 Nov 23 04:28:41 +06
+# Entries: 103,596
+# Updated: Fri, 10 Nov 23 06:09:57 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8799,6 +8799,7 @@
 0.0.0.0 avataraqa.com
 0.0.0.0 avatarasandbox.com
 0.0.0.0 avatarauat.com
+0.0.0.0 avatarsfief.digital
 0.0.0.0 avatartransaction.com
 0.0.0.0 avatour.co.uk
 0.0.0.0 avatroom.com
@@ -37358,6 +37359,7 @@
 0.0.0.0 ichauphy.com
 0.0.0.0 ichimaip.net
 0.0.0.0 ichuli.tv
+0.0.0.0 icicibankltd.com
 0.0.0.0 icicleapplicationinvestigator.com
 0.0.0.0 icicleriskfence.com
 0.0.0.0 icilyassertiveindoors.com
@@ -92857,6 +92859,7 @@
 0.0.0.0 www.informeresapp.com
 0.0.0.0 www.informsrelic.com
 0.0.0.0 www.infowebsite.top
+0.0.0.0 www.infractructurebiopsycircumstances.com
 0.0.0.0 www.infragendev.com
 0.0.0.0 www.infringementpeanut.com
 0.0.0.0 www.infringementseason.com
@@ -93148,6 +93151,7 @@
 0.0.0.0 www.jamescogan.xyz
 0.0.0.0 www.jameskilledbookie.com
 0.0.0.0 www.jamiejohnson.photography
+0.0.0.0 www.jamminds.com
 0.0.0.0 www.jammjinfos.com
 0.0.0.0 www.jan-bync.com
 0.0.0.0 www.janelanaweb.com
@@ -95354,6 +95358,7 @@
 0.0.0.0 www.parkautomaticallyinfallible.com
 0.0.0.0 www.parkdues.com
 0.0.0.0 www.parkedcheerful.com
+0.0.0.0 www.parkedcountdownallows.com
 0.0.0.0 www.parkera.tech
 0.0.0.0 www.parklandcountyhomes.ca
 0.0.0.0 www.parktris.com
@@ -96370,6 +96375,7 @@
 0.0.0.0 www.rapemineral.com
 0.0.0.0 www.rapesensual.com
 0.0.0.0 www.rapidhooray.com
+0.0.0.0 www.rapidlybeaver.com
 0.0.0.0 www.rapidsecurefinancialservices.com
 0.0.0.0 www.rapportbioscience.com
 0.0.0.0 www.rapportbiosciences.com
