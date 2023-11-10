@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.315
 # Release: 315
-# Entries: 103,661
-# Updated: Sat, 11 Nov 23 00:11:33 +06
+# Entries: 103,663
+# Updated: Sat, 11 Nov 23 02:09:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -37703,6 +37703,7 @@
 0.0.0.0 igwqlkfrwhyqq.com
 0.0.0.0 igxeprize.cn
 0.0.0.0 igxeroll.cn
+0.0.0.0 igxkchkzfcwho.com
 0.0.0.0 igxqlojbltpwia.com
 0.0.0.0 igylwxvxgsuvcs.xyz
 0.0.0.0 igyrmknlpr.xyz
@@ -82676,6 +82677,7 @@
 0.0.0.0 vinays.com.au
 0.0.0.0 vinci1x2.it
 0.0.0.0 vinculastags.store
+0.0.0.0 vinegardaring.com
 0.0.0.0 vinegarfactorelevator.com
 0.0.0.0 vinegarhillfunding.com
 0.0.0.0 vinetable.xyz
