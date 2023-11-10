@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.314
 # Release: 314
-# Entries: 103,632
-# Updated: Fri, 10 Nov 23 16:13:41 +06
+# Entries: 103,635
+# Updated: Fri, 10 Nov 23 18:09:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -37196,6 +37196,7 @@
 0.0.0.0 i-lysi.com
 0.0.0.0 i-newbornphotographer.com
 0.0.0.0 i-room.us
+0.0.0.0 i-semiconductors.fr
 0.0.0.0 i-suffer.com
 0.0.0.0 i-switch.com
 0.0.0.0 i010b048d3e4a1e4b70aba72b169e70c90971f9.xyz
@@ -70125,6 +70126,7 @@
 0.0.0.0 sjssmyhvyq.com
 0.0.0.0 sjtactic.com
 0.0.0.0 sjtbhdeakgsgr.com
+0.0.0.0 sjteyeztnf.com
 0.0.0.0 sjukpwqhagesqb.com
 0.0.0.0 sjvlgxotriwbgaf.com
 0.0.0.0 sjwxsxgfszkxtq.com
@@ -92633,6 +92635,7 @@
 0.0.0.0 www.hyzer-line.com
 0.0.0.0 www.hzr0dm28m17c.com
 0.0.0.0 www.i-room.us
+0.0.0.0 www.i-semiconductors.fr
 0.0.0.0 www.i-switch.com
 0.0.0.0 www.i1nq.com
 0.0.0.0 www.i9.log.br
