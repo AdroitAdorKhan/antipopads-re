@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.316
 # Release: 316
-# Entries: 103,730
-# Updated: Sun, 12 Nov 23 02:26:00 +06
+# Entries: 103,731
+# Updated: Sun, 12 Nov 23 04:09:29 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -53127,6 +53127,7 @@
 0.0.0.0 njbaveru.com
 0.0.0.0 njbison.us
 0.0.0.0 njfwjnpuq.com
+0.0.0.0 njfxmqvonppwq.com
 0.0.0.0 njhomesbyliz.com
 0.0.0.0 njhyut.site
 0.0.0.0 njiaokkpupwvb.com
