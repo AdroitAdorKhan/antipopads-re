@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.315
 # Release: 315
-# Entries: 103,691
-# Updated: Sat, 11 Nov 23 08:11:35 +06
+# Entries: 103,692
+# Updated: Sat, 11 Nov 23 10:08:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -44048,6 +44048,7 @@
 0.0.0.0 lagoconnect.com
 0.0.0.0 lagoonsandlakes.co
 0.0.0.0 lagqmwyvqr.com
+0.0.0.0 lagtgvqia.com
 0.0.0.0 lagunamadre.org
 0.0.0.0 lahanbertyes.com
 0.0.0.0 laharal.com
