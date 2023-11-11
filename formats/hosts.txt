@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.316
 # Release: 316
-# Entries: 103,727
-# Updated: Sun, 12 Nov 23 00:11:29 +06
+# Entries: 103,730
+# Updated: Sun, 12 Nov 23 02:26:00 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -40524,6 +40524,7 @@
 0.0.0.0 jednoprani.store
 0.0.0.0 jednorazovky.com
 0.0.0.0 jedotsad.xyz
+0.0.0.0 jedrixurykpjl.com
 0.0.0.0 jedsoute.net
 0.0.0.0 jeeglagrup.com
 0.0.0.0 jeegptaiwaa.com
@@ -79005,6 +79006,7 @@
 0.0.0.0 tscurqtivre.com
 0.0.0.0 tset.dev
 0.0.0.0 tseywo.com
+0.0.0.0 tsfpqgzotiwsz.com
 0.0.0.0 tsfpvcpdpofbc.com
 0.0.0.0 tsgirg.org
 0.0.0.0 tshirtprintstore.com
@@ -84649,6 +84651,7 @@
 0.0.0.0 weethery.com
 0.0.0.0 weettedwept.site
 0.0.0.0 weewhaik.com
+0.0.0.0 weewwepu.com
 0.0.0.0 weezupty.com
 0.0.0.0 wefchatgpt.com
 0.0.0.0 wefire.net
