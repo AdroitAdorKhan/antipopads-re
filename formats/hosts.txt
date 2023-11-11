@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.315
 # Release: 315
-# Entries: 103,696
-# Updated: Sat, 11 Nov 23 12:23:48 +06
+# Entries: 103,699
+# Updated: Sat, 11 Nov 23 14:10:54 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6880,6 +6880,7 @@
 0.0.0.0 aotvlxsxihpyaks.com
 0.0.0.0 aoueyfydb.com
 0.0.0.0 aouzon.com
+0.0.0.0 aovdkzfhsth.com
 0.0.0.0 aovyoedbhahrajm.com
 0.0.0.0 aownrhqovggcltb.com
 0.0.0.0 aowubfoundation.com
@@ -42901,6 +42902,7 @@
 0.0.0.0 kithoasou.com
 0.0.0.0 kithudru.xyz
 0.0.0.0 kitkatkreative.com
+0.0.0.0 kitlaksar.com
 0.0.0.0 kitnmedia.com
 0.0.0.0 kitokit.com
 0.0.0.0 kitoralyoness.com
@@ -93558,6 +93560,7 @@
 0.0.0.0 www.kitchenmatts.com
 0.0.0.0 www.kitcreator.app
 0.0.0.0 www.kithoasou.com
+0.0.0.0 www.kitlaksar.com
 0.0.0.0 www.kitsconsulting.net
 0.0.0.0 www.kittle.app
 0.0.0.0 www.kittlenwetos.com
