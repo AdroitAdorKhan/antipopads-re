@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.316
 # Release: 316
-# Entries: 103,743
-# Updated: Sun, 12 Nov 23 12:08:45 +06
+# Entries: 103,747
+# Updated: Sun, 12 Nov 23 14:09:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -25950,6 +25950,7 @@
 0.0.0.0 eocpnxrvughk.com
 0.0.0.0 eodufofs.com
 0.0.0.0 eoegyadby.com
+0.0.0.0 eoewwrfvpknnfq.com
 0.0.0.0 eofripvanwin.org
 0.0.0.0 eofsuxtctfdr.com
 0.0.0.0 eofxhhyfwljz.com
@@ -32155,6 +32156,7 @@
 0.0.0.0 glleadflxvn.com
 0.0.0.0 gllgqjxog.com
 0.0.0.0 gllpjkegmhusuq.com
+0.0.0.0 glngbufaa.com
 0.0.0.0 glo-glo-oom.com
 0.0.0.0 gloacmie.com
 0.0.0.0 gloacmug.net
@@ -75730,6 +75732,7 @@
 0.0.0.0 thebagelguy.ca
 0.0.0.0 thebaglounge.com
 0.0.0.0 theballadofbobbyorr.com
+0.0.0.0 thebancorppsg.com
 0.0.0.0 thebank.international
 0.0.0.0 thebarkpark.dog
 0.0.0.0 thebarrowtol.xyz
@@ -98514,6 +98517,7 @@
 0.0.0.0 www.theatrepair.com
 0.0.0.0 www.theatresintotales.com
 0.0.0.0 www.thebaglounge.com
+0.0.0.0 www.thebancorppsg.com
 0.0.0.0 www.thebear.fm
 0.0.0.0 www.thebestpuzzlegame.com
 0.0.0.0 www.thebitcoinfuture.org
