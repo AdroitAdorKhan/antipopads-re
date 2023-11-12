@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.316
 # Release: 316
-# Entries: 103,741
-# Updated: Sun, 12 Nov 23 10:21:43 +06
+# Entries: 103,743
+# Updated: Sun, 12 Nov 23 12:08:45 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -49775,6 +49775,7 @@
 0.0.0.0 mlopezdaneri.top
 0.0.0.0 mloxcnrt.com
 0.0.0.0 mlqfxginaqwufrw.com
+0.0.0.0 mlsdhemi.com
 0.0.0.0 mlslawmo.com
 0.0.0.0 mlsys.xyz
 0.0.0.0 mlttmtjthqnr.xyz
@@ -75503,6 +75504,7 @@
 0.0.0.0 tfsmltd.com
 0.0.0.0 tfsos.info
 0.0.0.0 tftatics.gg
+0.0.0.0 tfvpugsr.com
 0.0.0.0 tfwhloixooeapn.xyz
 0.0.0.0 tfxdwiprymkplc.com
 0.0.0.0 tfzznclztl.com
