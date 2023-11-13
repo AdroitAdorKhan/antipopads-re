@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.317
 # Release: 317
-# Entries: 103,830
-# Updated: Mon, 13 Nov 23 06:09:03 +06
+# Entries: 103,833
+# Updated: Mon, 13 Nov 23 08:11:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16628,6 +16628,7 @@
 0.0.0.0 ckrf1.com
 0.0.0.0 ckrocket.io
 0.0.0.0 ckrrmwqh.com
+0.0.0.0 ckspodaotjotkn.com
 0.0.0.0 cktrioqbm.com
 0.0.0.0 cktvfmsiuugrk.com
 0.0.0.0 cktynfnozx.com
@@ -54595,6 +54596,7 @@
 0.0.0.0 ochredhistory.com
 0.0.0.0 ochringtensor.com
 0.0.0.0 ociroofing.com
+0.0.0.0 ociscoxolflfu.com
 0.0.0.0 ocitnetad.ci
 0.0.0.0 ocjjgcchvffbni.com
 0.0.0.0 oclasrv.com
@@ -93321,6 +93323,7 @@
 0.0.0.0 www.itsinfosolution.com
 0.0.0.0 www.itsmyturn.nablabee.com
 0.0.0.0 www.itsshowtime.top
+0.0.0.0 www.itstuffnews.com
 0.0.0.0 www.itvalleynews.com
 0.0.0.0 www.ivanvillager.com
 0.0.0.0 www.ivar-ltd.com
