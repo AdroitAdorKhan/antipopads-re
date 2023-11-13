@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.317
 # Release: 317
-# Entries: 103,921
-# Updated: Mon, 13 Nov 23 12:08:23 +06
+# Entries: 103,948
+# Updated: Mon, 13 Nov 23 14:16:28 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -85,6 +85,7 @@
 0.0.0.0 05f35b3988.com
 0.0.0.0 05w0bq3nbq9b.top
 0.0.0.0 06-4ioio.com
+0.0.0.0 06.yt
 0.0.0.0 0638346964.com
 0.0.0.0 064999.com
 0.0.0.0 0661ee37d4.b12f4c5551.com
@@ -425,6 +426,7 @@
 0.0.0.0 16iis7i2p.de
 0.0.0.0 1743.yt
 0.0.0.0 1747.me
+0.0.0.0 1762.yt
 0.0.0.0 176fitness.com
 0.0.0.0 179920.com
 0.0.0.0 17b76e7799.e27fe9334e.com
@@ -762,6 +764,7 @@
 0.0.0.0 2137dc12f9d8.com
 0.0.0.0 214areacode.org
 0.0.0.0 215-15-15.ru
+0.0.0.0 2157.yt
 0.0.0.0 2158novffp.com
 0.0.0.0 2173.yt
 0.0.0.0 2175a.com
@@ -866,6 +869,7 @@
 0.0.0.0 24x7vistasolutions.in
 0.0.0.0 250f0ma86.de
 0.0.0.0 250taj.cn
+0.0.0.0 2518.yt
 0.0.0.0 252572.com
 0.0.0.0 254b27c125.2859933b6d.com
 0.0.0.0 2567ya.com
@@ -904,6 +908,7 @@
 0.0.0.0 28282d3cee.com
 0.0.0.0 28388508.com
 0.0.0.0 2855.wf
+0.0.0.0 2857.yt
 0.0.0.0 2881013.com
 0.0.0.0 2888ky.app
 0.0.0.0 2888ky.vip
@@ -1102,6 +1107,8 @@
 0.0.0.0 300mb-pahe.in
 0.0.0.0 300yot.com
 0.0.0.0 301122.comwww855888comwww94809comwww.685678.comwww.677555.com
+0.0.0.0 3015.yt
+0.0.0.0 3026.yt
 0.0.0.0 303ag0nc7.de
 0.0.0.0 303marketplace.com
 0.0.0.0 309073f80396.com
@@ -1176,12 +1183,14 @@
 0.0.0.0 35593c.com
 0.0.0.0 35624.fm
 0.0.0.0 35752.fm
+0.0.0.0 3579.yt
 0.0.0.0 359p.pw
 0.0.0.0 35acax.com
 0.0.0.0 35dbdbe192.5b541f17b1.com
 0.0.0.0 35volitantplimsoles5.com
 0.0.0.0 360-180.net
 0.0.0.0 360.hn
+0.0.0.0 3602.yt
 0.0.0.0 360379.com
 0.0.0.0 360adshost.net
 0.0.0.0 360humanhairwigs.com
@@ -1191,6 +1200,7 @@
 0.0.0.0 360tingshu.cc
 0.0.0.0 360vehiclespin.co.uk
 0.0.0.0 360yield.com
+0.0.0.0 3620.yt
 0.0.0.0 3628.yt
 0.0.0.0 362b643a66026e.com
 0.0.0.0 3632.wf
@@ -1216,6 +1226,7 @@
 0.0.0.0 3760k.com
 0.0.0.0 3761fcd24ef9281f5.com
 0.0.0.0 3762.tf
+0.0.0.0 3762.yt
 0.0.0.0 3762626.com
 0.0.0.0 3782588.com
 0.0.0.0 3796.in
@@ -1398,6 +1409,7 @@
 0.0.0.0 422c8ee785.com
 0.0.0.0 4238621.com
 0.0.0.0 424789a1.com
+0.0.0.0 4248.tf
 0.0.0.0 429822.com
 0.0.0.0 42a5d530ec972d8994.com
 0.0.0.0 42d61f012e27b36d53.com
@@ -1430,6 +1442,7 @@
 0.0.0.0 45efcfcfdf.004809f9da.com
 0.0.0.0 45eijvhgj2.com
 0.0.0.0 45f77.com
+0.0.0.0 4612.yt
 0.0.0.0 4623.ru
 0.0.0.0 465713.com
 0.0.0.0 46689.comwww.hk118.cnwww.844644.com
@@ -1599,6 +1612,7 @@
 0.0.0.0 502inventors.com
 0.0.0.0 503portal.com
 0.0.0.0 5055.yt
+0.0.0.0 5073.yt
 0.0.0.0 508ec56533e3937e.com
 0.0.0.0 509aa44e09.com
 0.0.0.0 50cowcross.com
@@ -1629,10 +1643,12 @@
 0.0.0.0 5206a9500e.com
 0.0.0.0 520oybn.com
 0.0.0.0 520swtich.com
+0.0.0.0 5213.yt
 0.0.0.0 521papa.com
 0.0.0.0 5234aw.com
 0.0.0.0 5235a4b207.ad64463ef9.com
 0.0.0.0 523cn.com
+0.0.0.0 5240.tf
 0.0.0.0 5255tw.com
 0.0.0.0 525linc.com
 0.0.0.0 525lincallston.com
@@ -1884,6 +1900,7 @@
 0.0.0.0 633678338f.3cb004e947.com
 0.0.0.0 6345ti.com
 0.0.0.0 636652039.help
+0.0.0.0 6375.yt
 0.0.0.0 6388kj.info
 0.0.0.0 639550.com
 0.0.0.0 6399998.com
@@ -1926,6 +1943,7 @@
 0.0.0.0 66thg.com
 0.0.0.0 66vvyy.com
 0.0.0.0 67293b.com
+0.0.0.0 6731.yt
 0.0.0.0 6732.yt
 0.0.0.0 6745jj.com
 0.0.0.0 677555.com
@@ -2070,6 +2088,7 @@
 0.0.0.0 71d7511a4861068.com
 0.0.0.0 720.jams.wiki
 0.0.0.0 720pvideo.tk
+0.0.0.0 7215.yt
 0.0.0.0 7231691.com
 0.0.0.0 7241.yt
 0.0.0.0 7285da5a0e.8739792a55.com
@@ -2081,6 +2100,7 @@
 0.0.0.0 73-j-pinnable.com
 0.0.0.0 7303.comwww.900hk.com
 0.0.0.0 73057e1206.com
+0.0.0.0 7315.yt
 0.0.0.0 7352.yt
 0.0.0.0 735454.org
 0.0.0.0 735a0662e8.ff9ffc838f.com
@@ -2266,6 +2286,7 @@
 0.0.0.0 811sante.com
 0.0.0.0 8123899.com
 0.0.0.0 813areacode.org
+0.0.0.0 8167.yt
 0.0.0.0 817008.comwww.601122.com
 0.0.0.0 8188ky.vip
 0.0.0.0 818box.com
@@ -2283,6 +2304,7 @@
 0.0.0.0 83270270f7.com
 0.0.0.0 832areacode.org
 0.0.0.0 8350.yt
+0.0.0.0 8364.yt
 0.0.0.0 839book.com
 0.0.0.0 83e25ad579.86c129241c.com
 0.0.0.0 83ght.pw
@@ -2307,6 +2329,7 @@
 0.0.0.0 8547.wf
 0.0.0.0 855122c.com
 0.0.0.0 8576.yt
+0.0.0.0 8597.yt
 0.0.0.0 85c485513f.com
 0.0.0.0 85ul.cn
 0.0.0.0 862afc8f42dd4d6ad04ecc7568a34b34.com
@@ -2560,6 +2583,7 @@
 0.0.0.0 990hk.com5555k.comwwwhkjcxcomjndltc.comwww333883comwww.mh59.comwww.880666.comwww.601122.com
 0.0.0.0 991.re
 0.0.0.0 9924c4cf5e.com
+0.0.0.0 9950.tf
 0.0.0.0 996.energy
 0.0.0.0 996.fish
 0.0.0.0 996.works
@@ -37991,6 +38015,7 @@
 0.0.0.0 illiterate-estate.pro
 0.0.0.0 illiticguiding.com
 0.0.0.0 illj.it
+0.0.0.0 illlogical.com
 0.0.0.0 illnessspraydeference.com
 0.0.0.0 illogicalcreaturebiological.com
 0.0.0.0 illryxmk.com
@@ -48871,6 +48896,7 @@
 0.0.0.0 menbej.com
 0.0.0.0 menchumble.guru
 0.0.0.0 mendationforca.info
+0.0.0.0 mendez-consulting.com
 0.0.0.0 mendoledresden.com
 0.0.0.0 mendprayer.com
 0.0.0.0 mendress.icu
@@ -66562,6 +66588,7 @@
 0.0.0.0 rubatowooer.digital
 0.0.0.0 rubberbeak.com
 0.0.0.0 rubberhill.com
+0.0.0.0 rubbjxdqh.com
 0.0.0.0 rubcas.page
 0.0.0.0 rubcomplaintdimly.com
 0.0.0.0 rubendp.xyz
