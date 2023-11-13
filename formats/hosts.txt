@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.318
 # Release: 318
-# Entries: 104,124
-# Updated: Tue, 14 Nov 23 02:17:50 +06
+# Entries: 104,160
+# Updated: Tue, 14 Nov 23 04:09:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4708,6 +4708,7 @@
 0.0.0.0 afroamerica360.online
 0.0.0.0 afroamerica360.store
 0.0.0.0 afroamerica360.us
+0.0.0.0 afroline.online
 0.0.0.0 afront.io
 0.0.0.0 afrooogle.com
 0.0.0.0 afshanthough.pro
@@ -7275,6 +7276,7 @@
 0.0.0.0 apt-ice.pro
 0.0.0.0 aptamerguy.com
 0.0.0.0 aptdiary.com
+0.0.0.0 apteka-zdorov.com
 0.0.0.0 apteriawagtail.store
 0.0.0.0 aptimorph.com
 0.0.0.0 aptitudeproprietor.com
@@ -11009,6 +11011,7 @@
 0.0.0.0 betads.xyz
 0.0.0.0 betaengine.org
 0.0.0.0 betahit.click
+0.0.0.0 betalks.in
 0.0.0.0 betalonflamechan.com
 0.0.0.0 betaos.online
 0.0.0.0 betaversecity.com
@@ -12489,6 +12492,7 @@
 0.0.0.0 boldlymodest.com
 0.0.0.0 bolds.store
 0.0.0.0 boldudroned.com
+0.0.0.0 bolety.com
 0.0.0.0 bolivarmaltol.website
 0.0.0.0 bollardledging.top
 0.0.0.0 bolmarka.ir
@@ -14566,6 +14570,7 @@
 0.0.0.0 cannabisinnovationcbd.it
 0.0.0.0 cannabisofglory.com
 0.0.0.0 cannabiswala.store
+0.0.0.0 cannabius.org
 0.0.0.0 cannapag.org
 0.0.0.0 cannapagbank.com.br
 0.0.0.0 cannatim.com
@@ -16163,6 +16168,7 @@
 0.0.0.0 chillcondole.com
 0.0.0.0 chilled.surf
 0.0.0.0 chillhomestudio.com
+0.0.0.0 chilltyping.com
 0.0.0.0 chillylanguish.com
 0.0.0.0 chiltemeles.life
 0.0.0.0 chilversputum.uno
@@ -16327,6 +16333,7 @@
 0.0.0.0 chortletarging.uno
 0.0.0.0 choruscompanion.com
 0.0.0.0 chorva.net
+0.0.0.0 chorvatsko.guru
 0.0.0.0 chosensoccerwriter.com
 0.0.0.0 choseoffhandsight.com
 0.0.0.0 chosesleptcattish.com
@@ -21013,6 +21020,7 @@
 0.0.0.0 defutohy.pro
 0.0.0.0 defyblackmailrecommended.com
 0.0.0.0 defyraspypuke.com
+0.0.0.0 degametralized.com
 0.0.0.0 degaswassail.website
 0.0.0.0 degenerateabackjaguar.com
 0.0.0.0 degeronium.com
@@ -28337,6 +28345,7 @@
 0.0.0.0 ferstyfert9.shop
 0.0.0.0 fertilecalfawelessaweless.com
 0.0.0.0 fertilecrameaster.com
+0.0.0.0 fertiliastion.com
 0.0.0.0 fertilisedignoringdeceive.com
 0.0.0.0 fertilisedlinealdeceived.com
 0.0.0.0 fertilisedshoe.com
@@ -32485,6 +32494,7 @@
 0.0.0.0 gmbchallenge.com
 0.0.0.0 gmcdxivnqegrnl.com
 0.0.0.0 gmcoanceqoymws.com
+0.0.0.0 gmcpowerpose.ca
 0.0.0.0 gmdfhscbu.com
 0.0.0.0 gmdh.in
 0.0.0.0 gmemochat.com
@@ -32979,6 +32989,7 @@
 0.0.0.0 gongkaozixun.com
 0.0.0.0 gongluliqingzhan.com
 0.0.0.0 goniforas.com
+0.0.0.0 gonnabelive.com
 0.0.0.0 gonorthbrook.org
 0.0.0.0 gonova.ca
 0.0.0.0 gonzo.pics
@@ -33942,6 +33953,7 @@
 0.0.0.0 guccihandbags.com
 0.0.0.0 guccista.store
 0.0.0.0 guchihyfa.pro
+0.0.0.0 guckawoh.net
 0.0.0.0 gudangmovie21.com
 0.0.0.0 guddu.io
 0.0.0.0 gudouzov.com
@@ -34393,6 +34405,7 @@
 0.0.0.0 hajgyogyasz.info
 0.0.0.0 hajgyogyaszat.info
 0.0.0.0 hajoopteg.com
+0.0.0.0 hakaceramic.com
 0.0.0.0 hakanspor.com
 0.0.0.0 hakaruke.digital
 0.0.0.0 hakeyelled.website
@@ -35799,7 +35812,9 @@
 0.0.0.0 hiparcels.com
 0.0.0.0 hiperdex.ml
 0.0.0.0 hiperea.app
+0.0.0.0 hiperea.com
 0.0.0.0 hiperea.net
+0.0.0.0 hiperea.online
 0.0.0.0 hipfowlzeal.icu
 0.0.0.0 hiphndvhkpatq.com
 0.0.0.0 hiphoapt.xyz
@@ -36092,10 +36107,12 @@
 0.0.0.0 hobsdaledisagem.com
 0.0.0.0 hoceyweb.live
 0.0.0.0 hocgeese.com
+0.0.0.0 hockeweb.live
 0.0.0.0 hockeyeb.live
 0.0.0.0 hockeyhavoc.com
 0.0.0.0 hockeynightbrampton.com
 0.0.0.0 hockeywe.live
+0.0.0.0 hockeyweblive.live
 0.0.0.0 hockledscissel.com
 0.0.0.0 hocmipedjjg.com
 0.0.0.0 hocoas.com
@@ -36806,6 +36823,7 @@
 0.0.0.0 hrmationeng.xyz
 0.0.0.0 hrmbagel.ca
 0.0.0.0 hrmbagel.com
+0.0.0.0 hrnek.online
 0.0.0.0 hrnpiyimmgdfjn.xyz
 0.0.0.0 hrobanka.com
 0.0.0.0 hrogrpee.de
@@ -39637,6 +39655,7 @@
 0.0.0.0 irecid.com
 0.0.0.0 iredd.it
 0.0.0.0 iredirect.net
+0.0.0.0 ireexplores.com
 0.0.0.0 ireideauxdwh.com
 0.0.0.0 irelandscholarship.org
 0.0.0.0 irelfdkwkhv.top
@@ -41937,6 +41956,7 @@
 0.0.0.0 just-cupix.com
 0.0.0.0 just-news.pro
 0.0.0.0 justallc.org
+0.0.0.0 justar.tv
 0.0.0.0 justc3.com
 0.0.0.0 justdating.online
 0.0.0.0 justeximinternational.com
@@ -43937,6 +43957,7 @@
 0.0.0.0 kussoscliffy.com
 0.0.0.0 kustaucu.com
 0.0.0.0 kutdbbfy.xyz
+0.0.0.0 kutilbrouk.com
 0.0.0.0 kutilio.net
 0.0.0.0 kutjilsi.com
 0.0.0.0 kutmshop.com
@@ -43987,6 +44008,7 @@
 0.0.0.0 kvhktsfy.com
 0.0.0.0 kvhttt.top
 0.0.0.0 kviojoglr.com
+0.0.0.0 kvitnyk.info
 0.0.0.0 kvjfnrvilai.com
 0.0.0.0 kvjjhwkqhehkv.com
 0.0.0.0 kvkddd.top
@@ -47297,6 +47319,7 @@
 0.0.0.0 macaddr.online
 0.0.0.0 macaigha.net
 0.0.0.0 macan-native.com
+0.0.0.0 macatrans.com
 0.0.0.0 macau-ic.com
 0.0.0.0 macau-ju.com
 0.0.0.0 macbroinstitute.in
@@ -51961,6 +51984,7 @@
 0.0.0.0 najlepsieskolenie.online
 0.0.0.0 najmajowniejsza.net
 0.0.0.0 najpopusti.com
+0.0.0.0 najpopusti.net
 0.0.0.0 nakamasweb.com
 0.0.0.0 nakedfulfilhairy.com
 0.0.0.0 nakirfettle.com
@@ -56412,6 +56436,7 @@
 0.0.0.0 ortslucres.com
 0.0.0.0 oruche.tech
 0.0.0.0 orvilletourer.guru
+0.0.0.0 orwey.com
 0.0.0.0 orwlehrmaxcoc.com
 0.0.0.0 orxbqsvibjxqvai.com
 0.0.0.0 osaceikmxsm.com
@@ -64728,6 +64753,7 @@
 0.0.0.0 relaxmami.com
 0.0.0.0 relaxtime24.biz
 0.0.0.0 relaycommodity.com
+0.0.0.0 releasecenteronline.au
 0.0.0.0 releasecenteronline.uk
 0.0.0.0 releasedfinish.com
 0.0.0.0 releasedgrievedeye.com
@@ -64768,6 +64794,7 @@
 0.0.0.0 reliefindividual.com
 0.0.0.0 reliefinnovations.com
 0.0.0.0 relievedgeoff.com
+0.0.0.0 relife.store
 0.0.0.0 religin.org
 0.0.0.0 religionrush.com
 0.0.0.0 relishcoincidencehandbag.com
@@ -69169,6 +69196,7 @@
 0.0.0.0 sex-and-flirt.com
 0.0.0.0 sex-finder.net
 0.0.0.0 sex5lbjz.com
+0.0.0.0 sexafisha24.com
 0.0.0.0 sexbabicky.xyz
 0.0.0.0 sexbag.co.uk
 0.0.0.0 sexbicam.com
@@ -72264,6 +72292,7 @@
 0.0.0.0 spotonmortgage-bristol.co.uk
 0.0.0.0 spotonmortgage-bristol.uk
 0.0.0.0 spotonrealestate.ca
+0.0.0.0 spotonrealestateteam.ca
 0.0.0.0 spotonrealestateteam.com
 0.0.0.0 spotrails.com
 0.0.0.0 spotruth.org
@@ -72864,6 +72893,7 @@
 0.0.0.0 steel-casting-foundries.com
 0.0.0.0 steel-casting-manufacturers.com
 0.0.0.0 steelbluebc.us
+0.0.0.0 steelcitydevils.com
 0.0.0.0 steeleslaw.ca
 0.0.0.0 steelfiles.in
 0.0.0.0 steelickier.uno
@@ -73931,6 +73961,7 @@
 0.0.0.0 surediscourageconcerning.com
 0.0.0.0 surelyconvinced.com
 0.0.0.0 sureshmobile.com
+0.0.0.0 surestudies.com
 0.0.0.0 sureview.tv
 0.0.0.0 surewashedalphabet.com
 0.0.0.0 surewellinstitute.com
@@ -74248,6 +74279,7 @@
 0.0.0.0 sweetea.store
 0.0.0.0 sweetestate.co.uk
 0.0.0.0 sweetestcake.online
+0.0.0.0 sweetgeorgiana.com
 0.0.0.0 sweetgirls-dating3.com
 0.0.0.0 sweetheartzoommotley.com
 0.0.0.0 sweethomebuildingcleaning.com
@@ -77779,6 +77811,7 @@
 0.0.0.0 tomepermissible.com
 0.0.0.0 tomeyrichhealth.com
 0.0.0.0 tomhalldesign.com
+0.0.0.0 tomhplly.com
 0.0.0.0 tomihal.com
 0.0.0.0 tomilotica.com
 0.0.0.0 tominwigan.top
@@ -78486,6 +78519,7 @@
 0.0.0.0 tradingbhau.com
 0.0.0.0 tradingdiscount.info
 0.0.0.0 tradingdunia.com
+0.0.0.0 tradingeuros.com
 0.0.0.0 tradinggamesnft.com
 0.0.0.0 tradingisforyou.com
 0.0.0.0 tradingken.com
@@ -84507,6 +84541,7 @@
 0.0.0.0 watchgelads.com
 0.0.0.0 watchingssu.com
 0.0.0.0 watchingthat.com
+0.0.0.0 watchkobe.info
 0.0.0.0 watchmanyachtmatch.com
 0.0.0.0 watchmybudget.com
 0.0.0.0 watchmytopapp.top
@@ -84934,6 +84969,7 @@
 0.0.0.0 webtesters.us
 0.0.0.0 webtrackerplus.com
 0.0.0.0 webtradehub.com
+0.0.0.0 webuksuk.com
 0.0.0.0 webup2you.com
 0.0.0.0 webuyburnetfast.com
 0.0.0.0 webwatt.cloud
