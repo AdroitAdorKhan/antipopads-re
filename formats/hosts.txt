@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.319
 # Release: 319
-# Entries: 104,278
-# Updated: Wed, 15 Nov 23 00:21:05 +06
+# Entries: 104,284
+# Updated: Wed, 15 Nov 23 02:19:27 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -27351,6 +27351,7 @@
 0.0.0.0 extrashared.com
 0.0.0.0 extrasnaps.com
 0.0.0.0 extrastudys.com
+0.0.0.0 extratorrent.cc
 0.0.0.0 extreme.chat
 0.0.0.0 extremechurchbf.org
 0.0.0.0 extremegoggle.com
@@ -52468,6 +52469,7 @@
 0.0.0.0 neckshrinevastly.com
 0.0.0.0 necmah.com
 0.0.0.0 nectardoodled.com
+0.0.0.0 nectonyez.life
 0.0.0.0 nedassiu.buzz
 0.0.0.0 nedaugha.buzz
 0.0.0.0 nedaughablelead.info
@@ -58718,6 +58720,7 @@
 0.0.0.0 pfcjdeqd.com
 0.0.0.0 pfd10038.com
 0.0.0.0 pfdbs.org
+0.0.0.0 pfddniedc.com
 0.0.0.0 pfdhsqfef.com
 0.0.0.0 pfeiffersk.com
 0.0.0.0 pfeite.com
@@ -59348,6 +59351,7 @@
 0.0.0.0 pirnaurban.com
 0.0.0.0 pirouque.com
 0.0.0.0 pirtecho.net
+0.0.0.0 pisanguttate.com
 0.0.0.0 piscishospedaje.com
 0.0.0.0 pisfashion.com
 0.0.0.0 pishareholders.com
@@ -80609,6 +80613,7 @@
 0.0.0.0 ulminicbawty.com
 0.0.0.0 ulmmmvjfbbmk.com
 0.0.0.0 ulmoyc.com
+0.0.0.0 ulmpyqgfqkffe.com
 0.0.0.0 ulmujev.com
 0.0.0.0 ulnarptilota.website
 0.0.0.0 ulngherhyrq.com
@@ -89572,6 +89577,7 @@
 0.0.0.0 www.chavdaministries.org
 0.0.0.0 www.chcl.tech
 0.0.0.0 www.cheapcoveringpearl.com
+0.0.0.0 www.cheapjerseysupplyforyou.com
 0.0.0.0 www.cheaplyroleinvolved.com
 0.0.0.0 www.cheaprx.site
 0.0.0.0 www.cheaptoursiceland.com
