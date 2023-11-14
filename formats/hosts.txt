@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.318
 # Release: 318
-# Entries: 104,175
-# Updated: Tue, 14 Nov 23 12:08:46 +06
+# Entries: 104,180
+# Updated: Tue, 14 Nov 23 14:09:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12304,6 +12304,7 @@
 0.0.0.0 bngtrak.com
 0.0.0.0 bngwlt.com
 0.0.0.0 bnhtml.com
+0.0.0.0 bninbpdnxlsymmt.com
 0.0.0.0 bniofdb1413.com
 0.0.0.0 bnjcxssvqweq.xyz
 0.0.0.0 bnjotruds.com
@@ -62309,6 +62310,7 @@
 0.0.0.0 pushdelone.com
 0.0.0.0 pushdistilleries.com
 0.0.0.0 pushdom.co
+0.0.0.0 pushdomains.biz
 0.0.0.0 pushdrop.club
 0.0.0.0 pushdusk.com
 0.0.0.0 pushebrod.com
@@ -71928,6 +71930,7 @@
 0.0.0.0 space-and-i.com
 0.0.0.0 space14.org
 0.0.0.0 spaceabc.org
+0.0.0.0 spaceborn.studio
 0.0.0.0 spaceiit.it
 0.0.0.0 spacejoker.com
 0.0.0.0 spacejoker.net
@@ -96938,6 +96941,7 @@
 0.0.0.0 www.rapporttx.com
 0.0.0.0 www.rapttransaction.com
 0.0.0.0 www.rapturemeddle.com
+0.0.0.0 www.rarbg.com
 0.0.0.0 www.rarechats.blog
 0.0.0.0 www.rareinsane.com
 0.0.0.0 www.rareskys.com
@@ -98193,6 +98197,7 @@
 0.0.0.0 www.sowparnika-euphoriaintheeast.net
 0.0.0.0 www.soyunpendejo.com
 0.0.0.0 www.spabologna.it
+0.0.0.0 www.spaceborn.studio
 0.0.0.0 www.spaciouslanentablelanentablepigs.com
 0.0.0.0 www.spaciousnavigablehenceforward.com
 0.0.0.0 www.spadeballroom.com
