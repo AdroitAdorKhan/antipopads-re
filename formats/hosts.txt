@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.320
 # Release: 320
-# Entries: 104,684
-# Updated: Thu, 16 Nov 23 18:09:58 +06
+# Entries: 104,685
+# Updated: Thu, 16 Nov 23 20:10:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -86286,6 +86286,7 @@
 0.0.0.0 winemakerstable.com
 0.0.0.0 winenftcoin.com
 0.0.0.0 wineoclockcentral.com
+0.0.0.0 wineryexchange.com
 0.0.0.0 winesparkle.com
 0.0.0.0 wineveryone.in.net
 0.0.0.0 winewiden.com
