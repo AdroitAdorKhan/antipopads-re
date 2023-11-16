@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.320
 # Release: 320
-# Entries: 104,644
-# Updated: Thu, 16 Nov 23 14:15:14 +06
+# Entries: 104,679
+# Updated: Thu, 16 Nov 23 16:27:29 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1593,6 +1593,7 @@
 0.0.0.0 4sjhdbfhjsdf4.monster
 0.0.0.0 4sjhdbfsdf41.monster
 0.0.0.0 4some1special.com
+0.0.0.0 4tbgv.com
 0.0.0.0 4test.org
 0.0.0.0 4thindustrialrevolution.co.uk
 0.0.0.0 4thnewburyscouts.uk
@@ -3958,6 +3959,7 @@
 0.0.0.0 admissionconsultants.in
 0.0.0.0 admissiondemeanourusage.com
 0.0.0.0 admissionfest.com
+0.0.0.0 admissionmining.com
 0.0.0.0 admissionreceipt.com
 0.0.0.0 admitad-srv.com
 0.0.0.0 admitad.com
@@ -4095,6 +4097,7 @@
 0.0.0.0 ads4trk.com
 0.0.0.0 ads5-adnow.com
 0.0.0.0 adsadecv.com
+0.0.0.0 adsadminister.com
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adsafety.net
 0.0.0.0 adsagony.com
@@ -6043,6 +6046,7 @@
 0.0.0.0 aluationiam.com
 0.0.0.0 alulimprowess.com
 0.0.0.0 aluminiumbottleindia.com
+0.0.0.0 aluminiumreluctanterect.com
 0.0.0.0 alumnisabana.cc
 0.0.0.0 alumnisabana.digital
 0.0.0.0 alumnisabana.life
@@ -6756,6 +6760,7 @@
 0.0.0.0 antapani.me
 0.0.0.0 antapexthecia.guru
 0.0.0.0 antaraimedia.com
+0.0.0.0 antarcticdashedscuffle.com
 0.0.0.0 antarcticoffended.com
 0.0.0.0 antargata.net
 0.0.0.0 antargata.org
@@ -7096,6 +7101,7 @@
 0.0.0.0 apostolout.com
 0.0.0.0 apostrophe.cloud
 0.0.0.0 apostrophe.ink
+0.0.0.0 apostropheheelsfence.com
 0.0.0.0 apostrophepanediffer.com
 0.0.0.0 apotek2sverige.com
 0.0.0.0 apotheeknetherlands.com
@@ -7612,6 +7618,7 @@
 0.0.0.0 arkbahale.club
 0.0.0.0 arkdcz.com
 0.0.0.0 arkfacialdaybreak.com
+0.0.0.0 arkfreakyinsufficient.com
 0.0.0.0 arkinhechershedt.xyz
 0.0.0.0 arklnvest.org
 0.0.0.0 arkongreen.ca
@@ -7721,6 +7728,7 @@
 0.0.0.0 arrivalselfcontrolrealization.com
 0.0.0.0 arrivaltroublesome.com
 0.0.0.0 arrivecounsel.com
+0.0.0.0 arriveddescend.com
 0.0.0.0 arrivedeuropean.com
 0.0.0.0 arriveme.co
 0.0.0.0 arrivesomewhere.com
@@ -8866,6 +8874,7 @@
 0.0.0.0 availableforester.com
 0.0.0.0 availablesyrup.com
 0.0.0.0 availduty.com
+0.0.0.0 availroeamenity.com
 0.0.0.0 avalanchelackinghomework.com
 0.0.0.0 avalanchemight.com
 0.0.0.0 avalancheofnews.com
@@ -9917,6 +9926,7 @@
 0.0.0.0 baondkdfmdyfs.com
 0.0.0.0 baozimg.com
 0.0.0.0 bapanaye.tech
+0.0.0.0 baptismdesired.com
 0.0.0.0 baptismfortune.com
 0.0.0.0 baptismmattressstoppage.com
 0.0.0.0 baptrqyesunv.xyz
@@ -10625,6 +10635,7 @@
 0.0.0.0 behaviourinteractif.com
 0.0.0.0 behaviourquarrelsomelollipop.com
 0.0.0.0 beheadmuffleddetached.com
+0.0.0.0 beheldnaive.com
 0.0.0.0 behestsbussed.tech
 0.0.0.0 behick.com
 0.0.0.0 behink.com
@@ -13036,6 +13047,7 @@
 0.0.0.0 brakescucumbersubjects.com
 0.0.0.0 brakesoutright.com
 0.0.0.0 brakestrucksupporter.com
+0.0.0.0 braketoothbrusheject.com
 0.0.0.0 brakiefissive.com
 0.0.0.0 braleak.com
 0.0.0.0 brall11.com
@@ -14751,6 +14763,7 @@
 0.0.0.0 cardanoambassador.org
 0.0.0.0 cardboardexile.com
 0.0.0.0 cardcoherentsquare.com
+0.0.0.0 cardiaccultural.com
 0.0.0.0 cardingforum.net
 0.0.0.0 cardiologyacademia.com
 0.0.0.0 cardiwersg.com
@@ -18314,6 +18327,7 @@
 0.0.0.0 conoret.com
 0.0.0.0 conpigeonsduly.com
 0.0.0.0 conquercaniceberg.com
+0.0.0.0 conqueredallrightswell.com
 0.0.0.0 conquereddestination.com
 0.0.0.0 conquereddin.com
 0.0.0.0 conquestafloat.com
@@ -20334,6 +20348,7 @@
 0.0.0.0 dancesmissort.com
 0.0.0.0 dancetherappy.org
 0.0.0.0 dancewithlittleredpony.com
+0.0.0.0 dancingbell.com
 0.0.0.0 dandclassic.com
 0.0.0.0 dandelionalso.com
 0.0.0.0 dandhfashion.co.in
@@ -22662,6 +22677,7 @@
 0.0.0.0 dkrxtdnlg.com
 0.0.0.0 dks17.com
 0.0.0.0 dkswptmwowowp.xyz
+0.0.0.0 dkwljjbi.com
 0.0.0.0 dl-musicbaran.com
 0.0.0.0 dl-protect.net
 0.0.0.0 dl-rms.com
@@ -22864,6 +22880,7 @@
 0.0.0.0 doctorofdigestion.com
 0.0.0.0 doctorsk.in
 0.0.0.0 doctovc.com
+0.0.0.0 docugoo.com
 0.0.0.0 docuindia.in
 0.0.0.0 doculib.io
 0.0.0.0 document.design
@@ -31739,6 +31756,7 @@
 0.0.0.0 getalltraffic.com
 0.0.0.0 getapo.com
 0.0.0.0 getarrectlive.com
+0.0.0.0 getattentionai.com
 0.0.0.0 getawayspectaclejumped.com
 0.0.0.0 getbestsurvey.top
 0.0.0.0 getbid.me
@@ -35846,6 +35864,7 @@
 0.0.0.0 higylflsnlmfk.com
 0.0.0.0 hiioblfkgtobxxq.xyz
 0.0.0.0 hiirt.yt
+0.0.0.0 hiiwvseqrdxsz.com
 0.0.0.0 hijbswqhctypjrr.xyz
 0.0.0.0 hijoaja.top
 0.0.0.0 hijragain.com
@@ -39064,7 +39083,9 @@
 0.0.0.0 innocencescarcelymoreover.com
 0.0.0.0 innolabstech.in
 0.0.0.0 innologiclab.com
+0.0.0.0 innovadme.com
 0.0.0.0 innovamedicaldevices.com
+0.0.0.0 innovamedicalllc.com
 0.0.0.0 innovamedicalpartners.com
 0.0.0.0 innovatecriticalcare.com.au
 0.0.0.0 innovateoficial.com
@@ -43726,6 +43747,8 @@
 0.0.0.0 koora2live.com
 0.0.0.0 kooralive96.co
 0.0.0.0 koordinacie.info
+0.0.0.0 kootenaycloud.com
+0.0.0.0 kootenaycloud.net
 0.0.0.0 kootzjkz.com
 0.0.0.0 koovapou.xyz
 0.0.0.0 koovaubi.xyz
@@ -45288,6 +45311,7 @@
 0.0.0.0 lenax.tech
 0.0.0.0 lenbergsdesign.com
 0.0.0.0 lenfunk.top
+0.0.0.0 lengheralds.space
 0.0.0.0 lengthcalk.com
 0.0.0.0 lengtikto.xyz
 0.0.0.0 lenia.academy
@@ -53982,6 +54006,7 @@
 0.0.0.0 normtherapy.us
 0.0.0.0 normugtog.com
 0.0.0.0 noroomforterror.com
+0.0.0.0 norrisbum.com
 0.0.0.0 norrizon-sales-distribution.com
 0.0.0.0 norrysharra.website
 0.0.0.0 norseltraheen.com
@@ -55910,6 +55935,7 @@
 0.0.0.0 oneplasticbrazil.com
 0.0.0.0 onepstr.com
 0.0.0.0 oneqanatclub.com
+0.0.0.0 onerousgreeted.com
 0.0.0.0 onerror.cf
 0.0.0.0 onerror.gq
 0.0.0.0 onerror.ml
@@ -57840,6 +57866,7 @@
 0.0.0.0 pardonsentencegeneral.com
 0.0.0.0 pardonsuccessionassassin.com
 0.0.0.0 parecyrclame.com
+0.0.0.0 parentalqualitiesdeputy.com
 0.0.0.0 parentlargevia.com
 0.0.0.0 parentpensionvolunteer.com
 0.0.0.0 parfecrtmoney.com
@@ -62683,6 +62710,7 @@
 0.0.0.0 puzian.net
 0.0.0.0 puzlek.com
 0.0.0.0 puzzleabsolve.com
+0.0.0.0 puzzledoutbalance.com
 0.0.0.0 puzzlementangrily.com
 0.0.0.0 puzzlementevolve.com
 0.0.0.0 puzzlepursued.com
@@ -74055,6 +74083,7 @@
 0.0.0.0 sultanvogue.com
 0.0.0.0 sultingcoem.com
 0.0.0.0 sultrymercury.com
+0.0.0.0 sum1134.com
 0.0.0.0 sumacinstitute.ca
 0.0.0.0 sumagala.org
 0.0.0.0 sumaryagapabrik.tech
@@ -77287,6 +77316,7 @@
 0.0.0.0 thisistvfordogs.com
 0.0.0.0 thisiswaldo.com
 0.0.0.0 thisisyourprize.site
+0.0.0.0 thisisyoursignal.com
 0.0.0.0 thislaboratory.com
 0.0.0.0 thismetric.com
 0.0.0.0 thisnumbermatters.com
@@ -87620,6 +87650,7 @@
 0.0.0.0 www.4mv2.com
 0.0.0.0 www.4rpets.com
 0.0.0.0 www.4sjhdbfsdf41.monster
+0.0.0.0 www.4tbgv.com
 0.0.0.0 www.4x4jhvsdasd.monster
 0.0.0.0 www.510areacode.org
 0.0.0.0 www.516cables.com
@@ -87791,6 +87822,7 @@
 0.0.0.0 www.8x8jahvjd.monster
 0.0.0.0 www.8xhb.com
 0.0.0.0 www.8xvp9g.com
+0.0.0.0 www.9.rarbg.com
 0.0.0.0 www.909.ooo
 0.0.0.0 www.90tenpr.com
 0.0.0.0 www.91bahjsda919.monster
@@ -90135,6 +90167,7 @@
 0.0.0.0 www.codeeazy.com
 0.0.0.0 www.codeholt.com
 0.0.0.0 www.codencouragehumid.com
+0.0.0.0 www.codes.dian5000.com
 0.0.0.0 www.codewithclaudio.com
 0.0.0.0 www.codlebihmurah.tech
 0.0.0.0 www.codspot.app
@@ -94988,6 +95021,7 @@
 0.0.0.0 www.lyricalbarb.com
 0.0.0.0 www.lyricspartnerindecent.com
 0.0.0.0 www.lzfems.com
+0.0.0.0 www.m.baiduxigua.com
 0.0.0.0 www.m.risingproductsearch.com
 0.0.0.0 www.m0x6b.com
 0.0.0.0 www.m365-etsgbv.com
@@ -97090,6 +97124,7 @@
 0.0.0.0 www.properlyleash.com
 0.0.0.0 www.properticlub.com
 0.0.0.0 www.propertyloanbazaar.com
+0.0.0.0 www.propertyofnews.com
 0.0.0.0 www.propertyprintervice.com
 0.0.0.0 www.proponylisten.com
 0.0.0.0 www.propoorpolicy.org
