@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.322
 # Release: 322
-# Entries: 104,871
-# Updated: Sat, 18 Nov 23 08:08:18 +06
+# Entries: 104,874
+# Updated: Sat, 18 Nov 23 10:08:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -71213,6 +71213,7 @@
 0.0.0.0 skywalk.systems
 0.0.0.0 skywaverocs.space
 0.0.0.0 skywell.company
+0.0.0.0 skzdmwoxdgavv.com
 0.0.0.0 sl0898.com
 0.0.0.0 sl1p.rocks
 0.0.0.0 slabshookwasted.com
@@ -101767,6 +101768,7 @@
 0.0.0.0 xgrwjbui.top
 0.0.0.0 xgsgougog.com
 0.0.0.0 xgstemmj.com
+0.0.0.0 xgwhrvnxvhqgi.com
 0.0.0.0 xgwkcpybi.com
 0.0.0.0 xh.eelierrathole.com
 0.0.0.0 xh.tewitbacule.com
@@ -103828,6 +103830,7 @@
 0.0.0.0 yvkbftdi.com
 0.0.0.0 yvkcoktwuroyrwg.com
 0.0.0.0 yvkotabryfg.xyz
+0.0.0.0 yvlqtdaac.com
 0.0.0.0 yvmads.com
 0.0.0.0 yvnvybfesviarfi.com
 0.0.0.0 yvonneharold.top
