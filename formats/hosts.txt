@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.322
 # Release: 322
-# Entries: 104,880
-# Updated: Sat, 18 Nov 23 12:28:52 +06
+# Entries: 104,881
+# Updated: Sat, 18 Nov 23 14:08:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12334,6 +12334,7 @@
 0.0.0.0 bmf-abwicklung-online.site
 0.0.0.0 bmf-erhalten.com
 0.0.0.0 bmf-erinnerung.com
+0.0.0.0 bmf-unterschreiben.com
 0.0.0.0 bmgipyr.com
 0.0.0.0 bmgsindia.org
 0.0.0.0 bmhenchlyica.xyz

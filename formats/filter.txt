@@ -20,8 +20,8 @@
 ! Version: 23.11.322
 ! Release: 322
 ! Expires: 1 day
-! Entries: 104,880
-! Updated: Sat, 18 Nov 23 12:28:52 +06
+! Entries: 104,881
+! Updated: Sat, 18 Nov 23 14:08:24 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -12335,6 +12335,7 @@
 ||bmf-abwicklung-online.site^
 ||bmf-erhalten.com^
 ||bmf-erinnerung.com^
+||bmf-unterschreiben.com^
 ||bmgipyr.com^
 ||bmgsindia.org^
 ||bmhenchlyica.xyz^
