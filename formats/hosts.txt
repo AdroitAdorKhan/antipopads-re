@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.11.322
-# Release: 322
-# Entries: 104,919
-# Updated: Sat, 18 Nov 23 22:08:43 +06
+# Version: 23.11.323
+# Release: 323
+# Entries: 104,921
+# Updated: Sun, 19 Nov 23 00:09:06 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20171,6 +20171,7 @@
 0.0.0.0 czmotos.com
 0.0.0.0 cztorrent.net
 0.0.0.0 czukfuvv.com
+0.0.0.0 czxmmcswwa.com
 0.0.0.0 czyasezpvs.com
 0.0.0.0 czyoxhxufpm.com
 0.0.0.0 czzy00.com
@@ -94088,6 +94089,7 @@
 0.0.0.0 www.infringementseason.com
 0.0.0.0 www.infront-br.com.br
 0.0.0.0 www.infront.app
+0.0.0.0 www.ing-betaalverzoek.com
 0.0.0.0 www.ingarelentcleave.com
 0.0.0.0 www.ingasideline.com
 0.0.0.0 www.ingeniousestateinvolving.com
