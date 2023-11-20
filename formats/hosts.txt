@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.324
 # Release: 324
-# Entries: 105,193
-# Updated: Mon, 20 Nov 23 04:27:15 +06
+# Entries: 105,196
+# Updated: Mon, 20 Nov 23 06:08:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8866,6 +8866,7 @@
 0.0.0.0 autopsyglossy.com
 0.0.0.0 autopsyjam.com
 0.0.0.0 autopujcovna-autopujcovny.info
+0.0.0.0 autoreviews.tv
 0.0.0.0 autosedacky.wtf
 0.0.0.0 autoservicelift.co.in
 0.0.0.0 autoserviskosice.tech
@@ -14277,6 +14278,7 @@
 0.0.0.0 byxulptgi.com
 0.0.0.0 byxyyrgsewww.com
 0.0.0.0 byyanmaor.com
+0.0.0.0 byybljitm.com
 0.0.0.0 byym18.com
 0.0.0.0 byymaykhlqt.com
 0.0.0.0 byz8h6sh15lk3qevs7ukwrlmxd.com
@@ -36303,6 +36305,7 @@
 0.0.0.0 hko.asia
 0.0.0.0 hkoxlirf.com
 0.0.0.0 hkpfxxhltqxlug.com
+0.0.0.0 hkpqkzxyouddr.com
 0.0.0.0 hkrealty.in
 0.0.0.0 hksilver.tech
 0.0.0.0 hkskazmx.com
