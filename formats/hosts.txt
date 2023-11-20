@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.324
 # Release: 324
-# Entries: 105,234
-# Updated: Mon, 20 Nov 23 18:09:06 +06
+# Entries: 105,236
+# Updated: Mon, 20 Nov 23 20:32:00 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -37935,6 +37935,7 @@
 0.0.0.0 icecaxyn.website
 0.0.0.0 icecutter.com
 0.0.0.0 icedewear.site
+0.0.0.0 icekpdpdp.com
 0.0.0.0 icelessbogles.com
 0.0.0.0 icemenrailage.life
 0.0.0.0 iceplex.com
@@ -99374,6 +99375,7 @@
 0.0.0.0 www.statesmanridiculousplatitude.com
 0.0.0.0 www.statestockingsconfession.com
 0.0.0.0 www.statisticseither.com
+0.0.0.0 www.statistik.arbeitsaqentur.de
 0.0.0.0 www.statoilbiluthyrning.net
 0.0.0.0 www.staturecolonialismtransition.com
 0.0.0.0 www.staubsuthil.com
