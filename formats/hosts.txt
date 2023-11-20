@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.324
 # Release: 324
-# Entries: 105,205
-# Updated: Mon, 20 Nov 23 12:26:42 +06
+# Entries: 105,206
+# Updated: Mon, 20 Nov 23 14:09:40 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -37346,6 +37346,7 @@
 0.0.0.0 hueadsxml.com
 0.0.0.0 huebernetes.dev
 0.0.0.0 hueton.net
+0.0.0.0 huffingontpost.com
 0.0.0.0 hugcitarclothing.com
 0.0.0.0 hugeincome.cf
 0.0.0.0 hugelyantony.com
