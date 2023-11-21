@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.325
 # Release: 325
-# Entries: 105,373
-# Updated: Tue, 21 Nov 23 14:09:35 +06
+# Entries: 105,393
+# Updated: Tue, 21 Nov 23 16:11:11 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11696,6 +11696,7 @@
 0.0.0.0 bingtataplay.co.in
 0.0.0.0 bingtataplay.in
 0.0.0.0 binhady.net
+0.0.0.0 binho.network
 0.0.0.0 binhthuan.sale
 0.0.0.0 binhwheyey.uno
 0.0.0.0 binmenkollast.com
@@ -16794,8 +16795,16 @@
 0.0.0.0 cityexpertsfm.com
 0.0.0.0 citynewszet.com
 0.0.0.0 cityoftrouvaille.com
+0.0.0.0 cityofvermilion.info
+0.0.0.0 cityofvermilion.net
 0.0.0.0 cityofvermilionoh.com
+0.0.0.0 cityofvermilionoh.info
+0.0.0.0 cityofvermilionoh.net
+0.0.0.0 cityofvermilionoh.org
 0.0.0.0 cityofvermilionohio.gov
+0.0.0.0 cityofvermilionohio.info
+0.0.0.0 cityofvermilionohio.net
+0.0.0.0 cityofvermilionohio.org
 0.0.0.0 cityonlinenews.com
 0.0.0.0 citypeedika.net
 0.0.0.0 cityrealnews.com
@@ -33795,6 +33804,7 @@
 0.0.0.0 grannyaudiblypriceless.com
 0.0.0.0 grannyconfide.com
 0.0.0.0 grannyfuck.me
+0.0.0.0 grannygetyourlinux.com
 0.0.0.0 grannysteer.com
 0.0.0.0 grannytelevision.com
 0.0.0.0 grano.coffee
@@ -39991,6 +40001,7 @@
 0.0.0.0 ipkqfkzsmme.com
 0.0.0.0 iplaction.in.net
 0.0.0.0 iplallstars.in.net
+0.0.0.0 iplanfaster.com
 0.0.0.0 iplcommunity.in.net
 0.0.0.0 iplfanclub.in.net
 0.0.0.0 iplfans.in.net
@@ -48121,6 +48132,7 @@
 0.0.0.0 mailerrobands.website
 0.0.0.0 mailfdf.com
 0.0.0.0 mailgalactic.com
+0.0.0.0 mailget.net
 0.0.0.0 mailieungka.com
 0.0.0.0 mailingyafteam.com
 0.0.0.0 mailmanuptown.com
@@ -49144,6 +49156,9 @@
 0.0.0.0 mclude.com
 0.0.0.0 mcmeanjnoquoyo.com
 0.0.0.0 mcmfj.net
+0.0.0.0 mcmillan.family
+0.0.0.0 mcmillan.partners
+0.0.0.0 mcmillen.app
 0.0.0.0 mcmnljwjgwwmypi.com
 0.0.0.0 mcpdqfnvluhpwt.com
 0.0.0.0 mcpe-tools.com
@@ -71744,6 +71759,7 @@
 0.0.0.0 slovakscombite.guru
 0.0.0.0 slovaktransfer.com
 0.0.0.0 slovakwells.com
+0.0.0.0 sloveniabynight.com
 0.0.0.0 sloveniangoodies.com
 0.0.0.0 sloveniangoodies.net
 0.0.0.0 slovenko.pizza
@@ -88398,6 +88414,7 @@
 0.0.0.0 www.8abwjdax8.monster
 0.0.0.0 www.8ajhsvjdasd873.monster
 0.0.0.0 www.8ajhvsjhdasd87.monster
+0.0.0.0 www.8detelatsrer.com
 0.0.0.0 www.8gtasnoleder.com
 0.0.0.0 www.8hjawduu.monster
 0.0.0.0 www.8jahbsjhdasd88.monster
@@ -95687,6 +95704,7 @@
 0.0.0.0 www.magint.biz
 0.0.0.0 www.magistratehumorousjeep.com
 0.0.0.0 www.magnati.co.uk
+0.0.0.0 www.mahaidroagra.com
 0.0.0.0 www.mahakriya.com
 0.0.0.0 www.maharajgroup.co.za
 0.0.0.0 www.maharashtranavikkamgarsanghatana.com
@@ -100113,6 +100131,7 @@
 0.0.0.0 www.themselvesbike.com
 0.0.0.0 www.thenceextremeeyewitness.com
 0.0.0.0 www.thencemutinyhamburger.com
+0.0.0.0 www.thenewstreams.com
 0.0.0.0 www.thenorth39.yourarchitects.in
 0.0.0.0 www.thentech.xyz
 0.0.0.0 www.theobaidur.dev
@@ -104253,6 +104272,7 @@
 0.0.0.0 yuelecsa.com
 0.0.0.0 yuflowers24.com
 0.0.0.0 yugnirman.org
+0.0.0.0 yugosnacks.com
 0.0.0.0 yugout.com
 0.0.0.0 yugverse.com
 0.0.0.0 yuhqeim.com
