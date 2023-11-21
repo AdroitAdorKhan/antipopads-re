@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.325
 # Release: 325
-# Entries: 105,273
-# Updated: Tue, 21 Nov 23 06:09:20 +06
+# Entries: 105,278
+# Updated: Tue, 21 Nov 23 08:12:43 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14238,6 +14238,7 @@
 0.0.0.0 bye.monster
 0.0.0.0 byeavupo.com
 0.0.0.0 byeej.com
+0.0.0.0 byfolidev.com
 0.0.0.0 byfoongusor.com
 0.0.0.0 bygoneplacidity.com
 0.0.0.0 byhoppipan.com
@@ -35251,6 +35252,7 @@
 0.0.0.0 hbreavis.cn.com
 0.0.0.0 hbref.com
 0.0.0.0 hbrphusgbhpjpi.com
+0.0.0.0 hbsuklqoqmjuz.com
 0.0.0.0 hbtnqagdiptv.com
 0.0.0.0 hbuvpsfplllwsj.com
 0.0.0.0 hbvcfund.com
@@ -40566,6 +40568,7 @@
 0.0.0.0 iximiapp.com
 0.0.0.0 ixinst.com
 0.0.0.0 ixkhaxpubqf.com
+0.0.0.0 ixkxdeqmr.com
 0.0.0.0 ixljluojcit.com
 0.0.0.0 ixmbkxthnj.xyz
 0.0.0.0 ixnow.xyz
@@ -63270,6 +63273,7 @@
 0.0.0.0 qaoqw.yt
 0.0.0.0 qapharmco.com
 0.0.0.0 qapumwieq.com
+0.0.0.0 qapwgjakt.com
 0.0.0.0 qaqhbffimfhfm.xyz
 0.0.0.0 qaraellr.com
 0.0.0.0 qarewien.com
@@ -102836,6 +102840,7 @@
 0.0.0.0 xuezsw.com
 0.0.0.0 xuffojr.com
 0.0.0.0 xufmuhavdpze.com
+0.0.0.0 xufukhfhqc.com
 0.0.0.0 xugkcigkoqtbnbp.com
 0.0.0.0 xuhren.de
 0.0.0.0 xujanxdro.com
