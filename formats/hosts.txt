@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.326
 # Release: 326
-# Entries: 105,456
-# Updated: Wed, 22 Nov 23 10:20:59 +06
+# Entries: 105,460
+# Updated: Wed, 22 Nov 23 12:09:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -34517,6 +34517,7 @@
 0.0.0.0 guxigmggrovpj.xyz
 0.0.0.0 guxrskldqaowi.com
 0.0.0.0 guxsxexlkdk.xyz
+0.0.0.0 guypykhva.com
 0.0.0.0 guysstuff.xyz
 0.0.0.0 guytzaig.com
 0.0.0.0 guzame.com
@@ -53097,6 +53098,7 @@
 0.0.0.0 nebcconnectorforcanada.ca
 0.0.0.0 nebezpecneznamosti.com
 0.0.0.0 nebgov.org
+0.0.0.0 nebojtesevedy.com
 0.0.0.0 nebsefte.net
 0.0.0.0 nebulouslostpremium.com
 0.0.0.0 neburn.com
@@ -64049,6 +64051,7 @@
 0.0.0.0 querylead.com
 0.0.0.0 quesid.com
 0.0.0.0 quesomanchego.us
+0.0.0.0 questcreat.com
 0.0.0.0 questionable-dead.com
 0.0.0.0 questioningtosscontradiction.com
 0.0.0.0 questionsadjournasleep.com
@@ -80564,6 +80567,7 @@
 0.0.0.0 tudosobredachshund.com
 0.0.0.0 tudou369.com
 0.0.0.0 tudungaruda.com
+0.0.0.0 tudy.info
 0.0.0.0 tuench.com
 0.0.0.0 tuereselchef.net
 0.0.0.0 tuesdayfetidlit.com
