@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.327
 # Release: 327
-# Entries: 105,529
-# Updated: Thu, 23 Nov 23 06:08:16 +06
+# Entries: 105,532
+# Updated: Thu, 23 Nov 23 08:09:28 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7616,6 +7616,7 @@
 0.0.0.0 ariacall.com
 0.0.0.0 ariadnethreadmin.com
 0.0.0.0 ariagrillbbq.com
+0.0.0.0 ariamovie13.site
 0.0.0.0 arianroid.com
 0.0.0.0 ariapawners.space
 0.0.0.0 ariav.ir
@@ -46603,6 +46604,7 @@
 0.0.0.0 lk.fuseyantra.com
 0.0.0.0 lkaggdcugi.com
 0.0.0.0 lkahoo.com
+0.0.0.0 lkbsthmrsfzzb.com
 0.0.0.0 lkcoffe.com
 0.0.0.0 lkdazrtkame.com
 0.0.0.0 lkdvvxvtsq6o.com
@@ -89320,6 +89322,7 @@
 0.0.0.0 www.arenalitteraccommodation.com
 0.0.0.0 www.arevelk.am
 0.0.0.0 www.argumentsmaymadly.com
+0.0.0.0 www.ariamovie13.site
 0.0.0.0 www.arianroid.com
 0.0.0.0 www.aridgrinmode.com
 0.0.0.0 www.aridplaincol.com
