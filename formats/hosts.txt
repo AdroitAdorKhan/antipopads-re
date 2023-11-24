@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.329
 # Release: 329
-# Entries: 105,987
-# Updated: Sat, 25 Nov 23 02:09:37 +06
+# Entries: 105,988
+# Updated: Sat, 25 Nov 23 04:09:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -54376,6 +54376,7 @@
 0.0.0.0 njiaokkpupwvb.com
 0.0.0.0 njimrrrflhr.xyz
 0.0.0.0 njipcidlmau.com
+0.0.0.0 njjebgkvrniwmr.com
 0.0.0.0 njkewubccvt.com
 0.0.0.0 njlzougyfjo.com
 0.0.0.0 njmcdiect.com
