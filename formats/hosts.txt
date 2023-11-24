@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.328
 # Release: 328
-# Entries: 105,736
-# Updated: Fri, 24 Nov 23 08:08:28 +06
+# Entries: 105,739
+# Updated: Fri, 24 Nov 23 10:25:35 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -50436,6 +50436,7 @@
 0.0.0.0 minduniversity.online
 0.0.0.0 minduniversity.pw
 0.0.0.0 mineabstain.com
+0.0.0.0 minecraft-lord.mobi
 0.0.0.0 minecraftfreemods.net
 0.0.0.0 minecraftrain.com
 0.0.0.0 minefieldallegiance.com
@@ -96093,6 +96094,7 @@
 0.0.0.0 www.manuscriptconsultinggroup.org
 0.0.0.0 www.manymoneysurvey.top
 0.0.0.0 www.maomiav87.com
+0.0.0.0 www.map-generator.org
 0.0.0.0 www.marallycraft.com.au
 0.0.0.0 www.maranasoaps.com
 0.0.0.0 www.maratechsolutions.tech
@@ -102293,6 +102295,7 @@
 0.0.0.0 wzdsxodkcxsl.com
 0.0.0.0 wzdzht7am5.com
 0.0.0.0 wzelkaekmoman.com
+0.0.0.0 wzevzicdraw.com
 0.0.0.0 wzk5ndpc3x05.com
 0.0.0.0 wzlbhfldl.com
 0.0.0.0 wzmidfgwyxfrd.com
