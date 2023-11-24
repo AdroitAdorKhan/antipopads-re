@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.328
 # Release: 328
-# Entries: 105,744
-# Updated: Fri, 24 Nov 23 12:08:58 +06
+# Entries: 105,746
+# Updated: Fri, 24 Nov 23 14:09:27 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -18268,6 +18268,7 @@
 0.0.0.0 comuneenergy.com
 0.0.0.0 comuneenergy.net
 0.0.0.0 comunicazio.com
+0.0.0.0 comunpkg.com
 0.0.0.0 comurbate.com
 0.0.0.0 comvashgj66w.com
 0.0.0.0 comverto.io
@@ -63410,6 +63411,7 @@
 0.0.0.0 pvggjempoyubp.xyz
 0.0.0.0 pvhsjjxycke.com
 0.0.0.0 pviojfpfbiifux.com
+0.0.0.0 pvjiqmryv.com
 0.0.0.0 pvkhousocgotuoj.com
 0.0.0.0 pvkntojw.com
 0.0.0.0 pvlcbsynxsabti.com
