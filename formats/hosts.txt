@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.329
 # Release: 329
-# Entries: 106,005
-# Updated: Sat, 25 Nov 23 12:10:01 +06
+# Entries: 106,007
+# Updated: Sat, 25 Nov 23 14:09:04 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -32599,6 +32599,7 @@
 0.0.0.0 giris-con.com
 0.0.0.0 girise.com
 0.0.0.0 girl-51-w.com
+0.0.0.0 girl-758.net
 0.0.0.0 girl7y.com
 0.0.0.0 girlbuffalo.com
 0.0.0.0 girliegurgle.com
@@ -61501,6 +61502,7 @@
 0.0.0.0 popularmedia.net
 0.0.0.0 populationrind.com
 0.0.0.0 populisengage.com
+0.0.0.0 populiser.com
 0.0.0.0 popult.com
 0.0.0.0 popunder.bid
 0.0.0.0 popunder.ru
