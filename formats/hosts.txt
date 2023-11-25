@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.329
 # Release: 329
-# Entries: 106,000
-# Updated: Sat, 25 Nov 23 08:30:17 +06
+# Entries: 106,002
+# Updated: Sat, 25 Nov 23 10:08:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8521,6 +8521,7 @@
 0.0.0.0 atonementwisely.com
 0.0.0.0 atopyawned.uno
 0.0.0.0 atorium.io
+0.0.0.0 atoshonetwork.com
 0.0.0.0 atougnou.com
 0.0.0.0 atoverify.net
 0.0.0.0 atozas.in
@@ -72229,6 +72230,7 @@
 0.0.0.0 slowingvile.com
 0.0.0.0 sloydpev.com
 0.0.0.0 slpandme.com
+0.0.0.0 slpmcfdljsntwp.com
 0.0.0.0 slpost.us
 0.0.0.0 slpresource.com
 0.0.0.0 slpsalary.com
