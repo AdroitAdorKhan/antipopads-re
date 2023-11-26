@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.11.330
-# Release: 330
-# Entries: 106,256
-# Updated: Sun, 26 Nov 23 22:10:51 +06
+# Version: 23.11.331
+# Release: 331
+# Entries: 106,258
+# Updated: Mon, 27 Nov 23 00:28:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6916,6 +6916,7 @@
 0.0.0.0 antonywingraceless.com
 0.0.0.0 antpeelpiston.com
 0.0.0.0 antracity.com
+0.0.0.0 antrumfords.guru
 0.0.0.0 antsexpress.tech
 0.0.0.0 antslogistic.com
 0.0.0.0 antt27.com
@@ -35522,6 +35523,7 @@
 0.0.0.0 hayfatduh.com
 0.0.0.0 hayjvhirir.com
 0.0.0.0 haymishlytta.com
+0.0.0.0 haymishmyophan.website
 0.0.0.0 haymowsbecker.life
 0.0.0.0 haynesboonesllp.com
 0.0.0.0 hayrealty.com
