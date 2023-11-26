@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.330
 # Release: 330
-# Entries: 106,117
-# Updated: Sun, 26 Nov 23 14:09:30 +06
+# Entries: 106,141
+# Updated: Sun, 26 Nov 23 16:58:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2962,6 +2962,9 @@
 0.0.0.0 aastea.it
 0.0.0.0 aasthaproductions.online
 0.0.0.0 aate.in
+0.0.0.0 aateasthddmain.com
+0.0.0.0 aateasthmain.com
+0.0.0.0 aatesthddmain.com
 0.0.0.0 aattilaa.com
 0.0.0.0 aatukutty.com
 0.0.0.0 aatysdhjlbgwy.xyz
@@ -4863,6 +4866,7 @@
 0.0.0.0 agelessgentlemen.com
 0.0.0.0 agelesslipo.com
 0.0.0.0 agelessmdspa.com
+0.0.0.0 agelesssurgery.com
 0.0.0.0 agelessuniverse.ca
 0.0.0.0 agelessuniversepledge.com
 0.0.0.0 agelle.net
@@ -19766,6 +19770,7 @@
 0.0.0.0 cryptozotees.com
 0.0.0.0 cryptraffic.de
 0.0.0.0 cryptter.online
+0.0.0.0 crysbenz.com
 0.0.0.0 crystal-blocker.com
 0.0.0.0 crystalclean803.net
 0.0.0.0 crystalheart.club
@@ -23339,6 +23344,7 @@
 0.0.0.0 domakuhitaor.com
 0.0.0.0 domankeyan.com
 0.0.0.0 domantix.net
+0.0.0.0 domawwwcin.com
 0.0.0.0 domaz99.com
 0.0.0.0 dombnrs.com
 0.0.0.0 dombocostomy.website
@@ -23467,6 +23473,8 @@
 0.0.0.0 doptik.ru
 0.0.0.0 dopverload.com
 0.0.0.0 doqcaklxqa.com
+0.0.0.0 doqmawwqwcin.com
+0.0.0.0 doqmawwwcin.com
 0.0.0.0 doqmwwqwcin.com
 0.0.0.0 dorabondy.com
 0.0.0.0 doradolegacy.org
@@ -24445,6 +24453,7 @@
 0.0.0.0 dxbnanscrg.com
 0.0.0.0 dxbpet.net
 0.0.0.0 dxbsdetipqzbp.com
+0.0.0.0 dxd.studio
 0.0.0.0 dxdboroipcvo.com
 0.0.0.0 dxehipdrhcsfpt.com
 0.0.0.0 dxepydwomkbg.com
@@ -25814,6 +25823,7 @@
 0.0.0.0 elfinsande.website
 0.0.0.0 elgame-gift.com
 0.0.0.0 elghanam.company
+0.0.0.0 elgiganten.pro
 0.0.0.0 elgmvhpbfvlcd.xyz
 0.0.0.0 elgolazodeportes.info
 0.0.0.0 elgoog.top
@@ -29087,6 +29097,7 @@
 0.0.0.0 fighes.com
 0.0.0.0 fighla.com
 0.0.0.0 fighters.in.net
+0.0.0.0 fighting4fairness.com
 0.0.0.0 fightingcowardlycoffin.com
 0.0.0.0 fightingleatherconspicuous.com
 0.0.0.0 fightmallowfiasco.com
@@ -40050,6 +40061,7 @@
 0.0.0.0 intrasy.cloud
 0.0.0.0 intrepidrosebudstationery.com
 0.0.0.0 intricatering.com
+0.0.0.0 intrinsicvaluecoaching.com
 0.0.0.0 intro4ads.com
 0.0.0.0 introfykeeler.tech
 0.0.0.0 introvurt.us
@@ -40785,6 +40797,7 @@
 0.0.0.0 iv.gypsyrysmarter.com
 0.0.0.0 iv.scousepneuma.com
 0.0.0.0 ivaaya.in
+0.0.0.0 ivaluecoaching.com
 0.0.0.0 ivanatheassistant.com
 0.0.0.0 ivanavirtualassistant.com
 0.0.0.0 ivankalapar.com
@@ -43104,6 +43117,7 @@
 0.0.0.0 kantemo.com
 0.0.0.0 kanteogroup.com
 0.0.0.0 kantiwl.com
+0.0.0.0 kanukapoint.com
 0.0.0.0 kanzy3.com
 0.0.0.0 kaoelsng.com
 0.0.0.0 kaol.tech
@@ -52765,7 +52779,9 @@
 0.0.0.0 myteamdev.com
 0.0.0.0 mytelehealth.email
 0.0.0.0 mytelomereclub.com
+0.0.0.0 myteqwstoain.com
 0.0.0.0 mytestingdomain.fun
+0.0.0.0 mytestoain.com
 0.0.0.0 mythecover.com
 0.0.0.0 mythicholdings.org
 0.0.0.0 mythincredibly.com
@@ -53562,8 +53578,10 @@
 0.0.0.0 nenkydolls.com
 0.0.0.0 nenorth.com
 0.0.0.0 neo-capital.net
+0.0.0.0 neo-collectivism.com
 0.0.0.0 neoaginglabs.com
 0.0.0.0 neobiobank.us.com
+0.0.0.0 neocollectivism.com
 0.0.0.0 neocounter.net
 0.0.0.0 neoenergiacoelba.com
 0.0.0.0 neofi.lol
@@ -75764,6 +75782,7 @@
 0.0.0.0 swingernight.com
 0.0.0.0 swingthesaurusground.com
 0.0.0.0 swingtoeswinds.com
+0.0.0.0 swipingnoddle.com
 0.0.0.0 swiprexs.xyz
 0.0.0.0 swirl.surf
 0.0.0.0 swirlygossips.com
@@ -77214,6 +77233,7 @@
 0.0.0.0 testamenttakeoutkill.com
 0.0.0.0 testbot.tech
 0.0.0.0 testcombatverge.com
+0.0.0.0 testdomainxxx.com
 0.0.0.0 testenvrac.com
 0.0.0.0 testhwabaoleasing.com
 0.0.0.0 testifyconvent.com
@@ -79239,6 +79259,7 @@
 0.0.0.0 tokboo.com
 0.0.0.0 toke.pw
 0.0.0.0 tokegdujtjha.com
+0.0.0.0 tokemcpuff.org
 0.0.0.0 token-gazette.com
 0.0.0.0 token-hut.com
 0.0.0.0 token-pay.net
@@ -79555,6 +79576,7 @@
 0.0.0.0 toprevenuecpmnetwork.com
 0.0.0.0 toprevenuegate.com
 0.0.0.0 toprevenuenetwork.com
+0.0.0.0 tops-study.org
 0.0.0.0 topscan-mca.click
 0.0.0.0 topsecret.in
 0.0.0.0 topsecretmotorsports.com
@@ -79794,6 +79816,7 @@
 0.0.0.0 tox2.in
 0.0.0.0 toxicfluency.com
 0.0.0.0 toxicrookie.com
+0.0.0.0 toxotaepotail.uno
 0.0.0.0 toxpkfvuln.com
 0.0.0.0 toxqewor.xyz
 0.0.0.0 toyboxnetwork.com
@@ -96731,6 +96754,7 @@
 0.0.0.0 www.mixtureanticipationsuede.com
 0.0.0.0 www.mizuhogroup.ru
 0.0.0.0 www.mjbpab.com
+0.0.0.0 www.mjshuku.com
 0.0.0.0 www.mjsq9.com
 0.0.0.0 www.mlab-group.fr
 0.0.0.0 www.mlmseva.com
