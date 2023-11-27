@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.331
 # Release: 331
-# Entries: 106,299
-# Updated: Mon, 27 Nov 23 06:10:27 +06
+# Entries: 106,306
+# Updated: Mon, 27 Nov 23 08:39:43 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19433,6 +19433,7 @@
 0.0.0.0 crankyfolkoutwit.com
 0.0.0.0 crankysneak.com
 0.0.0.0 crantscopart.com
+0.0.0.0 cranyparvuli.guru
 0.0.0.0 crashexecute.com
 0.0.0.0 crashlund.org
 0.0.0.0 crashnoodle.com
@@ -22187,6 +22188,7 @@
 0.0.0.0 dhuumdhaam.com
 0.0.0.0 dhvary.com
 0.0.0.0 dhwxprlh.com
+0.0.0.0 dhxdkwdvfnstrp.com
 0.0.0.0 dhyallache.space
 0.0.0.0 di.crosslyzapotec.com
 0.0.0.0 di7stero.com
@@ -46968,6 +46970,7 @@
 0.0.0.0 lkjgdyhtdrnau.com
 0.0.0.0 lkjhgfgsdshja.com
 0.0.0.0 lkjjhrwrcmvtl.com
+0.0.0.0 lkjoncgixi.com
 0.0.0.0 lkjtnemlg.xyz
 0.0.0.0 lkkhedpqeduyukj.com
 0.0.0.0 lkkmnudvvx.com
@@ -54636,6 +54639,7 @@
 0.0.0.0 nmybyxnjscf.com
 0.0.0.0 nn.hailerroloway.com
 0.0.0.0 nn100.in
+0.0.0.0 nnbebolp.xyz
 0.0.0.0 nnbivwzl.com
 0.0.0.0 nncvwymtn.com
 0.0.0.0 nndiscov.cfd
@@ -74898,6 +74902,7 @@
 0.0.0.0 strictgrittwine.com
 0.0.0.0 strident-writing.com
 0.0.0.0 stridentbedroom.pro
+0.0.0.0 strideovertakelargest.com
 0.0.0.0 strigh.com
 0.0.0.0 strigoncraft.com
 0.0.0.0 strike.coop
@@ -86621,6 +86626,7 @@
 0.0.0.0 wearpoppy.com
 0.0.0.0 wearsaleau.top
 0.0.0.0 weartstudiodesign.com
+0.0.0.0 wearwaried.guru
 0.0.0.0 wearydisturbing.com
 0.0.0.0 wearygrocery.pro
 0.0.0.0 wearyregister.com
@@ -104213,6 +104219,7 @@
 0.0.0.0 ybmnptiuj.xyz
 0.0.0.0 ybplatforms.com
 0.0.0.0 ybqlqhajlqoot.xyz
+0.0.0.0 ybrgpiuflwbdjj.com
 0.0.0.0 ybruwzpma.com
 0.0.0.0 ybs2ffs7v.com
 0.0.0.0 ybsworld.us
