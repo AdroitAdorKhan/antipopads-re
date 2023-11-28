@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.332
 # Release: 332
-# Entries: 106,610
-# Updated: Tue, 28 Nov 23 14:26:04 +06
+# Entries: 106,618
+# Updated: Tue, 28 Nov 23 16:12:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16649,6 +16649,7 @@
 0.0.0.0 choffin.com
 0.0.0.0 choicecaledon.ca
 0.0.0.0 choicedorm.top
+0.0.0.0 choiceencounterjackson.com
 0.0.0.0 choiceitlab.ca
 0.0.0.0 choirsoftheworld.com
 0.0.0.0 chokedsmelt.com
@@ -18095,6 +18096,7 @@
 0.0.0.0 colorfuloriental.com
 0.0.0.0 colorfulspecialinsurance.com
 0.0.0.0 colorfulwiped.com
+0.0.0.0 colorhandling.com
 0.0.0.0 colorificiopadano.it
 0.0.0.0 coloring.photo
 0.0.0.0 coloringelements.com
@@ -31200,6 +31202,7 @@
 0.0.0.0 fulabachu.com
 0.0.0.0 fulbe-whs.com
 0.0.0.0 fulcrumdivi.store
+0.0.0.0 fulfiladaptationvolcano.com
 0.0.0.0 fulfilleddetrimentpot.com
 0.0.0.0 fulgidbirls.life
 0.0.0.0 fulhamscaboose.website
@@ -31666,6 +31669,7 @@
 0.0.0.0 galeaeevovae.com
 0.0.0.0 galeagepicory.uno
 0.0.0.0 galeateflagged.guru
+0.0.0.0 galeguardearliest.com
 0.0.0.0 galerie-jadran.net
 0.0.0.0 galesflorida.space
 0.0.0.0 galfpefqnmnaqm.com
@@ -43360,6 +43364,7 @@
 0.0.0.0 karbianglonglive.com
 0.0.0.0 kardiologiabudapest.com
 0.0.0.0 kareaumatzot.com
+0.0.0.0 kareexpert.com
 0.0.0.0 karelmuckle.top
 0.0.0.0 karelot.com
 0.0.0.0 karenation.com
@@ -44706,6 +44711,7 @@
 0.0.0.0 koupimlekarnu.com
 0.0.0.0 kouptufezi.com
 0.0.0.0 koureptu.xyz
+0.0.0.0 koustouk.net
 0.0.0.0 koutobey.net
 0.0.0.0 kouty.ski
 0.0.0.0 kouxvysiyvwbtck.com
@@ -45002,6 +45008,7 @@
 0.0.0.0 kupedie.net
 0.0.0.0 kupelne.online
 0.0.0.0 kupharlutetia.com
+0.0.0.0 kuplacno.com
 0.0.0.0 kuponplus.com
 0.0.0.0 kuprfm.com
 0.0.0.0 kuqdtug.com
@@ -102333,6 +102340,7 @@
 0.0.0.0 www.web-kite.ru
 0.0.0.0 www.webbrowser-downloading.com
 0.0.0.0 www.webcube-dsp.jp
+0.0.0.0 www.webdesign.saptorge.com
 0.0.0.0 www.webdisk.sportsonlineeventlive.xyz
 0.0.0.0 www.webgodaddy.site
 0.0.0.0 www.weblibras.com.br
