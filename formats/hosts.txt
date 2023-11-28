@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.332
 # Release: 332
-# Entries: 106,598
-# Updated: Tue, 28 Nov 23 12:11:13 +06
+# Entries: 106,610
+# Updated: Tue, 28 Nov 23 14:26:04 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5525,6 +5525,7 @@
 0.0.0.0 alacrityprepayprecursor.com
 0.0.0.0 aladdin-bazar.com
 0.0.0.0 aladei.net
+0.0.0.0 alaiaoyvrft.com
 0.0.0.0 alakapuriholidays.com
 0.0.0.0 alaldidw.top
 0.0.0.0 alamanahuae.com
@@ -11281,6 +11282,7 @@
 0.0.0.0 better-might.pro
 0.0.0.0 betteradsystem.com
 0.0.0.0 betterepack.com
+0.0.0.0 betterfy-ai.com
 0.0.0.0 betterinnovationmeetup.com
 0.0.0.0 betterops.ca
 0.0.0.0 betterpiedmont.org
@@ -12117,6 +12119,7 @@
 0.0.0.0 blackfridaytvs.com
 0.0.0.0 blackhillselite.com
 0.0.0.0 blackhillsgunclub.com
+0.0.0.0 blackholedonuts.com
 0.0.0.0 blackhorseriders.co.uk
 0.0.0.0 blackinxxx.com
 0.0.0.0 blacklightwine.com
@@ -21354,6 +21357,7 @@
 0.0.0.0 declutteryourmind.org
 0.0.0.0 decoastalre.com
 0.0.0.0 decoctionembedded.com
+0.0.0.0 decoded.one
 0.0.0.0 decodesnaevoid.life
 0.0.0.0 decofailosport.it
 0.0.0.0 decomaxprofile.ir
@@ -33825,6 +33829,7 @@
 0.0.0.0 google--analytics.com
 0.0.0.0 google-analtyics.com
 0.0.0.0 google-analutics.com
+0.0.0.0 google-analyticals.com
 0.0.0.0 google-api-service.com
 0.0.0.0 google-removedforpreview-analytics.com
 0.0.0.0 google.comwww.profitablecreativeformat.com
@@ -44881,6 +44886,7 @@
 0.0.0.0 kspbmyhj.com
 0.0.0.0 kspdz.com
 0.0.0.0 ksqenbkf.com
+0.0.0.0 ksqklbmlyhgx.com
 0.0.0.0 kssvsjfhxpzwfd.com
 0.0.0.0 kstreet.ch
 0.0.0.0 ksuoodqeiuupey.com
@@ -55731,6 +55737,7 @@
 0.0.0.0 nxfvjosxfouv.com
 0.0.0.0 nxhmdqjwjwnk.xyz
 0.0.0.0 nxiqvhhm.com
+0.0.0.0 nxjrikqrq.com
 0.0.0.0 nxkicgbipqnnab.xyz
 0.0.0.0 nxlcitbsghl.com
 0.0.0.0 nxlogugw.com
@@ -56538,6 +56545,7 @@
 0.0.0.0 ohsatum.info
 0.0.0.0 ohspmuo.com
 0.0.0.0 ohtctjiuow.com
+0.0.0.0 ohtoiogss.com
 0.0.0.0 ohuacuvfc.com
 0.0.0.0 ohudkrjhxmf.com
 0.0.0.0 ohvcuqjqmjcfiys.com
@@ -62543,6 +62551,7 @@
 0.0.0.0 prfpktammbj.xyz
 0.0.0.0 prftonnes.com
 0.0.0.0 prg.smartadserver.com
+0.0.0.0 prgmt.com
 0.0.0.0 prhagpkwrp.top
 0.0.0.0 prhqohelycoddl.xyz
 0.0.0.0 prhzxq.com
@@ -74176,6 +74185,7 @@
 0.0.0.0 squiyaflkitcnhx.com
 0.0.0.0 squjfsaveqhhl.com
 0.0.0.0 sqxkensrkhp.com
+0.0.0.0 sqxvrwsslivpjib.xyz
 0.0.0.0 sqydhgubsy.com
 0.0.0.0 sr.footwaydoomed.com
 0.0.0.0 sr7pv7n5x.com
@@ -77590,6 +77600,8 @@
 0.0.0.0 teslamongolia.com
 0.0.0.0 teslatime.net
 0.0.0.0 tesmxfmlrjrfhvv.com
+0.0.0.0 tesooddmain.com
+0.0.0.0 tesoooddmain.com
 0.0.0.0 tesplan.com
 0.0.0.0 tesshcjcqepmli.com
 0.0.0.0 tesswithoughcle.com
