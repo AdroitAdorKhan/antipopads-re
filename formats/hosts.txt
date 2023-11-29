@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.11.333
 # Release: 333
-# Entries: 106,753
-# Updated: Wed, 29 Nov 23 06:25:54 +06
+# Entries: 106,756
+# Updated: Wed, 29 Nov 23 08:10:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -50459,6 +50459,7 @@
 0.0.0.0 metalurgicai.com
 0.0.0.0 metalurgicail.com
 0.0.0.0 metalwindows.uk
+0.0.0.0 metamarket.quest
 0.0.0.0 metamask.cafe
 0.0.0.0 metamask.dev
 0.0.0.0 metamaskairdrop.online
@@ -82139,6 +82140,7 @@
 0.0.0.0 tzvroyuhmkvlsa.com
 0.0.0.0 tzyjotwoocku.com
 0.0.0.0 tzyus-p.net
+0.0.0.0 u.www.dimseeksa.com
 0.0.0.0 u0054.com
 0.0.0.0 u0064.com
 0.0.0.0 u1pmt.com
@@ -97222,6 +97224,7 @@
 0.0.0.0 www.meta11webservices.com
 0.0.0.0 www.metadolar.live
 0.0.0.0 www.metalskibase.co.uk
+0.0.0.0 www.metamarket.quest
 0.0.0.0 www.metamask.cafe
 0.0.0.0 www.metasterisk.com
 0.0.0.0 www.metatronsafe.com
