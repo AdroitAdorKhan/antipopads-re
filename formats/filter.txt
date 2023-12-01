@@ -20,8 +20,8 @@
 ! Version: 23.12.335
 ! Release: 335
 ! Expires: 1 day
-! Entries: 107,152
-! Updated: Fri, 01 Dec 23 10:22:52 +06
+! Entries: 107,153
+! Updated: Fri, 01 Dec 23 12:08:10 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -48747,6 +48747,7 @@
 ||macaddr.online^
 ||macaigha.net^
 ||macan-native.com^
+||macaronibackachebeautify.com^
 ||macatrans.com^
 ||macau-ic.com^
 ||macau-ju.com^
