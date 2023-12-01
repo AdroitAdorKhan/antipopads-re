@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.12.335
-# Release: 335
-# Entries: 107,205
-# Updated: Fri, 01 Dec 23 22:14:21 +06
+# Version: 23.12.336
+# Release: 336
+# Entries: 107,210
+# Updated: Sat, 02 Dec 23 00:11:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2393,6 +2393,7 @@
 0.0.0.0 8420.wf
 0.0.0.0 844644.com
 0.0.0.0 8454.comwww.844644.com
+0.0.0.0 8467.yt
 0.0.0.0 847h7f51.de
 0.0.0.0 848b0d7f0a.com
 0.0.0.0 848e5d8367.com
@@ -2411,6 +2412,7 @@
 0.0.0.0 85c485513f.com
 0.0.0.0 85ul.cn
 0.0.0.0 8624.tf
+0.0.0.0 8627.yt
 0.0.0.0 862afc8f42dd4d6ad04ecc7568a34b34.com
 0.0.0.0 8642.wf
 0.0.0.0 864denture.com
@@ -2584,6 +2586,7 @@
 0.0.0.0 918kis.com
 0.0.0.0 918kiss.co
 0.0.0.0 918xx.com
+0.0.0.0 9191.tf
 0.0.0.0 9191pron.com
 0.0.0.0 9192929.com
 0.0.0.0 91bahjsda919.monster
@@ -23387,6 +23390,7 @@
 0.0.0.0 dnoicciekfm.xyz
 0.0.0.0 dnqlunngvdmfam.com
 0.0.0.0 dnrc.in
+0.0.0.0 dns0.org
 0.0.0.0 dns79.net
 0.0.0.0 dns9323323898.com
 0.0.0.0 dnsbl.test.www.highconvertingformats.com
@@ -104633,6 +104637,7 @@
 0.0.0.0 xs6.com
 0.0.0.0 xsanyewu.org
 0.0.0.0 xsb3.net
+0.0.0.0 xsbdpbkayumz.com
 0.0.0.0 xsdqhgxdxzjshm.com
 0.0.0.0 xseifygdlybtwax.com
 0.0.0.0 xsfiqxjykfhu.com
