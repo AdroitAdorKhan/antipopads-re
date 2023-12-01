@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.335
 # Release: 335
-# Entries: 107,138
-# Updated: Fri, 01 Dec 23 08:11:33 +06
+# Entries: 107,152
+# Updated: Fri, 01 Dec 23 10:22:52 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -24539,6 +24539,7 @@
 0.0.0.0 duneerdauxi.com
 0.0.0.0 dunemanslaughter.com
 0.0.0.0 dunemasterplan.com
+0.0.0.0 dunemasterplan.org
 0.0.0.0 dungmamma.com
 0.0.0.0 duniaanak.tech
 0.0.0.0 duniapernik.com
@@ -36096,6 +36097,7 @@
 0.0.0.0 healthylimitlessliving.com
 0.0.0.0 healthynudge.co
 0.0.0.0 healthytut.com
+0.0.0.0 healvana.global
 0.0.0.0 healwildsanctuary.org
 0.0.0.0 heaplap.com
 0.0.0.0 heappyrinceas.info
@@ -60289,6 +60291,7 @@
 0.0.0.0 personalityleftoverwhiskers.com
 0.0.0.0 personalityvillainlots.com
 0.0.0.0 personallychar.com
+0.0.0.0 personalsmog.com
 0.0.0.0 personanongrata.click
 0.0.0.0 personifyallege.com
 0.0.0.0 personnesaidantesontario.ca
@@ -65570,6 +65573,7 @@
 0.0.0.0 rainbirdgsp.com
 0.0.0.0 rainbolt-mountain-dar.com
 0.0.0.0 rainbow-solutions.tech
+0.0.0.0 rainbowsnowflakes.com
 0.0.0.0 rainensolomon.com
 0.0.0.0 rainforestgir.com
 0.0.0.0 rainierem.com
@@ -66697,6 +66701,7 @@
 0.0.0.0 relentfrance.com
 0.0.0.0 relentlessbelt.com
 0.0.0.0 relentlessexpensive.com
+0.0.0.0 relentlover.com
 0.0.0.0 releph.com
 0.0.0.0 relept.com
 0.0.0.0 relergy.com
@@ -92425,6 +92430,7 @@
 0.0.0.0 www.commitmentmeet.com
 0.0.0.0 www.committedcubic.com
 0.0.0.0 www.committeereconcilelibrarian.com
+0.0.0.0 www.commonwealthproficient.com
 0.0.0.0 www.communicatequietboost.com
 0.0.0.0 www.communicatewisermostly.com
 0.0.0.0 www.communitythrong.com
@@ -93649,6 +93655,7 @@
 0.0.0.0 www.dumpyoungestbackstage.com
 0.0.0.0 www.dunemanslaughter.com
 0.0.0.0 www.dunemasterplan.com
+0.0.0.0 www.dunemasterplan.org
 0.0.0.0 www.dungmamma.com
 0.0.0.0 www.dur-joy.com
 0.0.0.0 www.durationwhoopbegun.com
@@ -93794,6 +93801,7 @@
 0.0.0.0 www.ehasilks.store
 0.0.0.0 www.ehlogisticsconstruction.com
 0.0.0.0 www.eibiifiieedbjdacabf.ru
+0.0.0.0 www.eighteenderived.com
 0.0.0.0 www.eighthwaspish.com
 0.0.0.0 www.eightymanure.com
 0.0.0.0 www.eivbjsegbino.com
@@ -95477,6 +95485,7 @@
 0.0.0.0 www.healthsluke.info
 0.0.0.0 www.healthtracking.co
 0.0.0.0 www.healthylimitlessliving.com
+0.0.0.0 www.healvana.global
 0.0.0.0 www.hearingdoughnut.com
 0.0.0.0 www.heartacheeasellikeness.com
 0.0.0.0 www.heartbrokenbarrellive.com
@@ -98263,6 +98272,7 @@
 0.0.0.0 www.nutritionrumblelocus.com
 0.0.0.0 www.nutshellcellularfibber.com
 0.0.0.0 www.nwayoo.world
+0.0.0.0 www.nyckeypass.app
 0.0.0.0 www.nycustomerserviceltd.com
 0.0.0.0 www.nyg25.com
 0.0.0.0 www.nytaxlawyers.net
@@ -98628,6 +98638,7 @@
 0.0.0.0 www.pantdentaldonate.com
 0.0.0.0 www.pantherculture.com
 0.0.0.0 www.panthor.org
+0.0.0.0 www.pantsurplus.com
 0.0.0.0 www.papatyafilmizlesene.com
 0.0.0.0 www.papaveri.online
 0.0.0.0 www.papaxb.com
@@ -98844,6 +98855,7 @@
 0.0.0.0 www.persistentadequate.com
 0.0.0.0 www.personalityvillainlots.com
 0.0.0.0 www.personallychar.com
+0.0.0.0 www.personalsmog.com
 0.0.0.0 www.personthirtycoldness.com
 0.0.0.0 www.perspectiveunderstandingslammed.com
 0.0.0.0 www.perspectivevaluation.com
@@ -99663,6 +99675,7 @@
 0.0.0.0 www.railinghighbachelor.com
 0.0.0.0 www.railroadignorant.com
 0.0.0.0 www.rainbow-solutions.tech
+0.0.0.0 www.rainbowsnowflakes.com
 0.0.0.0 www.raisedghostsscalpel.com
 0.0.0.0 www.raisedirectionsaccede.com
 0.0.0.0 www.raisedtrial.com
@@ -100267,6 +100280,7 @@
 0.0.0.0 www.sackprovisionalwanted.com
 0.0.0.0 www.sacramentdeniedbarefooted.com
 0.0.0.0 www.sacred-journey.net
+0.0.0.0 www.sacrificeaffliction.com
 0.0.0.0 www.sadbasindinner.com
 0.0.0.0 www.sadflannel.com
 0.0.0.0 www.sadnesscontemporary.com
