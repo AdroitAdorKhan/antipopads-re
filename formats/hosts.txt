@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.335
 # Release: 335
-# Entries: 107,153
-# Updated: Fri, 01 Dec 23 12:08:10 +06
+# Entries: 107,156
+# Updated: Fri, 01 Dec 23 14:09:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -27523,6 +27523,7 @@
 0.0.0.0 eulacia.com
 0.0.0.0 eulal-cnr.com
 0.0.0.0 eulogiafilial.com
+0.0.0.0 eumenesgigsman.com
 0.0.0.0 eunahealth.com
 0.0.0.0 eunorau-bike.com
 0.0.0.0 eunzkvf.com
@@ -94205,6 +94206,7 @@
 0.0.0.0 www.extractcrash.com
 0.0.0.0 www.extractdissolve.com
 0.0.0.0 www.extractforgiveness.com
+0.0.0.0 www.extractsupperpigs.com
 0.0.0.0 www.extramorality.com
 0.0.0.0 www.extraneedlesshoneycomb.com
 0.0.0.0 www.extratorrent.cc
@@ -98098,6 +98100,7 @@
 0.0.0.0 www.newsforyourmood.com
 0.0.0.0 www.newsfrompluto.com
 0.0.0.0 www.newsjuices.com
+0.0.0.0 www.newslikemeds.com
 0.0.0.0 www.newswave.in
 0.0.0.0 www.newtoki211.com
 0.0.0.0 www.newtoki213.com
