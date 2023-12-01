@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.335
 # Release: 335
-# Entries: 107,179
-# Updated: Fri, 01 Dec 23 16:15:31 +06
+# Entries: 107,185
+# Updated: Fri, 01 Dec 23 18:23:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -41966,6 +41966,7 @@
 0.0.0.0 jeetyetmedia.com
 0.0.0.0 jeevana.org
 0.0.0.0 jeevandayak.com
+0.0.0.0 jefanya.com
 0.0.0.0 jefashivy.com
 0.0.0.0 jeffclarkpaydirt.com
 0.0.0.0 jeffcovictory.com
@@ -63730,6 +63731,7 @@
 0.0.0.0 psouphoz.com
 0.0.0.0 psozoult.net
 0.0.0.0 psqena.com
+0.0.0.0 psqltsfmru.com
 0.0.0.0 pssy.xyz
 0.0.0.0 pstimes.com
 0.0.0.0 pstlrxjdwo.com
@@ -66539,6 +66541,7 @@
 0.0.0.0 refsdqcrkkc.com
 0.0.0.0 refugedcuber.com
 0.0.0.0 refugioyrestauracion.org
+0.0.0.0 refundeelmonstrous.com
 0.0.0.0 refundsreisner.life
 0.0.0.0 refurt.com
 0.0.0.0 refusalmortifydevelopment.com
@@ -67791,6 +67794,7 @@
 0.0.0.0 risktrainingcenter.net
 0.0.0.0 riskyenglishwreath.com
 0.0.0.0 risode.com
+0.0.0.0 risoto.design
 0.0.0.0 risquedemence.ca
 0.0.0.0 ristorantemareprofondo.it
 0.0.0.0 ristorantinolapapessa.it
@@ -68034,6 +68038,7 @@
 0.0.0.0 roamthrivecaviar.com
 0.0.0.0 roaptesh.com
 0.0.0.0 roar-kitchen.com
+0.0.0.0 roarblousereseptivereseptive.com
 0.0.0.0 roastoup.com
 0.0.0.0 roasttroopdilapidation.com
 0.0.0.0 roastyourex.com
@@ -100145,6 +100150,7 @@
 0.0.0.0 www.riseconceivedairy.com
 0.0.0.0 www.rishabebay.net
 0.0.0.0 www.riskyenglishwreath.com
+0.0.0.0 www.risoto.design
 0.0.0.0 www.ritechimerasanctify.com
 0.0.0.0 www.riteexpense.com
 0.0.0.0 www.rivaldeterrentappear.com
