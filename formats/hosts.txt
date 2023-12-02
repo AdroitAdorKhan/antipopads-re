@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.336
 # Release: 336
-# Entries: 107,245
-# Updated: Sat, 02 Dec 23 04:08:33 +06
+# Entries: 107,248
+# Updated: Sat, 02 Dec 23 06:24:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2371,6 +2371,7 @@
 0.0.0.0 823bc1a6cd3f1657.com
 0.0.0.0 82448dceaaa13034.com
 0.0.0.0 826dfb3390.5dec6805a0.com
+0.0.0.0 8273.yt
 0.0.0.0 8275.yt
 0.0.0.0 827724.com
 0.0.0.0 827fa7c868b4b.com
@@ -54792,6 +54793,7 @@
 0.0.0.0 nhvjexmgxyospw.xyz
 0.0.0.0 nhvkk.yt
 0.0.0.0 nhwfvircoywls.top
+0.0.0.0 nhwgeqxvkrm.com
 0.0.0.0 nhwvvotobbbe.xyz
 0.0.0.0 nhwvxjpjn.com
 0.0.0.0 nhxfcpiuwoh.com
@@ -73451,6 +73453,7 @@
 0.0.0.0 snaptex.website
 0.0.0.0 snaptrip.com
 0.0.0.0 snapup.ltd
+0.0.0.0 snaresamaze.uno
 0.0.0.0 snarewholly.com
 0.0.0.0 snarlleadenpsychology.com
 0.0.0.0 snarlsburg.com
