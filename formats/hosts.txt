@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.336
 # Release: 336
-# Entries: 107,305
-# Updated: Sat, 02 Dec 23 10:24:24 +06
+# Entries: 107,307
+# Updated: Sat, 02 Dec 23 12:08:19 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20431,6 +20431,7 @@
 0.0.0.0 cvglblxce.com
 0.0.0.0 cvhealthsurvey.info
 0.0.0.0 cvidcjibksfwpm.xyz
+0.0.0.0 cviezjsg.com
 0.0.0.0 cvifqrjkfdioa.xyz
 0.0.0.0 cvjetnikutaksmilje.com
 0.0.0.0 cvjfmrrgyrqnsnw.xyz
@@ -37775,6 +37776,7 @@
 0.0.0.0 houstonprimeathletics.com
 0.0.0.0 hoverr.co
 0.0.0.0 hoverr.media
+0.0.0.0 hoversruffer.space
 0.0.0.0 hovide.com
 0.0.0.0 hovla.info
 0.0.0.0 hovpxxqpyy.com
