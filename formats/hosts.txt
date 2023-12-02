@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.12.336
-# Release: 336
-# Entries: 107,353
-# Updated: Sat, 02 Dec 23 22:22:35 +06
+# Version: 23.12.337
+# Release: 337
+# Entries: 107,358
+# Updated: Sun, 03 Dec 23 00:12:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6676,6 +6676,7 @@
 0.0.0.0 anetpkxx.com
 0.0.0.0 anewproprietorinvent.com
 0.0.0.0 anfrage-entsperren.com
+0.0.0.0 anfrage-freischalten.online
 0.0.0.0 angampora.tech
 0.0.0.0 angarepbeeherd.com
 0.0.0.0 angaslegenda.uno
@@ -8885,6 +8886,7 @@
 0.0.0.0 aumseewu.xyz
 0.0.0.0 aumsookr.com
 0.0.0.0 aumsoovy.net
+0.0.0.0 aumtoost.net
 0.0.0.0 aumvukqaa.com
 0.0.0.0 aunbdsigap.com
 0.0.0.0 aundh.net
@@ -56016,6 +56018,7 @@
 0.0.0.0 nuseek.com
 0.0.0.0 nushoulder.net
 0.0.0.0 nuskmlvss.com
+0.0.0.0 nuswsqbtbvutb.com
 0.0.0.0 nutaku.net
 0.0.0.0 nutattorneyjack.com
 0.0.0.0 nutechsoftware.co
@@ -71980,6 +71983,7 @@
 0.0.0.0 shopshoist.com
 0.0.0.0 shopsizz.com
 0.0.0.0 shopskinproducts.com
+0.0.0.0 shopstore.pw
 0.0.0.0 shopstyleme.com
 0.0.0.0 shoptacticalmerch.com
 0.0.0.0 shoptea.com
@@ -83913,6 +83917,7 @@
 0.0.0.0 urbanbizhub.com
 0.0.0.0 urbandecaysta.com
 0.0.0.0 urbandesignco.co.in
+0.0.0.0 urbaneceasmic.digital
 0.0.0.0 urbangully.shop
 0.0.0.0 urbaninsights.co.uk
 0.0.0.0 urbantools.tech
