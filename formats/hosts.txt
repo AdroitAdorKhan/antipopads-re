@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.338
 # Release: 338
-# Entries: 107,484
-# Updated: Mon, 04 Dec 23 00:09:20 +06
+# Entries: 107,486
+# Updated: Mon, 04 Dec 23 02:07:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12723,6 +12723,7 @@
 0.0.0.0 boasstylijoked.com
 0.0.0.0 boastauw.xyz
 0.0.0.0 boastego.xyz
+0.0.0.0 boastemployer.com
 0.0.0.0 boastfive.com
 0.0.0.0 boastpretenddied.com
 0.0.0.0 boasttrial.com
@@ -58962,6 +58963,7 @@
 0.0.0.0 ozectynptd.com
 0.0.0.0 ozgaflxqjes.com
 0.0.0.0 ozhhujt.com
+0.0.0.0 ozihechzlcsgs.com
 0.0.0.0 ozimnica.com
 0.0.0.0 ozlohpquba.com
 0.0.0.0 ozmec-technologies.com
