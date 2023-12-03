@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.12.337
-# Release: 337
-# Entries: 107,483
-# Updated: Sun, 03 Dec 23 22:28:18 +06
+# Version: 23.12.338
+# Release: 338
+# Entries: 107,484
+# Updated: Mon, 04 Dec 23 00:09:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -38696,6 +38696,7 @@
 0.0.0.0 ibisingold.app
 0.0.0.0 ibizachartertoys.com
 0.0.0.0 ibjbqobqgfkx.xyz
+0.0.0.0 ibjdmthqkz.com
 0.0.0.0 ibkneb.xyz
 0.0.0.0 iblltbke.com
 0.0.0.0 ibnance.info
