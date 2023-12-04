@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.338
 # Release: 338
-# Entries: 107,503
-# Updated: Mon, 04 Dec 23 04:08:37 +06
+# Entries: 107,505
+# Updated: Mon, 04 Dec 23 06:45:35 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -39220,6 +39220,7 @@
 0.0.0.0 ikahnruntx.com
 0.0.0.0 ikaiznmpapdlv.com
 0.0.0.0 ikards.net
+0.0.0.0 ikbwkovwbwkpit.com
 0.0.0.0 ikcaru.com
 0.0.0.0 ikcdhvbyg.com
 0.0.0.0 ikcieontapp.com
@@ -49115,6 +49116,7 @@
 0.0.0.0 mailgalactic.com
 0.0.0.0 mailget.net
 0.0.0.0 mailieungka.com
+0.0.0.0 mailingcanamo.uno
 0.0.0.0 mailingyafteam.com
 0.0.0.0 mailmanuptown.com
 0.0.0.0 mailnewnadopera.site
