@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.338
 # Release: 338
-# Entries: 107,537
-# Updated: Mon, 04 Dec 23 14:30:06 +06
+# Entries: 107,540
+# Updated: Mon, 04 Dec 23 16:10:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4401,6 +4401,7 @@
 0.0.0.0 aduthapa.online
 0.0.0.0 adv-links.com
 0.0.0.0 adv.money
+0.0.0.0 adv679854.ru
 0.0.0.0 adv9.net
 0.0.0.0 advabnqu.com
 0.0.0.0 advanappstore.com
@@ -26022,6 +26023,7 @@
 0.0.0.0 elapseforepawsstraighten.com
 0.0.0.0 elapsesoulstakeover.com
 0.0.0.0 elasticad.net
+0.0.0.0 elasticcannon.com
 0.0.0.0 elasticdestruct.com
 0.0.0.0 elasticfrustration.com
 0.0.0.0 elasticsearch.in
@@ -83784,6 +83786,7 @@
 0.0.0.0 unvanilluxer.com
 0.0.0.0 unverified.ooo
 0.0.0.0 unvrairepas.net
+0.0.0.0 unwarpmarring.website
 0.0.0.0 unwartortlean.com
 0.0.0.0 unwarydebite.com
 0.0.0.0 unwelthwen.digital
