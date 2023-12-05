@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.339
 # Release: 339
-# Entries: 107,633
-# Updated: Tue, 05 Dec 23 16:09:29 +06
+# Entries: 107,634
+# Updated: Tue, 05 Dec 23 18:09:09 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9198,6 +9198,7 @@
 0.0.0.0 avmfoodproducts.com
 0.0.0.0 avnbxeomkrebp.xyz
 0.0.0.0 avnhgmvwbjv.com
+0.0.0.0 avnmjtqu.com
 0.0.0.0 avnoortechnologies.com
 0.0.0.0 avobeucxscwj.com
 0.0.0.0 avocams.com
