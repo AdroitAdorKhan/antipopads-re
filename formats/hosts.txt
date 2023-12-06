@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.340
 # Release: 340
-# Entries: 107,896
-# Updated: Wed, 06 Dec 23 02:08:37 +06
+# Entries: 107,898
+# Updated: Wed, 06 Dec 23 06:33:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14616,6 +14616,7 @@
 0.0.0.0 byvatar.com
 0.0.0.0 byvhtcpfoom.com
 0.0.0.0 byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com
+0.0.0.0 byvpezdzmpureo.com
 0.0.0.0 byvue.com
 0.0.0.0 byvxslrjtuqx.com
 0.0.0.0 bywntfg.com
@@ -45644,6 +45645,7 @@
 0.0.0.0 kvuorludqdxuvbd.top
 0.0.0.0 kvvremeejc.com
 0.0.0.0 kvy7f4rzt.com
+0.0.0.0 kvyaovvv.com
 0.0.0.0 kw.phyllisdartles.com
 0.0.0.0 kw.ribbondiazide.com
 0.0.0.0 kw3y5otoeuniv7e9rsi.com
