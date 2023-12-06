@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.340
 # Release: 340
-# Entries: 107,898
-# Updated: Wed, 06 Dec 23 06:33:08 +06
+# Entries: 107,899
+# Updated: Wed, 06 Dec 23 08:09:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -45623,6 +45623,7 @@
 0.0.0.0 kvecc.com
 0.0.0.0 kveii.com
 0.0.0.0 kvemm.com
+0.0.0.0 kvemrvhepp.com
 0.0.0.0 kvetaculejova.com
 0.0.0.0 kvetyvodvore.online
 0.0.0.0 kveww.com
