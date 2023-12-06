@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.340
 # Release: 340
-# Entries: 108,088
-# Updated: Wed, 06 Dec 23 20:09:12 +06
+# Entries: 108,094
+# Updated: Wed, 06 Dec 23 22:28:19 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1392,6 +1392,7 @@
 0.0.0.0 3lordfilm-0.xyz
 0.0.0.0 3lordserials.xyz
 0.0.0.0 3lr67y45.com
+0.0.0.0 3mhg.site
 0.0.0.0 3milematters.us
 0.0.0.0 3mmfvvto.com
 0.0.0.0 3myad.com
@@ -3950,6 +3951,7 @@
 0.0.0.0 adexprtz.com
 0.0.0.0 adeymovies.com
 0.0.0.0 adf-company.co
+0.0.0.0 adfahrapps.com
 0.0.0.0 adfburwubd.com
 0.0.0.0 adfclick1.com
 0.0.0.0 adfeedstrk.com
@@ -45937,6 +45939,7 @@
 0.0.0.0 ladenapp.com
 0.0.0.0 ladianitalia.nl
 0.0.0.0 ladiathdefinishe.com
+0.0.0.0 ladiesforyou.net
 0.0.0.0 ladigitaldirectory.com
 0.0.0.0 ladnet.co
 0.0.0.0 ladnova.info
@@ -65945,6 +65948,7 @@
 0.0.0.0 raadth.com
 0.0.0.0 rabaischocs.ch
 0.0.0.0 rabatwongara.website
+0.0.0.0 rabbit.hosting
 0.0.0.0 rabbitrun.tech
 0.0.0.0 rabbitshibabsc.com
 0.0.0.0 rabbitys.com
@@ -69571,6 +69575,7 @@
 0.0.0.0 rvsarizona.xyz
 0.0.0.0 rvsyhahkljreg.com
 0.0.0.0 rvtposkammk.com
+0.0.0.0 rvvirczflznx.com
 0.0.0.0 rvwtpwmtnfj.com
 0.0.0.0 rvxqnjsczubld.com
 0.0.0.0 rvyuqfjjv.com
@@ -74121,6 +74126,7 @@
 0.0.0.0 soarlearning.net
 0.0.0.0 soavouca.com
 0.0.0.0 soawhoaw.com
+0.0.0.0 soawousa.xyz
 0.0.0.0 soazooge.com
 0.0.0.0 sob.news
 0.0.0.0 sobakapi2sa8la09.com
