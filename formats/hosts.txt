@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.341
 # Release: 341
-# Entries: 108,106
-# Updated: Thu, 07 Dec 23 06:40:39 +06
+# Entries: 108,109
+# Updated: Thu, 07 Dec 23 08:08:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2254,6 +2254,7 @@
 0.0.0.0 784d28a492.com
 0.0.0.0 785d9b68fc.fb960dbd5f.com
 0.0.0.0 787878.net
+0.0.0.0 7884.yt
 0.0.0.0 7887.top
 0.0.0.0 78avc.top
 0.0.0.0 78bbxs.com
@@ -6721,6 +6722,7 @@
 0.0.0.0 anewproprietorinvent.com
 0.0.0.0 anfrage-entsperren.com
 0.0.0.0 anfrage-freischalten.online
+0.0.0.0 anfrage-notwendig.com
 0.0.0.0 angampora.tech
 0.0.0.0 angarepbeeherd.com
 0.0.0.0 angaslegenda.uno
@@ -74851,6 +74853,7 @@
 0.0.0.0 speedybethurgently.com
 0.0.0.0 speedysection.pro
 0.0.0.0 speermoving.com
+0.0.0.0 speisa.com
 0.0.0.0 spekacek.kitchen
 0.0.0.0 spekturm.de
 0.0.0.0 spellingboothcourthouse.com
