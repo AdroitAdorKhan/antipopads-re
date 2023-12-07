@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.341
 # Release: 341
-# Entries: 108,112
-# Updated: Thu, 07 Dec 23 10:08:16 +06
+# Entries: 108,115
+# Updated: Thu, 07 Dec 23 12:08:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1685,6 +1685,7 @@
 0.0.0.0 510areacode.org
 0.0.0.0 51345e7473.07ab456fe8.com
 0.0.0.0 5160bm59.pw
+0.0.0.0 5163.yt
 0.0.0.0 516cables.com
 0.0.0.0 516rlog57.com
 0.0.0.0 5177kpp.com
@@ -32453,6 +32454,7 @@
 0.0.0.0 gcmgsgbillzc.com
 0.0.0.0 gcmxkkoqytwqi.com
 0.0.0.0 gcocosaa.com
+0.0.0.0 gcomfbzrsa.com
 0.0.0.0 gconfirmat.fun
 0.0.0.0 gcotipdaxatp.com
 0.0.0.0 gcouncer.buzz
@@ -48160,6 +48162,7 @@
 0.0.0.0 lokvel.ru
 0.0.0.0 lol.nonstop-player.com
 0.0.0.0 lola.fashion
+0.0.0.0 lolacorded.top
 0.0.0.0 lolaola.tech
 0.0.0.0 lolaplanet.com
 0.0.0.0 lolco.net
