@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.341
 # Release: 341
-# Entries: 108,115
-# Updated: Thu, 07 Dec 23 12:08:18 +06
+# Entries: 108,129
+# Updated: Thu, 07 Dec 23 14:29:52 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14222,6 +14222,7 @@
 0.0.0.0 buncoswosh.com
 0.0.0.0 buncounsel.com
 0.0.0.0 bundledintrait.website
+0.0.0.0 bundledrip.com
 0.0.0.0 bundlerwilting.life
 0.0.0.0 bungalowdispleasedwheeled.com
 0.0.0.0 bungalowlame.com
@@ -19588,6 +19589,7 @@
 0.0.0.0 cpcstdploqqh.com
 0.0.0.0 cpddwyuyd.com
 0.0.0.0 cpdfcu-sap.com
+0.0.0.0 cpdinsights.com
 0.0.0.0 cpdphowjcy.com
 0.0.0.0 cpeaksqppnknwp.xyz
 0.0.0.0 cpeallpuz.com
@@ -21313,6 +21315,7 @@
 0.0.0.0 davigarcia.med.br
 0.0.0.0 davincireesolve.pw
 0.0.0.0 davisfence.us
+0.0.0.0 davisknightkitchens.com
 0.0.0.0 davjdaauvlp.com
 0.0.0.0 davshan.net
 0.0.0.0 davymarkham.co.uk
@@ -53652,6 +53655,7 @@
 0.0.0.0 myluzon.com
 0.0.0.0 mymantech.com
 0.0.0.0 mymarked.com
+0.0.0.0 mymedicalbillingservice.com
 0.0.0.0 mymedprefs.com
 0.0.0.0 mymgss.com
 0.0.0.0 mymindfulceo.com
@@ -63443,6 +63447,7 @@
 0.0.0.0 prickclenched.com
 0.0.0.0 prickjuvenileturnstile.com
 0.0.0.0 pricklyhuffy.com
+0.0.0.0 pricklywolf.com
 0.0.0.0 pricompat.com
 0.0.0.0 pride.bike
 0.0.0.0 prideaux.xyz
@@ -76769,6 +76774,8 @@
 0.0.0.0 supplicit.com
 0.0.0.0 suppliedhopelesspredestination.com
 0.0.0.0 supply.bidscube.com
+0.0.0.0 supplychaincyber.org
+0.0.0.0 supplychaincybersecurity.org
 0.0.0.0 supplycomplication.com
 0.0.0.0 supplyrefereesneeze.com
 0.0.0.0 supplysuede.com
@@ -81513,6 +81520,7 @@
 0.0.0.0 tractekytyh.xyz
 0.0.0.0 tractorfoolproofstandard.com
 0.0.0.0 tractorhedgecuttingcontractors.uk
+0.0.0.0 tractorlandgolf.com
 0.0.0.0 tractorsforsaleyorkshire.co.uk
 0.0.0.0 tracyplayers.digital
 0.0.0.0 tracytimm.com
@@ -82255,7 +82263,12 @@
 0.0.0.0 truckautocar.space
 0.0.0.0 truckcon.net
 0.0.0.0 truckcon.org
+0.0.0.0 truckcyber.org
 0.0.0.0 truckdevcon.com
+0.0.0.0 truckingcyber.com
+0.0.0.0 truckingcyber.org
+0.0.0.0 truckingcybersecurity.com
+0.0.0.0 truckingcybersecurity.org
 0.0.0.0 trucksift.com
 0.0.0.0 trucktransmissionparts.info
 0.0.0.0 trudot.in
@@ -87905,6 +87918,7 @@
 0.0.0.0 waxpigbaa.com
 0.0.0.0 waxsvfavwstdigp.xyz
 0.0.0.0 waxtamnit.com
+0.0.0.0 way2vape.com
 0.0.0.0 waybillbulged.com
 0.0.0.0 wayfarerspoutpraise.com
 0.0.0.0 wayfarz.com
