@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.343
 # Release: 343
-# Entries: 108,355
-# Updated: Sat, 09 Dec 23 02:08:38 +06
+# Entries: 108,357
+# Updated: Sat, 09 Dec 23 04:08:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20347,6 +20347,7 @@
 0.0.0.0 cudgeletc.com
 0.0.0.0 cudgelridge.com
 0.0.0.0 cudwortflurr.uno
+0.0.0.0 cudwortparve.top
 0.0.0.0 cueistratting.com
 0.0.0.0 cuerpodebienvenida.com
 0.0.0.0 cuesingle.com
@@ -51322,6 +51323,7 @@
 0.0.0.0 mgbid.net
 0.0.0.0 mgcash.com
 0.0.0.0 mgcashgate.com
+0.0.0.0 mgdbtjwc.com
 0.0.0.0 mggckhjvtgc.top
 0.0.0.0 mggslmeqtyfxb.com
 0.0.0.0 mghkpg.com
