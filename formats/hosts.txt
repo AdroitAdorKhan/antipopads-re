@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.344
 # Release: 344
-# Entries: 108,519
-# Updated: Sun, 10 Dec 23 00:07:40 +06
+# Entries: 108,522
+# Updated: Sun, 10 Dec 23 02:07:57 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12108,6 +12108,7 @@
 0.0.0.0 birotron.us
 0.0.0.0 birqmiowxfh.com
 0.0.0.0 birter.com
+0.0.0.0 birthday-buzzer.com
 0.0.0.0 birthdayforester.com
 0.0.0.0 birthdependentmillennium.com
 0.0.0.0 birthdiscipline.com
@@ -66612,6 +66613,7 @@
 0.0.0.0 rarath.com
 0.0.0.0 rarbg.com
 0.0.0.0 rarbgmirror.com
+0.0.0.0 rarbgmirror.org
 0.0.0.0 rarechats.blog
 0.0.0.0 rarecruises.com
 0.0.0.0 rareghoa.net
@@ -92559,6 +92561,7 @@
 0.0.0.0 www.birbillingcalling.com
 0.0.0.0 www.birchdynamicunicorn.com
 0.0.0.0 www.birdtears.com
+0.0.0.0 www.birthday-buzzer.com
 0.0.0.0 www.birthdayforester.com
 0.0.0.0 www.birthdependentmillennium.com
 0.0.0.0 www.birtuwhaim.com
