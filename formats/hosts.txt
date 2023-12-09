@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.12.343
-# Release: 343
-# Entries: 108,516
-# Updated: Sat, 09 Dec 23 22:28:15 +06
+# Version: 23.12.344
+# Release: 344
+# Entries: 108,519
+# Updated: Sun, 10 Dec 23 00:07:40 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -24461,6 +24461,7 @@
 0.0.0.0 drmillennia.com
 0.0.0.0 drmqtrfbswi.com
 0.0.0.0 drmustafaozkan.com
+0.0.0.0 droahgsdb.com
 0.0.0.0 drogerka.online
 0.0.0.0 drogog.com
 0.0.0.0 drommeromdrommehuset.net
@@ -60145,6 +60146,7 @@
 0.0.0.0 parringepigene.com
 0.0.0.0 parritapp.app
 0.0.0.0 parritapp.com
+0.0.0.0 parrocchiamatassino.it
 0.0.0.0 parrotspineparticipate.com
 0.0.0.0 parrotstrim.com
 0.0.0.0 parrotwrapped.com
@@ -106209,6 +106211,7 @@
 0.0.0.0 xzhmu.com
 0.0.0.0 xziptaogt.com
 0.0.0.0 xznqolfzwdwini.com
+0.0.0.0 xzouahcxo.com
 0.0.0.0 xzr9uauq.cfd
 0.0.0.0 xzvfyowf.com
 0.0.0.0 xzxomkrfn.com
