@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.344
 # Release: 344
-# Entries: 108,594
-# Updated: Sun, 10 Dec 23 10:08:19 +06
+# Entries: 108,595
+# Updated: Sun, 10 Dec 23 12:08:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -105238,6 +105238,7 @@
 0.0.0.0 xdcjdlfnoitxs.com
 0.0.0.0 xdcngimejo.com
 0.0.0.0 xdeqhxqu.com
+0.0.0.0 xdezxlbnpo.com
 0.0.0.0 xdhporbv.com
 0.0.0.0 xdhqtgpkywjl.com
 0.0.0.0 xdiwbc.com
