@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.345
 # Release: 345
-# Entries: 108,684
-# Updated: Mon, 11 Dec 23 10:08:55 +06
+# Entries: 108,686
+# Updated: Mon, 11 Dec 23 12:08:40 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11111,6 +11111,7 @@
 0.0.0.0 bemanga.net
 0.0.0.0 bemascloche.life
 0.0.0.0 bembexpps.life
+0.0.0.0 bemmwtj.xyz
 0.0.0.0 bemnadotap.com
 0.0.0.0 bemobots.com
 0.0.0.0 bemobpath.com
@@ -33723,6 +33724,7 @@
 0.0.0.0 globalrecruitmentpartner.co.uk
 0.0.0.0 globalskilluniversity.org
 0.0.0.0 globalsoftware.market
+0.0.0.0 globalspin365.com
 0.0.0.0 globalstemschool.com
 0.0.0.0 globalsuccessclub.com
 0.0.0.0 globalsurveyline.com
