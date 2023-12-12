@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.346
 # Release: 346
-# Entries: 108,773
-# Updated: Tue, 12 Dec 23 04:09:24 +06
+# Entries: 108,774
+# Updated: Tue, 12 Dec 23 06:40:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -47322,6 +47322,7 @@
 0.0.0.0 lexcareglobal.in
 0.0.0.0 lexemeowhere.digital
 0.0.0.0 lexerdesign.com
+0.0.0.0 lexianorit.life
 0.0.0.0 lexicoggeegaw.website
 0.0.0.0 lexman.online
 0.0.0.0 lexmua.ru
