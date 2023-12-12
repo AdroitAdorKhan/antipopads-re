@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.347
 # Release: 347
-# Entries: 109,045
-# Updated: Wed, 13 Dec 23 02:09:05 +06
+# Entries: 109,047
+# Updated: Wed, 13 Dec 23 04:10:32 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -48378,6 +48378,7 @@
 0.0.0.0 localspantle.com
 0.0.0.0 localtap.net
 0.0.0.0 localzh.com
+0.0.0.0 locastnet.org
 0.0.0.0 locatc.com
 0.0.0.0 locatioiranic.digital
 0.0.0.0 locationsai.com
@@ -66003,6 +66004,7 @@
 0.0.0.0 qpcbxohct.com
 0.0.0.0 qpcfmqfupy.com
 0.0.0.0 qpciagujcnaolim.xyz
+0.0.0.0 qpcoeyfwqdltkk.com
 0.0.0.0 qpcphotgtpq.com
 0.0.0.0 qpeadbmaql.com
 0.0.0.0 qpeoctxiqaxw.com
