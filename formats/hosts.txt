@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.346
 # Release: 346
-# Entries: 108,774
-# Updated: Tue, 12 Dec 23 06:40:48 +06
+# Entries: 108,776
+# Updated: Tue, 12 Dec 23 08:08:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3171,6 +3171,7 @@
 0.0.0.0 aberdeenwatertaxi.com
 0.0.0.0 aberdoveybikeride.org.uk
 0.0.0.0 abethow.com
+0.0.0.0 abetsslodger.guru
 0.0.0.0 abetterinter.net
 0.0.0.0 abevc.club
 0.0.0.0 abewvlhfdxjy.com
@@ -68507,6 +68508,7 @@
 0.0.0.0 rhabmmgygvdwde.com
 0.0.0.0 rhallit.com
 0.0.0.0 rhaphesunquod.life
+0.0.0.0 rhbboldine.guru
 0.0.0.0 rhbohhhg.com
 0.0.0.0 rhbpqaxxoxme.com
 0.0.0.0 rhbvtbjtiaimu.top
