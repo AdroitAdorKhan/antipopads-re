@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.347
 # Release: 347
-# Entries: 109,089
-# Updated: Wed, 13 Dec 23 14:08:11 +06
+# Entries: 109,147
+# Updated: Wed, 13 Dec 23 16:31:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3564,6 +3564,7 @@
 0.0.0.0 acessoriosparablogs.com.br
 0.0.0.0 acetodiciliegia.com
 0.0.0.0 acfc8b5ca7.com
+0.0.0.0 acfil.org
 0.0.0.0 acftxqqg.com
 0.0.0.0 acfun.vn
 0.0.0.0 acfyamxwluprpx.com
@@ -3657,6 +3658,8 @@
 0.0.0.0 acostaom.com
 0.0.0.0 acpamnotc.com
 0.0.0.0 acplat.online
+0.0.0.0 acpmq.com
+0.0.0.0 acpmq.org
 0.0.0.0 acquaefarinapizza.com
 0.0.0.0 acquaintanceexemptspinach.com
 0.0.0.0 acquaintanceinsaneinaudible.com
@@ -9440,6 +9443,7 @@
 0.0.0.0 awkn.ca
 0.0.0.0 awkwardtelegram.com
 0.0.0.0 awkwardtilt.com
+0.0.0.0 awl.red
 0.0.0.0 awledconside.xyz
 0.0.0.0 awlyilwoc.com
 0.0.0.0 awmbed.com
@@ -14149,6 +14153,7 @@
 0.0.0.0 buckheadstation.com
 0.0.0.0 buckleadjustedwise.com
 0.0.0.0 buckmorekidskarting.com
+0.0.0.0 buckrashipped.uno
 0.0.0.0 buckspanuelo.com
 0.0.0.0 buckupbuttercup.net
 0.0.0.0 buckwheatcensusopener.com
@@ -24444,6 +24449,7 @@
 0.0.0.0 dreadbreakupsomeone.com
 0.0.0.0 dreadfullyclarifynails.com
 0.0.0.0 dreadfulprofitable.com
+0.0.0.0 dreadluckdecidedly.com
 0.0.0.0 dreadshavingmammal.com
 0.0.0.0 dream-garage.net
 0.0.0.0 dream999.site
@@ -32286,6 +32292,7 @@
 0.0.0.0 gaimofup.com
 0.0.0.0 gaimoupy.net
 0.0.0.0 gainbridgepartners.com
+0.0.0.0 gainbridgepcservices.com
 0.0.0.0 gainesrealtygroup.net
 0.0.0.0 gainground.co
 0.0.0.0 gainregister.com
@@ -36829,6 +36836,7 @@
 0.0.0.0 hellik.xyz
 0.0.0.0 hellmade.top
 0.0.0.0 hellmobility.com
+0.0.0.0 hellmobility.net
 0.0.0.0 helloandhenlo.com
 0.0.0.0 hellobabu.com
 0.0.0.0 hellocaterersomeone.com
@@ -39542,6 +39550,7 @@
 0.0.0.0 ifllwfs.com
 0.0.0.0 ifm72.com
 0.0.0.0 ifmihoawdpi.com
+0.0.0.0 ifmjzbdyk.com
 0.0.0.0 ifnbhoyqniwg.xyz
 0.0.0.0 ifndyffyuj.com
 0.0.0.0 ifntizihsffqi.com
@@ -45179,6 +45188,7 @@
 0.0.0.0 kjmbstbjurlwb.com
 0.0.0.0 kjmfjwhlrhmmtq.com
 0.0.0.0 kjnwkdwbkbjnhbj.com
+0.0.0.0 kjnybyeexu.xyz
 0.0.0.0 kjotkqyzxe.com
 0.0.0.0 kjqkxfuz.xyz
 0.0.0.0 kjqsajadwspk.com
@@ -54619,6 +54629,7 @@
 0.0.0.0 nationalsmartbuildings.com
 0.0.0.0 nationaltravel.me
 0.0.0.0 nationalvabenefits.com
+0.0.0.0 nationhandbook.com
 0.0.0.0 nationinstal.com
 0.0.0.0 nationinternet.net
 0.0.0.0 nationlibrary.in
@@ -58141,6 +58152,7 @@
 0.0.0.0 omfiydlbmy.com
 0.0.0.0 omgkdhysxlaj.com
 0.0.0.0 omgnugokin.top
+0.0.0.0 omgrdrodobidu.com
 0.0.0.0 omgwowgirls.com
 0.0.0.0 omhmzjxe.com
 0.0.0.0 omhpyhwv.com
@@ -60825,6 +60837,7 @@
 0.0.0.0 pccajita.com
 0.0.0.0 pccasia.xyz
 0.0.0.0 pccreative.us
+0.0.0.0 pcdgninekvch.com
 0.0.0.0 pcdoctorbd.com
 0.0.0.0 pceepmcccvxxotg.com
 0.0.0.0 pcelestin.com
@@ -75729,12 +75742,14 @@
 0.0.0.0 spotlighthemp.com
 0.0.0.0 spotlightmusicnj.com
 0.0.0.0 spotofspawn.com
+0.0.0.0 spotonexp.com
 0.0.0.0 spotonfiji.com
 0.0.0.0 spotonmortgage-bristol.co.uk
 0.0.0.0 spotonmortgage-bristol.uk
 0.0.0.0 spotonrealestate.ca
 0.0.0.0 spotonrealestateteam.ca
 0.0.0.0 spotonrealestateteam.com
+0.0.0.0 spotonteam.com
 0.0.0.0 spotrails.com
 0.0.0.0 spotruth.org
 0.0.0.0 spotscenered.info
@@ -77030,6 +77045,7 @@
 0.0.0.0 subasebmedia.com
 0.0.0.0 subconsciousinappropriatehepatitis.com
 0.0.0.0 subdatejutties.com
+0.0.0.0 subdielamista.website
 0.0.0.0 subdued-illegal.pro
 0.0.0.0 subeditatresic.com
 0.0.0.0 subeu.rollserver.xyz
@@ -86582,6 +86598,9 @@
 0.0.0.0 veselekoralky.store
 0.0.0.0 vesinstore.top
 0.0.0.0 vesofefinego.info
+0.0.0.0 vesperanalytics.com
+0.0.0.0 vesperinsurance.com
+0.0.0.0 vesperrisk.com
 0.0.0.0 vespymedia.com
 0.0.0.0 vessionoutsourcing.com
 0.0.0.0 vessoupy.com
@@ -92423,6 +92442,7 @@
 0.0.0.0 www.assignments.tvidak.com
 0.0.0.0 www.assignsunkcoincidence.com
 0.0.0.0 www.assimilateentrails.com
+0.0.0.0 www.assistantasks.com
 0.0.0.0 www.assistantdroppedseries.com
 0.0.0.0 www.assistantelizabethraw.com
 0.0.0.0 www.assisthollowted.com
@@ -93315,6 +93335,7 @@
 0.0.0.0 www.bufedr.com
 0.0.0.0 www.buffaloexemptdropped.com
 0.0.0.0 www.buffetaha.com
+0.0.0.0 www.bugstractorbring.com
 0.0.0.0 www.buieslanding.com
 0.0.0.0 www.build2growmasterclass.com
 0.0.0.0 www.buildingabettercolumbus.com
@@ -93375,6 +93396,7 @@
 0.0.0.0 www.butterflyitem.com
 0.0.0.0 www.butterflywuu88.com
 0.0.0.0 www.butterinstalment.com
+0.0.0.0 www.buttersource.com
 0.0.0.0 www.button-maker.info
 0.0.0.0 www.buy-thefitnessmirror.store
 0.0.0.0 www.buyblotch.com
@@ -94308,6 +94330,7 @@
 0.0.0.0 www.coughparachutegenerosity.com
 0.0.0.0 www.coukagrous.com
 0.0.0.0 www.couldblindly.com
+0.0.0.0 www.couldobliterate.com
 0.0.0.0 www.councilcoveauto.com
 0.0.0.0 www.councilheader.com
 0.0.0.0 www.counsellingrouge.com
@@ -94653,6 +94676,7 @@
 0.0.0.0 www.deconstruc.xyz
 0.0.0.0 www.decorationfrozen.com
 0.0.0.0 www.decorationguinea.com
+0.0.0.0 www.decorationhailstone.com
 0.0.0.0 www.decorationproducer.com
 0.0.0.0 www.decoychatterboxextreme.com
 0.0.0.0 www.decreasetastylingerie.com
@@ -95070,6 +95094,7 @@
 0.0.0.0 www.disturboverwhelmdome.com
 0.0.0.0 www.ditchrob.com
 0.0.0.0 www.divedfaraway.com
+0.0.0.0 www.divedresign.com
 0.0.0.0 www.divergepervert.com
 0.0.0.0 www.diversecrashconcern.com
 0.0.0.0 www.diversity-journal.com
@@ -95729,6 +95754,7 @@
 0.0.0.0 www.europeanurinebanana.com
 0.0.0.0 www.evaluationacutegrandpa.com
 0.0.0.0 www.evaniahomments.com
+0.0.0.0 www.evaporatehorizontally.com
 0.0.0.0 www.evasionseptemberbee.com
 0.0.0.0 www.evencontinuallyclaim.com
 0.0.0.0 www.eveningsfleawhatsoever.com
@@ -95770,6 +95796,7 @@
 0.0.0.0 www.excavatoralliance.com
 0.0.0.0 www.excavatorawfullyclaims.com
 0.0.0.0 www.exceletc.com
+0.0.0.0 www.excellentsponsor.com
 0.0.0.0 www.excelslackairborne.com
 0.0.0.0 www.exceptinggapslightest.com
 0.0.0.0 www.exceptionintegrity.com
@@ -96119,6 +96146,7 @@
 0.0.0.0 www.finesseankle.com
 0.0.0.0 www.finesseboisterous.com
 0.0.0.0 www.fingernaildivorce.com
+0.0.0.0 www.fingerprintoysters.com
 0.0.0.0 www.fingertipabsorbed.com
 0.0.0.0 www.fingertipsquintinclusion.com
 0.0.0.0 www.finishcomplicate.com
@@ -96161,6 +96189,7 @@
 0.0.0.0 www.fivestars.es
 0.0.0.0 www.fivetorrent.com
 0.0.0.0 www.fixbreakthrough.com
+0.0.0.0 www.fixedencampment.com
 0.0.0.0 www.fixedgodmother.com
 0.0.0.0 www.fixedlowraid.com
 0.0.0.0 www.fixedlygrown.com
@@ -96870,6 +96899,7 @@
 0.0.0.0 www.grabhastened.com
 0.0.0.0 www.grabngo.app
 0.0.0.0 www.gracefulbayonetlukewarm.com
+0.0.0.0 www.gracesmallerland.com
 0.0.0.0 www.grachompoa.com
 0.0.0.0 www.grackoceesto.com
 0.0.0.0 www.graduallyassist.com
@@ -97175,6 +97205,7 @@
 0.0.0.0 www.heartedscatterbond.com
 0.0.0.0 www.hearthinfuriate.com
 0.0.0.0 www.heartilyscales.com
+0.0.0.0 www.heartlessrigid.com
 0.0.0.0 www.heartparachutevictorious.com
 0.0.0.0 www.heateradvisoraplenty.com
 0.0.0.0 www.heaterrobotscompute.com
@@ -97223,6 +97254,7 @@
 0.0.0.0 www.hemispherekitchenafforded.com
 0.0.0.0 www.hemworm.com
 0.0.0.0 www.henamecool.xyz
+0.0.0.0 www.henriettaproducesdecide.com
 0.0.0.0 www.hepengineering.com
 0.0.0.0 www.herapearl.com
 0.0.0.0 www.herconsequence.com
@@ -97608,6 +97640,7 @@
 0.0.0.0 www.imaholierthanthoupussywhomakesunwantedcomments.org
 0.0.0.0 www.imiddleagedspacious.com
 0.0.0.0 www.imitationluxe.fr
+0.0.0.0 www.immaculategirdlewade.com
 0.0.0.0 www.immanuel.blog
 0.0.0.0 www.immaturepointingglamorous.com
 0.0.0.0 www.immenseatrociousrested.com
@@ -97914,6 +97947,7 @@
 0.0.0.0 www.integralpickleatrocious.com
 0.0.0.0 www.integritydeceptive.com
 0.0.0.0 www.intellectualhumilitylab.com
+0.0.0.0 www.intendedoutput.com
 0.0.0.0 www.intentionallyathwart.com
 0.0.0.0 www.intentionsarson.com
 0.0.0.0 www.intentlyfridayrestroom.com
@@ -98893,6 +98927,7 @@
 0.0.0.0 www.loodha.com
 0.0.0.0 www.lookfaredeals.space
 0.0.0.0 www.lookruler.com
+0.0.0.0 www.looksblazeconfidentiality.com
 0.0.0.0 www.loomremotelywrath.com
 0.0.0.0 www.loomscald.com
 0.0.0.0 www.loomspreadingnamely.com
@@ -98909,6 +98944,7 @@
 0.0.0.0 www.losercurt.com
 0.0.0.0 www.losingninth.com
 0.0.0.0 www.losswitchrancid.com
+0.0.0.0 www.lotclergyman.com
 0.0.0.0 www.lotdispense.com
 0.0.0.0 www.lotionfortunate.com
 0.0.0.0 www.lotsbruised.com
@@ -99668,6 +99704,7 @@
 0.0.0.0 www.mysacredspace.org
 0.0.0.0 www.myscience.guru
 0.0.0.0 www.myselfcircumstantial.com
+0.0.0.0 www.myselfkneelsmoulder.com
 0.0.0.0 www.mysmartlink.website
 0.0.0.0 www.mystifyin.xyz
 0.0.0.0 www.mythincredibly.com
@@ -99723,6 +99760,7 @@
 0.0.0.0 www.nasalhoney.com
 0.0.0.0 www.nationalgausewatrust.com
 0.0.0.0 www.nationalityblizzard.com
+0.0.0.0 www.nationhandbook.com
 0.0.0.0 www.nationscappuccinoproblems.com
 0.0.0.0 www.nationssalvation.com
 0.0.0.0 www.natspiders.com
@@ -100112,6 +100150,7 @@
 0.0.0.0 www.omelettegeometryguts.com
 0.0.0.0 www.omenreprimanddesigner.com
 0.0.0.0 www.omietky.top
+0.0.0.0 www.omitpollenending.com
 0.0.0.0 www.omnilifecenter.com
 0.0.0.0 www.omnimatter.com
 0.0.0.0 www.omnipotentglobalbeer.com
@@ -100590,6 +100629,7 @@
 0.0.0.0 www.permitwarmer.com
 0.0.0.0 www.perpetualbliss.net
 0.0.0.0 www.perryvolleyball.com
+0.0.0.0 www.persecutionmachinery.com
 0.0.0.0 www.perseverancekaleidoscopefinance.com
 0.0.0.0 www.perseverancewash.com
 0.0.0.0 www.perseverevoice.com
@@ -100818,6 +100858,7 @@
 0.0.0.0 www.plunderdepot.com
 0.0.0.0 www.plungedcoloured.com
 0.0.0.0 www.pluralassumptionask.com
+0.0.0.0 www.pluralpeachy.com
 0.0.0.0 www.pluspelis.com
 0.0.0.0 www.plusungratefulinstruction.com
 0.0.0.0 www.plywoodfact.com
@@ -101010,6 +101051,7 @@
 0.0.0.0 www.prelandtest02.com
 0.0.0.0 www.prematurediverbone.com
 0.0.0.0 www.prematuregrumpyunhappy.com
+0.0.0.0 www.prematuresam.com
 0.0.0.0 www.premiereblinkconfessed.com
 0.0.0.0 www.premiumcvmaker.com
 0.0.0.0 www.premiumgadgets.tech
@@ -101027,6 +101069,7 @@
 0.0.0.0 www.preposterousdecidedfollowing.com
 0.0.0.0 www.preppartner.tech
 0.0.0.0 www.preraldnz.com
+0.0.0.0 www.prerogativeslob.com
 0.0.0.0 www.presentationathletefoundation.com
 0.0.0.0 www.presentationbishop.com
 0.0.0.0 www.presentlymumblespin.com
@@ -101978,6 +102021,7 @@
 0.0.0.0 www.rotkeepwallet.com
 0.0.0.0 www.rotuloverde.com
 0.0.0.0 www.rotundbeans.com
+0.0.0.0 www.rotundfetch.com
 0.0.0.0 www.rougloowhair.com
 0.0.0.0 www.roundspaniardindefinitely.com
 0.0.0.0 www.rounitsinha.tech
@@ -102012,6 +102056,7 @@
 0.0.0.0 www.ruchiraranawaka.com
 0.0.0.0 www.rudderaxis.com
 0.0.0.0 www.rudemend.com
+0.0.0.0 www.rudimentarydelay.com
 0.0.0.0 www.rudimentarynuisancesynchronize.com
 0.0.0.0 www.ruedurhone.com
 0.0.0.0 www.rugbymentalads.com
@@ -102158,6 +102203,7 @@
 0.0.0.0 www.savouryadolescent.com
 0.0.0.0 www.saxophonecharley.com
 0.0.0.0 www.saxophonefrontier.com
+0.0.0.0 www.saycaptain.com
 0.0.0.0 www.saycasksabnegation.com
 0.0.0.0 www.sbchill.com
 0.0.0.0 www.sbiddle.info
@@ -102313,6 +102359,7 @@
 0.0.0.0 www.sensiblemobiles.net
 0.0.0.0 www.sensorcleaver.com
 0.0.0.0 www.sensorpluck.com
+0.0.0.0 www.sensualtestresume.com
 0.0.0.0 www.sentbarn.com
 0.0.0.0 www.senternews.com
 0.0.0.0 www.sentimentsvarious.com
@@ -102444,6 +102491,7 @@
 0.0.0.0 www.shikharsuraksha.biz
 0.0.0.0 www.shindyprayhrs.com
 0.0.0.0 www.shineabnormalstranded.com
+0.0.0.0 www.shineinternalindolent.com
 0.0.0.0 www.shinglelatitude.com
 0.0.0.0 www.shiningbangla.com
 0.0.0.0 www.shiningstudio.online
@@ -102624,6 +102672,7 @@
 0.0.0.0 www.skininvent.com
 0.0.0.0 www.skinnynovembertackle.com
 0.0.0.0 www.skinsdefinitely.com
+0.0.0.0 www.skiofficerdemote.com
 0.0.0.0 www.skipcityflights.com
 0.0.0.0 www.skipperltd.asia
 0.0.0.0 www.skipperparentscompartment.com
@@ -103076,6 +103125,7 @@
 0.0.0.0 www.stewsmall.com
 0.0.0.0 www.stickboiled.com
 0.0.0.0 www.stickerchapelsailing.com
+0.0.0.0 www.stickernotifyskim.com
 0.0.0.0 www.stickervillain.com
 0.0.0.0 www.stickyabsorption.com
 0.0.0.0 www.stickyhustle.com
@@ -103348,6 +103398,7 @@
 0.0.0.0 www.swiminvestigator.com
 0.0.0.0 www.swimtwittercloakroom.com
 0.0.0.0 www.swindlebeseech.com
+0.0.0.0 www.swindlehumorfossil.com
 0.0.0.0 www.swindlerabblesunshine.com
 0.0.0.0 www.swinesuburbanclue.com
 0.0.0.0 www.swingamazeinterface.com
@@ -103840,6 +103891,7 @@
 0.0.0.0 www.toncooperateapologise.com
 0.0.0.0 www.toneernestport.com
 0.0.0.0 www.tongsihai.top
+0.0.0.0 www.tonicneighbouring.com
 0.0.0.0 www.tonicorchestra.com
 0.0.0.0 www.toogeepaun.com
 0.0.0.0 www.toolsbestbuy.top
@@ -104111,6 +104163,7 @@
 0.0.0.0 www.turkiyetoolsteel.com
 0.0.0.0 www.turkstench.com
 0.0.0.0 www.turktransparent.com
+0.0.0.0 www.turnminimizeinterference.com
 0.0.0.0 www.turnreview.com
 0.0.0.0 www.turnstilespacious.com
 0.0.0.0 www.turnstileunavailablesite.com
@@ -104224,6 +104277,7 @@
 0.0.0.0 www.understoodunreasonable.com
 0.0.0.0 www.undertakeunavailableobscene.com
 0.0.0.0 www.undertakingaisle.com
+0.0.0.0 www.undertakinghomeyegg.com
 0.0.0.0 www.underwearsourorb.com
 0.0.0.0 www.undesirableslim.com
 0.0.0.0 www.undonesincerelydraught.com
@@ -104367,6 +104421,7 @@
 0.0.0.0 www.validbreakfast.com
 0.0.0.0 www.validsquatcyber.com
 0.0.0.0 www.valleylamentclass.com
+0.0.0.0 www.valleymuchunnecessary.com
 0.0.0.0 www.valleypersonalit.com
 0.0.0.0 www.valleyyouthchoirs.com
 0.0.0.0 www.valuablecompositemagnanimity.com
@@ -104375,6 +104430,7 @@
 0.0.0.0 www.valuebreeches.com
 0.0.0.0 www.valuedpulverizelegitimate.com
 0.0.0.0 www.valuerlaserlax.com
+0.0.0.0 www.valuermainly.com
 0.0.0.0 www.valuersghar.com
 0.0.0.0 www.valuesgloryprovocation.com
 0.0.0.0 www.vandanabharatgas.com
@@ -104421,6 +104477,7 @@
 0.0.0.0 www.veneeringimpenetrable.com
 0.0.0.0 www.venisonabreastdamn.com
 0.0.0.0 www.venisonhumridicule.com
+0.0.0.0 www.venisonreservationbarefooted.com
 0.0.0.0 www.vennacorp.com
 0.0.0.0 www.vennahealthtech.com
 0.0.0.0 www.vennatechnology.com
@@ -105311,6 +105368,7 @@
 0.0.0.0 www.zmtopgiftssurvey.top
 0.0.0.0 www.zmw22.com
 0.0.0.0 www.zniev.online
+0.0.0.0 www.zodiacranbehalf.com
 0.0.0.0 www.zodo.store
 0.0.0.0 www.zonadedesmadre.com
 0.0.0.0 www.zooskatehesitation.com
