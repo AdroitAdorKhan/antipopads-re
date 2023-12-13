@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.347
 # Release: 347
-# Entries: 109,175
-# Updated: Wed, 13 Dec 23 20:09:45 +06
+# Entries: 109,176
+# Updated: Wed, 13 Dec 23 22:08:34 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12134,6 +12134,7 @@
 0.0.0.0 birchallincentivetravel.com
 0.0.0.0 birchdynamicunicorn.com
 0.0.0.0 birchenmuleys.website
+0.0.0.0 birchflarechurch.com
 0.0.0.0 birchtreesafety.com
 0.0.0.0 birchwigkidney.com
 0.0.0.0 birdas.com
