@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.348
 # Release: 348
-# Entries: 109,219
-# Updated: Thu, 14 Dec 23 06:08:10 +06
+# Entries: 109,221
+# Updated: Thu, 14 Dec 23 08:36:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -55989,6 +55989,7 @@
 0.0.0.0 njmfejdgbiheft.com
 0.0.0.0 njmkilpqzibv.com
 0.0.0.0 njostrich.us
+0.0.0.0 njplpnoxgnbpid.com
 0.0.0.0 njprfviomemec.com
 0.0.0.0 njqqepuzpzatzx.com
 0.0.0.0 njqqpxuvzgtcu.com
@@ -78845,6 +78846,7 @@
 0.0.0.0 tboscoin.com
 0.0.0.0 tbplcam.com
 0.0.0.0 tbpolicylab.org
+0.0.0.0 tbqastgcacuvs.xyz
 0.0.0.0 tbqbucptf.com
 0.0.0.0 tbrclwbetggknuc.com
 0.0.0.0 tbrinance.com
