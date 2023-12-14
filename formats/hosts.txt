@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.349
 # Release: 349
-# Entries: 109,369
-# Updated: Fri, 15 Dec 23 00:41:47 +06
+# Entries: 109,371
+# Updated: Fri, 15 Dec 23 02:09:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -46313,6 +46313,7 @@
 0.0.0.0 kzschztr.xyz
 0.0.0.0 kzsfip3v.cfd
 0.0.0.0 kzt2afc1rp52.com
+0.0.0.0 l-iw.de
 0.0.0.0 l-koberce.com
 0.0.0.0 l.www.dimseeksa.com
 0.0.0.0 l1n3d1ne.com
@@ -109346,6 +109347,7 @@
 0.0.0.0 zxr9gpxf7j.com
 0.0.0.0 zxrcaetqipylb.com
 0.0.0.0 zxslkcsru.com
+0.0.0.0 zxwhkosabux.com
 0.0.0.0 zxwmmswtnoh.com
 0.0.0.0 zxxds.net
 0.0.0.0 zxxgoikbqyiu.com
