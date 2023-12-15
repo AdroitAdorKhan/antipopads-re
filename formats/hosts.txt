@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.349
 # Release: 349
-# Entries: 109,381
-# Updated: Fri, 15 Dec 23 08:50:57 +06
+# Entries: 109,382
+# Updated: Fri, 15 Dec 23 10:08:17 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -44760,6 +44760,7 @@
 0.0.0.0 kenbigroup.com
 0.0.0.0 kencomhealthcare.com
 0.0.0.0 kencraven.com
+0.0.0.0 kendallmitsubishi.com
 0.0.0.0 kendosliny.com
 0.0.0.0 kendrajonason.com
 0.0.0.0 kenduktur.com
