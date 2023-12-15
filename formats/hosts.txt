@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.350
 # Release: 350
-# Entries: 109,519
-# Updated: Sat, 16 Dec 23 02:11:04 +06
+# Entries: 109,521
+# Updated: Sat, 16 Dec 23 04:16:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1511,6 +1511,7 @@
 0.0.0.0 45eijvhgj2.com
 0.0.0.0 45f77.com
 0.0.0.0 4612.yt
+0.0.0.0 4616.wf
 0.0.0.0 4623.ru
 0.0.0.0 4632.yt
 0.0.0.0 465713.com
@@ -9520,6 +9521,7 @@
 0.0.0.0 awsurveys.com
 0.0.0.0 awswayful.space
 0.0.0.0 awtcher.guru
+0.0.0.0 awtpguxqtf.com
 0.0.0.0 awtqbjylk.com
 0.0.0.0 awugxvrmsdalpx.com
 0.0.0.0 awutohkhu.com
