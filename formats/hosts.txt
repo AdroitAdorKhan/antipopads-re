@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.349
 # Release: 349
-# Entries: 109,399
-# Updated: Fri, 15 Dec 23 16:29:45 +06
+# Entries: 109,401
+# Updated: Fri, 15 Dec 23 18:08:34 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -76866,6 +76866,7 @@
 0.0.0.0 stormsamba.live
 0.0.0.0 stormstrap.com
 0.0.0.0 stormyacquaintancesteam.com
+0.0.0.0 stormydiskbankrupt.com
 0.0.0.0 stormydrawer.com
 0.0.0.0 stormyproposal.pro
 0.0.0.0 storners.com
@@ -97071,6 +97072,7 @@
 0.0.0.0 www.goodwilldetriment.com
 0.0.0.0 www.goodygumsabbreviate.com
 0.0.0.0 www.goodyhitherto.com
+0.0.0.0 www.google-analyticals.com
 0.0.0.0 www.google-removedforpreview-analytics.com
 0.0.0.0 www.google.co.mn
 0.0.0.0 www.google.comwww.profitablecreativeformat.com
