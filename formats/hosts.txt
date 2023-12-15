@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.12.349
-# Release: 349
-# Entries: 109,465
-# Updated: Fri, 15 Dec 23 22:11:37 +06
+# Version: 23.12.350
+# Release: 350
+# Entries: 109,492
+# Updated: Sat, 16 Dec 23 00:29:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -438,6 +438,7 @@
 0.0.0.0 16dns.cn
 0.0.0.0 16iis7i2p.de
 0.0.0.0 1714.fr
+0.0.0.0 1736.wf
 0.0.0.0 1743.yt
 0.0.0.0 1747.me
 0.0.0.0 1762.yt
@@ -454,6 +455,7 @@
 0.0.0.0 181yue.com
 0.0.0.0 182-airtel.com
 0.0.0.0 1825.yt
+0.0.0.0 1830.wf
 0.0.0.0 1832018.com
 0.0.0.0 184c4i95p.de
 0.0.0.0 185.ooo
@@ -832,6 +834,7 @@
 0.0.0.0 22pay.net
 0.0.0.0 22v888.com
 0.0.0.0 23266.comwww.677555.com
+0.0.0.0 2331.wf
 0.0.0.0 2333.pw
 0.0.0.0 233now.com
 0.0.0.0 2345bi.com
@@ -1287,6 +1290,7 @@
 0.0.0.0 3825.yt
 0.0.0.0 383845.com
 0.0.0.0 38429.ma
+0.0.0.0 3852.wf
 0.0.0.0 386-old-orchard.com
 0.0.0.0 387nn.com
 0.0.0.0 3888ky.cc
@@ -1489,6 +1493,7 @@
 0.0.0.0 442hu.com
 0.0.0.0 442picks.com
 0.0.0.0 44455663.com
+0.0.0.0 4449.wf
 0.0.0.0 444wc.com
 0.0.0.0 44547s.com
 0.0.0.0 446555.comwww.844644.com
@@ -1507,13 +1512,16 @@
 0.0.0.0 45f77.com
 0.0.0.0 4612.yt
 0.0.0.0 4623.ru
+0.0.0.0 4632.yt
 0.0.0.0 465713.com
 0.0.0.0 46689.comwww.hk118.cnwww.844644.com
+0.0.0.0 4683.yt
 0.0.0.0 4684.comwww.844644.com
 0.0.0.0 4690y10pvpq8.com
 0.0.0.0 469f8f0b89.com
 0.0.0.0 46f33ab625.b97482f4b9.com
 0.0.0.0 47-ecommercet.com
+0.0.0.0 4727.tf
 0.0.0.0 4735.tf
 0.0.0.0 4756.wf
 0.0.0.0 47riu.space
@@ -1735,6 +1743,7 @@
 0.0.0.0 535666h.com
 0.0.0.0 5360.xyz
 0.0.0.0 5370.yt
+0.0.0.0 5372.wf
 0.0.0.0 53887.comwww.601122.com
 0.0.0.0 539trdzkf.com
 0.0.0.0 53baefdba7.5da55619e0.com
@@ -1945,6 +1954,7 @@
 0.0.0.0 61-nmobads.com
 0.0.0.0 61.225www.profitablecreativeformat.com
 0.0.0.0 6136.yt
+0.0.0.0 6137.yt
 0.0.0.0 61739011039d41a.com
 0.0.0.0 6182.yt
 0.0.0.0 6198399e4910e66-ovc.com
@@ -1974,6 +1984,7 @@
 0.0.0.0 63353533oremailusatsupport-singpass.net
 0.0.0.0 633678338f.3cb004e947.com
 0.0.0.0 6345ti.com
+0.0.0.0 6366.wf
 0.0.0.0 636652039.help
 0.0.0.0 6375.yt
 0.0.0.0 6382.tf
@@ -1994,6 +2005,8 @@
 0.0.0.0 64ioio.com
 0.0.0.0 64points.com
 0.0.0.0 65010191910guide-sgstoping.fr
+0.0.0.0 6512.wf
+0.0.0.0 6532.wf
 0.0.0.0 65446a.com
 0.0.0.0 65535.la
 0.0.0.0 6581.yt
@@ -2176,6 +2189,7 @@
 0.0.0.0 720pvideo.tk
 0.0.0.0 7215.yt
 0.0.0.0 7231691.com
+0.0.0.0 7239.wf
 0.0.0.0 7240.yt
 0.0.0.0 7241.yt
 0.0.0.0 7248.yt
@@ -2395,6 +2409,7 @@
 0.0.0.0 818box.com
 0.0.0.0 823bc1a6cd3f1657.com
 0.0.0.0 82448dceaaa13034.com
+0.0.0.0 8266.wf
 0.0.0.0 826dfb3390.5dec6805a0.com
 0.0.0.0 8273.yt
 0.0.0.0 8275.yt
@@ -2455,6 +2470,7 @@
 0.0.0.0 8761f9f83613.com
 0.0.0.0 8763rt.com
 0.0.0.0 8767085ab9.com
+0.0.0.0 8770.wf
 0.0.0.0 878166.comwww.301122.comwww855888comwww94809comwww.685678.comwww.677555.com
 0.0.0.0 87877.com62333www.txbb.hkwww.844644.com
 0.0.0.0 878997.com
@@ -2498,6 +2514,7 @@
 0.0.0.0 89167880.com
 0.0.0.0 891904ed87.com
 0.0.0.0 8934728393492.com
+0.0.0.0 8935.wf
 0.0.0.0 89362.mn
 0.0.0.0 897sunfm.ca
 0.0.0.0 898999.comwww.21887.comwww.581555.comwww.844644.com
@@ -2638,6 +2655,7 @@
 0.0.0.0 9376ec23d50b1.com
 0.0.0.0 937r.com
 0.0.0.0 9384.wf
+0.0.0.0 9395.wf
 0.0.0.0 93bobo.com
 0.0.0.0 93ky.bet
 0.0.0.0 93ky.me
@@ -2681,6 +2699,7 @@
 0.0.0.0 97proxy.com
 0.0.0.0 97sandandgravel.com
 0.0.0.0 98.sk
+0.0.0.0 9816.wf
 0.0.0.0 981787.com
 0.0.0.0 9842.comwww.844644.com
 0.0.0.0 987258.com
@@ -2690,8 +2709,10 @@
 0.0.0.0 98tang.la
 0.0.0.0 98xxxx.com
 0.0.0.0 9900j.com
+0.0.0.0 9907.wf
 0.0.0.0 990hk.com5555k.comwwwhkjcxcomjndltc.comwww333883comwww.mh59.comwww.880666.comwww.601122.com
 0.0.0.0 991.re
+0.0.0.0 9920.wf
 0.0.0.0 9924c4cf5e.com
 0.0.0.0 9929.yt
 0.0.0.0 9950.tf
@@ -20373,6 +20394,7 @@
 0.0.0.0 cspbankmitrabc.in.net
 0.0.0.0 cspfuqi4.live
 0.0.0.0 csps-efpc-sandbox-bacasable.ca
+0.0.0.0 csq.yt
 0.0.0.0 csqgebok.com
 0.0.0.0 csqhxfigdrqjk.com
 0.0.0.0 csqpjhuthsco.com
@@ -41808,6 +41830,7 @@
 0.0.0.0 isuckass.com
 0.0.0.0 isupolitiksemasa.net
 0.0.0.0 isupopc.com
+0.0.0.0 isw.yt
 0.0.0.0 iswhatappyouneed.net
 0.0.0.0 iswhelectual.cc
 0.0.0.0 iswissknife.com
@@ -44094,6 +44117,7 @@
 0.0.0.0 jvvyucvkkfj.com
 0.0.0.0 jvwjjcijldscuta.com
 0.0.0.0 jvxlfnvqllyeg.com
+0.0.0.0 jvydtutqrmdx.com
 0.0.0.0 jw.basidiasapwort.com
 0.0.0.0 jw.filchedprelaw.com
 0.0.0.0 jw.inquirywaiver.com
@@ -63080,6 +63104,7 @@
 0.0.0.0 pnwygdlnymuc.top
 0.0.0.0 poacawhe.net
 0.0.0.0 poachfirewoodboast.com
+0.0.0.0 poafuden.top
 0.0.0.0 poagourait.com
 0.0.0.0 poagrili.net
 0.0.0.0 poagroul.com
@@ -74048,6 +74073,7 @@
 0.0.0.0 sizzlings4u.com
 0.0.0.0 sj59527.com
 0.0.0.0 sjaghhnnqjjvs.xyz
+0.0.0.0 sjb.pm
 0.0.0.0 sjdhfjsdf6x6.monster
 0.0.0.0 sjergkkrfxd.com
 0.0.0.0 sjevdjqhdmlelo.com
@@ -78168,6 +78194,7 @@
 0.0.0.0 swww.movcpm.com
 0.0.0.0 sx.aeolicholsom.com
 0.0.0.0 sx.sconcessorgho.com
+0.0.0.0 sxb.yt
 0.0.0.0 sxbbqlnulcmyhr.com
 0.0.0.0 sxcbnqubygqekx.com
 0.0.0.0 sxcpt.org
