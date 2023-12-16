@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.12.350
-# Release: 350
-# Entries: 109,560
-# Updated: Sat, 16 Dec 23 22:08:29 +06
+# Version: 23.12.351
+# Release: 351
+# Entries: 109,599
+# Updated: Sun, 17 Dec 23 00:30:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -379,6 +379,7 @@
 0.0.0.0 133xto.to
 0.0.0.0 1348.yt
 0.0.0.0 1352014.xyz
+0.0.0.0 1357.wf
 0.0.0.0 1358785.com
 0.0.0.0 1362.yt
 0.0.0.0 13630gmail.com
@@ -425,6 +426,7 @@
 0.0.0.0 16066bf4a6.1c7154dd67.com
 0.0.0.0 1608.yt
 0.0.0.0 161286.com
+0.0.0.0 1634.wf
 0.0.0.0 163tp.com
 0.0.0.0 164995.com
 0.0.0.0 1652483.com
@@ -927,6 +929,7 @@
 0.0.0.0 2639iqjkl.de
 0.0.0.0 265e474e8c.660cba7db1.com
 0.0.0.0 266.in
+0.0.0.0 2683.wf
 0.0.0.0 268efb.com
 0.0.0.0 268stephe5en3king.com
 0.0.0.0 2694f0eeb6.com
@@ -1152,6 +1155,7 @@
 0.0.0.0 303ag0nc7.de
 0.0.0.0 303marketplace.com
 0.0.0.0 3051.yt
+0.0.0.0 3073.tf
 0.0.0.0 309073f80396.com
 0.0.0.0 30b9e3a7d7e2b.com
 0.0.0.0 30bt.com
@@ -1164,12 +1168,15 @@
 0.0.0.0 31396.info
 0.0.0.0 313rrr.com
 0.0.0.0 314gqd3es.de
+0.0.0.0 3150.wf
 0.0.0.0 3157.yt
+0.0.0.0 3158.wf
 0.0.0.0 3158.yt
 0.0.0.0 316feq0nc.de
 0.0.0.0 3174dad139.com
 0.0.0.0 3176.yt
 0.0.0.0 3184.yt
+0.0.0.0 3195.wf
 0.0.0.0 31bqljnla.de
 0.0.0.0 31cm5fq78.de
 0.0.0.0 31d6gphkr.de
@@ -1206,6 +1213,7 @@
 0.0.0.0 333tv.cc
 0.0.0.0 333veni.org
 0.0.0.0 3359pan.com
+0.0.0.0 3362.wf
 0.0.0.0 3369909.com
 0.0.0.0 337x.to
 0.0.0.0 3381.ma
@@ -1276,6 +1284,7 @@
 0.0.0.0 367tv.com
 0.0.0.0 369hezi.com
 0.0.0.0 36io.co
+0.0.0.0 3702.tf
 0.0.0.0 3724.yt
 0.0.0.0 3760k.com
 0.0.0.0 3761fcd24ef9281f5.com
@@ -1283,6 +1292,7 @@
 0.0.0.0 3762.yt
 0.0.0.0 3762626.com
 0.0.0.0 3782588.com
+0.0.0.0 3793.wf
 0.0.0.0 3796.in
 0.0.0.0 37fq.com
 0.0.0.0 37mst.tel
@@ -1293,6 +1303,7 @@
 0.0.0.0 3852.wf
 0.0.0.0 386-old-orchard.com
 0.0.0.0 387nn.com
+0.0.0.0 3886.wf
 0.0.0.0 3888ky.cc
 0.0.0.0 38c7418586.ad6011520d.com
 0.0.0.0 38hyv.pw
@@ -1529,9 +1540,11 @@
 0.0.0.0 48.tf
 0.0.0.0 480areacode.org
 0.0.0.0 48116b.com
+0.0.0.0 4815.wf
 0.0.0.0 4821.yt
 0.0.0.0 482199.comwww.000779.com86658.comwww.844644.com
 0.0.0.0 4825.yt
+0.0.0.0 4839.wf
 0.0.0.0 484222w.com
 0.0.0.0 486528289.cn
 0.0.0.0 486bb.com
@@ -1698,6 +1711,7 @@
 0.0.0.0 510areacode.org
 0.0.0.0 51345e7473.07ab456fe8.com
 0.0.0.0 5160bm59.pw
+0.0.0.0 5163.wf
 0.0.0.0 5163.yt
 0.0.0.0 516cables.com
 0.0.0.0 516rlog57.com
@@ -1724,10 +1738,12 @@
 0.0.0.0 5235a4b207.ad64463ef9.com
 0.0.0.0 523cn.com
 0.0.0.0 5240.tf
+0.0.0.0 5249.wf
 0.0.0.0 5255tw.com
 0.0.0.0 525linc.com
 0.0.0.0 525lincallston.com
 0.0.0.0 5261.ma
+0.0.0.0 5263.wf
 0.0.0.0 529db04bc39bc.com
 0.0.0.0 52cg10.com
 0.0.0.0 52cjg4.xyz
@@ -1735,6 +1751,7 @@
 0.0.0.0 52pojie.cm
 0.0.0.0 52suyingtv.com
 0.0.0.0 52wanyue.com
+0.0.0.0 5305.tf
 0.0.0.0 531shop.net
 0.0.0.0 532xcxypmpnp.com
 0.0.0.0 5336cf.com
@@ -1793,6 +1810,7 @@
 0.0.0.0 55thy.com
 0.0.0.0 55yy2.com
 0.0.0.0 561010.com
+0.0.0.0 5627.wf
 0.0.0.0 562i7aqkxu.com
 0.0.0.0 5641.yt
 0.0.0.0 567bets10.com
@@ -2037,6 +2055,7 @@
 0.0.0.0 6721.yt
 0.0.0.0 6725.yt
 0.0.0.0 67293b.com
+0.0.0.0 6731.wf
 0.0.0.0 6731.yt
 0.0.0.0 6732.yt
 0.0.0.0 6745jj.com
@@ -2181,6 +2200,7 @@
 0.0.0.0 70fn.com
 0.0.0.0 710e779685.b89d654db3.com
 0.0.0.0 7134.yt
+0.0.0.0 7147.wf
 0.0.0.0 714a39ef94.086f39952a.com
 0.0.0.0 71692fai4cc0.com
 0.0.0.0 7196.yt
@@ -2220,8 +2240,10 @@
 0.0.0.0 746fyw2v.com
 0.0.0.0 7480b.com
 0.0.0.0 7484.yt
+0.0.0.0 7487.wf
 0.0.0.0 74c1faa635.f3a173b897.com
 0.0.0.0 74ibcasino.xyz
+0.0.0.0 7531.wf
 0.0.0.0 7543.yt
 0.0.0.0 755.fun
 0.0.0.0 7557.yt
@@ -2234,6 +2256,7 @@
 0.0.0.0 760areacode.org
 0.0.0.0 7624.yt
 0.0.0.0 7631.yt
+0.0.0.0 7632.wf
 0.0.0.0 7638.wf
 0.0.0.0 7639.wf
 0.0.0.0 7658.tf
@@ -2250,6 +2273,7 @@
 0.0.0.0 7710458.ru
 0.0.0.0 7713.wf
 0.0.0.0 7720.tf
+0.0.0.0 7749.wf
 0.0.0.0 7765.in
 0.0.0.0 77667669052.click
 0.0.0.0 777-7777.ca
@@ -2447,8 +2471,10 @@
 0.0.0.0 85.ma
 0.0.0.0 8504.yt
 0.0.0.0 8520.yt
+0.0.0.0 8522.wf
 0.0.0.0 8547.wf
 0.0.0.0 855122c.com
+0.0.0.0 8556.wf
 0.0.0.0 8576.yt
 0.0.0.0 8597.yt
 0.0.0.0 85c485513f.com
@@ -2456,6 +2482,7 @@
 0.0.0.0 8624.tf
 0.0.0.0 8627.yt
 0.0.0.0 862afc8f42dd4d6ad04ecc7568a34b34.com
+0.0.0.0 8635.wf
 0.0.0.0 8642.wf
 0.0.0.0 864denture.com
 0.0.0.0 864feb57ruary.com
@@ -2466,7 +2493,9 @@
 0.0.0.0 86cb1dcb13ba5a1a.com
 0.0.0.0 86ren.net
 0.0.0.0 8705159.com
+0.0.0.0 8726.wf
 0.0.0.0 8731.yt
+0.0.0.0 8735.wf
 0.0.0.0 874444.comwww.601122.com
 0.0.0.0 8761f9f83613.com
 0.0.0.0 8763rt.com
@@ -2692,7 +2721,9 @@
 0.0.0.0 96b08b4df8.com
 0.0.0.0 96cd.net
 0.0.0.0 96i0.pw
+0.0.0.0 9728.wf
 0.0.0.0 975nqoq7.info
+0.0.0.0 9771.wf
 0.0.0.0 97727.comwww.677555.com
 0.0.0.0 977ky.app
 0.0.0.0 97a024119c.4c329124bb.com
@@ -3840,6 +3871,7 @@
 0.0.0.0 adamjacobs.us
 0.0.0.0 adamsdao.com
 0.0.0.0 adamszaytoona.com
+0.0.0.0 adanad.name
 0.0.0.0 adanifoods.in
 0.0.0.0 adaptationbodilypairs.com
 0.0.0.0 adaptationdeployment.com
@@ -10118,6 +10150,7 @@
 0.0.0.0 bakteso.ru
 0.0.0.0 baku-ix.org
 0.0.0.0 bakubabasilic.space
+0.0.0.0 bakubasugis.guru
 0.0.0.0 bakulaoofiest.website
 0.0.0.0 bakwasfello.com
 0.0.0.0 balagawala.in
@@ -21949,6 +21982,7 @@
 0.0.0.0 deemfriday.com
 0.0.0.0 deemsoil.com
 0.0.0.0 deemsteppemental.com
+0.0.0.0 deemwidowdiscourage.com
 0.0.0.0 deenclassic.com
 0.0.0.0 deenervixens.life
 0.0.0.0 deepanshieducation.com
@@ -51683,6 +51717,7 @@
 0.0.0.0 messenger-notify.xyz
 0.0.0.0 messengerinternfair.com
 0.0.0.0 messengerreadinessdriver.com
+0.0.0.0 messengershevelvet.com
 0.0.0.0 messianic.live
 0.0.0.0 messianicpraiseandworship.com
 0.0.0.0 messic.lol
@@ -51748,6 +51783,7 @@
 0.0.0.0 metonicthought.com
 0.0.0.0 metopeharriet.com
 0.0.0.0 metopemacaca.digital
+0.0.0.0 metorealiukz.org
 0.0.0.0 metosk.com
 0.0.0.0 metotreatwithdify.info
 0.0.0.0 metrebeggary.digital
@@ -58714,6 +58750,7 @@
 0.0.0.0 onpsrrejx.com
 0.0.0.0 onqbcobjmyoun.com
 0.0.0.0 onraltstor.com
+0.0.0.0 onseleauks.org
 0.0.0.0 onsequentlys.xyz
 0.0.0.0 onservantas.org
 0.0.0.0 onsetknives.com
@@ -70561,6 +70598,7 @@
 0.0.0.0 rxxwwkdakqgl.top
 0.0.0.0 rxyibxyxwjfknfj.com
 0.0.0.0 ry.sturteheaping.com
+0.0.0.0 ryanfrqxjl.com
 0.0.0.0 ryange.com
 0.0.0.0 ryangreenhall.com
 0.0.0.0 rybarskabasta.com
@@ -80090,6 +80128,7 @@
 0.0.0.0 thebridgmongroup.com
 0.0.0.0 thebrightideasfactory.co.uk
 0.0.0.0 thebromudragroup.com
+0.0.0.0 thebtcups.net
 0.0.0.0 thebuildingblox.com
 0.0.0.0 thebusinesscouncil.us
 0.0.0.0 thebusinesspivot.com
