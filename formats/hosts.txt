@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.350
 # Release: 350
-# Entries: 109,535
-# Updated: Sat, 16 Dec 23 10:08:26 +06
+# Entries: 109,536
+# Updated: Sat, 16 Dec 23 12:15:31 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -85614,6 +85614,7 @@
 0.0.0.0 uringherenurew.info
 0.0.0.0 urinle.com
 0.0.0.0 url-www.effectivedisplayformats.com
+0.0.0.0 url-www.toprevenuegate.com
 0.0.0.0 url.re
 0.0.0.0 urldelivery.com
 0.0.0.0 urlgone.com
