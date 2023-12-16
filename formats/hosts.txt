@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.350
 # Release: 350
-# Entries: 109,532
-# Updated: Sat, 16 Dec 23 08:28:31 +06
+# Entries: 109,535
+# Updated: Sat, 16 Dec 23 10:08:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -41141,6 +41141,7 @@
 0.0.0.0 intellipopup.com
 0.0.0.0 intellitxt.com
 0.0.0.0 intelplex.com
+0.0.0.0 intelstqkt.com
 0.0.0.0 intendedeasiestlost.com
 0.0.0.0 intendedoutput.com
 0.0.0.0 intensedebate.com
@@ -47651,6 +47652,7 @@
 0.0.0.0 lgsrecords.net
 0.0.0.0 lgtdkpfnor.com
 0.0.0.0 lgtqcl8r5i9w.com
+0.0.0.0 lgutloyenx.xyz
 0.0.0.0 lgvids.com
 0.0.0.0 lgviqkrimvmy.xyz
 0.0.0.0 lgwddyouxxwd.com
@@ -102744,6 +102746,7 @@
 0.0.0.0 www.serhemconstrucao.com.br
 0.0.0.0 www.serialyou.com
 0.0.0.0 www.serienfreaks.to
+0.0.0.0 www.seriouslygesture.com
 0.0.0.0 www.sermonoccupied.com
 0.0.0.0 www.serpvisible.com
 0.0.0.0 www.serumlisp.com
