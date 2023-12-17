@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.352
 # Release: 352
-# Entries: 109,713
-# Updated: Mon, 18 Dec 23 00:26:55 +06
+# Entries: 109,716
+# Updated: Mon, 18 Dec 23 02:08:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11898,6 +11898,7 @@
 0.0.0.0 bicyclelistworst.com
 0.0.0.0 bid.glass
 0.0.0.0 bidbadlyarsonist.com
+0.0.0.0 bidbeneficial.com
 0.0.0.0 bidclickmedia.com
 0.0.0.0 biddan.net
 0.0.0.0 bidder.dev
@@ -51909,6 +51910,7 @@
 0.0.0.0 mggslmeqtyfxb.com
 0.0.0.0 mghkpg.com
 0.0.0.0 mgid.com
+0.0.0.0 mgjgqztw.com
 0.0.0.0 mgjnmfhyis.xyz
 0.0.0.0 mglep.com
 0.0.0.0 mgmarina.org
@@ -109725,6 +109727,7 @@
 0.0.0.0 zzautoparts.in
 0.0.0.0 zzdb5p4upiug.com
 0.0.0.0 zzfeyxsxausqk.com
+0.0.0.0 zzhyebbt.com
 0.0.0.0 zzhymj.com
 0.0.0.0 zzialtlewmzqki.com
 0.0.0.0 zzitj.com
