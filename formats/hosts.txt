@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.351
 # Release: 351
-# Entries: 109,602
-# Updated: Sun, 17 Dec 23 02:08:35 +06
+# Entries: 109,604
+# Updated: Sun, 17 Dec 23 06:08:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -51342,6 +51342,7 @@
 0.0.0.0 medino.in
 0.0.0.0 mediocrestraightforward.com
 0.0.0.0 mediodia.org
+0.0.0.0 mediouno.com
 0.0.0.0 mediplata.link
 0.0.0.0 mediserve.tech
 0.0.0.0 meditatecable.com
@@ -89171,6 +89172,7 @@
 0.0.0.0 wcxdmbqplf.xyz
 0.0.0.0 wcxegvp.com
 0.0.0.0 wcyapvikap.com
+0.0.0.0 wcycotzoxhvapo.com
 0.0.0.0 wd.roughyhashed.com
 0.0.0.0 wd282endfws.de
 0.0.0.0 wdavrzv.com
