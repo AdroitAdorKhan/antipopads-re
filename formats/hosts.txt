@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.351
 # Release: 351
-# Entries: 109,607
-# Updated: Sun, 17 Dec 23 08:28:17 +06
+# Entries: 109,609
+# Updated: Sun, 17 Dec 23 10:08:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -21090,6 +21090,7 @@
 0.0.0.0 d54testneviem.site
 0.0.0.0 d58931bb20.5afc8f3239.com
 0.0.0.0 d5chnap6b.com
+0.0.0.0 d6.tf
 0.0.0.0 d617490b25.c3ecfc3556.com
 0.0.0.0 d6235e33-0bc4-4ac1-b795-093daf0fe94a.www.acessoriosparablogs.com.br
 0.0.0.0 d670ea5015.3fab5e7874.com
@@ -62516,6 +62517,7 @@
 0.0.0.0 pjcinfra.in.net
 0.0.0.0 pjgltd.com
 0.0.0.0 pjgpaoincwvo.com
+0.0.0.0 pjhbyaaadlw.com
 0.0.0.0 pjhcyfksmvasi.xyz
 0.0.0.0 pjhmdplacf.com
 0.0.0.0 pjiieimgfogtp.com
