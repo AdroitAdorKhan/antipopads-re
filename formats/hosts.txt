@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.352
 # Release: 352
-# Entries: 109,793
-# Updated: Mon, 18 Dec 23 12:16:07 +06
+# Entries: 109,799
+# Updated: Mon, 18 Dec 23 14:09:11 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12932,6 +12932,7 @@
 0.0.0.0 bnohewjt.com
 0.0.0.0 bnoqrxjtyv.com
 0.0.0.0 bnp-paribas.link
+0.0.0.0 bnpgallery.com
 0.0.0.0 bnpmtoazgw.com
 0.0.0.0 bnpxktyo.com
 0.0.0.0 bnq33.com
@@ -15113,6 +15114,7 @@
 0.0.0.0 callback999.com
 0.0.0.0 callentearthworks.ca
 0.0.0.0 callerio.org
+0.0.0.0 callgenesis.net
 0.0.0.0 callgenesis.org
 0.0.0.0 calliflow.net
 0.0.0.0 calligraphyabnormality.com
@@ -51169,6 +51171,7 @@
 0.0.0.0 mcjayheavyhaul.com
 0.0.0.0 mcjdcfhblviath.com
 0.0.0.0 mckennacompaniesccom.com
+0.0.0.0 mckennacompaniesccom.net
 0.0.0.0 mckennacompaniesccom.org
 0.0.0.0 mckennaengineering.org
 0.0.0.0 mckensecuryr.info
@@ -78084,6 +78087,7 @@
 0.0.0.0 susceptibledoggiescales.com
 0.0.0.0 susceptiblefantasyjunction.com
 0.0.0.0 susen2022.com
+0.0.0.0 sushek.com
 0.0.0.0 sushi-kaif.com
 0.0.0.0 sushisakedelray.com
 0.0.0.0 sushisakewellington.com
@@ -88614,6 +88618,7 @@
 0.0.0.0 vwqnammebhylmfa.com
 0.0.0.0 vwqohlgfneusxy.com
 0.0.0.0 vwsmqqjkb.com
+0.0.0.0 vwswilfrveqzw.com
 0.0.0.0 vwunionville.com
 0.0.0.0 vwuyuahqf.com
 0.0.0.0 vwvparibumramazanetkinlikg.com
@@ -93634,6 +93639,7 @@
 0.0.0.0 www.bnhtml.com
 0.0.0.0 www.bniofdb1413.com
 0.0.0.0 www.bnp-paribas.link
+0.0.0.0 www.bnpgallery.com
 0.0.0.0 www.bnserving.com
 0.0.0.0 www.bnumbers.com
 0.0.0.0 www.boaphoot.com
