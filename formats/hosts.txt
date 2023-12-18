@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.353
 # Release: 353
-# Entries: 109,893
-# Updated: Tue, 19 Dec 23 02:08:43 +06
+# Entries: 109,898
+# Updated: Tue, 19 Dec 23 04:08:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9941,6 +9941,7 @@
 0.0.0.0 babyboomsale.com
 0.0.0.0 babydrivers.com
 0.0.0.0 babyfoxbrewing.us
+0.0.0.0 babyhomesafety.com
 0.0.0.0 babyishmate.pro
 0.0.0.0 babykm.top
 0.0.0.0 babyloncup.com
@@ -57501,6 +57502,7 @@
 0.0.0.0 o-chans.com
 0.0.0.0 o-noble.net
 0.0.0.0 o-oo.ooo
+0.0.0.0 o.www.psaumseegroa.com
 0.0.0.0 o1.in.net
 0.0.0.0 o2211.com
 0.0.0.0 o2c7dks4.de
@@ -58508,6 +58510,7 @@
 0.0.0.0 omanbuysell.com
 0.0.0.0 omaposti-fi-palvelu.net
 0.0.0.0 omaravi.shop
+0.0.0.0 omarbashiroud.com
 0.0.0.0 omarcheopson.com
 0.0.0.0 omareeper.com
 0.0.0.0 omarisland.ca
@@ -100824,6 +100827,7 @@
 0.0.0.0 www.olnist.com
 0.0.0.0 www.olympicsappointment.com
 0.0.0.0 www.omaravi.shop
+0.0.0.0 www.omarbashiroud.com
 0.0.0.0 www.omarkhalil.tech
 0.0.0.0 www.omelettecrippledemployee.com
 0.0.0.0 www.omelettegeometryguts.com
@@ -107355,6 +107359,7 @@
 0.0.0.0 xufukhfhqc.com
 0.0.0.0 xugkcigkoqtbnbp.com
 0.0.0.0 xuhren.de
+0.0.0.0 xuircnbbidmu.com
 0.0.0.0 xujanxdro.com
 0.0.0.0 xujsnbujkloq.xyz
 0.0.0.0 xultmwriufo.com
