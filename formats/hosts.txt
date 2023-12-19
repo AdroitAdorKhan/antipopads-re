@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.353
 # Release: 353
-# Entries: 109,910
-# Updated: Tue, 19 Dec 23 12:08:51 +06
+# Entries: 109,912
+# Updated: Tue, 19 Dec 23 14:10:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -27582,6 +27582,7 @@
 0.0.0.0 eqhegcbxmsgwil.com
 0.0.0.0 eqhrfpsvfk.com
 0.0.0.0 eqjkdifmtfpxdpd.com
+0.0.0.0 eqktmnuojibw.com
 0.0.0.0 eqmodukfq.com
 0.0.0.0 eqngcxaaw.com
 0.0.0.0 eqokqklgjeulkq.com
@@ -74399,6 +74400,7 @@
 0.0.0.0 sjwxsxgfszkxtq.com
 0.0.0.0 sjylreksuboocld.com
 0.0.0.0 sjylz.yt
+0.0.0.0 sk-paganpride.com
 0.0.0.0 sk1nsm0nkey.us
 0.0.0.0 skagasasjm.com
 0.0.0.0 skamvikitor.com
