@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.353
 # Release: 353
-# Entries: 109,898
-# Updated: Tue, 19 Dec 23 04:08:46 +06
+# Entries: 109,899
+# Updated: Tue, 19 Dec 23 06:12:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -66371,6 +66371,7 @@
 0.0.0.0 qlkpejsdscflo.com
 0.0.0.0 qlmeqfntxsgkxy.xyz
 0.0.0.0 qlmnxlxotylmykb.com
+0.0.0.0 qlmwgibhbhar.com
 0.0.0.0 qlnccjattetsoq.com
 0.0.0.0 qlnvhhpyeuqwfhu.xyz
 0.0.0.0 qlogicbd.com
