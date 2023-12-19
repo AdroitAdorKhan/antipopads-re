@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.353
 # Release: 353
-# Entries: 109,918
-# Updated: Tue, 19 Dec 23 16:36:32 +06
+# Entries: 109,920
+# Updated: Tue, 19 Dec 23 18:10:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -2914,6 +2914,7 @@
 :: a.audrte.com
 :: a.exdynsrv.com
 :: a.propellerclick.com
+:: a.www.psaumseegroa.com
 :: a012258cb2.fde1403147.com
 :: a04ea1b287.cc77769ad8.com
 :: a0675c1160de6c6.com
@@ -67414,6 +67415,7 @@
 :: rar-lab.top
 :: rarath.com
 :: rarbg.com
+:: rarbgaccess.org
 :: rarbgmirror.com
 :: rarbgmirror.org
 :: rarechats.blog

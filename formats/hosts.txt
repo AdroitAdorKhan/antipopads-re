@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.353
 # Release: 353
-# Entries: 109,918
-# Updated: Tue, 19 Dec 23 16:36:32 +06
+# Entries: 109,920
+# Updated: Tue, 19 Dec 23 18:10:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2914,6 +2914,7 @@
 0.0.0.0 a.audrte.com
 0.0.0.0 a.exdynsrv.com
 0.0.0.0 a.propellerclick.com
+0.0.0.0 a.www.psaumseegroa.com
 0.0.0.0 a012258cb2.fde1403147.com
 0.0.0.0 a04ea1b287.cc77769ad8.com
 0.0.0.0 a0675c1160de6c6.com
@@ -67414,6 +67415,7 @@
 0.0.0.0 rar-lab.top
 0.0.0.0 rarath.com
 0.0.0.0 rarbg.com
+0.0.0.0 rarbgaccess.org
 0.0.0.0 rarbgmirror.com
 0.0.0.0 rarbgmirror.org
 0.0.0.0 rarechats.blog
