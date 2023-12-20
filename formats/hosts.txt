@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.354
 # Release: 354
-# Entries: 109,956
-# Updated: Wed, 20 Dec 23 04:09:52 +06
+# Entries: 109,958
+# Updated: Wed, 20 Dec 23 06:09:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -70005,6 +70005,7 @@
 0.0.0.0 rootzaffiliates.com
 0.0.0.0 rootzone.in
 0.0.0.0 ropeanres.com
+0.0.0.0 ropeanresu.com
 0.0.0.0 ropedsawwort.com
 0.0.0.0 ropemoon.com
 0.0.0.0 roperoint.com
@@ -85951,6 +85952,7 @@
 0.0.0.0 uroraptor.com
 0.0.0.0 urosaurus.com
 0.0.0.0 uroztdorg.com
+0.0.0.0 urpctsrjilp.com
 0.0.0.0 urptfbkpakah.com
 0.0.0.0 urquilla.com
 0.0.0.0 urquilla.net
