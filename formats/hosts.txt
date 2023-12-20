@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.355
 # Release: 355
-# Entries: 110,074
-# Updated: Thu, 21 Dec 23 00:30:59 +06
+# Entries: 110,076
+# Updated: Thu, 21 Dec 23 02:09:42 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -51855,6 +51855,7 @@
 0.0.0.0 mercedesswag.com
 0.0.0.0 mercedesus.com
 0.0.0.0 merchenta.com
+0.0.0.0 merchetdigest.guru
 0.0.0.0 merchfocus.com
 0.0.0.0 merchrankled.space
 0.0.0.0 mercialtaver.club
@@ -58091,6 +58092,7 @@
 0.0.0.0 ofccreatives.com
 0.0.0.0 ofchildr.buzz
 0.0.0.0 ofclaydolr.com
+0.0.0.0 ofcvrpxsx.com
 0.0.0.0 ofdeuiqwok.com
 0.0.0.0 ofdittor.com
 0.0.0.0 ofdxfsho.com
