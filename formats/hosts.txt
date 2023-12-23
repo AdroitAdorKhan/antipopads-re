@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.357
 # Release: 357
-# Entries: 110,837
-# Updated: Sat, 23 Dec 23 08:32:09 +06
+# Entries: 110,843
+# Updated: Sat, 23 Dec 23 10:08:06 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5978,6 +5978,7 @@
 0.0.0.0 alignedventure.com
 0.0.0.0 alignedventure.net
 0.0.0.0 alignedventure.org
+0.0.0.0 alignerspurred.website
 0.0.0.0 alignmentcoaching.com
 0.0.0.0 alignmentflattery.com
 0.0.0.0 alihutan.com
@@ -27985,6 +27986,7 @@
 0.0.0.0 ersallower.com
 0.0.0.0 erseducationinin.info
 0.0.0.0 ersfohiplaceof.xyz
+0.0.0.0 ershbumpily.space
 0.0.0.0 ershniff.com
 0.0.0.0 ersislaqands.com
 0.0.0.0 erssqstdjnn.com
@@ -49784,6 +49786,7 @@
 0.0.0.0 lsqzxexvphk.com
 0.0.0.0 lsrttgbfiu.com
 0.0.0.0 lsru5gn.ru
+0.0.0.0 lsrztlmbhgzctp.com
 0.0.0.0 lsswwuaqbwox.com
 0.0.0.0 lssxnbbtnptrb.top
 0.0.0.0 lsubalhqkg.com
@@ -62295,6 +62298,7 @@
 0.0.0.0 perseverancekaleidoscopefinance.com
 0.0.0.0 perseverancewash.com
 0.0.0.0 perseverevoice.com
+0.0.0.0 persianapk.com
 0.0.0.0 persistarcticthese.com
 0.0.0.0 persistbathing.com
 0.0.0.0 persisteer.com
@@ -102193,6 +102197,7 @@
 0.0.0.0 www.perseverancekaleidoscopefinance.com
 0.0.0.0 www.perseverancewash.com
 0.0.0.0 www.perseverevoice.com
+0.0.0.0 www.persianapk.com
 0.0.0.0 www.persistarcticthese.com
 0.0.0.0 www.persistbathing.com
 0.0.0.0 www.persisteer.com
@@ -110276,6 +110281,7 @@
 0.0.0.0 zgoindic.com
 0.0.0.0 zgpt.tech
 0.0.0.0 zgschool.org
+0.0.0.0 zgslicbleg.com
 0.0.0.0 zgwjjdwlw.com
 0.0.0.0 zgxxvdlxc.com
 0.0.0.0 zgyhx3318.com
