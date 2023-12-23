@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.358
 # Release: 358
-# Entries: 110,923
-# Updated: Sun, 24 Dec 23 00:31:44 +06
+# Entries: 110,925
+# Updated: Sun, 24 Dec 23 02:13:54 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -70925,6 +70925,7 @@
 0.0.0.0 rqeqgvxuey.com
 0.0.0.0 rqeyxceoyojbcc.xyz
 0.0.0.0 rqfedjzveel.com
+0.0.0.0 rqgjvcea.com
 0.0.0.0 rqhere.com
 0.0.0.0 rqikqirlkcqvb.com
 0.0.0.0 rqjokcje.xyz
@@ -81954,6 +81955,7 @@
 0.0.0.0 thinneddarns.digital
 0.0.0.0 thinnercoddled.com
 0.0.0.0 thinnerconcha.com
+0.0.0.0 thionicmyotics.life
 0.0.0.0 thirab.com
 0.0.0.0 thiraq.com
 0.0.0.0 thirawogla.com
