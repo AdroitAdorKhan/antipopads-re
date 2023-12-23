@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.357
 # Release: 357
-# Entries: 110,919
-# Updated: Sat, 23 Dec 23 20:08:47 +06
+# Entries: 110,922
+# Updated: Sat, 23 Dec 23 22:09:17 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10006,6 +10006,7 @@
 0.0.0.0 babydrivers.com
 0.0.0.0 babyfoxbrewing.us
 0.0.0.0 babyhomesafety.com
+0.0.0.0 babyish-tea.com
 0.0.0.0 babyishmate.pro
 0.0.0.0 babykm.top
 0.0.0.0 babyloncup.com
@@ -36378,6 +36379,7 @@
 0.0.0.0 gyyejoeqc.com
 0.0.0.0 gyyy88d.com
 0.0.0.0 gz363.com
+0.0.0.0 gzakxmzydpkwr.com
 0.0.0.0 gzccpy.online
 0.0.0.0 gzcxtuxgqjrhz.com
 0.0.0.0 gziduzaj.com
@@ -76526,6 +76528,7 @@
 0.0.0.0 sosettoourmarke.info
 0.0.0.0 soshbmhp.org
 0.0.0.0 soshoord.com
+0.0.0.0 soshvenal.top
 0.0.0.0 sosigninggrudge.com
 0.0.0.0 soska.dev
 0.0.0.0 sosslebewails.guru
