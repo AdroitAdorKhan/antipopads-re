@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.358
 # Release: 358
-# Entries: 110,940
-# Updated: Sun, 24 Dec 23 12:13:48 +06
+# Entries: 110,945
+# Updated: Sun, 24 Dec 23 14:08:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -17454,6 +17454,7 @@
 0.0.0.0 ciazdymfepv.com
 0.0.0.0 cibitai.com
 0.0.0.0 cibugdfoisto.com
+0.0.0.0 ciccioburger.org
 0.0.0.0 cicelysewans.com
 0.0.0.0 cicibook.site
 0.0.0.0 ciclicapi.com
@@ -57470,6 +57471,7 @@
 0.0.0.0 novellhost.com
 0.0.0.0 novelshark.top
 0.0.0.0 novelty.media
+0.0.0.0 noveltyensue.com
 0.0.0.0 november-lax.com
 0.0.0.0 november-sin.com
 0.0.0.0 novemberadventures.com
@@ -57571,6 +57573,7 @@
 0.0.0.0 nqisabwtfbm.com
 0.0.0.0 nqldmwobtoekcn.xyz
 0.0.0.0 nqlkrwmjkxpav.xyz
+0.0.0.0 nqmfmnmqysei.com
 0.0.0.0 nqn7la7.de
 0.0.0.0 nqoxrsrf.com
 0.0.0.0 nqpdhoxgtrxa.xyz
@@ -101651,6 +101654,7 @@
 0.0.0.0 www.nounrespectively.com
 0.0.0.0 www.novabottova.com
 0.0.0.0 www.novakem.in
+0.0.0.0 www.noveltyensue.com
 0.0.0.0 www.novemberassimilate.com
 0.0.0.0 www.novemberseatsuccession.com
 0.0.0.0 www.novembersightsoverhear.com
@@ -109748,6 +109752,7 @@
 0.0.0.0 yuccasswears.com
 0.0.0.0 yudlhxvha.xyz
 0.0.0.0 yudnhkbrkig.com
+0.0.0.0 yuduoljvxsilvq.com
 0.0.0.0 yue988.com
 0.0.0.0 yuebofa.cc
 0.0.0.0 yuegui.xyz
