@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.358
 # Release: 358
-# Entries: 110,945
-# Updated: Sun, 24 Dec 23 14:08:12 +06
+# Entries: 110,987
+# Updated: Sun, 24 Dec 23 16:29:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1701,6 +1701,7 @@
 0.0.0.0 5-n-appmobile.com
 0.0.0.0 50000000000.cn
 0.0.0.0 500784.com
+0.0.0.0 500edge.com
 0.0.0.0 502inventors.com
 0.0.0.0 503portal.com
 0.0.0.0 5055.yt
@@ -15661,6 +15662,7 @@
 0.0.0.0 carlinsambling.live
 0.0.0.0 carlosariasdelgado.com
 0.0.0.0 carlotcoopee.website
+0.0.0.0 carlsbus.space
 0.0.0.0 carlsonpartnersllc.us
 0.0.0.0 carlsport.com
 0.0.0.0 carltonfgwalsh.com
@@ -40081,6 +40083,7 @@
 0.0.0.0 idiafix.com
 0.0.0.0 idiasmural.com
 0.0.0.0 idiclily.uno
+0.0.0.0 idiocyosmotic.life
 0.0.0.0 idiosyncratic.ninja
 0.0.0.0 idiothungryensue.com
 0.0.0.0 idiotminority.com
@@ -43000,6 +43003,7 @@
 0.0.0.0 jamminds.com
 0.0.0.0 jammjinfos.com
 0.0.0.0 jammuoralhistory.com
+0.0.0.0 jamokefleshen.top
 0.0.0.0 jamokeuntress.com
 0.0.0.0 jampfivlisrvy.com
 0.0.0.0 jamriskova.com
@@ -43731,6 +43735,7 @@
 0.0.0.0 jitaihr.com
 0.0.0.0 jitantaktravels.com
 0.0.0.0 jitdknclhdpfzyvkio.bid
+0.0.0.0 jitigkvqf.com
 0.0.0.0 jito.ca
 0.0.0.0 jitojeaf.org
 0.0.0.0 jitoreward.com
@@ -45348,6 +45353,7 @@
 0.0.0.0 kedasensiblem.info
 0.0.0.0 kedasensiblemot.com
 0.0.0.0 kedasensiblemot.info
+0.0.0.0 kedpoxotvdw.xyz
 0.0.0.0 kedxycgtnw.top
 0.0.0.0 keechavy.com
 0.0.0.0 keefeezo.net
@@ -46060,6 +46066,7 @@
 0.0.0.0 klmxakymsfgkc.com
 0.0.0.0 klnycxlvghht.com
 0.0.0.0 klonedaset.org
+0.0.0.0 kloofgalium.website
 0.0.0.0 kloperd.com
 0.0.0.0 kloperteyers.com
 0.0.0.0 klopiretsrex.com
@@ -46146,6 +46153,7 @@
 0.0.0.0 knewan.com
 0.0.0.0 knewwholesomecharming.com
 0.0.0.0 kneylhewould.xyz
+0.0.0.0 knezilath.life
 0.0.0.0 knflgqynfrorp.xyz
 0.0.0.0 knfwsigsns.xyz
 0.0.0.0 knghqockyhnejwu.com
@@ -59448,6 +59456,8 @@
 0.0.0.0 onlinesexchat.live
 0.0.0.0 onlineshopping.website
 0.0.0.0 onlineshops.guide
+0.0.0.0 onlinesmokescanada.land
+0.0.0.0 onlinesmokescanada.support
 0.0.0.0 onlinetbi.in
 0.0.0.0 onlinetrhovisko.sk
 0.0.0.0 onlineuserprotector.com
@@ -59536,6 +59546,7 @@
 0.0.0.0 ontariopaintballassociation.ca
 0.0.0.0 ontariosanteadomicile.ca
 0.0.0.0 ontariosanteadomicile.com
+0.0.0.0 ontarioshipyards.com
 0.0.0.0 ontariospinaldecompression.ca
 0.0.0.0 ontariospinaldecompression.com
 0.0.0.0 ontariosurgicalpartners.com
@@ -59787,6 +59798,7 @@
 0.0.0.0 ophophil.net
 0.0.0.0 ophophiz.xyz
 0.0.0.0 ophqmhser.com
+0.0.0.0 ophrysboatage.website
 0.0.0.0 opiatemusic.org
 0.0.0.0 opibrcbr.com
 0.0.0.0 opificelitoral.com
@@ -60110,6 +60122,7 @@
 0.0.0.0 ormolustuke.top
 0.0.0.0 orndnuejstqwxpc.com
 0.0.0.0 ornery-animal.pro
+0.0.0.0 ornithsompay.website
 0.0.0.0 oro-constella-lucknow.com
 0.0.0.0 oro-lko-constella.com
 0.0.0.0 oro-lkoconstella.com
@@ -64905,6 +64918,7 @@
 0.0.0.0 prehealpaster.guru
 0.0.0.0 prehem.com
 0.0.0.0 prehistoriceast.com
+0.0.0.0 preiningerproductions.com
 0.0.0.0 preistotu.online
 0.0.0.0 prejudiceinsure.com
 0.0.0.0 prektlap.com
@@ -65626,6 +65640,7 @@
 0.0.0.0 prorestu.com
 0.0.0.0 prorodeo.com
 0.0.0.0 prosacknowledgelace.com
+0.0.0.0 prosapyspoffle.uno
 0.0.0.0 prosboshas.com
 0.0.0.0 prosecutevein.com
 0.0.0.0 prosecutioncredulity.com
@@ -67482,6 +67497,7 @@
 0.0.0.0 quickvideo.store
 0.0.0.0 quickvideo.tech
 0.0.0.0 quicns.com
+0.0.0.0 quiddersutter.space
 0.0.0.0 quideo.men
 0.0.0.0 quietannouncementdove.com
 0.0.0.0 quietlybananasmarvel.com
@@ -68974,6 +68990,7 @@
 0.0.0.0 regretfulfaultsabound.com
 0.0.0.0 regrettablemorallycommitment.com
 0.0.0.0 regrettabletoken.com
+0.0.0.0 regrewtannate.space
 0.0.0.0 regrowsmudless.com
 0.0.0.0 regrrid.com
 0.0.0.0 regrupontihe.com
@@ -69763,6 +69780,7 @@
 0.0.0.0 revulsionwash.com
 0.0.0.0 revupads.com
 0.0.0.0 rewalluce.com
+0.0.0.0 rewanaxstone.space
 0.0.0.0 rewand-ff-garena.xyz
 0.0.0.0 reward-ff-farena.xyz
 0.0.0.0 reward-win.site
@@ -70647,6 +70665,7 @@
 0.0.0.0 romy-janssen.com
 0.0.0.0 ronaldocache.info
 0.0.0.0 ronatorda.com
+0.0.0.0 rongaargon.website
 0.0.0.0 rongchendayuan.com
 0.0.0.0 rongosling.com
 0.0.0.0 rongyady.com
@@ -75886,6 +75905,8 @@
 0.0.0.0 smokeymountianjammin.com
 0.0.0.0 smokierpoop.com
 0.0.0.0 smokilycasette.store
+0.0.0.0 smokingonline.land
+0.0.0.0 smokingonline.support
 0.0.0.0 smokingspecialize.com
 0.0.0.0 smokingvetoscent.com
 0.0.0.0 smokishbathic.space
@@ -77860,6 +77881,7 @@
 0.0.0.0 stillagemanufacturer.co.uk
 0.0.0.0 stillagenet.uk
 0.0.0.0 stillchemistcivilian.com
+0.0.0.0 stillkillinitcharters.com
 0.0.0.0 stillslim.com
 0.0.0.0 stillton.co.uk
 0.0.0.0 stimaariraco.info
@@ -82931,6 +82953,7 @@
 0.0.0.0 tomasrapi.com
 0.0.0.0 tomatis-centrum.com
 0.0.0.0 tomatohackblobs.com
+0.0.0.0 tomatosauceedm.com
 0.0.0.0 tomawilea.com
 0.0.0.0 tombclients.com
 0.0.0.0 tombieventos.com
@@ -84827,6 +84850,7 @@
 0.0.0.0 tummeddomicil.space
 0.0.0.0 tummyrubsetc.com
 0.0.0.0 tummyunmovedfetch.com
+0.0.0.0 tumpssawing.space
 0.0.0.0 tumultmarten.com
 0.0.0.0 tumultuserscheek.com
 0.0.0.0 tumyautomation.com
@@ -93739,6 +93763,7 @@
 0.0.0.0 www.antiquelongcaseclocks.com
 0.0.0.0 www.antlermaze.com
 0.0.0.0 www.antlerrecordingcat.com
+0.0.0.0 www.antlerrhinoceros.com
 0.0.0.0 www.antoniaduchesne.com
 0.0.0.0 www.antonysurface.com
 0.0.0.0 www.antonywingraceless.com
@@ -95012,6 +95037,7 @@
 0.0.0.0 www.callousoverload.com
 0.0.0.0 www.callprintingdetailed.com
 0.0.0.0 www.callthunderczar.com
+0.0.0.0 www.calmlyglossaryhostile.com
 0.0.0.0 www.calmlyilldollars.com
 0.0.0.0 www.calorysecondary.com
 0.0.0.0 www.calumnycandidachievement.com
@@ -95609,6 +95635,7 @@
 0.0.0.0 www.comic-avail.com
 0.0.0.0 www.comicsdashboardcombustible.com
 0.0.0.0 www.commandmentcolinclub.com
+0.0.0.0 www.commastick.com
 0.0.0.0 www.commemoratedeliquencydeliquency.com
 0.0.0.0 www.commemoratesilasstare.com
 0.0.0.0 www.commemorativetees.com
@@ -96375,6 +96402,7 @@
 0.0.0.0 www.depositionheather.com
 0.0.0.0 www.depositionquarrel.com
 0.0.0.0 www.depositnostrilverge.com
+0.0.0.0 www.depravecynical.com
 0.0.0.0 www.depressingchanginggraduated.com
 0.0.0.0 www.depressionfemaledane.com
 0.0.0.0 www.depressionostensible.com
@@ -98215,6 +98243,7 @@
 0.0.0.0 www.garminversum.online
 0.0.0.0 www.garretram.com
 0.0.0.0 www.garringtonfs.com
+0.0.0.0 www.gaskeunpro.com
 0.0.0.0 www.gasolineunityauspice.com
 0.0.0.0 www.gaspcultivateclassroom.com
 0.0.0.0 www.gatecitizenswindy.com
@@ -99618,6 +99647,7 @@
 0.0.0.0 www.invisiblepine.com
 0.0.0.0 www.invitewingorphan.com
 0.0.0.0 www.invitingdoubloons.com
+0.0.0.0 www.involuntaryevergreeninsecurity.com
 0.0.0.0 www.involuntarypity.com
 0.0.0.0 www.involuntarysteadyartsy.com
 0.0.0.0 www.involveclank.com
@@ -100756,6 +100786,7 @@
 0.0.0.0 www.manslaughterhallucinateenjoyment.com
 0.0.0.0 www.mansongroups.com
 0.0.0.0 www.manteys.com
+0.0.0.0 www.mantlegenerositydeport.com
 0.0.0.0 www.manualbleedingand.com
 0.0.0.0 www.manualdin.com
 0.0.0.0 www.manualpeasantconnoisseur.com
@@ -100829,6 +100860,7 @@
 0.0.0.0 www.masjidnetwork.org
 0.0.0.0 www.maskesys.org
 0.0.0.0 www.masqueradeflashy.com
+0.0.0.0 www.masqueradeshutter.com
 0.0.0.0 www.massivebelieved.com
 0.0.0.0 www.master-anime.net
 0.0.0.0 www.master365k.com
@@ -101892,6 +101924,7 @@
 0.0.0.0 www.opinionatedprovide.com
 0.0.0.0 www.oppositevarietiesdepict.com
 0.0.0.0 www.oppressionhopefully.com
+0.0.0.0 www.oppressiveparameterresponsible.com
 0.0.0.0 www.opsbunker.com
 0.0.0.0 www.opsitshalf.com
 0.0.0.0 www.opslamp.com
@@ -101971,6 +102004,7 @@
 0.0.0.0 www.outlawchillpropose.com
 0.0.0.0 www.outmatchtaughtdeparture.com
 0.0.0.0 www.outrepublicanshelf.com
+0.0.0.0 www.outsidebrightenmisfortune.com
 0.0.0.0 www.ovauthalrim.com
 0.0.0.0 www.overallalreadyregistry.com
 0.0.0.0 www.overboardbilingual.com
@@ -102286,6 +102320,7 @@
 0.0.0.0 www.perkycandlingfacile.com
 0.0.0.0 www.permanentlyvulture.com
 0.0.0.0 www.permanentswitch.com
+0.0.0.0 www.permissiondegenerateboy.com
 0.0.0.0 www.permitwarmer.com
 0.0.0.0 www.perpetualbliss.net
 0.0.0.0 www.perryvolleyball.com
@@ -104136,6 +104171,7 @@
 0.0.0.0 www.shakesanitaryaffairs.com
 0.0.0.0 www.shakywinningcarnival.com
 0.0.0.0 www.shalomcondiments.com
+0.0.0.0 www.shamelesssleptpausing.com
 0.0.0.0 www.shamelessspank.com
 0.0.0.0 www.shamime.co.uk
 0.0.0.0 www.shamtick.com
@@ -104372,6 +104408,7 @@
 0.0.0.0 www.skullhalfway.com
 0.0.0.0 www.skyos.co.uk
 0.0.0.0 www.skyscraperreport.com
+0.0.0.0 www.slamgarlic.com
 0.0.0.0 www.slamscreechmilestone.com
 0.0.0.0 www.slanderconstantlyhew.com
 0.0.0.0 www.slangback.com
@@ -105494,6 +105531,7 @@
 0.0.0.0 www.thresholdfunction.com
 0.0.0.0 www.thrillingblindly.com
 0.0.0.0 www.thrillingpairsreside.com
+0.0.0.0 www.thrilloffer.com
 0.0.0.0 www.thriveradioactivecheers.com
 0.0.0.0 www.throatpoll.com
 0.0.0.0 www.throbscalpelaffirm.com
@@ -105739,6 +105777,7 @@
 0.0.0.0 www.treasurycrappyequation.com
 0.0.0.0 www.treasuryignorantdoodle.com
 0.0.0.0 www.treatyaccuserevil.com
+0.0.0.0 www.treblescholarfestival.com
 0.0.0.0 www.treehundredarmament.com
 0.0.0.0 www.treenersters.com
 0.0.0.0 www.treenghsas.com
@@ -107452,6 +107491,8 @@
 0.0.0.0 xbqmwfyovga.com
 0.0.0.0 xbrazporn.com
 0.0.0.0 xbsdyotu.com
+0.0.0.0 xbt-capex-club.com
+0.0.0.0 xbt-club.com
 0.0.0.0 xburnoficial.com
 0.0.0.0 xbvwmclduf.com
 0.0.0.0 xbxauvshisryyp.com
@@ -108692,6 +108733,7 @@
 0.0.0.0 yaomo520.com
 0.0.0.0 yaowsivumw.com
 0.0.0.0 yapockspayess.com
+0.0.0.0 yappcurtsey.space
 0.0.0.0 yaprin.com
 0.0.0.0 yara.clinic
 0.0.0.0 yaraa.co.uk
