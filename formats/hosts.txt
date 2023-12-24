@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.358
 # Release: 358
-# Entries: 110,937
-# Updated: Sun, 24 Dec 23 08:27:41 +06
+# Entries: 110,938
+# Updated: Sun, 24 Dec 23 10:08:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -84620,6 +84620,7 @@
 0.0.0.0 tsnl.com
 0.0.0.0 tsoimora.com
 0.0.0.0 tsougrjwqrnai.xyz
+0.0.0.0 tsouviadj.com
 0.0.0.0 tspffihc.com
 0.0.0.0 tspops.com
 0.0.0.0 tsrrbok.com
