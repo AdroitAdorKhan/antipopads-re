@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.12.359
-# Release: 359
-# Entries: 111,145
-# Updated: Mon, 25 Dec 23 20:12:57 +06
+# Version: 23.12.360
+# Release: 360
+# Entries: 111,148
+# Updated: Tue, 26 Dec 23 00:28:27 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -57668,6 +57668,7 @@
 0.0.0.0 nreached.org
 0.0.0.0 nreg.world
 0.0.0.0 nregncmdsl.xyz
+0.0.0.0 nreoppquyoxjmo.com
 0.0.0.0 nrevux.xyz
 0.0.0.0 nrgbrgrng.life
 0.0.0.0 nrhitjnod.xyz
@@ -68208,6 +68209,7 @@
 0.0.0.0 rarbgmirror.com
 0.0.0.0 rarbgmirror.org
 0.0.0.0 rarbgunblock.org
+0.0.0.0 rarbgweb.org
 0.0.0.0 rarechats.blog
 0.0.0.0 rarecruises.com
 0.0.0.0 rareghoa.net
@@ -111083,6 +111085,7 @@
 0.0.0.0 zvetokr2hr8pcng09.com
 0.0.0.0 zvhednrza.com
 0.0.0.0 zviredoma.info
+0.0.0.0 zvjewzwglpnt.com
 0.0.0.0 zvjkhrdp.com
 0.0.0.0 zvkytbjimbhk.com
 0.0.0.0 zvok.pro
