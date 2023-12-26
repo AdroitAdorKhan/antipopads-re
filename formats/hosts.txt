@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.12.360
-# Release: 360
-# Entries: 111,307
-# Updated: Tue, 26 Dec 23 22:31:20 +06
+# Version: 23.12.361
+# Release: 361
+# Entries: 111,308
+# Updated: Wed, 27 Dec 23 00:08:41 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -48228,6 +48228,7 @@
 0.0.0.0 lernmichkennen.com
 0.0.0.0 lerrdoriak.com
 0.0.0.0 les-jours-outlet.com
+0.0.0.0 les-peugeot-mythique.com
 0.0.0.0 les7andla4.cfd
 0.0.0.0 lesbiangrannies.com
 0.0.0.0 lesbianhistorygroup.com
