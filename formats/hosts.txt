@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.360
 # Release: 360
-# Entries: 111,182
-# Updated: Tue, 26 Dec 23 10:08:06 +06
+# Entries: 111,188
+# Updated: Tue, 26 Dec 23 12:12:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10323,6 +10323,7 @@
 0.0.0.0 balsnehi.com
 0.0.0.0 balspaulite.com
 0.0.0.0 baltchd.net
+0.0.0.0 balteibairnie.space
 0.0.0.0 baltoro.tech
 0.0.0.0 balumama.com
 0.0.0.0 balvalur.com
@@ -10439,6 +10440,7 @@
 0.0.0.0 bankofmichigan.com
 0.0.0.0 bankr.com
 0.0.0.0 banktrustaccount.com
+0.0.0.0 bankwebinterpartner.pro
 0.0.0.0 bannanje.in
 0.0.0.0 banner-rotation.com
 0.0.0.0 banneradsday.com
@@ -35882,6 +35884,7 @@
 0.0.0.0 grodtur.com
 0.0.0.0 groffconsultinggroup.com
 0.0.0.0 groglezapto.pro
+0.0.0.0 grogramquash.uno
 0.0.0.0 groguzoo.net
 0.0.0.0 groininsightclaimed.com
 0.0.0.0 groinmonsieur.com
@@ -68226,6 +68229,7 @@
 0.0.0.0 rar-lab.top
 0.0.0.0 rarath.com
 0.0.0.0 rarbg.com
+0.0.0.0 rarbg2018.org
 0.0.0.0 rarbgaccess.org
 0.0.0.0 rarbgmirror.com
 0.0.0.0 rarbgmirror.org
@@ -71575,6 +71579,7 @@
 0.0.0.0 rwfnpayyn.xyz
 0.0.0.0 rwghkbagglg.com
 0.0.0.0 rwgyxqmfbhamol.xyz
+0.0.0.0 rwhgpxvoqfvv.com
 0.0.0.0 rwhsnrinnpg.com
 0.0.0.0 rwigupownq.com
 0.0.0.0 rwiiuiqxmvx.com
@@ -92224,6 +92229,7 @@
 0.0.0.0 workstylesmatter.org
 0.0.0.0 workumstance.com
 0.0.0.0 workvultures.com
+0.0.0.0 workygamgia.website
 0.0.0.0 worldactualstories.com
 0.0.0.0 worldbankpay.online
 0.0.0.0 worldbellow.com
