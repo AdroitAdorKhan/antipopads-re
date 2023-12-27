@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.361
 # Release: 361
-# Entries: 111,381
-# Updated: Wed, 27 Dec 23 14:34:24 +06
+# Entries: 111,387
+# Updated: Wed, 27 Dec 23 16:10:59 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12649,6 +12649,7 @@
 0.0.0.0 bladswetis.com
 0.0.0.0 blaghfpd.com
 0.0.0.0 blagorad.site
+0.0.0.0 blainsseave.guru
 0.0.0.0 blaiserver.net
 0.0.0.0 blakeelses.tech
 0.0.0.0 blakeleyindustrial.com
@@ -42712,6 +42713,7 @@
 0.0.0.0 itza.name
 0.0.0.0 itzekromom.com
 0.0.0.0 iuc1.online
+0.0.0.0 iuc1.space
 0.0.0.0 iucc.yt
 0.0.0.0 iucigjhtezgnub.com
 0.0.0.0 iuclpbgxyfddk.xyz
@@ -66371,6 +66373,7 @@
 0.0.0.0 pubtm.com
 0.0.0.0 pubtrky.com
 0.0.0.0 pubvwnio.com
+0.0.0.0 pucabaleens.top
 0.0.0.0 puccipix.co.uk
 0.0.0.0 pucedtxad.xyz
 0.0.0.0 pucxriavjcp.com
@@ -69521,6 +69524,7 @@
 0.0.0.0 repliesreearns.website
 0.0.0.0 replif.com
 0.0.0.0 replumekalifs.uno
+0.0.0.0 replumemessing.space
 0.0.0.0 replygallery.com
 0.0.0.0 replynasal.com
 0.0.0.0 repointdunlap.website
@@ -107342,6 +107346,7 @@
 0.0.0.0 www.yander.re
 0.0.0.0 www.yankbecoming.com
 0.0.0.0 www.yaomo520.com
+0.0.0.0 www.yardenyaroshevski.com
 0.0.0.0 www.yashvik.com
 0.0.0.0 www.yazutopia.com
 0.0.0.0 www.yazyzw.com
@@ -109125,6 +109130,7 @@
 0.0.0.0 yara.clinic
 0.0.0.0 yaraa.co.uk
 0.0.0.0 yarbthermos.com
+0.0.0.0 yardenyaroshevski.com
 0.0.0.0 yardinflatableslide.com
 0.0.0.0 yarerescalin.com
 0.0.0.0 yareservo.com
