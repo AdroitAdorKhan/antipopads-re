@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.361
 # Release: 361
-# Entries: 111,325
-# Updated: Wed, 27 Dec 23 08:08:22 +06
+# Entries: 111,329
+# Updated: Wed, 27 Dec 23 10:08:14 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3480,6 +3480,7 @@
 0.0.0.0 academianexus.com
 0.0.0.0 academic-information.com
 0.0.0.0 academicradiology.com
+0.0.0.0 academicvast.com
 0.0.0.0 academyblocked.com
 0.0.0.0 academycorp.com
 0.0.0.0 academyedupro.com
@@ -16171,6 +16172,7 @@
 0.0.0.0 ccmdcinut.com
 0.0.0.0 ccmediagroup.ca
 0.0.0.0 ccmengmeng.com
+0.0.0.0 ccmiocw.com
 0.0.0.0 ccmwigksgiwwke.xyz
 0.0.0.0 ccn08sth.de
 0.0.0.0 ccoybmnjw.com
@@ -32686,6 +32688,7 @@
 0.0.0.0 fuujifldttmm.com
 0.0.0.0 fuuuuuuuuuuuuuck.com
 0.0.0.0 fuvdpkrpypnah.com
+0.0.0.0 fuvmtqiwhaffnc.com
 0.0.0.0 fux0r.icu
 0.0.0.0 fuxxijafrxma.com
 0.0.0.0 fuyytjuopkikl.com
@@ -110020,6 +110023,7 @@
 0.0.0.0 yrsrvelnheqqsew.com
 0.0.0.0 yrstwbyl.xyz
 0.0.0.0 yrsvhutjljo.com
+0.0.0.0 yrtfyeohmjdw.com
 0.0.0.0 yrufmaimbhxxe.com
 0.0.0.0 yrumdfslwabv.com
 0.0.0.0 yrvywvqt.com
