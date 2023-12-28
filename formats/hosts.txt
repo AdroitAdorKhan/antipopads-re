@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.362
 # Release: 362
-# Entries: 111,437
-# Updated: Thu, 28 Dec 23 08:10:36 +06
+# Entries: 111,462
+# Updated: Thu, 28 Dec 23 10:18:38 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13643,6 +13643,7 @@
 0.0.0.0 bowed-common.pro
 0.0.0.0 bowedcounty.com
 0.0.0.0 boweddemand.com
+0.0.0.0 bowedrhymesnack.com
 0.0.0.0 bowedsequence.com
 0.0.0.0 bowerinthewood.co.uk
 0.0.0.0 bowerspollees.com
@@ -19998,6 +19999,7 @@
 0.0.0.0 coupsonu.net
 0.0.0.0 coupteew.com
 0.0.0.0 couptoug.net
+0.0.0.0 courageimportance.com
 0.0.0.0 courageimportancedirections.com
 0.0.0.0 courageousalmondtrice.com
 0.0.0.0 couraptermal.guru
@@ -30311,6 +30313,7 @@
 0.0.0.0 ffupclicrdfjlwn.com
 0.0.0.0 ffuzila.com
 0.0.0.0 ffvdpw.com
+0.0.0.0 ffwbzklcszdk.com
 0.0.0.0 ffxfuelsave.store
 0.0.0.0 ffxpfkbro.xyz
 0.0.0.0 ffyabcmahqiz.com
@@ -45870,6 +45873,7 @@
 0.0.0.0 kickingcloud.com
 0.0.0.0 kickoutpawky.com
 0.0.0.0 kickposter.com
+0.0.0.0 kickprincess.com
 0.0.0.0 kidandfood.com
 0.0.0.0 kidcoinic.com
 0.0.0.0 kiddingnoticediminish.com
@@ -48227,6 +48231,7 @@
 0.0.0.0 lenastock.com
 0.0.0.0 lenax.tech
 0.0.0.0 lenbergsdesign.com
+0.0.0.0 lendvioletmutton.com
 0.0.0.0 lenfunk.top
 0.0.0.0 lengheralds.space
 0.0.0.0 lengthcalk.com
@@ -63154,6 +63159,7 @@
 0.0.0.0 picbucks.com
 0.0.0.0 piccid.com
 0.0.0.0 piccoloerucin.com
+0.0.0.0 picethoa.com
 0.0.0.0 pickaflick.co
 0.0.0.0 pickalkycpwzd.com
 0.0.0.0 pickaroon.pub
@@ -64694,6 +64700,7 @@
 0.0.0.0 portsmouth400th.org
 0.0.0.0 portsquiz.com
 0.0.0.0 portsspat.com
+0.0.0.0 portuguesecaesarglanced.com
 0.0.0.0 portulacaolera.com
 0.0.0.0 posamevwiv.com
 0.0.0.0 posaul.com
@@ -68717,6 +68724,7 @@
 0.0.0.0 realizationdatabase.com
 0.0.0.0 realizeparish.com
 0.0.0.0 realizesensitivenessflashlight.com
+0.0.0.0 realizetrend.com
 0.0.0.0 reallifeforyouandme.com
 0.0.0.0 reallifevisuals.com
 0.0.0.0 reallyindependencehated.com
@@ -76802,6 +76810,7 @@
 0.0.0.0 sordeexa.net
 0.0.0.0 sordidoptimistic.com
 0.0.0.0 sordorcourtin.com
+0.0.0.0 sorelbuty.com
 0.0.0.0 sorelyafric.com
 0.0.0.0 soriamobility.online
 0.0.0.0 sorinteq.net
@@ -94909,6 +94918,7 @@
 0.0.0.0 www.bipr.education
 0.0.0.0 www.birbillingcalling.com
 0.0.0.0 www.birchdynamicunicorn.com
+0.0.0.0 www.birchflarechurch.com
 0.0.0.0 www.birdtears.com
 0.0.0.0 www.birthday-buzzer.com
 0.0.0.0 www.birthdayforester.com
@@ -95115,6 +95125,7 @@
 0.0.0.0 www.bouptosaive.com
 0.0.0.0 www.bouquin-coquin.com
 0.0.0.0 www.boutjuicyvacation.com
+0.0.0.0 www.bowedrhymesnack.com
 0.0.0.0 www.bowedsequence.com
 0.0.0.0 www.bowldescended.com
 0.0.0.0 www.bowlingunauthorized.com
@@ -96287,6 +96298,7 @@
 0.0.0.0 www.coupleburns.com
 0.0.0.0 www.couplecemeteryreal.com
 0.0.0.0 www.coupleseducation.com
+0.0.0.0 www.courageimportance.com
 0.0.0.0 www.courageousalmondtrice.com
 0.0.0.0 www.coursepack.ca
 0.0.0.0 www.courtcowardly.com
@@ -96846,6 +96858,7 @@
 0.0.0.0 www.diagramangelamount.com
 0.0.0.0 www.diagramcolossalcultivation.com
 0.0.0.0 www.diagramgeneration.com
+0.0.0.0 www.diagramwrangleupdate.com
 0.0.0.0 www.dialme4help.com
 0.0.0.0 www.dialoguemarvellouswound.com
 0.0.0.0 www.dialogueshipwreck.com
@@ -96893,6 +96906,7 @@
 0.0.0.0 www.digitec.com
 0.0.0.0 www.digiworkai.com
 0.0.0.0 www.dignifiedclipbum.com
+0.0.0.0 www.dignityhourmulticultural.com
 0.0.0.0 www.dijiuyyyy.com
 0.0.0.0 www.dikediffidentsticker.com
 0.0.0.0 www.diketime.com
@@ -98981,6 +98995,7 @@
 0.0.0.0 www.grilux.com
 0.0.0.0 www.grimaceattirebright.com
 0.0.0.0 www.grimacecalumny.com
+0.0.0.0 www.grimacechauffeur.com
 0.0.0.0 www.grimdiscord.com
 0.0.0.0 www.grishamkansal.com
 0.0.0.0 www.groacmaz.com
@@ -100458,6 +100473,7 @@
 0.0.0.0 www.khomali.co.uk
 0.0.0.0 www.khopknoperw.com
 0.0.0.0 www.khowawala.com
+0.0.0.0 www.kickprincess.com
 0.0.0.0 www.kidsapologizingalthough.com
 0.0.0.0 www.kidsboilingbeech.com
 0.0.0.0 www.kidslinecover.com
@@ -100765,6 +100781,7 @@
 0.0.0.0 www.lemonpier.com
 0.0.0.0 www.lenaghannam.com
 0.0.0.0 www.lenastock.com
+0.0.0.0 www.lendvioletmutton.com
 0.0.0.0 www.lennoxentertainment.com
 0.0.0.0 www.lenscupcakeproperty.com
 0.0.0.0 www.lentcaricature.com
@@ -101812,6 +101829,7 @@
 0.0.0.0 www.nakupujme.online
 0.0.0.0 www.namasteswasth.com
 0.0.0.0 www.namelessably.com
+0.0.0.0 www.namelyenact.com
 0.0.0.0 www.namelymagnanimitycube.com
 0.0.0.0 www.namelymutiny.com
 0.0.0.0 www.namericandoor.com
@@ -102011,6 +102029,7 @@
 0.0.0.0 www.noalts.tech
 0.0.0.0 www.nobilitybefore.com
 0.0.0.0 www.noblelevityconcrete.com
+0.0.0.0 www.noblemanlendpuffy.com
 0.0.0.0 www.nodcaterercrochet.com
 0.0.0.0 www.noddinglavish.com
 0.0.0.0 www.nodormers.com
@@ -102384,6 +102403,7 @@
 0.0.0.0 www.ourhypewords.com
 0.0.0.0 www.ourlittlenews.com
 0.0.0.0 www.ourmumble.com
+0.0.0.0 www.ourselvesvictory.com
 0.0.0.0 www.oursexasperationwatchful.com
 0.0.0.0 www.ourspity.com
 0.0.0.0 www.ourtopstories.com
@@ -103060,6 +103080,7 @@
 0.0.0.0 www.portlycolleaguecoexist.com
 0.0.0.0 www.portsecure.org
 0.0.0.0 www.portsspat.com
+0.0.0.0 www.portuguesecaesarglanced.com
 0.0.0.0 www.poseconsumeelliot.com
 0.0.0.0 www.poshemerald.com
 0.0.0.0 www.poshsenseless.com
@@ -103694,6 +103715,7 @@
 0.0.0.0 www.realityamorphous.com
 0.0.0.0 www.realizationdatabase.com
 0.0.0.0 www.realizeparish.com
+0.0.0.0 www.realizetrend.com
 0.0.0.0 www.reallyindependencehated.com
 0.0.0.0 www.reallyprominent.com
 0.0.0.0 www.reallyworkplacesnitch.com
@@ -104119,6 +104141,7 @@
 0.0.0.0 www.rolamerheb.com
 0.0.0.0 www.rollbackhear.com
 0.0.0.0 www.rollerdisrespect.com
+0.0.0.0 www.rollerdiversiondeer.com
 0.0.0.0 www.rollobscurewoke.com
 0.0.0.0 www.romak.not-tesla.com
 0.0.0.0 www.romanbra.com
@@ -106001,6 +106024,7 @@
 0.0.0.0 www.tindocumentary.com
 0.0.0.0 www.tinkeregojut.com
 0.0.0.0 www.tinkermockingmonitor.com
+0.0.0.0 www.tinkleflabbergasted.com
 0.0.0.0 www.tinkletemporalbuy.com
 0.0.0.0 www.tinnhanhexpress.com.abcnews24h.com
 0.0.0.0 www.tinydns.xyz
@@ -107209,6 +107233,7 @@
 0.0.0.0 www.worldfreshblog.com
 0.0.0.0 www.worldofviralnews.com
 0.0.0.0 www.worldwidedrivers.net
+0.0.0.0 www.wormdehydratedaeroplane.com
 0.0.0.0 www.worriesteapotairborne.com
 0.0.0.0 www.worrycrevicewholly.com
 0.0.0.0 www.worseobscureplastic.com
