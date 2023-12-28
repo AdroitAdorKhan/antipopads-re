@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.362
 # Release: 362
-# Entries: 111,429
-# Updated: Thu, 28 Dec 23 06:30:31 +06
+# Entries: 111,437
+# Updated: Thu, 28 Dec 23 08:10:36 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15391,6 +15391,7 @@
 0.0.0.0 campingalmare.it
 0.0.0.0 campingknown.com
 0.0.0.0 campiriservice.com
+0.0.0.0 campiwow.digital
 0.0.0.0 campjupiterjul.com
 0.0.0.0 camplacecash.com
 0.0.0.0 campongprecant.com
@@ -30578,6 +30579,7 @@
 0.0.0.0 finaglejonglem.life
 0.0.0.0 finalice.net
 0.0.0.0 finalizeimprovise.com
+0.0.0.0 finalizestudiousinternet.com
 0.0.0.0 finallydisintegrate.com
 0.0.0.0 finallyspecifiedsolitude.com
 0.0.0.0 finallysuburblaunching.com
@@ -38212,6 +38214,7 @@
 0.0.0.0 hiphoapt.xyz
 0.0.0.0 hiphoprelief.org
 0.0.0.0 hipjavbt.com
+0.0.0.0 hipnessgroin.guru
 0.0.0.0 hipogryfmedia.com
 0.0.0.0 hipotecanaranja.xyz
 0.0.0.0 hipoterapie.info
@@ -63878,6 +63881,7 @@
 0.0.0.0 plantrecordintelligent.org
 0.0.0.0 plantsrancorous.com
 0.0.0.0 plantswindscreen.com
+0.0.0.0 planxtyalumni.digital
 0.0.0.0 planyourbackup.co
 0.0.0.0 plaowakixgrhx.xyz
 0.0.0.0 plaqt.com
@@ -76325,6 +76329,7 @@
 0.0.0.0 snowmaskwruti.biz
 0.0.0.0 snowmiracles.com
 0.0.0.0 snptree.net
+0.0.0.0 snqdkgnfec.com
 0.0.0.0 snqgfwwnhc.com
 0.0.0.0 snqhmy.com
 0.0.0.0 snrcmgqe.com
@@ -84370,6 +84375,7 @@
 0.0.0.0 treehouservk.com
 0.0.0.0 treehundredarmament.com
 0.0.0.0 treeifyicon.com
+0.0.0.0 treeifyourie.digital
 0.0.0.0 treelandscapingservice.com
 0.0.0.0 treenersters.com
 0.0.0.0 treenghsas.com
@@ -94892,6 +94898,7 @@
 0.0.0.0 www.binancetrade.pro
 0.0.0.0 www.binarybusiness.de
 0.0.0.0 www.binaryspeak.com
+0.0.0.0 www.bindingtimetablejosie.com
 0.0.0.0 www.bing886.com
 0.0.0.0 www.binhthuan.sale
 0.0.0.0 www.biologicaldeniedexpressing.com
@@ -98091,6 +98098,7 @@
 0.0.0.0 www.filthsafetypersons.com
 0.0.0.0 www.filthyrankscuffle.com
 0.0.0.0 www.finalizeimprovise.com
+0.0.0.0 www.finalizestudiousinternet.com
 0.0.0.0 www.finallydisintegrate.com
 0.0.0.0 www.finallyspecifiedsolitude.com
 0.0.0.0 www.finallysuburblaunching.com
