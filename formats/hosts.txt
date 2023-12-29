@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.363
 # Release: 363
-# Entries: 111,540
-# Updated: Fri, 29 Dec 23 10:09:20 +06
+# Entries: 111,542
+# Updated: Fri, 29 Dec 23 12:08:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -88050,6 +88050,7 @@
 0.0.0.0 vax-boost.com
 0.0.0.0 vax-now.com
 0.0.0.0 vaxdeath.com
+0.0.0.0 vaylckydyy.com
 0.0.0.0 vayogqbfolv.com
 0.0.0.0 vazlshyjp.com
 0.0.0.0 vazypteke.pro
@@ -109310,6 +109311,7 @@
 0.0.0.0 yatraprime.com
 0.0.0.0 yatri.website
 0.0.0.0 yaumii.com
+0.0.0.0 yaupermems.uno
 0.0.0.0 yauryqvecn.com
 0.0.0.0 yavli.com
 0.0.0.0 yavwatkxtp.xyz
