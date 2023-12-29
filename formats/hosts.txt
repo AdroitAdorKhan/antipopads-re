@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.363
 # Release: 363
-# Entries: 111,533
-# Updated: Fri, 29 Dec 23 02:11:45 +06
+# Entries: 111,535
+# Updated: Fri, 29 Dec 23 06:41:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -47049,6 +47049,7 @@
 0.0.0.0 kuvf.in
 0.0.0.0 kuvora.global
 0.0.0.0 kuwfbmybit.com
+0.0.0.0 kuwhetsa.net
 0.0.0.0 kuwooque.com
 0.0.0.0 kuwoucaxoad.com
 0.0.0.0 kuwtbalxofdxm.com
@@ -87372,6 +87373,7 @@
 0.0.0.0 usyhnltt.xyz
 0.0.0.0 uszmruhnwyvfpp.com
 0.0.0.0 ut.akamnikxystos.com
+0.0.0.0 ut13r.site
 0.0.0.0 utahlemon.law
 0.0.0.0 utahlemon.org
 0.0.0.0 utahtechuniversityathletics.com
