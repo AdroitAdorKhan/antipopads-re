@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.363
 # Release: 363
-# Entries: 111,539
-# Updated: Fri, 29 Dec 23 08:13:00 +06
+# Entries: 111,540
+# Updated: Fri, 29 Dec 23 10:09:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -111529,6 +111529,7 @@
 0.0.0.0 zygicjyssca.com
 0.0.0.0 zygionaffine.space
 0.0.0.0 zygomasbeaches.guru
+0.0.0.0 zyijzosrnzfru.com
 0.0.0.0 zyinfotech.com
 0.0.0.0 zyklen.net
 0.0.0.0 zylytavo.com
