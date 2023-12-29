@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.363
 # Release: 363
-# Entries: 111,559
-# Updated: Fri, 29 Dec 23 16:12:25 +06
+# Entries: 111,576
+# Updated: Fri, 29 Dec 23 18:09:10 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12979,6 +12979,7 @@
 0.0.0.0 blunderfluffy.com
 0.0.0.0 blunksdaler.uno
 0.0.0.0 bluntabsolutionoblique.com
+0.0.0.0 bluntmonster.com
 0.0.0.0 blur-taine.com
 0.0.0.0 blurbigdoable.com
 0.0.0.0 blurlorum.uno
@@ -29047,6 +29048,7 @@
 0.0.0.0 expelsleeken.website
 0.0.0.0 expendhattwo.com
 0.0.0.0 expendituredefeated.com
+0.0.0.0 expendstun.com
 0.0.0.0 expensedebeak.com
 0.0.0.0 expensepurpose.com
 0.0.0.0 expensestumble.top
@@ -48052,6 +48054,7 @@
 0.0.0.0 learnmorewithc4.org
 0.0.0.0 learnnwork.com
 0.0.0.0 learnspatialdesign.com
+0.0.0.0 learntarduousdowny.com
 0.0.0.0 learntinga.com
 0.0.0.0 learntjubilee.com
 0.0.0.0 learnwished.com
@@ -67207,6 +67210,7 @@
 0.0.0.0 qfnvqalpgiriub.com
 0.0.0.0 qfoafjopdj.com
 0.0.0.0 qfoodskfubk.com
+0.0.0.0 qfpfvaef.com
 0.0.0.0 qfpjlwpcwioo.com
 0.0.0.0 qfqdcyzai.com
 0.0.0.0 qfqtaqxfdaujx.com
@@ -76415,6 +76419,7 @@
 0.0.0.0 sntjim.com
 0.0.0.0 snubsfilo.space
 0.0.0.0 snugglethesheep.com
+0.0.0.0 snuggrow.com
 0.0.0.0 snugphotographer.com
 0.0.0.0 snugslackmakeup.com
 0.0.0.0 snuparek.com
@@ -89361,6 +89366,7 @@
 0.0.0.0 vlk-attorneys.com
 0.0.0.0 vlkccfreayfut.com
 0.0.0.0 vlkksbuueh.com
+0.0.0.0 vlkkwxncamnq.com
 0.0.0.0 vlklvjqoogue.xyz
 0.0.0.0 vllshrlqo.xyz
 0.0.0.0 vlm.legal
@@ -89702,6 +89708,7 @@
 0.0.0.0 vpspro.tech
 0.0.0.0 vptadv.com
 0.0.0.0 vptbn.com
+0.0.0.0 vptzqnjwguap.com
 0.0.0.0 vpumfeghiall.com
 0.0.0.0 vpwhhtpwhmd.com
 0.0.0.0 vpylcxggepywaka.com
@@ -92164,6 +92171,7 @@
 0.0.0.0 wlgeaphevavka.com
 0.0.0.0 wlgntgvwpmlm.xyz
 0.0.0.0 wlhtrkiolrvdnge.com
+0.0.0.0 wlhzbbvtofot.com
 0.0.0.0 wlimrvsnusyawk.com
 0.0.0.0 wliuahugpgo.com
 0.0.0.0 wlixymxepnroiq.com
@@ -95089,6 +95097,7 @@
 0.0.0.0 www.bluishgeologicallimitless.com
 0.0.0.0 www.blukard.app
 0.0.0.0 www.blunderfluffy.com
+0.0.0.0 www.bluntmonster.com
 0.0.0.0 www.blurbigdoable.com
 0.0.0.0 www.blushgoats.com
 0.0.0.0 www.blushmossy.com
@@ -97348,6 +97357,7 @@
 0.0.0.0 www.dubnoughtheadquarter.com
 0.0.0.0 www.dubunwiseobjections.com
 0.0.0.0 www.duchesscranberrywander.com
+0.0.0.0 www.duchesspleasurelollipop.com
 0.0.0.0 www.duckfatventures.com
 0.0.0.0 www.ducksintroduce.com
 0.0.0.0 www.dudleygargling.com
@@ -97900,6 +97910,7 @@
 0.0.0.0 www.expectedballpaul.com
 0.0.0.0 www.expedientabnormaldeceased.com
 0.0.0.0 www.expendhattwo.com
+0.0.0.0 www.expendstun.com
 0.0.0.0 www.expensepurpose.com
 0.0.0.0 www.expensewardrobecivil.com
 0.0.0.0 www.experialmt2.com
@@ -100823,6 +100834,7 @@
 0.0.0.0 www.learningproportion.com
 0.0.0.0 www.learningsutras.org
 0.0.0.0 www.learnlifescience.com
+0.0.0.0 www.learntarduousdowny.com
 0.0.0.0 www.learnwished.com
 0.0.0.0 www.leaseholderbarbcompact.com
 0.0.0.0 www.leavebumpwrinkle.com
@@ -105036,6 +105048,7 @@
 0.0.0.0 www.snoreempire.com
 0.0.0.0 www.snoutcaffeinecrowded.com
 0.0.0.0 www.snoutsabout.org
+0.0.0.0 www.snuggrow.com
 0.0.0.0 www.snugphotographer.com
 0.0.0.0 www.snugslackmakeup.com
 0.0.0.0 www.soakappequipment.com
@@ -106332,6 +106345,7 @@
 0.0.0.0 www.trenhsasolce.com
 0.0.0.0 www.trenoz.com
 0.0.0.0 www.trentjesno.com
+0.0.0.0 www.trespassslept.com
 0.0.0.0 www.trevisovolontariato.org
 0.0.0.0 www.trewnhiok.com
 0.0.0.0 www.trexpto.com
@@ -107573,6 +107587,7 @@
 0.0.0.0 www.yoursoftmart.com
 0.0.0.0 www.yourwownews.com
 0.0.0.0 www.youthstockholm50.global
+0.0.0.0 www.youtrustedprolong.com
 0.0.0.0 www.youtub5s.com
 0.0.0.0 www.youtube.comyoutu.be
 0.0.0.0 www.youtube19.com
@@ -108104,6 +108119,7 @@
 0.0.0.0 xdcjdlfnoitxs.com
 0.0.0.0 xdcngimejo.com
 0.0.0.0 xdeqhxqu.com
+0.0.0.0 xder1.fun
 0.0.0.0 xdezxlbnpo.com
 0.0.0.0 xdfqhittojpvc.com
 0.0.0.0 xdhporbv.com
@@ -110148,6 +110164,7 @@
 0.0.0.0 youthstockholm50.global
 0.0.0.0 youthvoicelab.eu
 0.0.0.0 youthycouthe.uno
+0.0.0.0 youtrustedprolong.com
 0.0.0.0 youtu-ber.tech
 0.0.0.0 youtub5s.com
 0.0.0.0 youtube19.com
