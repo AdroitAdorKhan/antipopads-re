@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.364
 # Release: 364
-# Entries: 111,630
-# Updated: Sat, 30 Dec 23 04:09:58 +06
+# Entries: 111,638
+# Updated: Sat, 30 Dec 23 06:39:07 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9581,6 +9581,7 @@
 0.0.0.0 awemdia.com
 0.0.0.0 awempire.com
 0.0.0.0 awemwh.com
+0.0.0.0 awenming.com
 0.0.0.0 awenreceiv.info
 0.0.0.0 awentw.com
 0.0.0.0 awepierce.com
@@ -17263,6 +17264,7 @@
 0.0.0.0 chinlesufer.com
 0.0.0.0 chinoismoras.com
 0.0.0.0 chinsedsauna.live
+0.0.0.0 chinsmag.top
 0.0.0.0 chinsorients.com
 0.0.0.0 chinucskoo.com
 0.0.0.0 chioneflake.com
@@ -24644,6 +24646,7 @@
 0.0.0.0 doruffletr.com
 0.0.0.0 doruk100.com
 0.0.0.0 doruvixi.xyz
+0.0.0.0 doryangled.space
 0.0.0.0 doryrasped.life
 0.0.0.0 dosagebreakfast.com
 0.0.0.0 dosagemonths.com
@@ -28088,6 +28091,7 @@
 0.0.0.0 erikakostialova.com
 0.0.0.0 erikamakara.com
 0.0.0.0 erimal.com
+0.0.0.0 erineumtranse.uno
 0.0.0.0 eringosdye.com
 0.0.0.0 erinoccluse.website
 0.0.0.0 erisagroup.us
@@ -35291,6 +35295,7 @@
 0.0.0.0 goofypismica.com
 0.0.0.0 googame.tech
 0.0.0.0 googddletagmanager.com
+0.0.0.0 googel-dns.com
 0.0.0.0 googl3syndication.com
 0.0.0.0 google--analytics.com
 0.0.0.0 google-ana1ytics.com
@@ -46716,6 +46721,7 @@
 0.0.0.0 kougloar.com
 0.0.0.0 koujaups.xyz
 0.0.0.0 koulanpols.website
+0.0.0.0 koupelnovaskrinkasumyvadlem.sbs
 0.0.0.0 koupimlekarnu.com
 0.0.0.0 kouptufezi.com
 0.0.0.0 koureptu.xyz
@@ -51445,6 +51451,7 @@
 0.0.0.0 markaenocyte.digital
 0.0.0.0 markamedia.nl
 0.0.0.0 markazulkarim.com
+0.0.0.0 marker-hoff.com
 0.0.0.0 markerfraction.com
 0.0.0.0 markerperceivehick.com
 0.0.0.0 market.community
@@ -68678,6 +68685,7 @@
 0.0.0.0 rcvlink.com
 0.0.0.0 rcvlinks.com
 0.0.0.0 rcvmvxspw.com
+0.0.0.0 rcvsmbawwqodqt.com
 0.0.0.0 rcwbsxmvtobisua.com
 0.0.0.0 rcwoldnn.com
 0.0.0.0 rcwuzudjcsjmr.com
