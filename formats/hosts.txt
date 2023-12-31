@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 23.12.365
-# Release: 365
-# Entries: 112,219
-# Updated: Sun, 31 Dec 23 22:11:30 +06
+# Version: 24.01.001
+# Release: 001
+# Entries: 112,221
+# Updated: Mon, 01 Jan 24 00:29:39 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -39357,6 +39357,7 @@
 0.0.0.0 housingamen.com
 0.0.0.0 houstonprime-athletics.com
 0.0.0.0 houstonprimeathletics.com
+0.0.0.0 houtouchekan.space
 0.0.0.0 hoverr.co
 0.0.0.0 hoverr.media
 0.0.0.0 hoversruffer.space
@@ -55215,6 +55216,7 @@
 0.0.0.0 muyoozrkkyr.com
 0.0.0.0 muzarabeponym.website
 0.0.0.0 muzdownloads.ru
+0.0.0.0 muzhiketta.guru
 0.0.0.0 muzmino.ru
 0.0.0.0 muzo.kz
 0.0.0.0 muzoohat.net
