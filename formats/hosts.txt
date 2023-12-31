@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.001
 # Release: 001
-# Entries: 112,233
-# Updated: Mon, 01 Jan 24 02:09:28 +06
+# Entries: 112,239
+# Updated: Mon, 01 Jan 24 04:08:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2925,6 +2925,7 @@
 0.0.0.0 a-94interdads.com
 0.0.0.0 a-ads.com
 0.0.0.0 a-b-c-d.xyz
+0.0.0.0 a-bring.com
 0.0.0.0 a-csontos.com
 0.0.0.0 a-k-v.net
 0.0.0.0 a-o-w.ru
@@ -11368,6 +11369,7 @@
 0.0.0.0 belousek.net
 0.0.0.0 beloved-ideal.pro
 0.0.0.0 belovedfrolic.com
+0.0.0.0 belovedly.space
 0.0.0.0 belovedscalp.com
 0.0.0.0 beloveupcreep.com
 0.0.0.0 belowanswerhaste.com
@@ -23666,6 +23668,7 @@
 0.0.0.0 dipakgaba.com
 0.0.0.0 dipeshsahu.com
 0.0.0.0 diphuonline.in
+0.0.0.0 diplatte-j.net
 0.0.0.0 diplic.com
 0.0.0.0 diploisaloofly.com
 0.0.0.0 diploma.healthcare
@@ -47120,6 +47123,7 @@
 0.0.0.0 kryupomxtflqyn.top
 0.0.0.0 krznova.com
 0.0.0.0 ksamovil.com
+0.0.0.0 ksandrafashion.com
 0.0.0.0 ksandtheirclean.org
 0.0.0.0 ksash.co.uk
 0.0.0.0 ksbeacogpivp.com
@@ -55109,6 +55113,7 @@
 0.0.0.0 munshiwauks.space
 0.0.0.0 munsterduke.com
 0.0.0.0 muntoxkyfeisg.com
+0.0.0.0 muoasiqceu.com
 0.0.0.0 muofqumriowemy.com
 0.0.0.0 muonshinemeadows.com.au
 0.0.0.0 mupufktvziob.com
@@ -83556,6 +83561,7 @@
 0.0.0.0 tmywdchswel.com
 0.0.0.0 tmyzer.com
 0.0.0.0 tn.fordgitter.com
+0.0.0.0 tn69abi.com
 0.0.0.0 tnaowooruaxkqtr.xyz
 0.0.0.0 tnbuildersalliance.com
 0.0.0.0 tncred.com
