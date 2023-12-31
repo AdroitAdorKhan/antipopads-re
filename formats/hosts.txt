@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 23.12.365
 # Release: 365
-# Entries: 112,203
-# Updated: Sun, 31 Dec 23 20:09:12 +06
+# Entries: 112,219
+# Updated: Sun, 31 Dec 23 22:11:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4714,6 +4714,7 @@
 0.0.0.0 adyakainfosec.com
 0.0.0.0 adygl.com
 0.0.0.0 adyoca.com
+0.0.0.0 adywind.com
 0.0.0.0 adz-shield.com
 0.0.0.0 adzblockersentinel.net
 0.0.0.0 adzfun.info
@@ -6505,6 +6506,7 @@
 0.0.0.0 amazonprime-amazonaccout.com
 0.0.0.0 amazyno.online
 0.0.0.0 ambaab.com
+0.0.0.0 ambaraulder.digital
 0.0.0.0 ambassadorpotentsummer.com
 0.0.0.0 ambassadorvaultvisited.com
 0.0.0.0 ambeeapp.com
@@ -13707,6 +13709,7 @@
 0.0.0.0 boweve.com
 0.0.0.0 bowhishapsee.com
 0.0.0.0 bowhow.com
+0.0.0.0 bowieodyssey.com
 0.0.0.0 bowldescended.com
 0.0.0.0 bowled.in.net
 0.0.0.0 bowleghulks.digital
@@ -47024,6 +47027,7 @@
 0.0.0.0 kratomvape.us.com
 0.0.0.0 krazil.com
 0.0.0.0 krazykenz.com
+0.0.0.0 krazykenzgardening.com
 0.0.0.0 krcal.info
 0.0.0.0 krcuoujleerrun.com
 0.0.0.0 krcykddubkrsjm.xyz
@@ -51742,6 +51746,7 @@
 0.0.0.0 marmine.net
 0.0.0.0 marmotic.pro
 0.0.0.0 marmuriena.org
+0.0.0.0 marokboys.nl
 0.0.0.0 maroni-family.xyz
 0.0.0.0 marormesole.com
 0.0.0.0 marossytamas.com
@@ -54324,6 +54329,7 @@
 0.0.0.0 monthsrecoup.com
 0.0.0.0 montikolti.com
 0.0.0.0 montleymontleycovered.com
+0.0.0.0 montovane.online
 0.0.0.0 monumentsdismantle.com
 0.0.0.0 monumentsmaterialeasel.com
 0.0.0.0 monuniverscreche.com
@@ -54758,6 +54764,7 @@
 0.0.0.0 mrahitob.com
 0.0.0.0 mraiforweb.com
 0.0.0.0 mrandmrsstrange.com
+0.0.0.0 mraozo.xyz
 0.0.0.0 mrareljqr.com
 0.0.0.0 mraunfdugk.com
 0.0.0.0 mrawhypk.com
@@ -55191,6 +55198,7 @@
 0.0.0.0 mutinousconductdisk.com
 0.0.0.0 mutjrvxlldyrbyg.xyz
 0.0.0.0 mutomb.com
+0.0.0.0 mutteredadis.org
 0.0.0.0 mutteredadisa.com
 0.0.0.0 muttergrew.com
 0.0.0.0 muttersedatetransmitted.com
@@ -62275,6 +62283,7 @@
 0.0.0.0 patriotgunsmith.com
 0.0.0.0 patriotinvestorlustre.com
 0.0.0.0 patriotpay.store
+0.0.0.0 patriottypeout.space
 0.0.0.0 patrolcontinually.com
 0.0.0.0 patronageausterity.com
 0.0.0.0 patronageunlock.com
@@ -71482,6 +71491,7 @@
 0.0.0.0 rothshield.co.in
 0.0.0.0 rotkeepwallet.com
 0.0.0.0 rotker.net
+0.0.0.0 rotlfriskle.uno
 0.0.0.0 rotondahogs.com
 0.0.0.0 rotuloverde.com
 0.0.0.0 rotumal.com
@@ -75382,6 +75392,7 @@
 0.0.0.0 sidepgouv.fr
 0.0.0.0 siderhoul.com
 0.0.0.0 sidestgrouts.uno
+0.0.0.0 sidesukbeing.org
 0.0.0.0 sidewalkcrazinesscleaning.com
 0.0.0.0 sidewaysschoolbus.com
 0.0.0.0 sidewaysuccession.com
@@ -90839,6 +90850,7 @@
 0.0.0.0 wardrobecontingent.com
 0.0.0.0 wardrobedesire.com
 0.0.0.0 wardrobemeddleorganism.com
+0.0.0.0 wareggawaifs.digital
 0.0.0.0 warehousecanneddental.com
 0.0.0.0 warfaafin.com
 0.0.0.0 warfairy.net
@@ -95692,6 +95704,7 @@
 0.0.0.0 www.bowedrhymesnack.com
 0.0.0.0 www.bowedsequence.com
 0.0.0.0 www.bowhishapsee.com
+0.0.0.0 www.bowieodyssey.com
 0.0.0.0 www.bowldescended.com
 0.0.0.0 www.bowlingunauthorized.com
 0.0.0.0 www.boxampoa.com
@@ -101215,6 +101228,7 @@
 0.0.0.0 www.kqzyfj.com
 0.0.0.0 www.kral.one
 0.0.0.0 www.krazykenz.com
+0.0.0.0 www.krazykenzgardening.com
 0.0.0.0 www.kreativevue.com
 0.0.0.0 www.kreditexpert.top
 0.0.0.0 www.krishibhavankadukutty.com
@@ -101886,6 +101900,7 @@
 0.0.0.0 www.marketingtools.app
 0.0.0.0 www.markiz-silver.com
 0.0.0.0 www.markrugstatute.com
+0.0.0.0 www.marokboys.nl
 0.0.0.0 www.marriedusedaye.com
 0.0.0.0 www.marryclamour.com
 0.0.0.0 www.marshalcurve.com
@@ -101964,6 +101979,7 @@
 0.0.0.0 www.mbtsz.xyz
 0.0.0.0 www.mcafeecom.net
 0.0.0.0 www.mciadjusters.com
+0.0.0.0 www.mckennaengineering.org
 0.0.0.0 www.mcknightrock.com
 0.0.0.0 www.mddesigns.com
 0.0.0.0 www.mdvip365.com
