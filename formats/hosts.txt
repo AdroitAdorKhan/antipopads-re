@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.002
 # Release: 002
-# Entries: 112,537
-# Updated: Tue, 02 Jan 24 02:09:34 +06
+# Entries: 112,538
+# Updated: Tue, 02 Jan 24 04:09:15 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -74849,6 +74849,7 @@
 0.0.0.0 sfuhs.yt
 0.0.0.0 sfullydevelo.com
 0.0.0.0 sfultraight.xyz
+0.0.0.0 sfuoasztfxr.com
 0.0.0.0 sfuppvujrjve.xyz
 0.0.0.0 sfw059.com
 0.0.0.0 sfwtmxmpj.com
