@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.001
 # Release: 001
-# Entries: 112,528
-# Updated: Mon, 01 Jan 24 20:09:39 +06
+# Entries: 112,529
+# Updated: Mon, 01 Jan 24 22:09:58 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -44518,6 +44518,7 @@
 0.0.0.0 jodellvideos.pro
 0.0.0.0 jodhpurrarish.digital
 0.0.0.0 jodilhsitybnv.com
+0.0.0.0 jodroacm.com
 0.0.0.0 jodsempu.com
 0.0.0.0 joe3.co
 0.0.0.0 joecockersmemory.com
