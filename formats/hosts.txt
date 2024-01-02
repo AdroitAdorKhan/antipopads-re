@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.002
 # Release: 002
-# Entries: 112,538
-# Updated: Tue, 02 Jan 24 04:09:15 +06
+# Entries: 112,541
+# Updated: Tue, 02 Jan 24 06:09:42 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -30717,6 +30717,7 @@
 0.0.0.0 fightingcowardlycoffin.com
 0.0.0.0 fightingleatherconspicuous.com
 0.0.0.0 fightmallowfiasco.com
+0.0.0.0 fightnightchallenge.com
 0.0.0.0 fightpirate.xyz
 0.0.0.0 figovniky.com
 0.0.0.0 figuan.com
@@ -64041,6 +64042,7 @@
 0.0.0.0 pipetsungross.com
 0.0.0.0 pipety.com
 0.0.0.0 piphas.com
+0.0.0.0 pipirisend.guru
 0.0.0.0 piplanistore.com
 0.0.0.0 piplavwci.com
 0.0.0.0 pippinbooks.us
@@ -99025,6 +99027,7 @@
 0.0.0.0 www.fightingcowardlycoffin.com
 0.0.0.0 www.fightingleatherconspicuous.com
 0.0.0.0 www.fightmallowfiasco.com
+0.0.0.0 www.fightnightchallenge.com
 0.0.0.0 www.figuredcurrantcroak.com
 0.0.0.0 www.figuredreconsiderinvest.com
 0.0.0.0 www.fiinann.com
