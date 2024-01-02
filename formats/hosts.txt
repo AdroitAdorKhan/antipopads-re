@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.002
 # Release: 002
-# Entries: 112,550
-# Updated: Tue, 02 Jan 24 10:12:10 +06
+# Entries: 112,554
+# Updated: Tue, 02 Jan 24 12:09:34 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -35588,6 +35588,7 @@
 0.0.0.0 googletegmanager.com
 0.0.0.0 googlevads-cn.com
 0.0.0.0 googliya.com
+0.0.0.0 googlsyndication.com
 0.0.0.0 googlwetagmanager.com
 0.0.0.0 googlwweesyndic232311ation.com
 0.0.0.0 googtion.com
@@ -73205,6 +73206,7 @@
 0.0.0.0 sarvagnaspl.com
 0.0.0.0 sarvamcart.com
 0.0.0.0 sasasbd.com
+0.0.0.0 sasgrowth.com
 0.0.0.0 sashadevers.com
 0.0.0.0 sashapay.com
 0.0.0.0 sashazd.me
@@ -73352,6 +73354,7 @@
 0.0.0.0 saylor23.org
 0.0.0.0 saytbcrdmyyfb.com
 0.0.0.0 sayyidscronies.life
+0.0.0.0 sazoya.com
 0.0.0.0 sazute.uno
 0.0.0.0 sb-stat1.com
 0.0.0.0 sb.sockeyebrattle.com
@@ -106347,6 +106350,7 @@
 0.0.0.0 www.stld2014.com
 0.0.0.0 www.stlm-online.co.za
 0.0.0.0 www.stoachaigog.com
+0.0.0.0 www.stoatsie.com
 0.0.0.0 www.stobartoilgas.com
 0.0.0.0 www.stockcustom.store
 0.0.0.0 www.stolenforensicssausage.com
