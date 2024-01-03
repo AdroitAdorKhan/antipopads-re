@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.003
 # Release: 003
-# Entries: 112,743
-# Updated: Wed, 03 Jan 24 08:34:28 +06
+# Entries: 112,749
+# Updated: Wed, 03 Jan 24 10:08:41 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15698,6 +15698,7 @@
 0.0.0.0 capnet.in
 0.0.0.0 capp.news
 0.0.0.0 cappens-dreperor.com
+0.0.0.0 cappingretort.space
 0.0.0.0 cappuccinoeliza.com
 0.0.0.0 capracavellihilton.com
 0.0.0.0 capraundine.live
@@ -22154,6 +22155,7 @@
 0.0.0.0 dbbsrv.com
 0.0.0.0 dbcache.fun
 0.0.0.0 dbclix.com
+0.0.0.0 dbcojgzed.com
 0.0.0.0 dbcybertech.com
 0.0.0.0 dbdcrkebvwwtegd.com
 0.0.0.0 dbecreativea.biz
@@ -23389,6 +23391,7 @@
 0.0.0.0 dhoievmegp.com
 0.0.0.0 dholesiberia.digital
 0.0.0.0 dholpursamajsanthanjaipur.org
+0.0.0.0 dhouygsf.com
 0.0.0.0 dhowsptelea.com
 0.0.0.0 dhqdlemm.xyz
 0.0.0.0 dhqksngxdvostk.com
@@ -48974,6 +48977,7 @@
 0.0.0.0 lfpthkipndval.com
 0.0.0.0 lfstmedia.com
 0.0.0.0 lfsuigdrtsszog.com
+0.0.0.0 lfufujhxmy.com
 0.0.0.0 lfuntkrqgoxewqd.xyz
 0.0.0.0 lfwujowkcf.com
 0.0.0.0 lfxkgdvf.com
@@ -59839,6 +59843,7 @@
 0.0.0.0 okdrivemusic.com
 0.0.0.0 okdvkidls.xyz
 0.0.0.0 okehsominous.com
+0.0.0.0 okfgsbtmcnh.com
 0.0.0.0 okgjpjrhglvsqg.com
 0.0.0.0 okhsymec.com
 0.0.0.0 okingabodew.xyz
@@ -63206,6 +63211,7 @@
 0.0.0.0 peracidcooler.life
 0.0.0.0 perack.com
 0.0.0.0 peracy.com
+0.0.0.0 percalebens.uno
 0.0.0.0 perceivedagrarian.com
 0.0.0.0 perceivedpalpable.com
 0.0.0.0 perceivedundesirable.com
