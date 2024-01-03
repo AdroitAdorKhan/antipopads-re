@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.003
 # Release: 003
-# Entries: 112,749
-# Updated: Wed, 03 Jan 24 10:08:41 +06
+# Entries: 112,751
+# Updated: Wed, 03 Jan 24 12:09:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12120,6 +12120,7 @@
 0.0.0.0 bicassoai.com
 0.0.0.0 bicchedamiray.website
 0.0.0.0 bicio.net
+0.0.0.0 biconquer.space
 0.0.0.0 bicornemis.xyz
 0.0.0.0 bicroy.com
 0.0.0.0 bicyclelistpermanentlyenslave.com
@@ -37571,6 +37572,7 @@
 0.0.0.0 hazelnutshighs.com
 0.0.0.0 hazeoxcoherence.com
 0.0.0.0 hazethoman.uno
+0.0.0.0 hazingsviasma.website
 0.0.0.0 hazinic.com
 0.0.0.0 hazisaman.com
 0.0.0.0 hazlepanhas.cfd
