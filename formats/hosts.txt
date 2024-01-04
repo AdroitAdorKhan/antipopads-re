@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.004
 # Release: 004
-# Entries: 112,879
-# Updated: Thu, 04 Jan 24 06:08:52 +06
+# Entries: 112,883
+# Updated: Thu, 04 Jan 24 08:34:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -24490,6 +24490,7 @@
 0.0.0.0 dnoicciekfm.xyz
 0.0.0.0 dnqlunngvdmfam.com
 0.0.0.0 dnrc.in
+0.0.0.0 dnrcwqbakix.com
 0.0.0.0 dns0.org
 0.0.0.0 dns79.net
 0.0.0.0 dns9323323898.com
@@ -47331,6 +47332,7 @@
 0.0.0.0 krato.us.com
 0.0.0.0 kratomeurope.com
 0.0.0.0 kratomvape.us.com
+0.0.0.0 krautbyte.com
 0.0.0.0 krazil.com
 0.0.0.0 krazykenz.com
 0.0.0.0 krazykenzgardening.com
@@ -68344,6 +68346,7 @@
 0.0.0.0 qqcelibyhssedfu.com
 0.0.0.0 qqcom3.com
 0.0.0.0 qqdkpswo.xyz
+0.0.0.0 qqfelxqmhoc.com
 0.0.0.0 qqgfubewassi.com
 0.0.0.0 qqikcufcsel.com
 0.0.0.0 qqjar.ru
@@ -111199,6 +111202,7 @@
 0.0.0.0 yodwhmxuswkbwtf.com
 0.0.0.0 yoeduco.com
 0.0.0.0 yoelsan.tech
+0.0.0.0 yofa.app
 0.0.0.0 yofdifferents.biz
 0.0.0.0 yogacalturehealing.org
 0.0.0.0 yogacomplyfuel.com
