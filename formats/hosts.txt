@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.005
 # Release: 005
-# Entries: 113,046
-# Updated: Fri, 05 Jan 24 04:09:04 +06
+# Entries: 113,063
+# Updated: Fri, 05 Jan 24 06:48:52 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7511,6 +7511,7 @@
 0.0.0.0 apnampula.com
 0.0.0.0 apncosffqsjy.com
 0.0.0.0 apniassa.com
+0.0.0.0 apnpr.com
 0.0.0.0 apnttuttej.com
 0.0.0.0 apnwcakifv.com
 0.0.0.0 apnxasonfn.com
@@ -10628,6 +10629,7 @@
 0.0.0.0 bargutti.com
 0.0.0.0 barialifestyle.com
 0.0.0.0 bariatricdistrict.com
+0.0.0.0 barispreng.digital
 0.0.0.0 barjahbuilders.com
 0.0.0.0 barjeydrow.net
 0.0.0.0 barkanpickee.com
@@ -17803,6 +17805,7 @@
 0.0.0.0 circumcisionaustralia.au
 0.0.0.0 circumcisionbrisbane.au
 0.0.0.0 circumcisionsaustralia.au
+0.0.0.0 circumferencepercentagefilling.com
 0.0.0.0 circumscribestallion.com
 0.0.0.0 circumscribevetofurther.com
 0.0.0.0 circumstancesnodding.com
@@ -18696,6 +18699,7 @@
 0.0.0.0 coakstooled.website
 0.0.0.0 coalbagbices.website
 0.0.0.0 coalingpongees.guru
+0.0.0.0 coalitionstork.com
 0.0.0.0 coaltradeofficial.com
 0.0.0.0 coaphauk.net
 0.0.0.0 coappreciate.com
@@ -19213,6 +19217,7 @@
 0.0.0.0 commitmentmeet.com
 0.0.0.0 committedcubic.com
 0.0.0.0 committeereconcilelibrarian.com
+0.0.0.0 commoditymonsieur.com
 0.0.0.0 common-lawaustralia.net.au
 0.0.0.0 commons.dance
 0.0.0.0 commonvivacious.com
@@ -19673,6 +19678,7 @@
 0.0.0.0 consignmentdispose.com
 0.0.0.0 consilioitar.com
 0.0.0.0 consisteddimensionprofessionally.com
+0.0.0.0 consistencyjacksonwasteful.com
 0.0.0.0 consistent.com
 0.0.0.0 consistfiringsuction.com
 0.0.0.0 consistinedibleconnections.com
@@ -22453,6 +22459,7 @@
 0.0.0.0 decemberpedalunfair.com
 0.0.0.0 decencyjessiebloom.com
 0.0.0.0 decencysoothe.com
+0.0.0.0 decencytopmost.com
 0.0.0.0 decenterads.com
 0.0.0.0 decenthat.com
 0.0.0.0 decentpatent.com
@@ -26163,6 +26170,7 @@
 0.0.0.0 earlhardyholdings.com
 0.0.0.0 earlieraccelerateshoplifting.com
 0.0.0.0 earlierindians.com
+0.0.0.0 earliesthuntingtransgress.com
 0.0.0.0 earlinessone.xyz
 0.0.0.0 earlos.com
 0.0.0.0 earlpenholder.com
@@ -27651,6 +27659,7 @@
 0.0.0.0 employmentlawtraining.co.uk
 0.0.0.0 employmentsuppressedbeautiful.com
 0.0.0.0 employmentvip.com
+0.0.0.0 employsisomery.digital
 0.0.0.0 empnet.ca
 0.0.0.0 empnet.co
 0.0.0.0 empnet.io
@@ -27937,6 +27946,7 @@
 0.0.0.0 enjoyedestrangeapplication.com
 0.0.0.0 enjoyedtool.com
 0.0.0.0 enjoyhelpingothers.com
+0.0.0.0 enjoyinterstate.com
 0.0.0.0 enjoymarry.co.uk
 0.0.0.0 enjoypiingtoe.com
 0.0.0.0 enjoythebeer.com
@@ -28075,6 +28085,7 @@
 0.0.0.0 entropist.us
 0.0.0.0 entrustscratchedcriticize.com
 0.0.0.0 entry-visitingtheusa.com
+0.0.0.0 entrydefiancecatherine.com
 0.0.0.0 entseconom.com
 0.0.0.0 entsiwoulu.com
 0.0.0.0 entsiwouluk.work
@@ -67356,6 +67367,7 @@
 0.0.0.0 puertolifesciences.org
 0.0.0.0 puerty.com
 0.0.0.0 puffdifferent.com
+0.0.0.0 puffedulan.digital
 0.0.0.0 puffieralveloz.guru
 0.0.0.0 puffstethery.guru
 0.0.0.0 pugdisguise.com
@@ -68973,6 +68985,7 @@
 0.0.0.0 raceacute.top
 0.0.0.0 racebay.org
 0.0.0.0 racemarinadefalse.com
+0.0.0.0 racemeslawing.top
 0.0.0.0 racerready.shop
 0.0.0.0 racesaggravate.com
 0.0.0.0 racesundermine.com
@@ -84261,6 +84274,7 @@
 0.0.0.0 todayprodentimsdiscountsales08.site
 0.0.0.0 todayrecipes.info
 0.0.0.0 todays-wordle.net
+0.0.0.0 todaysanimism.digital
 0.0.0.0 todaysbatteau.live
 0.0.0.0 todaysbestsellers.com
 0.0.0.0 todaysmyday.net
@@ -106885,6 +106899,7 @@
 0.0.0.0 www.stronglydolefulejection.com
 0.0.0.0 www.structurecolossal.com
 0.0.0.0 www.strugglecookingtechnically.com
+0.0.0.0 www.strugglelaurie.com
 0.0.0.0 www.strungcourthouse.com
 0.0.0.0 www.strungglancedrunning.com
 0.0.0.0 www.stubborndreadcounterfeit.com
@@ -109587,6 +109602,7 @@
 0.0.0.0 xegmsox.com
 0.0.0.0 xehnow.com
 0.0.0.0 xehqrgouoamt.com
+0.0.0.0 xeikjydhs.com
 0.0.0.0 xeirhwrtfaak.xyz
 0.0.0.0 xejblbcwffcxfja.xyz
 0.0.0.0 xejwswxj.com
@@ -113053,6 +113069,7 @@
 0.0.0.0 zyzukjopdyphx.com
 0.0.0.0 zz.tripstendant.com
 0.0.0.0 zz1370.com
+0.0.0.0 zz3r0.com
 0.0.0.0 zz9zzza.org
 0.0.0.0 zzautoparts.in
 0.0.0.0 zzdb5p4upiug.com
