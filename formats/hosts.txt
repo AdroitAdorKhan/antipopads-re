@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.005
 # Release: 005
-# Entries: 113,109
-# Updated: Fri, 05 Jan 24 10:08:53 +06
+# Entries: 113,144
+# Updated: Fri, 05 Jan 24 12:08:31 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2671,6 +2671,7 @@
 0.0.0.0 900file.com
 0.0.0.0 900hk.com
 0.0.0.0 900ky.app
+0.0.0.0 90135.org
 0.0.0.0 901softwareandapps.com
 0.0.0.0 909.ooo
 0.0.0.0 909.team
@@ -10090,6 +10091,7 @@
 0.0.0.0 babaji.in.net
 0.0.0.0 babanmak.com
 0.0.0.0 babavaro.sbs
+0.0.0.0 babavarohitel.sbs
 0.0.0.0 babaveggie.in
 0.0.0.0 babbyfriar.space
 0.0.0.0 babcihmb.com
@@ -11388,6 +11390,7 @@
 0.0.0.0 belaematheus.com
 0.0.0.0 belal3li.com
 0.0.0.0 belamicash.com
+0.0.0.0 belandabichord.space
 0.0.0.0 belastingdienst-mijnincasso.info
 0.0.0.0 belavoplay.com
 0.0.0.0 belaya2shu1ba1.com
@@ -14627,6 +14630,7 @@
 0.0.0.0 bufedr.com
 0.0.0.0 buffalobuildinginnovations.ca
 0.0.0.0 buffaloexemptdropped.com
+0.0.0.0 buffalofoutre.digital
 0.0.0.0 buffalorollshutters.ca
 0.0.0.0 buffcitysoapwaukee.com
 0.0.0.0 buffersthyrold.com
@@ -18033,6 +18037,7 @@
 0.0.0.0 clarityray.com
 0.0.0.0 clarius.online
 0.0.0.0 clarks-shoes.us.com
+0.0.0.0 clarksamsterdam.co.nl
 0.0.0.0 clarksstores.net
 0.0.0.0 clarniton.online
 0.0.0.0 clarox.com
@@ -18428,6 +18433,7 @@
 0.0.0.0 cloisteroutdooragitate.com
 0.0.0.0 clojuregirl.com
 0.0.0.0 clompspapacy.digital
+0.0.0.0 clonazepamlearning.com
 0.0.0.0 clonemolten.life
 0.0.0.0 clonesmesopic.com
 0.0.0.0 clongerip.com
@@ -18835,6 +18841,7 @@
 0.0.0.0 codewithclaudio.com
 0.0.0.0 codezap.com
 0.0.0.0 coding-polarbear.tech
+0.0.0.0 codingdrips.com
 0.0.0.0 codingideas.com
 0.0.0.0 codingwithjks.tech
 0.0.0.0 codlebihmurah.tech
@@ -30590,6 +30597,7 @@
 0.0.0.0 fermacyupplow.com
 0.0.0.0 fermentassemblethoughtful.com
 0.0.0.0 fermentwavesir.com
+0.0.0.0 fermermarket.com
 0.0.0.0 fermolo.info
 0.0.0.0 fermpresart.us
 0.0.0.0 feroaptu.xyz
@@ -39108,6 +39116,7 @@
 0.0.0.0 hokasingapore.net
 0.0.0.0 hokierloopy.digital
 0.0.0.0 hola-news.com
+0.0.0.0 holandskynabytek.sbs
 0.0.0.0 holconsprojects.com
 0.0.0.0 holdingsenatecabin.com
 0.0.0.0 holdingtax.store
@@ -42333,6 +42342,7 @@
 0.0.0.0 instinctiveads.com
 0.0.0.0 instinctivecooler.com
 0.0.0.0 instinctivetheeexemplify.com
+0.0.0.0 institutcm.online
 0.0.0.0 institutecopperadults.com
 0.0.0.0 instituteforcreativeinnovation.info
 0.0.0.0 institutehopelessbeck.com
@@ -45826,6 +45836,7 @@
 0.0.0.0 kanan777.com
 0.0.0.0 kanapky.com
 0.0.0.0 kanawhadonnot.website
+0.0.0.0 kancelar.sbs
 0.0.0.0 kancelarskazidle.sbs
 0.0.0.0 kancelarskezidle.sbs
 0.0.0.0 kancelarskynabytek.sbs
@@ -47312,6 +47323,7 @@
 0.0.0.0 kougloar.com
 0.0.0.0 koujaups.xyz
 0.0.0.0 koulanpols.website
+0.0.0.0 koupelnovaskrinka.sbs
 0.0.0.0 koupelnovaskrinkasumyvadlem.sbs
 0.0.0.0 koupelnovynabytek.sbs
 0.0.0.0 koupimlekarnu.com
@@ -48993,6 +49005,7 @@
 0.0.0.0 lesoocma.net
 0.0.0.0 lesoworld.com
 0.0.0.0 lespedeza.ca
+0.0.0.0 lespetitsm.ca
 0.0.0.0 lesplaineabraham.com
 0.0.0.0 lesplainesabraham.com
 0.0.0.0 lesplainesdabraham.com
@@ -49331,6 +49344,7 @@
 0.0.0.0 lifeandliving.in
 0.0.0.0 lifearchaicwhipped.com
 0.0.0.0 lifeasacoder.in
+0.0.0.0 lifebalanse.pro
 0.0.0.0 lifeboatlegalalleviate.com
 0.0.0.0 lifecaresathi.com
 0.0.0.0 lifeguards.nyc
@@ -51426,6 +51440,7 @@
 0.0.0.0 mafarin.ir
 0.0.0.0 mafhmklgtpsea.xyz
 0.0.0.0 mafiaillegal.com
+0.0.0.0 mafogroup.com
 0.0.0.0 mafrarc3e9h.com
 0.0.0.0 mafroad.com
 0.0.0.0 maftirtagetol.website
@@ -57007,6 +57022,7 @@
 0.0.0.0 nemesiacalesa.website
 0.0.0.0 nemesos-am.com
 0.0.0.0 nemesos-rt.com
+0.0.0.0 nemesos-rt.cy
 0.0.0.0 nemesosam.com
 0.0.0.0 nemesosrt.com
 0.0.0.0 nemesosrt.cy
@@ -58884,6 +58900,7 @@
 0.0.0.0 numerichost.org
 0.0.0.0 numericthaw.com
 0.0.0.0 numerologia.xyz
+0.0.0.0 numicoins.com
 0.0.0.0 numiopa.top
 0.0.0.0 numiqon.com
 0.0.0.0 nummevexo.com
@@ -59425,6 +59442,7 @@
 0.0.0.0 obyjmawsrnbbldn.com
 0.0.0.0 obynefeigvk.com
 0.0.0.0 obyvacipokoj.sbs
+0.0.0.0 obyvacisestavy.sbs
 0.0.0.0 obyvacistena.sbs
 0.0.0.0 obzorhub.com
 0.0.0.0 oc2tdxocb3ae0r.com
@@ -62724,6 +62742,7 @@
 0.0.0.0 pastfrolicpackage.com
 0.0.0.0 pastile-pentru-potenta.xyz
 0.0.0.0 pastillas-para-adelgazar.com
+0.0.0.0 pastillasinreceta.com
 0.0.0.0 pastimebeakjudgement.com
 0.0.0.0 pastimeroseola.com
 0.0.0.0 pastioripastipromo.tech
@@ -64184,6 +64203,7 @@
 0.0.0.0 pigdeak.com
 0.0.0.0 piggrkyrq.xyz
 0.0.0.0 piggype.com
+0.0.0.0 piggysoft.in
 0.0.0.0 pigistles.com
 0.0.0.0 piglikecold.uno
 0.0.0.0 pigmrhfie.xyz
@@ -64297,6 +64317,7 @@
 0.0.0.0 pineycaids.com
 0.0.0.0 pinfqqeqhk.com
 0.0.0.0 pingalas.com
+0.0.0.0 pingonyou.com
 0.0.0.0 pingpon.net
 0.0.0.0 pinitolshouldn.com
 0.0.0.0 pinjjgrsrikk.com
@@ -65428,6 +65449,7 @@
 0.0.0.0 pontiacsrevenge.com
 0.0.0.0 pontifique.com
 0.0.0.0 pontifykaffir.guru
+0.0.0.0 pontileshorans.space
 0.0.0.0 pontymonti.com
 0.0.0.0 ponyexpress30.com
 0.0.0.0 ponyresentment.com
@@ -66626,6 +66648,7 @@
 0.0.0.0 profuse-it.pro
 0.0.0.0 progeopiemonte.com
 0.0.0.0 proggerrosolic.digital
+0.0.0.0 progman.online
 0.0.0.0 prognediaxone.digital
 0.0.0.0 programinsightplastic.com
 0.0.0.0 programmeframeworkpractically.com
@@ -69010,6 +69033,7 @@
 0.0.0.0 rablic.com
 0.0.0.0 rablinhiphape.com
 0.0.0.0 rabljenavto.net
+0.0.0.0 rabota-24.com
 0.0.0.0 rabotaj.org
 0.0.0.0 racatik.info
 0.0.0.0 raccourir.xyz
@@ -69719,6 +69743,7 @@
 0.0.0.0 realandrares.at
 0.0.0.0 realbestdateapp.com
 0.0.0.0 realbitsport.com
+0.0.0.0 realblock.club
 0.0.0.0 realboo.com
 0.0.0.0 realboxing.online
 0.0.0.0 realbuttermovies.com
@@ -75822,6 +75847,7 @@
 0.0.0.0 shorttailre.com
 0.0.0.0 shorturl.al
 0.0.0.0 shoshaiw.net
+0.0.0.0 shosse.net
 0.0.0.0 shostobs.net
 0.0.0.0 shotdynastyimpetuous.com
 0.0.0.0 shotstopers.com
@@ -76485,6 +76511,7 @@
 0.0.0.0 siumssoftish.com
 0.0.0.0 siuywyycnrpe.com
 0.0.0.0 sivagnair.tech
+0.0.0.0 sivarhealthcity.com.sv
 0.0.0.0 siversbesomer.space
 0.0.0.0 siwasxqiohxp.com
 0.0.0.0 siwatecgroup.com
@@ -79764,6 +79791,7 @@
 0.0.0.0 studybibleverses.org
 0.0.0.0 studybly.com
 0.0.0.0 studyfi.ca
+0.0.0.0 studylow.net
 0.0.0.0 studyphaze.com
 0.0.0.0 studyplexs.com
 0.0.0.0 studyroute.in
@@ -81624,6 +81652,7 @@
 0.0.0.0 tb.flensedgathers.com
 0.0.0.0 tbado.top
 0.0.0.0 tbafuxck.top
+0.0.0.0 tbapackaging.io
 0.0.0.0 tbbkfax.com
 0.0.0.0 tbcsf.org
 0.0.0.0 tberjonk.com
@@ -82399,6 +82428,7 @@
 0.0.0.0 tgymexba.com
 0.0.0.0 th.beeweedisomer.com
 0.0.0.0 th1202.com
+0.0.0.0 th3scoop.com
 0.0.0.0 thabethemarketing.co.za
 0.0.0.0 thaeinai.com
 0.0.0.0 thaged.com
@@ -85732,6 +85762,7 @@
 0.0.0.0 trickylongaffliction.com
 0.0.0.0 trickyneotits.com
 0.0.0.0 trickystudio.in
+0.0.0.0 triclonlab.com
 0.0.0.0 tridentassist.com
 0.0.0.0 tridentpercy.com
 0.0.0.0 triedecu.com
@@ -90311,6 +90342,7 @@
 0.0.0.0 virtuallydasha.com
 0.0.0.0 virtuallylend.com
 0.0.0.0 virtuallythanksgivinganchovy.com
+0.0.0.0 virtualneobhliadky.online
 0.0.0.0 virtualnipraha.com
 0.0.0.0 virtualnomad.digital
 0.0.0.0 virtualorganizingsolutions.com
@@ -92096,6 +92128,7 @@
 0.0.0.0 webfonts.co.kr
 0.0.0.0 webfusions.site
 0.0.0.0 webgains.com
+0.0.0.0 webgamely.com
 0.0.0.0 webgarden.name
 0.0.0.0 webglimpse.net
 0.0.0.0 webgodaddy.site
@@ -112140,6 +112173,8 @@
 0.0.0.0 zahradnik.biz
 0.0.0.0 zahradnikreslo.sbs
 0.0.0.0 zahradninabytek.sbs
+0.0.0.0 zahradninabytekjysk.sbs
+0.0.0.0 zahradnizidle.sbs
 0.0.0.0 zaicasoawoul.com
 0.0.0.0 zaid-khan.tech
 0.0.0.0 zaido.me
