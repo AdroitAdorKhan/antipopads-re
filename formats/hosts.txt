@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.007
 # Release: 007
-# Entries: 113,578
-# Updated: Sun, 07 Jan 24 02:08:31 +06
+# Entries: 113,580
+# Updated: Sun, 07 Jan 24 04:08:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -88954,6 +88954,7 @@
 0.0.0.0 utationforh.buzz
 0.0.0.0 utcatholicycl.co
 0.0.0.0 utcbmihqmu.com
+0.0.0.0 utchraffe.uno
 0.0.0.0 utdgowhesmtm.com
 0.0.0.0 utdtnyxfu.com
 0.0.0.0 utdwtleyycavnj.top
@@ -89972,6 +89973,7 @@
 0.0.0.0 vernonsales.net
 0.0.0.0 vernonsales.us
 0.0.0.0 veronahead.com
+0.0.0.0 veronalfeering.uno
 0.0.0.0 veronalhaf.com
 0.0.0.0 veronicasverden.net
 0.0.0.0 veronicavalentine.com
