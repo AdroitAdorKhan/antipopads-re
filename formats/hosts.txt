@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.006
 # Release: 006
-# Entries: 113,508
-# Updated: Sat, 06 Jan 24 20:09:46 +06
+# Entries: 113,515
+# Updated: Sat, 06 Jan 24 22:32:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7503,6 +7503,7 @@
 0.0.0.0 apiecemild.com
 0.0.0.0 apieceshapedsurgery.com
 0.0.0.0 apiemb.xyz
+0.0.0.0 apifree.net
 0.0.0.0 apihb.com
 0.0.0.0 apillangoslanyphotography.com
 0.0.0.0 apinagedottard.cfd
@@ -31802,6 +31803,7 @@
 0.0.0.0 fluencexl.app
 0.0.0.0 fluencexl.com
 0.0.0.0 fluencydepressing.com
+0.0.0.0 fluencyhype.com
 0.0.0.0 fluencymister.com
 0.0.0.0 fluencythingy.com
 0.0.0.0 fluentlydeadlineski.com
@@ -31940,6 +31942,7 @@
 0.0.0.0 fntch.org
 0.0.0.0 fntfesheoykg.com
 0.0.0.0 fntlyenclothe.xyz
+0.0.0.0 fntphihy.com
 0.0.0.0 fntvccjbnvku.com
 0.0.0.0 fnucqgskdh.top
 0.0.0.0 fnuvsfyylouxwu.com
@@ -51300,6 +51303,7 @@
 0.0.0.0 ly.rebuffsoverhot.com
 0.0.0.0 ly.winzevrocht.com
 0.0.0.0 lyabwkvqrg.xyz
+0.0.0.0 lybgzqbuopv.com
 0.0.0.0 lybunbacwf.com
 0.0.0.0 lycernaavufxrg.xyz
 0.0.0.0 lycfrrmoej.com
@@ -69575,6 +69579,7 @@
 0.0.0.0 raosmeac.net
 0.0.0.0 raotuufapv.com
 0.0.0.0 raoulraids.com
+0.0.0.0 rapacesalewife.guru
 0.0.0.0 rapaneaphoma.com
 0.0.0.0 rapanearozzer.cfd
 0.0.0.0 rapbrasileiro.com
@@ -95796,6 +95801,7 @@
 0.0.0.0 www.apesdescriptionprojects.com
 0.0.0.0 www.apesdrooping.com
 0.0.0.0 www.apieceshapedsurgery.com
+0.0.0.0 www.apifree.net
 0.0.0.0 www.apihb.com
 0.0.0.0 www.apinhambane.com
 0.0.0.0 www.aplisoft-ided.com
@@ -100054,6 +100060,7 @@
 0.0.0.0 www.flowngas.com
 0.0.0.0 www.flowshaft.com
 0.0.0.0 www.fluencydepressing.com
+0.0.0.0 www.fluencyhype.com
 0.0.0.0 www.fluencythingy.com
 0.0.0.0 www.fluffynickname.com
 0.0.0.0 www.fluiddejected.com
