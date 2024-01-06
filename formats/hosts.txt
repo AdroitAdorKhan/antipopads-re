@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.006
 # Release: 006
-# Entries: 113,347
-# Updated: Sat, 06 Jan 24 06:44:06 +06
+# Entries: 113,349
+# Updated: Sat, 06 Jan 24 08:08:57 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -83819,6 +83819,7 @@
 0.0.0.0 thugsponsor.com
 0.0.0.0 thujo.com
 0.0.0.0 thuliagum.com
+0.0.0.0 thulir.com
 0.0.0.0 thully.com
 0.0.0.0 thulrlidos.com
 0.0.0.0 thumac.com
@@ -93396,6 +93397,7 @@
 0.0.0.0 wirratailage.com
 0.0.0.0 wirrttnlmumsak.xyz
 0.0.0.0 wirsauco.com
+0.0.0.0 wirvvtxtvejajjy.xyz
 0.0.0.0 wirwastine.digital
 0.0.0.0 wisataponggok.com
 0.0.0.0 wisconsin-civil-rights.com
