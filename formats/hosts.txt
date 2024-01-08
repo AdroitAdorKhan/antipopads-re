@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.008
 # Release: 008
-# Entries: 113,763
-# Updated: Mon, 08 Jan 24 06:38:07 +06
+# Entries: 113,767
+# Updated: Mon, 08 Jan 24 08:08:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -66302,6 +66302,7 @@
 0.0.0.0 pqura.com
 0.0.0.0 pqwlrhtrlywj.com
 0.0.0.0 pqxbcydpv.xyz
+0.0.0.0 pqxgktvixby.com
 0.0.0.0 pqxtech.com
 0.0.0.0 pqyvtsrw.com
 0.0.0.0 pr.frecketbouser.com
@@ -66642,6 +66643,7 @@
 0.0.0.0 prezzopillole.com
 0.0.0.0 prfctmney.com
 0.0.0.0 prfpktammbj.xyz
+0.0.0.0 prfredbuck.top
 0.0.0.0 prftonnes.com
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 prgmt.com
@@ -69180,6 +69182,7 @@
 0.0.0.0 qumjvvnevymienv.com
 0.0.0.0 qummafsivff.com
 0.0.0.0 qumrrprfhkvcy.com
+0.0.0.0 qumtmljygqvxc.xyz
 0.0.0.0 quntvcuqirawaqv.com
 0.0.0.0 quoisy.com
 0.0.0.0 quokkacheeks.com
@@ -75872,6 +75875,7 @@
 0.0.0.0 shatsalt.com
 0.0.0.0 shatterconceal.com
 0.0.0.0 shattermessseedling.com
+0.0.0.0 shaudio.space
 0.0.0.0 shaufoal.com
 0.0.0.0 shauhacm.net
 0.0.0.0 shauhaik.xyz
