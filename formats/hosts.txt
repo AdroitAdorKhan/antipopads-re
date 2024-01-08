@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.01.008
-# Release: 008
-# Entries: 113,816
-# Updated: Mon, 08 Jan 24 22:31:54 +06
+# Version: 24.01.009
+# Release: 009
+# Entries: 113,817
+# Updated: Tue, 09 Jan 24 00:10:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5071,6 +5071,7 @@
 0.0.0.0 aftpjkjpxns.com
 0.0.0.0 aftqhamina.com
 0.0.0.0 aftrangale.com
+0.0.0.0 afvwwjcplvq.com
 0.0.0.0 afwkdjmh.xyz
 0.0.0.0 afxbukwbcnum.com
 0.0.0.0 afxokeqdrnnm.xyz
