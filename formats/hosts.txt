@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.008
 # Release: 008
-# Entries: 113,788
-# Updated: Mon, 08 Jan 24 14:36:43 +06
+# Entries: 113,790
+# Updated: Mon, 08 Jan 24 16:08:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -34097,6 +34097,7 @@
 0.0.0.0 ge.upbelchwarman.com
 0.0.0.0 gearleaveessence.com
 0.0.0.0 gearsora.com
+0.0.0.0 gearyill.website
 0.0.0.0 geazjxqwbr.com
 0.0.0.0 gebadu.com
 0.0.0.0 gebsgnhb.xyz
@@ -36777,6 +36778,7 @@
 0.0.0.0 grumrionzgu.com
 0.0.0.0 grungertsersew.com
 0.0.0.0 grunoaph.net
+0.0.0.0 grunthhyoides.guru
 0.0.0.0 grupdeteatredebiniamar.com
 0.0.0.0 grupif.com
 0.0.0.0 grupkxfhi.com
