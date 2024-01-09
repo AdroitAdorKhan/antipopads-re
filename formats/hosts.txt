@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.009
 # Release: 009
-# Entries: 113,945
-# Updated: Tue, 09 Jan 24 12:08:46 +06
+# Entries: 113,971
+# Updated: Tue, 09 Jan 24 14:24:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -719,10 +719,12 @@
 0.0.0.0 1win-casino-games.cfd
 0.0.0.0 1win-casino-registration.cfd
 0.0.0.0 1win-casino-site.cyou
+0.0.0.0 1win-casinoz-club.cfd
 0.0.0.0 1win-game-slots.cfd
 0.0.0.0 1win-igrovie-avtomaty.icu
 0.0.0.0 1win-kasinoz.cfd
 0.0.0.0 1win-mirror.cfd
+0.0.0.0 1win-officialsite-casinos.cfd
 0.0.0.0 1win-slotz.cfd
 0.0.0.0 1wincasino-officialsite.cfd
 0.0.0.0 1wincasinoz-register.cfd
@@ -5515,6 +5517,7 @@
 0.0.0.0 ailtumty.net
 0.0.0.0 ailwayssteverin.com
 0.0.0.0 aimaffability.com
+0.0.0.0 aimaginer.com
 0.0.0.0 aimairou.net
 0.0.0.0 aimatch.com
 0.0.0.0 aimazing.blog
@@ -6709,6 +6712,7 @@
 0.0.0.0 ammits.com
 0.0.0.0 ammomanusa.com
 0.0.0.0 ammoseekshop.com
+0.0.0.0 ammucz.cfd
 0.0.0.0 ammudridder.space
 0.0.0.0 ammunitionconsiderinstitution.com
 0.0.0.0 amnestycredentialsapple.com
@@ -12342,6 +12346,7 @@
 0.0.0.0 bigrourg.net
 0.0.0.0 bigscaner-help.shop
 0.0.0.0 bigskyaerial.org
+0.0.0.0 bigsnowshop.com
 0.0.0.0 bigspik.com
 0.0.0.0 bigsport.today
 0.0.0.0 bigstealbox.com
@@ -14666,6 +14671,7 @@
 0.0.0.0 buckleadjustedwise.com
 0.0.0.0 buckmorekidskarting.com
 0.0.0.0 buckrashipped.uno
+0.0.0.0 bucks-capital.com
 0.0.0.0 buckspanuelo.com
 0.0.0.0 buckupbuttercup.net
 0.0.0.0 buckwheatcensusopener.com
@@ -14907,6 +14913,7 @@
 0.0.0.0 burgerdc.com
 0.0.0.0 burgerjolly.com
 0.0.0.0 burgerking.ru
+0.0.0.0 burgermeisterburgers.com
 0.0.0.0 burgerrelationscrash.com
 0.0.0.0 burgerschool.in
 0.0.0.0 burginfestivals.com
@@ -15739,6 +15746,7 @@
 0.0.0.0 candyprotected.com
 0.0.0.0 candyschoolmasterbullying.com
 0.0.0.0 cane4thebrain.com
+0.0.0.0 canebrakeexpress.com
 0.0.0.0 canellecrazy.com
 0.0.0.0 canepadesign.net
 0.0.0.0 canesophiahad.com
@@ -16250,6 +16258,7 @@
 0.0.0.0 casualproof.com
 0.0.0.0 casualtyinflate.com
 0.0.0.0 casualweddingdresses.net
+0.0.0.0 catafornia.com
 0.0.0.0 cataleyaflowers.com
 0.0.0.0 catalogs-part.ru
 0.0.0.0 catalogueinfectionbarbarian.com
@@ -17271,6 +17280,7 @@
 0.0.0.0 chbvrgjgkuv.com
 0.0.0.0 chcapdxxqgwkve.xyz
 0.0.0.0 chccanada.ca
+0.0.0.0 chcembyvanie.online
 0.0.0.0 chci.party
 0.0.0.0 chci.shop
 0.0.0.0 chcibiznis.online
@@ -21037,6 +21047,7 @@
 0.0.0.0 cryptobandor.com
 0.0.0.0 cryptobankin.org
 0.0.0.0 cryptocexchange.online
+0.0.0.0 cryptocitizens.world
 0.0.0.0 cryptoconnect.pro
 0.0.0.0 cryptoethica.com
 0.0.0.0 cryptoethica.io
@@ -21639,6 +21650,7 @@
 0.0.0.0 cyberchallege.it
 0.0.0.0 cybercontractlaw.com
 0.0.0.0 cyberdigital.in
+0.0.0.0 cyberelephantz.com
 0.0.0.0 cyberglobal.in
 0.0.0.0 cyberiosec.com
 0.0.0.0 cyberkeys.online
@@ -24404,6 +24416,7 @@
 0.0.0.0 diversityspaceship.com
 0.0.0.0 divertbywordinjustice.com
 0.0.0.0 divibarber.com
+0.0.0.0 dividebyzero.cloud
 0.0.0.0 dividedbecameinquisitive.com
 0.0.0.0 dividedching.com
 0.0.0.0 dividedkidblur.com
@@ -25900,6 +25913,7 @@
 0.0.0.0 dumbbellsi.biz
 0.0.0.0 dumbboutiquealmond.com
 0.0.0.0 dumbclerkwow.com
+0.0.0.0 dumbdumbpops.com
 0.0.0.0 dumbi.io
 0.0.0.0 dumbpop.com
 0.0.0.0 dummieseardrum.com
@@ -26090,6 +26104,7 @@
 0.0.0.0 dwrpelyef.xyz
 0.0.0.0 dwtjiqui.digital
 0.0.0.0 dwund.yt
+0.0.0.0 dwvbfnqrbif.com
 0.0.0.0 dwwboxlnrlek.xyz
 0.0.0.0 dwwjlvpja.com
 0.0.0.0 dwwpofwebdwm.com
@@ -37632,6 +37647,7 @@
 0.0.0.0 hansinluck.com
 0.0.0.0 hanstepsschoolofnursing.com
 0.0.0.0 hanstransportation.org
+0.0.0.0 haode.cfd
 0.0.0.0 haodifang5.com
 0.0.0.0 haofamily.net
 0.0.0.0 haofotlog.com
@@ -49314,6 +49330,7 @@
 0.0.0.0 leomedical.ca
 0.0.0.0 leomedical.us
 0.0.0.0 leonidwolvers.com
+0.0.0.0 leonieprice.com
 0.0.0.0 leonisfund.com
 0.0.0.0 leonodikeu9sj10.com
 0.0.0.0 leontius-eli.com
@@ -52819,6 +52836,7 @@
 0.0.0.0 mathscrayonreference.com
 0.0.0.0 matic-technology.network
 0.0.0.0 matic.art
+0.0.0.0 matijamazi.net
 0.0.0.0 matijazepic.com
 0.0.0.0 matildawu.online
 0.0.0.0 mation.xyz
@@ -56982,6 +57000,7 @@
 0.0.0.0 natchaugschool.org
 0.0.0.0 natcreativeide.info
 0.0.0.0 natehewsona.com
+0.0.0.0 natesbuttfarm.com
 0.0.0.0 nathanaeldan.pro
 0.0.0.0 nathusrdc.com
 0.0.0.0 natifulfradding.com
@@ -73411,6 +73430,7 @@
 0.0.0.0 rxxwwkdakqgl.top
 0.0.0.0 rxyibxyxwjfknfj.com
 0.0.0.0 ry.sturteheaping.com
+0.0.0.0 ryacourse.com
 0.0.0.0 ryanedwardscrewe.com
 0.0.0.0 ryanfrqxjl.com
 0.0.0.0 ryange.com
@@ -80284,6 +80304,7 @@
 0.0.0.0 strodeewesmug.com
 0.0.0.0 strodemorallyhump.com
 0.0.0.0 strodesoot.com
+0.0.0.0 strojeonline.online
 0.0.0.0 strokeshow.com
 0.0.0.0 strollcurepinching.com
 0.0.0.0 strollonconcrete.com
@@ -83411,6 +83432,7 @@
 0.0.0.0 thedigitalmaniac.online
 0.0.0.0 thedigitalstructure.com
 0.0.0.0 thedirtytongue.com
+0.0.0.0 thedonestdon.space
 0.0.0.0 thedostieasternbay.in
 0.0.0.0 thedotus.com
 0.0.0.0 thedreamforestfarms.com
@@ -85870,6 +85892,7 @@
 0.0.0.0 tradeconceivablehardness.com
 0.0.0.0 tradecraftcandle.com
 0.0.0.0 tradecryptocoins.tech
+0.0.0.0 tradecryptosafely.com
 0.0.0.0 tradeforexlikeaboss.co.uk
 0.0.0.0 tradeinbox.uk
 0.0.0.0 tradeinvesthub.com
@@ -88076,6 +88099,7 @@
 0.0.0.0 ulhsslmi.top
 0.0.0.0 ulhvauml.com
 0.0.0.0 uliamvdcvjomay.xyz
+0.0.0.0 uliconpyjamas.uno
 0.0.0.0 uliege-univ.be
 0.0.0.0 uljfmdyyu.com
 0.0.0.0 ullingsubzone.website
@@ -91814,6 +91838,7 @@
 0.0.0.0 vuksew12.com
 0.0.0.0 vukticlataf.com
 0.0.0.0 vukvrinitfug.com
+0.0.0.0 vulcan-cazinos.cfd
 0.0.0.0 vulcan-vegas-casino.cfd
 0.0.0.0 vulcancollaborative.com
 0.0.0.0 vulcanmillion.cfd
@@ -98934,6 +98959,7 @@
 0.0.0.0 www.deservessafety.com
 0.0.0.0 www.deshourty.com
 0.0.0.0 www.designatejay.com
+0.0.0.0 www.designatemeddling.com
 0.0.0.0 www.designawardsglobal.com
 0.0.0.0 www.designerdeclinedfrail.com
 0.0.0.0 www.designinnovationinteriors.com
