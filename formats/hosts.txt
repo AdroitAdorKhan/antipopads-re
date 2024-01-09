@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.009
 # Release: 009
-# Entries: 113,981
-# Updated: Tue, 09 Jan 24 18:08:51 +06
+# Entries: 113,986
+# Updated: Tue, 09 Jan 24 20:11:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9636,6 +9636,7 @@
 0.0.0.0 avtfhavgjctpqy.xyz
 0.0.0.0 avtklwruejfr.com
 0.0.0.0 avto-moto.net
+0.0.0.0 avto-ticket.com
 0.0.0.0 avtoleasing.com
 0.0.0.0 avtomobili.pro
 0.0.0.0 avtomoto.net
@@ -25763,6 +25764,7 @@
 0.0.0.0 dti.icu
 0.0.0.0 dtia.com.au
 0.0.0.0 dtiwijuydvjt.com
+0.0.0.0 dtkhbsictxpu.com
 0.0.0.0 dtljndnkfmbbi.com
 0.0.0.0 dtmvpkn.com
 0.0.0.0 dtnacqswcieufy.com
@@ -56642,6 +56644,7 @@
 0.0.0.0 myvisionmedicalus.com
 0.0.0.0 myvpbvits.com
 0.0.0.0 mywatch.com.co
+0.0.0.0 mywear.pro
 0.0.0.0 mywebchat.app
 0.0.0.0 mywebsavior.com
 0.0.0.0 myweedwire.info
@@ -65664,6 +65667,7 @@
 0.0.0.0 pntmsusafa.com
 0.0.0.0 pnubohvvydzzku.com
 0.0.0.0 pnufsyrqorfgne.xyz
+0.0.0.0 pnufzbzzomt.com
 0.0.0.0 pnuhondppw.com
 0.0.0.0 pnuval.org
 0.0.0.0 pnuvvegovetlhry.com
@@ -104115,6 +104119,7 @@
 0.0.0.0 www.mythostrategies.com
 0.0.0.0 www.mytinkerbox.net
 0.0.0.0 www.mytrijobs.com
+0.0.0.0 www.mywear.pro
 0.0.0.0 www.mywebchat.app
 0.0.0.0 www.myweedwire.info
 0.0.0.0 www.mywipro.wipro.in
