@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.010
 # Release: 010
-# Entries: 114,141
-# Updated: Wed, 10 Jan 24 18:35:39 +06
+# Entries: 114,148
+# Updated: Wed, 10 Jan 24 20:11:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20574,6 +20574,7 @@
 0.0.0.0 cpsult.com
 0.0.0.0 cpsvbyveawikgh.xyz
 0.0.0.0 cptroux.com
+0.0.0.0 cptstaller.space
 0.0.0.0 cpuim.com
 0.0.0.0 cpulstknsdrw.com
 0.0.0.0 cpvads.com
@@ -23772,6 +23773,7 @@
 0.0.0.0 dicomics.com
 0.0.0.0 dicotrebill.digital
 0.0.0.0 dicouksa.com
+0.0.0.0 dicreativeideas.org
 0.0.0.0 dicrol.com
 0.0.0.0 dictatepantry.com
 0.0.0.0 dictatepursemistake.com
@@ -36995,6 +36997,7 @@
 0.0.0.0 gtoonfd.com
 0.0.0.0 gtosmdjgn.xyz
 0.0.0.0 gtp87.com
+0.0.0.0 gtqinqmhyscgsx.com
 0.0.0.0 gtrd.xyz
 0.0.0.0 gtrgroupny.com
 0.0.0.0 gtrgroupus.com
@@ -38749,6 +38752,7 @@
 0.0.0.0 hfbcjjdegnluw.com
 0.0.0.0 hfc195b.com
 0.0.0.0 hfdsxtlky.com
+0.0.0.0 hfeoveukrn.info
 0.0.0.0 hffdjxnyxckf.xyz
 0.0.0.0 hffxc.com
 0.0.0.0 hfggttxptxwdmb.com
@@ -53568,6 +53572,7 @@
 0.0.0.0 mejorservicio.link
 0.0.0.0 mekiroki.com
 0.0.0.0 mekiroki.org
+0.0.0.0 meksicie.net
 0.0.0.0 mekstolande.com
 0.0.0.0 melamask.online
 0.0.0.0 melancholicmind.com
@@ -112499,6 +112504,7 @@
 0.0.0.0 yongyongmalden.com
 0.0.0.0 yonhelioliskor.com
 0.0.0.0 yonipower.art
+0.0.0.0 yoniskurt.digital
 0.0.0.0 yoniwigs.com
 0.0.0.0 yoniyin.com
 0.0.0.0 yonkerhallier.com
@@ -113674,6 +113680,7 @@
 0.0.0.0 zineddine-links.tech
 0.0.0.0 zinganosesqui.store
 0.0.0.0 zingedjingko.top
+0.0.0.0 zinipx.xyz
 0.0.0.0 zinmnubj1cfr.com
 0.0.0.0 zinputs.com
 0.0.0.0 zinrora.pw
