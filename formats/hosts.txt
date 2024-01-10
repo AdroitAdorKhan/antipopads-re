@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.010
 # Release: 010
-# Entries: 114,047
-# Updated: Wed, 10 Jan 24 10:08:55 +06
+# Entries: 114,093
+# Updated: Wed, 10 Jan 24 12:37:01 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -538,6 +538,7 @@
 0.0.0.0 1bet1.kim
 0.0.0.0 1bet1.uk
 0.0.0.0 1betandgonow.com
+0.0.0.0 1blogai.com
 0.0.0.0 1bm3n8sld.de
 0.0.0.0 1buxie.com
 0.0.0.0 1bytebutterfly.com
@@ -4713,6 +4714,7 @@
 0.0.0.0 advokationline.space
 0.0.0.0 advokatonline.info
 0.0.0.0 advokatonline.space
+0.0.0.0 advokatskoe-delo.com
 0.0.0.0 advomation.com
 0.0.0.0 advonic.net
 0.0.0.0 advotionhot.com
@@ -5295,6 +5297,7 @@
 0.0.0.0 agrivetca.com
 0.0.0.0 agriyantra.in
 0.0.0.0 agrobetter.com
+0.0.0.0 agroblk.com
 0.0.0.0 agroesfera.es
 0.0.0.0 agroposhuk.com
 0.0.0.0 agrospire.com
@@ -8128,6 +8131,7 @@
 0.0.0.0 arithmeticrobust.com
 0.0.0.0 arithmeticshovel.com
 0.0.0.0 arithpouted.com
+0.0.0.0 ariyaex.com
 0.0.0.0 arizona-new.com
 0.0.0.0 arizona.edu
 0.0.0.0 arizonapropertymaintenance.us
@@ -10150,6 +10154,7 @@
 0.0.0.0 babcihmb.com
 0.0.0.0 baberas.top
 0.0.0.0 babfdicktnodx.xyz
+0.0.0.0 babianaapse.uno
 0.0.0.0 babiestchou.com
 0.0.0.0 babijos.top
 0.0.0.0 babinjectbother.com
@@ -12062,6 +12067,7 @@
 0.0.0.0 bg.modulohanafi.com
 0.0.0.0 bg4nxu2u5t.com
 0.0.0.0 bg6s0.com
+0.0.0.0 bgankofamerica.com
 0.0.0.0 bgbcb.xyz
 0.0.0.0 bgcnl.com
 0.0.0.0 bgcold.com
@@ -16187,6 +16193,7 @@
 0.0.0.0 cashwin.store
 0.0.0.0 casie.top
 0.0.0.0 casinal.com
+0.0.0.0 casino-1-win.cfd
 0.0.0.0 casino-1win.cfd
 0.0.0.0 casino-champions.cfd
 0.0.0.0 casino-frank.cfd
@@ -18666,6 +18673,7 @@
 0.0.0.0 clsuefegstkegkj.com
 0.0.0.0 clt20.com
 0.0.0.0 cltmfstu.com
+0.0.0.0 club-admiral-casino.cfd
 0.0.0.0 club-india.gives
 0.0.0.0 club-kinogo.ru
 0.0.0.0 club-ppp.org
@@ -18961,6 +18969,7 @@
 0.0.0.0 codeinagugal.com
 0.0.0.0 codeinssomdel.uno
 0.0.0.0 codeland.fun
+0.0.0.0 codeless.ninja
 0.0.0.0 codematrixsolutions.com
 0.0.0.0 codenames.game
 0.0.0.0 codencouragehumid.com
@@ -23364,6 +23373,7 @@
 0.0.0.0 detectscoset.com
 0.0.0.0 detectvid.com
 0.0.0.0 detectys.digital
+0.0.0.0 detergm.com
 0.0.0.0 deterioratebinheadphone.com
 0.0.0.0 deteriorateelliotcounting.com
 0.0.0.0 deterioratenor.com
@@ -24731,6 +24741,7 @@
 0.0.0.0 dnsorchestrator.com
 0.0.0.0 dnsparking.xyz
 0.0.0.0 dnsservers.xyz
+0.0.0.0 dnstavitel.com
 0.0.0.0 dnstest4000.com
 0.0.0.0 dnswinq.com
 0.0.0.0 dntaiiifdbwno.com
@@ -26466,6 +26477,7 @@
 0.0.0.0 eastrk-lg.com
 0.0.0.0 easttexasflexspace.com
 0.0.0.0 eastwestice.com
+0.0.0.0 eastwestsaving.com
 0.0.0.0 easurf.com
 0.0.0.0 easurg.com
 0.0.0.0 easy-ad-blocker.net
@@ -29334,6 +29346,7 @@
 0.0.0.0 evieshouseoftravel.online
 0.0.0.0 eviety.com
 0.0.0.0 evifokcrmhdmai.com
+0.0.0.0 evilamgel.com
 0.0.0.0 evilhost24eifvco.com
 0.0.0.0 evilhostd1f0h2qo.com
 0.0.0.0 evilhostgxkamtkd.com
@@ -31521,6 +31534,7 @@
 0.0.0.0 fitdnteushda.com
 0.0.0.0 fitfance.com
 0.0.0.0 fitkart.net
+0.0.0.0 fitkat.online
 0.0.0.0 fitment.life
 0.0.0.0 fitmood.online
 0.0.0.0 fitness.education
@@ -32222,6 +32236,7 @@
 0.0.0.0 foocheeb.net
 0.0.0.0 food4shrimp.com
 0.0.0.0 foodandmusicfest.com
+0.0.0.0 foodbanksconference.ca
 0.0.0.0 fooddarwar.in
 0.0.0.0 fooddesigns.net
 0.0.0.0 foodequipmentservicesolutions.com
@@ -33891,6 +33906,7 @@
 0.0.0.0 garden-flag.org
 0.0.0.0 gardencarport.info
 0.0.0.0 gardenconsultant.us
+0.0.0.0 gardenhandcultivator.com
 0.0.0.0 gardeningbristol.uk
 0.0.0.0 gardeninginbristol.co.uk
 0.0.0.0 gardeningraritysometime.com
@@ -34658,6 +34674,7 @@
 0.0.0.0 gg.provenneback.com
 0.0.0.0 ggalaxy.online
 0.0.0.0 ggav5.xyz
+0.0.0.0 ggbet-casino-bezdep-bonus.cfd
 0.0.0.0 ggbet-casino-mirror.cfd
 0.0.0.0 ggbet-mirror.cfd
 0.0.0.0 ggbet-registration.icu
@@ -35628,6 +35645,7 @@
 0.0.0.0 goddamnhowks.tech
 0.0.0.0 goddessclad.com
 0.0.0.0 goddesslevityark.com
+0.0.0.0 godebtfreeab.ca
 0.0.0.0 godebtfreeab.com
 0.0.0.0 godebtfreemb.com
 0.0.0.0 godebtfreenewfoundland.com
@@ -35775,6 +35793,7 @@
 0.0.0.0 godspeaks.net
 0.0.0.0 godsroyalwomen.us
 0.0.0.0 godwitescrol.com
+0.0.0.0 godzilak.info
 0.0.0.0 goeazy.store
 0.0.0.0 goelagency.in
 0.0.0.0 goelbotony.com
@@ -41325,6 +41344,7 @@
 0.0.0.0 igrnkokvclemmv.xyz
 0.0.0.0 igroazie.com
 0.0.0.0 igrooveatwake.org
+0.0.0.0 igrovie-avtomaty-casino.cfd
 0.0.0.0 igrseblyyo.com
 0.0.0.0 igsaplayonline.com
 0.0.0.0 igspcspices.com
@@ -42299,6 +42319,7 @@
 0.0.0.0 informantbartonharass.com
 0.0.0.0 informaticaperez.com
 0.0.0.0 informationservices.dev
+0.0.0.0 informehedonai.com
 0.0.0.0 informereng.com
 0.0.0.0 informeresapp.com
 0.0.0.0 informflaskfiction.com
@@ -42419,6 +42440,7 @@
 0.0.0.0 inkfeedmausoleum.com
 0.0.0.0 inkhoot.in
 0.0.0.0 inkingleran.com
+0.0.0.0 inkingsrelap.digital
 0.0.0.0 inkinpeace.com
 0.0.0.0 inklestutted.com
 0.0.0.0 inklinkor.com
@@ -45074,6 +45096,7 @@
 0.0.0.0 jobkart.us
 0.0.0.0 joblelo.online
 0.0.0.0 joblouder.com
+0.0.0.0 jobly.info
 0.0.0.0 jobs4skilled.com
 0.0.0.0 jobs4students.org
 0.0.0.0 jobsapp.me
@@ -47501,6 +47524,7 @@
 0.0.0.0 kojmrbun.com
 0.0.0.0 kokankatta.net
 0.0.0.0 kokanmokum.tech
+0.0.0.0 kokino.dog
 0.0.0.0 kokkekniven.com
 0.0.0.0 koko01.com
 0.0.0.0 kokofy.in
@@ -50246,6 +50270,7 @@
 0.0.0.0 lixsbdifa.com
 0.0.0.0 lixuhwuwychupbd.com
 0.0.0.0 lizapaisan.com
+0.0.0.0 lizard-lab.com
 0.0.0.0 lizasparovec.com
 0.0.0.0 lizbetallen.com
 0.0.0.0 lizebruisiaculi.info
@@ -52140,6 +52165,7 @@
 0.0.0.0 makogsqigg.com
 0.0.0.0 makotruong.live
 0.0.0.0 makqfcvs.com
+0.0.0.0 makrohosting.com
 0.0.0.0 makrokutak.net
 0.0.0.0 makspeedtech.net
 0.0.0.0 makucoca.com
@@ -53111,6 +53137,7 @@
 0.0.0.0 mckennaengineering.org
 0.0.0.0 mckensecuryr.info
 0.0.0.0 mckensson.com
+0.0.0.0 mckerry.ca
 0.0.0.0 mcknifcxvgjlcw.com
 0.0.0.0 mcknightrock.com
 0.0.0.0 mckstfbxqp.com
@@ -53669,6 +53696,7 @@
 0.0.0.0 merchenta.com
 0.0.0.0 merchetdigest.guru
 0.0.0.0 merchfocus.com
+0.0.0.0 merchino.net
 0.0.0.0 merchli.com
 0.0.0.0 merchrankled.space
 0.0.0.0 mercialtaver.club
@@ -55686,6 +55714,7 @@
 0.0.0.0 mrareljqr.com
 0.0.0.0 mraunfdugk.com
 0.0.0.0 mrawhypk.com
+0.0.0.0 mraz-logistics.com
 0.0.0.0 mraza2dosa.com
 0.0.0.0 mrbadminton.ca
 0.0.0.0 mrbunny2020.com
@@ -56364,6 +56393,7 @@
 0.0.0.0 mycrowncollection.net
 0.0.0.0 mycryptotax.net
 0.0.0.0 mycryptotax.us
+0.0.0.0 mycsgo.cfd
 0.0.0.0 mycuhovuukw.com
 0.0.0.0 mycurrentview.com
 0.0.0.0 mycusgaue.com
@@ -58376,6 +58406,7 @@
 0.0.0.0 nirmalagroup.co.in
 0.0.0.0 nirvaanenterprises.in
 0.0.0.0 nirvana.healthcare
+0.0.0.0 nirvanatreatment.com
 0.0.0.0 nirveid.com
 0.0.0.0 nisharagroupofinstitutions.com
 0.0.0.0 nisireals.com
@@ -63198,6 +63229,7 @@
 0.0.0.0 paservices.tech
 0.0.0.0 pasgfeaqdo.com
 0.0.0.0 pashmfordeal.com
+0.0.0.0 pashnuchae.website
 0.0.0.0 pashtoinjil.com
 0.0.0.0 pashtoinjil.org
 0.0.0.0 pashupe.com
@@ -64346,6 +64378,7 @@
 0.0.0.0 phardain.xyz
 0.0.0.0 pharmacchoice.com
 0.0.0.0 pharmacieduguil.fr
+0.0.0.0 pharmacietop.com
 0.0.0.0 pharmacyinbox.uk
 0.0.0.0 pharmacymachine.org
 0.0.0.0 pharmcash.com
@@ -65631,6 +65664,7 @@
 0.0.0.0 pmas-inc.ca
 0.0.0.0 pmc1201.com
 0.0.0.0 pmdnditvte.com
+0.0.0.0 pmeduca.com
 0.0.0.0 pmeqcvwcvsfdg.com
 0.0.0.0 pmetorealiukze.xyz
 0.0.0.0 pmeuehivfps.com
@@ -73876,6 +73910,7 @@
 0.0.0.0 salineiloko.life
 0.0.0.0 salishcoenact.com
 0.0.0.0 salivanmobster.com
+0.0.0.0 salkantayhike.com
 0.0.0.0 salloohoelike.website
 0.0.0.0 sallyfundamental.com
 0.0.0.0 sallyoxenstops.com
@@ -74760,6 +74795,7 @@
 0.0.0.0 sdacford.com
 0.0.0.0 sdasasyydd.com
 0.0.0.0 sdbvveonb1.com
+0.0.0.0 sdcl.ca
 0.0.0.0 sddan.com
 0.0.0.0 sddclssws.com
 0.0.0.0 sddhdd.com
@@ -77590,6 +77626,7 @@
 0.0.0.0 sloqdpxkvpcalb.com
 0.0.0.0 slot-cyprus.online
 0.0.0.0 slot-machines-canada.online
+0.0.0.0 slot-v-kasinos.cfd
 0.0.0.0 slotanado.com
 0.0.0.0 slothsecurity.space
 0.0.0.0 slothslove4ever.com
@@ -78637,6 +78674,7 @@
 0.0.0.0 sotetahe.pro
 0.0.0.0 sottagejalur.uno
 0.0.0.0 sou.run
+0.0.0.0 souffloutoven.digital
 0.0.0.0 soughtcharity.com
 0.0.0.0 souglaur.xyz
 0.0.0.0 souhila-shd-account-security.tech
@@ -86582,6 +86620,7 @@
 0.0.0.0 tritishnowy.live
 0.0.0.0 tritomee.xyz
 0.0.0.0 triumdesigns.in
+0.0.0.0 triumph-casinos.cfd
 0.0.0.0 triumphantadvantage.com
 0.0.0.0 triumphantfreelance.com
 0.0.0.0 triumphantplace.com
@@ -88191,6 +88230,7 @@
 0.0.0.0 ultanceev.com
 0.0.0.0 ulteegol.com
 0.0.0.0 ultima-lab.com
+0.0.0.0 ultimacoin.net
 0.0.0.0 ultimate-captcha.com
 0.0.0.0 ultimatecracks.org
 0.0.0.0 ultimatedatasource.in
@@ -89749,6 +89789,7 @@
 0.0.0.0 vaisnavicourier.com
 0.0.0.0 vaithodo.com
 0.0.0.0 vaitotoo.net
+0.0.0.0 vajomicao.online
 0.0.0.0 vak345.com
 0.0.0.0 vakghopi.xyz
 0.0.0.0 vakhraswag.com
@@ -90024,6 +90065,7 @@
 0.0.0.0 vavada-free.icu
 0.0.0.0 vavada-go.xyz
 0.0.0.0 vavada-kazino.cyou
+0.0.0.0 vavada-mirror-now.cfd
 0.0.0.0 vavada-official-mirror.cfd
 0.0.0.0 vavaglfpxlncrjw.com
 0.0.0.0 vavcashpop.com
@@ -90599,6 +90641,7 @@
 0.0.0.0 viableconferfitting.com
 0.0.0.0 viacej.info
 0.0.0.0 viaeatsdhpt.com
+0.0.0.0 viaestehair.com
 0.0.0.0 viaexploudtor.com
 0.0.0.0 viagengarr.com
 0.0.0.0 viaggidelsanto.it
@@ -91903,6 +91946,7 @@
 0.0.0.0 vukticlataf.com
 0.0.0.0 vukvrinitfug.com
 0.0.0.0 vulcan-cazinos.cfd
+0.0.0.0 vulcan-jackpot.cfd
 0.0.0.0 vulcan-vegas-casino.cfd
 0.0.0.0 vulcancollaborative.com
 0.0.0.0 vulcanmillion.cfd
@@ -94262,6 +94306,7 @@
 0.0.0.0 wmober.com
 0.0.0.0 wmolgnjo.xyz
 0.0.0.0 wmonthsaft.biz
+0.0.0.0 wmoxsdqxeoarfcy.com
 0.0.0.0 wmpjhifadkgsciq.com
 0.0.0.0 wmpset.com
 0.0.0.0 wmptcd.com
@@ -95005,6 +95050,7 @@
 0.0.0.0 wukoopicee.com
 0.0.0.0 wukpkgqcjnuhao.xyz
 0.0.0.0 wuksosta.com
+0.0.0.0 wulkan-neon-casino.cfd
 0.0.0.0 wulkan-on-money.cfd
 0.0.0.0 wullielouts.live
 0.0.0.0 wumpakuw.net
