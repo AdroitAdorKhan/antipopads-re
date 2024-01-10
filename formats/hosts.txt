@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.011
 # Release: 011
-# Entries: 114,207
-# Updated: Thu, 11 Jan 24 02:31:53 +06
+# Entries: 114,250
+# Updated: Thu, 11 Jan 24 04:11:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3842,6 +3842,7 @@
 0.0.0.0 actiongames300.com
 0.0.0.0 actionmanagers.co.nz
 0.0.0.0 actions.science
+0.0.0.0 actiontube.com
 0.0.0.0 actitansrugby.org
 0.0.0.0 activate-game.com
 0.0.0.0 activatejargon.com
@@ -12945,6 +12946,7 @@
 0.0.0.0 blenxamm.com
 0.0.0.0 bleokerrie.com
 0.0.0.0 bleotaphole.life
+0.0.0.0 blesk-stehovani.com
 0.0.0.0 blesscontrol.info
 0.0.0.0 blessedwin.life
 0.0.0.0 blessfulsleep.com
@@ -14911,6 +14913,7 @@
 0.0.0.0 buoyanttrend.website
 0.0.0.0 buoyband.net
 0.0.0.0 buoydeparturediscontent.com
+0.0.0.0 buoz.finance
 0.0.0.0 bupape.com
 0.0.0.0 bupatp.com
 0.0.0.0 bupbapegrtoamk.com
@@ -16213,6 +16216,7 @@
 0.0.0.0 casino-champions.cfd
 0.0.0.0 casino-frank.cfd
 0.0.0.0 casino-games-free.com
+0.0.0.0 casino-ggbet-registration.cfd
 0.0.0.0 casino-hong-kong.online
 0.0.0.0 casino-italy.online
 0.0.0.0 casino-japan.org
@@ -23307,6 +23311,7 @@
 0.0.0.0 designcentre.co.in
 0.0.0.0 designerdeclinedfrail.com
 0.0.0.0 designergeneticz.com
+0.0.0.0 designesly.com
 0.0.0.0 designgenieai.in
 0.0.0.0 designinnovationinteriors.com
 0.0.0.0 designlviv.com
@@ -30789,6 +30794,7 @@
 0.0.0.0 feisze.com
 0.0.0.0 feiyu666.top
 0.0.0.0 fejisu.com
+0.0.0.0 fejjelfelfele.com
 0.0.0.0 fejla.com
 0.0.0.0 fejlek.com
 0.0.0.0 fejsis.com
@@ -31172,6 +31178,7 @@
 0.0.0.0 fikedaquabib.com
 0.0.0.0 fikriramaaulia.tech
 0.0.0.0 filadisruptornz.net
+0.0.0.0 filamentree.store
 0.0.0.0 filasseseeder.com
 0.0.0.0 filchimpossible.com
 0.0.0.0 filchmadeirahotel.com
@@ -31568,6 +31575,7 @@
 0.0.0.0 fitnesscrazegym.com
 0.0.0.0 fitnessimpact.co.in
 0.0.0.0 fitnessin2k.com
+0.0.0.0 fitnesspark.space
 0.0.0.0 fitnessprozeny.net
 0.0.0.0 fitnessranze.com
 0.0.0.0 fitnessregime.xyz
@@ -32826,6 +32834,7 @@
 0.0.0.0 freebookmarkme.xyz
 0.0.0.0 freebookmarkvote.xyz
 0.0.0.0 freecfcdn.com
+0.0.0.0 freechargersmap.com
 0.0.0.0 freecoingames.xyz
 0.0.0.0 freecontent.tech
 0.0.0.0 freeconverter.io
@@ -33888,6 +33897,7 @@
 0.0.0.0 gangidance.com
 0.0.0.0 gangoffilmmakers.live
 0.0.0.0 gangsstowapps.com
+0.0.0.0 gangstarink.net
 0.0.0.0 gangsterflyerillegimateillegimate.com
 0.0.0.0 gangsterpandas.com
 0.0.0.0 gangstervideoethnic.com
@@ -36163,6 +36173,7 @@
 0.0.0.0 gororn.com
 0.0.0.0 goround-metrics.com
 0.0.0.0 goround.me
+0.0.0.0 gorplab.com
 0.0.0.0 gorplitka.ru
 0.0.0.0 gorskprof2it8og09.com
 0.0.0.0 gosamarkand.org
@@ -36324,6 +36335,7 @@
 0.0.0.0 gqhomez.com
 0.0.0.0 gqhoosuaqwmqegy.com
 0.0.0.0 gqilaywrqy.com
+0.0.0.0 gqiuqxzuwf.sbs
 0.0.0.0 gqjoddieqvynb.com
 0.0.0.0 gqmidnsolcc.com
 0.0.0.0 gqmtgvisnftd.xyz
@@ -37146,6 +37158,7 @@
 0.0.0.0 gunyangseamus.cam
 0.0.0.0 gunzblazingpromo.com
 0.0.0.0 gupffyba.com
+0.0.0.0 gupgxrcrjpjy.com
 0.0.0.0 guphoulr.com
 0.0.0.0 guplmunq.top
 0.0.0.0 gupo-pinero.com
@@ -39269,6 +39282,7 @@
 0.0.0.0 hkpfxxhltqxlug.com
 0.0.0.0 hkpqkzxyouddr.com
 0.0.0.0 hkrealty.in
+0.0.0.0 hkrglobal.com
 0.0.0.0 hksilver.tech
 0.0.0.0 hkskazmx.com
 0.0.0.0 hksmstpzsnlj.com
@@ -41664,6 +41678,7 @@
 0.0.0.0 ilovemy.foo
 0.0.0.0 ilovenft.us
 0.0.0.0 iloveofline.com
+0.0.0.0 ilovetorrents.top
 0.0.0.0 iloveuubbs.com
 0.0.0.0 iloxuyybosvax.top
 0.0.0.0 ilpiugrandepene.xyz
@@ -41697,6 +41712,7 @@
 0.0.0.0 imadfoundation.org
 0.0.0.0 image-tmart.com
 0.0.0.0 imageadvantage.net
+0.0.0.0 imagebam.net
 0.0.0.0 imagehammer.com
 0.0.0.0 imagenius.tech
 0.0.0.0 imageproeditors.com
@@ -41988,6 +42004,7 @@
 0.0.0.0 inbbredraxing.com
 0.0.0.0 inbdmaza.com
 0.0.0.0 inbetweenbooks.org
+0.0.0.0 inbigworld.com
 0.0.0.0 inbloomscreations.com
 0.0.0.0 inbodyeyeball.com
 0.0.0.0 inboldoreer.com
@@ -47856,6 +47873,7 @@
 0.0.0.0 krasko.info
 0.0.0.0 krasnacokolada.com
 0.0.0.0 krasnesady.com
+0.0.0.0 krasnevlasy.com
 0.0.0.0 krato.us.com
 0.0.0.0 kratomeurope.com
 0.0.0.0 kratomvape.us.com
@@ -56745,6 +56763,7 @@
 0.0.0.0 mytxylpyn.com
 0.0.0.0 myudkrefaiygs.com
 0.0.0.0 myufygivcktheyc.com
+0.0.0.0 myuhjp.sbs
 0.0.0.0 myunderthfe.info
 0.0.0.0 myurls.us
 0.0.0.0 myv3add.com
@@ -57165,6 +57184,7 @@
 0.0.0.0 natuliquetx.com
 0.0.0.0 natuprint.com
 0.0.0.0 natur-protein.com
+0.0.0.0 naturalbiohacking.net
 0.0.0.0 naturalbodybuilder.it
 0.0.0.0 naturalcantons.live
 0.0.0.0 naturaldwellers.com
@@ -61414,6 +61434,7 @@
 0.0.0.0 open-toolbox.co.uk
 0.0.0.0 openadserving.com
 0.0.0.0 openaiconnnect.com
+0.0.0.0 openaidalle.com
 0.0.0.0 openairarsonist.com
 0.0.0.0 openairintervalcompanion.com
 0.0.0.0 openbankemprestimo.com
@@ -61766,6 +61787,7 @@
 0.0.0.0 orgerm.com
 0.0.0.0 orgjzuasqjk.com
 0.0.0.0 orgned.com
+0.0.0.0 orgreenopticsdev.com
 0.0.0.0 orgxts.com
 0.0.0.0 orgyqxtboakh.com
 0.0.0.0 orh.in
@@ -64288,11 +64310,13 @@
 0.0.0.0 petrranca.com
 0.0.0.0 petrrehak.com
 0.0.0.0 petrurbanek.com
+0.0.0.0 petrusgroup.com
 0.0.0.0 petruzzicalzature.com
 0.0.0.0 petsandoral.com
 0.0.0.0 petsavoury.com
 0.0.0.0 petshelp.org
 0.0.0.0 petspotplus.com
+0.0.0.0 petszone.shop
 0.0.0.0 pettedcres.com
 0.0.0.0 petteddawk.uno
 0.0.0.0 pettii.com
@@ -64716,6 +64740,7 @@
 0.0.0.0 picarasfrag.website
 0.0.0.0 picardboyhood.guru
 0.0.0.0 picath.com
+0.0.0.0 picbam.com
 0.0.0.0 picbucks.com
 0.0.0.0 piccid.com
 0.0.0.0 piccoloerucin.com
@@ -76925,6 +76950,7 @@
 0.0.0.0 silverwoodrecyclery.com
 0.0.0.0 silviadameova.com
 0.0.0.0 silvialeonesrealtor.com
+0.0.0.0 silvierock.com
 0.0.0.0 silvish.com
 0.0.0.0 silvy.in
 0.0.0.0 sim-eq.com
@@ -78041,6 +78067,7 @@
 0.0.0.0 smkn1ponorogo.net
 0.0.0.0 smlfjyivsub.xyz
 0.0.0.0 smlhvupprda.com
+0.0.0.0 smm-motion.xyz
 0.0.0.0 smmfuel.tech
 0.0.0.0 smmxpand.com
 0.0.0.0 smnenterprises.com
@@ -78180,6 +78207,8 @@
 0.0.0.0 sniffedheavensupervise.com
 0.0.0.0 sniffedpry.com
 0.0.0.0 sniffers.co.in
+0.0.0.0 snilek.net
+0.0.0.0 snilek.store
 0.0.0.0 snipersex.com
 0.0.0.0 sniperua.com
 0.0.0.0 snippystowstool.com
@@ -79736,6 +79765,7 @@
 0.0.0.0 starkconsult.us
 0.0.0.0 starkhelperidentifier.com
 0.0.0.0 starkhousing.com
+0.0.0.0 starknet-chimpion.xyz
 0.0.0.0 starkshrewd.com
 0.0.0.0 starland.net.cn
 0.0.0.0 starland.org
@@ -80211,6 +80241,7 @@
 0.0.0.0 stonkiestock.com
 0.0.0.0 stonkiestocks.com
 0.0.0.0 stonkphymata.com
+0.0.0.0 stonner.com.br
 0.0.0.0 stonordersit.xyz
 0.0.0.0 stonordersity.xyz
 0.0.0.0 stoobsut.com
@@ -82508,6 +82539,7 @@
 0.0.0.0 tcfotp.com
 0.0.0.0 tcfphilluuiohqx.com
 0.0.0.0 tcgehkuyoblgg.xyz
+0.0.0.0 tcglxexvac.sbs
 0.0.0.0 tchaj-wan.com
 0.0.0.0 tchastfifish.top
 0.0.0.0 tcheckmein.com
@@ -82703,6 +82735,7 @@
 0.0.0.0 technicianforestallproper.com
 0.0.0.0 technochoc.it
 0.0.0.0 technochromeindia.in
+0.0.0.0 technohracky.com
 0.0.0.0 technoindustrialsolution.co.in
 0.0.0.0 technologycontemplate.com
 0.0.0.0 technologyio.xyz
@@ -91027,6 +91060,7 @@
 0.0.0.0 vikkitor.world
 0.0.0.0 vikkitor.xyz
 0.0.0.0 vikna-servis.com
+0.0.0.0 vikorfoods.com
 0.0.0.0 vikrak.com
 0.0.0.0 vikramastro.com
 0.0.0.0 viksportcentrum.com
@@ -95115,6 +95149,7 @@
 0.0.0.0 wu9gnh0wmyt1a.xyz
 0.0.0.0 wuarwokpjwhjteh.com
 0.0.0.0 wuatvtriybvbe.com
+0.0.0.0 wubanub.com
 0.0.0.0 wubsauth.net
 0.0.0.0 wuchaurteed.com
 0.0.0.0 wuckaity.com
@@ -99792,6 +99827,7 @@
 0.0.0.0 www.edixe.com
 0.0.0.0 www.edlecture.com
 0.0.0.0 www.edmall.com
+0.0.0.0 www.edmontonbathroomrenovation.com
 0.0.0.0 www.edredreams.fr
 0.0.0.0 www.edshareproject.org
 0.0.0.0 www.educards.com
@@ -104472,6 +104508,7 @@
 0.0.0.0 www.newcomerannoyance.com
 0.0.0.0 www.newcomerbenchlilac.com
 0.0.0.0 www.newcrete.com
+0.0.0.0 www.newfloraltd.com
 0.0.0.0 www.newlaunchsproject.online
 0.0.0.0 www.newlytelephone.com
 0.0.0.0 www.newmen.fr
@@ -106188,6 +106225,7 @@
 0.0.0.0 www.raisedirectionsaccede.com
 0.0.0.0 www.raisedtrial.com
 0.0.0.0 www.rajasthangk.co.in
+0.0.0.0 www.raksabseex.com
 0.0.0.0 www.rakutenglobal.com
 0.0.0.0 www.rallydisprove.com
 0.0.0.0 www.rallyexpirehide.com
@@ -106715,6 +106753,7 @@
 0.0.0.0 www.rollbackhear.com
 0.0.0.0 www.rollerdisrespect.com
 0.0.0.0 www.rollerdiversiondeer.com
+0.0.0.0 www.rollingthroughit.com
 0.0.0.0 www.rollobscurewoke.com
 0.0.0.0 www.romak.not-tesla.com
 0.0.0.0 www.romanbra.com
@@ -106953,6 +106992,7 @@
 0.0.0.0 www.scarflaremorally.com
 0.0.0.0 www.scarwan.com
 0.0.0.0 www.scatterdisagreeabledealer.com
+0.0.0.0 www.scclimatehvacr.net
 0.0.0.0 www.scenerynatives.com
 0.0.0.0 www.scenespathreconciliation.com
 0.0.0.0 www.schemeabsolutejanuary.com
@@ -108546,6 +108586,7 @@
 0.0.0.0 www.thetodapp.com
 0.0.0.0 www.thetpay.com
 0.0.0.0 www.thetruenews.in
+0.0.0.0 www.thevaloanrangers.com
 0.0.0.0 www.thevid.live
 0.0.0.0 www.thewarmillion.com
 0.0.0.0 www.thewhiskeyfriends.com
@@ -111035,6 +111076,7 @@
 0.0.0.0 xlitivyuda.xyz
 0.0.0.0 xlivesex.com
 0.0.0.0 xlivxsmojhgyfy.com
+0.0.0.0 xljucbcn.com
 0.0.0.0 xllfwiqjkv.xyz
 0.0.0.0 xlmlsdgwfpwp.xyz
 0.0.0.0 xlmoyhxuj.xyz
@@ -111316,6 +111358,7 @@
 0.0.0.0 xnxx1.mobi
 0.0.0.0 xnxx106.com
 0.0.0.0 xnxx365.xyz
+0.0.0.0 xnxx56.com
 0.0.0.0 xnxx63.com
 0.0.0.0 xnxxfuck.com
 0.0.0.0 xnxznfrjx.com
