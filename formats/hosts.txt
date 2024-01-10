@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.010
 # Release: 010
-# Entries: 114,112
-# Updated: Wed, 10 Jan 24 14:08:52 +06
+# Entries: 114,135
+# Updated: Wed, 10 Jan 24 16:09:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2778,6 +2778,7 @@
 0.0.0.0 98.sk
 0.0.0.0 9816.wf
 0.0.0.0 981787.com
+0.0.0.0 981theranch.com
 0.0.0.0 9842.comwww.844644.com
 0.0.0.0 987258.com
 0.0.0.0 9873737.com
@@ -6279,6 +6280,7 @@
 0.0.0.0 allsurvey24.top
 0.0.0.0 allthecameras.com
 0.0.0.0 allthedogs.ca
+0.0.0.0 allthingsespresso.com
 0.0.0.0 alltopnewz.com
 0.0.0.0 alltopposts.com
 0.0.0.0 alltopsurvey24.top
@@ -8280,6 +8282,7 @@
 0.0.0.0 arrixskucoew.com
 0.0.0.0 arrlnk.com
 0.0.0.0 arrnaught.com
+0.0.0.0 arrowassessment.com
 0.0.0.0 arrowbees.com
 0.0.0.0 arrowdevastatingconstruction.com
 0.0.0.0 arrowrictus.com
@@ -10890,6 +10893,7 @@
 0.0.0.0 battletestedlawyer.us
 0.0.0.0 battlezilla.com
 0.0.0.0 batwaxwok.site
+0.0.0.0 baubeebirsle.website
 0.0.0.0 baubleboulevard.com
 0.0.0.0 baubogla.com
 0.0.0.0 bauchleredries.com
@@ -13967,6 +13971,7 @@
 0.0.0.0 bpuevbcgt.com
 0.0.0.0 bpwiconsulting.com
 0.0.0.0 bpwwaluhatgdppv.xyz
+0.0.0.0 bpwwsusgb.com
 0.0.0.0 bpxcqxonbmn.com
 0.0.0.0 bq.flairsyzygal.com
 0.0.0.0 bqadfytoqbyhdxs.xyz
@@ -16334,6 +16339,7 @@
 0.0.0.0 catkinanddogwood.co.uk
 0.0.0.0 catman-it.tech
 0.0.0.0 catmustyhypothesis.com
+0.0.0.0 catprintsplus.com
 0.0.0.0 catscanty.com
 0.0.0.0 catsinthehats.com
 0.0.0.0 catskinhounded.uno
@@ -21725,6 +21731,7 @@
 0.0.0.0 cynicalspireheroism.com
 0.0.0.0 cynicaugural.com
 0.0.0.0 cynthia-ry-padilla.com
+0.0.0.0 cynthiasimmonds.com
 0.0.0.0 cyobwvhcdbhv.com
 0.0.0.0 cyohyoxr.com
 0.0.0.0 cypcetbc.com
@@ -22374,6 +22381,7 @@
 0.0.0.0 daxwfrbocaaau.com
 0.0.0.0 dayakramer.com
 0.0.0.0 dayalmegamart.com
+0.0.0.0 dayareviews.com
 0.0.0.0 daygrumpyexchange.com
 0.0.0.0 daylightdean.com
 0.0.0.0 daylongingdaze.com
@@ -22815,6 +22823,7 @@
 0.0.0.0 defaceproudlybarnacle.com
 0.0.0.0 defas.site
 0.0.0.0 defaulttabjs.info
+0.0.0.0 defauw.ca
 0.0.0.0 defeas.com
 0.0.0.0 defeatpercharges.com
 0.0.0.0 defeature.xyz
@@ -46440,6 +46449,7 @@
 0.0.0.0 kaydoors.com
 0.0.0.0 kayipormandagevleri.com.tr
 0.0.0.0 kaylanmuriel.com
+0.0.0.0 kayleesimmonds.com
 0.0.0.0 kaymakamian.tech
 0.0.0.0 kaynakelektrikaydinlatma.com
 0.0.0.0 kayoespteric.space
@@ -50844,6 +50854,7 @@
 0.0.0.0 lopertsreare.com
 0.0.0.0 lophaiss.net
 0.0.0.0 lopifitbike.com
+0.0.0.0 loplearning.com
 0.0.0.0 lopqrx.xyz
 0.0.0.0 lopzitpup.com
 0.0.0.0 loqbgvci.com
@@ -54187,6 +54198,7 @@
 0.0.0.0 miguelchiau.com
 0.0.0.0 miguelespi.com
 0.0.0.0 mihajlo-stefanovic.com
+0.0.0.0 mihasimenc.com
 0.0.0.0 mihrabtrouped.store
 0.0.0.0 mihwddmkhsdfdn.com
 0.0.0.0 miin-coffee.us
@@ -54854,6 +54866,7 @@
 0.0.0.0 mnodtbmmomqo.com
 0.0.0.0 mnoglcfv.com
 0.0.0.0 mnogrjvcdw.xyz
+0.0.0.0 mnop.network
 0.0.0.0 mnpjrbbwkqfbcf.com
 0.0.0.0 mnpolicescaner.com
 0.0.0.0 mnpolicscanner.com
@@ -55130,6 +55143,8 @@
 0.0.0.0 momentoinsuree.com
 0.0.0.0 momentpalpate.store
 0.0.0.0 momentswithquotes.com
+0.0.0.0 momentum-genmab-staging.com
+0.0.0.0 momentum-genmab.com
 0.0.0.0 momentumart.wedding
 0.0.0.0 momentumcupcakespeeding.com
 0.0.0.0 momentumgreenhouseexpert.com
@@ -57076,6 +57091,7 @@
 0.0.0.0 natehewsona.com
 0.0.0.0 natesbuttfarm.com
 0.0.0.0 nathanaeldan.pro
+0.0.0.0 nathanielsimmonds.com
 0.0.0.0 nathusrdc.com
 0.0.0.0 natifulfradding.com
 0.0.0.0 national-valve.net
@@ -58340,6 +58356,7 @@
 0.0.0.0 nihiy.com
 0.0.0.0 nihonauction.net
 0.0.0.0 nihugd.com
+0.0.0.0 niiadvance.com
 0.0.0.0 nikamarque.com
 0.0.0.0 nikdenikdo.com
 0.0.0.0 nikepol.com
@@ -58880,6 +58897,7 @@
 0.0.0.0 norrysharra.website
 0.0.0.0 norseltraheen.com
 0.0.0.0 northamericanbusinesssummit.com
+0.0.0.0 northamericandoorandhardware.com
 0.0.0.0 northbattlefordtoyota.com
 0.0.0.0 northcarolinasports.physio
 0.0.0.0 northcoastcrm.com
@@ -60252,6 +60270,7 @@
 0.0.0.0 offfurreton.com
 0.0.0.0 offgate-app-phkr.com
 0.0.0.0 offgridengineering.uk
+0.0.0.0 offgridsolarexperts.com
 0.0.0.0 offgridsolarsystems.uk
 0.0.0.0 offhandnunsill.com
 0.0.0.0 offhdgatyooum.com
@@ -89299,6 +89318,7 @@
 0.0.0.0 usertag.online
 0.0.0.0 usetalentedpunk.com
 0.0.0.0 usfamilysavings.com
+0.0.0.0 usfbath.com
 0.0.0.0 usgamefish.us
 0.0.0.0 usgamefishassociation.org
 0.0.0.0 usgwcuibrgait.com
@@ -92414,6 +92434,7 @@
 0.0.0.0 wanodtbfif.com
 0.0.0.0 wanogqaznt.com
 0.0.0.0 wanopc-apps-dev.org
+0.0.0.0 wanopc-apps.org
 0.0.0.0 wanopc-test.org
 0.0.0.0 wansultoud.com
 0.0.0.0 want-s0me-push.net
@@ -95148,6 +95169,7 @@
 0.0.0.0 wwlctbmtx.xyz
 0.0.0.0 wwleapvugjef.xyz
 0.0.0.0 wwm-network.com
+0.0.0.0 wwmdomain.com
 0.0.0.0 wwmgypbqwudj.xyz
 0.0.0.0 wwnrdqxo.com
 0.0.0.0 wwo-help.com
@@ -111163,6 +111185,7 @@
 0.0.0.0 xn--mephistoespaa-tkb.com
 0.0.0.0 xn--mgbabb9a7ild90j.com
 0.0.0.0 xn--mgbkt9eckr.net
+0.0.0.0 xn--mihaimenc-o3b.com
 0.0.0.0 xn--ngbcrg3b.com
 0.0.0.0 xn--nobulltrkiye-jlb.com
 0.0.0.0 xn--northfaceespaa-2nb.com
