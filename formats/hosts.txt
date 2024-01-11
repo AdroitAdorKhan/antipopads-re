@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.011
 # Release: 011
-# Entries: 114,250
-# Updated: Thu, 11 Jan 24 04:11:47 +06
+# Entries: 114,253
+# Updated: Thu, 11 Jan 24 06:09:29 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -76053,6 +76053,7 @@
 0.0.0.0 shaadimitra.com
 0.0.0.0 shabaiks.com
 0.0.0.0 shabazanjum.tech
+0.0.0.0 shabbosrachel.digital
 0.0.0.0 shabsaco.net
 0.0.0.0 shackansokr.com
 0.0.0.0 shackapple.com
@@ -88667,6 +88668,7 @@
 0.0.0.0 unibet.com
 0.0.0.0 unibindery.com
 0.0.0.0 unicingsmelts.life
+0.0.0.0 unicistcrax.uno
 0.0.0.0 unicityinfrastructurepartners.com
 0.0.0.0 unicitysolutions.com
 0.0.0.0 unickbank.com
@@ -90511,6 +90513,7 @@
 0.0.0.0 vergi-gwc.com
 0.0.0.0 vergi-wqf.com
 0.0.0.0 vergiakademisi.com
+0.0.0.0 vergiholdall.space
 0.0.0.0 vergixkntrlonline.tech
 0.0.0.0 veridon.social
 0.0.0.0 veriersurfeit.space
