@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.012
 # Release: 012
-# Entries: 114,543
-# Updated: Fri, 12 Jan 24 12:20:47 +06
+# Entries: 114,556
+# Updated: Fri, 12 Jan 24 14:08:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11146,6 +11146,7 @@
 0.0.0.0 bdxsebook.com
 0.0.0.0 bdys0.com
 0.0.0.0 bdys02.com
+0.0.0.0 bdyumwlf.com
 0.0.0.0 be-booky.com
 0.0.0.0 be-just-beauty.com
 0.0.0.0 be-smarty.in
@@ -14587,6 +14588,7 @@
 0.0.0.0 brygella.com
 0.0.0.0 brynh-gru.com
 0.0.0.0 brynh-lei.com
+0.0.0.0 brynnleblanc.com
 0.0.0.0 bryond.com
 0.0.0.0 bryovo.com
 0.0.0.0 bryrknek.com
@@ -48329,6 +48331,7 @@
 0.0.0.0 kvkddd.top
 0.0.0.0 kvkfxrrdjgq.xyz
 0.0.0.0 kvlptwydq.com
+0.0.0.0 kvlpupgx.com
 0.0.0.0 kvmkcdjgo.xyz
 0.0.0.0 kvosho.com
 0.0.0.0 kvtllnttauq.com
@@ -60743,6 +60746,7 @@
 0.0.0.0 ojapanelm.xyz
 0.0.0.0 ojashwi20.tech
 0.0.0.0 ojbcbyiojbya.top
+0.0.0.0 ojbrtkrvew.com
 0.0.0.0 ojbxqzornxazej.com
 0.0.0.0 ojcatsprvnlltnt.com
 0.0.0.0 ojceanpbmarn.com
@@ -62971,6 +62975,7 @@
 0.0.0.0 paftnlgxooy.com
 0.0.0.0 pag.design
 0.0.0.0 pagadi.net
+0.0.0.0 pagaloaqui.com
 0.0.0.0 pagaloaqui.net
 0.0.0.0 paganrabbits.com
 0.0.0.0 paganscove.ca
@@ -90991,6 +90996,7 @@
 0.0.0.0 vhod-id.info
 0.0.0.0 vhovgvprny.xyz
 0.0.0.0 vhrdwayksjrls.com
+0.0.0.0 vhsefnivyhelph.com
 0.0.0.0 vhsxikfsrm.com
 0.0.0.0 vhtvcwtalrwpi.com
 0.0.0.0 vhug.net
@@ -97867,6 +97873,7 @@
 0.0.0.0 www.brutalmathematics.com
 0.0.0.0 www.brutalslim.com
 0.0.0.0 www.brynh-lei.com
+0.0.0.0 www.brynnleblanc.com
 0.0.0.0 www.btawesomehome.com
 0.0.0.0 www.btbdys001.com
 0.0.0.0 www.btbity.life
@@ -99947,6 +99954,7 @@
 0.0.0.0 www.dsp2fpga.net
 0.0.0.0 www.dsp2fpga.org
 0.0.0.0 www.dstacy.net
+0.0.0.0 www.dswnetwork.com
 0.0.0.0 www.dsxsbc.com
 0.0.0.0 www.dtagmanager.com
 0.0.0.0 www.dtcmate.com
@@ -101998,6 +102006,7 @@
 0.0.0.0 www.helicobuilders.com
 0.0.0.0 www.helicopterskull.com
 0.0.0.0 www.helicoptertoursinnepal.com
+0.0.0.0 www.helitag.direct
 0.0.0.0 www.helitagrfid.com
 0.0.0.0 www.helium-3gasolinera.com
 0.0.0.0 www.hellocaterersomeone.com
@@ -103046,6 +103055,7 @@
 0.0.0.0 www.jigoers.com
 0.0.0.0 www.jillbuildertuck.com
 0.0.0.0 www.jilliandiaz.com
+0.0.0.0 www.jimmyjazzonlineshop.com
 0.0.0.0 www.jinglehalfbakedparticle.com
 0.0.0.0 www.jinglereferslocks.com
 0.0.0.0 www.jinxrussian.com
@@ -103341,6 +103351,7 @@
 0.0.0.0 www.koderia.blog
 0.0.0.0 www.koehrenterprises.com
 0.0.0.0 www.kokankatta.net
+0.0.0.0 www.kokeshidoll.org
 0.0.0.0 www.kolbyshop.xyz
 0.0.0.0 www.kolemetersyer.com
 0.0.0.0 www.kolipol.top
@@ -105328,6 +105339,7 @@
 0.0.0.0 www.padratrade.com
 0.0.0.0 www.padsims.com
 0.0.0.0 www.padspms.com
+0.0.0.0 www.pagaloaqui.com
 0.0.0.0 www.page-analytic.com
 0.0.0.0 www.pageantcause.com
 0.0.0.0 www.pagolly.com
@@ -109812,6 +109824,7 @@
 0.0.0.0 www.vsystemnepal.com
 0.0.0.0 www.vubihasdtbadiq.com
 0.0.0.0 www.vulgarmilletappear.com
+0.0.0.0 www.vulkan-casinos.cfd
 0.0.0.0 www.vulnerableimmigrateaboveaverage.com
 0.0.0.0 www.vulnerableordered.com
 0.0.0.0 www.vulturegodless.com
