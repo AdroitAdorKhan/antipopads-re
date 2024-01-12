@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.012
 # Release: 012
-# Entries: 114,538
-# Updated: Fri, 12 Jan 24 10:20:17 +06
+# Entries: 114,543
+# Updated: Fri, 12 Jan 24 12:20:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -35360,6 +35360,7 @@
 0.0.0.0 gloaphoo.net
 0.0.0.0 gloaterrfound.top
 0.0.0.0 gloavets.xyz
+0.0.0.0 glob.airforce
 0.0.0.0 globacar.com
 0.0.0.0 global-dates-here.com
 0.0.0.0 global-dates-here.life
@@ -39904,6 +39905,7 @@
 0.0.0.0 hopsigna.com
 0.0.0.0 hopstop.in
 0.0.0.0 hoptopboy.com
+0.0.0.0 hoptreeunburst.website
 0.0.0.0 hopuchcomp.xyz
 0.0.0.0 hopuchcompa.com
 0.0.0.0 hoqtraders.com
@@ -55843,6 +55845,7 @@
 0.0.0.0 mp3lovers.icu
 0.0.0.0 mp3mood.com
 0.0.0.0 mp3pro.xyz
+0.0.0.0 mp3slash.net
 0.0.0.0 mp3vizor.com
 0.0.0.0 mpa4xbbs6m73.de
 0.0.0.0 mpabqjdlyfec.xyz
@@ -101514,6 +101517,7 @@
 0.0.0.0 www.glitteringobsessionchanges.com
 0.0.0.0 www.glitzandglamourentertainment.com
 0.0.0.0 www.glivupegn.com
+0.0.0.0 www.glob.airforce
 0.0.0.0 www.globalesgimpactinvestors.org
 0.0.0.0 www.globalstemschool.com
 0.0.0.0 www.globaltourguide.org
@@ -110766,6 +110770,7 @@
 0.0.0.0 wynnbear.us
 0.0.0.0 wynnsbrot.com
 0.0.0.0 wynnsfrazzle.website
+0.0.0.0 wynocbraul.com
 0.0.0.0 wynrnhotgwxxtux.com
 0.0.0.0 wynvalur.com
 0.0.0.0 wyobufwhboi.com
