@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.013
 # Release: 013
-# Entries: 114,712
-# Updated: Sat, 13 Jan 24 02:08:52 +06
+# Entries: 114,713
+# Updated: Sat, 13 Jan 24 04:08:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -79850,6 +79850,7 @@
 0.0.0.0 srqfutavhy.com
 0.0.0.0 srrvid.org
 0.0.0.0 srscontracting.ca
+0.0.0.0 srshqnrmqs.com
 0.0.0.0 srsitsolutions.com
 0.0.0.0 srsjain.com
 0.0.0.0 srsvalumni.com
