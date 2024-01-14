@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.014
 # Release: 014
-# Entries: 115,051
-# Updated: Sun, 14 Jan 24 10:08:56 +06
+# Entries: 115,054
+# Updated: Sun, 14 Jan 24 12:08:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -41282,6 +41282,7 @@
 0.0.0.0 ibnewz.com
 0.0.0.0 ibnlokoitqdo.com
 0.0.0.0 ibonmfvcwb.xyz
+0.0.0.0 ibpl.in
 0.0.0.0 ibplatform.net
 0.0.0.0 ibplatform.org
 0.0.0.0 ibqobdxjryirwg.top
@@ -65670,6 +65671,7 @@
 0.0.0.0 pkhhyool.com
 0.0.0.0 pkhrjhjnps.com
 0.0.0.0 pkjabksd9.monster
+0.0.0.0 pkjekjmzfiuvi.com
 0.0.0.0 pkklkcdn.com
 0.0.0.0 pkkyigrokkdguy.com
 0.0.0.0 pklddd.com
@@ -102824,6 +102826,7 @@
 0.0.0.0 www.iamllanero.com
 0.0.0.0 www.iamvip.app
 0.0.0.0 www.iaxles.com
+0.0.0.0 www.ibpl.in
 0.0.0.0 www.ibplatform.org
 0.0.0.0 www.ibugreeza.com
 0.0.0.0 www.ibustechnologies.com
