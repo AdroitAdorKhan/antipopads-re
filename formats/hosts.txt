@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.014
 # Release: 014
-# Entries: 115,301
-# Updated: Sun, 14 Jan 24 20:08:14 +06
+# Entries: 115,306
+# Updated: Sun, 14 Jan 24 22:31:35 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -80403,6 +80403,7 @@
 0.0.0.0 stablefulfil.com
 0.0.0.0 stablever.site
 0.0.0.0 stabmesaveme.com
+0.0.0.0 stacckain.com
 0.0.0.0 stackadapt.com
 0.0.0.0 stackattacka.com
 0.0.0.0 stackfadingdefend.com
@@ -102439,6 +102440,7 @@
 0.0.0.0 www.grokit.dev
 0.0.0.0 www.grooveoperate.com
 0.0.0.0 www.grooverend.com
+0.0.0.0 www.groowhiwhi.com
 0.0.0.0 www.gropefore.com
 0.0.0.0 www.groundlessconvention.com
 0.0.0.0 www.grounolrou.com
@@ -103588,6 +103590,7 @@
 0.0.0.0 www.itechspirit.com
 0.0.0.0 www.itembilly.com
 0.0.0.0 www.itemdangerously.com
+0.0.0.0 www.itewhoor.com
 0.0.0.0 www.itineraryborn.com
 0.0.0.0 www.itkronus.com
 0.0.0.0 www.itoffshorenepal.com
@@ -109521,6 +109524,7 @@
 0.0.0.0 www.theelegantstores.com
 0.0.0.0 www.theenglishclubchamonix.com
 0.0.0.0 www.theethicmed.com
+0.0.0.0 www.theetsothie.com
 0.0.0.0 www.theeventdumpster.com
 0.0.0.0 www.thefabricmansion.shop
 0.0.0.0 www.thefivedaysprint.com
@@ -110185,6 +110189,7 @@
 0.0.0.0 www.unfinisheddolphin.com
 0.0.0.0 www.unfinishedheir.com
 0.0.0.0 www.unfitricesteady.com
+0.0.0.0 www.unhappysneakyconquest.com
 0.0.0.0 www.unhappyswitch.com
 0.0.0.0 www.unickbank.com
 0.0.0.0 www.unicornlaboratories.com
