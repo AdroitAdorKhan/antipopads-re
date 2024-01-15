@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.015
 # Release: 015
-# Entries: 115,341
-# Updated: Mon, 15 Jan 24 14:46:16 +06
+# Entries: 115,346
+# Updated: Mon, 15 Jan 24 16:09:04 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14214,6 +14214,7 @@
 0.0.0.0 brandnewdeputy.com
 0.0.0.0 brandnewsnorted.com
 0.0.0.0 brandnu-yu.co.uk
+0.0.0.0 brandpulse.com.pk
 0.0.0.0 brandreachsys.com
 0.0.0.0 brandsilove.com
 0.0.0.0 brandstation.studio
@@ -63472,6 +63473,7 @@
 0.0.0.0 paifouth.com
 0.0.0.0 paigipto.net
 0.0.0.0 paigna.com
+0.0.0.0 paihoupti.com
 0.0.0.0 paikaufy.com
 0.0.0.0 paikoasa.tv
 0.0.0.0 paikoaza.net
@@ -70274,6 +70276,7 @@
 0.0.0.0 qxbtechnologies.com
 0.0.0.0 qxcdhiimep.xyz
 0.0.0.0 qxdeqrxsxbnqbm.com
+0.0.0.0 qxdjhvbx.com
 0.0.0.0 qxdownload.com
 0.0.0.0 qxeemdpaerfjer.xyz
 0.0.0.0 qxendyyymiydve.com
@@ -93063,6 +93066,7 @@
 0.0.0.0 vvmjwoyhbmehsky.com
 0.0.0.0 vvobtrjtinsd.com
 0.0.0.0 vvpcsvrw.com
+0.0.0.0 vvqfaanln.com
 0.0.0.0 vvqknwws.com
 0.0.0.0 vvqopxxrgqztq.com
 0.0.0.0 vvrbjtjxmlgcd.xyz
@@ -94482,6 +94486,7 @@
 0.0.0.0 whaishou.com
 0.0.0.0 whaishub.net
 0.0.0.0 whaiweel.com
+0.0.0.0 whale.bz
 0.0.0.0 whaleads.com
 0.0.0.0 whalecashads.com
 0.0.0.0 whalepp.com
