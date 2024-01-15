@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.016
 # Release: 016
-# Entries: 115,391
-# Updated: Tue, 16 Jan 24 00:09:55 +06
+# Entries: 115,392
+# Updated: Tue, 16 Jan 24 02:13:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -25550,6 +25550,7 @@
 :: doyoube.me
 :: doz1it.com
 :: dozard.com
+:: dozeelsy.xyz
 :: dozenactually.com
 :: dozubatan.com
 :: dozuj.com
