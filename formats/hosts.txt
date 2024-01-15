@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.015
 # Release: 015
-# Entries: 115,329
-# Updated: Mon, 15 Jan 24 10:09:36 +06
+# Entries: 115,333
+# Updated: Mon, 15 Jan 24 12:08:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5857,6 +5857,7 @@
 0.0.0.0 akwxtceohbmu.xyz
 0.0.0.0 akychhluvbh.com
 0.0.0.0 akyldpjmlh.com
+0.0.0.0 akzavgvsmbmtcp.com
 0.0.0.0 akzfxmgcq.com
 0.0.0.0 akzvponimot.com
 0.0.0.0 al-bo.cfd
@@ -48213,6 +48214,7 @@
 0.0.0.0 koto.cam
 0.0.0.0 kotokoaedeagi.com
 0.0.0.0 kotokot.com
+0.0.0.0 kototabula.guru
 0.0.0.0 kotowsbarites.com
 0.0.0.0 kotrbata.com
 0.0.0.0 kotridoo.com
@@ -49258,6 +49260,7 @@
 0.0.0.0 lastelae.com
 0.0.0.0 lastellaknitwear.com
 0.0.0.0 lastholiday.game
+0.0.0.0 lastimes.com
 0.0.0.0 lastingconflict.com
 0.0.0.0 lastpushrunning.com
 0.0.0.0 lastuvkaz.com
@@ -91115,6 +91118,7 @@
 0.0.0.0 vbukkeouir.com
 0.0.0.0 vbulletin-api.com
 0.0.0.0 vbwlyqke.com
+0.0.0.0 vbzsjkrnsqewy.com
 0.0.0.0 vc.rearerstombs.com
 0.0.0.0 vc83.org
 0.0.0.0 vca-vasc.org
