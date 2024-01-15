@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.015
 # Release: 015
-# Entries: 115,322
-# Updated: Mon, 15 Jan 24 06:42:13 +06
+# Entries: 115,324
+# Updated: Mon, 15 Jan 24 08:08:36 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -56813,6 +56813,7 @@
 0.0.0.0 mvnuligz.com
 0.0.0.0 mvoc.ec
 0.0.0.0 mvokwrvgrhbqlh.com
+0.0.0.0 mvotvuwodex.com
 0.0.0.0 mvprojects.net
 0.0.0.0 mvqlsrakwp.com
 0.0.0.0 mvqycoenp.com
@@ -80138,6 +80139,7 @@
 0.0.0.0 sprottwealthmanagement.com
 0.0.0.0 sproutrhubarbencouraged.com
 0.0.0.0 spruce.bot
+0.0.0.0 sprucymundic.digital
 0.0.0.0 spruecutworm.com
 0.0.0.0 sprungboats.com
 0.0.0.0 sprungencase.com
