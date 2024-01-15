@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.015
 # Release: 015
-# Entries: 115,355
-# Updated: Mon, 15 Jan 24 18:13:06 +06
+# Entries: 115,369
+# Updated: Mon, 15 Jan 24 20:10:06 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -48928,6 +48928,7 @@
 0.0.0.0 ladyphapty.com
 0.0.0.0 ladys-step.ru
 0.0.0.0 ladytravel.org
+0.0.0.0 laeiwbkt.com
 0.0.0.0 laelpcrmjcwobmv.com
 0.0.0.0 laene.org
 0.0.0.0 laeoonthqncns.xyz
@@ -52744,6 +52745,7 @@
 0.0.0.0 maky.tech
 0.0.0.0 mala-pujcka-bez-registru.sbs
 0.0.0.0 malabar.shop
+0.0.0.0 malabarandkeralastudies.net
 0.0.0.0 malabesak.com
 0.0.0.0 malarcy.co.uk
 0.0.0.0 malaysianewsnetwork.net
@@ -58292,6 +58294,7 @@
 0.0.0.0 netgearweb.com
 0.0.0.0 netget.fun
 0.0.0.0 netgl.ca
+0.0.0.0 netgoogletagmanager.com
 0.0.0.0 netgreatlyavailable.com
 0.0.0.0 nethatchet.com
 0.0.0.0 nethatchet.net
@@ -73719,6 +73722,7 @@
 0.0.0.0 rptech.co
 0.0.0.0 rptechsg.com
 0.0.0.0 rptldxlprmys.com
+0.0.0.0 rptvwljbbyg.com
 0.0.0.0 rpvfmyrkqkaxh.com
 0.0.0.0 rpvmdxwuuwup.com
 0.0.0.0 rpwklngn.com
@@ -82474,6 +82478,7 @@
 0.0.0.0 sxhttorlazdii.com
 0.0.0.0 sxhyljz.com
 0.0.0.0 sxipth.xyz
+0.0.0.0 sxirpkuxm.com
 0.0.0.0 sxivohukprbfeu.com
 0.0.0.0 sxkjfroxta.com
 0.0.0.0 sxlflt.com
@@ -96845,6 +96850,7 @@
 0.0.0.0 www.accedeethnic.com
 0.0.0.0 www.acceleratedrummer.com
 0.0.0.0 www.acceleratemouse.com
+0.0.0.0 www.accelerationplebs.com
 0.0.0.0 www.acceptablearablezoological.com
 0.0.0.0 www.acceptablebleat.com
 0.0.0.0 www.acceptedregionsdispose.com
@@ -99235,6 +99241,7 @@
 0.0.0.0 www.clungwarehouseoral.com
 0.0.0.0 www.clupenguin.com
 0.0.0.0 www.clxrggmghevqfu.com
+0.0.0.0 www.cmousa.netgoogletagmanager.com
 0.0.0.0 www.cngridsumdissector.com
 0.0.0.0 www.cnpica.com
 0.0.0.0 www.cnsds.net
@@ -104721,6 +104728,7 @@
 0.0.0.0 www.makingnude.com
 0.0.0.0 www.makspeedtech.net
 0.0.0.0 www.malabar.shop
+0.0.0.0 www.malabarandkeralastudies.net
 0.0.0.0 www.malearrogantblocking.com
 0.0.0.0 www.maleliteral.com
 0.0.0.0 www.maliciouscuffwaspish.com
@@ -108175,9 +108183,12 @@
 0.0.0.0 www.sendegobresob.com
 0.0.0.0 www.sendegobresob.info
 0.0.0.0 www.sendegobresob.net
+0.0.0.0 www.sendegobresub.com
 0.0.0.0 www.sendegobresub.org
 0.0.0.0 www.sendegonresib.com
 0.0.0.0 www.sendegovresib.net
+0.0.0.0 www.sendegubresib.org
+0.0.0.0 www.sendeigobresib.com
 0.0.0.0 www.sendenobresib.com
 0.0.0.0 www.senecapolytech.net
 0.0.0.0 www.senecapolytechnic.net
@@ -109779,6 +109790,7 @@
 0.0.0.0 www.tmdhacks.com
 0.0.0.0 www.tmof.store
 0.0.0.0 www.tnfc.org.uk
+0.0.0.0 www.tng260.com
 0.0.0.0 www.tnrhcp.com
 0.0.0.0 www.todaysmyday.net
 0.0.0.0 www.toenaildemand.com
@@ -111150,6 +111162,7 @@
 0.0.0.0 www.xn--kappaespaa-19a.com
 0.0.0.0 www.xn--kappamxico-g7a.com
 0.0.0.0 www.xn--keenkengt-22a.com
+0.0.0.0 www.xn--leonarc-tqb.com
 0.0.0.0 www.xn--lwryi.com
 0.0.0.0 www.xn--northfaceespaa-2nb.com
 0.0.0.0 www.xn--polygo-1wa.com
@@ -112373,6 +112386,7 @@
 0.0.0.0 xn--keenkengt-22a.com
 0.0.0.0 xn--kisllatszllts-5dbgd6r.com
 0.0.0.0 xn--lako-h6a.net
+0.0.0.0 xn--leonarc-tqb.com
 0.0.0.0 xn--lojobembomvariedades-ryb.com
 0.0.0.0 xn--lt-3va.com
 0.0.0.0 xn--lwryi.com
