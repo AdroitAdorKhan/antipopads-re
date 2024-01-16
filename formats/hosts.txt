@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.017
 # Release: 017
-# Entries: 115,466
-# Updated: Wed, 17 Jan 24 02:14:33 +06
+# Entries: 115,467
+# Updated: Wed, 17 Jan 24 04:09:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -22411,6 +22411,7 @@
 0.0.0.0 darvidosiris.com
 0.0.0.0 darvorn.com
 0.0.0.0 darwin.red
+0.0.0.0 darwinpoems.com
 0.0.0.0 darwinsgenius.com
 0.0.0.0 darylpurdy.com
 0.0.0.0 dasemc.com
