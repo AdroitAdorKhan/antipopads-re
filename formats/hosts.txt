@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.016
 # Release: 016
-# Entries: 115,413
-# Updated: Tue, 16 Jan 24 10:11:31 +06
+# Entries: 115,415
+# Updated: Tue, 16 Jan 24 12:09:01 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -24972,6 +24972,7 @@
 0.0.0.0 dnckawxatc.com
 0.0.0.0 dncxdllvlxqy.xyz
 0.0.0.0 dndvgeemcpgpp.com
+0.0.0.0 dndwpwuj.com
 0.0.0.0 dne45.com
 0.0.0.0 dnejumhjpch.com
 0.0.0.0 dnemkhkbsdbl.com
@@ -79825,6 +79826,7 @@
 0.0.0.0 special-promotions.online
 0.0.0.0 special-trending-news.com
 0.0.0.0 specialadves.com
+0.0.0.0 specialcraftbox.com
 0.0.0.0 specialfrugality.com
 0.0.0.0 specialisap.com
 0.0.0.0 specialistcorrelation.com
