@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.017
 # Release: 017
-# Entries: 115,474
-# Updated: Wed, 17 Jan 24 06:48:49 +06
+# Entries: 115,481
+# Updated: Wed, 17 Jan 24 08:08:45 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1369,6 +1369,7 @@
 0.0.0.0 3commsa.io
 0.0.0.0 3d-bites.com
 0.0.0.0 3d-clock.com
+0.0.0.0 3d-fish.com
 0.0.0.0 3d-meteorite.com
 0.0.0.0 3d5ceeeb69.com
 0.0.0.0 3dayadagency.com
@@ -13096,6 +13097,7 @@
 0.0.0.0 blinkframeworkowe.com
 0.0.0.0 blinkjork.com
 0.0.0.0 blinkpainmanly.com
+0.0.0.0 blinkphineas.life
 0.0.0.0 blinkspree.com
 0.0.0.0 blinktheory.com
 0.0.0.0 blinktowel.com
@@ -14400,6 +14402,7 @@
 0.0.0.0 briefengineer.pro
 0.0.0.0 brieflizard.com
 0.0.0.0 brieflysympatheticexcellent.com
+0.0.0.0 brieredwint.digital
 0.0.0.0 brigadegroupmails.in
 0.0.0.0 brigady.click
 0.0.0.0 brigady.link
@@ -95561,6 +95564,7 @@
 0.0.0.0 wojan.yt
 0.0.0.0 wojyrbqtlvmmvv.com
 0.0.0.0 wok.agency
+0.0.0.0 wokaptoa.com
 0.0.0.0 wokedictatoravenge.com
 0.0.0.0 wokejesus.net
 0.0.0.0 wokenoptionalcohabit.com
@@ -96558,6 +96562,7 @@
 0.0.0.0 www.3ajshbjdkasd3.monster
 0.0.0.0 www.3alammona.com
 0.0.0.0 www.3d-clock.com
+0.0.0.0 www.3d-fish.com
 0.0.0.0 www.3dnsew.com
 0.0.0.0 www.3domainscom.com
 0.0.0.0 www.3dtops.com
@@ -107707,6 +107712,7 @@
 0.0.0.0 www.resolutefog.com
 0.0.0.0 www.resolutionsalvage.com
 0.0.0.0 www.resolvedalarmmelodramatic.com
+0.0.0.0 www.resolvedswordlinked.com
 0.0.0.0 www.resolveilliterateoh.com
 0.0.0.0 www.resourcechasing.com
 0.0.0.0 www.resourceisabellareligious.com
@@ -111011,6 +111017,7 @@
 0.0.0.0 www.windowsgushfurnished.com
 0.0.0.0 www.windsattributeron.com
 0.0.0.0 www.windscreenacorn.com
+0.0.0.0 www.windscreenpresentiment.com
 0.0.0.0 www.windu4d.com
 0.0.0.0 www.windu4d.org
 0.0.0.0 www.windymissphantom.com
