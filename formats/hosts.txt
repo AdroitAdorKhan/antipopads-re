@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.018
 # Release: 018
-# Entries: 115,630
-# Updated: Thu, 18 Jan 24 02:13:29 +06
+# Entries: 115,631
+# Updated: Thu, 18 Jan 24 04:08:13 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -61390,6 +61390,7 @@
 0.0.0.0 okkxmyogxog.com
 0.0.0.0 oklahi.com
 0.0.0.0 oklast.com
+0.0.0.0 okldcsyr.com
 0.0.0.0 oklzdmdhqgxsu.com
 0.0.0.0 okmentally.com
 0.0.0.0 okmingle.online
