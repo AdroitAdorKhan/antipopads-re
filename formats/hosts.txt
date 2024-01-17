@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.017
 # Release: 017
-# Entries: 115,560
-# Updated: Wed, 17 Jan 24 16:08:15 +06
+# Entries: 115,561
+# Updated: Wed, 17 Jan 24 18:14:35 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -40802,6 +40802,7 @@
 0.0.0.0 htwebtechnology.in
 0.0.0.0 htwrildnk.xyz
 0.0.0.0 htwyafhbjavmcvk.com
+0.0.0.0 htxrupuxrdocg.com
 0.0.0.0 htyejulpxc.com
 0.0.0.0 htyexsaers.com
 0.0.0.0 htyjoganiqpssk.com
