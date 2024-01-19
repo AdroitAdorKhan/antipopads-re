@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.019
 # Release: 019
-# Entries: 115,842
-# Updated: Fri, 19 Jan 24 06:12:57 +06
+# Entries: 115,845
+# Updated: Fri, 19 Jan 24 08:08:11 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4902,6 +4902,7 @@
 0.0.0.0 afdnpxgbjiu.com
 0.0.0.0 afdphe.org
 0.0.0.0 afdrivovoq.com
+0.0.0.0 afdtbfqqposs.com
 0.0.0.0 afdumnnhg.com
 0.0.0.0 afearprevoid.com
 0.0.0.0 afehealth.net
@@ -21073,6 +21074,7 @@
 0.0.0.0 credite-nebancare.sbs
 0.0.0.0 credite-online-nebancare.sbs
 0.0.0.0 credite-online.sbs
+0.0.0.0 credite.sbs
 0.0.0.0 crediterapideonline.sbs
 0.0.0.0 creditfinserv.com
 0.0.0.0 creditoneank.com
@@ -100151,6 +100153,7 @@
 0.0.0.0 www.credentialsdispatchsuperstitious.com
 0.0.0.0 www.credibilitystakehemisphere.com
 0.0.0.0 www.creditbitesize.com
+0.0.0.0 www.credite.sbs
 0.0.0.0 www.creditunionsofontario.com
 0.0.0.0 www.credulityicicle.com
 0.0.0.0 www.creekrecollectkey.com
