@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.019
 # Release: 019
-# Entries: 115,973
-# Updated: Fri, 19 Jan 24 20:36:47 +06
+# Entries: 115,975
+# Updated: Fri, 19 Jan 24 22:10:59 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -56065,6 +56065,7 @@
 0.0.0.0 moneypoloworld.com
 0.0.0.0 moneyrevelation.com
 0.0.0.0 moneyrevelations.com
+0.0.0.0 moneyrollinn.com
 0.0.0.0 moneyrulessurvey.top
 0.0.0.0 moneyrulesurvey.top
 0.0.0.0 moneysavinglifehacks.pro
@@ -108289,6 +108290,7 @@
 0.0.0.0 www.rigorousoxidenovelty.com
 0.0.0.0 www.rigourpreludefelon.com
 0.0.0.0 www.rikeshsen.com
+0.0.0.0 www.riksamtudsey.com
 0.0.0.0 www.rileclothingtweak.com
 0.0.0.0 www.riletechnicality.com
 0.0.0.0 www.rimfranklyscaffold.com
