@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.020
 # Release: 020
-# Entries: 116,019
-# Updated: Sat, 20 Jan 24 10:08:39 +06
+# Entries: 116,023
+# Updated: Sat, 20 Jan 24 12:31:52 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11361,6 +11361,7 @@
 0.0.0.0 bebilyasicked.website
 0.0.0.0 beblass.com
 0.0.0.0 bebloommulvel.com
+0.0.0.0 bebpnmskw.com
 0.0.0.0 bebravetuis.top
 0.0.0.0 bebreloomr.com
 0.0.0.0 bebrillianttutoring.com
@@ -42702,6 +42703,7 @@
 0.0.0.0 india-group-travel.co.uk
 0.0.0.0 india-luxury-trains.org
 0.0.0.0 india-wildlife-tour.org
+0.0.0.0 indiaactuator.com
 0.0.0.0 indiabuddhisttour.org
 0.0.0.0 indiachatgpt.org
 0.0.0.0 indiachatgpt.tech
@@ -103824,6 +103826,7 @@
 0.0.0.0 www.indelicatepokedoes.com
 0.0.0.0 www.independentlyduly.com
 0.0.0.0 www.indexeslaughter.com
+0.0.0.0 www.indiaactuator.com
 0.0.0.0 www.indiachatgpt.org
 0.0.0.0 www.indiachatgpt.tech
 0.0.0.0 www.indiahalalexpo.com
@@ -107190,6 +107193,7 @@
 0.0.0.0 www.pneumoniadecipherattest.com
 0.0.0.0 www.pnreceiver.com
 0.0.0.0 www.poachfirewoodboast.com
+0.0.0.0 www.poahoukeeche.com
 0.0.0.0 www.poaships.com
 0.0.0.0 www.pocketpurchase.com
 0.0.0.0 www.poddarinfracon.com
