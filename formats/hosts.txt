@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.022
 # Release: 022
-# Entries: 116,325
-# Updated: Mon, 22 Jan 24 00:10:08 +06
+# Entries: 116,368
+# Updated: Mon, 22 Jan 24 02:10:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -794,6 +794,7 @@
 0.0.0.0 2024nav.com
 0.0.0.0 2024presidentialelection.us
 0.0.0.0 202a272e6d.a2d3d13c41.com
+0.0.0.0 2031.wf
 0.0.0.0 2057.wf
 0.0.0.0 206ads.com
 0.0.0.0 208001.com
@@ -1290,6 +1291,7 @@
 0.0.0.0 360vehiclespin.co.uk
 0.0.0.0 360yield.com
 0.0.0.0 3620.yt
+0.0.0.0 3626.wf
 0.0.0.0 3628.yt
 0.0.0.0 362b643a66026e.com
 0.0.0.0 3632.wf
@@ -1483,6 +1485,7 @@
 0.0.0.0 4-interads.com
 0.0.0.0 400995.comwww.677555.com
 0.0.0.0 4026.comwww.900hk.com
+0.0.0.0 4037.wf
 0.0.0.0 404notfounds.xyz
 0.0.0.0 407.life
 0.0.0.0 407433bfc441.com
@@ -1748,6 +1751,7 @@
 0.0.0.0 510areacode.org
 0.0.0.0 51345e7473.07ab456fe8.com
 0.0.0.0 5160bm59.pw
+0.0.0.0 5162.wf
 0.0.0.0 5163.wf
 0.0.0.0 5163.yt
 0.0.0.0 516cables.com
@@ -1828,6 +1832,7 @@
 0.0.0.0 550b3ikb9j.com
 0.0.0.0 551759.info
 0.0.0.0 551fff4901.799f57f5cc.com
+0.0.0.0 5521.wf
 0.0.0.0 552ygapp.com
 0.0.0.0 5535aibo.com
 0.0.0.0 555006.cn
@@ -2021,6 +2026,7 @@
 0.0.0.0 6137.yt
 0.0.0.0 61739011039d41a.com
 0.0.0.0 6182.yt
+0.0.0.0 6196.wf
 0.0.0.0 6198399e4910e66-ovc.com
 0.0.0.0 61hcvghasda616.monster
 0.0.0.0 6202.yt
@@ -2087,6 +2093,7 @@
 0.0.0.0 666bbh.com
 0.0.0.0 666jdb.app
 0.0.0.0 666sss.com
+0.0.0.0 6671.wf
 0.0.0.0 66989.comwww.844644.com
 0.0.0.0 6699acg.com
 0.0.0.0 669fb3128e4b4.com
@@ -2594,6 +2601,7 @@
 0.0.0.0 88queeneast.com
 0.0.0.0 88thx.com
 0.0.0.0 88xxbb.com
+0.0.0.0 8909.wf
 0.0.0.0 89167880.com
 0.0.0.0 891904ed87.com
 0.0.0.0 8934728393492.com
@@ -3473,6 +3481,7 @@
 0.0.0.0 absolutebarbarafashioned.com
 0.0.0.0 absolutechapelequation.com
 0.0.0.0 absolutehomeservicesgroups.com
+0.0.0.0 absolutekino.com
 0.0.0.0 absolutelysaunabuy.com
 0.0.0.0 absolutelytowns.com
 0.0.0.0 absolutepropositionmayonnaise.com
@@ -4381,6 +4390,7 @@
 0.0.0.0 adpuvponttdhv.com
 0.0.0.0 adqapvtrad.com
 0.0.0.0 adqnafggeakih.com
+0.0.0.0 adqongwuxvav.com
 0.0.0.0 adqoqcoc.com
 0.0.0.0 adqqpkabqltvh.com
 0.0.0.0 adquery.io
@@ -6847,6 +6857,8 @@
 0.0.0.0 amqfjkhzn.com
 0.0.0.0 amqxvwmsfn.xyz
 0.0.0.0 amrbvabey.com
+0.0.0.0 amrconsultg.com
+0.0.0.0 amrconsultng.com
 0.0.0.0 amre.work
 0.0.0.0 amreen.xyz
 0.0.0.0 amriaxhanqg.com
@@ -11665,6 +11677,7 @@
 0.0.0.0 belleekosela.com
 0.0.0.0 bellmandrawbar.com
 0.0.0.0 bellowtabloid.com
+0.0.0.0 bellunovirtuale.com
 0.0.0.0 bellybloodlessweight.com
 0.0.0.0 bellyindulge.com
 0.0.0.0 belole.ru
@@ -15954,6 +15967,7 @@
 0.0.0.0 canadatourbus.com
 0.0.0.0 canadawheels.com
 0.0.0.0 canadian-pharm-online.com
+0.0.0.0 canadianareacodes.net
 0.0.0.0 canadiancitytours.com
 0.0.0.0 canadianfoodsafety.academy
 0.0.0.0 canadianheritagegrowers.ca
@@ -25935,6 +25949,7 @@
 0.0.0.0 dreary-east.pro
 0.0.0.0 drearypassport.com
 0.0.0.0 dreaty.com
+0.0.0.0 dreedaith.guru
 0.0.0.0 dreerepanel.live
 0.0.0.0 dreesfootler.uno
 0.0.0.0 drelpvbdd.com
@@ -29478,6 +29493,7 @@
 0.0.0.0 etctraders.co.in
 0.0.0.0 eteachacademy.com
 0.0.0.0 etehaalkhleej.com
+0.0.0.0 etelfoto.com
 0.0.0.0 etelooks.buzz
 0.0.0.0 etereyouma.info
 0.0.0.0 etermsnotif.com
@@ -35133,6 +35149,7 @@
 0.0.0.0 gethelpofficiating.com
 0.0.0.0 gethere3fat3r.com
 0.0.0.0 getherefwu.xyz
+0.0.0.0 getholidaytrip.com
 0.0.0.0 getimmediatebitcoin.net
 0.0.0.0 getincz.com
 0.0.0.0 getinstallmentloanbtc.org
@@ -38649,6 +38666,8 @@
 0.0.0.0 hawk-rail.com
 0.0.0.0 hawkchafe.com
 0.0.0.0 hawkdiary.com
+0.0.0.0 hawkeweb.site
+0.0.0.0 hawkgf.com
 0.0.0.0 hawkyeye5ssnd.com
 0.0.0.0 hawsquallgenerate.com
 0.0.0.0 hawsuffer.com
@@ -39829,6 +39848,7 @@
 0.0.0.0 hitchwanderingillusion.com
 0.0.0.0 hitcpm.com
 0.0.0.0 hitechcorporation.co
+0.0.0.0 hitechfiresolutions.in
 0.0.0.0 hitel.sbs
 0.0.0.0 hitelfelvetel.sbs
 0.0.0.0 hitgo.org
@@ -41931,6 +41951,7 @@
 0.0.0.0 ieiuwphkhyfld.top
 0.0.0.0 ieivlemquyfr.com
 0.0.0.0 iejesusbernalpinzon.com
+0.0.0.0 ielmoli.com
 0.0.0.0 ieltdetgu.com
 0.0.0.0 ieltsliza.com
 0.0.0.0 iemlynvvwmeugs.xyz
@@ -45537,6 +45558,7 @@
 0.0.0.0 jgfwbpquillzpw.com
 0.0.0.0 jggroupindia.com
 0.0.0.0 jggvkisg.com
+0.0.0.0 jghjhtz.com
 0.0.0.0 jghsvdhasd2.monster
 0.0.0.0 jgmoa30.com
 0.0.0.0 jgmudyjal.com
@@ -45581,6 +45603,7 @@
 0.0.0.0 jhnanh.com
 0.0.0.0 jhnmqpyvfws.com
 0.0.0.0 jhonnatanmesquita.com.br
+0.0.0.0 jhontraktor.com
 0.0.0.0 jhpdx.com
 0.0.0.0 jhqdtwwmvmc.com
 0.0.0.0 jhrfemourkojc.com
@@ -53262,6 +53285,7 @@
 0.0.0.0 mandilasmalls.com
 0.0.0.0 mandilasmarketstores.com
 0.0.0.0 mandilasstores.com
+0.0.0.0 mandjtrade.com
 0.0.0.0 mandovipellets.in
 0.0.0.0 mandsdesigns.com
 0.0.0.0 mandustudio.com
@@ -56385,6 +56409,7 @@
 0.0.0.0 morbidpodcastmerch.store
 0.0.0.0 morbidproblem.com
 0.0.0.0 morceaumaison.space
+0.0.0.0 morcinek.net
 0.0.0.0 morclicks.com
 0.0.0.0 mordieuweeshee.com
 0.0.0.0 mordoops.com
@@ -57789,6 +57814,7 @@
 0.0.0.0 mzpbvvxv.com
 0.0.0.0 mzpekynzmk.com
 0.0.0.0 mzteishamp.com
+0.0.0.0 mztqgmr.com
 0.0.0.0 mzunuvof.com
 0.0.0.0 mzurugaf.com
 0.0.0.0 mzuspejtuodc.com
@@ -59225,6 +59251,7 @@
 0.0.0.0 ngr1zbl.net
 0.0.0.0 ngrcorporation.com
 0.0.0.0 ngrok.uk
+0.0.0.0 ngsec.org
 0.0.0.0 ngsinspiringtga.info
 0.0.0.0 ngsspwtvjqpnt.com
 0.0.0.0 nguad.com
@@ -63179,6 +63206,7 @@
 0.0.0.0 otydtuebaluf.xyz
 0.0.0.0 ouaker.com
 0.0.0.0 oucaibie.net
+0.0.0.0 ouch.agency
 0.0.0.0 ouchojig.xyz
 0.0.0.0 ouchruse.com
 0.0.0.0 oudccdjvh.com
@@ -64259,6 +64287,7 @@
 0.0.0.0 parecyrclame.com
 0.0.0.0 parentalqualitiesdeputy.com
 0.0.0.0 parentcentral.ca
+0.0.0.0 parentcentral.com
 0.0.0.0 parentingfibre.com
 0.0.0.0 parentlargevia.com
 0.0.0.0 parentpensionvolunteer.com
@@ -67295,6 +67324,7 @@
 0.0.0.0 poorlystepmotherresolute.com
 0.0.0.0 poorlytanrubbing.com
 0.0.0.0 poornabhat.in
+0.0.0.0 poorstress.pro
 0.0.0.0 poorstubbornconvincing.com
 0.0.0.0 pooshpa.in
 0.0.0.0 poosoahe.com
@@ -68613,6 +68643,7 @@
 0.0.0.0 promotionnecessity.com
 0.0.0.0 promotionperpetualovercome.com
 0.0.0.0 promoworld.pw
+0.0.0.0 promozone.pw
 0.0.0.0 promptify.club
 0.0.0.0 promptlyconsciousnessdiscussion.com
 0.0.0.0 promptlydecipherstudent.com
@@ -70609,6 +70640,7 @@
 0.0.0.0 quebecmodere.ca
 0.0.0.0 quee.tech
 0.0.0.0 queencranberry.com
+0.0.0.0 queensalt.org
 0.0.0.0 queenservice.co.uk
 0.0.0.0 queension.com
 0.0.0.0 queenspritz.com
@@ -71474,6 +71506,7 @@
 0.0.0.0 rawjeansadvertising.com
 0.0.0.0 rawkysperity.digital
 0.0.0.0 rawoarsy.com
+0.0.0.0 rawonesecurity.com
 0.0.0.0 rawsource.uk
 0.0.0.0 rawwhirlwindrev.com
 0.0.0.0 raxstjvytnwcf.com
@@ -73038,6 +73071,7 @@
 0.0.0.0 revistasufletului.net
 0.0.0.0 revitalizedretreats.com
 0.0.0.0 revivestar.com
+0.0.0.0 revivitalia.com
 0.0.0.0 revizeonline.com
 0.0.0.0 revizieelektro.com
 0.0.0.0 revlt.be
@@ -73484,6 +73518,7 @@
 0.0.0.0 ririnekawati.tech
 0.0.0.0 risausso.com
 0.0.0.0 riscati.com
+0.0.0.0 riseandshines.in
 0.0.0.0 riseandshineyoga.co.uk
 0.0.0.0 risebeigehelium.com
 0.0.0.0 riseconceivedairy.com
@@ -75051,6 +75086,7 @@
 0.0.0.0 sabreanalytics.co.uk
 0.0.0.0 sabredwillble.com
 0.0.0.0 sabrinacaulked.com
+0.0.0.0 sabrinapromotion.com
 0.0.0.0 sabs-push.xyz
 0.0.0.0 sac-games.com
 0.0.0.0 sacculegrowse.space
@@ -76344,6 +76380,7 @@
 0.0.0.0 sebherrera.tech
 0.0.0.0 sebillaknap.guru
 0.0.0.0 sebillatonally.digital
+0.0.0.0 sebinko.dev
 0.0.0.0 sebiologie.com
 0.0.0.0 sebuscanpenes.com
 0.0.0.0 secads.me
@@ -91091,6 +91128,7 @@
 0.0.0.0 ut.akamnikxystos.com
 0.0.0.0 ut13r.online
 0.0.0.0 ut13r.site
+0.0.0.0 ut13r.space
 0.0.0.0 ut7f.info
 0.0.0.0 utahlemon.law
 0.0.0.0 utahlemon.org
@@ -92118,6 +92156,7 @@
 0.0.0.0 veridon.social
 0.0.0.0 veriersurfeit.space
 0.0.0.0 verifiable-shoot.pro
+0.0.0.0 verification-ac.in
 0.0.0.0 verificationtracker.com
 0.0.0.0 verifiedtrustservices.com
 0.0.0.0 verifieernummer.com
@@ -93550,6 +93589,7 @@
 0.0.0.0 vrcpcpdotlboyhx.xyz
 0.0.0.0 vrcxbuvnuwbo.com
 0.0.0.0 vremenska.info
+0.0.0.0 vremya-samopoznanie.com
 0.0.0.0 vreoci.com
 0.0.0.0 vretmacg.com
 0.0.0.0 vrevbvgk.xyz
@@ -94968,6 +95008,7 @@
 0.0.0.0 welfarefit.com
 0.0.0.0 welfds.com
 0.0.0.0 weliketofuckstrangers.com
+0.0.0.0 welivewood.com
 0.0.0.0 welkaroo.com
 0.0.0.0 welkawater.com
 0.0.0.0 welladvisedtrading.com
@@ -95103,6 +95144,7 @@
 0.0.0.0 westmonroepartners.co.uk
 0.0.0.0 westmonroepartners.uk
 0.0.0.0 westpac-update-online-nz.com
+0.0.0.0 westprobenefitsystems.ca
 0.0.0.0 westreflection.com
 0.0.0.0 westrogerscircledesigncenter.com
 0.0.0.0 westslendersolitary.com
@@ -115244,6 +115286,7 @@
 0.0.0.0 yxwwcusokbcubw.com
 0.0.0.0 yxxbulasvx.com
 0.0.0.0 yxxnoeyajxyqo.xyz
+0.0.0.0 yxyeacfgevura.com
 0.0.0.0 yy.bourockmights.com
 0.0.0.0 yy.expedelanate.com
 0.0.0.0 yy51tt.com
