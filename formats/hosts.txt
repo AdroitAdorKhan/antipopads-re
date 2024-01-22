@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.022
 # Release: 022
-# Entries: 116,382
-# Updated: Mon, 22 Jan 24 08:09:45 +06
+# Entries: 116,383
+# Updated: Mon, 22 Jan 24 10:08:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -48214,6 +48214,7 @@
 0.0.0.0 kmmewm.com
 0.0.0.0 kmmsfoqbhc.xyz
 0.0.0.0 kmmtxfwntcnyd.com
+0.0.0.0 kmniupugw.com
 0.0.0.0 kmnkiuqfo.com
 0.0.0.0 kmobi.co.kr
 0.0.0.0 kmodukuleqasfo.info
