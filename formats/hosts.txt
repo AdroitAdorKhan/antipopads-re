@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.023
 # Release: 023
-# Entries: 116,582
-# Updated: Tue, 23 Jan 24 08:08:10 +06
+# Entries: 116,583
+# Updated: Tue, 23 Jan 24 10:12:11 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -56920,6 +56920,7 @@
 0.0.0.0 mroehtuy.com
 0.0.0.0 mroqogotufe.com
 0.0.0.0 mrozaidi.net
+0.0.0.0 mrpihtwtoprvw.com
 0.0.0.0 mrporoxy.com
 0.0.0.0 mrpsptpspesyg.com
 0.0.0.0 mrpztdpe.com
