@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.024
 # Release: 024
-# Entries: 116,633
-# Updated: Wed, 24 Jan 24 00:09:18 +06
+# Entries: 116,634
+# Updated: Wed, 24 Jan 24 02:11:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -39317,6 +39317,7 @@
 0.0.0.0 hendricks.pet
 0.0.0.0 hengared.com
 0.0.0.0 hengared.xyz
+0.0.0.0 hengjukj.cn
 0.0.0.0 heniypgtlw.com
 0.0.0.0 hennesragbags.guru
 0.0.0.0 hennightpoetry.com
