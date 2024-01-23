@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.023
 # Release: 023
-# Entries: 116,583
-# Updated: Tue, 23 Jan 24 10:12:11 +06
+# Entries: 116,584
+# Updated: Tue, 23 Jan 24 12:08:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5421,6 +5421,7 @@
 0.0.0.0 ahhdteofpbqbl.xyz
 0.0.0.0 ahheoy.com
 0.0.0.0 ahhhhfa.com
+0.0.0.0 ahigelqxangd.com
 0.0.0.0 ahilyanagaronline.in
 0.0.0.0 ahimsabodytherapies.com
 0.0.0.0 ahive.in
