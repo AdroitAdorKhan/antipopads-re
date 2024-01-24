@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.024
 # Release: 024
-# Entries: 117,035
-# Updated: Wed, 24 Jan 24 20:12:41 +06
+# Entries: 117,050
+# Updated: Wed, 24 Jan 24 22:29:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7724,6 +7724,7 @@
 0.0.0.0 apophissquad.ru
 0.0.0.0 apoplatforms.com
 0.0.0.0 aporasal.net
+0.0.0.0 aporodiko.com
 0.0.0.0 apostolout.com
 0.0.0.0 apostrophe.cloud
 0.0.0.0 apostrophe.ink
@@ -11096,6 +11097,7 @@
 0.0.0.0 baughanpestcontrol.co.uk
 0.0.0.0 bauloati.net
 0.0.0.0 baunaurou.com
+0.0.0.0 bauptone.com
 0.0.0.0 bauptost.net
 0.0.0.0 baurdesigns.com
 0.0.0.0 bauschusa.com
@@ -14238,6 +14240,7 @@
 0.0.0.0 bpit.us
 0.0.0.0 bpjlnhklldcmri.com
 0.0.0.0 bpminvestment.com
+0.0.0.0 bpmvdlt.com
 0.0.0.0 bpnauclcmo.xyz
 0.0.0.0 bponxqlit.com
 0.0.0.0 bpooilslamhght.com
@@ -18909,6 +18912,7 @@
 0.0.0.0 cliniquedentairebouskoura.com
 0.0.0.0 clinkeasiestopponent.com
 0.0.0.0 clinkgradualunleash.com
+0.0.0.0 clinkumfalsen.top
 0.0.0.0 cliobooks.us
 0.0.0.0 clipartimage.net
 0.0.0.0 clipaz.biz
@@ -35239,6 +35243,7 @@
 0.0.0.0 geometryrefreshing.com
 0.0.0.0 geometryworstaugust.com
 0.0.0.0 geomnia.energy
+0.0.0.0 geompzr.com
 0.0.0.0 geoneduropheg.info
 0.0.0.0 geopa.net
 0.0.0.0 geoplanetsolutions.co.uk
@@ -37178,6 +37183,7 @@
 0.0.0.0 gqhomez.ca
 0.0.0.0 gqhomez.com
 0.0.0.0 gqhoosuaqwmqegy.com
+0.0.0.0 gqhrflhprg.com
 0.0.0.0 gqilaywrqy.com
 0.0.0.0 gqiuqxzuwf.sbs
 0.0.0.0 gqjoddieqvynb.com
@@ -55775,6 +55781,7 @@
 0.0.0.0 mintcom.pw
 0.0.0.0 mintmanunmanly.com
 0.0.0.0 mintsdrouket.com
+0.0.0.0 mintsesacdigitallicensing.li
 0.0.0.0 minttree.online
 0.0.0.0 mintybug.com
 0.0.0.0 minued.com
@@ -77655,6 +77662,10 @@
 0.0.0.0 servw.bid
 0.0.0.0 ses-gcc.com
 0.0.0.0 sesabercuacroo.xyz
+0.0.0.0 sesac.li
+0.0.0.0 sesacdigitallicensing.li
+0.0.0.0 sesacinternational.li
+0.0.0.0 sesaclicensing.li
 0.0.0.0 sesacmusicgroup.org
 0.0.0.0 sesacscores.com
 0.0.0.0 sesameasterisk.com
@@ -78250,6 +78261,7 @@
 0.0.0.0 shieldforce.uk
 0.0.0.0 shieldof5adam.com
 0.0.0.0 shieldthanks.com
+0.0.0.0 shiepvfjd.xyz
 0.0.0.0 shifoagn.uk
 0.0.0.0 shiftclang.com
 0.0.0.0 shiftdimplelocum.com
@@ -80314,6 +80326,7 @@
 0.0.0.0 sodaprostitutetar.com
 0.0.0.0 sodaquebec.net
 0.0.0.0 sodaquebec.org
+0.0.0.0 sodera.ca
 0.0.0.0 sodia.yt
 0.0.0.0 sodiumcupboard.com
 0.0.0.0 sodiumrampcubic.com
@@ -82839,6 +82852,7 @@
 0.0.0.0 suicokeoutlet.us.com
 0.0.0.0 suiltcgg.xyz
 0.0.0.0 suinglygaggler.com
+0.0.0.0 suisadigitallicensing.li
 0.0.0.0 suissemicron.com
 0.0.0.0 suitabsentjersey.com
 0.0.0.0 suitbelongingoccasion.com
@@ -95835,6 +95849,7 @@
 0.0.0.0 wgxlevcp.com
 0.0.0.0 wgxtpfwttnxp.com
 0.0.0.0 wgyhzpvvub.com
+0.0.0.0 wgyoaqtjfb.com
 0.0.0.0 wh.osmondcichar.com
 0.0.0.0 wh1tesoftware.me
 0.0.0.0 whaavccifo.com
