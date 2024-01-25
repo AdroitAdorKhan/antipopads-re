@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.025
 # Release: 025
-# Entries: 117,163
-# Updated: Thu, 25 Jan 24 04:17:56 +06
+# Entries: 117,169
+# Updated: Thu, 25 Jan 24 06:52:07 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7226,6 +7226,7 @@
 0.0.0.0 anmdalmzidp.com
 0.0.0.0 anmexlelo.com
 0.0.0.0 anmfweogja.com
+0.0.0.0 anmgaxrujfru.com
 0.0.0.0 anmoldev.tech
 0.0.0.0 anmtavquwtudbdq.com
 0.0.0.0 anna-kolesarova.com
@@ -32477,6 +32478,7 @@
 0.0.0.0 fktbwntpfoh.com
 0.0.0.0 fkucbtfwq.com
 0.0.0.0 fkugzbngtla.com
+0.0.0.0 fkwkzlb.com
 0.0.0.0 fkyhqtfiopfit.com
 0.0.0.0 fkyujept.com
 0.0.0.0 fl.sprigsrecon.com
@@ -38215,6 +38217,7 @@
 0.0.0.0 gxordgtvjr.com
 0.0.0.0 gxpnsiolfm.com
 0.0.0.0 gxpvnveyqowm.com
+0.0.0.0 gxqjvuhsk.com
 0.0.0.0 gxqrjjcsyh.com
 0.0.0.0 gxrevwscnksgj.com
 0.0.0.0 gxvaunase.com
@@ -41246,6 +41249,7 @@
 0.0.0.0 hsbrandasia.com
 0.0.0.0 hscbtk.online
 0.0.0.0 hsctech.biz
+0.0.0.0 hsdaknd.com
 0.0.0.0 hsddxbelmxkxfhe.com
 0.0.0.0 hse-symptomscovid19-case.com
 0.0.0.0 hsenhiqeopk.com
@@ -44956,6 +44960,7 @@
 0.0.0.0 iwishmarriage.co.uk
 0.0.0.0 iwishmarriage.us
 0.0.0.0 iwistracks.com
+0.0.0.0 iwkeoxtaoi.com
 0.0.0.0 iwkikhtx.xyz
 0.0.0.0 iwoiclbfxkxgd.com
 0.0.0.0 iwouhoft.com
@@ -66159,6 +66164,7 @@
 0.0.0.0 phentermineprescription.net
 0.0.0.0 pheoparasupport.org
 0.0.0.0 pheoparasupportgroup.org
+0.0.0.0 phepofte.net
 0.0.0.0 pheptoam.com
 0.0.0.0 phertonium.com
 0.0.0.0 pheselta.net
