@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.026
 # Release: 026
-# Entries: 117,492
-# Updated: Fri, 26 Jan 24 04:09:37 +06
+# Entries: 117,496
+# Updated: Fri, 26 Jan 24 07:11:39 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14726,6 +14726,7 @@
 0.0.0.0 bro.kim
 0.0.0.0 bro1.biz
 0.0.0.0 bro4.biz
+0.0.0.0 broadbandminded.com
 0.0.0.0 broadlystipulate.com
 0.0.0.0 broadsheetcounterfeitappeared.com
 0.0.0.0 broadsheetspikesnick.com
@@ -28474,6 +28475,7 @@
 0.0.0.0 elpics.xyz
 0.0.0.0 elrfqgvvljkvxg.com
 0.0.0.0 elrkovhhyfkor.com
+0.0.0.0 elruffenffgrg.com
 0.0.0.0 elrxjtkq.com
 0.0.0.0 elsatthereandh.cc
 0.0.0.0 elsaunny.com
@@ -97459,6 +97461,7 @@
 0.0.0.0 workationinasia.com
 0.0.0.0 workculturelab.com
 0.0.0.0 workeddecay.com
+0.0.0.0 workedpowerfullyfork.com
 0.0.0.0 worker.yldint.com
 0.0.0.0 workerdisadvantageunrest.com
 0.0.0.0 workerfirm.net
@@ -100378,6 +100381,7 @@
 0.0.0.0 www.britishinquisitive.com
 0.0.0.0 www.brittleraising.com
 0.0.0.0 www.brmovies.xyz
+0.0.0.0 www.broadbandminded.com
 0.0.0.0 www.broadsheetcounterfeitappeared.com
 0.0.0.0 www.broblogger.net
 0.0.0.0 www.brokenwebsite-note.com
