@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.026
 # Release: 026
-# Entries: 117,499
-# Updated: Fri, 26 Jan 24 08:09:58 +06
+# Entries: 117,501
+# Updated: Fri, 26 Jan 24 10:08:06 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -38283,6 +38283,7 @@
 0.0.0.0 gwjfwrzoevwt.com
 0.0.0.0 gwksrmxtdcelebc.com
 0.0.0.0 gwlhflkouojr.com
+0.0.0.0 gwmkqpso.xyz
 0.0.0.0 gwnkvtvrqo.com
 0.0.0.0 gwotis.com
 0.0.0.0 gwp.godaddy
@@ -47864,6 +47865,7 @@
 0.0.0.0 kdf2.buzz
 0.0.0.0 kdfjabv.com
 0.0.0.0 kdfjxdwl.com
+0.0.0.0 kdfptctyq.com
 0.0.0.0 kdgaqritj.com
 0.0.0.0 kdhwhgmdnbrhd.xyz
 0.0.0.0 kdjewhplvmdh.com
