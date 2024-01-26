@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.026
 # Release: 026
-# Entries: 117,496
-# Updated: Fri, 26 Jan 24 07:11:39 +06
+# Entries: 117,499
+# Updated: Fri, 26 Jan 24 08:09:58 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -43788,6 +43788,7 @@
 0.0.0.0 inrolhogger.guru
 0.0.0.0 inroomhotels.com
 0.0.0.0 inrotomr.com
+0.0.0.0 inrszsumrfyyg.com
 0.0.0.0 inrusharmer.website
 0.0.0.0 insafbarahospital.com
 0.0.0.0 insafmart.com
@@ -70953,6 +70954,7 @@
 0.0.0.0 qima-host.net
 0.0.0.0 qimam57.com
 0.0.0.0 qimlcadqu.com
+0.0.0.0 qimoqauc.xyz
 0.0.0.0 qimwsxukxwnhba.xyz
 0.0.0.0 qimxpkyrohagqhb.xyz
 0.0.0.0 qingjiedi.com
@@ -83771,6 +83773,7 @@
 0.0.0.0 svlfoodexport.com
 0.0.0.0 svlhrvhy.com
 0.0.0.0 svmgroups.in
+0.0.0.0 svmnbweshovm.com
 0.0.0.0 svmuus-p.net
 0.0.0.0 svntrk.com
 0.0.0.0 svobozem.com
