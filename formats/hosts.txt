@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.028
 # Release: 028
-# Entries: 118,009
-# Updated: Sun, 28 Jan 24 00:11:03 +06
+# Entries: 118,010
+# Updated: Sun, 28 Jan 24 02:21:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -22600,6 +22600,7 @@
 0.0.0.0 dairyabreast.com
 0.0.0.0 dairydaughtersuk.com
 0.0.0.0 dairyqueennepal.com
+0.0.0.0 dairyworkjourney.com
 0.0.0.0 daischerendragkur.ga
 0.0.0.0 daishouk.net
 0.0.0.0 daistii.com
