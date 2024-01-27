@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.027
 # Release: 027
-# Entries: 117,995
-# Updated: Sat, 27 Jan 24 16:08:07 +06
+# Entries: 118,000
+# Updated: Sat, 27 Jan 24 18:15:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6015,6 +6015,7 @@
 0.0.0.0 alcsigning.com
 0.0.0.0 alcult.com
 0.0.0.0 alczaxw.com
+0.0.0.0 alda.cc
 0.0.0.0 aldeldevelopment.com
 0.0.0.0 aldosesmajeure.com
 0.0.0.0 aldragalgean.com
@@ -20232,6 +20233,7 @@
 0.0.0.0 condao.space
 0.0.0.0 condemnuphold.com
 0.0.0.0 condenoticias.net
+0.0.0.0 condensedconvenesaxophone.com
 0.0.0.0 condenseddisgustingconform.com
 0.0.0.0 condensedmassagefoul.com
 0.0.0.0 condepago.com
@@ -36483,6 +36485,7 @@
 0.0.0.0 gloufteglouw.com
 0.0.0.0 gloumsee.net
 0.0.0.0 gloumsie.net
+0.0.0.0 gloumtoawhib.com
 0.0.0.0 glouseer.net
 0.0.0.0 gloushekra.com
 0.0.0.0 gloustoa.net
@@ -61759,6 +61762,7 @@
 0.0.0.0 oakvilleblueprinting.com
 0.0.0.0 oalitoug.com
 0.0.0.0 oalsaiceers.com
+0.0.0.0 oalsaifou.com
 0.0.0.0 oalsauwy.net
 0.0.0.0 oalselry.com
 0.0.0.0 oalsoagn.com
@@ -112947,6 +112951,7 @@
 0.0.0.0 www.vdigitaltechies.com
 0.0.0.0 www.vectorpharmarussia.com
 0.0.0.0 www.vedved.com
+0.0.0.0 www.veechost.com
 0.0.0.0 www.vegetationbuoyspeciality.com
 0.0.0.0 www.vegetationplywoodfiction.com
 0.0.0.0 www.vehemencetrenchnoodle.com
