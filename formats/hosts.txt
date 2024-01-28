@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.029
 # Release: 029
-# Entries: 118,165
-# Updated: Mon, 29 Jan 24 02:14:50 +06
+# Entries: 118,168
+# Updated: Mon, 29 Jan 24 04:08:39 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -102687,6 +102687,7 @@
 0.0.0.0 www.dfgg.life
 0.0.0.0 www.dfideuramonline.it
 0.0.0.0 www.dfqcf.com
+0.0.0.0 www.dhame.com
 0.0.0.0 www.dhjbearings.com
 0.0.0.0 www.di-rectlink.com
 0.0.0.0 www.diabetecoffee.com
@@ -106646,6 +106647,7 @@
 0.0.0.0 www.kreativevue.com
 0.0.0.0 www.kreditexpert.top
 0.0.0.0 www.krishibhavankadukutty.com
+0.0.0.0 www.krishiva.store
 0.0.0.0 www.krishnadarpannews.live
 0.0.0.0 www.kroonipon.com
 0.0.0.0 www.kscv2.com
@@ -112232,6 +112234,7 @@
 0.0.0.0 www.the-parent.app
 0.0.0.0 www.theacademyas.net
 0.0.0.0 www.theadvantedge.site
+0.0.0.0 www.thealtculture.com
 0.0.0.0 www.thearyaninternational.com
 0.0.0.0 www.theatrepair.com
 0.0.0.0 www.theatresintotales.com
