@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.028
 # Release: 028
-# Entries: 118,116
-# Updated: Sun, 28 Jan 24 10:13:08 +06
+# Entries: 118,119
+# Updated: Sun, 28 Jan 24 12:08:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -36484,6 +36484,7 @@
 0.0.0.0 glookroz.net
 0.0.0.0 glooksohu.com
 0.0.0.0 gloolrey.com
+0.0.0.0 glooltop.com
 0.0.0.0 gloomfabricgravy.com
 0.0.0.0 gloommarkhere.com
 0.0.0.0 gloomseb.net
@@ -46881,6 +46882,7 @@
 0.0.0.0 jouboyoi.com
 0.0.0.0 jouchuthin.com
 0.0.0.0 joudotee.com
+0.0.0.0 joufogli.com
 0.0.0.0 joukaglie.com
 0.0.0.0 joukidles.life
 0.0.0.0 jounaque.com
@@ -60516,6 +60518,7 @@
 0.0.0.0 njvacw.xyz
 0.0.0.0 njvrmruwyun.com
 0.0.0.0 njyoungfilmmakers.org
+0.0.0.0 njzlzfrya.com
 0.0.0.0 nkabahleappliance.com
 0.0.0.0 nkabinde.tech
 0.0.0.0 nkbm-si.co
