@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.029
 # Release: 029
-# Entries: 118,171
-# Updated: Mon, 29 Jan 24 06:44:13 +06
+# Entries: 118,227
+# Updated: Mon, 29 Jan 24 08:08:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7788,6 +7788,7 @@
 0.0.0.0 app-circle-world.com
 0.0.0.0 app-id.support
 0.0.0.0 app-osmosis.art
+0.0.0.0 app-tweaks.net
 0.0.0.0 app.ringcentral.com
 0.0.0.0 app.secads.club
 0.0.0.0 app.trackbiss.club
@@ -8403,6 +8404,7 @@
 0.0.0.0 armsmy.com
 0.0.0.0 armundra.com
 0.0.0.0 army.delivery
+0.0.0.0 armyattackreborn.com
 0.0.0.0 arnautjamdani.com
 0.0.0.0 arnautneuroma.life
 0.0.0.0 arnavchaudhary.tech
@@ -10362,7 +10364,10 @@
 0.0.0.0 b67800.com
 0.0.0.0 b67819.com
 0.0.0.0 b67821.com
+0.0.0.0 b67822.com
 0.0.0.0 b67824.com
+0.0.0.0 b67825.com
+0.0.0.0 b67827.com
 0.0.0.0 b7-mytag.com
 0.0.0.0 b70623.com
 0.0.0.0 b70626.com
@@ -11591,6 +11596,7 @@
 0.0.0.0 bedevilaspirinromance.com
 0.0.0.0 bedevilglare.com
 0.0.0.0 bedford.vet
+0.0.0.0 bedgas.com
 0.0.0.0 bedmantaximan.com
 0.0.0.0 bedminton.online
 0.0.0.0 bedodrioer.com
@@ -12192,6 +12198,7 @@
 0.0.0.0 bestzba.com
 0.0.0.0 besullyatte.com
 0.0.0.0 beswarmfurless.cam
+0.0.0.0 besyx.com
 0.0.0.0 bet-2fun.com
 0.0.0.0 bet2fun.pw
 0.0.0.0 bet2fun.world
@@ -17498,6 +17505,7 @@
 0.0.0.0 cgaa51.com
 0.0.0.0 cgabhafifajagfjbb.ru
 0.0.0.0 cgaqwdpzj.com
+0.0.0.0 cgaward.org
 0.0.0.0 cgbaybqywso.com
 0.0.0.0 cgbmjsasm.xyz
 0.0.0.0 cgcpetsfriends.com
@@ -22439,6 +22447,7 @@
 0.0.0.0 czechphiltrio.com
 0.0.0.0 czechprofighters.com
 0.0.0.0 czechspaceprogram.org
+0.0.0.0 czechspaceprogram.tv
 0.0.0.0 czechspyder.net
 0.0.0.0 czechtrade.org
 0.0.0.0 czechweb.org
@@ -22884,6 +22893,7 @@
 0.0.0.0 dasperdolus.com
 0.0.0.0 daspiratioty.co
 0.0.0.0 dastkhat.online
+0.0.0.0 daston.co.uk
 0.0.0.0 dastourntravels.com
 0.0.0.0 daswaschmittel.info
 0.0.0.0 data-analytics.jp
@@ -25717,6 +25727,7 @@
 0.0.0.0 doltishmoggan.store
 0.0.0.0 dom-taro.com
 0.0.0.0 domaci-majster.com
+0.0.0.0 domaciuzeniny.com
 0.0.0.0 domaeweiiin.com
 0.0.0.0 domafonsobarbearia.com
 0.0.0.0 domain1domain.com
@@ -25819,6 +25830,7 @@
 0.0.0.0 donofo.app
 0.0.0.0 donorattacks.com
 0.0.0.0 donorenvy.com
+0.0.0.0 donqui.com
 0.0.0.0 donrkatz.com
 0.0.0.0 donsexperience.com
 0.0.0.0 donsexperience.us
@@ -27965,6 +27977,7 @@
 0.0.0.0 effectuallyrefrigerator.com
 0.0.0.0 effeshumoury.xyz
 0.0.0.0 effeud.com
+0.0.0.0 efficacesweat.fun
 0.0.0.0 effichic.com
 0.0.0.0 effide.com
 0.0.0.0 effidget.com
@@ -28523,6 +28536,7 @@
 0.0.0.0 elitemacronutrition.com
 0.0.0.0 elitemina.com
 0.0.0.0 elitemodeltours.com
+0.0.0.0 elitemtg.ca
 0.0.0.0 elitemxp.com
 0.0.0.0 elitergo.com
 0.0.0.0 elitewindowsolarwashing.com
@@ -28594,6 +28608,7 @@
 0.0.0.0 eloquentformallyrelapse.com
 0.0.0.0 elosopalyrk.com
 0.0.0.0 elotributeband.com
+0.0.0.0 elparaisodecalamuchita.com
 0.0.0.0 elpasocountycourts.com
 0.0.0.0 elpest.net
 0.0.0.0 elpfnmboivvwxkd.com
@@ -30544,6 +30559,7 @@
 0.0.0.0 exercisefeeling.com
 0.0.0.0 exerciseundergone.com
 0.0.0.0 exertheadlight.com
+0.0.0.0 exesportvipdays.net
 0.0.0.0 exgirls.cn
 0.0.0.0 exhalejuxtapose.com
 0.0.0.0 exhaleveteranbasketball.com
@@ -30714,6 +30730,7 @@
 0.0.0.0 expressinghomemade.com
 0.0.0.0 expressivedesign.co.uk
 0.0.0.0 expressivediscoveredprominent.com
+0.0.0.0 expresskyc.com
 0.0.0.0 expressmalayalam.com
 0.0.0.0 expressmalvern.com
 0.0.0.0 expressopartners.com
@@ -39102,6 +39119,7 @@
 0.0.0.0 harrispulsecheck.com
 0.0.0.0 harrissecureconnect.com
 0.0.0.0 harryheapanything.com
+0.0.0.0 harryhermioneronalbus.com
 0.0.0.0 harrypottershirts.com
 0.0.0.0 harryshurricane.com
 0.0.0.0 harsh-definition.pro
@@ -42481,6 +42499,7 @@
 0.0.0.0 ideasher.com
 0.0.0.0 ideasrevealed.com
 0.0.0.0 ideatehimawan.com
+0.0.0.0 ideationcrew.com
 0.0.0.0 idecutionmarketing.co.in
 0.0.0.0 ideliv.net
 0.0.0.0 idelpiyuagjxtk.xyz
@@ -43230,6 +43249,7 @@
 0.0.0.0 impenetrableauthorslimbs.com
 0.0.0.0 imperativecapitaltraitor.com
 0.0.0.0 imperator-club.cfd
+0.0.0.0 imperatyv.online
 0.0.0.0 imperialauto.info
 0.0.0.0 imperialcargo.co.in
 0.0.0.0 imperialgray.com
@@ -44008,6 +44028,7 @@
 0.0.0.0 inquiryclank.com
 0.0.0.0 inrakutenmall.top
 0.0.0.0 inrbdma.in
+0.0.0.0 inrealtycz.com
 0.0.0.0 inregisteelan.com
 0.0.0.0 inrhyhorntor.com
 0.0.0.0 inrolhogger.guru
@@ -44340,6 +44361,7 @@
 0.0.0.0 internetidcards.com
 0.0.0.0 internetieforce.directory
 0.0.0.0 internetindustrial.com.br
+0.0.0.0 internetka.io
 0.0.0.0 internetka.online
 0.0.0.0 internetowe-kasino-pl.net
 0.0.0.0 internewskenya.org
@@ -48631,6 +48653,7 @@
 0.0.0.0 kingads.space
 0.0.0.0 kingautherflour.com
 0.0.0.0 kingcobmoe.top
+0.0.0.0 kingconnection.ca
 0.0.0.0 kingdombuildersmt.com
 0.0.0.0 kingdomofeducation.com
 0.0.0.0 kingdomtrusts.org
@@ -48724,6 +48747,7 @@
 0.0.0.0 kitchencafeso.com
 0.0.0.0 kitchenerbusinessinsurance.ca
 0.0.0.0 kitchenerbusinessinsurance.com
+0.0.0.0 kitchenerwaterloo.ca
 0.0.0.0 kitchenmatts.com
 0.0.0.0 kitchenobject.in
 0.0.0.0 kitchiepreppie.com
@@ -50250,6 +50274,7 @@
 0.0.0.0 landmarkfootnotary.com
 0.0.0.0 landnewseasy.com
 0.0.0.0 landofwaterfalls.ca
+0.0.0.0 landofwaterfalls.co.uk
 0.0.0.0 landoza.pw
 0.0.0.0 landp.online
 0.0.0.0 landrovernorth.com
@@ -51304,6 +51329,7 @@
 0.0.0.0 lgpumcja.com
 0.0.0.0 lgqqhbnvfywo.com
 0.0.0.0 lgqwdzexjo.com
+0.0.0.0 lgrykvialh.com
 0.0.0.0 lgs.vlitag.com
 0.0.0.0 lgsa501c3.org
 0.0.0.0 lgse.com
@@ -53665,6 +53691,7 @@
 0.0.0.0 madsans.com
 0.0.0.0 madsecs.com
 0.0.0.0 madsecz.com
+0.0.0.0 madsheepstudios.com
 0.0.0.0 madsims.com
 0.0.0.0 madsips.com
 0.0.0.0 madskis.com
@@ -53910,6 +53937,7 @@
 0.0.0.0 majestydeference.com
 0.0.0.0 majewellers.com
 0.0.0.0 majiiki.xyz
+0.0.0.0 majko-janolek.com
 0.0.0.0 majmesrdcepredeti.com
 0.0.0.0 majomalonic.com
 0.0.0.0 major-t-code.com
@@ -54580,6 +54608,7 @@
 0.0.0.0 masano.ru
 0.0.0.0 masazedoma.com
 0.0.0.0 mascarasock.com
+0.0.0.0 masculinematerclass.com
 0.0.0.0 masdev.in
 0.0.0.0 masexhibition.in
 0.0.0.0 masgallo.com
@@ -55746,6 +55775,8 @@
 0.0.0.0 metroedmonton.com
 0.0.0.0 metrofansmumbai.com
 0.0.0.0 metroinbox.co.uk
+0.0.0.0 metrolanddigital.com
+0.0.0.0 metrolandwest.com
 0.0.0.0 metrologycourses.co.uk
 0.0.0.0 metrologytrainingcourses.co.uk
 0.0.0.0 metrom4milano.it
@@ -56014,6 +56045,7 @@
 0.0.0.0 midlandcultivatecoherence.com
 0.0.0.0 midlanddisorganizeddivide.com
 0.0.0.0 midlandfeisty.com
+0.0.0.0 midlandmirror.com
 0.0.0.0 midlandvenisondollars.com
 0.0.0.0 midmaintee.com
 0.0.0.0 midmobrosoffroading.com
@@ -56166,6 +56198,7 @@
 0.0.0.0 milosamonika.com
 0.0.0.0 miltedurethra.digital
 0.0.0.0 miltlametta.com
+0.0.0.0 miltoncanadianchampion.com
 0.0.0.0 milvagomarica.website
 0.0.0.0 mimaismarket.com
 0.0.0.0 mimaroc.org
@@ -56303,6 +56336,7 @@
 0.0.0.0 mintcom.online
 0.0.0.0 mintcom.pw
 0.0.0.0 mintmanunmanly.com
+0.0.0.0 mintoexpress.com
 0.0.0.0 mintsdrouket.com
 0.0.0.0 mintsesacdigitallicensing.li
 0.0.0.0 minttree.online
@@ -56315,6 +56349,7 @@
 0.0.0.0 minzdesignlab.biz
 0.0.0.0 mioamores.com
 0.0.0.0 miocene.io
+0.0.0.0 miomiowear.com
 0.0.0.0 mioushe.com
 0.0.0.0 mipay.network
 0.0.0.0 miportal.mobi
@@ -56429,6 +56464,7 @@
 0.0.0.0 missioncurrency.com
 0.0.0.0 missiondues.com
 0.0.0.0 missiono2.in
+0.0.0.0 mississauganews.com
 0.0.0.0 mississippiinmates.com
 0.0.0.0 missitzantiot.com
 0.0.0.0 missjav.net
@@ -56993,6 +57029,7 @@
 0.0.0.0 mojejoga.xyz
 0.0.0.0 mojenter.net
 0.0.0.0 mojepotraviny.com
+0.0.0.0 mojfarmar.online
 0.0.0.0 mojjruom.com
 0.0.0.0 mojoaffiliates.com
 0.0.0.0 mojogike.net
@@ -59658,6 +59695,7 @@
 0.0.0.0 net-flixservices.com
 0.0.0.0 net00.biz
 0.0.0.0 net3lease.com
+0.0.0.0 netablesolutions.ca
 0.0.0.0 netablesolutions.com
 0.0.0.0 netaway.online
 0.0.0.0 netbank-au.com
@@ -62809,6 +62847,7 @@
 0.0.0.0 oleinnovsupplies.com
 0.0.0.0 olejenapranie.com
 0.0.0.0 olep.xyz
+0.0.0.0 olgastranikova.com
 0.0.0.0 olgknseruf.com
 0.0.0.0 olibes.com
 0.0.0.0 oliiqftutnsa.com
@@ -65734,6 +65773,7 @@
 0.0.0.0 payingnoodlescam.com
 0.0.0.0 payingpositively.com
 0.0.0.0 payinternetbills.com
+0.0.0.0 paylink.plus
 0.0.0.0 paymekweek.com
 0.0.0.0 payment-auth-invoice.com
 0.0.0.0 payment-auth-invoices.com
@@ -67746,6 +67786,7 @@
 0.0.0.0 plasticfilm.xyz
 0.0.0.0 plasticsloop.org
 0.0.0.0 plastleislike.com
+0.0.0.0 plastovejimky.info
 0.0.0.0 plastovezidle.sbs
 0.0.0.0 plastripgraillac.com
 0.0.0.0 plastrix.in
@@ -69222,6 +69263,7 @@
 0.0.0.0 prestigetanga.com
 0.0.0.0 prestigetoursandtravels.com
 0.0.0.0 prestigevacations.org
+0.0.0.0 prestigexpromotion.com
 0.0.0.0 prestigiousdauntdistressed.com
 0.0.0.0 prestilinea.com
 0.0.0.0 prestondarley.com
@@ -69442,6 +69484,7 @@
 0.0.0.0 privatedqualizebrui.info
 0.0.0.0 privateleaflet.com
 0.0.0.0 privatelookhack.com
+0.0.0.0 privatenjet.com
 0.0.0.0 privatespabox.com
 0.0.0.0 privatewebcans.com
 0.0.0.0 privatrac.com
@@ -72415,6 +72458,7 @@
 0.0.0.0 rammersdarvon.com
 0.0.0.0 rammishruinous.com
 0.0.0.0 ramnaambank.org
+0.0.0.0 ramonbabic.com
 0.0.0.0 ramosz.lol
 0.0.0.0 rampagesonnies.space
 0.0.0.0 rampalterationrevenue.com
@@ -73524,6 +73568,7 @@
 0.0.0.0 rekipion.com
 0.0.0.0 reklamavcakarni.online
 0.0.0.0 reklamko.pro
+0.0.0.0 reklamom.com
 0.0.0.0 reklamz.com
 0.0.0.0 reknowfirbolg.com
 0.0.0.0 rekonstrukcespolehlive.com
@@ -74354,6 +74399,7 @@
 0.0.0.0 rfixitrwa.com
 0.0.0.0 rflsoapli.com
 0.0.0.0 rflswdgcb.xyz
+0.0.0.0 rfmb.me
 0.0.0.0 rfmjcnramsw.com
 0.0.0.0 rfmlulkmqoksq.xyz
 0.0.0.0 rfmxmgxsm.top
@@ -74907,6 +74953,7 @@
 0.0.0.0 rmaducxam.com
 0.0.0.0 rmaiksacouuo.xyz
 0.0.0.0 rmanentsyshru.com
+0.0.0.0 rmatch.org
 0.0.0.0 rmaticalacm.info
 0.0.0.0 rmaticalacycurated.info
 0.0.0.0 rmbaileyprimary.com
@@ -82757,6 +82804,7 @@
 0.0.0.0 stegnecar.com
 0.0.0.0 stegpigbwyda.com
 0.0.0.0 stehjnvwuwudfi.com
+0.0.0.0 stehovani1.com
 0.0.0.0 stehovaniberoun.com
 0.0.0.0 steinfqwe6782beck.com
 0.0.0.0 steinrelists.com
@@ -88206,6 +88254,7 @@
 0.0.0.0 tofiikmedias.com
 0.0.0.0 tofinoeyewear.ca
 0.0.0.0 tofinoeyewear.com
+0.0.0.0 tofinogroup.ca
 0.0.0.0 tofinogroupinc.com
 0.0.0.0 tofinooptical.ca
 0.0.0.0 tofinooptical.com
@@ -88661,6 +88710,7 @@
 0.0.0.0 torontoschism.com
 0.0.0.0 torontosignsandwraps.ca
 0.0.0.0 torontostar.net
+0.0.0.0 torontostar.org
 0.0.0.0 torontourbanangel.ca
 0.0.0.0 torooptudaiz.com
 0.0.0.0 tororango.com
@@ -89410,6 +89460,7 @@
 0.0.0.0 travelservices.tech
 0.0.0.0 travelsicknomad.com
 0.0.0.0 travelsomewherefast.com
+0.0.0.0 traveltomecca.com
 0.0.0.0 traveltop.org
 0.0.0.0 traveltoscount.com
 0.0.0.0 traveltriptourist.com
@@ -91380,6 +91431,7 @@
 0.0.0.0 uloaludu.xyz
 0.0.0.0 ulojlvmejkaem.xyz
 0.0.0.0 ulourgaz.net
+0.0.0.0 ulovletenku.cz
 0.0.0.0 ulqiumryf.com
 0.0.0.0 ulregoqn.com
 0.0.0.0 ulried.com
@@ -92552,6 +92604,7 @@
 0.0.0.0 ustjxrjk.com
 0.0.0.0 ustnahigiena.pro
 0.0.0.0 ustnahigiena.top
+0.0.0.0 ustnozdravje.com
 0.0.0.0 ustokbxij.com
 0.0.0.0 ustomoun.xyz
 0.0.0.0 usuade.com
@@ -94530,6 +94583,7 @@
 0.0.0.0 visualitbd.com
 0.0.0.0 visualsteel.net
 0.0.0.0 visuindia.com
+0.0.0.0 visumeguide.com
 0.0.0.0 visuzh.com
 0.0.0.0 viswakarma.biz
 0.0.0.0 viswritingabookaboutallthethingsheshouldbedoinginhislife.it
@@ -94538,6 +94592,7 @@
 0.0.0.0 vitalcenteronline.uk
 0.0.0.0 vitalhero.com
 0.0.0.0 vitalitygo.co.uk
+0.0.0.0 vitalitylabsinc.com
 0.0.0.0 vitallabs.net.br
 0.0.0.0 vitalnaenergija.net
 0.0.0.0 vitalsaludlauris.com
@@ -94750,6 +94805,7 @@
 0.0.0.0 vmsmshzwgc.com
 0.0.0.0 vmspgcdl.com
 0.0.0.0 vmssolutions.space
+0.0.0.0 vmuabnnwrceb.xyz
 0.0.0.0 vmuid.com
 0.0.0.0 vmuvgxxsbml.com
 0.0.0.0 vmwxsiaco.xyz
