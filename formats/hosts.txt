@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.029
 # Release: 029
-# Entries: 118,314
-# Updated: Mon, 29 Jan 24 10:12:52 +06
+# Entries: 118,315
+# Updated: Mon, 29 Jan 24 12:10:29 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -45941,6 +45941,7 @@
 0.0.0.0 jbodnar.info
 0.0.0.0 jbpgucrnl.com
 0.0.0.0 jbrlsr.com
+0.0.0.0 jbvowhijyrcwi.com
 0.0.0.0 jbwiujl.com
 0.0.0.0 jbwyaewichxiqox.com
 0.0.0.0 jbxfmnycm.com
