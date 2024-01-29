@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.029
 # Release: 029
-# Entries: 118,168
-# Updated: Mon, 29 Jan 24 04:08:39 +06
+# Entries: 118,171
+# Updated: Mon, 29 Jan 24 06:44:13 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -40663,6 +40663,7 @@
 0.0.0.0 hns95.com
 0.0.0.0 hnshenyuancz.com
 0.0.0.0 hntkeiupbnoaeha.xyz
+0.0.0.0 hntwbgbsj.com
 0.0.0.0 hnu.in
 0.0.0.0 hnuegkdnnujwju.xyz
 0.0.0.0 hnuiasa.top
@@ -56649,6 +56650,7 @@
 0.0.0.0 mlwk.online
 0.0.0.0 mlwsqosupiinhix.com
 0.0.0.0 mlwstbdnwdfyng.com
+0.0.0.0 mlxhuekcuqifk.com
 0.0.0.0 mlygvdfj.xyz
 0.0.0.0 mlynky.net
 0.0.0.0 mlzbotz.tech
@@ -90888,6 +90890,7 @@
 0.0.0.0 uaudible.com
 0.0.0.0 uavsgklwxsx.xyz
 0.0.0.0 uazisolhnudiyb.com
+0.0.0.0 uazwqqlt.com
 0.0.0.0 ub.tribalstrived.com
 0.0.0.0 ub.zekedisco.com
 0.0.0.0 ub2023.org
