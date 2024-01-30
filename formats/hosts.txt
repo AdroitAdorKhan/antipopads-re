@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.030
 # Release: 030
-# Entries: 118,470
-# Updated: Tue, 30 Jan 24 04:08:04 +06
+# Entries: 118,472
+# Updated: Tue, 30 Jan 24 06:40:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -18748,6 +18748,7 @@
 0.0.0.0 claquefumeuse.com
 0.0.0.0 claracambridge.co.uk
 0.0.0.0 clarear.net
+0.0.0.0 claricehadalittlelamb.net
 0.0.0.0 clarifyingcommunication.com
 0.0.0.0 clarifyingcommunication.org
 0.0.0.0 clarifysuper.com
@@ -101824,6 +101825,7 @@
 0.0.0.0 www.claimcutejustly.com
 0.0.0.0 www.clanklastingfur.com
 0.0.0.0 www.clapdistributionexample.com
+0.0.0.0 www.claricehadalittlelamb.net
 0.0.0.0 www.clarksstores.net
 0.0.0.0 www.clashencouragingwooden.com
 0.0.0.0 www.clashguidance.com
