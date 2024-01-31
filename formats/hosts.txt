@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.032
 # Release: 032
-# Entries: 118,697
-# Updated: Thu, 01 Feb 24 00:08:15 +06
+# Entries: 118,698
+# Updated: Thu, 01 Feb 24 02:19:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8818,6 +8818,7 @@
 0.0.0.0 asilusopined.uno
 0.0.0.0 asinegohumped.website
 0.0.0.0 asischeck.com
+0.0.0.0 asjengff.com
 0.0.0.0 asjkdhasjkdhwjkdaksjdwkldkasd6666.com
 0.0.0.0 ask100experts.us
 0.0.0.0 askancefinfoot.website
