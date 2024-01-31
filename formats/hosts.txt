@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.01.031
 # Release: 031
-# Entries: 118,655
-# Updated: Wed, 31 Jan 24 16:08:09 +06
+# Entries: 118,657
+# Updated: Wed, 31 Jan 24 18:20:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -44809,6 +44809,7 @@
 0.0.0.0 iphumiki.com
 0.0.0.0 ipiaubahia.com
 0.0.0.0 ipingiam.com
+0.0.0.0 ipipjwqhsgwa.com
 0.0.0.0 ipjjtqfxxobprj.com
 0.0.0.0 ipjsnfbmxsj.com
 0.0.0.0 ipkfcjjygib.com
@@ -72192,6 +72193,7 @@
 0.0.0.0 quokkacheeks.com
 0.0.0.0 quona.yt
 0.0.0.0 quoo.eu
+0.0.0.0 quotationcovetoustractor.com
 0.0.0.0 quotationfirearmrevision.com
 0.0.0.0 quotecosmopolitandetached.com
 0.0.0.0 quoteprocesses.com
