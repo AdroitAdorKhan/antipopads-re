@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.034
 # Release: 034
-# Entries: 119,157
-# Updated: Sat, 03 Feb 24 06:39:18 +06
+# Entries: 119,158
+# Updated: Sat, 03 Feb 24 08:08:05 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -23587,6 +23587,7 @@
 0.0.0.0 decthalon.de
 0.0.0.0 dectionalproduras.com
 0.0.0.0 dedating.online
+0.0.0.0 dedbhogsakp.com
 0.0.0.0 dedekkorenar.company
 0.0.0.0 dedfearingles.info
 0.0.0.0 dedicatedtothepeople.com
