@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.035
 # Release: 035
-# Entries: 119,456
-# Updated: Sun, 04 Feb 24 12:08:00 +06
+# Entries: 119,464
+# Updated: Sun, 04 Feb 24 14:23:05 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4239,6 +4239,7 @@
 0.0.0.0 adidasozweego.fr
 0.0.0.0 adidasyeezyseakers.com
 0.0.0.0 adiddvskbrxjod.com
+0.0.0.0 adids.org
 0.0.0.0 adiingsinspiri.org
 0.0.0.0 adilquadri.com
 0.0.0.0 adimmix.com
@@ -56213,6 +56214,7 @@
 0.0.0.0 meta11webservices.com
 0.0.0.0 meta19.io
 0.0.0.0 meta1coin.support
+0.0.0.0 metachemtrade.com
 0.0.0.0 metaclang.com
 0.0.0.0 metacoupcake.com
 0.0.0.0 metadolar.live
@@ -68732,6 +68734,7 @@
 0.0.0.0 pmpubs.com
 0.0.0.0 pmrekpmrqmkk.com
 0.0.0.0 pmshhugwrwwxn.com
+0.0.0.0 pmsrvcs.com
 0.0.0.0 pmsrvr.com
 0.0.0.0 pmsvy.com
 0.0.0.0 pmtdynamics.com
@@ -78969,6 +78972,7 @@
 0.0.0.0 sendoklima.com
 0.0.0.0 sendtextsafe.com
 0.0.0.0 sendtextsafe.org
+0.0.0.0 senecadc.com
 0.0.0.0 senecapoly.academy
 0.0.0.0 senecapoly.careers
 0.0.0.0 senecapoly.college
@@ -83716,6 +83720,7 @@
 0.0.0.0 stethydelicat.com
 0.0.0.0 steveandkim.net
 0.0.0.0 stevemaddensouthafrica.net
+0.0.0.0 stevencousins.com
 0.0.0.0 stevengullan.com
 0.0.0.0 stevensvillefamilydentistry.com
 0.0.0.0 steveorduno.com
@@ -87725,6 +87730,7 @@
 0.0.0.0 theluminaires.org
 0.0.0.0 thelunashow.com
 0.0.0.0 themabell.com
+0.0.0.0 themadscienceclub.com
 0.0.0.0 themadzymurgist.org
 0.0.0.0 themagicalmetaverse.com
 0.0.0.0 themagicalwardrobe.us
@@ -100668,6 +100674,7 @@
 0.0.0.0 www.alphafoamltd.com
 0.0.0.0 www.alphaorina.tech
 0.0.0.0 www.alphax.company
+0.0.0.0 www.alpineoptometry.ca
 0.0.0.0 www.alpinesafes.com
 0.0.0.0 www.alqaysarlb.com
 0.0.0.0 www.alquilen.com
@@ -117166,6 +117173,7 @@
 0.0.0.0 ydinspire.com
 0.0.0.0 ydjicxmmdhbwojs.com
 0.0.0.0 ydkudqssuur.com
+0.0.0.0 ydncgd.com
 0.0.0.0 ydonkuan.com
 0.0.0.0 ydowswpqrpk.com
 0.0.0.0 ydoyjwornygylqb.xyz
