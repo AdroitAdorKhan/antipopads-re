@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.037
 # Release: 037
-# Entries: 120,024
-# Updated: Tue, 06 Feb 24 06:36:41 +06
+# Entries: 120,026
+# Updated: Tue, 06 Feb 24 08:08:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -23834,6 +23834,7 @@
 0.0.0.0 deewansturacin.com
 0.0.0.0 deewo.org
 0.0.0.0 deezscrubs.us
+0.0.0.0 defacebunny.com
 0.0.0.0 defaceproudlybarnacle.com
 0.0.0.0 defas.site
 0.0.0.0 defaulttabjs.info
@@ -39835,6 +39836,7 @@
 0.0.0.0 havran.org
 0.0.0.0 hawaiiancoconutenergy.com
 0.0.0.0 hawala.net
+0.0.0.0 hawhuxee.com
 0.0.0.0 hawk-rail.com
 0.0.0.0 hawkchafe.com
 0.0.0.0 hawkdiary.com
