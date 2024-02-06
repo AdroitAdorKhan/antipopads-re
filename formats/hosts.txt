@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.038
 # Release: 038
-# Entries: 120,255
-# Updated: Wed, 07 Feb 24 02:20:14 +06
+# Entries: 120,258
+# Updated: Wed, 07 Feb 24 04:08:38 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -18565,6 +18565,7 @@
 0.0.0.0 christmas-party-surprise.com
 0.0.0.0 christmas-tore.com
 0.0.0.0 christmasaxehandyman.com
+0.0.0.0 christmascalled.com
 0.0.0.0 christmasdealseeker.com
 0.0.0.0 christmasneverending.com
 0.0.0.0 christmaspropaganda.com
@@ -21660,6 +21661,7 @@
 0.0.0.0 crazyone.online
 0.0.0.0 crazypaperlady.com
 0.0.0.0 crazytshirtz.shop
+0.0.0.0 crazyzoomwrite.com
 0.0.0.0 crbbgate.com
 0.0.0.0 crbvaysy.com
 0.0.0.0 crcgrilses.com
@@ -23892,6 +23894,7 @@
 0.0.0.0 defensive-bad.com
 0.0.0.0 defensiveevidence.pro
 0.0.0.0 defensiveoverwork.com
+0.0.0.0 deferapproximately.com
 0.0.0.0 deferencedilutemurmur.com
 0.0.0.0 deferiprone.org
 0.0.0.0 deferiprone.us
