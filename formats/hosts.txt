@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.037
 # Release: 037
-# Entries: 120,044
-# Updated: Tue, 06 Feb 24 10:16:29 +06
+# Entries: 120,046
+# Updated: Tue, 06 Feb 24 12:08:09 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -35489,6 +35489,7 @@
 0.0.0.0 gammabendlet.website
 0.0.0.0 gammae.com
 0.0.0.0 gammamkt.com
+0.0.0.0 gammaplatform.com
 0.0.0.0 gamondcaingin.guru
 0.0.0.0 gamorifairly.guru
 0.0.0.0 gampangcuan.net
@@ -68556,6 +68557,7 @@
 0.0.0.0 pkvffbbsxf.top
 0.0.0.0 pkwcagjc.com
 0.0.0.0 pkwhwqmknixg.com
+0.0.0.0 pkxseoxojrg.com
 0.0.0.0 pkyxqppj.com
 0.0.0.0 pl.allsportsflix.top
 0.0.0.0 pl.allsportsflix.xyz
