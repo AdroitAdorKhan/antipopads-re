@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.038
 # Release: 038
-# Entries: 120,258
-# Updated: Wed, 07 Feb 24 04:08:38 +06
+# Entries: 120,275
+# Updated: Wed, 07 Feb 24 06:38:53 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10666,6 +10666,7 @@
 0.0.0.0 badlymaggot.com
 0.0.0.0 badlywired.com
 0.0.0.0 badmintonforall.com
+0.0.0.0 badops.xyz
 0.0.0.0 badparentingreport.com
 0.0.0.0 badrookrafta.com
 0.0.0.0 badsabs.com
@@ -16735,6 +16736,7 @@
 0.0.0.0 carnit.one
 0.0.0.0 carnivalenoir.ca
 0.0.0.0 carnivalnoir.ca
+0.0.0.0 carnivalradiationwage.com
 0.0.0.0 carnivorouseditsemester.com
 0.0.0.0 carnlval.com
 0.0.0.0 carnscantab.digital
@@ -25533,6 +25535,7 @@
 0.0.0.0 distorttrucknurture.com
 0.0.0.0 distortunfitunacceptable.com
 0.0.0.0 distractedavail.com
+0.0.0.0 distractfragment.com
 0.0.0.0 distractingtrustlamb.com
 0.0.0.0 distractingzodiacperpetrate.com
 0.0.0.0 distractiontradingamass.com
@@ -30305,6 +30308,7 @@
 0.0.0.0 essentiallyitemoutrageous.com
 0.0.0.0 essentiallyscramble.com
 0.0.0.0 essentialpiece.pro
+0.0.0.0 essentialshookmight.com
 0.0.0.0 essentialsicklyinane.com
 0.0.0.0 essentialsonthego.com
 0.0.0.0 esseunica.com
@@ -47340,6 +47344,7 @@
 0.0.0.0 jlbgyksbvdqj.com
 0.0.0.0 jldbnjghezv.com
 0.0.0.0 jlegmmdcoo.com
+0.0.0.0 jlfhnpoqo.com
 0.0.0.0 jlfvppuf.com
 0.0.0.0 jlhchjsy.com
 0.0.0.0 jlhlhmclsarnj.com
@@ -56175,6 +56180,7 @@
 0.0.0.0 medicalmysteries.org
 0.0.0.0 medicalnet.in
 0.0.0.0 medicalpompousfatty.com
+0.0.0.0 medicalpossessionlint.com
 0.0.0.0 medicaltourisminindia.in
 0.0.0.0 medicalvermixin.xyz
 0.0.0.0 medicamentcontrelagale.com
@@ -60131,6 +60137,7 @@
 0.0.0.0 nationinternet.net
 0.0.0.0 nationlibrary.in
 0.0.0.0 nationscappuccinoproblems.com
+0.0.0.0 nationsencodecordial.com
 0.0.0.0 nationsroyalties.com
 0.0.0.0 nationsroyalty.ca
 0.0.0.0 nationssalvation.com
@@ -61507,6 +61514,7 @@
 0.0.0.0 ninoglostoay.com
 0.0.0.0 ninsinsu.com
 0.0.0.0 ninsu-tmc.com
+0.0.0.0 ninthfad.com
 0.0.0.0 niobicpensy.store
 0.0.0.0 nipechala.com
 0.0.0.0 niphoneua.com
@@ -64437,6 +64445,7 @@
 0.0.0.0 onlylookupsud.info
 0.0.0.0 onlylunch.in
 0.0.0.0 onlyperfekt.online
+0.0.0.0 onlypleaseopposition.com
 0.0.0.0 onlyry.net
 0.0.0.0 onlyyourbiglove.com
 0.0.0.0 onmarilltor.com
@@ -67535,6 +67544,7 @@
 0.0.0.0 perlepiete.com
 0.0.0.0 perlucismpeol.com
 0.0.0.0 permanentadvertisebytes.com
+0.0.0.0 permanentlymission.com
 0.0.0.0 permanentlyreefwool.com
 0.0.0.0 permanentlyvulture.com
 0.0.0.0 permanentnearly.com
@@ -69983,6 +69993,7 @@
 0.0.0.0 pouncetomolo.cfd
 0.0.0.0 poundabbreviation.com
 0.0.0.0 poundaroseflight.com
+0.0.0.0 poundplanprecarious.com
 0.0.0.0 poundrestaurant.com
 0.0.0.0 pounti.com
 0.0.0.0 pourdear.com
@@ -70333,6 +70344,7 @@
 0.0.0.0 prefabulous.us
 0.0.0.0 prefaceanything.com
 0.0.0.0 preferablycompletion.com
+0.0.0.0 preferablyducks.com
 0.0.0.0 preferenceforfeit.com
 0.0.0.0 preferredsaltshift.com
 0.0.0.0 preferunhair.com
@@ -73144,6 +73156,7 @@
 0.0.0.0 queezy.online
 0.0.0.0 quellaplentyresolute.com
 0.0.0.0 quellstubble.com
+0.0.0.0 quellunskilfulimmersed.com
 0.0.0.0 quenchskirmishcohere.com
 0.0.0.0 quensillo.com
 0.0.0.0 quepadreconsciencia.com
@@ -73473,6 +73486,7 @@
 0.0.0.0 rabbit.hosting
 0.0.0.0 rabbitrun.tech
 0.0.0.0 rabbitshibabsc.com
+0.0.0.0 rabbitsverification.com
 0.0.0.0 rabbitys.com
 0.0.0.0 rabblefang.com
 0.0.0.0 rabbleforfeitporcelain.com
@@ -75466,6 +75480,7 @@
 0.0.0.0 restorationpencil.com
 0.0.0.0 restore-your-energy.me
 0.0.0.0 restorehealingflee.com
+0.0.0.0 restoretwenty.com
 0.0.0.0 restrictbench.com
 0.0.0.0 restricteddipping.com
 0.0.0.0 restrictedsection.net
@@ -83675,6 +83690,7 @@
 0.0.0.0 squashvegetableoccult.com
 0.0.0.0 squatdisloyal.com
 0.0.0.0 squawmish.xyz
+0.0.0.0 squeaknicheentangled.com
 0.0.0.0 squeakyheart.pro
 0.0.0.0 squealaviationrepeatedly.com
 0.0.0.0 squebe.com
@@ -84447,6 +84463,7 @@
 0.0.0.0 stinkcomedian.com
 0.0.0.0 stinkebook.com
 0.0.0.0 stinkwailingbalk.com
+0.0.0.0 stinkwrestle.com
 0.0.0.0 stinkyloadeddoctor.com
 0.0.0.0 stinkyrepetition.com
 0.0.0.0 stinternoctuae.com
