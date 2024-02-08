@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.040
 # Release: 040
-# Entries: 120,766
-# Updated: Fri, 09 Feb 24 02:12:08 +06
+# Entries: 120,767
+# Updated: Fri, 09 Feb 24 04:07:54 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -68862,6 +68862,7 @@
 :: pixelmindenes.com
 :: pixelp.tech
 :: pixelsafariclub.com
+:: pixelspivot.com
 :: pixeltest2.com
 :: pixeltest3.com
 :: pixfuture.net
