@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.039
 # Release: 039
-# Entries: 120,737
-# Updated: Thu, 08 Feb 24 15:30:13 +06
+# Entries: 120,738
+# Updated: Thu, 08 Feb 24 16:08:01 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -87367,6 +87367,7 @@
 0.0.0.0 tckcymfnpsl.com
 0.0.0.0 tcklxsdxmpgrutc.com
 0.0.0.0 tcnmf.com
+0.0.0.0 tcnsquhxx.com
 0.0.0.0 tconf.ru
 0.0.0.0 tcopengroup.com
 0.0.0.0 tcow.store
