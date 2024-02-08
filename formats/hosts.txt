@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.039
 # Release: 039
-# Entries: 120,655
-# Updated: Thu, 08 Feb 24 10:13:44 +06
+# Entries: 120,657
+# Updated: Thu, 08 Feb 24 12:12:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -42938,6 +42938,7 @@
 0.0.0.0 hydroizolace.biz
 0.0.0.0 hydroizolacesanace.com
 0.0.0.0 hydromot-motors.com
+0.0.0.0 hydrophonicsystem.com
 0.0.0.0 hydroqc-service.net
 0.0.0.0 hydroshop.com.au
 0.0.0.0 hydrotehnik.com
@@ -62322,6 +62323,7 @@
 0.0.0.0 not-tesla.com
 0.0.0.0 not2beabused01.xyz
 0.0.0.0 not2beabused02.xyz
+0.0.0.0 not4abuse1.xyz
 0.0.0.0 notabilitysedative.com
 0.0.0.0 notablenurse.com
 0.0.0.0 notablynationality.com
