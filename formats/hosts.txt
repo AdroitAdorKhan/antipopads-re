@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.039
 # Release: 039
-# Entries: 120,646
-# Updated: Thu, 08 Feb 24 07:00:10 +06
+# Entries: 120,651
+# Updated: Thu, 08 Feb 24 08:30:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14296,6 +14296,7 @@
 0.0.0.0 boomerhams.net
 0.0.0.0 boomerhams.org
 0.0.0.0 boomersask.us
+0.0.0.0 boomersurlelac.com
 0.0.0.0 boomify.agency
 0.0.0.0 boomouso.xyz
 0.0.0.0 boomslot88.site
@@ -42903,6 +42904,7 @@
 0.0.0.0 hxplnojsw.com
 0.0.0.0 hxpyrgqycgreyy.xyz
 0.0.0.0 hxtvrydyhi.xyz
+0.0.0.0 hxukyvlhjk.xyz
 0.0.0.0 hxwjmeveeb.com
 0.0.0.0 hxwnnaee.com
 0.0.0.0 hxx6.com
@@ -58318,6 +58320,7 @@
 0.0.0.0 mondodellafesta.it
 0.0.0.0 mondoedil.net
 0.0.0.0 mondongo.tech
+0.0.0.0 monero-miner.net
 0.0.0.0 monetag.com
 0.0.0.0 monetiza.ai
 0.0.0.0 monetizer101.com
@@ -72531,6 +72534,7 @@
 0.0.0.0 pxdghffadlhpbw.com
 0.0.0.0 pxdkaudg.com
 0.0.0.0 pxdujpdbdqkisil.com
+0.0.0.0 pxepuyrcwtveqs.com
 0.0.0.0 pxfijsga.com
 0.0.0.0 pxinkiiqnrxiqqm.com
 0.0.0.0 pxl.reklamselfie.com
@@ -89824,6 +89828,7 @@
 0.0.0.0 tis-volt.info
 0.0.0.0 tisandt.com
 0.0.0.0 tisate.com
+0.0.0.0 tiscai.it
 0.0.0.0 tishipou.net
 0.0.0.0 tishreeneducation.com
 0.0.0.0 tiskanje.pro
