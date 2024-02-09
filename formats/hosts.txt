@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.040
 # Release: 040
-# Entries: 120,839
-# Updated: Fri, 09 Feb 24 14:57:46 +06
+# Entries: 120,841
+# Updated: Fri, 09 Feb 24 16:07:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -72202,6 +72202,7 @@
 0.0.0.0 pujcovnapolaroidu.com
 0.0.0.0 pujcovnavseho.info
 0.0.0.0 pukazi.com
+0.0.0.0 pukeijkahga.xyz
 0.0.0.0 puksackogrie.com
 0.0.0.0 pulaptib.com
 0.0.0.0 pulavcel.asia
@@ -74522,6 +74523,7 @@
 0.0.0.0 rdptbauyh.com
 0.0.0.0 rdqlaobjxmx.com
 0.0.0.0 rdr.pushta.net
+0.0.0.0 rdrads.com
 0.0.0.0 rdrceting.com
 0.0.0.0 rdrctgoweb.com
 0.0.0.0 rdreamsofcryin.info
