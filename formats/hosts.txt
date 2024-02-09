@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.040
 # Release: 040
-# Entries: 120,772
-# Updated: Fri, 09 Feb 24 08:08:10 +06
+# Entries: 120,774
+# Updated: Fri, 09 Feb 24 10:11:54 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -74076,6 +74076,7 @@
 0.0.0.0 rammersdarvon.com
 0.0.0.0 rammishruinous.com
 0.0.0.0 ramnaambank.org
+0.0.0.0 ramnsqdk.com
 0.0.0.0 ramonbabic.com
 0.0.0.0 ramosz.lol
 0.0.0.0 rampagesonnies.space
@@ -76357,6 +76358,7 @@
 0.0.0.0 rigvkgfepy.com
 0.0.0.0 rihosaphe.com
 0.0.0.0 rihsivam.com
+0.0.0.0 riicznate.com
 0.0.0.0 riiee.com
 0.0.0.0 riimyitttsxdvfj.com
 0.0.0.0 rijmfqzckx.com
