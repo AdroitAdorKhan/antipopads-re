@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.041
 # Release: 041
-# Entries: 121,038
-# Updated: Sat, 10 Feb 24 02:19:04 +06
+# Entries: 121,046
+# Updated: Sat, 10 Feb 24 04:08:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1078,6 +1078,7 @@
 0.0.0.0 2fb8or7ai.de
 0.0.0.0 2fgrrc9t0.de
 0.0.0.0 2fnptjci.de
+0.0.0.0 2fwpad.www.sterenwifi.com
 0.0.0.0 2fwww.ameliajsimpson.com
 0.0.0.0 2fwww.highrevenuegate.com
 0.0.0.0 2fwww.highwaycpmrevenue.com
@@ -31624,6 +31625,7 @@
 0.0.0.0 ezfrywce0.space
 0.0.0.0 ezgeodns.net
 0.0.0.0 ezhefg9gbhgh10.com
+0.0.0.0 ezidygd.com
 0.0.0.0 ezigma.com
 0.0.0.0 ezjhhapcoe.com
 0.0.0.0 ezmfyfnylvnmxw.com
@@ -35506,6 +35508,7 @@
 0.0.0.0 fzkqshbim.com
 0.0.0.0 fzommizpo.com
 0.0.0.0 fzrtrpbhkxx.com
+0.0.0.0 fzszuvb.com
 0.0.0.0 fztmn.top
 0.0.0.0 fzuzhcqd.com
 0.0.0.0 g-content.bid
@@ -61835,6 +61838,7 @@
 0.0.0.0 niftyjelly.com
 0.0.0.0 niftyplumlet.website
 0.0.0.0 niftysavage.io
+0.0.0.0 nifvikfakt.com
 0.0.0.0 niganmaaiiyooo.com
 0.0.0.0 nigdom.com
 0.0.0.0 nigerm.com
@@ -84026,12 +84030,14 @@
 0.0.0.0 spoilerfree-reviews.com
 0.0.0.0 spoilmagicstandard.com
 0.0.0.0 spoilphysiqueteenagers.com
+0.0.0.0 spojmesa.fun
 0.0.0.0 spokalicious.com
 0.0.0.0 spokanunwindy.life
 0.0.0.0 spokeninspiredtruck.com
 0.0.0.0 spokesmanlinedmercury.com
 0.0.0.0 spolbyt-group.online
 0.0.0.0 spolfi.com
+0.0.0.0 spoluprehlohovec.online
 0.0.0.0 spondeetougher.guru
 0.0.0.0 spongedantares.digital
 0.0.0.0 spongemilitarydesigner.com
@@ -114217,6 +114223,7 @@
 0.0.0.0 www.splinterhaggreater.com
 0.0.0.0 www.spnankbang.com
 0.0.0.0 www.spoilphysiqueteenagers.com
+0.0.0.0 www.spojmesa.fun
 0.0.0.0 www.spokesmanlinedmercury.com
 0.0.0.0 www.spongemilitarydesigner.com
 0.0.0.0 www.spongewoodenheroism.com
@@ -117978,6 +117985,7 @@
 0.0.0.0 xnhlgtdetfj.xyz
 0.0.0.0 xnikdsikygpdeg.com
 0.0.0.0 xnjbbcec.com
+0.0.0.0 xnkhbwweikp.xyz
 0.0.0.0 xnkjlnyefuohbgn.xyz
 0.0.0.0 xnksuhsqqvcpuv.com
 0.0.0.0 xnmmdiuqcrw.com
