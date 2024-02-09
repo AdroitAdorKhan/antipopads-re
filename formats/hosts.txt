@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.040
 # Release: 040
-# Entries: 120,774
-# Updated: Fri, 09 Feb 24 10:11:54 +06
+# Entries: 120,776
+# Updated: Fri, 09 Feb 24 12:08:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -40800,6 +40800,7 @@
 0.0.0.0 hertretre1.com
 0.0.0.0 herveauquebec.net
 0.0.0.0 herynore.com
+0.0.0.0 herzogcontracting.net
 0.0.0.0 herzogmotorsports.com
 0.0.0.0 herzogpmp.com
 0.0.0.0 herzogservices.net
@@ -107664,6 +107665,7 @@
 0.0.0.0 www.heronspire.com
 0.0.0.0 www.herpassages.com
 0.0.0.0 www.hertretre1.com
+0.0.0.0 www.herzogcontracting.net
 0.0.0.0 www.herzogmotorsports.com
 0.0.0.0 www.herzogpmp.com
 0.0.0.0 www.hesitationghetto.com
