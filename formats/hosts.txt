@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.02.041
-# Release: 041
-# Entries: 121,211
-# Updated: Sat, 10 Feb 24 22:29:04 +06
+# Version: 24.02.042
+# Release: 042
+# Entries: 121,216
+# Updated: Sun, 11 Feb 24 00:19:29 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -772,6 +772,7 @@
 0.0.0.0 1yesterdayx.com
 0.0.0.0 1ypersters1.com
 0.0.0.0 1yuan.tech
+0.0.0.0 1yy0.com
 0.0.0.0 2-0-2-2.fun
 0.0.0.0 2-cents.us
 0.0.0.0 2-factor.ca
@@ -49748,6 +49749,7 @@
 0.0.0.0 kialopsicologos.com
 0.0.0.0 kiaofgreer.info
 0.0.0.0 kiaughpurply.tech
+0.0.0.0 kiaughsviner.com
 0.0.0.0 kiausedautoparts.com
 0.0.0.0 kiblahsbuenas.com
 0.0.0.0 kibowentrevs.tech
@@ -68200,6 +68202,7 @@
 0.0.0.0 pescataria.com
 0.0.0.0 pesewabantus.digital
 0.0.0.0 peskyclarifysuitcases.com
+0.0.0.0 peskycrash.com
 0.0.0.0 peskylock.com
 0.0.0.0 peskyresistamaze.com
 0.0.0.0 pesoaniz.com
@@ -69740,6 +69743,7 @@
 0.0.0.0 plokyrsv1rgn.com
 0.0.0.0 plopeletres.com
 0.0.0.0 plosaztduojwbe.com
+0.0.0.0 plotafb.com
 0.0.0.0 plotputrefyplant.com
 0.0.0.0 plottercatnap.digital
 0.0.0.0 plotxalkalin.space
@@ -114156,6 +114160,7 @@
 0.0.0.0 www.smartworldtheempiresector66.net
 0.0.0.0 www.smartworldtriumphsector66.co.in
 0.0.0.0 www.smbe-app.com
+0.0.0.0 www.smearmarch.com
 0.0.0.0 www.smertmoskalam.online
 0.0.0.0 www.smics.org
 0.0.0.0 www.smilingdefectcue.com
