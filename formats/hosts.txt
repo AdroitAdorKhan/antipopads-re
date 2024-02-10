@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.041
 # Release: 041
-# Entries: 121,135
-# Updated: Sat, 10 Feb 24 08:08:16 +06
+# Entries: 121,138
+# Updated: Sat, 10 Feb 24 10:20:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -59729,6 +59729,7 @@
 0.0.0.0 mxmkhyrmup.com
 0.0.0.0 mxnwpveqxugfue.com
 0.0.0.0 mxplwkgqfvln.com
+0.0.0.0 mxporqtisx.com
 0.0.0.0 mxptint.net
 0.0.0.0 mxrxtbykeib.com
 0.0.0.0 mxstash.com
@@ -73090,6 +73091,7 @@
 0.0.0.0 qdotzfy.com
 0.0.0.0 qdprapwflpvxpyl.com
 0.0.0.0 qdurxkneqauxko.xyz
+0.0.0.0 qdvducltjswp.com
 0.0.0.0 qdvkwkuxvfk.com
 0.0.0.0 qdwhagire.com
 0.0.0.0 qdxvijfxaacmtn.com
@@ -90277,6 +90279,7 @@
 0.0.0.0 tivider.com
 0.0.0.0 tivvsaunec.com
 0.0.0.0 tiwazdaunts.cfd
+0.0.0.0 tiwbgqddmz.com
 0.0.0.0 tiwhaiph.net
 0.0.0.0 tiwouboa.com
 0.0.0.0 tiwwin.com
