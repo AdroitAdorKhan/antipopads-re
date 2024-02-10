@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.042
 # Release: 042
-# Entries: 121,225
-# Updated: Sun, 11 Feb 24 02:07:56 +06
+# Entries: 121,228
+# Updated: Sun, 11 Feb 24 04:08:19 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15532,6 +15532,7 @@
 0.0.0.0 bulbofficial.com
 0.0.0.0 bulbydampish.space
 0.0.0.0 bulcqmteuc.com
+0.0.0.0 buldlugxfpegep.com
 0.0.0.0 bulgae.com
 0.0.0.0 bulgecsi.com
 0.0.0.0 bulginglair.com
@@ -53074,6 +53075,7 @@
 0.0.0.0 linkandseo.com
 0.0.0.0 linkassistenza.it
 0.0.0.0 linkbolic.com
+0.0.0.0 linkboss.shop
 0.0.0.0 linkbridgetranslate.com
 0.0.0.0 linkbuddies.com
 0.0.0.0 linkbyone.com
@@ -87740,6 +87742,7 @@
 0.0.0.0 tcaadwa.com
 0.0.0.0 tcache.ml
 0.0.0.0 tcaochocskid.com
+0.0.0.0 tcare.today
 0.0.0.0 tcars.net
 0.0.0.0 tcatholicyclea.com
 0.0.0.0 tcaukthwaalsoex.info
