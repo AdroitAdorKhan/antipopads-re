@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.041
 # Release: 041
-# Entries: 121,141
-# Updated: Sat, 10 Feb 24 12:07:58 +06
+# Entries: 121,160
+# Updated: Sat, 10 Feb 24 14:29:17 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16706,6 +16706,7 @@
 0.0.0.0 car-model-kit.net
 0.0.0.0 car-notifier.com
 0.0.0.0 car-peep.com
+0.0.0.0 car-peep.net
 0.0.0.0 car-t.org.uk
 0.0.0.0 car4u.uk
 0.0.0.0 cara-alami.net
@@ -16866,6 +16867,7 @@
 0.0.0.0 carpathianfactory.com
 0.0.0.0 carpathianstours.com
 0.0.0.0 carpathiatimber.com
+0.0.0.0 carpeep.net
 0.0.0.0 carpenterco.net
 0.0.0.0 carpenterexplorerdemolition.com
 0.0.0.0 carpenterremotebrainpower.com
@@ -24780,6 +24782,7 @@
 0.0.0.0 dewiestsards.com
 0.0.0.0 dewilyunhands.space
 0.0.0.0 dewincubiatoll.com
+0.0.0.0 dewyfox.com
 0.0.0.0 dexcbxcokslj.xyz
 0.0.0.0 dexchangeinc.com
 0.0.0.0 dexessee.com
@@ -30868,6 +30871,7 @@
 0.0.0.0 eurovipcar.com
 0.0.0.0 euroyachtscharter.com
 0.0.0.0 eurse.com
+0.0.0.0 euruqublewe.com
 0.0.0.0 eusbhnpyhty.com
 0.0.0.0 eusgiarc.com
 0.0.0.0 eusmadhlyjn.xyz
@@ -43456,6 +43460,7 @@
 0.0.0.0 icicleriskfence.com
 0.0.0.0 iciftiwe.com
 0.0.0.0 icihomes.org
+0.0.0.0 icihomes.us
 0.0.0.0 icilyassertiveindoors.com
 0.0.0.0 icilytired.com
 0.0.0.0 icinvestbank.com
@@ -45960,6 +45965,8 @@
 0.0.0.0 ironjou.com
 0.0.0.0 ironmannow.com
 0.0.0.0 ironmis.com
+0.0.0.0 ironoverloadtreatmentoption-hcp.com
+0.0.0.0 ironoverloadtreatmentoption.com
 0.0.0.0 ironroadlogistic.com
 0.0.0.0 ironstudios.biz
 0.0.0.0 ironstudios.org
@@ -49393,6 +49400,8 @@
 0.0.0.0 keezoupe.net
 0.0.0.0 kefdihfke.com
 0.0.0.0 kefece.online
+0.0.0.0 kefirbread.com
+0.0.0.0 kefirdough.com
 0.0.0.0 kegdhhlmmsq.top
 0.0.0.0 kegnupha.com
 0.0.0.0 kegsandremembrance.com
@@ -60966,6 +60975,7 @@
 0.0.0.0 need.design
 0.0.0.0 needagym.com
 0.0.0.0 needalogo.net
+0.0.0.0 needdonationsnow.com
 0.0.0.0 needeevo.xyz
 0.0.0.0 needfulerasemidland.com
 0.0.0.0 needierstraits.website
@@ -67889,6 +67899,7 @@
 0.0.0.0 penkillingapathy.com
 0.0.0.0 penleysolutions.com
 0.0.0.0 penmenfergus.top
+0.0.0.0 penneysautocollection.com
 0.0.0.0 penniedtache.com
 0.0.0.0 pennilesscomingall.com
 0.0.0.0 pennilesspictorial.com
@@ -74891,6 +74902,7 @@
 0.0.0.0 realtimeyoutube.com
 0.0.0.0 realtorcareerblueprint.com
 0.0.0.0 realtracking.ninja
+0.0.0.0 realtyglimpse.com
 0.0.0.0 realtyofmexico.com
 0.0.0.0 realtyonehomevalues.com
 0.0.0.0 realvids.online
@@ -78652,6 +78664,7 @@
 0.0.0.0 saltekgroup.com
 0.0.0.0 salterstickie.com
 0.0.0.0 saltot.com
+0.0.0.0 saltot.net
 0.0.0.0 saltpairwoo.live
 0.0.0.0 saltscorn.com
 0.0.0.0 saltsjoggle.com
@@ -88573,12 +88586,14 @@
 0.0.0.0 the-bit-iq.net
 0.0.0.0 the-bit-lq.net
 0.0.0.0 the-bit-trader.com
+0.0.0.0 the-bitcoin-billionaire-app.net
 0.0.0.0 the-bitcoin-future-app.net
 0.0.0.0 the-bitcoin-future.net
 0.0.0.0 the-bitcoin-loophole-app.net
 0.0.0.0 the-bitcoin-miner-app.net
 0.0.0.0 the-bitcoin-miner.net
 0.0.0.0 the-bitcoin-motion.net
+0.0.0.0 the-bitcoin-motionapp.net
 0.0.0.0 the-bitcoin-prime-app.net
 0.0.0.0 the-bitcoin-pro-app.net
 0.0.0.0 the-bitcoin-rush-app.net
@@ -88589,6 +88604,7 @@
 0.0.0.0 the-bitcoinuppro.com
 0.0.0.0 the-biti-codes.net
 0.0.0.0 the-biticodes-app.net
+0.0.0.0 the-bitlq-app.net
 0.0.0.0 the-british-bitcoin-profit.net
 0.0.0.0 the-btc-up.net
 0.0.0.0 the-christinelambros.com
@@ -91267,6 +91283,7 @@
 0.0.0.0 tpahjkhkp.top
 0.0.0.0 tpalrdgd.com
 0.0.0.0 tpbinge.live
+0.0.0.0 tpbo.org
 0.0.0.0 tpbpxjrm.com
 0.0.0.0 tpbsxcsa.com
 0.0.0.0 tpcenzbgtybq.com
@@ -93444,6 +93461,7 @@
 0.0.0.0 udvhvpltgem.com
 0.0.0.0 udwgzninhil.com
 0.0.0.0 udxdkdirwabx.com
+0.0.0.0 udxoqryuux.com
 0.0.0.0 udxowoljctlqj.xyz
 0.0.0.0 udylonas.com
 0.0.0.0 ueaynogiwgqr.com
@@ -119143,6 +119161,7 @@
 0.0.0.0 yivmnuod.com
 0.0.0.0 yiwangyijiang.com
 0.0.0.0 yiwatu.com
+0.0.0.0 yixevbtok.xyz
 0.0.0.0 yixingjiabbs.com
 0.0.0.0 yixios.com
 0.0.0.0 yiyingaa.com
