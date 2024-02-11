@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.042
 # Release: 042
-# Entries: 121,228
-# Updated: Sun, 11 Feb 24 04:08:19 +06
+# Entries: 121,230
+# Updated: Sun, 11 Feb 24 06:41:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4431,6 +4431,7 @@
 0.0.0.0 adoperatorx.com
 0.0.0.0 adopexchange.com
 0.0.0.0 adoptdischarged.com
+0.0.0.0 adoptedproducerdiscernible.com
 0.0.0.0 adoptexplorationanguish.com
 0.0.0.0 adoptim.fs.ak-is2.net
 0.0.0.0 adoptim.xml.ak-is2.net
@@ -63443,6 +63444,7 @@
 0.0.0.0 o4nofsh6.de
 0.0.0.0 o4uxrk33.com
 0.0.0.0 o626b32etkg6.com
+0.0.0.0 o8bp5yrhoe8.ga
 0.0.0.0 o8y.co
 0.0.0.0 o911o.com
 0.0.0.0 o9ltestsites.online
