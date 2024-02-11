@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.042
 # Release: 042
-# Entries: 121,230
-# Updated: Sun, 11 Feb 24 06:41:12 +06
+# Entries: 121,232
+# Updated: Sun, 11 Feb 24 08:11:17 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -18695,6 +18695,7 @@
 0.0.0.0 christiannarcissistic.com
 0.0.0.0 christianpokerplayers.com
 0.0.0.0 christinaderbyshire.au
+0.0.0.0 christinerice.co.za
 0.0.0.0 christinetraynor.ca
 0.0.0.0 christinetraynor.com
 0.0.0.0 christingera.site
@@ -87973,6 +87974,7 @@
 0.0.0.0 techosophy.com
 0.0.0.0 techotd.com
 0.0.0.0 techpirates.in
+0.0.0.0 techplaneteg.com
 0.0.0.0 techqfx.in
 0.0.0.0 techroger.com
 0.0.0.0 techsourabh2.in.net
