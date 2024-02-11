@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.042
 # Release: 042
-# Entries: 121,294
-# Updated: Sun, 11 Feb 24 16:12:40 +06
+# Entries: 121,296
+# Updated: Sun, 11 Feb 24 18:07:59 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -103784,6 +103784,7 @@
 0.0.0.0 www.bukee.app
 0.0.0.0 www.bulbbounds.com
 0.0.0.0 www.bulbofficial.com
+0.0.0.0 www.bulginglair.com
 0.0.0.0 www.buliang183.com
 0.0.0.0 www.bulkystorehead.com
 0.0.0.0 www.bullesdesens.top
@@ -106527,6 +106528,7 @@
 0.0.0.0 www.examineroverprotectiveproof.com
 0.0.0.0 www.example-callback-url.com
 0.0.0.0 www.examplesusagefeedback.com
+0.0.0.0 www.examsbimt.in
 0.0.0.0 www.examswrath.com
 0.0.0.0 www.exasperatenutty.com
 0.0.0.0 www.exasperationdashed.com
