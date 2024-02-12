@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.044
 # Release: 044
-# Entries: 121,564
-# Updated: Tue, 13 Feb 24 02:57:08 +06
+# Entries: 121,566
+# Updated: Tue, 13 Feb 24 04:08:29 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8092,6 +8092,7 @@
 0.0.0.0 approachproperachieve.com
 0.0.0.0 approachresourceful.com
 0.0.0.0 approp.pro
+0.0.0.0 appropriateinaction.com
 0.0.0.0 appropriateloathefewer.com
 0.0.0.0 appropriatepurse.com
 0.0.0.0 approvalstartshere.com
@@ -45938,6 +45939,7 @@
 0.0.0.0 iphonecases2014.com
 0.0.0.0 iphonecasesbuy.com
 0.0.0.0 iphonehub.info
+0.0.0.0 iphonewallpaper.com
 0.0.0.0 iphumiki.com
 0.0.0.0 ipiaubahia.com
 0.0.0.0 ipingiam.com
