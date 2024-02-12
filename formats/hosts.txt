@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.043
 # Release: 043
-# Entries: 121,348
-# Updated: Mon, 12 Feb 24 06:52:57 +06
+# Entries: 121,349
+# Updated: Mon, 12 Feb 24 08:11:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -35500,6 +35500,7 @@
 0.0.0.0 fwepoxy.com
 0.0.0.0 fwfrt7dsl.com
 0.0.0.0 fwftmuxxeh.com
+0.0.0.0 fwgtbuwepjqsb.com
 0.0.0.0 fwha.pw
 0.0.0.0 fwifsicmviybd.com
 0.0.0.0 fwilmdact.com
