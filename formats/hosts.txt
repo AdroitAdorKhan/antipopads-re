@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.044
 # Release: 044
-# Entries: 121,566
-# Updated: Tue, 13 Feb 24 04:08:29 +06
+# Entries: 121,568
+# Updated: Tue, 13 Feb 24 06:10:41 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -50177,6 +50177,7 @@
 0.0.0.0 kiwiai.ooo
 0.0.0.0 kiwsiftuvac.com
 0.0.0.0 kiynew.com
+0.0.0.0 kiyyrilqb.com
 0.0.0.0 kizklqqj.com
 0.0.0.0 kiznzerigo.com
 0.0.0.0 kizomba.events
@@ -74849,6 +74850,7 @@
 0.0.0.0 ratury.com
 0.0.0.0 rauceesh.com
 0.0.0.0 rauchertische.com
+0.0.0.0 raudoabe.com
 0.0.0.0 raudoufoay.com
 0.0.0.0 raufoomoochi.com
 0.0.0.0 raujurum.net
