@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.045
 # Release: 045
-# Entries: 121,651
-# Updated: Wed, 14 Feb 24 02:08:32 +06
+# Entries: 121,653
+# Updated: Wed, 14 Feb 24 04:08:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4522,6 +4522,7 @@
 0.0.0.0 adroitlegion.org
 0.0.0.0 adroitontoconstraint.com
 0.0.0.0 adrokt.com
+0.0.0.0 adrpqhttgzcjb.com
 0.0.0.0 adrunnr.com
 0.0.0.0 ads-era.com
 0.0.0.0 ads.exdynsrv.com
@@ -20407,6 +20408,7 @@
 0.0.0.0 comercializadoraads.com
 0.0.0.0 comercioygestion.com
 0.0.0.0 cometadministration.com
+0.0.0.0 cometimpressioncricket.com
 0.0.0.0 cometo2free.biz
 0.0.0.0 cometobaku.com
 0.0.0.0 comexair.com
