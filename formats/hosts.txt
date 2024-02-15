@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.046
 # Release: 046
-# Entries: 121,920
-# Updated: Thu, 15 Feb 24 04:10:02 +06
+# Entries: 121,922
+# Updated: Thu, 15 Feb 24 06:10:31 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -59083,6 +59083,7 @@
 0.0.0.0 monumentsdismantle.com
 0.0.0.0 monumentsmaterialeasel.com
 0.0.0.0 monuniverscreche.com
+0.0.0.0 monutroco.com
 0.0.0.0 monxserver.com
 0.0.0.0 mooantink.com
 0.0.0.0 moocaicaico.com
@@ -119845,6 +119846,7 @@
 0.0.0.0 yiejvik.com
 0.0.0.0 yieldadvert.com
 0.0.0.0 yieldbuild.com
+0.0.0.0 yieldfifthexterminator.com
 0.0.0.0 yieldlab.net
 0.0.0.0 yieldlift.io
 0.0.0.0 yieldmanager.com

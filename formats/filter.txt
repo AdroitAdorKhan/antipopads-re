@@ -20,8 +20,8 @@
 ! Version: 24.02.046
 ! Release: 046
 ! Expires: 1 day
-! Entries: 121,920
-! Updated: Thu, 15 Feb 24 04:10:02 +06
+! Entries: 121,922
+! Updated: Thu, 15 Feb 24 06:10:31 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -59084,6 +59084,7 @@
 ||monumentsdismantle.com^
 ||monumentsmaterialeasel.com^
 ||monuniverscreche.com^
+||monutroco.com^
 ||monxserver.com^
 ||mooantink.com^
 ||moocaicaico.com^
@@ -119846,6 +119847,7 @@
 ||yiejvik.com^
 ||yieldadvert.com^
 ||yieldbuild.com^
+||yieldfifthexterminator.com^
 ||yieldlab.net^
 ||yieldlift.io^
 ||yieldmanager.com^
