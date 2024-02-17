@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.048
 # Release: 048
-# Entries: 122,428
-# Updated: Sat, 17 Feb 24 04:10:33 +06
+# Entries: 122,430
+# Updated: Sat, 17 Feb 24 06:10:52 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -72934,6 +72934,7 @@
 0.0.0.0 pswagjx.com
 0.0.0.0 pswserver.com
 0.0.0.0 pswsndodautit.com
+0.0.0.0 pswtxibvkdnstg.com
 0.0.0.0 psxcqmwaewyugk.xyz
 0.0.0.0 psxdouctohuhgug.com
 0.0.0.0 psxngarhwbt.com
@@ -76967,6 +76968,7 @@
 0.0.0.0 restavracijazaka.com
 0.0.0.0 restedbrief.com
 0.0.0.0 restedhope.com
+0.0.0.0 restedsoonerfountain.com
 0.0.0.0 resteepmucedin.digital
 0.0.0.0 resterent.com
 0.0.0.0 restfulswythe.website
