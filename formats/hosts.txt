@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.048
 # Release: 048
-# Entries: 122,475
-# Updated: Sat, 17 Feb 24 12:09:31 +06
+# Entries: 122,476
+# Updated: Sat, 17 Feb 24 14:08:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -67086,6 +67086,7 @@
 0.0.0.0 ovjexghy.com
 0.0.0.0 ovjrqycdrwqh.com
 0.0.0.0 ovlliiwtxgjlz.com
+0.0.0.0 ovltfujfilvrfbl.com
 0.0.0.0 ovmgitomw.com
 0.0.0.0 ovmhwiccikr.com
 0.0.0.0 ovnobsal.com
