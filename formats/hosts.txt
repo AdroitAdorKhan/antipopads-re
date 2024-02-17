@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.048
 # Release: 048
-# Entries: 122,500
-# Updated: Sat, 17 Feb 24 18:08:51 +06
+# Entries: 122,501
+# Updated: Sat, 17 Feb 24 20:09:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -69232,6 +69232,7 @@
 0.0.0.0 pgjt26tsm.com
 0.0.0.0 pgkcecbd.com
 0.0.0.0 pgkjoybbfjv.xyz
+0.0.0.0 pglcyeawb.com
 0.0.0.0 pglvevjbooqoecb.xyz
 0.0.0.0 pgmediaserve.com
 0.0.0.0 pgmfuffwfl.com
