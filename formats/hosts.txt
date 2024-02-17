@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.048
 # Release: 048
-# Entries: 122,497
-# Updated: Sat, 17 Feb 24 16:31:32 +06
+# Entries: 122,500
+# Updated: Sat, 17 Feb 24 18:08:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -36124,6 +36124,7 @@
 0.0.0.0 gainsurveysuccess.top
 0.0.0.0 gainsurveytoday.top
 0.0.0.0 gaiphaud.xyz
+0.0.0.0 gaishaidooh.com
 0.0.0.0 gaishaisteth.com
 0.0.0.0 gaisteem.net
 0.0.0.0 gaiteshu.net
@@ -100876,6 +100877,7 @@
 0.0.0.0 whoo.app
 0.0.0.0 whoodseb.com
 0.0.0.0 whoognoz.com
+0.0.0.0 whoogoveksoa.com
 0.0.0.0 whookree.com
 0.0.0.0 whookroo.com
 0.0.0.0 whoomseezesh.com
@@ -121871,6 +121873,7 @@
 0.0.0.0 zgschool.org
 0.0.0.0 zgslicbleg.com
 0.0.0.0 zgsqnyb.com
+0.0.0.0 zgtkxwqgebintr.com
 0.0.0.0 zgwjjdwlw.com
 0.0.0.0 zgxxvdlxc.com
 0.0.0.0 zgyhx3318.com
