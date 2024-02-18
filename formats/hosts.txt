@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.049
 # Release: 049
-# Entries: 122,729
-# Updated: Sun, 18 Feb 24 16:31:04 +06
+# Entries: 122,750
+# Updated: Sun, 18 Feb 24 18:09:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -931,17 +931,20 @@
 0.0.0.0 247traveltechinc.com
 0.0.0.0 247vehiclerecovery.uk
 0.0.0.0 24affiliates.com
+0.0.0.0 24auto.de
 0.0.0.0 24ben.com
 0.0.0.0 24by7doctor.in
 0.0.0.0 24c5d070b4.com
 0.0.0.0 24casi.com
 0.0.0.0 24click.top
 0.0.0.0 24dental.in
+0.0.0.0 24hamburg.de
 0.0.0.0 24htv.net
 0.0.0.0 24ivermectina.com
 0.0.0.0 24medical.in
 0.0.0.0 24newstech.com
 0.0.0.0 24pharm.online
+0.0.0.0 24rhein.de
 0.0.0.0 24s1b0et1.de
 0.0.0.0 24school.in
 0.0.0.0 24studypoint.com
@@ -16084,6 +16087,7 @@
 0.0.0.0 buzzadnetwork.com
 0.0.0.0 buzzardcraizey.com
 0.0.0.0 buzzdancing.com
+0.0.0.0 buzzfeed.de
 0.0.0.0 buzzing-hot-news.com
 0.0.0.0 buzzing-trending-news.com
 0.0.0.0 buzzingdiscrepancyheadphone.com
@@ -20564,6 +20568,7 @@
 0.0.0.0 comdrbonum.website
 0.0.0.0 come-get-s0me.com
 0.0.0.0 come-get-s0me.net
+0.0.0.0 come-on.de
 0.0.0.0 comeadvertisewithus.com
 0.0.0.0 comebackindebtedcapability.com
 0.0.0.0 comedian-avail.com
@@ -29260,6 +29265,7 @@
 0.0.0.0 eilers.tech
 0.0.0.0 eimbkejd.com
 0.0.0.0 eincre.com
+0.0.0.0 einfach-tasty.de
 0.0.0.0 eingajoytow.org
 0.0.0.0 einschein.com
 0.0.0.0 eintheworldwh.com
@@ -34443,6 +34449,7 @@
 0.0.0.0 fnnmnupevx.com
 0.0.0.0 fnofnbdkfwnvguu.com
 0.0.0.0 fnogynafiwakbwe.xyz
+0.0.0.0 fnp.de
 0.0.0.0 fnpedia.app
 0.0.0.0 fnpind.com
 0.0.0.0 fnqcbxqvodj.com
@@ -35105,6 +35112,7 @@
 0.0.0.0 fqzsh.com
 0.0.0.0 fr-netflx.com
 0.0.0.0 fr.bealinghigher.com
+0.0.0.0 fr.de
 0.0.0.0 fr.izleloukas.com
 0.0.0.0 fr33f1lex1.com
 0.0.0.0 fr34.hottracker.biz
@@ -42264,6 +42272,7 @@
 0.0.0.0 hmyuokltxplqwfa.com
 0.0.0.0 hn1l.online
 0.0.0.0 hn1l.site
+0.0.0.0 hna.de
 0.0.0.0 hnfcfoods.com
 0.0.0.0 hngwasapxxhm.com
 0.0.0.0 hnhjkj.net
@@ -44764,6 +44773,7 @@
 0.0.0.0 ilusors.com
 0.0.0.0 iluvio.com
 0.0.0.0 ilvino.xyz
+0.0.0.0 ilvpbrvrpzrys.com
 0.0.0.0 ilwrsfoihoigi.com
 0.0.0.0 ilxhsgd.com
 0.0.0.0 ilxkwlhqo.com
@@ -45532,6 +45542,7 @@
 0.0.0.0 ing-betaalverzoek.com
 0.0.0.0 ing-log.paris
 0.0.0.0 ingablorkmetion.com
+0.0.0.0 ingame.de
 0.0.0.0 ingangsgalante.top
 0.0.0.0 ingarelentcleave.com
 0.0.0.0 ingasideline.com
@@ -49954,6 +49965,7 @@
 0.0.0.0 kbcbank.in.net
 0.0.0.0 kbcoin.top
 0.0.0.0 kbdflqhikx.xyz
+0.0.0.0 kbevcidiiqwa.com
 0.0.0.0 kbin.foo
 0.0.0.0 kbjbcmijc.com
 0.0.0.0 kbjoxsxllarutn.com
@@ -51457,6 +51469,7 @@
 0.0.0.0 kredenc.studio
 0.0.0.0 kreditanbieterimvergleich.info
 0.0.0.0 kreditexpert.top
+0.0.0.0 kreiszeitung.de
 0.0.0.0 krejcir.tech
 0.0.0.0 krem-zdorov.com
 0.0.0.0 kremarkedone.com
@@ -57837,6 +57850,7 @@
 0.0.0.0 meritedgasser.com
 0.0.0.0 merizonrealty.com
 0.0.0.0 merkuj.com
+0.0.0.0 merkur.de
 0.0.0.0 merligopotlid.com
 0.0.0.0 mermaidcontemplateadjoining.com
 0.0.0.0 mermenmanzil.life
@@ -59605,6 +59619,7 @@
 0.0.0.0 mopiehitz.com
 0.0.0.0 mopnatrestriction.com
 0.0.0.0 mopnixhem.com
+0.0.0.0 mopo.de
 0.0.0.0 mopsaladexperiments.com
 0.0.0.0 mor1400.com
 0.0.0.0 moracy.com
@@ -66121,6 +66136,7 @@
 0.0.0.0 oozyunmix.com
 0.0.0.0 op-fi-io-in.co
 0.0.0.0 op-mobili-fi.com
+0.0.0.0 op-online.de
 0.0.0.0 op-profashion.com
 0.0.0.0 op.heisttablier.com
 0.0.0.0 op00.biz
@@ -74557,6 +74573,7 @@
 0.0.0.0 qq518888.com
 0.0.0.0 qq999097.com
 0.0.0.0 qqav9999.com
+0.0.0.0 qqaxvvomrakayb.com
 0.0.0.0 qqbangding.com
 0.0.0.0 qqcelibyhssedfu.com
 0.0.0.0 qqcom3.com
@@ -84075,6 +84092,7 @@
 0.0.0.0 smescorts.net
 0.0.0.0 smesh.net
 0.0.0.0 smetvonline.net
+0.0.0.0 smewwuwppjbebd.com
 0.0.0.0 smfpkupbnyk.com
 0.0.0.0 smfsaudi.com
 0.0.0.0 smfsojvsaxbgf.com
@@ -84489,6 +84507,7 @@
 0.0.0.0 sodouypeg.xyz
 0.0.0.0 sodreekrukiy.com
 0.0.0.0 sodugou.com
+0.0.0.0 soester-anzeiger.de
 0.0.0.0 sofakoe.info
 0.0.0.0 sofangtv.com
 0.0.0.0 sofatraveler.com
@@ -94582,6 +94601,7 @@
 0.0.0.0 tyyyxnogucucrt.com
 0.0.0.0 tyzaoxie.com
 0.0.0.0 tyzxmr.com
+0.0.0.0 tz.de
 0.0.0.0 tz284.com
 0.0.0.0 tzaristdiploma.com
 0.0.0.0 tzchanghong.com
@@ -99481,6 +99501,7 @@
 0.0.0.0 w717yz.com
 0.0.0.0 w76mddb.com
 0.0.0.0 w99megeneral.com
+0.0.0.0 wa.de
 0.0.0.0 wa8list.com
 0.0.0.0 waahkhata.org
 0.0.0.0 waahstaff.org
