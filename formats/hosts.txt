@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.049
 # Release: 049
-# Entries: 122,751
-# Updated: Sun, 18 Feb 24 20:08:47 +06
+# Entries: 122,752
+# Updated: Sun, 18 Feb 24 22:09:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12805,6 +12805,7 @@
 0.0.0.0 bg6s0.com
 0.0.0.0 bgankofamerica.com
 0.0.0.0 bgbcb.xyz
+0.0.0.0 bgbkvawcctzqql.com
 0.0.0.0 bgcnl.com
 0.0.0.0 bgcold.com
 0.0.0.0 bgcoll.com
