@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.049
 # Release: 049
-# Entries: 122,648
-# Updated: Sun, 18 Feb 24 12:08:20 +06
+# Entries: 122,653
+# Updated: Sun, 18 Feb 24 14:08:17 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -25349,6 +25349,7 @@
 0.0.0.0 diametercurl.com
 0.0.0.0 diametersunglassesbranch.com
 0.0.0.0 diamond-dent-art.com
+0.0.0.0 diamondbra.com
 0.0.0.0 diamondfickert.com
 0.0.0.0 diamondintherufftraining.com
 0.0.0.0 diamondkcompany.com
@@ -44442,6 +44443,7 @@
 0.0.0.0 ihavelearnat.xyz
 0.0.0.0 ihcqwgaahf.com
 0.0.0.0 ihcwwfbfscpfpz.com
+0.0.0.0 ihcyscnkogx.com
 0.0.0.0 ihdcnwbcmw.com
 0.0.0.0 ihdvwhjvfy.com
 0.0.0.0 iheartbryan.org
@@ -63023,6 +63025,7 @@
 0.0.0.0 nljminvestments.net
 0.0.0.0 nlkhnchp.com
 0.0.0.0 nllrhlpeasix.xyz
+0.0.0.0 nllwhkrjik.com
 0.0.0.0 nlmthxjgjhg.com
 0.0.0.0 nlnmfkr.com
 0.0.0.0 nlntrk.com
@@ -118375,6 +118378,7 @@
 0.0.0.0 www.zagtertda.com
 0.0.0.0 www.zaleempi.com
 0.0.0.0 www.zambroskis.com
+0.0.0.0 www.zanity.com
 0.0.0.0 www.zaozaolu.com
 0.0.0.0 www.zapeknepondelky.online
 0.0.0.0 www.zapestrie.net
@@ -121636,6 +121640,7 @@
 0.0.0.0 zancos.net
 0.0.0.0 zaneiq.tech
 0.0.0.0 zangocash.com
+0.0.0.0 zanity.com
 0.0.0.0 zanjabeelkw.com
 0.0.0.0 zanjerotrippet.website
 0.0.0.0 zanoogha.com
