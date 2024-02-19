@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.050
 # Release: 050
-# Entries: 122,767
-# Updated: Mon, 19 Feb 24 04:09:02 +06
+# Entries: 122,768
+# Updated: Mon, 19 Feb 24 06:15:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -74697,6 +74697,7 @@
 0.0.0.0 qtcebmkf.xyz
 0.0.0.0 qthiqwum.com
 0.0.0.0 qthynj2.com
+0.0.0.0 qtkcgsmoyg.com
 0.0.0.0 qtldwmgzjvre.com
 0.0.0.0 qtmjglag.com
 0.0.0.0 qtsamerica.com
