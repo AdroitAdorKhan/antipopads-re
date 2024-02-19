@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.050
 # Release: 050
-# Entries: 123,002
-# Updated: Mon, 19 Feb 24 16:33:24 +06
+# Entries: 123,004
+# Updated: Mon, 19 Feb 24 18:08:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -76512,6 +76512,7 @@
 0.0.0.0 redphoenixgaming.net
 0.0.0.0 redplus.com
 0.0.0.0 redraftmonest.com
+0.0.0.0 redrepublictactical.com
 0.0.0.0 redri.net
 0.0.0.0 redrockrailroad.com
 0.0.0.0 redrone.us
@@ -120028,6 +120029,7 @@
 0.0.0.0 xqfpsfplvtorca.com
 0.0.0.0 xqfwhxbfxhpjko.com
 0.0.0.0 xqgzvsjmnmgv.com
+0.0.0.0 xqhfxurp.com
 0.0.0.0 xqhifbjhixb.com
 0.0.0.0 xqhwhsqxxoh.xyz
 0.0.0.0 xqksvdxmo.com
