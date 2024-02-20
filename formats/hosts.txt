@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.051
 # Release: 051
-# Entries: 123,058
-# Updated: Tue, 20 Feb 24 14:47:44 +06
+# Entries: 123,060
+# Updated: Tue, 20 Feb 24 16:09:14 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29005,6 +29005,7 @@
 0.0.0.0 eeglauftoo.com
 0.0.0.0 eegnacou.com
 0.0.0.0 eegookiz.com
+0.0.0.0 eegprgsylcf.com
 0.0.0.0 eegroosoad.com
 0.0.0.0 eeheersoat.com
 0.0.0.0 eehimeer.xyz
@@ -39699,6 +39700,7 @@
 0.0.0.0 grozeesh.com
 0.0.0.0 grpn.app
 0.0.0.0 grqjpukbyvypq.xyz
+0.0.0.0 grqqkrgoeggpmwc.xyz
 0.0.0.0 grrngjxqno.com
 0.0.0.0 grrocorp.com
 0.0.0.0 grsgvtqkmyyg.com
