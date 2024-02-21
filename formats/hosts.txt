@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.052
 # Release: 052
-# Entries: 123,112
-# Updated: Wed, 21 Feb 24 08:08:48 +06
+# Entries: 123,116
+# Updated: Wed, 21 Feb 24 10:08:04 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6400,6 +6400,7 @@
 0.0.0.0 alivecheery.com
 0.0.0.0 alivedriftcommandment.com
 0.0.0.0 aliveperjuryruby.com
+0.0.0.0 alivundrive.com
 0.0.0.0 aliyuandeibe.com
 0.0.0.0 aliyucs.com
 0.0.0.0 alizia.store
@@ -78218,6 +78219,7 @@
 0.0.0.0 rjedunews.net
 0.0.0.0 rjfbckhsr.com
 0.0.0.0 rjgdixsbbyuhgkd.com
+0.0.0.0 rjgmwsajxemvey.com
 0.0.0.0 rjgqfrsunx.com
 0.0.0.0 rjhiomohthqr.com
 0.0.0.0 rjhydroengineer.in
@@ -97518,6 +97520,7 @@
 0.0.0.0 vbnewcrdhxtetk.com
 0.0.0.0 vbobaodlgsx.com
 0.0.0.0 vbomsksv.com
+0.0.0.0 vbovdbqxxoqbxd.com
 0.0.0.0 vbpush.xyz
 0.0.0.0 vbq8.com
 0.0.0.0 vbqbtfkon.com
@@ -103958,6 +103961,7 @@
 0.0.0.0 www.alinor.tech
 0.0.0.0 www.alivecheery.com
 0.0.0.0 www.alivedriftcommandment.com
+0.0.0.0 www.alivundrive.com
 0.0.0.0 www.aljazeera.asia
 0.0.0.0 www.all-in.dezdf.de
 0.0.0.0 www.allaboutcat.org
