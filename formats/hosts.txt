@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.052
 # Release: 052
-# Entries: 123,125
-# Updated: Wed, 21 Feb 24 14:36:56 +06
+# Entries: 123,129
+# Updated: Wed, 21 Feb 24 16:09:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -17614,6 +17614,7 @@
 0.0.0.0 ccd-digital.com
 0.0.0.0 ccdn.cx
 0.0.0.0 ccdneniusruhebl.com
+0.0.0.0 ccdnss.com
 0.0.0.0 ccdrofvofrfkqah.com
 0.0.0.0 ccgkudwutf.com
 0.0.0.0 ccgqqtnewrrxge.com
@@ -52096,6 +52097,7 @@
 0.0.0.0 kysio.yt
 0.0.0.0 kysrusiwgevnie.xyz
 0.0.0.0 kystrains.com
+0.0.0.0 kysvdscjn.com
 0.0.0.0 kyszrklhq.com
 0.0.0.0 kytesconge.com
 0.0.0.0 kytoonburlies.website
@@ -65179,6 +65181,7 @@
 0.0.0.0 offerwall.site
 0.0.0.0 offfurreton.com
 0.0.0.0 offgate-app-phkr.com
+0.0.0.0 offgoldeenon.com
 0.0.0.0 offgridengineering.uk
 0.0.0.0 offgridsolarexperts.co.uk
 0.0.0.0 offgridsolarexperts.com
@@ -116462,6 +116465,7 @@
 0.0.0.0 www.stopstealingmy.info
 0.0.0.0 www.stopvirus.link
 0.0.0.0 www.storagelassitudeblend.com
+0.0.0.0 www.storagewitnessotherwise.com
 0.0.0.0 www.storekom.net
 0.0.0.0 www.storeyseniorappreciation.com
 0.0.0.0 www.storiesproclamationelements.com
