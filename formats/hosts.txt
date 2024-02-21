@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.02.052
-# Release: 052
-# Entries: 123,163
-# Updated: Wed, 21 Feb 24 22:36:14 +06
+# Version: 24.02.053
+# Release: 053
+# Entries: 123,164
+# Updated: Thu, 22 Feb 24 00:10:28 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -68895,6 +68895,7 @@
 0.0.0.0 pdfsearchhq.com
 0.0.0.0 pdfurqok.com
 0.0.0.0 pdga.ca
+0.0.0.0 pdgnhjeth.com
 0.0.0.0 pdhardware.ca
 0.0.0.0 pdhqipvewgrg.com
 0.0.0.0 pdibplxhqbptag.com
