@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.052
 # Release: 052
-# Entries: 123,129
-# Updated: Wed, 21 Feb 24 16:09:24 +06
+# Entries: 123,131
+# Updated: Wed, 21 Feb 24 18:08:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -43787,6 +43787,7 @@
 0.0.0.0 hw.wgrents.com
 0.0.0.0 hw.wincersmalakon.com
 0.0.0.0 hw3k5x14.com
+0.0.0.0 hwaagkmiitos.com
 0.0.0.0 hwaawsh.com
 0.0.0.0 hwacila.com
 0.0.0.0 hwaovdomltib.com
@@ -118781,6 +118782,7 @@
 0.0.0.0 www.youdiscussed.com
 0.0.0.0 www.youdunngood.com
 0.0.0.0 www.youjianzu.net
+0.0.0.0 www.youku-ospltion.com
 0.0.0.0 www.youngestdisturbance.com
 0.0.0.0 www.youngesthumorshaving.com
 0.0.0.0 www.youngstersaucertuition.com
