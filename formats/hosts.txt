@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.053
 # Release: 053
-# Entries: 123,424
-# Updated: Thu, 22 Feb 24 18:08:50 +06
+# Entries: 123,426
+# Updated: Thu, 22 Feb 24 20:23:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -74650,6 +74650,7 @@
 0.0.0.0 qedjnmpmdnqsya.com
 0.0.0.0 qeeapklqmq.com
 0.0.0.0 qefxfqlrthsxqdd.com
+0.0.0.0 qeildfuznofnlq.com
 0.0.0.0 qekgygdkyewbzv.com
 0.0.0.0 qel-qel-fie.com
 0.0.0.0 qelllwrite.com
@@ -102353,6 +102354,7 @@
 0.0.0.0 wmitjgsti.xyz
 0.0.0.0 wmj.com.tw
 0.0.0.0 wmkyrbx.com
+0.0.0.0 wmlbjana.com
 0.0.0.0 wmlfyerssqlipx.com
 0.0.0.0 wmmvgipk.top
 0.0.0.0 wmober.com
