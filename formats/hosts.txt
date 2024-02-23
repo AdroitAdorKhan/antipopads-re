@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.054
 # Release: 054
-# Entries: 123,587
-# Updated: Fri, 23 Feb 24 08:10:00 +06
+# Entries: 123,590
+# Updated: Fri, 23 Feb 24 10:08:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7543,6 +7543,7 @@
 0.0.0.0 annotationsolely.com
 0.0.0.0 annotationwednesdayplayground.com
 0.0.0.0 annotio.com
+0.0.0.0 announcedseaman.com
 0.0.0.0 announceflealanding.com
 0.0.0.0 announcenutshell.com
 0.0.0.0 announceproposition.com
@@ -67198,6 +67199,7 @@
 0.0.0.0 oskmzoo.com
 0.0.0.0 oskxmctisnu.com
 0.0.0.0 oskxpvmnalfb.com
+0.0.0.0 oslcypxrrpod.com
 0.0.0.0 oslhvosbfcit.com
 0.0.0.0 oslong.ru
 0.0.0.0 oslsipxowaxpd.com
@@ -104593,6 +104595,7 @@
 0.0.0.0 www.anniversarythingy.com
 0.0.0.0 www.annotationdiverse.com
 0.0.0.0 www.annotationpushy.com
+0.0.0.0 www.announcedseaman.com
 0.0.0.0 www.announceflealanding.com
 0.0.0.0 www.announcenutshell.com
 0.0.0.0 www.announceproposition.com
