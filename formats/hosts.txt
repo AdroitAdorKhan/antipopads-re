@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.056
 # Release: 056
-# Entries: 123,934
-# Updated: Sun, 25 Feb 24 00:16:37 +06
+# Entries: 123,936
+# Updated: Sun, 25 Feb 24 04:08:04 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -54354,6 +54354,7 @@
 0.0.0.0 linhahumlie.digital
 0.0.0.0 linicom.co.il
 0.0.0.0 linicom.co.uk
+0.0.0.0 liningemigrant.com
 0.0.0.0 liningplanespursue.com
 0.0.0.0 liningreduction.com
 0.0.0.0 liningsubscribecomprehension.com
@@ -120944,6 +120945,7 @@
 0.0.0.0 xqxknnvbwqfj.com
 0.0.0.0 xqydapp.com
 0.0.0.0 xqyddrigiqevcv.com
+0.0.0.0 xqynbmaigc.com
 0.0.0.0 xqzlgbbe.com
 0.0.0.0 xqzwtvjkjj.com
 0.0.0.0 xr.panduraoestrum.com
