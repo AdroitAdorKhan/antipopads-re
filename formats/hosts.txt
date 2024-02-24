@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.02.055
-# Release: 055
-# Entries: 123,932
-# Updated: Sat, 24 Feb 24 22:31:58 +06
+# Version: 24.02.056
+# Release: 056
+# Entries: 123,934
+# Updated: Sun, 25 Feb 24 00:16:37 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -70087,6 +70087,7 @@
 0.0.0.0 pfjrusskan.com
 0.0.0.0 pfklopud.xyz
 0.0.0.0 pfkxrurgyw.top
+0.0.0.0 pflmikjx.com
 0.0.0.0 pfltd.ca
 0.0.0.0 pflvyqvpiwdnl.com
 0.0.0.0 pfmps.net
@@ -71734,6 +71735,7 @@
 0.0.0.0 poetryintendedverdict.com
 0.0.0.0 poflix.com
 0.0.0.0 poghaurs.com
+0.0.0.0 pogmprapcr.com
 0.0.0.0 pognamta.net
 0.0.0.0 pogocustomersupports.com
 0.0.0.0 pogothere.xyz
