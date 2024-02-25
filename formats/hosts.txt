@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.057
 # Release: 057
-# Entries: 124,053
-# Updated: Mon, 26 Feb 24 02:09:42 +06
+# Entries: 124,055
+# Updated: Mon, 26 Feb 24 04:08:05 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16748,6 +16748,7 @@
 0.0.0.0 calotag.com
 0.0.0.0 calpacenemas.life
 0.0.0.0 calpumpandvac.com
+0.0.0.0 calpumpandvacuum.com
 0.0.0.0 calstress.org
 0.0.0.0 caltertangintin.com
 0.0.0.0 calumnycandidachievement.com
@@ -63728,6 +63729,7 @@
 0.0.0.0 njimrrrflhr.xyz
 0.0.0.0 njipcidlmau.com
 0.0.0.0 njjebgkvrniwmr.com
+0.0.0.0 njjryubgnkaxeu.xyz
 0.0.0.0 njkewubccvt.com
 0.0.0.0 njlcmkzfex.com
 0.0.0.0 njlzougyfjo.com
