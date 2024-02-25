@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.056
 # Release: 056
-# Entries: 123,949
-# Updated: Sun, 25 Feb 24 06:48:35 +06
+# Entries: 123,956
+# Updated: Sun, 25 Feb 24 08:09:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -17837,6 +17837,7 @@
 :: cdnbmb.com
 :: cdnbr.xyz
 :: cdnclient.com
+:: cdnclient.net
 :: cdncontentdelivery.com
 :: cdncontentstorage.com
 :: cdnfreemalva.com
@@ -18003,6 +18004,7 @@
 :: cemsidimid.org
 :: cemsidimid.us
 :: cemsidimide.info
+:: cemsidimide.net
 :: cemsidimide.us
 :: cemsidomi.co
 :: cemsidomi.com
@@ -18015,6 +18017,7 @@
 :: cemsidomida.net
 :: cemsidomida.org
 :: cemsidomida.us
+:: cemsidomide.info
 :: cemsidomide.org
 :: cemsidomide.us
 :: cemsidomidedrug.info
@@ -96946,6 +96949,7 @@
 :: uojgvjior.com
 :: uoktyggqexq.com
 :: uomjpvkgkntn.com
+:: uommwhqyefutlp.com
 :: uonctmfycg.com
 :: uorcmnjae.com
 :: uorhlwm.com
@@ -106563,6 +106567,7 @@
 :: www.cdnativepush.com
 :: www.cdnav22.com
 :: www.cdnclient.com
+:: www.cdnclient.net
 :: www.cdracademy.com
 :: www.ceasechampagneparade.com
 :: www.cecmuthejooz.com
@@ -106586,9 +106591,11 @@
 :: www.cemsidamid.net
 :: www.cemsidimid.org
 :: www.cemsidimide.info
+:: www.cemsidimide.net
 :: www.cemsidomi.com
 :: www.cemsidomi.net
 :: www.cemsidomida.org
+:: www.cemsidomide.info
 :: www.cemsidomide.org
 :: www.cemsidomidedrug.info
 :: www.cendegobresib.net

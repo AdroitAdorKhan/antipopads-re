@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.056
 # Release: 056
-# Entries: 123,949
-# Updated: Sun, 25 Feb 24 06:48:35 +06
+# Entries: 123,956
+# Updated: Sun, 25 Feb 24 08:09:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -17837,6 +17837,7 @@
 0.0.0.0 cdnbmb.com
 0.0.0.0 cdnbr.xyz
 0.0.0.0 cdnclient.com
+0.0.0.0 cdnclient.net
 0.0.0.0 cdncontentdelivery.com
 0.0.0.0 cdncontentstorage.com
 0.0.0.0 cdnfreemalva.com
@@ -18003,6 +18004,7 @@
 0.0.0.0 cemsidimid.org
 0.0.0.0 cemsidimid.us
 0.0.0.0 cemsidimide.info
+0.0.0.0 cemsidimide.net
 0.0.0.0 cemsidimide.us
 0.0.0.0 cemsidomi.co
 0.0.0.0 cemsidomi.com
@@ -18015,6 +18017,7 @@
 0.0.0.0 cemsidomida.net
 0.0.0.0 cemsidomida.org
 0.0.0.0 cemsidomida.us
+0.0.0.0 cemsidomide.info
 0.0.0.0 cemsidomide.org
 0.0.0.0 cemsidomide.us
 0.0.0.0 cemsidomidedrug.info
@@ -96946,6 +96949,7 @@
 0.0.0.0 uojgvjior.com
 0.0.0.0 uoktyggqexq.com
 0.0.0.0 uomjpvkgkntn.com
+0.0.0.0 uommwhqyefutlp.com
 0.0.0.0 uonctmfycg.com
 0.0.0.0 uorcmnjae.com
 0.0.0.0 uorhlwm.com
@@ -106563,6 +106567,7 @@
 0.0.0.0 www.cdnativepush.com
 0.0.0.0 www.cdnav22.com
 0.0.0.0 www.cdnclient.com
+0.0.0.0 www.cdnclient.net
 0.0.0.0 www.cdracademy.com
 0.0.0.0 www.ceasechampagneparade.com
 0.0.0.0 www.cecmuthejooz.com
@@ -106586,9 +106591,11 @@
 0.0.0.0 www.cemsidamid.net
 0.0.0.0 www.cemsidimid.org
 0.0.0.0 www.cemsidimide.info
+0.0.0.0 www.cemsidimide.net
 0.0.0.0 www.cemsidomi.com
 0.0.0.0 www.cemsidomi.net
 0.0.0.0 www.cemsidomida.org
+0.0.0.0 www.cemsidomide.info
 0.0.0.0 www.cemsidomide.org
 0.0.0.0 www.cemsidomidedrug.info
 0.0.0.0 www.cendegobresib.net
