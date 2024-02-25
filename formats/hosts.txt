@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.056
 # Release: 056
-# Entries: 123,956
-# Updated: Sun, 25 Feb 24 08:09:18 +06
+# Entries: 123,957
+# Updated: Sun, 25 Feb 24 10:09:58 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5092,6 +5092,7 @@
 0.0.0.0 afcpatrk.com
 0.0.0.0 afdashrafi.com
 0.0.0.0 afdata.com
+0.0.0.0 afdlqxdm.com
 0.0.0.0 afdnpxgbjiu.com
 0.0.0.0 afdphe.org
 0.0.0.0 afdrivovoq.com
