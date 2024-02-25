@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.056
 # Release: 056
-# Entries: 123,957
-# Updated: Sun, 25 Feb 24 10:09:58 +06
+# Entries: 123,958
+# Updated: Sun, 25 Feb 24 12:07:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -38006,6 +38006,7 @@
 0.0.0.0 gjwluizt.com
 0.0.0.0 gjwos.org
 0.0.0.0 gjybasbw.com
+0.0.0.0 gjzbcvatvn.com
 0.0.0.0 gk.chattaenstool.com
 0.0.0.0 gk.dubheteat.com
 0.0.0.0 gk.resavethyme.com
