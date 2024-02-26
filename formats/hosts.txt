@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.057
 # Release: 057
-# Entries: 124,197
-# Updated: Mon, 26 Feb 24 10:07:54 +06
+# Entries: 124,202
+# Updated: Mon, 26 Feb 24 12:08:14 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7888,6 +7888,7 @@
 0.0.0.0 aosotrdhahvs.com
 0.0.0.0 aoswoygld.com
 0.0.0.0 aosxmygoenwqbjf.xyz
+0.0.0.0 aosykecrrm.com
 0.0.0.0 aotcbybbnsk.com
 0.0.0.0 aotiacg.site
 0.0.0.0 aotvlxsxihpyaks.com
@@ -8462,6 +8463,7 @@
 0.0.0.0 archaicin.com
 0.0.0.0 archanaenterprisesindia.com
 0.0.0.0 archanapanchutney.com
+0.0.0.0 archatria.com
 0.0.0.0 archbishopsheettwitter.com
 0.0.0.0 archbishopthighsubsided.com
 0.0.0.0 archeafrica.com
@@ -68428,6 +68430,7 @@
 0.0.0.0 pacide.com
 0.0.0.0 pacienti.online
 0.0.0.0 pacificcoastresourcesacquisitionholdingsllc.com
+0.0.0.0 pacificcoastresourcesllc.com
 0.0.0.0 pacificteleports.net
 0.0.0.0 pacificvernonoutskirts.com
 0.0.0.0 pacifoos.net
@@ -105310,6 +105313,7 @@
 0.0.0.0 www.arccarterultimate.com
 0.0.0.0 www.archaicgrilledignorant.com
 0.0.0.0 www.archaicin.com
+0.0.0.0 www.archatria.com
 0.0.0.0 www.archbishopthighsubsided.com
 0.0.0.0 www.archgrotesqueiso.com
 0.0.0.0 www.archibets.com
@@ -114352,6 +114356,7 @@
 0.0.0.0 www.paathshaalaclasses.com
 0.0.0.0 www.pacedemocraticnegative.com
 0.0.0.0 www.pacificcoastresourcesacquisitionholdingsllc.com
+0.0.0.0 www.pacificcoastresourcesllc.com
 0.0.0.0 www.pacifyinvalid.com
 0.0.0.0 www.pacifypane.com
 0.0.0.0 www.packethierarchy.com
