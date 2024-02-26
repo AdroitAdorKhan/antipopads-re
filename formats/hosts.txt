@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.057
 # Release: 057
-# Entries: 124,202
-# Updated: Mon, 26 Feb 24 12:08:14 +06
+# Entries: 124,219
+# Updated: Mon, 26 Feb 24 14:47:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3913,6 +3913,7 @@
 0.0.0.0 acme-secureauth.info
 0.0.0.0 acmeinfosoft.net
 0.0.0.0 acmevents.org
+0.0.0.0 acmoeba.com
 0.0.0.0 acmoldhuwsi.com
 0.0.0.0 acmpservices.com
 0.0.0.0 acmzraqcixa.com
@@ -7504,6 +7505,7 @@
 0.0.0.0 animositysofa.com
 0.0.0.0 animotionary.com
 0.0.0.0 animpet.uk
+0.0.0.0 animpipeline.com
 0.0.0.0 animsup.biz
 0.0.0.0 animusmisform.com
 0.0.0.0 aninditamylove20.tech
@@ -17499,6 +17501,7 @@
 0.0.0.0 castenet.digital
 0.0.0.0 casterpretic.com
 0.0.0.0 castillone.com
+0.0.0.0 castingsgiron.com
 0.0.0.0 castlehodgii.com
 0.0.0.0 castlehomeinspectionsstl.com
 0.0.0.0 castleneer.com
@@ -28745,6 +28748,7 @@
 0.0.0.0 easydnsdnssectest.com
 0.0.0.0 easydownloadnow.com
 0.0.0.0 easyfag.com
+0.0.0.0 easyfarmer.cloud
 0.0.0.0 easyfitzshop.com
 0.0.0.0 easyflirt-partners.biz
 0.0.0.0 easyfrag.org
@@ -36449,6 +36453,7 @@
 0.0.0.0 fxlurepwuaqd.com
 0.0.0.0 fxmovttmb.xyz
 0.0.0.0 fxooefhw.xyz
+0.0.0.0 fxpipeline.com
 0.0.0.0 fxqsxxvfgderjdf.com
 0.0.0.0 fxrbsadtui.com
 0.0.0.0 fxroflypm.com
@@ -36789,6 +36794,7 @@
 0.0.0.0 gamingimperium.com
 0.0.0.0 gaminglaptops.deals
 0.0.0.0 gamingonline.top
+0.0.0.0 gamingpipeline.com
 0.0.0.0 gamingtrack.net
 0.0.0.0 gamingvision.co.uk
 0.0.0.0 gamingvision.uk
@@ -51992,6 +51998,7 @@
 0.0.0.0 kovanezabradlia.com
 0.0.0.0 kovanezabradlie.com
 0.0.0.0 kovaoslchymatwe.com
+0.0.0.0 kovellapsychiatry.com
 0.0.0.0 kovenn.biz
 0.0.0.0 koverdan.com
 0.0.0.0 kovim.net
@@ -53101,6 +53108,7 @@
 0.0.0.0 lastimes.com
 0.0.0.0 lastingconflict.com
 0.0.0.0 lastpushrunning.com
+0.0.0.0 lasttestingdomaintodayihope.com
 0.0.0.0 lastuvkaz.com
 0.0.0.0 lastvisits.net
 0.0.0.0 lasubqueries.com
@@ -56923,6 +56931,7 @@
 0.0.0.0 mammotermine.de
 0.0.0.0 mammothdevelopment.com
 0.0.0.0 mammothdumbest.com
+0.0.0.0 mammutpolska.net
 0.0.0.0 mamnahaku.com
 0.0.0.0 mamofow.uno
 0.0.0.0 mamon.restaurant
@@ -72631,6 +72640,7 @@
 0.0.0.0 ppjqgbz.com
 0.0.0.0 ppkgimdb.xyz
 0.0.0.0 ppkhmgvh.com
+0.0.0.0 ppkinvestmentsgroup.com
 0.0.0.0 ppkrspip.com
 0.0.0.0 pplayboy.com
 0.0.0.0 pple.com
@@ -79001,6 +79011,7 @@
 0.0.0.0 rkhregkgxofnwld.com
 0.0.0.0 rkjl1pn.com
 0.0.0.0 rkjnazpgfihz.com
+0.0.0.0 rkjrepvldtkdel.com
 0.0.0.0 rkjsiipw.com
 0.0.0.0 rkkluc.com
 0.0.0.0 rkkrcvhhmcorex.com
@@ -110125,6 +110136,7 @@
 0.0.0.0 www.futileharrystephen.com
 0.0.0.0 www.futvbol.net
 0.0.0.0 www.fuzzywardshoplifting.com
+0.0.0.0 www.fxpipeline.com
 0.0.0.0 www.fyrestones.com
 0.0.0.0 www.fytofos.com
 0.0.0.0 www.g0td0main.com
@@ -112279,6 +112291,7 @@
 0.0.0.0 www.kouceeptait.com
 0.0.0.0 www.koufuqi.com
 0.0.0.0 www.kouptufezi.com
+0.0.0.0 www.kovellapsychiatry.com
 0.0.0.0 www.kovenn.biz
 0.0.0.0 www.kqnhceelxuqvf.com
 0.0.0.0 www.kqzyfj.com
@@ -112391,6 +112404,7 @@
 0.0.0.0 www.lasciailfumoalcapolinea.it
 0.0.0.0 www.laserdrivepreview.com
 0.0.0.0 www.lastpushrunning.com
+0.0.0.0 www.lasttestingdomaintodayihope.com
 0.0.0.0 www.lasubqueries.com
 0.0.0.0 www.latelyninetyfeelings.com
 0.0.0.0 www.latelypillar.com
@@ -115077,6 +115091,7 @@
 0.0.0.0 www.powerswinkshoplifting.com
 0.0.0.0 www.poznerterswe.com
 0.0.0.0 www.ppav123.com
+0.0.0.0 www.ppkinvestmentsgroup.com
 0.0.0.0 www.ppp996.com
 0.0.0.0 www.ppx34dm.com
 0.0.0.0 www.pqplkjwwezfrn.com
@@ -118024,6 +118039,7 @@
 0.0.0.0 www.tf2soundboard.com
 0.0.0.0 www.tffd7k.click
 0.0.0.0 www.tgpyellowpages.com
+0.0.0.0 www.tgroden.com
 0.0.0.0 www.th1202.com
 0.0.0.0 www.thabethemarketing.co.za
 0.0.0.0 www.thaeinai.com
@@ -120466,6 +120482,7 @@
 0.0.0.0 xepkfd.com
 0.0.0.0 xepma.com
 0.0.0.0 xepqedhtxb.com
+0.0.0.0 xercgohmvtwapy.com
 0.0.0.0 xero-gravity.co.uk
 0.0.0.0 xero-gravity.uk
 0.0.0.0 xerogravity.co.uk
