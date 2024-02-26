@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.057
 # Release: 057
-# Entries: 124,224
-# Updated: Mon, 26 Feb 24 16:44:16 +06
+# Entries: 124,226
+# Updated: Mon, 26 Feb 24 18:11:17 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -33254,6 +33254,7 @@
 0.0.0.0 fcqqbrfucuf.com
 0.0.0.0 fcqrrlkvm.com
 0.0.0.0 fcrtnptgkqjf.com
+0.0.0.0 fcswhwglli.com
 0.0.0.0 fcu.mov
 0.0.0.0 fcu.zip
 0.0.0.0 fcudlfqupglxynu.xyz
@@ -92768,6 +92769,7 @@
 0.0.0.0 tiquers.com
 0.0.0.0 tirangaexp.com
 0.0.0.0 tirbl.com
+0.0.0.0 tirdaidaxaip.com
 0.0.0.0 tirecolloquialinterest.com
 0.0.0.0 tiredbishop.com
 0.0.0.0 tirescymlin.com
