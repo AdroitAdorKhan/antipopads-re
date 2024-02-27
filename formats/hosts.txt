@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.058
 # Release: 058
-# Entries: 124,255
-# Updated: Tue, 27 Feb 24 08:08:23 +06
+# Entries: 124,259
+# Updated: Tue, 27 Feb 24 10:08:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13749,6 +13749,7 @@
 0.0.0.0 blackflagads.com
 0.0.0.0 blackflagdaddy.com
 0.0.0.0 blackfridaytvs.com
+0.0.0.0 blackfridy.com
 0.0.0.0 blackhillselite.com
 0.0.0.0 blackhillsgunclub.com
 0.0.0.0 blackholedonuts.com
@@ -75958,6 +75959,7 @@
 0.0.0.0 quupvsrsuqo.com
 0.0.0.0 quvn.tech
 0.0.0.0 quwtddxbsrudos.com
+0.0.0.0 quxbrdtskfjxk.com
 0.0.0.0 quxegtegmvlfln.com
 0.0.0.0 quxsiraqxla.com
 0.0.0.0 quxuejhcaz.com
@@ -85403,6 +85405,7 @@
 0.0.0.0 sndbdudbdbjdidjdndifjdjsks.com
 0.0.0.0 sneakersbook.com
 0.0.0.0 sneakersip.com
+0.0.0.0 sneakersitalia.com
 0.0.0.0 sneakerzpietz.com
 0.0.0.0 sneakintriguecasting.com
 0.0.0.0 sneaknonstopattribute.com
@@ -117103,6 +117106,7 @@
 0.0.0.0 www.snaptrip.com
 0.0.0.0 www.snarewholly.com
 0.0.0.0 www.snarlsburg.com
+0.0.0.0 www.sneakersitalia.com
 0.0.0.0 www.sneakintriguecasting.com
 0.0.0.0 www.sneerattendingconverted.com
 0.0.0.0 www.sneerplannedwaltz.com
