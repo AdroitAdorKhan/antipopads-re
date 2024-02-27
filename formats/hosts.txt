@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.058
 # Release: 058
-# Entries: 124,274
-# Updated: Tue, 27 Feb 24 16:08:06 +06
+# Entries: 124,275
+# Updated: Tue, 27 Feb 24 18:08:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -40454,6 +40454,7 @@
 0.0.0.0 guxigmggrovpj.xyz
 0.0.0.0 guxrskldqaowi.com
 0.0.0.0 guxsxexlkdk.xyz
+0.0.0.0 guybaafvpv.com
 0.0.0.0 guypykhva.com
 0.0.0.0 guysstuff.xyz
 0.0.0.0 guytzaig.com
