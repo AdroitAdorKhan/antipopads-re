@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.058
 # Release: 058
-# Entries: 124,275
-# Updated: Tue, 27 Feb 24 18:08:55 +06
+# Entries: 124,282
+# Updated: Tue, 27 Feb 24 20:36:05 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -23787,6 +23787,7 @@
 0.0.0.0 damagingconcentrate.com
 0.0.0.0 damagingottersane.com
 0.0.0.0 damaservice.tech
+0.0.0.0 dambar.com
 0.0.0.0 damdiversereadiness.com
 0.0.0.0 dameadept.com
 0.0.0.0 damedamehoy.xyz
@@ -35528,6 +35529,7 @@
 0.0.0.0 fqewxjjgfb.com
 0.0.0.0 fqfjmojnjslr.com
 0.0.0.0 fqhdccuqprxsit.com
+0.0.0.0 fqhsolrj.com
 0.0.0.0 fqifmbnvqxivqwe.top
 0.0.0.0 fqipfiisystgsgk.com
 0.0.0.0 fqjelyhrbrmyvte.com
@@ -48971,6 +48973,7 @@
 0.0.0.0 jjrvlrslb.com
 0.0.0.0 jjsocpeg.com
 0.0.0.0 jjtnadbcbovqarv.xyz
+0.0.0.0 jjuuhjan.xyz
 0.0.0.0 jjvafukltxk.com
 0.0.0.0 jjvlawfxpegqtny.com
 0.0.0.0 jjvnlfpywgbxgt.com
@@ -54970,6 +54973,7 @@
 0.0.0.0 lmoxyqpmvey.com
 0.0.0.0 lmp3.org
 0.0.0.0 lmqbjsuocpyo.com
+0.0.0.0 lmqmefggukm.com
 0.0.0.0 lmqowtvu.com
 0.0.0.0 lmrebornsalon.com
 0.0.0.0 lmrycxuojndbekx.top
@@ -63880,6 +63884,7 @@
 0.0.0.0 nkie.sk
 0.0.0.0 nkieuulsvvjrfh.com
 0.0.0.0 nkindthatmade.xyz
+0.0.0.0 nkjhcmlf.com
 0.0.0.0 nkjxtbivwerps.com
 0.0.0.0 nkkmiwtf.com
 0.0.0.0 nkljaxdeoygatfw.xyz
@@ -119979,6 +119984,7 @@
 0.0.0.0 www.zipakrar.com
 0.0.0.0 www.zippysharehd.com
 0.0.0.0 www.zipwire.news
+0.0.0.0 www.zircorp.com
 0.0.0.0 www.zizoxozoox.com
 0.0.0.0 www.zjd842.com
 0.0.0.0 www.zjkg9gjnx.com
@@ -123772,6 +123778,7 @@
 0.0.0.0 zipwms.com
 0.0.0.0 zipzapzopenrichment.com
 0.0.0.0 zir.mobi
+0.0.0.0 zircorp.com
 0.0.0.0 zirdough.net
 0.0.0.0 zirdrax.com
 0.0.0.0 zirgogoo.xyz
