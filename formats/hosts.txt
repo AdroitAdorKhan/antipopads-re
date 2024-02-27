@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.058
 # Release: 058
-# Entries: 124,251
-# Updated: Tue, 27 Feb 24 05:08:19 +06
+# Entries: 124,255
+# Updated: Tue, 27 Feb 24 08:08:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -65133,6 +65133,7 @@
 0.0.0.0 nyophi.tech
 0.0.0.0 nypicajychsx.com
 0.0.0.0 nyqlwjjghhgsqeg.com
+0.0.0.0 nyqpgzohhllvx.com
 0.0.0.0 nyqqxh.top
 0.0.0.0 nyrex.tech
 0.0.0.0 nyrithenrebarro.info
@@ -84304,6 +84305,7 @@
 0.0.0.0 siptea.com
 0.0.0.0 siqiyisli.com
 0.0.0.0 sirarstvo-tinka.com
+0.0.0.0 sirdushi.xyz
 0.0.0.0 siredgarallancrow.com
 0.0.0.0 siredgynics.com
 0.0.0.0 siredonlacs.com
@@ -106564,6 +106566,7 @@
 0.0.0.0 www.busytunnel.com
 0.0.0.0 www.butcherjakegroin.com
 0.0.0.0 www.butflatter.com
+0.0.0.0 www.buthawk.com
 0.0.0.0 www.butlerboldlylibraries.com
 0.0.0.0 www.butlerheavy.com
 0.0.0.0 www.butterflyitem.com
@@ -123187,6 +123190,7 @@
 0.0.0.0 zailoanoy.com
 0.0.0.0 zains.co.uk
 0.0.0.0 zaistaug.net
+0.0.0.0 zajukrib.net
 0.0.0.0 zakaheggment.com
 0.0.0.0 zakapp.tech
 0.0.0.0 zakladovadeska.com
