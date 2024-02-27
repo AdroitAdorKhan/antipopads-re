@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.058
 # Release: 058
-# Entries: 124,267
-# Updated: Tue, 27 Feb 24 14:19:11 +06
+# Entries: 124,274
+# Updated: Tue, 27 Feb 24 16:08:06 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -43385,6 +43385,7 @@
 0.0.0.0 hostelsansar.com
 0.0.0.0 hostess4events.store
 0.0.0.0 hostessrip.com
+0.0.0.0 hostgarto.com
 0.0.0.0 hostileconductive.com
 0.0.0.0 hosting-list.info
 0.0.0.0 hostingax.net
@@ -44114,6 +44115,7 @@
 0.0.0.0 hurtwisely.com
 0.0.0.0 hurvinekland.com
 0.0.0.0 husainbiketyres.com
+0.0.0.0 husainiyah.org
 0.0.0.0 husak.pro
 0.0.0.0 husakovydeti.com
 0.0.0.0 husaslxuj.com
@@ -58792,6 +58794,7 @@
 0.0.0.0 mfcharts.com
 0.0.0.0 mfdhantyelfo.com
 0.0.0.0 mfdyojjjkjbqphy.com
+0.0.0.0 mfgdyrsyvb.com
 0.0.0.0 mfhlsdd.com
 0.0.0.0 mfindia.org
 0.0.0.0 mfjmjdrfrgxdw.top
@@ -73610,6 +73613,7 @@
 0.0.0.0 prolongdoadaptation.com
 0.0.0.0 promdjnearme.com
 0.0.0.0 promenademarket.com
+0.0.0.0 promet.app
 0.0.0.0 prometey-ukrplus.com
 0.0.0.0 prometheustest99.com
 0.0.0.0 promicrsoft.com
@@ -111221,6 +111225,7 @@
 0.0.0.0 www.hurtfulplunge.com
 0.0.0.0 www.hurtwisely.com
 0.0.0.0 www.husainbiketyres.com
+0.0.0.0 www.husainiyah.org
 0.0.0.0 www.husbandnights.com
 0.0.0.0 www.huskexpandthingy.com
 0.0.0.0 www.huskyhearthscoundrel.com
@@ -115362,6 +115367,7 @@
 0.0.0.0 www.prolineindia.com
 0.0.0.0 www.prologuerussialavender.com
 0.0.0.0 www.prologuewhackobjected.com
+0.0.0.0 www.promet.app
 0.0.0.0 www.promiseyuri.com
 0.0.0.0 www.promisingcigar.com
 0.0.0.0 www.prommafederation.org
@@ -116779,6 +116785,7 @@
 0.0.0.0 www.shatsalt.com
 0.0.0.0 www.shatterconceal.com
 0.0.0.0 www.shattermessseedling.com
+0.0.0.0 www.shavetulip.com
 0.0.0.0 www.shawneehillfarm.com
 0.0.0.0 www.shayuvcd.com
 0.0.0.0 www.shazlyco.com
