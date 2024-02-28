@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.059
 # Release: 059
-# Entries: 124,454
-# Updated: Wed, 28 Feb 24 14:18:53 +06
+# Entries: 124,458
+# Updated: Wed, 28 Feb 24 16:08:06 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -21817,6 +21817,7 @@
 0.0.0.0 corcovadobirding.com
 0.0.0.0 corcovadodesign.com
 0.0.0.0 cordclck.cc
+0.0.0.0 cordglacier.com
 0.0.0.0 cordha.com
 0.0.0.0 cordialcloudhost.com
 0.0.0.0 cordinghology.info
@@ -33280,6 +33281,7 @@
 0.0.0.0 fbpfquhwlwxvwvo.com
 0.0.0.0 fbpgdlprsiz.com
 0.0.0.0 fbrheofkccovs.xyz
+0.0.0.0 fbrrhicrihaj.com
 0.0.0.0 fbrrurboady.top
 0.0.0.0 fbsdc.org
 0.0.0.0 fbtinlxy.com
@@ -69532,6 +69534,7 @@
 0.0.0.0 pb.yantraglagol.com
 0.0.0.0 pb1.pw
 0.0.0.0 pb2b2.com
+0.0.0.0 pbacijttzozq.com
 0.0.0.0 pbaeoktgtckivj.com
 0.0.0.0 pbamjgga.com
 0.0.0.0 pbbnsigxrdiy.com
@@ -70658,6 +70661,7 @@
 0.0.0.0 phoneadtracker.com
 0.0.0.0 phonebeagle.com
 0.0.0.0 phonecasesbestgo.com
+0.0.0.0 phonecontacts.net
 0.0.0.0 phonedmr.co.in
 0.0.0.0 phonefilamentembarrassment.com
 0.0.0.0 phoneforloan.com
