@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.059
 # Release: 059
-# Entries: 124,458
-# Updated: Wed, 28 Feb 24 16:08:06 +06
+# Entries: 124,460
+# Updated: Wed, 28 Feb 24 18:09:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8769,6 +8769,7 @@
 0.0.0.0 aroot.us
 0.0.0.0 aroseexploit.com
 0.0.0.0 arosefairfaxadditional.com
+0.0.0.0 arosepageant.com
 0.0.0.0 arossb.com
 0.0.0.0 arouac.com
 0.0.0.0 aroundktaf.site
@@ -39069,6 +39070,7 @@
 0.0.0.0 goldeneventllc.com
 0.0.0.0 goldenfruitltd.com
 0.0.0.0 goldengatespg.com
+0.0.0.0 goldengooseoutletonline.us.com
 0.0.0.0 goldenmojoawards.com
 0.0.0.0 goldennews.online
 0.0.0.0 goldenpalmsc.in
