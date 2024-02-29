@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.02.060
 # Release: 060
-# Entries: 124,611
-# Updated: Thu, 29 Feb 24 20:31:42 +06
+# Entries: 124,614
+# Updated: Thu, 29 Feb 24 22:16:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14713,6 +14713,7 @@
 0.0.0.0 boonsbarcas.uno
 0.0.0.0 boopstorm.net
 0.0.0.0 booptuwa.net
+0.0.0.0 boorgagilden.com
 0.0.0.0 booshoune.com
 0.0.0.0 booshout.com
 0.0.0.0 boost-next.co.jp
@@ -25673,6 +25674,7 @@
 0.0.0.0 dhkrftpc.xyz
 0.0.0.0 dhl-contact-shipment.com
 0.0.0.0 dhleez.net
+0.0.0.0 dhlfwufymdoawil.com
 0.0.0.0 dhlpm.com
 0.0.0.0 dhmibachro.xyz
 0.0.0.0 dhobisanders.life
@@ -96137,6 +96139,7 @@
 0.0.0.0 typjdopwqareh.com
 0.0.0.0 typografia.xyz
 0.0.0.0 typooptic.digital
+0.0.0.0 typsxumcsjw.com
 0.0.0.0 tyqptghilt.com
 0.0.0.0 tyqvpmqpee.com
 0.0.0.0 tyract.com
