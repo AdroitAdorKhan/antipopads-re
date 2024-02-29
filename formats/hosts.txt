@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.061
 # Release: 061
-# Entries: 124,641
-# Updated: Fri, 01 Mar 24 02:09:37 +06
+# Entries: 124,643
+# Updated: Fri, 01 Mar 24 04:31:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -36676,6 +36676,7 @@
 0.0.0.0 gabas.io
 0.0.0.0 gabbershivery.guru
 0.0.0.0 gabbi25.xyz
+0.0.0.0 gabegold.com
 0.0.0.0 gabentres.com
 0.0.0.0 gablesorca.top
 0.0.0.0 gablok-house.com
@@ -48890,6 +48891,7 @@
 0.0.0.0 jggroupindia.com
 0.0.0.0 jggvkisg.com
 0.0.0.0 jghjhtz.com
+0.0.0.0 jghlomdunfvf.com
 0.0.0.0 jghsvdhasd2.monster
 0.0.0.0 jgmoa30.com
 0.0.0.0 jgmudyjal.com
