@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.061
 # Release: 061
-# Entries: 124,805
-# Updated: Fri, 01 Mar 24 18:08:57 +06
+# Entries: 124,813
+# Updated: Fri, 01 Mar 24 20:34:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5819,6 +5819,7 @@
 0.0.0.0 aimvaria.live
 0.0.0.0 ainakfoundation.org
 0.0.0.0 aineghoo.xyz
+0.0.0.0 aingaugo.com
 0.0.0.0 ainhiseewhat.com
 0.0.0.0 ainingukmo.xyz
 0.0.0.0 ainiton.com
@@ -6144,6 +6145,7 @@
 0.0.0.0 akwaabadevelopments.ca
 0.0.0.0 akwaabadevelopments.com
 0.0.0.0 akwaabahomes.ca
+0.0.0.0 akwmfhgvd.com
 0.0.0.0 akwxtceohbmu.xyz
 0.0.0.0 akychhluvbh.com
 0.0.0.0 akyldpjmlh.com
@@ -10028,6 +10030,7 @@
 0.0.0.0 autand.com
 0.0.0.0 autate.com
 0.0.0.0 autbid.net
+0.0.0.0 autchich.com
 0.0.0.0 autchoog.net
 0.0.0.0 auteboon.net
 0.0.0.0 auth-go-oniine.com
@@ -14828,6 +14831,7 @@
 0.0.0.0 borrowwaggonerinvestigate.com
 0.0.0.0 borsacode.com
 0.0.0.0 borsatelit.com
+0.0.0.0 bortaugeep.com
 0.0.0.0 borumis.com
 0.0.0.0 borupatlawtp.com
 0.0.0.0 borxyjxjivibw.com
@@ -30790,6 +30794,7 @@
 0.0.0.0 enngage.app
 0.0.0.0 enniced.com
 0.0.0.0 ennriwtppx.xyz
+0.0.0.0 enoaltew.xyz
 0.0.0.0 enochiccroatan.guru
 0.0.0.0 enodia.app
 0.0.0.0 enodiarahnthedon.com
@@ -49335,6 +49340,7 @@
 0.0.0.0 jnnihxpvlqahr.xyz
 0.0.0.0 jnohrcdlvewdok.com
 0.0.0.0 jnqianhui.com
+0.0.0.0 jnqkvgkm.com
 0.0.0.0 jnqsjsxnvpkiu.com
 0.0.0.0 jnrbrosnan.com
 0.0.0.0 jnretqbxrmdeig.com
@@ -51536,6 +51542,7 @@
 0.0.0.0 kipeir.com
 0.0.0.0 kiperformance.ca
 0.0.0.0 kipesa.info
+0.0.0.0 kiplingvaskorsverige.com.se
 0.0.0.0 kipodell.com
 0.0.0.0 kipsellies.com
 0.0.0.0 kiputan6.com
@@ -121618,6 +121625,7 @@
 0.0.0.0 xn--rkls-dpa8eb.com
 0.0.0.0 xn--rvinovaes-w3a8m.com
 0.0.0.0 xn--sandaykeen-e0b.com
+0.0.0.0 xn--sankcanada-ceb.com
 0.0.0.0 xn--sankoutlet-ceb.com
 0.0.0.0 xn--saucony-trkiye-osb.com
 0.0.0.0 xn--scre-bva34c.com
