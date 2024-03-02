@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.062
 # Release: 062
-# Entries: 124,964
-# Updated: Sat, 02 Mar 24 16:07:52 +06
+# Entries: 124,966
+# Updated: Sat, 02 Mar 24 18:07:59 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -20150,6 +20150,7 @@
 :: clocklink.com
 :: clocktek.org
 :: clockwise.network
+:: clockwisefamilyunofficial.com
 :: clockwiseleaderfilament.com
 :: clodsplit.com
 :: clodyields.com
@@ -36193,6 +36194,7 @@
 :: fruitmachines.us
 :: fruitnotability.com
 :: fruitvape.org
+:: frulednulx.com
 :: frustrationfungus.com
 :: frutidetails.us
 :: fruzrotula.com

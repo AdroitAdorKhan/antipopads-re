@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.062
 # Release: 062
-# Entries: 124,964
-# Updated: Sat, 02 Mar 24 16:07:52 +06
+# Entries: 124,966
+# Updated: Sat, 02 Mar 24 18:07:59 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20150,6 +20150,7 @@
 0.0.0.0 clocklink.com
 0.0.0.0 clocktek.org
 0.0.0.0 clockwise.network
+0.0.0.0 clockwisefamilyunofficial.com
 0.0.0.0 clockwiseleaderfilament.com
 0.0.0.0 clodsplit.com
 0.0.0.0 clodyields.com
@@ -36193,6 +36194,7 @@
 0.0.0.0 fruitmachines.us
 0.0.0.0 fruitnotability.com
 0.0.0.0 fruitvape.org
+0.0.0.0 frulednulx.com
 0.0.0.0 frustrationfungus.com
 0.0.0.0 frutidetails.us
 0.0.0.0 fruzrotula.com
