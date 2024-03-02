@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.063
 # Release: 063
-# Entries: 124,983
-# Updated: Sun, 03 Mar 24 00:22:08 +06
+# Entries: 124,984
+# Updated: Sun, 03 Mar 24 02:08:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -98388,6 +98388,7 @@
 0.0.0.0 utfegthji.com
 0.0.0.0 utfied.com
 0.0.0.0 utfjffpffhnko.com
+0.0.0.0 uthaiboa.xyz
 0.0.0.0 uthecrimorew.com
 0.0.0.0 uthecrimorew.info
 0.0.0.0 uthegrathapron.com
