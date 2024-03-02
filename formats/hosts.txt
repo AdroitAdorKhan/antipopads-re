@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.062
 # Release: 062
-# Entries: 124,947
-# Updated: Sat, 02 Mar 24 12:32:43 +06
+# Entries: 124,953
+# Updated: Sat, 02 Mar 24 14:15:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -833,6 +833,7 @@
 0.0.0.0 20izqvowi.com
 0.0.0.0 20minutestochange.com
 0.0.0.0 20open.live
+0.0.0.0 20seeds.com
 0.0.0.0 20sjndkfs32.monster
 0.0.0.0 20tracks.com
 0.0.0.0 20www.bcloudhost.com
@@ -10710,6 +10711,7 @@
 0.0.0.0 azraelzvro.com
 0.0.0.0 azrvahb.com
 0.0.0.0 azskk.com
+0.0.0.0 azulb2badvisors.com
 0.0.0.0 azulcw7.com
 0.0.0.0 azuldiaries.com
 0.0.0.0 azurecloudtraining.net
@@ -32953,6 +32955,7 @@
 0.0.0.0 fajnpujcka.sbs
 0.0.0.0 fajnsmeker.com
 0.0.0.0 fajrufqpu.com
+0.0.0.0 fajvoplkuuf.xyz
 0.0.0.0 fakazasongs.net
 0.0.0.0 fakeallow.com
 0.0.0.0 fakebelts.ru
@@ -51007,6 +51010,7 @@
 0.0.0.0 kdyxxkcd.com
 0.0.0.0 ke.business
 0.0.0.0 keamateorski.xyz
+0.0.0.0 keamedcollege.co.za
 0.0.0.0 keapeiros.xyz
 0.0.0.0 keapgypsite.website
 0.0.0.0 kearyfoster.com
@@ -98600,6 +98604,7 @@
 0.0.0.0 uyqqdhrbjab.com
 0.0.0.0 uywdhdpspcyq.com
 0.0.0.0 uywkfhwxqpdyvgp.com
+0.0.0.0 uywvjeshjb.com
 0.0.0.0 uyynfgnytmwsgiu.com
 0.0.0.0 uz.glentabasco.com
 0.0.0.0 uzairahmed.tech
@@ -105538,6 +105543,7 @@
 0.0.0.0 www.aimoverwhelmingpeek.com
 0.0.0.0 www.aimpocket.com
 0.0.0.0 www.ainakfoundation.org
+0.0.0.0 www.aingaugo.com
 0.0.0.0 www.aiposify.com
 0.0.0.0 www.aiqiji1.com
 0.0.0.0 www.air-bo.com
