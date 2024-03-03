@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.063
 # Release: 063
-# Entries: 125,060
-# Updated: Sun, 03 Mar 24 08:14:08 +06
+# Entries: 125,062
+# Updated: Sun, 03 Mar 24 10:07:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -33880,6 +33880,7 @@
 0.0.0.0 fflags.com
 0.0.0.0 fflip.it
 0.0.0.0 ffoaaaltirx.com
+0.0.0.0 ffofvbvuor.com
 0.0.0.0 ffortyimagist.com
 0.0.0.0 ffpbc.com
 0.0.0.0 ffqtjwwhupcg.com
@@ -44202,6 +44203,7 @@
 0.0.0.0 huaykae.com
 0.0.0.0 hub-sci.net
 0.0.0.0 hub4unity.com
+0.0.0.0 hubaescctfos.com
 0.0.0.0 hubakba.com
 0.0.0.0 hubara.center
 0.0.0.0 hubbabu2bb8anys09.com
