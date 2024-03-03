@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.063
 # Release: 063
-# Entries: 125,122
-# Updated: Sun, 03 Mar 24 20:12:47 +06
+# Entries: 125,125
+# Updated: Sun, 03 Mar 24 22:22:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -81737,6 +81737,7 @@
 0.0.0.0 santstipule.com
 0.0.0.0 santygo.life
 0.0.0.0 sanufvuhaf.com
+0.0.0.0 sanuksverigeoutlet.com.se
 0.0.0.0 sanvicentepalawanhotels.com
 0.0.0.0 sanyajyg.com
 0.0.0.0 sanzen.love
@@ -91804,6 +91805,7 @@
 0.0.0.0 the-bitcoin-synergy.com
 0.0.0.0 the-bitcoinpro-app.net
 0.0.0.0 the-bitcoinuppro.com
+0.0.0.0 the-bitfit-app.com
 0.0.0.0 the-biti-codes.net
 0.0.0.0 the-biticodes-app.net
 0.0.0.0 the-bitlq-app.net
@@ -124313,6 +124315,7 @@
 0.0.0.0 zelqytckpgzwag.com
 0.0.0.0 zelrasty.net
 0.0.0.0 zelrulte.com
+0.0.0.0 zelsaips.com
 0.0.0.0 zemanresort.com
 0.0.0.0 zemansignatureresort.com
 0.0.0.0 zemansr.com
