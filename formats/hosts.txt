@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.064
 # Release: 064
-# Entries: 125,130
-# Updated: Mon, 04 Mar 24 04:27:02 +06
+# Entries: 125,133
+# Updated: Mon, 04 Mar 24 08:22:05 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7601,6 +7601,7 @@
 0.0.0.0 anniive.space
 0.0.0.0 anniversaryblaspheme.com
 0.0.0.0 anniversarythingy.com
+0.0.0.0 annntaylor.com
 0.0.0.0 annotationcoinboiled.com
 0.0.0.0 annotationdiverse.com
 0.0.0.0 annotationpushy.com
@@ -35554,6 +35555,7 @@
 0.0.0.0 forseisemelo.top
 0.0.0.0 forsendo.com
 0.0.0.0 forseti.cz
+0.0.0.0 forslugmar.com
 0.0.0.0 forsookjaeger.com
 0.0.0.0 forsphealan.com
 0.0.0.0 forsthof-berlin.de
@@ -96472,6 +96474,7 @@
 0.0.0.0 twvybupqup.xyz
 0.0.0.0 twwmviswnyavhju.xyz
 0.0.0.0 twwp3.top
+0.0.0.0 twwxjqsk.com
 0.0.0.0 twxlcadqqggrmp.com
 0.0.0.0 twxvkwjgugh.com
 0.0.0.0 tx-global.net
