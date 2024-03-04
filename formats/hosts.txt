@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.064
 # Release: 064
-# Entries: 125,211
-# Updated: Mon, 04 Mar 24 20:30:13 +06
+# Entries: 125,215
+# Updated: Mon, 04 Mar 24 22:08:38 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8129,6 +8129,7 @@
 0.0.0.0 app.ringcentral.com
 0.0.0.0 app.secads.club
 0.0.0.0 app.trackbiss.club
+0.0.0.0 app2trends.com
 0.0.0.0 app4man.com
 0.0.0.0 apparelbrandsabotage.com
 0.0.0.0 apparelchildplash.com
@@ -50352,6 +50353,7 @@
 0.0.0.0 jurorstalar.uno
 0.0.0.0 jursoateed.com
 0.0.0.0 jursp.com
+0.0.0.0 jurtaith.net
 0.0.0.0 jurtovna.com
 0.0.0.0 juryinterstate.com
 0.0.0.0 juryinvolving.com
@@ -75595,6 +75597,7 @@
 0.0.0.0 pymondardin.xyz
 0.0.0.0 pympbhxyhnd.xyz
 0.0.0.0 pyooochfjlotnh.com
+0.0.0.0 pyoqsqtmafwty.com
 0.0.0.0 pyoungstersofto.xyz
 0.0.0.0 pypavffxtljj.com
 0.0.0.0 pypggkvbfpprlx.com
@@ -106157,6 +106160,7 @@
 0.0.0.0 www.apostrophe.cloud
 0.0.0.0 www.apostropheheelsfence.com
 0.0.0.0 www.apostrophepanediffer.com
+0.0.0.0 www.app2trends.com
 0.0.0.0 www.apparentlyadverse.com
 0.0.0.0 www.apparentlycontain.com
 0.0.0.0 www.appbbvacuenta.com
