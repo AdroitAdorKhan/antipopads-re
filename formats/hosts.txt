@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.064
 # Release: 064
-# Entries: 125,145
-# Updated: Mon, 04 Mar 24 12:22:29 +06
+# Entries: 125,146
+# Updated: Mon, 04 Mar 24 14:08:10 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -113449,6 +113449,7 @@
 0.0.0.0 www.lieutenantfurther.com
 0.0.0.0 www.lieutenanttesting.com
 0.0.0.0 www.lifearchaicwhipped.com
+0.0.0.0 www.lifeboatlegalalleviate.com
 0.0.0.0 www.lifeillumine.com
 0.0.0.0 www.lifeisarecipe.net
 0.0.0.0 www.lifesciencesbysquareone.com
