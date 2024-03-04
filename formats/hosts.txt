@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.064
 # Release: 064
-# Entries: 125,133
-# Updated: Mon, 04 Mar 24 08:22:05 +06
+# Entries: 125,135
+# Updated: Mon, 04 Mar 24 10:07:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5245,6 +5245,7 @@
 0.0.0.0 aflozym.org
 0.0.0.0 aflozym.us
 0.0.0.0 afm01.com
+0.0.0.0 afmdlqeqsfkwe.com
 0.0.0.0 afmhlhqwkn.com
 0.0.0.0 afmoncton.com
 0.0.0.0 afmteeth.com
@@ -5313,6 +5314,7 @@
 0.0.0.0 afrouupefqqrg.com
 0.0.0.0 afshanthough.pro
 0.0.0.0 afssdmin.com
+0.0.0.0 afsupxdvmqw.com
 0.0.0.0 afswkdjdma.com
 0.0.0.0 aftabonick.me
 0.0.0.0 aftabsport.xyz
