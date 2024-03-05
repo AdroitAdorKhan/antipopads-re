@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.03.065
-# Release: 065
-# Entries: 125,410
-# Updated: Tue, 05 Mar 24 22:25:36 +06
+# Version: 24.03.066
+# Release: 066
+# Entries: 125,414
+# Updated: Wed, 06 Mar 24 00:20:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6016,6 +6016,7 @@
 0.0.0.0 aj2526.bid
 0.0.0.0 aj2532.bid
 0.0.0.0 aj2550.bid
+0.0.0.0 aj2555.bid
 0.0.0.0 ajaltoly.com
 0.0.0.0 ajandekozz.online
 0.0.0.0 ajar-substance.com
@@ -7619,6 +7620,7 @@
 0.0.0.0 annotationcoinboiled.com
 0.0.0.0 annotationdiverse.com
 0.0.0.0 annotationpushy.com
+0.0.0.0 annotationsincereexistence.com
 0.0.0.0 annotationsolely.com
 0.0.0.0 annotationwednesdayplayground.com
 0.0.0.0 annotio.com
@@ -25343,6 +25345,7 @@
 0.0.0.0 depurestole.guru
 0.0.0.0 deqkmzurltovbk.com
 0.0.0.0 dequcqljctxlxd.com
+0.0.0.0 deramhost.com
 0.0.0.0 derangenameunlimited.com
 0.0.0.0 derasas.tech
 0.0.0.0 deraterbelamy.com
@@ -32084,6 +32087,7 @@
 0.0.0.0 evemoses.top
 0.0.0.0 evencontinuallyclaim.com
 0.0.0.0 evendisciplineseedlings.com
+0.0.0.0 eveneraw.digital
 0.0.0.0 evenghiougher.com
 0.0.0.0 eveningproclamationarched.com
 0.0.0.0 eveningsfleawhatsoever.com
