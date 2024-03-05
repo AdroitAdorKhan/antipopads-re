@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.065
 # Release: 065
-# Entries: 125,354
-# Updated: Tue, 05 Mar 24 16:27:21 +06
+# Entries: 125,356
+# Updated: Tue, 05 Mar 24 18:09:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -27191,6 +27191,7 @@
 0.0.0.0 dohsnowcorp.com
 0.0.0.0 dohsnowentities.com
 0.0.0.0 doiavhqvduy.com
+0.0.0.0 doidbymr.com
 0.0.0.0 doiejeyuge.com
 0.0.0.0 doigtepyramid.com
 0.0.0.0 doingporteddispose.com
@@ -32766,6 +32767,7 @@
 0.0.0.0 eyrarjassid.website
 0.0.0.0 eyrasmamluks.space
 0.0.0.0 eyrofsnipmni.com
+0.0.0.0 eyrshwjvam.com
 0.0.0.0 eytheed.com
 0.0.0.0 eythorneltd.co.uk
 0.0.0.0 eyueqvwirst.com
