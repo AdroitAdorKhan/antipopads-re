@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.066
 # Release: 066
-# Entries: 125,430
-# Updated: Wed, 06 Mar 24 02:08:32 +06
+# Entries: 125,433
+# Updated: Wed, 06 Mar 24 04:08:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -47722,6 +47722,7 @@
 0.0.0.0 ironstudios.org
 0.0.0.0 ironthro5man.com
 0.0.0.0 ironweaver.top
+0.0.0.0 ironworkssb.com
 0.0.0.0 ironymisterdisk.com
 0.0.0.0 iroufteg.net
 0.0.0.0 irousbisayan.com
@@ -98581,6 +98582,7 @@
 0.0.0.0 usateiecomins.com
 0.0.0.0 usb-charger.org
 0.0.0.0 usbanners.com
+0.0.0.0 usbopbuex.com
 0.0.0.0 usbuidnrkilvhx.top
 0.0.0.0 uschire.com
 0.0.0.0 uschnellurestaurant.com
@@ -124110,6 +124112,7 @@
 0.0.0.0 yurika-endo.com
 0.0.0.0 yuris.name
 0.0.0.0 yurovich.com
+0.0.0.0 yuscxxasoxv.xyz
 0.0.0.0 yusset02.tech
 0.0.0.0 yusukqwlukvw.com
 0.0.0.0 yusundice.com
