@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.067
 # Release: 067
-# Entries: 125,866
-# Updated: Thu, 07 Mar 24 10:09:29 +06
+# Entries: 125,868
+# Updated: Thu, 07 Mar 24 12:08:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11726,6 +11726,7 @@
 0.0.0.0 batesforlegislature.com
 0.0.0.0 batespecializecoal.com
 0.0.0.0 batesurveyed.com
+0.0.0.0 bathabed.com
 0.0.0.0 bathbrrvwr.com
 0.0.0.0 batheattendancewreck.com
 0.0.0.0 bathepoliteness.com
@@ -50249,6 +50250,7 @@
 0.0.0.0 jqqewvxp.life
 0.0.0.0 jqqoupnggsuoh.com
 0.0.0.0 jqrhelpdesk.com
+0.0.0.0 jqtnbitlqxidh.com
 0.0.0.0 jqtree.com
 0.0.0.0 jquery-cdn.download
 0.0.0.0 jquerycdn.host
