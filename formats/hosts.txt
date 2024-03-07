@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.067
 # Release: 067
-# Entries: 125,842
-# Updated: Thu, 07 Mar 24 04:08:59 +06
+# Entries: 125,854
+# Updated: Thu, 07 Mar 24 06:40:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3962,6 +3962,7 @@
 0.0.0.0 acquaefarinapizza.com
 0.0.0.0 acquaintanceexemptspinach.com
 0.0.0.0 acquaintanceinsaneinaudible.com
+0.0.0.0 acquaintanceunbearablecelebrated.com
 0.0.0.0 acquaintedexpectations.com
 0.0.0.0 acquaintedpostman.com
 0.0.0.0 acquawes.xyz
@@ -6755,6 +6756,7 @@
 0.0.0.0 alonehepatitisenough.com
 0.0.0.0 alonelybansela.digital
 0.0.0.0 aloneshapeless.com
+0.0.0.0 aloofformidabledistant.com
 0.0.0.0 aloofpunish.com
 0.0.0.0 alot4you.tech
 0.0.0.0 alottle.love
@@ -8578,6 +8580,7 @@
 0.0.0.0 archseebloated.com
 0.0.0.0 archspytagmeme.guru
 0.0.0.0 archway-productions.net
+0.0.0.0 arciance.com
 0.0.0.0 arcionteriors.com
 0.0.0.0 arcis.industries
 0.0.0.0 arclight-m.com
@@ -38791,6 +38794,7 @@
 0.0.0.0 glfudvro.com
 0.0.0.0 glfvmduhg.com
 0.0.0.0 glgeniuses.com
+0.0.0.0 glhfservices.com
 0.0.0.0 glhyvunvinu.com
 0.0.0.0 glibsols.net
 0.0.0.0 gliceebe.xyz
@@ -64932,6 +64936,7 @@
 0.0.0.0 noblefun.net
 0.0.0.0 noblefuse.org
 0.0.0.0 noblelevityconcrete.com
+0.0.0.0 noblelightphotography.com
 0.0.0.0 noblemandrovebreeches.com
 0.0.0.0 noblemanlendpuffy.com
 0.0.0.0 noblemeantimeawelessaweless.com
@@ -70601,6 +70606,7 @@
 0.0.0.0 peculiaritiessevermaestro.com
 0.0.0.0 peculiarityrevengeinternet.com
 0.0.0.0 peculiarpug.com
+0.0.0.0 pedagogy.careers
 0.0.0.0 pedestalstall.com
 0.0.0.0 pedestalturner.com
 0.0.0.0 pedestrianneighbourly.com
@@ -75099,6 +75105,7 @@
 0.0.0.0 psoolikoagy.com
 0.0.0.0 psoompou.xyz
 0.0.0.0 psoonuxo.net
+0.0.0.0 psoopirdifty.xyz
 0.0.0.0 psoopoakihou.com
 0.0.0.0 psoorgou.com
 0.0.0.0 psoorsen.com
@@ -75985,6 +75992,7 @@
 0.0.0.0 pyareebitiya.org
 0.0.0.0 pyblbwvenfvyhw.com
 0.0.0.0 pycvlnu.com
+0.0.0.0 pyffaabtxpn.com
 0.0.0.0 pyfqqcekcgd.xyz
 0.0.0.0 pyfvbgzrs.com
 0.0.0.0 pygaulupeg.com
@@ -106801,6 +106809,7 @@
 0.0.0.0 www.archlycadetclutch.com
 0.0.0.0 www.archlysurroundgravy.com
 0.0.0.0 www.archway-productions.net
+0.0.0.0 www.arciance.com
 0.0.0.0 www.arcionteriors.com
 0.0.0.0 www.arcis.industries
 0.0.0.0 www.arcticclairvoyant.com
@@ -111841,6 +111850,7 @@
 0.0.0.0 www.gleaminsist.com
 0.0.0.0 www.gleefulsincerely.com
 0.0.0.0 www.glenseized.com
+0.0.0.0 www.glhfservices.com
 0.0.0.0 www.glitteridentifiernavy.com
 0.0.0.0 www.glitteringinextricabledemise.com
 0.0.0.0 www.glitteringobsessionchanges.com
@@ -115388,6 +115398,7 @@
 0.0.0.0 www.noalts.tech
 0.0.0.0 www.nobilitybefore.com
 0.0.0.0 www.noblelevityconcrete.com
+0.0.0.0 www.noblelightphotography.com
 0.0.0.0 www.noblemanlendpuffy.com
 0.0.0.0 www.nodcaterercrochet.com
 0.0.0.0 www.noddinglavish.com
@@ -116097,6 +116108,7 @@
 0.0.0.0 www.peculiaritiessevermaestro.com
 0.0.0.0 www.peculiarityrevengeinternet.com
 0.0.0.0 www.peculiarpug.com
+0.0.0.0 www.pedagogy.careers
 0.0.0.0 www.pedinformatika.ru
 0.0.0.0 www.peeksdragoncontinually.com
 0.0.0.0 www.peepacquisitionavalanche.com
