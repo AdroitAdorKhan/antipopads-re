@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.067
 # Release: 067
-# Entries: 125,974
-# Updated: Thu, 07 Mar 24 20:08:49 +06
+# Entries: 125,981
+# Updated: Thu, 07 Mar 24 22:31:38 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3535,6 +3535,7 @@
 0.0.0.0 aboutcolourcollective.com
 0.0.0.0 aboutk9training.com
 0.0.0.0 aboutpersonify.com
+0.0.0.0 abouttill.com
 0.0.0.0 abouttrek.com
 0.0.0.0 abouzarshariati.com
 0.0.0.0 abovebeyondcarekms.com
@@ -31438,6 +31439,7 @@
 0.0.0.0 eputysolomon.com
 0.0.0.0 epxmxnhjqknsuql.com
 0.0.0.0 epyjswxriarl.xyz
+0.0.0.0 epynkklzkvnvs.com
 0.0.0.0 eq.awmbravo.com
 0.0.0.0 eqacypykxa.com
 0.0.0.0 eqads.com
@@ -71402,6 +71404,7 @@
 0.0.0.0 phague.com
 0.0.0.0 phagueq.cn
 0.0.0.0 phaighoosie.com
+0.0.0.0 phaigleers.com
 0.0.0.0 phaignux.xyz
 0.0.0.0 phaikroo.net
 0.0.0.0 phaiksul.net
@@ -71679,6 +71682,7 @@
 0.0.0.0 phupours.com
 0.0.0.0 phuquoc.sale
 0.0.0.0 phuquy.news
+0.0.0.0 phussockest.com
 0.0.0.0 phuteheglu.com
 0.0.0.0 phuttrice.com
 0.0.0.0 phuzeeksub.com
@@ -75364,6 +75368,7 @@
 0.0.0.0 ptoftaupsift.com
 0.0.0.0 ptoftheca.xyz
 0.0.0.0 ptogheeb.net
+0.0.0.0 ptojilteed.com
 0.0.0.0 ptoksaith.com
 0.0.0.0 ptoksoaksi.com
 0.0.0.0 ptompeer.net
@@ -116479,7 +116484,9 @@
 0.0.0.0 www.pl18427035.highcpmrevenuenetwork.com
 0.0.0.0 www.pl18427041.highcpmrevenuenetwork.com
 0.0.0.0 www.pl18824912.highrevenuegate.com
+0.0.0.0 www.pl18889350.highrevenuegate.com
 0.0.0.0 www.pl20207724.highwaycpmrevenue.com
+0.0.0.0 www.pl22222090.toprevenuegate.com
 0.0.0.0 www.pl22261756.toprevenuegate.com
 0.0.0.0 www.placementsgh.net
 0.0.0.0 www.placingcompany.com
