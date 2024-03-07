@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.067
 # Release: 067
-# Entries: 125,854
-# Updated: Thu, 07 Mar 24 06:40:16 +06
+# Entries: 125,863
+# Updated: Thu, 07 Mar 24 08:18:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -45593,6 +45593,7 @@
 0.0.0.0 iglucwholesale.store
 0.0.0.0 igmcsvrgxpebh.xyz
 0.0.0.0 igmnqfoa.com
+0.0.0.0 igmpbpxgjavfbq.com
 0.0.0.0 ignamentswit.com
 0.0.0.0 ignateignatetame.com
 0.0.0.0 ignitedsportswear.com
@@ -58915,6 +58916,7 @@
 0.0.0.0 meatilywoman.cam
 0.0.0.0 meatinerhitles.xyz
 0.0.0.0 meatjaguar.com
+0.0.0.0 meatpluspotato.com
 0.0.0.0 meatshoppy.com
 0.0.0.0 meatvsvegy.com
 0.0.0.0 meatybite.in
@@ -65177,6 +65179,7 @@
 0.0.0.0 northerncommoditysolutions.com
 0.0.0.0 northerndrift.scot
 0.0.0.0 northernhorizonpartners.ca
+0.0.0.0 northernlightsconsulting.net
 0.0.0.0 northernlightsmive.com
 0.0.0.0 northernpicks.com
 0.0.0.0 northernstore.ca
@@ -87825,6 +87828,7 @@
 0.0.0.0 spoutable.com
 0.0.0.0 spouttheory.com
 0.0.0.0 sppiblog.org
+0.0.0.0 sppolexrumj.com
 0.0.0.0 sppzkqnk9.com
 0.0.0.0 spqhtqlcegi.com
 0.0.0.0 sprains.xyz
@@ -92537,6 +92541,7 @@
 0.0.0.0 thebiggboss14.net
 0.0.0.0 thebigideahunt.com
 0.0.0.0 thebiglifeassessment.com
+0.0.0.0 thebiglifedesigngoalschool.com
 0.0.0.0 thebiglifegoalschool.com
 0.0.0.0 thebigpraise.com
 0.0.0.0 thebigpraise.org
@@ -112715,6 +112720,7 @@
 0.0.0.0 www.hypotheticallylistless.com
 0.0.0.0 www.hyzer-line.com
 0.0.0.0 www.hzr0dm28m17c.com
+0.0.0.0 www.i-5truckaccidentlawyer.com
 0.0.0.0 www.i-room.us
 0.0.0.0 www.i-semiconductors.fr
 0.0.0.0 www.i-switch.com
@@ -114641,6 +114647,7 @@
 0.0.0.0 www.measurepork.com
 0.0.0.0 www.meatabdicatedelicatessen.com
 0.0.0.0 www.meatjaguar.com
+0.0.0.0 www.meatpluspotato.com
 0.0.0.0 www.mechanicengagementdelivering.com
 0.0.0.0 www.mechanicladenthereby.com
 0.0.0.0 www.mechanicmaniacrimpycrimpy.com
@@ -115442,6 +115449,7 @@
 0.0.0.0 www.normalrepublicemulate.com
 0.0.0.0 www.norrisbum.com
 0.0.0.0 www.northcoastcrm.com
+0.0.0.0 www.northernlightsconsulting.net
 0.0.0.0 www.northislandtonewoods.com
 0.0.0.0 www.northleaderpayback.com
 0.0.0.0 www.northtoronto.football
@@ -119607,6 +119615,7 @@
 0.0.0.0 www.thebear.fm
 0.0.0.0 www.thebeginningstore.in
 0.0.0.0 www.thebestpuzzlegame.com
+0.0.0.0 www.thebiglifedesigngoalschool.com
 0.0.0.0 www.thebitcoinfuture.org
 0.0.0.0 www.theblessedcoder.tech
 0.0.0.0 www.thebluntchic.com
