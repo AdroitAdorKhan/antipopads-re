@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.068
 # Release: 068
-# Entries: 126,059
-# Updated: Fri, 08 Mar 24 16:22:18 +06
+# Entries: 126,061
+# Updated: Fri, 08 Mar 24 18:08:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19097,6 +19097,7 @@
 0.0.0.0 cherokeegiftsshop.com
 0.0.0.0 cherryangel.us
 0.0.0.0 cherrymanga.com
+0.0.0.0 cherrymotionless.com
 0.0.0.0 cherrynanspecification.com
 0.0.0.0 chersoat.com
 0.0.0.0 cherubhoward.top
@@ -123463,6 +123464,7 @@
 0.0.0.0 yamahaoutdoors.us
 0.0.0.0 yamahapartsdepot.us
 0.0.0.0 yamahaportablegenerators.us
+0.0.0.0 yamahas.com
 0.0.0.0 yamahasports.us
 0.0.0.0 yamahasxsparts.us
 0.0.0.0 yamcast.tech
