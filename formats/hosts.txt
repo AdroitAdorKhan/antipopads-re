@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.03.068
-# Release: 068
-# Entries: 126,079
-# Updated: Fri, 08 Mar 24 22:31:08 +06
+# Version: 24.03.069
+# Release: 069
+# Entries: 126,080
+# Updated: Sat, 09 Mar 24 00:17:45 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -36605,6 +36605,7 @@
 0.0.0.0 ftbpoykv.xyz
 0.0.0.0 ftcvfyocuks.com
 0.0.0.0 ftd.agency
+0.0.0.0 ftdoqjlic.com
 0.0.0.0 ftdvpextzx.com
 0.0.0.0 ftechtravel.online
 0.0.0.0 ftfssuhryrcmip.com
