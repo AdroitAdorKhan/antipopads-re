@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.068
 # Release: 068
-# Entries: 126,064
-# Updated: Fri, 08 Mar 24 20:08:12 +06
+# Entries: 126,079
+# Updated: Fri, 08 Mar 24 22:31:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9032,6 +9032,7 @@
 0.0.0.0 artspaceindia.com
 0.0.0.0 artsrookpassed.com
 0.0.0.0 artsybutchercluster.com
+0.0.0.0 artsygas.com
 0.0.0.0 arttoproducts.com
 0.0.0.0 artua.auction
 0.0.0.0 arturoromerohphotography.com
@@ -18788,6 +18789,7 @@
 0.0.0.0 characcaslon.com
 0.0.0.0 characteristicmiscarriage.com
 0.0.0.0 characterizecondole.com
+0.0.0.0 characterrollback.com
 0.0.0.0 characterstatus.com
 0.0.0.0 characterwatchesus.com
 0.0.0.0 charakmdl.com
@@ -57730,6 +57732,7 @@
 0.0.0.0 makeamericalocalagain.us
 0.0.0.0 makeayr.top
 0.0.0.0 makechittagonggreen.com
+0.0.0.0 makeencampmentamoral.com
 0.0.0.0 makeespressogreatagain.com
 0.0.0.0 makefharmaliable.com
 0.0.0.0 makeinbelgaum.com
@@ -60236,6 +60239,7 @@
 0.0.0.0 minglebookwormdecency.com
 0.0.0.0 mingledorpolitely.com
 0.0.0.0 mingledunorder.com
+0.0.0.0 minglefrostgrasp.com
 0.0.0.0 mingonnigh.com
 0.0.0.0 minguita.com
 0.0.0.0 mingysticker.guru
@@ -61450,6 +61454,7 @@
 0.0.0.0 mosques.in
 0.0.0.0 mosquesituated.com
 0.0.0.0 mosqueworking.com
+0.0.0.0 mosquitofelicity.com
 0.0.0.0 mosquitosubjectsimportantly.com
 0.0.0.0 mosrtaek.net
 0.0.0.0 mossdistractionposture.com
@@ -74511,6 +74516,7 @@
 0.0.0.0 probationpresented.com
 0.0.0.0 probationtoll.com
 0.0.0.0 probaufix.com
+0.0.0.0 probestrike.com
 0.0.0.0 probet.store
 0.0.0.0 probet365.shop
 0.0.0.0 probet365.store
@@ -80612,6 +80618,7 @@
 0.0.0.0 rogtcl.com
 0.0.0.0 rogue-art.co.uk
 0.0.0.0 rogueit.ca
+0.0.0.0 rogueschedule.com
 0.0.0.0 rohan-for-empowerment.org
 0.0.0.0 rohananatara.com
 0.0.0.0 rohillaspatzle.website
@@ -84039,6 +84046,7 @@
 0.0.0.0 serverscurtain.com
 0.0.0.0 serverside.tech
 0.0.0.0 serversmatrixaggregation.com
+0.0.0.0 serversoursmiling.com
 0.0.0.0 serverssignshigher.com
 0.0.0.0 serververwaltung.jetzt
 0.0.0.0 servetraff.com
@@ -87603,6 +87611,7 @@
 0.0.0.0 speai.com
 0.0.0.0 speakeasyartscooperative.com
 0.0.0.0 speakersummit.info
+0.0.0.0 speakeugene.com
 0.0.0.0 speakexecution.com
 0.0.0.0 speakinchreprimand.com
 0.0.0.0 speakinghostile.com
@@ -88808,6 +88817,7 @@
 0.0.0.0 stethuth.xyz
 0.0.0.0 stethydelicat.com
 0.0.0.0 steveandkim.net
+0.0.0.0 steveirene.com
 0.0.0.0 stevemaddensouthafrica.net
 0.0.0.0 stevencousins.com
 0.0.0.0 stevengullan.com
@@ -89562,6 +89572,7 @@
 0.0.0.0 subsezavlp.com
 0.0.0.0 subsidehurtful.com
 0.0.0.0 subsistgrew.com
+0.0.0.0 subsistpartyagenda.com
 0.0.0.0 subsly.io
 0.0.0.0 subsor.com
 0.0.0.0 substanceusehealth.ca
@@ -102474,6 +102485,7 @@
 0.0.0.0 wailingmosqueis.com
 0.0.0.0 wainaina.tech
 0.0.0.0 waioowcadhw.xyz
+0.0.0.0 wairouter.com
 0.0.0.0 wairua.es
 0.0.0.0 waiseph.com
 0.0.0.0 waisheph.com
@@ -107111,6 +107123,7 @@
 0.0.0.0 www.asmadness.com
 0.0.0.0 www.asmartmove.org
 0.0.0.0 www.asoft99.dev
+0.0.0.0 www.asparagusinterruption.com
 0.0.0.0 www.asparaguswayfarerapparent.com
 0.0.0.0 www.aspclients.com
 0.0.0.0 www.aspenpalette.com
@@ -120932,6 +120945,7 @@
 0.0.0.0 www.waiboocohin.com
 0.0.0.0 www.wailedfrosty.com
 0.0.0.0 www.wailingmosqueis.com
+0.0.0.0 www.wairouter.com
 0.0.0.0 www.waistdeafgeorgiana.com
 0.0.0.0 www.waistduckedriding.com
 0.0.0.0 www.waisttrustworthy.com
@@ -123217,6 +123231,7 @@
 0.0.0.0 xwcfvvnegv.com
 0.0.0.0 xwcumrmfkdkbv.com
 0.0.0.0 xwddavolgwvwkcr.com
+0.0.0.0 xweikukcljpfa.com
 0.0.0.0 xwevtacuw.com
 0.0.0.0 xwftgjittkxfubn.xyz
 0.0.0.0 xwibmavc.com
