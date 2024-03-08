@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.068
 # Release: 068
-# Entries: 126,061
-# Updated: Fri, 08 Mar 24 18:08:12 +06
+# Entries: 126,064
+# Updated: Fri, 08 Mar 24 20:08:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19845,6 +19845,7 @@
 0.0.0.0 ckqnfalgauqqoxd.xyz
 0.0.0.0 ckre.net
 0.0.0.0 ckrf1.com
+0.0.0.0 ckrgpiyftbsu.com
 0.0.0.0 ckrocket.io
 0.0.0.0 ckrrmwqh.com
 0.0.0.0 cksfpfcc.com
@@ -28281,6 +28282,7 @@
 0.0.0.0 drvato.com
 0.0.0.0 drvkypkfm.com
 0.0.0.0 drvngiyss.com
+0.0.0.0 drvntfowoi.com
 0.0.0.0 drweldt.com
 0.0.0.0 drwhh.yt
 0.0.0.0 drwornspinster.com
@@ -79855,6 +79857,7 @@
 0.0.0.0 rhqqmdlxoypdtxm.xyz
 0.0.0.0 rhrfjehy.top
 0.0.0.0 rhsorga.com
+0.0.0.0 rhsvrbrdyps.xyz
 0.0.0.0 rhswppluamrd.com
 0.0.0.0 rhsypaywcgreqkq.com
 0.0.0.0 rhtxlrsppa.com
