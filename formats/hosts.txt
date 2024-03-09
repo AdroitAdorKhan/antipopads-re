@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.069
 # Release: 069
-# Entries: 126,095
-# Updated: Sat, 09 Mar 24 06:45:25 +06
+# Entries: 126,098
+# Updated: Sat, 09 Mar 24 08:22:59 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5886,6 +5886,7 @@
 0.0.0.0 aiql.io
 0.0.0.0 aiql.online
 0.0.0.0 aiql.space
+0.0.0.0 aiquqqaadd.xyz
 0.0.0.0 air-bo.com
 0.0.0.0 air-max-270.us.com
 0.0.0.0 air-protected.com
@@ -41183,6 +41184,7 @@
 0.0.0.0 gxmwvdshn.com
 0.0.0.0 gxnedqaxm.com
 0.0.0.0 gxordgtvjr.com
+0.0.0.0 gxoymwfwex.com
 0.0.0.0 gxpnsiolfm.com
 0.0.0.0 gxpvnveyqowm.com
 0.0.0.0 gxqjvuhsk.com
@@ -88691,6 +88693,7 @@
 0.0.0.0 steamlargelyjustified.com
 0.0.0.0 steamsorrowabbey.com
 0.0.0.0 steamstore.tech
+0.0.0.0 steavemadden.com
 0.0.0.0 stebbinsaviationinc.com
 0.0.0.0 steberedizioni.it
 0.0.0.0 stedsous.xyz
