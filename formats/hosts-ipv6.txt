@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.069
 # Release: 069
-# Entries: 126,098
-# Updated: Sat, 09 Mar 24 08:22:59 +06
+# Entries: 126,099
+# Updated: Sat, 09 Mar 24 10:09:10 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -111134,6 +111134,7 @@
 :: www.faiwastauk.com
 :: www.fakedesigner.org
 :: www.fakepredatorybogusjournals.org
+:: www.falconame.org
 :: www.falconattendance.com
 :: www.falconisleclip.com
 :: www.fallenportray.com
