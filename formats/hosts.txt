@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.069
 # Release: 069
-# Entries: 126,256
-# Updated: Sat, 09 Mar 24 16:17:42 +06
+# Entries: 126,262
+# Updated: Sat, 09 Mar 24 18:09:11 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6066,6 +6066,7 @@
 0.0.0.0 ajillionmax.com
 0.0.0.0 ajithtradingcompany.com
 0.0.0.0 ajivh.yt
+0.0.0.0 ajivikatend.digital
 0.0.0.0 ajiwqmnh.com
 0.0.0.0 ajjhtetv87.com
 0.0.0.0 ajjtfysen.com
@@ -31522,6 +31523,7 @@
 0.0.0.0 eqhegcbxmsgwil.com
 0.0.0.0 eqhrfpsvfk.com
 0.0.0.0 eqjkdifmtfpxdpd.com
+0.0.0.0 eqjqrhygi.com
 0.0.0.0 eqktmnuojibw.com
 0.0.0.0 eqmodukfq.com
 0.0.0.0 eqngcxaaw.com
@@ -33698,6 +33700,7 @@
 0.0.0.0 fausothaur.com
 0.0.0.0 fauvauth.com
 0.0.0.0 fauvesez.net
+0.0.0.0 fauwhoocoa.com
 0.0.0.0 fauxpausej.top
 0.0.0.0 favaretoleiloes.net
 0.0.0.0 favbetikwin.com
@@ -46296,6 +46299,7 @@
 0.0.0.0 impactcutleryrecollect.com
 0.0.0.0 impactfsca.com
 0.0.0.0 impactfullservice.com
+0.0.0.0 impactify.media
 0.0.0.0 impactoerp.in
 0.0.0.0 impactplayer.in.net
 0.0.0.0 impactradius-go.com
@@ -84659,6 +84663,7 @@
 0.0.0.0 shariah.co.uk
 0.0.0.0 sharieta.com
 0.0.0.0 sharingcharity.life
+0.0.0.0 sharion.xyz
 0.0.0.0 sharkbiz.lol
 0.0.0.0 sharkflowing.com
 0.0.0.0 sharmaaluminium.in
@@ -103423,6 +103428,7 @@
 0.0.0.0 weblogposts.com
 0.0.0.0 webmadeblog.com
 0.0.0.0 webmaghome.com
+0.0.0.0 webmarket.pw
 0.0.0.0 webmaster21.it
 0.0.0.0 webmastic.com
 0.0.0.0 webmedrtb.com
