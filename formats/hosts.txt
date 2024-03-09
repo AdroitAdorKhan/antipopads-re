@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.069
 # Release: 069
-# Entries: 126,273
-# Updated: Sat, 09 Mar 24 20:12:22 +06
+# Entries: 126,318
+# Updated: Sat, 09 Mar 24 22:22:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7671,6 +7671,7 @@
 0.0.0.0 announcenutshell.com
 0.0.0.0 announceproposition.com
 0.0.0.0 announcingfeast.com
+0.0.0.0 announcinglyrics.com
 0.0.0.0 announcingusecourt.com
 0.0.0.0 annout.com
 0.0.0.0 annoyancejesustrivial.com
@@ -9386,6 +9387,7 @@
 0.0.0.0 assailusefullyenemies.com
 0.0.0.0 assasprepapodo.com
 0.0.0.0 assassinationrussia.com
+0.0.0.0 assassinationsteal.com
 0.0.0.0 assaultmolecularjim.com
 0.0.0.0 assaultstrength.com
 0.0.0.0 assaysmohr.cfd
@@ -14130,6 +14132,7 @@
 0.0.0.0 blindlyidle.com
 0.0.0.0 blindlytinsel.com
 0.0.0.0 blindnessdisgustingblessing.com
+0.0.0.0 blindnessmisty.com
 0.0.0.0 blindnessoweincline.com
 0.0.0.0 blindside.finance
 0.0.0.0 blindsinkaward.com
@@ -17448,6 +17451,7 @@
 0.0.0.0 careerjournalonline.com
 0.0.0.0 careerliteracy.info
 0.0.0.0 careersadorable.com
+0.0.0.0 careersletbacks.com
 0.0.0.0 careervoyageconsultant.com
 0.0.0.0 careewituhi.info
 0.0.0.0 carefortheaged.com.au
@@ -18563,6 +18567,7 @@
 0.0.0.0 cewfamilyoffice.com
 0.0.0.0 cewfggrr5flklnb.com
 0.0.0.0 cewrndlpqzacv.com
+0.0.0.0 cexlaifqgw.com
 0.0.0.0 cexp.cards
 0.0.0.0 cexucetum.com
 0.0.0.0 ceyqalnoejdr.com
@@ -19063,6 +19068,7 @@
 0.0.0.0 cheeroredraw.com
 0.0.0.0 cheerot.com
 0.0.0.0 cheerseeftapps.com
+0.0.0.0 cheerysavouryridge.com
 0.0.0.0 cheerysequelhoax.com
 0.0.0.0 cheesemelterparts.com
 0.0.0.0 cheesetoys.com
@@ -20502,6 +20508,7 @@
 0.0.0.0 cluewauling.life
 0.0.0.0 clumperrucksey.life
 0.0.0.0 clumsinesseventuallysearching.com
+0.0.0.0 clumsinesssinkingmarried.com
 0.0.0.0 clumsycontract.com
 0.0.0.0 clumsyflint.com
 0.0.0.0 clungeelchord.com
@@ -22292,6 +22299,7 @@
 0.0.0.0 cosymeditatepub.com
 0.0.0.0 cosypanel.com
 0.0.0.0 cosyservices.in
+0.0.0.0 cosysuppressed.com
 0.0.0.0 cota-x.org
 0.0.0.0 cotalles.com
 0.0.0.0 cotchaug.com
@@ -24208,6 +24216,7 @@
 0.0.0.0 dancaa.com
 0.0.0.0 danceartsinstitute.ca
 0.0.0.0 dancedballota.top
+0.0.0.0 dancefordamazed.com
 0.0.0.0 dancejackets.net
 0.0.0.0 dancelotsindependently.com
 0.0.0.0 dancerdomestic.com
@@ -26398,6 +26407,7 @@
 0.0.0.0 dimarabeh.com
 0.0.0.0 dimatter.ai
 0.0.0.0 dimedoncywydd.com
+0.0.0.0 dimeearnestness.com
 0.0.0.0 dimeeghoo.com
 0.0.0.0 dimensionhivestipulate.com
 0.0.0.0 dimensionhole.com
@@ -26791,6 +26801,7 @@
 0.0.0.0 displeasurepigeons.com
 0.0.0.0 disploot.com
 0.0.0.0 dispop.com
+0.0.0.0 disposableearnestlywrangle.com
 0.0.0.0 disposableface-shields.com
 0.0.0.0 disposalangrily.com
 0.0.0.0 disposalsirbloodless.com
@@ -28586,6 +28597,7 @@
 0.0.0.0 dukecruise.com
 0.0.0.0 dukemavor.tech
 0.0.0.0 dukeserve.xyz
+0.0.0.0 dukesubsequent.com
 0.0.0.0 dukicationan.org
 0.0.0.0 dukingdraon.com
 0.0.0.0 dukirliaon.com
@@ -33271,6 +33283,7 @@
 0.0.0.0 failuremaistry.com
 0.0.0.0 faintbedub.life
 0.0.0.0 faintdefrost.com
+0.0.0.0 faintedtwistedlocate.com
 0.0.0.0 faintedwarmest.digital
 0.0.0.0 faintestlogic.com
 0.0.0.0 faintlystock.com
@@ -34144,6 +34157,7 @@
 0.0.0.0 fertilebeautifulfilming.com
 0.0.0.0 fertilecalfawelessaweless.com
 0.0.0.0 fertilecrameaster.com
+0.0.0.0 fertilestared.com
 0.0.0.0 fertiliastion.com
 0.0.0.0 fertilisedignoringdeceive.com
 0.0.0.0 fertilisedlinealdeceived.com
@@ -34192,6 +34206,7 @@
 0.0.0.0 fetchdirect.com
 0.0.0.0 fetchedhighlight.com
 0.0.0.0 fethungi.com
+0.0.0.0 fetidbelow.com
 0.0.0.0 fetinhapinhedt.com
 0.0.0.0 fetiseovisac.com
 0.0.0.0 fetovnhxut.com
@@ -35032,6 +35047,7 @@
 0.0.0.0 flairindustries.net
 0.0.0.0 flakecontainsgrill.com
 0.0.0.0 flakesaridphysical.com
+0.0.0.0 flakeschopped.com
 0.0.0.0 flakesfatherpub.com
 0.0.0.0 flakesrental.com
 0.0.0.0 flakesyet.com
@@ -36478,6 +36494,7 @@
 0.0.0.0 fridgevara.com
 0.0.0.0 frieden-fuer-kids.com
 0.0.0.0 friedprovenance.com
+0.0.0.0 friedretrieve.com
 0.0.0.0 friendlyduck.com
 0.0.0.0 friendlyincompetencepicked.com
 0.0.0.0 friendomat.com
@@ -36598,6 +36615,7 @@
 0.0.0.0 fruins.com
 0.0.0.0 fruitfulgreenhousefacility.com
 0.0.0.0 fruitfulpot.com
+0.0.0.0 fruitfulthinnersuspicion.com
 0.0.0.0 fruitionhotels.com
 0.0.0.0 fruitmachines.us
 0.0.0.0 fruitnotability.com
@@ -37596,6 +37614,7 @@
 0.0.0.0 gasylicyg1e8n6po.com
 0.0.0.0 gatecitizenswindy.com
 0.0.0.0 gatedpeople.net
+0.0.0.0 gateimmenselyprolific.com
 0.0.0.0 gateintoeurope.com
 0.0.0.0 gateslyricsperpendicular.com
 0.0.0.0 gatespains.com
@@ -38830,6 +38849,7 @@
 0.0.0.0 glampingsmart.com
 0.0.0.0 glamtina.com
 0.0.0.0 glancedcomics.life
+0.0.0.0 glancedforgave.com
 0.0.0.0 glancingambulance.com
 0.0.0.0 glandcriticizecoil.com
 0.0.0.0 glandsstagery.space
@@ -42099,6 +42119,7 @@
 0.0.0.0 hazelmarks.com
 0.0.0.0 hazelmutenessorchard.com
 0.0.0.0 hazelnutshighs.com
+0.0.0.0 hazelocomotive.com
 0.0.0.0 hazeoxcoherence.com
 0.0.0.0 hazethoman.uno
 0.0.0.0 hazingsviasma.website
@@ -43054,6 +43075,7 @@
 0.0.0.0 hiddenuncovered.com
 0.0.0.0 hidecatastropheappend.com
 0.0.0.0 hideheartburndelightful.com
+0.0.0.0 hidemembershipprofane.com
 0.0.0.0 hideousactivelyparked.com
 0.0.0.0 hideousobjected.com
 0.0.0.0 hidinfo.org
@@ -48656,6 +48678,7 @@
 0.0.0.0 iyfnzgb.com
 0.0.0.0 iyidurumda.com
 0.0.0.0 iyknenyqergvyr.com
+0.0.0.0 iymbywma.com
 0.0.0.0 iymprinceton.com
 0.0.0.0 iynwgbddvtpqvp.top
 0.0.0.0 iyobank.top
@@ -50640,6 +50663,7 @@
 0.0.0.0 judgeclaimsmaiden.com
 0.0.0.0 judgeduchessbennet.com
 0.0.0.0 judgementcleftlocksmith.com
+0.0.0.0 judgementhavocexcitement.com
 0.0.0.0 judgementinvincible.com
 0.0.0.0 judgerstyphose.website
 0.0.0.0 judgeruinous.com
@@ -58883,6 +58907,7 @@
 0.0.0.0 mayorminimalobjection.com
 0.0.0.0 mayoshik.com
 0.0.0.0 mayotrade.co.in
+0.0.0.0 maypacklighthouse.com
 0.0.0.0 maypreposition.com
 0.0.0.0 mayrand-express.ca
 0.0.0.0 mayreadingmanga.info
@@ -59914,6 +59939,7 @@
 0.0.0.0 mgspmklfjys.com
 0.0.0.0 mgtrgjwmwuirx.com
 0.0.0.0 mgtxdntxkx.com
+0.0.0.0 mgtxemitrvii.com
 0.0.0.0 mgubsgjrn.top
 0.0.0.0 mguktalpptfp.top
 0.0.0.0 mgusvrgxbllbmf.top
@@ -65642,6 +65668,7 @@
 0.0.0.0 novemberdismount.com
 0.0.0.0 novemberseatsuccession.com
 0.0.0.0 novembersightsoverhear.com
+0.0.0.0 novemberslantwilfrid.com
 0.0.0.0 novemberswan.asia
 0.0.0.0 novembertowerslevel.com
 0.0.0.0 novenyhaz.com
@@ -68339,6 +68366,7 @@
 0.0.0.0 opportunitysearch.net
 0.0.0.0 opportunitysleepyreflex.com
 0.0.0.0 opposedcream.com
+0.0.0.0 opposesmartadvertising.com
 0.0.0.0 opposite.digital
 0.0.0.0 oppositehometowndrunken.com
 0.0.0.0 oppositevarietiesdepict.com
@@ -70828,6 +70856,7 @@
 0.0.0.0 pebafisk.com
 0.0.0.0 pebansokes.uno
 0.0.0.0 pebbleobsessive.com
+0.0.0.0 pebbleoutgoing.com
 0.0.0.0 pebblestreet103.com
 0.0.0.0 pebiqoghsbbpq.com
 0.0.0.0 pebyreal.com
@@ -71140,6 +71169,7 @@
 0.0.0.0 percidaffects.com
 0.0.0.0 percisionexams.com
 0.0.0.0 percussdoped.top
+0.0.0.0 percussivecloakfortunes.com
 0.0.0.0 percussiverefrigeratorunderstandable.com
 0.0.0.0 percybroadcast.com
 0.0.0.0 percynaturalist.com
@@ -72696,6 +72726,7 @@
 0.0.0.0 plannerduty.com
 0.0.0.0 plannerladyreality.com
 0.0.0.0 planningbasics.info
+0.0.0.0 planningbullyingquoted.com
 0.0.0.0 planningunavoidablenull.com
 0.0.0.0 plannto.com
 0.0.0.0 plannuella.com
@@ -73216,6 +73247,7 @@
 0.0.0.0 pointfox.net
 0.0.0.0 pointgrocer.com
 0.0.0.0 pointility.com
+0.0.0.0 pointinginexperiencedbodyguard.com
 0.0.0.0 pointlesseventuallydesignate.com
 0.0.0.0 pointlimitedzen.online
 0.0.0.0 pointmountainadventures.com
@@ -75437,6 +75469,7 @@
 0.0.0.0 psychicreadingforfree.xyz
 0.0.0.0 psychicsreadingsonline.xyz
 0.0.0.0 psychologicalchristmasdistant.com
+0.0.0.0 psychologicalpaperworkimplant.com
 0.0.0.0 psychologyairport.com
 0.0.0.0 psychologychainillegible.com
 0.0.0.0 psychologycircumvent.com
@@ -75805,6 +75838,7 @@
 0.0.0.0 pulocuqcxko.com
 0.0.0.0 pulpdeeplydrank.com
 0.0.0.0 pulperia5estrellas.com
+0.0.0.0 pulpreferred.com
 0.0.0.0 pulpspecialties.com
 0.0.0.0 pulpssmuggle.uno
 0.0.0.0 pulpyads.com
@@ -79543,6 +79577,7 @@
 0.0.0.0 respectseizure.com
 0.0.0.0 respecttallitem.com
 0.0.0.0 respilonshop.com
+0.0.0.0 respirationbruteremotely.com
 0.0.0.0 respiratorextending.com
 0.0.0.0 respireyowl.digital
 0.0.0.0 respondedkinkysofa.com
@@ -84533,6 +84568,7 @@
 0.0.0.0 shackdialectsense.com
 0.0.0.0 shackirrigate.com
 0.0.0.0 shacksigning.com
+0.0.0.0 shaderadioactivepoisonous.com
 0.0.0.0 shadesentimentssquint.com
 0.0.0.0 shadesincreasingcontents.com
 0.0.0.0 shadessurmesure.fr
@@ -87974,6 +88010,7 @@
 0.0.0.0 splashsjewels.com
 0.0.0.0 splashtechnologiesctg.com
 0.0.0.0 splendidappmaker.io
+0.0.0.0 splendidatmospheric.com
 0.0.0.0 splendidcleanuplanentablelanentable.com
 0.0.0.0 splendidroareyelash.com
 0.0.0.0 spleniafallows.com
@@ -88557,6 +88594,7 @@
 0.0.0.0 stallionfist.com
 0.0.0.0 stalliongroupofcompanies.com
 0.0.0.0 stallionhealthcare.co.uk
+0.0.0.0 stallionsmile.com
 0.0.0.0 staltaze.net
 0.0.0.0 staltust.net
 0.0.0.0 stalwartinvestmentsllc.com
@@ -89215,6 +89253,7 @@
 0.0.0.0 stoplive.online
 0.0.0.0 stoppageresistprodigy.com
 0.0.0.0 stoppardons.org
+0.0.0.0 stopperlovingplough.com
 0.0.0.0 stoprocikiv.site
 0.0.0.0 stopscondole.com
 0.0.0.0 stopsmokingnow.us
@@ -91820,6 +91859,7 @@
 0.0.0.0 tddmsmjbwtftgy.com
 0.0.0.0 tdedtlxljftgr.com
 0.0.0.0 tdedvfbxmfttl.xyz
+0.0.0.0 tdfkidmyynbqu.com
 0.0.0.0 tdfzhllcq.com
 0.0.0.0 tdjqsdvfqliy.com
 0.0.0.0 tdkkjueowqb.com
@@ -93770,6 +93810,7 @@
 0.0.0.0 thievesanction.com
 0.0.0.0 thievesboutique.com
 0.0.0.0 thighargu.com
+0.0.0.0 thighleopard.com
 0.0.0.0 thighpoker.com
 0.0.0.0 thigi.com
 0.0.0.0 thikraik.net
@@ -94967,6 +95008,7 @@
 0.0.0.0 tongjj.info
 0.0.0.0 tongsgodforsaken.com
 0.0.0.0 tongsihai.top
+0.0.0.0 tongsscenesrestless.com
 0.0.0.0 tonguedvulturn.com
 0.0.0.0 tonguehitch.com
 0.0.0.0 tonguetiesunshinecoast.au
@@ -100088,6 +100130,7 @@
 0.0.0.0 variabilityproducing.com
 0.0.0.0 variableexternal.com
 0.0.0.0 variablesconevening.com
+0.0.0.0 variablespestvex.com
 0.0.0.0 variablevisualforty.com
 0.0.0.0 variantinfo.info
 0.0.0.0 variaplus.com
@@ -100128,6 +100171,7 @@
 0.0.0.0 varya.space
 0.0.0.0 varybailedascend.com
 0.0.0.0 varycares.com
+0.0.0.0 varyingcanteenartillery.com
 0.0.0.0 varyinginvention.com
 0.0.0.0 varyintelligencependulous.com
 0.0.0.0 vasaiindustries.com
@@ -103583,6 +103627,7 @@
 0.0.0.0 weenenelectric.ca
 0.0.0.0 weepingpretext.com
 0.0.0.0 weeplypriapic.website
+0.0.0.0 weeprobbery.com
 0.0.0.0 weeragedeafer.com
 0.0.0.0 weert.yt
 0.0.0.0 weestuch.com
