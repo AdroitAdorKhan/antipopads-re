@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.070
 # Release: 070
-# Entries: 126,357
-# Updated: Sun, 10 Mar 24 00:21:57 +06
+# Entries: 126,359
+# Updated: Sun, 10 Mar 24 02:08:43 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -58983,6 +58983,7 @@
 0.0.0.0 mbrt.it
 0.0.0.0 mbrtb.com
 0.0.0.0 mbstrk.com
+0.0.0.0 mbtgcagioorcw.com
 0.0.0.0 mbtid.com
 0.0.0.0 mbtsz.xyz
 0.0.0.0 mbubaniblike.digital
@@ -60886,6 +60887,7 @@
 0.0.0.0 mmproduction.online
 0.0.0.0 mmqvujl.com
 0.0.0.0 mmshow.net
+0.0.0.0 mmsmpjtksdnjqw.com
 0.0.0.0 mmtlbb.com
 0.0.0.0 mmtnat.com
 0.0.0.0 mmtrck.com
