@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.070
 # Release: 070
-# Entries: 126,505
-# Updated: Sun, 10 Mar 24 20:25:20 +06
+# Entries: 126,506
+# Updated: Sun, 10 Mar 24 22:08:38 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -25168,6 +25168,7 @@
 0.0.0.0 defencehungry.com
 0.0.0.0 defencelessrancorous.com
 0.0.0.0 defendantchopperdate.com
+0.0.0.0 defendantlucrative.com
 0.0.0.0 defendantsulphurstamp.com
 0.0.0.0 defendergracelessown.com
 0.0.0.0 defenderprovidedleash.com
