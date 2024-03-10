@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.070
 # Release: 070
-# Entries: 126,503
-# Updated: Sun, 10 Mar 24 18:08:46 +06
+# Entries: 126,505
+# Updated: Sun, 10 Mar 24 20:25:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4599,6 +4599,7 @@
 0.0.0.0 adqongwuxvav.com
 0.0.0.0 adqoqcoc.com
 0.0.0.0 adqqpkabqltvh.com
+0.0.0.0 adqtifpprof.com
 0.0.0.0 adquery.io
 0.0.0.0 adquet.com
 0.0.0.0 adrak.top
@@ -89011,6 +89012,7 @@
 0.0.0.0 stealingprovisions.com
 0.0.0.0 stealthlockers.com
 0.0.0.0 stealthmaw.com
+0.0.0.0 steam.tube
 0.0.0.0 steamcomminuty.cfd
 0.0.0.0 steamcrommunity.cfd
 0.0.0.0 steamdespicable.com
