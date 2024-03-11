@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.071
 # Release: 071
-# Entries: 126,558
-# Updated: Mon, 11 Mar 24 12:18:49 +06
+# Entries: 126,559
+# Updated: Mon, 11 Mar 24 14:08:29 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -69543,6 +69543,7 @@
 0.0.0.0 owevel.com
 0.0.0.0 oweven.com
 0.0.0.0 owewary.com
+0.0.0.0 owfrbdikoorgn.xyz
 0.0.0.0 owfvldpdcndmdr.com
 0.0.0.0 owhetair.com
 0.0.0.0 owhoogryinfo.com
