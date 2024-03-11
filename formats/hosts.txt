@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.071
 # Release: 071
-# Entries: 126,644
-# Updated: Mon, 11 Mar 24 20:08:18 +06
+# Entries: 126,649
+# Updated: Mon, 11 Mar 24 22:08:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8062,6 +8062,7 @@
 0.0.0.0 apbbtddsamgit.com
 0.0.0.0 apbcsg.com
 0.0.0.0 apbieqqb.xyz
+0.0.0.0 apbkqbforbelxy.com
 0.0.0.0 apcabodelgado.com
 0.0.0.0 apcfms.in
 0.0.0.0 apcltlwndq.com
@@ -33488,6 +33489,7 @@
 0.0.0.0 fallosextoys.com
 0.0.0.0 falloutbraidengaged.com
 0.0.0.0 falloutmariasauce.com
+0.0.0.0 falloutspecies.com
 0.0.0.0 falsarywaybung.com
 0.0.0.0 falsemulticultural.com
 0.0.0.0 falsewrist.com
@@ -42885,6 +42887,7 @@
 0.0.0.0 herbalinka.com
 0.0.0.0 herbalsaint.com
 0.0.0.0 herbalsaint.in
+0.0.0.0 herbamplesolve.com
 0.0.0.0 herbanegarnice.tech
 0.0.0.0 herbaroots.com
 0.0.0.0 herbazeutika.com
@@ -45825,6 +45828,7 @@
 0.0.0.0 ifcdigital.ca
 0.0.0.0 ifchap.net
 0.0.0.0 ifcpmukburktd.com
+0.0.0.0 ifdbdp.com
 0.0.0.0 ifdilptsw.com
 0.0.0.0 ifdividemeasuring.com
 0.0.0.0 ifdmuggdky.com
@@ -124073,6 +124077,7 @@
 0.0.0.0 yaomo520.com
 0.0.0.0 yaowsivumw.com
 0.0.0.0 yapclench.com
+0.0.0.0 yapdiscuss.com
 0.0.0.0 yaphjovuoyng.com
 0.0.0.0 yapockspayess.com
 0.0.0.0 yappcurtsey.space
