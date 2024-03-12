@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.072
 # Release: 072
-# Entries: 126,971
-# Updated: Tue, 12 Mar 24 18:10:36 +06
+# Entries: 126,973
+# Updated: Tue, 12 Mar 24 20:08:15 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -59374,6 +59374,7 @@
 0.0.0.0 mcpdqfnvluhpwt.com
 0.0.0.0 mcpe-tools.com
 0.0.0.0 mcpftoweslv.xyz
+0.0.0.0 mcppqgaqci.com
 0.0.0.0 mcppsh.com
 0.0.0.0 mcpuwpsh.com
 0.0.0.0 mcpuwpush.com
@@ -96135,6 +96136,7 @@
 0.0.0.0 tpopularcldfa.co
 0.0.0.0 tpopularcldfb.co
 0.0.0.0 tposkglvqookv.xyz
+0.0.0.0 tprbbeoomghl.xyz
 0.0.0.0 tprwtimf.com
 0.0.0.0 tps-joy.com
 0.0.0.0 tpsgcinc.com
