@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.072
 # Release: 072
-# Entries: 126,969
-# Updated: Tue, 12 Mar 24 16:54:39 +06
+# Entries: 126,971
+# Updated: Tue, 12 Mar 24 18:10:36 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -95869,6 +95869,7 @@
 0.0.0.0 torrent-protection.com
 0.0.0.0 torrent-pug.site
 0.0.0.0 torrent-repa.site
+0.0.0.0 torrentapi.org
 0.0.0.0 torrentdia35.com
 0.0.0.0 torrentdia36.com
 0.0.0.0 torrentgalaxy.ro
@@ -125498,6 +125499,7 @@
 0.0.0.0 ysnysmysm2.com
 0.0.0.0 ysolutions.tech
 0.0.0.0 yspdlyyemfkpbm.com
+0.0.0.0 yspecjbjmcub.com
 0.0.0.0 ysphrpycm.com
 0.0.0.0 yspulsa.biz
 0.0.0.0 ysqyopecuyp.com

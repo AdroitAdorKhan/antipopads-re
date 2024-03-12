@@ -20,8 +20,8 @@
 ! Version: 24.03.072
 ! Release: 072
 ! Expires: 1 day
-! Entries: 126,969
-! Updated: Tue, 12 Mar 24 16:54:39 +06
+! Entries: 126,971
+! Updated: Tue, 12 Mar 24 18:10:36 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -95870,6 +95870,7 @@
 ||torrent-protection.com^
 ||torrent-pug.site^
 ||torrent-repa.site^
+||torrentapi.org^
 ||torrentdia35.com^
 ||torrentdia36.com^
 ||torrentgalaxy.ro^
@@ -125499,6 +125500,7 @@
 ||ysnysmysm2.com^
 ||ysolutions.tech^
 ||yspdlyyemfkpbm.com^
+||yspecjbjmcub.com^
 ||ysphrpycm.com^
 ||yspulsa.biz^
 ||ysqyopecuyp.com^
