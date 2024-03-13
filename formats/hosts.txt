@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.073
 # Release: 073
-# Entries: 127,061
-# Updated: Wed, 13 Mar 24 06:08:20 +06
+# Entries: 127,063
+# Updated: Wed, 13 Mar 24 08:46:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8076,6 +8076,7 @@
 0.0.0.0 apartmansvatatrojica.com
 0.0.0.0 apartmanywow.com
 0.0.0.0 apartmentuae.org
+0.0.0.0 apartsermon.com
 0.0.0.0 apartslimlettuce.com
 0.0.0.0 aparvibices.com
 0.0.0.0 apatheticdrawerscolourful.com
@@ -125515,6 +125516,7 @@
 0.0.0.0 yqmregxbdr.xyz
 0.0.0.0 yqmxfz.com
 0.0.0.0 yqnfyqjnp.com
+0.0.0.0 yqpalfulpst.com
 0.0.0.0 yqragd.com
 0.0.0.0 yqvtqjslflfsq.xyz
 0.0.0.0 yqxhslsqaqkbd.com
