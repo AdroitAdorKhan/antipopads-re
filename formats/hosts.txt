@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.075
 # Release: 075
-# Entries: 127,662
-# Updated: Fri, 15 Mar 24 00:08:44 +06
+# Entries: 127,664
+# Updated: Fri, 15 Mar 24 02:08:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -30449,6 +30449,7 @@
 0.0.0.0 ehnyzzhjgxyacd.com
 0.0.0.0 ehojam.com
 0.0.0.0 ehoqtjfazgxzee.com
+0.0.0.0 ehpcqqxlde.com
 0.0.0.0 ehpnkugmfatoyhg.com
 0.0.0.0 ehpvvxyp.com
 0.0.0.0 ehqdzqi.com
@@ -112816,6 +112817,7 @@
 0.0.0.0 www.filder.live
 0.0.0.0 www.filepound.com
 0.0.0.0 www.filesdots.com
+0.0.0.0 www.filesend.net
 0.0.0.0 www.fileshib.com
 0.0.0.0 www.filessatcommunicate.com
 0.0.0.0 www.fillerstore.ru
