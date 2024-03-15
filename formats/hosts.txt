@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.03.075
-# Release: 075
-# Entries: 127,799
-# Updated: Fri, 15 Mar 24 22:40:58 +06
+# Version: 24.03.076
+# Release: 076
+# Entries: 127,801
+# Updated: Sat, 16 Mar 24 00:08:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -37000,6 +37000,7 @@
 0.0.0.0 friendsofreid.com
 0.0.0.0 friendsofreid.org
 0.0.0.0 friendsofwillowsprings.org
+0.0.0.0 friendssaidnecessity.com
 0.0.0.0 friendwithatruck.us
 0.0.0.0 friesian-armani.com
 0.0.0.0 friezesrumps.digital
@@ -40713,6 +40714,7 @@
 0.0.0.0 gqtnpixhb.com
 0.0.0.0 gqubkbuinx.com
 0.0.0.0 gqusbheifyoqubu.com
+0.0.0.0 gqwmckckk.com
 0.0.0.0 gqwnoyrwdwog.xyz
 0.0.0.0 gqwwlifeq.com
 0.0.0.0 gqxglhckhucil.com
