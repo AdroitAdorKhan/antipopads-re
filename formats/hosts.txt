@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.076
 # Release: 076
-# Entries: 127,825
-# Updated: Sat, 16 Mar 24 10:08:24 +06
+# Entries: 127,827
+# Updated: Sat, 16 Mar 24 12:08:07 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5988,6 +5988,7 @@
 0.0.0.0 aireport.ca
 0.0.0.0 airfrance-klm.us
 0.0.0.0 airfreshome.com
+0.0.0.0 airgun-mania.com
 0.0.0.0 airigh.scot
 0.0.0.0 airjordanlocker.com
 0.0.0.0 airjordanshoppascher.com
@@ -53535,6 +53536,7 @@
 0.0.0.0 koordinacie.info
 0.0.0.0 kootenaycloud.com
 0.0.0.0 kootenaycloud.net
+0.0.0.0 kootovouz.com
 0.0.0.0 kootzjkz.com
 0.0.0.0 koovapou.xyz
 0.0.0.0 koovaubi.xyz
