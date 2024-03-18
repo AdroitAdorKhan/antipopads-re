@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.078
 # Release: 078
-# Entries: 128,095
-# Updated: Mon, 18 Mar 24 10:08:16 +06
+# Entries: 128,097
+# Updated: Mon, 18 Mar 24 12:08:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -23659,6 +23659,7 @@
 0.0.0.0 ctoosqtuxgaq.com
 0.0.0.0 ctosrd.com
 0.0.0.0 ctoziphius.com
+0.0.0.0 ctpdegbeqlejw.com
 0.0.0.0 ctplhosting.com
 0.0.0.0 ctqvmwdxla.com
 0.0.0.0 ctqwlbxq.com
@@ -111088,6 +111089,7 @@
 0.0.0.0 www.contrivedflowchilly.com
 0.0.0.0 www.contrivedpalgorgeous.com
 0.0.0.0 www.contrivedsaladhandicapped.com
+0.0.0.0 www.control-evolute.com
 0.0.0.0 www.controversialarableprovide.com
 0.0.0.0 www.controversialseen.com
 0.0.0.0 www.conveniencefloodinvestigation.com
