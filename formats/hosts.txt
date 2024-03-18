@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.079
 # Release: 079
-# Entries: 128,168
-# Updated: Tue, 19 Mar 24 02:08:11 +06
+# Entries: 128,169
+# Updated: Tue, 19 Mar 24 04:08:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -49148,6 +49148,7 @@
 0.0.0.0 itgiblean.com
 0.0.0.0 itgoogle.it
 0.0.0.0 itguvmlnyhfa.com
+0.0.0.0 ithacaguns.com
 0.0.0.0 ithaoge.com
 0.0.0.0 itheatmora.com
 0.0.0.0 itheatmoran.com
