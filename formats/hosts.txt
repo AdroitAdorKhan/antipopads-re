@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.078
 # Release: 078
-# Entries: 128,094
-# Updated: Mon, 18 Mar 24 08:08:16 +06
+# Entries: 128,095
+# Updated: Mon, 18 Mar 24 10:08:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -121960,6 +121960,7 @@
 0.0.0.0 www.tigaizan.com
 0.0.0.0 www.tighterstarringsinking.com
 0.0.0.0 www.tightervarying.com
+0.0.0.0 www.tihbow.eu.com
 0.0.0.0 www.tijori.net
 0.0.0.0 www.tikclick.app
 0.0.0.0 www.tiktokeri.com
