@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.078
 # Release: 078
-# Entries: 128,097
-# Updated: Mon, 18 Mar 24 12:08:22 +06
+# Entries: 128,112
+# Updated: Mon, 18 Mar 24 14:42:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4657,6 +4657,7 @@
 0.0.0.0 adrianofilippi.com
 0.0.0.0 adriaseo.net
 0.0.0.0 adriatic-region.com
+0.0.0.0 adriftscramble.com
 0.0.0.0 adright.co
 0.0.0.0 adright.xml-v4.ak-is2.net
 0.0.0.0 adright.xml-v6.ak-is2.net
@@ -7631,6 +7632,7 @@
 0.0.0.0 anguishleague.com
 0.0.0.0 anguishlonesome.com
 0.0.0.0 anguishworst.com
+0.0.0.0 angularamiablequasi.com
 0.0.0.0 angularconstitution.com
 0.0.0.0 anhdqnhxtx.xyz
 0.0.0.0 anhonestwage.com
@@ -7913,6 +7915,7 @@
 0.0.0.0 antililogical-semizokolation.name
 0.0.0.0 antinghua.com
 0.0.0.0 antio-nar.com
+0.0.0.0 antiochgainesville.com
 0.0.0.0 antipathymenudeduce.com
 0.0.0.0 antiphishingdomain.com
 0.0.0.0 antiquariancapricorn.com
@@ -10629,6 +10632,7 @@
 0.0.0.0 awarecatching.com
 0.0.0.0 awarelearning.in
 0.0.0.0 awaremaze.net
+0.0.0.0 awarenessfundraiserstump.com
 0.0.0.0 awarenesstack.com
 0.0.0.0 awarenessunprofessionalcongruous.com
 0.0.0.0 awasrqp.xyz
@@ -11870,6 +11874,7 @@
 0.0.0.0 basketballshameless.com
 0.0.0.0 basketlakecamp.com
 0.0.0.0 basketvejasolde.fr
+0.0.0.0 baskgodless.com
 0.0.0.0 baskine.com
 0.0.0.0 baskirrealestate.com
 0.0.0.0 baskpension.com
@@ -12745,6 +12750,7 @@
 0.0.0.0 benecarta.com
 0.0.0.0 benedictionpolitician.com
 0.0.0.0 beneficialeatablemanor.com
+0.0.0.0 beneficialviewedallude.com
 0.0.0.0 beneficiosentuvida12.com
 0.0.0.0 benefit-dao.org
 0.0.0.0 benefitalign.in
@@ -16634,6 +16640,7 @@
 0.0.0.0 businessmantraa.com
 0.0.0.0 businessmarketeers.com
 0.0.0.0 businessmencrib.com
+0.0.0.0 businessmenmerchandise.com
 0.0.0.0 businessmensynonymmidwife.com
 0.0.0.0 businessonline-cib-hu.com
 0.0.0.0 businessselfdefense.com
@@ -23671,8 +23678,10 @@
 0.0.0.0 ctsjackupspete.com
 0.0.0.0 ctsnyyvujdg.com
 0.0.0.0 cttdriver.com
+0.0.0.0 cttdriver.net
 0.0.0.0 cttdriver.org
 0.0.0.0 cttdrivers.com
+0.0.0.0 cttdrivers.net
 0.0.0.0 cttdrivers.org
 0.0.0.0 ctthatmyeduca.net
 0.0.0.0 cttngldfpjuct.com
@@ -26141,6 +26150,7 @@
 0.0.0.0 determineclarifyfencing.com
 0.0.0.0 determinedchinese.com
 0.0.0.0 determinescarereconnaissance.com
+0.0.0.0 deterpstras.com
 0.0.0.0 deterrentpainscodliver.com
 0.0.0.0 deterrentphilosophicalchivalrous.com
 0.0.0.0 deterrentviewsmedal.com
@@ -26708,6 +26718,7 @@
 0.0.0.0 digitalgood.news
 0.0.0.0 digitalgraphics.ca
 0.0.0.0 digitalgroupnow.com
+0.0.0.0 digitalharbours.com
 0.0.0.0 digitalhospital.tech
 0.0.0.0 digitalicecolorlab.com
 0.0.0.0 digitaliooo.store
@@ -36199,6 +36210,7 @@
 0.0.0.0 fonboncakeboutique.com
 0.0.0.0 fondacceptable.com
 0.0.0.0 fondacohalidom.top
+0.0.0.0 fondationassaly.org
 0.0.0.0 fondautographexecution.com
 0.0.0.0 fondazioneonda.com
 0.0.0.0 fondfarewells.ca
@@ -103192,6 +103204,7 @@
 0.0.0.0 vitexsoftware.com
 0.0.0.0 vitiumcranker.com
 0.0.0.0 vitmarketplace.com
+0.0.0.0 vito-usa.com
 0.0.0.0 vitrealmandola.com
 0.0.0.0 vitrified-tiles.com
 0.0.0.0 vitrography.com
@@ -107105,6 +107118,7 @@
 0.0.0.0 woxisofikvgxs.com
 0.0.0.0 woyh.yt
 0.0.0.0 woymebsi.com
+0.0.0.0 wozwmffiwpy.com
 0.0.0.0 wp-blox.com
 0.0.0.0 wp-blox.net
 0.0.0.0 wp-monero-miner.de
@@ -107323,6 +107337,7 @@
 0.0.0.0 wseojloda.com
 0.0.0.0 wsfcs.net
 0.0.0.0 wsffwiay.com
+0.0.0.0 wsfpwiih.com
 0.0.0.0 wsfreshdn.gq
 0.0.0.0 wsgmcgtbvky.com
 0.0.0.0 wshosting.cz
