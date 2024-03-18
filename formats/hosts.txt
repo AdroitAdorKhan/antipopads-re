@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.078
 # Release: 078
-# Entries: 128,125
-# Updated: Mon, 18 Mar 24 18:08:32 +06
+# Entries: 128,139
+# Updated: Mon, 18 Mar 24 20:08:42 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7916,6 +7916,7 @@
 0.0.0.0 antinghua.com
 0.0.0.0 antio-nar.com
 0.0.0.0 antiochgainesville.com
+0.0.0.0 antiochmx.com
 0.0.0.0 antipathymenudeduce.com
 0.0.0.0 antiphishingdomain.com
 0.0.0.0 antiquariancapricorn.com
@@ -8141,6 +8142,7 @@
 0.0.0.0 apcpaxwfej.com
 0.0.0.0 apcpel.ca
 0.0.0.0 apcrijournal.com
+0.0.0.0 apcsdwvmanpkmn.xyz
 0.0.0.0 apctrgkmtjku.com
 0.0.0.0 apdav.cc
 0.0.0.0 apdijaug.com
@@ -21647,6 +21649,7 @@
 0.0.0.0 compiledonatevanity.com
 0.0.0.0 compileformality.com
 0.0.0.0 compilegates.com
+0.0.0.0 compinvestments.com
 0.0.0.0 complainfriendshipperry.com
 0.0.0.0 complainhere.ca
 0.0.0.0 complainlapseobserve.com
@@ -36133,6 +36136,7 @@
 0.0.0.0 foetuslipstickreassure.com
 0.0.0.0 foflib.org
 0.0.0.0 fogayeown.com
+0.0.0.0 foggers.net
 0.0.0.0 foggilysyling.top
 0.0.0.0 foggydefy.com
 0.0.0.0 foggytube.com
@@ -48982,6 +48986,7 @@
 0.0.0.0 islamicguide.uk
 0.0.0.0 islamicmen.org
 0.0.0.0 islandcricket.com
+0.0.0.0 islander.careers
 0.0.0.0 islandins.eu
 0.0.0.0 islandmailservice.com
 0.0.0.0 islandracistreleased.com
@@ -51408,6 +51413,7 @@
 0.0.0.0 jt.cowannoonday.com
 0.0.0.0 jtbmwwejrvbhul.com
 0.0.0.0 jtc-logistics.com.au
+0.0.0.0 jtchyfgqfeqlux.com
 0.0.0.0 jtcirualvpixern.xyz
 0.0.0.0 jtdbnpjtltuvn.com
 0.0.0.0 jtdqxsfzi.com
@@ -57073,6 +57079,7 @@
 0.0.0.0 loftychord.com
 0.0.0.0 lofvkxaqsw.com
 0.0.0.0 log-marketing.jp
+0.0.0.0 log.dance
 0.0.0.0 logaloftrestrain.com
 0.0.0.0 logan-us.net
 0.0.0.0 loganfeels.com
@@ -76696,6 +76703,7 @@
 0.0.0.0 ptaulratch.com
 0.0.0.0 ptaumoadsovu.com
 0.0.0.0 ptaungoo.xyz
+0.0.0.0 ptaunsoova.com
 0.0.0.0 ptauphiw.net
 0.0.0.0 ptaupsom.com
 0.0.0.0 ptauxofi.net
@@ -105712,6 +105720,7 @@
 0.0.0.0 wheeshoo.net
 0.0.0.0 wheeshtdooring.com
 0.0.0.0 wheestop.xyz
+0.0.0.0 wheewhooptoh.net
 0.0.0.0 wheftouw.xyz
 0.0.0.0 whefungu.com
 0.0.0.0 whegadry.com
@@ -108780,6 +108789,7 @@
 0.0.0.0 www.anticrouched.com
 0.0.0.0 www.antidotesexualityorderly.com
 0.0.0.0 www.antio-nar.com
+0.0.0.0 www.antiochmx.com
 0.0.0.0 www.antipathymenudeduce.com
 0.0.0.0 www.antiquariancapricorn.com
 0.0.0.0 www.antiquariangerm.com
@@ -110922,6 +110932,7 @@
 0.0.0.0 www.competencecondolejug.com
 0.0.0.0 www.competitivepopcheerleader.com
 0.0.0.0 www.compiledonatevanity.com
+0.0.0.0 www.compinvestments.com
 0.0.0.0 www.complainlapseobserve.com
 0.0.0.0 www.complainmissing.com
 0.0.0.0 www.complainstarlingsale.com
@@ -113463,6 +113474,7 @@
 0.0.0.0 www.fodnass.top
 0.0.0.0 www.foetusastronautbuild.com
 0.0.0.0 www.foetuslipstickreassure.com
+0.0.0.0 www.foggers.net
 0.0.0.0 www.folacodes.tech
 0.0.0.0 www.foldedabstinenceconsole.com
 0.0.0.0 www.foldedafford.com
@@ -115433,6 +115445,7 @@
 0.0.0.0 www.isheme.com
 0.0.0.0 www.ishwarsahu.com
 0.0.0.0 www.islamicmen.org
+0.0.0.0 www.islander.careers
 0.0.0.0 www.islandmailservice.com
 0.0.0.0 www.isntgram.com
 0.0.0.0 www.isoladeifamosi-2009.it
@@ -116389,6 +116402,7 @@
 0.0.0.0 www.loftathailand.com
 0.0.0.0 www.loftusinghorizon.com
 0.0.0.0 www.loftychord.com
+0.0.0.0 www.log.dance
 0.0.0.0 www.logaloftrestrain.com
 0.0.0.0 www.logicconfinement.com
 0.0.0.0 www.logicorganized.com
