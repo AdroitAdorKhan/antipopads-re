@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.079
 # Release: 079
-# Entries: 128,282
-# Updated: Tue, 19 Mar 24 10:08:10 +06
+# Entries: 128,287
+# Updated: Tue, 19 Mar 24 12:08:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13980,6 +13980,7 @@
 0.0.0.0 bitcoin-smarter-app.net
 0.0.0.0 bitcoin-solution.com
 0.0.0.0 bitcoin2dollars.com
+0.0.0.0 bitcoincipro.com
 0.0.0.0 bitcoingrowing.info
 0.0.0.0 bitcoinheating.ca
 0.0.0.0 bitcoinheatingcompany.ca
@@ -25830,6 +25831,7 @@
 0.0.0.0 denetsuk.com
 0.0.0.0 deneunfeued.guru
 0.0.0.0 denfengpingtai.com
+0.0.0.0 dengbisk.com
 0.0.0.0 dengelmeg.com
 0.0.0.0 dengi-avtomaty.top
 0.0.0.0 denhistorie.com
@@ -30393,6 +30395,7 @@
 0.0.0.0 efarmer.com.ng
 0.0.0.0 efatjxqaijol.com
 0.0.0.0 efavetoxtupan.com
+0.0.0.0 efbovagsuk.com
 0.0.0.0 efdhitbvkhbq.com
 0.0.0.0 effacedefend.com
 0.0.0.0 effaceecho.com
@@ -65011,6 +65014,7 @@
 0.0.0.0 nejucetni.com
 0.0.0.0 nejvyhodnejsi-pujcka.sbs
 0.0.0.0 nekaujoa.net
+0.0.0.0 nekcakexk.com
 0.0.0.0 nekjmtohcknvs.xyz
 0.0.0.0 nekoneko-felis.info
 0.0.0.0 nektonlab.com
@@ -111857,6 +111861,7 @@
 0.0.0.0 www.dendegobrezib.net
 0.0.0.0 www.deneorphan.com
 0.0.0.0 www.denfengpingtai.com
+0.0.0.0 www.dengbisk.com
 0.0.0.0 www.denialrefreshments.com
 0.0.0.0 www.denishamel.net
 0.0.0.0 www.denkbucht.gmbh
