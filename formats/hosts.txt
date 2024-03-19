@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.079
 # Release: 079
-# Entries: 128,311
-# Updated: Tue, 19 Mar 24 20:08:35 +06
+# Entries: 128,317
+# Updated: Tue, 19 Mar 24 22:26:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -24540,6 +24540,7 @@
 0.0.0.0 daineely.net
 0.0.0.0 daipeept.net
 0.0.0.0 daipsaut.com
+0.0.0.0 daiptaime.com
 0.0.0.0 dairebougee.com
 0.0.0.0 dairouzy.net
 0.0.0.0 dairyabreast.com
@@ -25800,6 +25801,7 @@
 0.0.0.0 demonjugsister.com
 0.0.0.0 demonstrata.org
 0.0.0.0 demonstrationbeth.com
+0.0.0.0 demonstrationtimer.com
 0.0.0.0 demontazh.guru
 0.0.0.0 demosingang.website
 0.0.0.0 demosp.tech
@@ -36152,6 +36154,7 @@
 0.0.0.0 foamsomethingrobots.com
 0.0.0.0 foapsovi.net
 0.0.0.0 foasteki.net
+0.0.0.0 foaveesaunie.com
 0.0.0.0 foazasis.com
 0.0.0.0 fobdhgvemsqh.xyz
 0.0.0.0 fobeetch.net
@@ -93298,6 +93301,7 @@
 0.0.0.0 taurm.com
 0.0.0.0 taurogames.com
 0.0.0.0 taurse.com
+0.0.0.0 tausoocharow.com
 0.0.0.0 tausoota.xyz
 0.0.0.0 tautcare.pro
 0.0.0.0 tautistore.com
@@ -94702,6 +94706,7 @@
 0.0.0.0 theedrem.xyz
 0.0.0.0 theedstore.ru
 0.0.0.0 theeduguide.com
+0.0.0.0 theehouho.xyz
 0.0.0.0 theekedgleamed.com
 0.0.0.0 theeksen.com
 0.0.0.0 theelegantstores.com
@@ -94910,6 +94915,7 @@
 0.0.0.0 thekkkuriosity.org
 0.0.0.0 theknee.physio
 0.0.0.0 thekombans.com
+0.0.0.0 thekragnoots.com
 0.0.0.0 thekromp.com
 0.0.0.0 thelacanadacrittersitter.org
 0.0.0.0 theladydrinks.com
