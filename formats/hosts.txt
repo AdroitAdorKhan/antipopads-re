@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.079
 # Release: 079
-# Entries: 128,304
-# Updated: Tue, 19 Mar 24 16:08:14 +06
+# Entries: 128,306
+# Updated: Tue, 19 Mar 24 18:08:35 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5184,6 +5184,7 @@
 0.0.0.0 aeuiazspafmbu.com
 0.0.0.0 aevpinebvmdhih.com
 0.0.0.0 aevspdhb.com
+0.0.0.0 aewkwcbpc.com
 0.0.0.0 aewtwtnjdn.top
 0.0.0.0 aexcorp.com
 0.0.0.0 aexcorps.com
@@ -99067,6 +99068,7 @@
 0.0.0.0 twentyqueen.com
 0.0.0.0 twentythirty.health
 0.0.0.0 twepxgpu.com
+0.0.0.0 tweqgvmnjdjexw.com
 0.0.0.0 twerwew.org
 0.0.0.0 twickersup.com
 0.0.0.0 twidder.us
