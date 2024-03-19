@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.079
 # Release: 079
-# Entries: 128,278
-# Updated: Tue, 19 Mar 24 08:08:02 +06
+# Entries: 128,282
+# Updated: Tue, 19 Mar 24 10:08:10 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16855,6 +16855,7 @@
 0.0.0.0 bwmfymvkdsv.com
 0.0.0.0 bwnmwhblsf.com
 0.0.0.0 bwpaifnoo.com
+0.0.0.0 bwpirrwsh.com
 0.0.0.0 bwpqykgpvlu.com
 0.0.0.0 bwpuoba.com
 0.0.0.0 bwredir.com
@@ -38243,6 +38244,7 @@
 0.0.0.0 garthitalici.top
 0.0.0.0 garudabank.id
 0.0.0.0 garudamu.id
+0.0.0.0 garumkachin.com
 0.0.0.0 garumlabia.com
 0.0.0.0 garyharold.top
 0.0.0.0 gas-familia.com
@@ -50254,6 +50256,7 @@
 0.0.0.0 jenalsever.us
 0.0.0.0 jendialabs.com
 0.0.0.0 jendrejak.com
+0.0.0.0 jenkincraved.com
 0.0.0.0 jenkinhughes.co.uk
 0.0.0.0 jennadewar.ca
 0.0.0.0 jennasjots.com
@@ -57350,6 +57353,7 @@
 0.0.0.0 loolowhy.com
 0.0.0.0 looluchu.com
 0.0.0.0 loomlarynx.com
+0.0.0.0 loomplyer.com
 0.0.0.0 loomremotelywrath.com
 0.0.0.0 loomscald.com
 0.0.0.0 loomspreadingnamely.com
