@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.080
 # Release: 080
-# Entries: 128,431
-# Updated: Wed, 20 Mar 24 08:08:20 +06
+# Entries: 128,433
+# Updated: Wed, 20 Mar 24 10:08:17 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20883,6 +20883,7 @@
 0.0.0.0 cmadserver.de
 0.0.0.0 cmaqnmfelkptqfn.com
 0.0.0.0 cmasisrjbgfv.xyz
+0.0.0.0 cmbkthhi.com
 0.0.0.0 cmclean.club
 0.0.0.0 cmcnoxqqitkg.com
 0.0.0.0 cmconsulting.ca
@@ -78414,6 +78415,7 @@
 0.0.0.0 qs.veteranepee.com
 0.0.0.0 qsbeclwuayvaekd.com
 0.0.0.0 qsdmq.yt
+0.0.0.0 qseapbqjy.com
 0.0.0.0 qseckahhontp.com
 0.0.0.0 qseermsgfalf.com
 0.0.0.0 qserjhqu.com
