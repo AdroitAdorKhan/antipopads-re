@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.03.080
-# Release: 080
-# Entries: 128,480
-# Updated: Wed, 20 Mar 24 22:26:12 +06
+# Version: 24.03.081
+# Release: 081
+# Entries: 128,488
+# Updated: Thu, 21 Mar 24 02:08:34 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14561,6 +14561,7 @@
 0.0.0.0 blueistheneworanges.com
 0.0.0.0 bluejayfacette.com
 0.0.0.0 bluejaysilene.com
+0.0.0.0 bluekrishnaphotography.com
 0.0.0.0 bluelabelmoscow.com
 0.0.0.0 bluelockanime.xyz
 0.0.0.0 bluelte.com
@@ -29820,6 +29821,7 @@
 0.0.0.0 easyrent-group.com
 0.0.0.0 easyridermovie.net
 0.0.0.0 easyridinglogisticsllc.us
+0.0.0.0 easysats.com
 0.0.0.0 easysats.to
 0.0.0.0 easysemblyjusti.info
 0.0.0.0 easysoarresources.com
@@ -62935,6 +62937,7 @@
 0.0.0.0 mowxxkfcepw.com
 0.0.0.0 mox.tv
 0.0.0.0 moxalytic.com
+0.0.0.0 moxam-mc.com
 0.0.0.0 moxfield.dev
 0.0.0.0 moxig.today
 0.0.0.0 moximg.pet
@@ -71169,6 +71172,7 @@
 0.0.0.0 paints-style.com
 0.0.0.0 paintversion.com
 0.0.0.0 paintwandering.com
+0.0.0.0 paintyourpiece.net
 0.0.0.0 paipai.tech
 0.0.0.0 paipsuto.com
 0.0.0.0 pairaffirmative.com
@@ -110102,6 +110106,7 @@
 0.0.0.0 www.blue-tech.solutions
 0.0.0.0 www.blueberrydanelarger.com
 0.0.0.0 www.blueberrywaistcoat.com
+0.0.0.0 www.bluekrishnaphotography.com
 0.0.0.0 www.blueleaf.users.aulsidakr.com
 0.0.0.0 www.bluemedix.online
 0.0.0.0 www.bluetero.online
@@ -112720,6 +112725,7 @@
 0.0.0.0 www.easynode.net
 0.0.0.0 www.easyprintpack.com
 0.0.0.0 www.easyprover.com
+0.0.0.0 www.easysats.com
 0.0.0.0 www.easytech.care
 0.0.0.0 www.eatencurvature.com
 0.0.0.0 www.eaterlather.com
@@ -117518,6 +117524,7 @@
 0.0.0.0 www.moviezwaphd.wtf
 0.0.0.0 www.movingwithfahim.com
 0.0.0.0 www.mowhamsterradiator.com
+0.0.0.0 www.moxam-mc.com
 0.0.0.0 www.moxfield.dev
 0.0.0.0 www.mozhtu.com
 0.0.0.0 www.mozjn.yt
@@ -118423,6 +118430,7 @@
 0.0.0.0 www.painlessdreamtouchy.com
 0.0.0.0 www.paintoppo.com
 0.0.0.0 www.paintwandering.com
+0.0.0.0 www.paintyourpiece.net
 0.0.0.0 www.pairaffirmative.com
 0.0.0.0 www.pairplayed.com
 0.0.0.0 www.pairschorus.com
