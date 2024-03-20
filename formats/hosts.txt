@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.080
 # Release: 080
-# Entries: 128,433
-# Updated: Wed, 20 Mar 24 10:08:17 +06
+# Entries: 128,444
+# Updated: Wed, 20 Mar 24 12:08:05 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -64706,6 +64706,7 @@
 0.0.0.0 navaltophes.com
 0.0.0.0 navanirmanfab.com
 0.0.0.0 navapur.com
+0.0.0.0 navarik.co.uk
 0.0.0.0 navbodh.com
 0.0.0.0 navdeeshahuja.com
 0.0.0.0 naveenspm.in
@@ -74079,6 +74080,7 @@
 0.0.0.0 plantbasedhungersolutions.org
 0.0.0.0 plantbasedpancakes.com
 0.0.0.0 plantersstore.us
+0.0.0.0 plantingforprotection.org
 0.0.0.0 plantpreventioncrab.com
 0.0.0.0 plantravel.app
 0.0.0.0 plantrecordintelligent.org
@@ -76224,6 +76226,7 @@
 0.0.0.0 profitandsmile.com
 0.0.0.0 profitcustomersnuff.com
 0.0.0.0 profitguide.com
+0.0.0.0 profitisprofit.com
 0.0.0.0 profitnessthreads.com
 0.0.0.0 profitpeelers.com
 0.0.0.0 profitredirect.com
@@ -79653,6 +79656,7 @@
 0.0.0.0 rcmodel.site
 0.0.0.0 rcnjwhnsqpvj.com
 0.0.0.0 rcnmkgloballlc.com
+0.0.0.0 rco.health
 0.0.0.0 rconventure.top
 0.0.0.0 rcpadatlgn.com
 0.0.0.0 rcqevbnnvtybj.com
@@ -93441,6 +93445,7 @@
 0.0.0.0 taxsutra.com
 0.0.0.0 taxwaxhurlock.store
 0.0.0.0 tayetech.com
+0.0.0.0 taylorfarm.org
 0.0.0.0 taylorhome.us
 0.0.0.0 taylorwarner.com
 0.0.0.0 tayloryourbestlife.com
@@ -97954,6 +97959,7 @@
 0.0.0.0 treacherousaccentbruise.com
 0.0.0.0 treacherouscarefully.com
 0.0.0.0 treacherouslongingjunkie.com
+0.0.0.0 treadhospitality.com
 0.0.0.0 treadorabella.com
 0.0.0.0 treadpark.com
 0.0.0.0 treadwellsungrown.com
@@ -117698,6 +117704,7 @@
 0.0.0.0 www.navalhazard.com
 0.0.0.0 www.navalreasonablynearby.com
 0.0.0.0 www.navanirmanfab.com
+0.0.0.0 www.navarik.co.uk
 0.0.0.0 www.navdeeshahuja.com
 0.0.0.0 www.naveljutmistress.com
 0.0.0.0 www.navigablepiercing.com
@@ -118860,6 +118867,7 @@
 0.0.0.0 www.plankbritish.com
 0.0.0.0 www.plannedcappuccino.com
 0.0.0.0 www.plantationexhaust.com
+0.0.0.0 www.plantingforprotection.org
 0.0.0.0 www.plantpreventioncrab.com
 0.0.0.0 www.plantravel.app
 0.0.0.0 www.plantsrancorous.com
@@ -119289,6 +119297,7 @@
 0.0.0.0 www.profitabledisplaynetwork.com
 0.0.0.0 www.profitablegatecpm.com
 0.0.0.0 www.profitguide.com
+0.0.0.0 www.profitisprofit.com
 0.0.0.0 www.profitreload.com
 0.0.0.0 www.profitsurvey180.top
 0.0.0.0 www.profitsurvey360.top
@@ -119725,6 +119734,7 @@
 0.0.0.0 www.rcbizdom.com
 0.0.0.0 www.rckranen.com
 0.0.0.0 www.rclbuild.co.uk
+0.0.0.0 www.rco.health
 0.0.0.0 www.rdrservices.org
 0.0.0.0 www.rds.com.ng
 0.0.0.0 www.re-jc.com
@@ -121955,6 +121965,7 @@
 0.0.0.0 www.taxchat.uk
 0.0.0.0 www.taxiconsiderable.com
 0.0.0.0 www.taxpillsqueal.com
+0.0.0.0 www.taylorfarm.org
 0.0.0.0 www.tayturu3.com
 0.0.0.0 www.tberjonk.com
 0.0.0.0 www.tbjb.co.uk
