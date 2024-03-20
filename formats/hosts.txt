@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.080
 # Release: 080
-# Entries: 128,461
-# Updated: Wed, 20 Mar 24 14:27:43 +06
+# Entries: 128,463
+# Updated: Wed, 20 Mar 24 16:08:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20635,6 +20635,7 @@
 0.0.0.0 clinic-ware.com
 0.0.0.0 clinicadentalfernandodediego.com
 0.0.0.0 clinicakaha.cl
+0.0.0.0 clinicalairconditionspanner.com
 0.0.0.0 clinicalthermometer.in
 0.0.0.0 clinicalwaste.xyz
 0.0.0.0 clinicamedicavida.net
@@ -64378,6 +64379,7 @@
 0.0.0.0 nairs.co.in
 0.0.0.0 nairsce.site
 0.0.0.0 nais.me
+0.0.0.0 naisi-028.com
 0.0.0.0 naisoops.net
 0.0.0.0 naive-skin.pro
 0.0.0.0 naivegirlie.com
