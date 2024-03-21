@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.081
 # Release: 081
-# Entries: 128,499
-# Updated: Thu, 21 Mar 24 06:30:10 +06
+# Entries: 128,501
+# Updated: Thu, 21 Mar 24 08:09:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1889,6 +1889,7 @@
 0.0.0.0 529db04bc39bc.com
 0.0.0.0 52cg10.com
 0.0.0.0 52cjg4.xyz
+0.0.0.0 52ltengxs.com
 0.0.0.0 52o368.com
 0.0.0.0 52pojie.cm
 0.0.0.0 52suyingtv.com
@@ -125552,6 +125553,7 @@
 0.0.0.0 xuqatkswi.com
 0.0.0.0 xurcifoqvm.com
 0.0.0.0 xushu5688.com
+0.0.0.0 xutobrjcsnxuuiv.com
 0.0.0.0 xuucv.yt
 0.0.0.0 xuudtwhlkrbah.com
 0.0.0.0 xuupfcut.top
