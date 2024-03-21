@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.081
 # Release: 081
-# Entries: 128,567
-# Updated: Thu, 21 Mar 24 16:08:10 +06
+# Entries: 128,569
+# Updated: Thu, 21 Mar 24 18:08:57 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -109636,6 +109636,7 @@
 0.0.0.0 www.awaprimarycare.com
 0.0.0.0 www.awardprogram2013-4.net
 0.0.0.0 www.awarecatching.com
+0.0.0.0 www.awarenessfundraiserstump.com
 0.0.0.0 www.awarenessunprofessionalcongruous.com
 0.0.0.0 www.awayimplemented.com
 0.0.0.0 www.awazona.com
@@ -123403,6 +123404,7 @@
 0.0.0.0 www.warilygutter.com
 0.0.0.0 www.warilytumblercheckbook.com
 0.0.0.0 www.warlockstallioniso.com
+0.0.0.0 www.warmerdisembark.com
 0.0.0.0 www.warminggoonmafia.com
 0.0.0.0 www.warmlinks.net
 0.0.0.0 www.warmthradio.com
