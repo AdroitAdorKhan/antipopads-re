@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.082
 # Release: 082
-# Entries: 128,601
-# Updated: Fri, 22 Mar 24 04:08:19 +06
+# Entries: 128,606
+# Updated: Fri, 22 Mar 24 06:53:41 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5513,6 +5513,7 @@
 0.0.0.0 agdlove.com
 0.0.0.0 ageandinone.org
 0.0.0.0 ageandinone.xyz
+0.0.0.0 ageaskedfurther.com
 0.0.0.0 agefans.best
 0.0.0.0 ageingminds.ca
 0.0.0.0 ageingminds.org
@@ -65455,6 +65456,7 @@
 0.0.0.0 newadslab.com
 0.0.0.0 newadsshop.com
 0.0.0.0 newagemarketing.us.com
+0.0.0.0 newapi.tech
 0.0.0.0 newapplabland.com
 0.0.0.0 newaprads.com
 0.0.0.0 newattribsystems.com
@@ -82795,6 +82797,7 @@
 0.0.0.0 rpfcooaebxuo.com
 0.0.0.0 rpglnkzetasnh.com
 0.0.0.0 rpgwqlsjhse.xyz
+0.0.0.0 rphbjkpliohx.com
 0.0.0.0 rpimm.net
 0.0.0.0 rpivyagsyhb.com
 0.0.0.0 rpkbjdcwcgpy.com
@@ -103969,6 +103972,7 @@
 0.0.0.0 vojmirblazek.com
 0.0.0.0 vojta.app
 0.0.0.0 vojtechkostal.com
+0.0.0.0 vokaunget.xyz
 0.0.0.0 vokhnavsky.art
 0.0.0.0 vokjslngw.xyz
 0.0.0.0 vokrjmishvy.com
@@ -107972,6 +107976,7 @@
 0.0.0.0 wwimwuohrrab.com
 0.0.0.0 wwjhwfdx.com
 0.0.0.0 wwjianwynv.xyz
+0.0.0.0 wwjrmftksuxpek.com
 0.0.0.0 wwkedpbh4lwdmq16okwhiteiim9nwpds2.com
 0.0.0.0 wwlctbmtx.xyz
 0.0.0.0 wwleapvugjef.xyz
