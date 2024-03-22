@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.082
 # Release: 082
-# Entries: 128,616
-# Updated: Fri, 22 Mar 24 12:08:27 +06
+# Entries: 128,628
+# Updated: Fri, 22 Mar 24 14:36:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12067,6 +12067,7 @@
 0.0.0.0 bayukids.com
 0.0.0.0 bayviewcemetary.ca
 0.0.0.0 bayviewmausoleum.ca
+0.0.0.0 bayviewmausoleum.com
 0.0.0.0 baywednesday.com
 0.0.0.0 baywhgdimomx.com
 0.0.0.0 baywoodkbps.space
@@ -34680,6 +34681,7 @@
 0.0.0.0 feijisu11.com
 0.0.0.0 feijisu15.com
 0.0.0.0 feijisu19.com
+0.0.0.0 feijixxcasw.com
 0.0.0.0 feikebt.fun
 0.0.0.0 feinthonouredadornment.com
 0.0.0.0 feistyhelicopter.com
@@ -44891,6 +44893,7 @@
 0.0.0.0 hopeoceania.org
 0.0.0.0 hopesdelayed.com
 0.0.0.0 hopesironic.com
+0.0.0.0 hopetwinkles.org
 0.0.0.0 hopeyoga.live
 0.0.0.0 hopghpfa.com
 0.0.0.0 hophcomeysw.com
@@ -48750,6 +48753,7 @@
 0.0.0.0 iopzvd.xyz
 0.0.0.0 ioqferemsnn.com
 0.0.0.0 ioqlowkgwbtsqqq.xyz
+0.0.0.0 ioquanti.com
 0.0.0.0 ioredi.com
 0.0.0.0 iornsfyhueev.com
 0.0.0.0 iortnbasos.live
@@ -52087,6 +52091,7 @@
 0.0.0.0 k68tkg.com
 0.0.0.0 k7cdn.com
 0.0.0.0 k8s-fat.com
+0.0.0.0 k9-8.com
 0.0.0.0 k9d.xyz
 0.0.0.0 ka.trapfulgide.com
 0.0.0.0 ka9.ca
@@ -54581,6 +54586,7 @@
 0.0.0.0 kyour.com
 0.0.0.0 kypr.name
 0.0.0.0 kyproudmarijuana.com
+0.0.0.0 kyqmvggqijilsf.com
 0.0.0.0 kyqvugxhsnc.xyz
 0.0.0.0 kyrhspmqscce.com
 0.0.0.0 kyriakossdr.com
@@ -71911,6 +71917,7 @@
 0.0.0.0 pauloguedes.org
 0.0.0.0 paulovnie.org
 0.0.0.0 paulscountryhouse.com
+0.0.0.0 paulsen-family.org
 0.0.0.0 paulsfamily.ca
 0.0.0.0 paulsons.com
 0.0.0.0 paulthaxton.com
@@ -79671,6 +79678,7 @@
 0.0.0.0 rawsource.uk
 0.0.0.0 rawwhirlwindrev.com
 0.0.0.0 raxstjvytnwcf.com
+0.0.0.0 rayadam.com
 0.0.0.0 rayfulburials.digital
 0.0.0.0 raykov.com
 0.0.0.0 raylederer.com
@@ -82241,6 +82249,7 @@
 0.0.0.0 roamthrivecaviar.com
 0.0.0.0 roaptesh.com
 0.0.0.0 roar-kitchen.com
+0.0.0.0 roarblazeinc.com
 0.0.0.0 roarblousereseptivereseptive.com
 0.0.0.0 roarcontrivanceuseful.com
 0.0.0.0 roarsulphur.com
@@ -84282,6 +84291,7 @@
 0.0.0.0 sariyerkombiservisi.net
 0.0.0.0 sark-pikcha.com
 0.0.0.0 sarkaari-results.in
+0.0.0.0 sarkania.com
 0.0.0.0 sarkarilivejobs.com
 0.0.0.0 sarkaritop.com
 0.0.0.0 sarkavavrova.com
@@ -95215,6 +95225,7 @@
 0.0.0.0 themexlican.com
 0.0.0.0 themiddlecrossbaptistchurch.org
 0.0.0.0 themillionerd.com
+0.0.0.0 themiloshouse.xyz
 0.0.0.0 themingmidland.top
 0.0.0.0 themioamore.com
 0.0.0.0 themirror.ca
@@ -126340,6 +126351,7 @@
 0.0.0.0 ygfytomneijjj.com
 0.0.0.0 yglakvfejwqrbqi.com
 0.0.0.0 ygmpethncruq.com
+0.0.0.0 ygmvmwtmfiuf.com
 0.0.0.0 ygnm6.com
 0.0.0.0 ygoeqrmeqdbg.com
 0.0.0.0 ygofcplktvjcuvr.xyz
