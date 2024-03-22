@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.082
 # Release: 082
-# Entries: 128,606
-# Updated: Fri, 22 Mar 24 06:53:41 +06
+# Entries: 128,607
+# Updated: Fri, 22 Mar 24 08:08:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -38618,6 +38618,7 @@
 0.0.0.0 gebyshsofluaay.com
 0.0.0.0 gebzetuning.com
 0.0.0.0 gecauuksehin.com
+0.0.0.0 geckad.com
 0.0.0.0 geckibou.com
 0.0.0.0 gecmyybehk.com
 0.0.0.0 gecpbt.com
