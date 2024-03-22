@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.083
 # Release: 083
-# Entries: 128,674
-# Updated: Sat, 23 Mar 24 02:08:44 +06
+# Entries: 128,675
+# Updated: Sat, 23 Mar 24 04:08:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -122811,6 +122811,7 @@
 0.0.0.0 www.trollcouch.com
 0.0.0.0 www.trolleydemocratic.com
 0.0.0.0 www.trolleydryerfunds.com
+0.0.0.0 www.trolltech.com
 0.0.0.0 www.trollwarningpaws.com
 0.0.0.0 www.troopsassistedstupidity.com
 0.0.0.0 www.tropicalas.com
