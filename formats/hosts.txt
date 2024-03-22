@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.082
 # Release: 082
-# Entries: 128,607
-# Updated: Fri, 22 Mar 24 08:08:23 +06
+# Entries: 128,610
+# Updated: Fri, 22 Mar 24 10:09:00 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -51122,6 +51122,7 @@
 0.0.0.0 jointmixture.pro
 0.0.0.0 joj.city
 0.0.0.0 jojeaux.org
+0.0.0.0 jojgnasvouqcr.com
 0.0.0.0 jojodonut.com
 0.0.0.0 jojodonut.tv
 0.0.0.0 jojodonutland.com
@@ -78234,6 +78235,7 @@
 0.0.0.0 qjdlivr.com
 0.0.0.0 qjdyokmjypac.com
 0.0.0.0 qjfehnksquxeba.com
+0.0.0.0 qjhwoixjkd.com
 0.0.0.0 qjidxgzfrpehem.com
 0.0.0.0 qjlmkickilbqxbs.xyz
 0.0.0.0 qjpotvwljgw.xyz
@@ -115807,6 +115809,7 @@
 0.0.0.0 www.invaderannihilationperky.com
 0.0.0.0 www.invaluablespectacularshovel.com
 0.0.0.0 www.inventaire-constructo.com
+0.0.0.0 www.inventionallowance.com
 0.0.0.0 www.inventordistant.com
 0.0.0.0 www.inventorypikepockets.com
 0.0.0.0 www.inverdure.com
