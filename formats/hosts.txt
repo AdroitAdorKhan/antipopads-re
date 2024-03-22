@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.082
 # Release: 082
-# Entries: 128,635
-# Updated: Fri, 22 Mar 24 18:09:10 +06
+# Entries: 128,637
+# Updated: Fri, 22 Mar 24 20:08:54 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -23376,6 +23376,7 @@
 0.0.0.0 crisistuesdayartillery.com
 0.0.0.0 crismara.com
 0.0.0.0 crisp-freedom.com
+0.0.0.0 crispdune.com
 0.0.0.0 crispentirelynavy.com
 0.0.0.0 crispius.ca
 0.0.0.0 cristalgroupua.com
@@ -55598,6 +55599,7 @@
 0.0.0.0 learnwithsatish.com
 0.0.0.0 learnyngo.com
 0.0.0.0 leaseholderbarbcompact.com
+0.0.0.0 leasemiracle.com
 0.0.0.0 leashmotto.com
 0.0.0.0 leashragslob.com
 0.0.0.0 leashrationaldived.com
