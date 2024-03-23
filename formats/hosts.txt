@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.083
 # Release: 083
-# Entries: 128,767
-# Updated: Sat, 23 Mar 24 16:08:08 +06
+# Entries: 128,769
+# Updated: Sat, 23 Mar 24 18:09:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -44272,6 +44272,7 @@
 0.0.0.0 hitgo.org
 0.0.0.0 hitgoo.com
 0.0.0.0 hitgousa.com
+0.0.0.0 hitgxzexb.com
 0.0.0.0 hitkey.site
 0.0.0.0 hitlnk.com
 0.0.0.0 hitopadxdz.xyz
@@ -47420,6 +47421,7 @@
 0.0.0.0 imudukely.store
 0.0.0.0 imugjnniij.com
 0.0.0.0 imunita.bio
+0.0.0.0 imunugnrdtep.com
 0.0.0.0 imvjcds.com
 0.0.0.0 imvsujvyxtrnpb.com
 0.0.0.0 imwhlkgeqqmab.com
