@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.03.083
-# Release: 083
-# Entries: 128,772
-# Updated: Sat, 23 Mar 24 22:43:30 +06
+# Version: 24.03.084
+# Release: 084
+# Entries: 128,776
+# Updated: Sun, 24 Mar 24 00:11:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14426,6 +14426,7 @@
 0.0.0.0 blnc21.online
 0.0.0.0 blnojxqob.top
 0.0.0.0 blnvpybr.top
+0.0.0.0 bloapp.com
 0.0.0.0 bloatrome.com
 0.0.0.0 blobjournalistunwind.com
 0.0.0.0 bloblohub.com
@@ -34261,6 +34262,7 @@
 0.0.0.0 farmersonline.us
 0.0.0.0 farmhouseboho.com
 0.0.0.0 farmmandatehaggard.com
+0.0.0.0 farmonarchy.com
 0.0.0.0 farmovedoprace.online
 0.0.0.0 farmsecurityspecialists.co.uk
 0.0.0.0 farmsfoodbd.com
@@ -72805,6 +72807,7 @@
 0.0.0.0 persianapk.com
 0.0.0.0 persistarcticthese.com
 0.0.0.0 persistbathing.com
+0.0.0.0 persistbrittle.com
 0.0.0.0 persisteer.com
 0.0.0.0 persistenc.xyz
 0.0.0.0 persistentadequate.com
@@ -110341,6 +110344,7 @@
 0.0.0.0 www.blizzte.h6w.net
 0.0.0.0 www.bllibli.com
 0.0.0.0 www.blliyu.com
+0.0.0.0 www.bloapp.com
 0.0.0.0 www.bloatrome.com
 0.0.0.0 www.blobjournalistunwind.com
 0.0.0.0 www.blockadsnot.com
