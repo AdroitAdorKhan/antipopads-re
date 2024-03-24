@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.084
 # Release: 084
-# Entries: 129,164
-# Updated: Sun, 24 Mar 24 21:31:22 +06
+# Entries: 129,171
+# Updated: Sun, 24 Mar 24 22:09:31 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16521,6 +16521,7 @@
 0.0.0.0 buliang183.com
 0.0.0.0 bulium.com
 0.0.0.0 bulkaapricot.com
+0.0.0.0 bulkd.co
 0.0.0.0 bulkemailchecker2.com
 0.0.0.0 bulky-battle.com
 0.0.0.0 bulkybawler.com
@@ -29898,6 +29899,7 @@
 0.0.0.0 easelymedia.com
 0.0.0.0 easerefrain.com
 0.0.0.0 eashassucces.com
+0.0.0.0 eashasvsucoc.info
 0.0.0.0 easiesttangle.com
 0.0.0.0 easilysafety.com
 0.0.0.0 easkedasensibl.com
@@ -33708,6 +33710,7 @@
 0.0.0.0 exsmart-link-totp99018388.org.ru
 0.0.0.0 exsusinternational.co.uk
 0.0.0.0 ext-idbi.co.in
+0.0.0.0 extanalytics.com
 0.0.0.0 extaporn.com
 0.0.0.0 extcoolmake.xyz
 0.0.0.0 extend.tv
@@ -39683,6 +39686,7 @@
 0.0.0.0 givinglovez.com
 0.0.0.0 givingsol.com
 0.0.0.0 givingtreeholiday.org
+0.0.0.0 giwkclu.com
 0.0.0.0 gixiluros.com
 0.0.0.0 gixjtofnjpgxstg.com
 0.0.0.0 gixpoosh.com
@@ -64854,6 +64858,7 @@
 0.0.0.0 nandika8.net
 0.0.0.0 nandinzouaves.uno
 0.0.0.0 nandmproducts.com
+0.0.0.0 nandtheathema.info
 0.0.0.0 nandweandthe.org
 0.0.0.0 nandy.fun
 0.0.0.0 naneducate.com
@@ -97873,6 +97878,7 @@
 0.0.0.0 tovari.org
 0.0.0.0 tovespiquener.com
 0.0.0.0 toveubgymwpe.xyz
+0.0.0.0 towageurson.top
 0.0.0.0 towardsmainlandpermissible.com
 0.0.0.0 towardstapleleaflet.com
 0.0.0.0 towardsturtle.com
@@ -98734,6 +98740,7 @@
 0.0.0.0 trialsreticence.com
 0.0.0.0 trianglekolkata.com
 0.0.0.0 triangulane.space
+0.0.0.0 triangular-fire.pro
 0.0.0.0 triawlf.com
 0.0.0.0 tribalcore.tech
 0.0.0.0 tribalfinancialservices.com
