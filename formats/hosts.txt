@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.03.084
-# Release: 084
-# Entries: 129,171
-# Updated: Sun, 24 Mar 24 22:09:31 +06
+# Version: 24.03.085
+# Release: 085
+# Entries: 129,173
+# Updated: Mon, 25 Mar 24 00:08:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -44434,6 +44434,7 @@
 0.0.0.0 hivefivelabs.com
 0.0.0.0 hivmedicine.in
 0.0.0.0 hivps.xyz
+0.0.0.0 hiwbdgojpwg.com
 0.0.0.0 hiweesnkai.top
 0.0.0.0 hixapalg.com
 0.0.0.0 hixighiy.net
@@ -107399,6 +107400,7 @@
 0.0.0.0 withcrepteast.com
 0.0.0.0 withdedukication.com
 0.0.0.0 withdrawcosmicabundant.com
+0.0.0.0 withdrawdose.com
 0.0.0.0 withdrewparliamentwatery.com
 0.0.0.0 withdromnit.pro
 0.0.0.0 withearamajo.info
