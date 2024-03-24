@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.085
 # Release: 085
-# Entries: 129,173
-# Updated: Mon, 25 Mar 24 00:08:23 +06
+# Entries: 129,174
+# Updated: Mon, 25 Mar 24 02:08:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -26089,6 +26089,7 @@
 0.0.0.0 depeas.com
 0.0.0.0 depedcaraga.com
 0.0.0.0 depekt.com
+0.0.0.0 dependablepumpkinlonger.com
 0.0.0.0 dependablestaredpollution.com
 0.0.0.0 dependentwent.com
 0.0.0.0 depereselect.org
