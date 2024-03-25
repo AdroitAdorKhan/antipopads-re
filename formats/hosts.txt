@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.03.085
-# Release: 085
-# Entries: 129,441
-# Updated: Mon, 25 Mar 24 22:08:31 +06
+# Version: 24.03.086
+# Release: 086
+# Entries: 129,444
+# Updated: Tue, 26 Mar 24 00:09:06 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -68033,6 +68033,7 @@
 0.0.0.0 nxiqvhhm.com
 0.0.0.0 nxjrikqrq.com
 0.0.0.0 nxkicgbipqnnab.xyz
+0.0.0.0 nxladsrj.com
 0.0.0.0 nxlcitbsghl.com
 0.0.0.0 nxlogugw.com
 0.0.0.0 nxlreuwdto.com
@@ -77129,6 +77130,7 @@
 0.0.0.0 proposedpartly.com
 0.0.0.0 propositiondisinterested.com
 0.0.0.0 propositionfadedplague.com
+0.0.0.0 propositionpower.com
 0.0.0.0 proprietorgrit.com
 0.0.0.0 propu.sh
 0.0.0.0 propugnwhelms.digital
@@ -125316,6 +125318,7 @@
 0.0.0.0 xadsmart.com
 0.0.0.0 xadstruct0rx.com
 0.0.0.0 xafddrygfo.com
+0.0.0.0 xafucopmhqprsr.com
 0.0.0.0 xageyai.com
 0.0.0.0 xagixwmrus.com
 0.0.0.0 xaguturkuufyq.com
