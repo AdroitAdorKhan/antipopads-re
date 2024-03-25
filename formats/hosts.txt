@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.085
 # Release: 085
-# Entries: 129,439
-# Updated: Mon, 25 Mar 24 20:39:28 +06
+# Entries: 129,441
+# Updated: Mon, 25 Mar 24 22:08:31 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16270,6 +16270,7 @@
 0.0.0.0 bsfofnphcuj.com
 0.0.0.0 bsgbd77l.de
 0.0.0.0 bsgeneral.com
+0.0.0.0 bsginiha.com
 0.0.0.0 bshifsasgnpgqf.com
 0.0.0.0 bshkteoatdiawk.com
 0.0.0.0 bsilzzc.com
@@ -77706,6 +77707,7 @@
 0.0.0.0 ptugneez.net
 0.0.0.0 ptugnins.net
 0.0.0.0 ptugnoaw.net
+0.0.0.0 ptukasti.com
 0.0.0.0 ptulsauts.com
 0.0.0.0 ptumtaip.com
 0.0.0.0 ptuphotookr.com
