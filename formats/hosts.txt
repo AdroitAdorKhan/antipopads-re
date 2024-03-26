@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.086
 # Release: 086
-# Entries: 129,504
-# Updated: Tue, 26 Mar 24 12:38:12 +06
+# Entries: 129,509
+# Updated: Tue, 26 Mar 24 16:08:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7208,6 +7208,7 @@
 0.0.0.0 ambra.com
 0.0.0.0 ambrosiasolutionsgroup.com
 0.0.0.0 ambuizeler.com
+0.0.0.0 ambulando.dev
 0.0.0.0 ambushharmlessalmost.com
 0.0.0.0 ambushinjure.com
 0.0.0.0 amcarwn.com
@@ -30392,6 +30393,7 @@
 0.0.0.0 edgc2021.com
 0.0.0.0 edgeads.org
 0.0.0.0 edgecommons.org
+0.0.0.0 edgeeffect.legal
 0.0.0.0 edgelawyer.tech
 0.0.0.0 edgelinking.info
 0.0.0.0 edgentr.com
@@ -55813,6 +55815,7 @@
 0.0.0.0 lcmuhfjppyf.com
 0.0.0.0 lcncbusdg.com
 0.0.0.0 lcnlocaltv.com
+0.0.0.0 lcowv.com
 0.0.0.0 lcppropreties.co.uk
 0.0.0.0 lcpqqbwlsnxr.com
 0.0.0.0 lcqkginncn.com
@@ -71488,6 +71491,7 @@
 0.0.0.0 ozardoog.net
 0.0.0.0 ozationsuchasric.org
 0.0.0.0 ozaukee.info
+0.0.0.0 ozayvgkqpymt.com
 0.0.0.0 ozdemirinsaatbalikesir.com
 0.0.0.0 ozdfhysr.com
 0.0.0.0 ozectynptd.com
@@ -85074,6 +85078,7 @@
 0.0.0.0 savetrust.org
 0.0.0.0 savewesthills.us
 0.0.0.0 saveyankeetown.com
+0.0.0.0 saveyourowncommunity.com
 0.0.0.0 savinekoranic.digital
 0.0.0.0 savingdownrightmitten.com
 0.0.0.0 savingshyleg.com
