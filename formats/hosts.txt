@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.086
 # Release: 086
-# Entries: 129,503
-# Updated: Tue, 26 Mar 24 10:08:26 +06
+# Entries: 129,504
+# Updated: Tue, 26 Mar 24 12:38:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -125536,6 +125536,7 @@
 0.0.0.0 xdpwrcdcafc.com
 0.0.0.0 xdserv.com
 0.0.0.0 xdticbyy.com
+0.0.0.0 xdtmkkhr.xyz
 0.0.0.0 xdtqaaleryxrv.com
 0.0.0.0 xdtv7.com
 0.0.0.0 xdtxuqre.com
