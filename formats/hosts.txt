@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.088
 # Release: 088
-# Entries: 129,986
-# Updated: Thu, 28 Mar 24 12:37:05 +06
+# Entries: 129,988
+# Updated: Thu, 28 Mar 24 14:08:14 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -67097,6 +67097,7 @@
 0.0.0.0 nkfinsdg.com
 0.0.0.0 nkfuypwknwlxm.com
 0.0.0.0 nkhjioewwc.xyz
+0.0.0.0 nkhkjkwgs.com
 0.0.0.0 nkhuu.yt
 0.0.0.0 nkie.sk
 0.0.0.0 nkieuulsvvjrfh.com
@@ -104657,6 +104658,7 @@
 0.0.0.0 violinoincreep.store
 0.0.0.0 violondeaf.guru
 0.0.0.0 vionic-nz.com
+0.0.0.0 vionicdeutschland.net
 0.0.0.0 vionito.com
 0.0.0.0 vioykconunkbs.xyz
 0.0.0.0 vioytuituunmsr.com
