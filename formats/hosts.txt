@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.088
 # Release: 088
-# Entries: 129,950
-# Updated: Thu, 28 Mar 24 04:37:23 +06
+# Entries: 129,952
+# Updated: Thu, 28 Mar 24 06:08:32 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28529,6 +28529,7 @@
 0.0.0.0 dopevirtuallytransactions.com
 0.0.0.0 dopfumeuse.top
 0.0.0.0 dophenbiomed.com
+0.0.0.0 dopichuom.com
 0.0.0.0 dopiesttrotter.com
 0.0.0.0 dopjfbdvatxlhe.com
 0.0.0.0 doplnky-vyzivy.com
@@ -69599,6 +69600,7 @@
 0.0.0.0 oldwestshootery.com
 0.0.0.0 oleariaalgenib.com
 0.0.0.0 oledc.com
+0.0.0.0 oleempaicmiw.com
 0.0.0.0 olefinefraist.com
 0.0.0.0 olehkmybq.com
 0.0.0.0 oleinironed.top
