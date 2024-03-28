@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.089
 # Release: 089
-# Entries: 130,127
-# Updated: Fri, 29 Mar 24 02:25:32 +06
+# Entries: 130,128
+# Updated: Fri, 29 Mar 24 04:09:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -108453,6 +108453,7 @@
 0.0.0.0 wm.paucifyglamor.com
 0.0.0.0 wm.pritchserian.com
 0.0.0.0 wma.io
+0.0.0.0 wmaoviagmphst.com
 0.0.0.0 wmccrate.com
 0.0.0.0 wmdotymirjrmi.com
 0.0.0.0 wmdymnqzhbo.com
