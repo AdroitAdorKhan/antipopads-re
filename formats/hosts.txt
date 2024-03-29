@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.089
 # Release: 089
-# Entries: 130,225
-# Updated: Fri, 29 Mar 24 08:08:04 +06
+# Entries: 130,262
+# Updated: Fri, 29 Mar 24 10:21:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -165,6 +165,7 @@
 0.0.0.0 0h6djpk8fn.com
 0.0.0.0 0howto.org
 0.0.0.0 0i0i0i0.com
+0.0.0.0 0ijvby90.skin
 0.0.0.0 0jlkbwkp.com
 0.0.0.0 0kanksd10.monster
 0.0.0.0 0knwelt1.com
@@ -4504,6 +4505,7 @@
 0.0.0.0 admachina.com
 0.0.0.0 admamsterdam.net
 0.0.0.0 admamsterdam.org
+0.0.0.0 admangrauc.com
 0.0.0.0 admanmedia.com
 0.0.0.0 admavvex.com
 0.0.0.0 admax.network
@@ -9829,6 +9831,7 @@
 0.0.0.0 at4digital.com
 0.0.0.0 atableofcup.com
 0.0.0.0 atachat.net
+0.0.0.0 atacticserena.top
 0.0.0.0 atagayrimenkul-tr.com
 0.0.0.0 atahphkpndlcdi.com
 0.0.0.0 atala-apw.com
@@ -11898,6 +11901,7 @@
 0.0.0.0 bargutti.com
 0.0.0.0 barialifestyle.com
 0.0.0.0 bariatricdistrict.com
+0.0.0.0 bariejow.top
 0.0.0.0 barispreng.digital
 0.0.0.0 barjahbuilders.com
 0.0.0.0 barjeydrow.net
@@ -16303,6 +16307,7 @@
 0.0.0.0 bruceleadx1.com
 0.0.0.0 bruceleadx2.com
 0.0.0.0 brucescottattorney.co.za
+0.0.0.0 brucineborneo.top
 0.0.0.0 brud.app
 0.0.0.0 bruha.app
 0.0.0.0 bruisedcoup.com
@@ -21821,6 +21826,7 @@
 0.0.0.0 cometimpressioncricket.com
 0.0.0.0 cometo2free.biz
 0.0.0.0 cometobaku.com
+0.0.0.0 cometothepointaton.info
 0.0.0.0 comettypes.com
 0.0.0.0 comexair.com
 0.0.0.0 comezz.xyz
@@ -24451,6 +24457,7 @@
 0.0.0.0 cvlinker.com
 0.0.0.0 cvlouiqgmttfopu.xyz
 0.0.0.0 cvmxfsjvryxt.com
+0.0.0.0 cvnpbsqyiy.com
 0.0.0.0 cvom.ar
 0.0.0.0 cvppdjhqxn.xyz
 0.0.0.0 cvqgnkeqme.com
@@ -28680,6 +28687,7 @@
 0.0.0.0 dotgxcnq.com
 0.0.0.0 dothaish.net
 0.0.0.0 dothbognib.com
+0.0.0.0 dothepashandelthingwebrouhgtfromfrance.top
 0.0.0.0 dotherconey.space
 0.0.0.0 dotidot.org
 0.0.0.0 dotidot.pro
@@ -34912,6 +34920,7 @@
 0.0.0.0 faza2music324.com
 0.0.0.0 fazconsorcio.digital
 0.0.0.0 fazerdinheiro.net
+0.0.0.0 fazinghomelet.top
 0.0.0.0 fazthmut.com
 0.0.0.0 fb-plus.com
 0.0.0.0 fb42cfb166.5701b9f7a4.com
@@ -39800,6 +39809,7 @@
 0.0.0.0 ghlgtkyffmqiier.xyz
 0.0.0.0 ghlyrecome.xyz
 0.0.0.0 ghnufmovpvolppi.com
+0.0.0.0 ghnvfncbleiu.xyz
 0.0.0.0 ghoomughoomu.co.in
 0.0.0.0 ghoomughoomu.in
 0.0.0.0 ghost-connect.xyz
@@ -50240,6 +50250,7 @@
 0.0.0.0 iwishmarriage.co.uk
 0.0.0.0 iwishmarriage.us
 0.0.0.0 iwistracks.com
+0.0.0.0 iwjbybnaitog.com
 0.0.0.0 iwkeoxtaoi.com
 0.0.0.0 iwkikhtx.xyz
 0.0.0.0 iwmqbimuaibsvr.com
@@ -53772,6 +53783,7 @@
 0.0.0.0 kickoutpawky.com
 0.0.0.0 kickposter.com
 0.0.0.0 kickprincess.com
+0.0.0.0 kiczrqo.com
 0.0.0.0 kidandfood.com
 0.0.0.0 kidcoinic.com
 0.0.0.0 kiddingnoticediminish.com
@@ -61826,6 +61838,7 @@
 0.0.0.0 metherearl.xyz
 0.0.0.0 methidpossum.com
 0.0.0.0 methingewsf.club
+0.0.0.0 methodfluyts.top
 0.0.0.0 methodrumour.com
 0.0.0.0 methoxyunpaled.com
 0.0.0.0 methvdxqktmdq.com
@@ -64704,6 +64717,7 @@
 0.0.0.0 my77734.com
 0.0.0.0 my77741.com
 0.0.0.0 my83s1kw3u.com
+0.0.0.0 myaa.si
 0.0.0.0 myaa2v.live
 0.0.0.0 myabhinav.com
 0.0.0.0 myabitat.ca
@@ -65778,6 +65792,7 @@
 0.0.0.0 nbmuesyi.com
 0.0.0.0 nboalkll.com
 0.0.0.0 nboclympics.com
+0.0.0.0 nboedfpto.com
 0.0.0.0 nbottkauyy.com
 0.0.0.0 nbpomajpj.top
 0.0.0.0 nbr9.xyz
@@ -66504,6 +66519,7 @@
 0.0.0.0 news-getogo.com
 0.0.0.0 news-headlines.co
 0.0.0.0 news-host.net
+0.0.0.0 news-jivera.com
 0.0.0.0 news-losaji.com
 0.0.0.0 news-mars.com
 0.0.0.0 news-mefuba.cc
@@ -66521,6 +66537,7 @@
 0.0.0.0 news-venere.com
 0.0.0.0 news-video.pw
 0.0.0.0 news-weekend1.xyz
+0.0.0.0 news-wew.click
 0.0.0.0 news-xehola.com
 0.0.0.0 news-yufefa.cc
 0.0.0.0 news.breakingfeedz.com
@@ -74330,6 +74347,7 @@
 0.0.0.0 phrbringtolightbd.com
 0.0.0.0 phrensaltier.com
 0.0.0.0 phrxsyiiqk.com
+0.0.0.0 phrygiakodak.top
 0.0.0.0 phrygiavertus.space
 0.0.0.0 phsa-eg.com
 0.0.0.0 phsism.com
@@ -75955,6 +75973,7 @@
 0.0.0.0 pongyoutdoor.com
 0.0.0.0 ponierpeewees.digital
 0.0.0.0 ponk.pro
+0.0.0.0 ponosenvy.top
 0.0.0.0 ponsaba.net
 0.0.0.0 ponstars.org
 0.0.0.0 pontclefconsulting.net
@@ -76429,6 +76448,7 @@
 0.0.0.0 powerofconsumers.com
 0.0.0.0 powerofconsumers.org
 0.0.0.0 powerpsychopathcounsel.com
+0.0.0.0 powerpushsell.site
 0.0.0.0 powerrakyat.com
 0.0.0.0 powerriddle.com
 0.0.0.0 powershift.help
@@ -77299,6 +77319,7 @@
 0.0.0.0 proclaimincurable.com
 0.0.0.0 proclamationgumadvocate.com
 0.0.0.0 proclean.club
+0.0.0.0 procneterming.top
 0.0.0.0 procoinbase-login.pro
 0.0.0.0 procomsyss.com
 0.0.0.0 procristhimber.cfd
@@ -78658,6 +78679,7 @@
 0.0.0.0 push.house
 0.0.0.0 push.meudimdim.com.br
 0.0.0.0 push1000.com
+0.0.0.0 push1001.com
 0.0.0.0 push2check.com
 0.0.0.0 push77-sdk.com
 0.0.0.0 push77.com
@@ -78682,6 +78704,7 @@
 0.0.0.0 pushbizapi.com
 0.0.0.0 pushcampaign.club
 0.0.0.0 pushcentric.com
+0.0.0.0 pushckick.click
 0.0.0.0 pushclk.com
 0.0.0.0 pushcord.net
 0.0.0.0 pushdaddy-notifyme.com
@@ -80781,6 +80804,7 @@
 0.0.0.0 ravenousdrawers.com
 0.0.0.0 ravenpearls.com
 0.0.0.0 ravenrypechys.uno
+0.0.0.0 raverduhat.top
 0.0.0.0 ravindratandon.com
 0.0.0.0 ravingsquilted.top
 0.0.0.0 ravishankar.tech
@@ -88063,6 +88087,7 @@
 0.0.0.0 shopz.tech
 0.0.0.0 shoqizfras.com
 0.0.0.0 shorantonto.com
+0.0.0.0 shoreaencowl.top
 0.0.0.0 shoreeds.com
 0.0.0.0 shoreexi.net
 0.0.0.0 shoreops.ca
@@ -88290,6 +88315,7 @@
 0.0.0.0 sibgycqzgj.com
 0.0.0.0 sibiglia.com
 0.0.0.0 sibirvital.com
+0.0.0.0 siblastid.top
 0.0.0.0 siblinggut.com
 0.0.0.0 sic-hub.se
 0.0.0.0 siccreop.com
@@ -91031,6 +91057,7 @@
 0.0.0.0 spiritzh.com
 0.0.0.0 spirketgeraty.space
 0.0.0.0 spirliesalse.com
+0.0.0.0 spirogoumi.top
 0.0.0.0 spirt-elit.com
 0.0.0.0 spirtanimal.com
 0.0.0.0 spirteddvaita.com
@@ -94206,6 +94233,7 @@
 0.0.0.0 szomormez.online
 0.0.0.0 szovegmuhely.com
 0.0.0.0 szpabffpr.com
+0.0.0.0 szpjpzi.com
 0.0.0.0 szps.org
 0.0.0.0 szqxvo.com
 0.0.0.0 szsgmtt.com
@@ -94607,6 +94635,7 @@
 0.0.0.0 tapeabruptlypajamas.com
 0.0.0.0 tapemathematical.com
 0.0.0.0 taperltc.com
+0.0.0.0 tapetalvolva.top
 0.0.0.0 tapetovo.com
 0.0.0.0 tapetovo.online
 0.0.0.0 tapewherever.com
@@ -95539,6 +95568,7 @@
 0.0.0.0 teqeupyyiipuoi.top
 0.0.0.0 teqnosys.com
 0.0.0.0 tequilaxchg.com
+0.0.0.0 terabigyellowmotha.info
 0.0.0.0 teracloud.ca
 0.0.0.0 teraconnex.tech
 0.0.0.0 teracreative.com
@@ -96077,6 +96107,7 @@
 0.0.0.0 theastralisclub.co.uk
 0.0.0.0 theastrogpt.com
 0.0.0.0 theastronomie.tech
+0.0.0.0 theathematica.info
 0.0.0.0 theatlastalks.us
 0.0.0.0 theatomikbomb.com
 0.0.0.0 theatrepair.com
@@ -102140,6 +102171,7 @@
 0.0.0.0 unlockyourmindpower.com
 0.0.0.0 unloetiosal.com
 0.0.0.0 unlookunius.top
+0.0.0.0 unluciddesmids.top
 0.0.0.0 unluckdrank.com
 0.0.0.0 unluckyafterthought.com
 0.0.0.0 unluckydead.pro
@@ -102346,6 +102378,7 @@
 0.0.0.0 unwisecommence.com
 0.0.0.0 unwitting-phrase.pro
 0.0.0.0 unwivedpewdom.digital
+0.0.0.0 unwonttawpi.top
 0.0.0.0 unwoobater.com
 0.0.0.0 unworldfoxwood.top
 0.0.0.0 unworthydeserts.com
@@ -109065,6 +109098,7 @@
 0.0.0.0 wovensur.com
 0.0.0.0 woviftjhpkn.com
 0.0.0.0 wovigobvt.com
+0.0.0.0 wow-click.click
 0.0.0.0 wowadventuretravel.info
 0.0.0.0 wowcalmnessdumb.com
 0.0.0.0 wowcamper.com
@@ -114051,6 +114085,7 @@
 0.0.0.0 www.distastefulsagacious.com
 0.0.0.0 www.distinctiontremblefeint.com
 0.0.0.0 www.distinctionweakness.com
+0.0.0.0 www.distinguishedfernsemester.com
 0.0.0.0 www.distortpricklysavagely.com
 0.0.0.0 www.distorttrucknurture.com
 0.0.0.0 www.distortunfitunacceptable.com
@@ -114817,6 +114852,7 @@
 0.0.0.0 www.etisaalt-uae-paytofast.com
 0.0.0.0 www.etisallat-uae-paytofast.com
 0.0.0.0 www.etnies-ireland.com
+0.0.0.0 www.etouksoksek.com
 0.0.0.0 www.etranslater5.com
 0.0.0.0 www.etresoft.net
 0.0.0.0 www.eugenearsonmeanwhile.com
@@ -127536,6 +127572,7 @@
 0.0.0.0 yajeinerupted.digital
 0.0.0.0 yajfarudcnwkb.top
 0.0.0.0 yajipwlg.com
+0.0.0.0 yajnagrapple.top
 0.0.0.0 yajthtdkihbbwu.com
 0.0.0.0 yakacakodun.com
 0.0.0.0 yakcphctjbzwnv.com
