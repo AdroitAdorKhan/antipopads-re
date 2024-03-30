@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.091
 # Release: 091
-# Entries: 130,595
-# Updated: Sun, 31 Mar 24 02:26:40 +06
+# Entries: 130,597
+# Updated: Sun, 31 Mar 24 04:08:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20508,6 +20508,7 @@
 0.0.0.0 cjcbzqrwwi.com
 0.0.0.0 cjdnkghhvtai.com
 0.0.0.0 cjewz.com
+0.0.0.0 cjexdhwcnggohx.com
 0.0.0.0 cjf25jklrwqt.com
 0.0.0.0 cjkaihej.com
 0.0.0.0 cjl58f3agc.com
@@ -128684,6 +128685,7 @@
 0.0.0.0 yoitupe.com
 0.0.0.0 yojanaarabic.life
 0.0.0.0 yojancapelin.com
+0.0.0.0 yokbdmob.com
 0.0.0.0 yokeeroud.com
 0.0.0.0 yokjcfblpe.com
 0.0.0.0 yoko-app.tech
