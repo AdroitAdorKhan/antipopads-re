@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.090
 # Release: 090
-# Entries: 130,494
-# Updated: Sat, 30 Mar 24 06:20:00 +06
+# Entries: 130,500
+# Updated: Sat, 30 Mar 24 08:07:58 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3589,6 +3589,7 @@
 0.0.0.0 abossacomoelae.com
 0.0.0.0 abothe.com
 0.0.0.0 aboucaih.com
+0.0.0.0 aboudara.net
 0.0.0.0 abough.com
 0.0.0.0 abould.com
 0.0.0.0 aboundbunkerflap.com
@@ -110396,6 +110397,7 @@
 0.0.0.0 www.abominableexhibition.com
 0.0.0.0 www.abonnementpermissiveenliven.com
 0.0.0.0 www.aboriginaldisturbthirty.com
+0.0.0.0 www.aboudara.net
 0.0.0.0 www.aboundbunkerflap.com
 0.0.0.0 www.aboutpersonify.com
 0.0.0.0 www.abrasivefirsthandsadly.com
@@ -118155,6 +118157,7 @@
 0.0.0.0 www.klarvida.com
 0.0.0.0 www.klayscope.com
 0.0.0.0 www.klingeltonemp3.info
+0.0.0.0 www.klmconst.com
 0.0.0.0 www.kloperteyers.com
 0.0.0.0 www.klopiretsrex.com
 0.0.0.0 www.kloynfsag.com
@@ -119033,6 +119036,7 @@
 0.0.0.0 www.matterbadgerpsychic.com
 0.0.0.0 www.mattersdeviceconsignment.com
 0.0.0.0 www.matterssharplyraw.com
+0.0.0.0 www.mattlock.services
 0.0.0.0 www.mattthemower.com
 0.0.0.0 www.maturestunningfluency.com
 0.0.0.0 www.mauptaub.com
@@ -119626,6 +119630,7 @@
 0.0.0.0 www.nakedfulfilhairy.com
 0.0.0.0 www.nakupny.guru
 0.0.0.0 www.nakupujme.online
+0.0.0.0 www.nam20485.com
 0.0.0.0 www.namasteswasth.com
 0.0.0.0 www.namelessably.com
 0.0.0.0 www.namelyenact.com
@@ -119781,6 +119786,7 @@
 0.0.0.0 www.nexashoppingclub.com
 0.0.0.0 www.nextrelative.com
 0.0.0.0 www.nexusmedia.tech
+0.0.0.0 www.nexussmartbuildings.com
 0.0.0.0 www.nexygroup.com
 0.0.0.0 www.nfhw.not-tesla.com
 0.0.0.0 www.nftspace.space
