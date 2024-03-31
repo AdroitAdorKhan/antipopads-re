@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.091
 # Release: 091
-# Entries: 130,597
-# Updated: Sun, 31 Mar 24 04:08:12 +06
+# Entries: 130,601
+# Updated: Sun, 31 Mar 24 08:07:58 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -27442,6 +27442,7 @@
 0.0.0.0 dipakgaba.com
 0.0.0.0 dipeshsahu.com
 0.0.0.0 diphuonline.in
+0.0.0.0 dipierlaw.com
 0.0.0.0 diplatte-j.net
 0.0.0.0 diplic.com
 0.0.0.0 diplnk.com
@@ -40222,6 +40223,7 @@
 0.0.0.0 gjcujbnhcimgxav.com
 0.0.0.0 gjehsaopbbgnr.com
 0.0.0.0 gjepcmegacfc.org
+0.0.0.0 gjexigugdor.com
 0.0.0.0 gjfeblixctsojx.xyz
 0.0.0.0 gjffrtfkhf.xyz
 0.0.0.0 gjfzdihq.com
@@ -47710,6 +47712,7 @@
 0.0.0.0 ikouthaupi.com
 0.0.0.0 ikrail.com
 0.0.0.0 ikrauteri.life
+0.0.0.0 iksxlsaq.com
 0.0.0.0 ikuduaayycprit.xyz
 0.0.0.0 ikugrbhlehndg.com
 0.0.0.0 ikunselt.com
@@ -114271,6 +114274,7 @@
 0.0.0.0 www.dinosaurenchantment.com
 0.0.0.0 www.dinosaurrestore.com
 0.0.0.0 www.dipeshsahu.com
+0.0.0.0 www.dipierlaw.com
 0.0.0.0 www.diplomasewerivory.com
 0.0.0.0 www.diplomasx.com
 0.0.0.0 www.dipperplanets.com
