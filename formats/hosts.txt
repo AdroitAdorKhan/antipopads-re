@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.03.091
 # Release: 091
-# Entries: 130,666
-# Updated: Sun, 31 Mar 24 18:22:56 +06
+# Entries: 130,667
+# Updated: Sun, 31 Mar 24 20:08:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -33944,6 +33944,7 @@
 0.0.0.0 exertheadlight.com
 0.0.0.0 exertionbesiege.com
 0.0.0.0 exesportvipdays.net
+0.0.0.0 exeyawberg.com
 0.0.0.0 exgirls.cn
 0.0.0.0 exhalejuxtapose.com
 0.0.0.0 exhalesportlimbs.com
