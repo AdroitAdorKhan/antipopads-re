@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.092
 # Release: 092
-# Entries: 130,675
-# Updated: Mon, 01 Apr 24 04:08:21 +06
+# Entries: 130,676
+# Updated: Mon, 01 Apr 24 06:24:10 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -49823,6 +49823,7 @@
 0.0.0.0 irbyvjfbwdrg.com
 0.0.0.0 irbzdrvsasg.com
 0.0.0.0 irchincsp.com
+0.0.0.0 ircwzvpei.com
 0.0.0.0 irdbfqdq.xyz
 0.0.0.0 irdocysrivhios.com
 0.0.0.0 irea2.it
