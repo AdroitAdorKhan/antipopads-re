@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.092
 # Release: 092
-# Entries: 130,714
-# Updated: Mon, 01 Apr 24 20:08:40 +06
+# Entries: 130,724
+# Updated: Mon, 01 Apr 24 22:20:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3100,8 +3100,11 @@
 0.0.0.0 _dmarc.www.capenuttraders.co.za
 0.0.0.0 _domainkey.hostmaster.www.todaypk.cz
 0.0.0.0 _domainkey.www.6be39.wh.3dtops.com
+0.0.0.0 _ldap._tcp.mckinney._sites.uk.www.sterenwifi.com
 0.0.0.0 _ldap._tcp.mx-mexicocity._sites.dc._msdcs.www.sterenwifi.com
 0.0.0.0 _sites.dc._msdcs.www.sterenwifi.com
+0.0.0.0 _sites.uk.www.sterenwifi.com
+0.0.0.0 _tcp.mckinney._sites.uk.www.sterenwifi.com
 0.0.0.0 _tcp.mx-mexicocity._sites.dc._msdcs.www.sterenwifi.com
 0.0.0.0 a-94interdads.com
 0.0.0.0 a-ads.com
@@ -19866,6 +19869,7 @@
 0.0.0.0 chickymania.net
 0.0.0.0 chickymania.org
 0.0.0.0 chiclescetane.life
+0.0.0.0 chicoamseque.net
 0.0.0.0 chicopokernetwork.com
 0.0.0.0 chicosnet.com
 0.0.0.0 chicssnowman.com
@@ -56077,6 +56081,7 @@
 0.0.0.0 larochemartel.com
 0.0.0.0 larodacf.com
 0.0.0.0 larontale.com
+0.0.0.0 laroudey.com
 0.0.0.0 larranature.com
 0.0.0.0 larrenpicture.pro
 0.0.0.0 larrenworld.pro
@@ -56415,6 +56420,7 @@
 0.0.0.0 lcwyxbxevu.xyz
 0.0.0.0 lcxpvidcs.com
 0.0.0.0 lcxxwxo.com
+0.0.0.0 lcyvgjabpiryf.xyz
 0.0.0.0 ld.heartedicefall.com
 0.0.0.0 ld.noetianbiller.com
 0.0.0.0 ld.stengskelped.com
@@ -61261,6 +61267,7 @@
 0.0.0.0 mckensecuryr.info
 0.0.0.0 mckensson.com
 0.0.0.0 mckerry.ca
+0.0.0.0 mckinney._sites.uk.www.sterenwifi.com
 0.0.0.0 mcknifcxvgjlcw.com
 0.0.0.0 mcknightrock.com
 0.0.0.0 mckstfbxqp.com
@@ -78141,6 +78148,7 @@
 0.0.0.0 proxyobsession.net
 0.0.0.0 proxyplayer.xyz
 0.0.0.0 proxyponyperiods.com
+0.0.0.0 proxyrarbg.org
 0.0.0.0 proyemetal.co
 0.0.0.0 prozess-entsperren.site
 0.0.0.0 prozessautomation.biz
@@ -79816,6 +79824,7 @@
 0.0.0.0 qojmsjtwnppjn.com
 0.0.0.0 qokesjxpbds.com
 0.0.0.0 qokira.uno
+0.0.0.0 qokoodhqfpp.com
 0.0.0.0 qomate.xyz
 0.0.0.0 qomhuetylc.com
 0.0.0.0 qomuchorindownlo.xyz
@@ -101879,6 +101888,7 @@
 0.0.0.0 uk-bcep.org
 0.0.0.0 uk-ndc.org
 0.0.0.0 uk-tax-refund681.com
+0.0.0.0 uk.www.sterenwifi.com
 0.0.0.0 uk4net.uk
 0.0.0.0 ukalpetgrooming.com
 0.0.0.0 ukanaakbar.tech

@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.092
 # Release: 092
-# Entries: 130,714
-# Updated: Mon, 01 Apr 24 20:08:40 +06
+# Entries: 130,724
+# Updated: Mon, 01 Apr 24 22:20:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -3100,8 +3100,11 @@
 :: _dmarc.www.capenuttraders.co.za
 :: _domainkey.hostmaster.www.todaypk.cz
 :: _domainkey.www.6be39.wh.3dtops.com
+:: _ldap._tcp.mckinney._sites.uk.www.sterenwifi.com
 :: _ldap._tcp.mx-mexicocity._sites.dc._msdcs.www.sterenwifi.com
 :: _sites.dc._msdcs.www.sterenwifi.com
+:: _sites.uk.www.sterenwifi.com
+:: _tcp.mckinney._sites.uk.www.sterenwifi.com
 :: _tcp.mx-mexicocity._sites.dc._msdcs.www.sterenwifi.com
 :: a-94interdads.com
 :: a-ads.com
@@ -19866,6 +19869,7 @@
 :: chickymania.net
 :: chickymania.org
 :: chiclescetane.life
+:: chicoamseque.net
 :: chicopokernetwork.com
 :: chicosnet.com
 :: chicssnowman.com
@@ -56077,6 +56081,7 @@
 :: larochemartel.com
 :: larodacf.com
 :: larontale.com
+:: laroudey.com
 :: larranature.com
 :: larrenpicture.pro
 :: larrenworld.pro
@@ -56415,6 +56420,7 @@
 :: lcwyxbxevu.xyz
 :: lcxpvidcs.com
 :: lcxxwxo.com
+:: lcyvgjabpiryf.xyz
 :: ld.heartedicefall.com
 :: ld.noetianbiller.com
 :: ld.stengskelped.com
@@ -61261,6 +61267,7 @@
 :: mckensecuryr.info
 :: mckensson.com
 :: mckerry.ca
+:: mckinney._sites.uk.www.sterenwifi.com
 :: mcknifcxvgjlcw.com
 :: mcknightrock.com
 :: mckstfbxqp.com
@@ -78141,6 +78148,7 @@
 :: proxyobsession.net
 :: proxyplayer.xyz
 :: proxyponyperiods.com
+:: proxyrarbg.org
 :: proyemetal.co
 :: prozess-entsperren.site
 :: prozessautomation.biz
@@ -79816,6 +79824,7 @@
 :: qojmsjtwnppjn.com
 :: qokesjxpbds.com
 :: qokira.uno
+:: qokoodhqfpp.com
 :: qomate.xyz
 :: qomhuetylc.com
 :: qomuchorindownlo.xyz
@@ -101879,6 +101888,7 @@
 :: uk-bcep.org
 :: uk-ndc.org
 :: uk-tax-refund681.com
+:: uk.www.sterenwifi.com
 :: uk4net.uk
 :: ukalpetgrooming.com
 :: ukanaakbar.tech
