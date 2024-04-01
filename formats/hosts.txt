@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.092
 # Release: 092
-# Entries: 130,679
-# Updated: Mon, 01 Apr 24 08:08:49 +06
+# Entries: 130,682
+# Updated: Mon, 01 Apr 24 10:20:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -45297,6 +45297,7 @@
 0.0.0.0 hoboka.com
 0.0.0.0 hobowhema.com
 0.0.0.0 hobsdaledisagem.com
+0.0.0.0 hobxryecn.com
 0.0.0.0 hoceyweb.live
 0.0.0.0 hocgeese.com
 0.0.0.0 hockeweb.live
@@ -64419,6 +64420,7 @@
 0.0.0.0 mtburn.com
 0.0.0.0 mtco01.com
 0.0.0.0 mteovvohasn.com
+0.0.0.0 mtewofactjbxwmr.com
 0.0.0.0 mtfbreasts.com
 0.0.0.0 mtfisher.online
 0.0.0.0 mtgvn.net
@@ -87556,6 +87558,7 @@
 0.0.0.0 sev4ifmxa.com
 0.0.0.0 sevabratafoundation.org
 0.0.0.0 sevacarecov.com
+0.0.0.0 sevarepublic.in
 0.0.0.0 sevasuman.org
 0.0.0.0 seveelumus.com
 0.0.0.0 sevenchannelsound.com
