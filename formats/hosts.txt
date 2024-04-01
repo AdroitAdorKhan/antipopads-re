@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.092
 # Release: 092
-# Entries: 130,706
-# Updated: Mon, 01 Apr 24 16:09:03 +06
+# Entries: 130,710
+# Updated: Mon, 01 Apr 24 18:24:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -47916,6 +47916,7 @@
 0.0.0.0 imagebam.net
 0.0.0.0 imagebykarian.com
 0.0.0.0 imagehammer.com
+0.0.0.0 imageheaven.nl
 0.0.0.0 imagenes-gratis.net
 0.0.0.0 imagenius.tech
 0.0.0.0 imageproeditors.com
@@ -52526,6 +52527,7 @@
 0.0.0.0 jtechinstruments.com
 0.0.0.0 jtftlaexkjpc.com
 0.0.0.0 jtgdssrlha.com
+0.0.0.0 jthrwrcjmascxqa.com
 0.0.0.0 jtiqpdqofdlwam.com
 0.0.0.0 jtisicdmf.com
 0.0.0.0 jtisveink.com
@@ -125890,6 +125892,7 @@
 0.0.0.0 www.ww6.sea.cryptaloot.pro
 0.0.0.0 www.ww62.agenziaentrateriscossione.it
 0.0.0.0 www.ww82.e-dnevnik.rs
+0.0.0.0 www.ww82.imageheaven.nl
 0.0.0.0 www.ww82.juicymovies.in
 0.0.0.0 www.ww82.portalzacarias.com
 0.0.0.0 www.ww92.tikkie-betaalverzoek.com
@@ -127734,6 +127737,7 @@
 0.0.0.0 xvbpascd.com
 0.0.0.0 xvbrijuodvtqyp.com
 0.0.0.0 xvbtdwdelhhxe.com
+0.0.0.0 xvbvpizetpts.com
 0.0.0.0 xvcdxpgjcaqihxp.com
 0.0.0.0 xvdduevpv.com
 0.0.0.0 xvdeoss.com
