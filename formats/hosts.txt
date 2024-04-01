@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.093
 # Release: 093
-# Entries: 130,744
-# Updated: Tue, 02 Apr 24 02:24:35 +06
+# Entries: 130,752
+# Updated: Tue, 02 Apr 24 04:08:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16479,6 +16479,7 @@
 0.0.0.0 btc23.pro
 0.0.0.0 btc360ai.com
 0.0.0.0 btcadtop.com
+0.0.0.0 btcai360.com
 0.0.0.0 btcbillionaire.net
 0.0.0.0 btcblock.app
 0.0.0.0 btcdata.info
@@ -20259,6 +20260,7 @@
 0.0.0.0 chushywoce.com
 0.0.0.0 chuskii.com
 0.0.0.0 chustozu.com
+0.0.0.0 chutdoprace.online
 0.0.0.0 chutneegeckoid.life
 0.0.0.0 chutneemunite.com
 0.0.0.0 chutovky.com
@@ -24521,6 +24523,7 @@
 0.0.0.0 cutwormz.com
 0.0.0.0 cuunite.org
 0.0.0.0 cuunpsyhsb.com
+0.0.0.0 cuveiywptyjob.xyz
 0.0.0.0 cuvrr.in
 0.0.0.0 cuwuk.ru
 0.0.0.0 cuxqxubtuptqie.com
@@ -52444,6 +52447,7 @@
 0.0.0.0 js429009.com
 0.0.0.0 js44l.com
 0.0.0.0 js7k.com
+0.0.0.0 js9900five.com
 0.0.0.0 jsapprovals.com
 0.0.0.0 jsbhatia.in
 0.0.0.0 jsbpegtvuur.xyz
@@ -65968,6 +65972,7 @@
 0.0.0.0 nauticzeus.com
 0.0.0.0 nautigear.us
 0.0.0.0 nautilinx.com
+0.0.0.0 nautillus.app
 0.0.0.0 nautilusoldenaples.com
 0.0.0.0 nautilussecurities.com
 0.0.0.0 nauwheer.net
@@ -99030,6 +99035,7 @@
 0.0.0.0 torontocommunitysurgicalcentre.com
 0.0.0.0 torontocommunitysurgicalcentres.com
 0.0.0.0 torontodirtt.com
+0.0.0.0 torontolearning.com
 0.0.0.0 torontoplaybook.com
 0.0.0.0 torontoroofworks.com
 0.0.0.0 torontoroyalty.exchange
@@ -105545,6 +105551,7 @@
 0.0.0.0 vitalcenteronline.au
 0.0.0.0 vitalcenteronline.ca
 0.0.0.0 vitalcenteronline.uk
+0.0.0.0 vitalcentreonline.uk
 0.0.0.0 vitalhero.com
 0.0.0.0 vitalitygo.co.uk
 0.0.0.0 vitalitylabsinc.com
@@ -109202,6 +109209,7 @@
 0.0.0.0 wonder-mix.info
 0.0.0.0 wonderandshinetv.info
 0.0.0.0 wonderbookkeeping.com
+0.0.0.0 wonderbrothersinternational.in
 0.0.0.0 wonderexports.com
 0.0.0.0 wonderfood.store
 0.0.0.0 wonderful-newslettertodiscovertoday.info
