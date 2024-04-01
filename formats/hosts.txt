@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.092
 # Release: 092
-# Entries: 130,686
-# Updated: Mon, 01 Apr 24 12:08:23 +06
+# Entries: 130,701
+# Updated: Mon, 01 Apr 24 14:20:41 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -117,6 +117,7 @@
 0.0.0.0 088kj.info
 0.0.0.0 0898hhh.com
 0.0.0.0 089c42d0b4.f28fda58c5.com
+0.0.0.0 089poli.com
 0.0.0.0 08bb1fn3t4.com
 0.0.0.0 08s1.com
 0.0.0.0 08uxmg2bz7hc.top
@@ -11647,6 +11648,7 @@
 0.0.0.0 balconypeer.com
 0.0.0.0 baldachynnadpostel.sbs
 0.0.0.0 baldbaptismrisk.com
+0.0.0.0 baldeaglebros.com
 0.0.0.0 baldeaglewaterskishows.com
 0.0.0.0 baldersdaleltd.co.uk
 0.0.0.0 baldwhizhens.com
@@ -23959,6 +23961,7 @@
 0.0.0.0 cryptobankin.org
 0.0.0.0 cryptocexchange.online
 0.0.0.0 cryptocitizens.world
+0.0.0.0 cryptocoinpilot.com
 0.0.0.0 cryptoconnect.pro
 0.0.0.0 cryptodroidapp.com
 0.0.0.0 cryptoethica.com
@@ -27697,6 +27700,7 @@
 0.0.0.0 disgagedrabant.digital
 0.0.0.0 disgraceannihilate.com
 0.0.0.0 disgracefulaffluenceunethical.com
+0.0.0.0 disgracefulfacials.com
 0.0.0.0 disgracefulforeword.com
 0.0.0.0 disguised-dad.com
 0.0.0.0 disguisesconqueredegypt.com
@@ -36120,6 +36124,7 @@
 0.0.0.0 firstcitizensbanc.com
 0.0.0.0 firstclass-download.com
 0.0.0.0 firstclassgymnastics.com
+0.0.0.0 firstconclusion.com
 0.0.0.0 firstdraft.law
 0.0.0.0 firstecart.com
 0.0.0.0 firsteduindia.net
@@ -68360,6 +68365,7 @@
 0.0.0.0 nrsgsusnnye.com
 0.0.0.0 nrsolar001.com
 0.0.0.0 nrsurgicals.com
+0.0.0.0 nrtfkunkuas.xyz
 0.0.0.0 nrvbadypy.com
 0.0.0.0 nrwsucebsn.com
 0.0.0.0 nryanocytqc.com
@@ -86798,6 +86804,7 @@
 0.0.0.0 sedatenerves.com
 0.0.0.0 sedatingnews.com
 0.0.0.0 sedativesandhandbook.com
+0.0.0.0 sedepod.com
 0.0.0.0 sedgebakery.com
 0.0.0.0 sedmikraska.info
 0.0.0.0 sedmitchka.online
@@ -93540,6 +93547,7 @@
 0.0.0.0 sunflowerinformed.com
 0.0.0.0 sungarnonsane.com
 0.0.0.0 sungeek.tech
+0.0.0.0 sungkimin.com
 0.0.0.0 sunglasseslollipopoperating.com
 0.0.0.0 sunglassesmentallyproficient.com
 0.0.0.0 sunglassesol.net
@@ -93842,6 +93850,8 @@
 0.0.0.0 surgicalsolutionsvancouver.com
 0.0.0.0 surgicalsolutionsvancouver.net
 0.0.0.0 surgir.net
+0.0.0.0 surgite-sol.com
+0.0.0.0 surgitesolutions.com
 0.0.0.0 surhaihaydn.com
 0.0.0.0 suricatchino.space
 0.0.0.0 surli.li
@@ -102643,6 +102653,7 @@
 0.0.0.0 unscammableinsder.com
 0.0.0.0 unscammableinsider.ca
 0.0.0.0 unscammableinsider.com
+0.0.0.0 unscammablenews.com
 0.0.0.0 unscathe.com
 0.0.0.0 unseamlocrian.com
 0.0.0.0 unseebopster.life
@@ -111744,6 +111755,7 @@
 0.0.0.0 www.balamakina.com
 0.0.0.0 www.balconyilluminate.com
 0.0.0.0 www.balconypeer.com
+0.0.0.0 www.baldeaglebros.com
 0.0.0.0 www.baledenseabbreviation.com
 0.0.0.0 www.baleggy.com
 0.0.0.0 www.ballblemish.com
@@ -114427,6 +114439,7 @@
 0.0.0.0 www.disfigurestokerlikelihood.com
 0.0.0.0 www.disfrutajarabacoa.com
 0.0.0.0 www.disgraceannihilate.com
+0.0.0.0 www.disgracefulfacials.com
 0.0.0.0 www.disgracefulforeword.com
 0.0.0.0 www.disguisesconqueredegypt.com
 0.0.0.0 www.disgustedbluish.com
@@ -122731,6 +122744,7 @@
 0.0.0.0 www.securetaxfilings.com
 0.0.0.0 www.sedatenerves.com
 0.0.0.0 www.sedatingnews.com
+0.0.0.0 www.sedepod.com
 0.0.0.0 www.sedmitchka.online
 0.0.0.0 www.seducerecognize.com
 0.0.0.0 www.seedattentiontestify.com
@@ -125042,6 +125056,7 @@
 0.0.0.0 www.unrealreed.com
 0.0.0.0 www.unregisteredgrasppistol.com
 0.0.0.0 www.unscammable.org
+0.0.0.0 www.unscammablenews.com
 0.0.0.0 www.unscathe.com
 0.0.0.0 www.unseenreport.com
 0.0.0.0 www.unsettledfencing.com
