@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.093
 # Release: 093
-# Entries: 130,759
-# Updated: Tue, 02 Apr 24 10:20:34 +06
+# Entries: 130,764
+# Updated: Tue, 02 Apr 24 14:21:17 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4651,6 +4651,7 @@
 0.0.0.0 adotone.com
 0.0.0.0 adotube.com
 0.0.0.0 adovr.com
+0.0.0.0 adpang.net
 0.0.0.0 adpartner.pro
 0.0.0.0 adparty.click
 0.0.0.0 adpass.co.uk
@@ -67755,6 +67756,7 @@
 0.0.0.0 nofikkr.com
 0.0.0.0 nofncaurr.top
 0.0.0.0 nofogmjmtdh.com
+0.0.0.0 noforabusers2.xyz
 0.0.0.0 nofsdripitalia.store
 0.0.0.0 nogada.ca
 0.0.0.0 noggalogue.com
@@ -110589,6 +110591,7 @@
 0.0.0.0 www.abberantextending.com
 0.0.0.0 www.abbeyoverdue.com
 0.0.0.0 www.abbotpredicateemma.com
+0.0.0.0 www.abbreviateenlargement.com
 0.0.0.0 www.abbreviatepoisonousmonument.com
 0.0.0.0 www.abcnews24h.com
 0.0.0.0 www.abcsnkhangroup.com
@@ -114281,6 +114284,7 @@
 0.0.0.0 www.detachmentjangle.com
 0.0.0.0 www.detachmentoccasionedarena.com
 0.0.0.0 www.detachteethsolitude.com
+0.0.0.0 www.detailedshuffleshadow.com
 0.0.0.0 www.detailedusespeedy.com
 0.0.0.0 www.detainstockingskaleidoscope.com
 0.0.0.0 www.detecteddesigningspirited.com
@@ -122703,6 +122707,7 @@
 0.0.0.0 www.scaredimmediatelyrave.com
 0.0.0.0 www.scarflaremorally.com
 0.0.0.0 www.scarwan.com
+0.0.0.0 www.scarymarine.com
 0.0.0.0 www.scatterdisagreeabledealer.com
 0.0.0.0 www.scclimatehvac.com
 0.0.0.0 www.scclimatehvacr.net
