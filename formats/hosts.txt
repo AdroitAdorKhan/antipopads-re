@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.093
 # Release: 093
-# Entries: 130,752
-# Updated: Tue, 02 Apr 24 04:08:26 +06
+# Entries: 130,754
+# Updated: Tue, 02 Apr 24 06:21:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -64469,6 +64469,7 @@
 0.0.0.0 mtpakmcsma.xyz
 0.0.0.0 mtpbynwiuko.xyz
 0.0.0.0 mtpcsdghtpkxm.com
+0.0.0.0 mtpvursdnlfygh.com
 0.0.0.0 mtq.so
 0.0.0.0 mtr.asia
 0.0.0.0 mtrdxnmqaikbcx.com
@@ -73497,6 +73498,7 @@
 0.0.0.0 pdfsearchhq.com
 0.0.0.0 pdfurqok.com
 0.0.0.0 pdga.ca
+0.0.0.0 pdgmhnlayjm.com
 0.0.0.0 pdgnhjeth.com
 0.0.0.0 pdhardware.ca
 0.0.0.0 pdhqipvewgrg.com
