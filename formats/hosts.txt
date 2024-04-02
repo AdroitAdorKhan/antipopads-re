@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.093
 # Release: 093
-# Entries: 130,754
-# Updated: Tue, 02 Apr 24 06:21:22 +06
+# Entries: 130,756
+# Updated: Tue, 02 Apr 24 08:08:06 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -40758,6 +40758,7 @@
 0.0.0.0 gmaakjrmpc.com
 0.0.0.0 gmacig.it
 0.0.0.0 gmads.net
+0.0.0.0 gmaii.com
 0.0.0.0 gmailapp8.space
 0.0.0.0 gmairdbdq.com
 0.0.0.0 gmajnca.com
@@ -109589,6 +109590,7 @@
 0.0.0.0 wphmavwgay.xyz
 0.0.0.0 wphmhukhaltgke.xyz
 0.0.0.0 wphostingserver.com
+0.0.0.0 wpinfnyp.com
 0.0.0.0 wpino.com
 0.0.0.0 wpirate.com
 0.0.0.0 wpjaniwjffwems.top
