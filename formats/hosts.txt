@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.093
 # Release: 093
-# Entries: 130,768
-# Updated: Tue, 02 Apr 24 18:25:16 +06
+# Entries: 130,770
+# Updated: Tue, 02 Apr 24 20:08:38 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -59124,6 +59124,7 @@
 0.0.0.0 lucrumvirga.life
 0.0.0.0 lucullus.store
 0.0.0.0 lucvhrdlywvnwh.com
+0.0.0.0 lucyvaskas.com
 0.0.0.0 luczofcik.com
 0.0.0.0 ludabmanros.com
 0.0.0.0 ludama1.com
@@ -119006,6 +119007,7 @@
 0.0.0.0 www.luckylk.com
 0.0.0.0 www.luckymonsieur.com
 0.0.0.0 www.lucrativeemotionallypromised.com
+0.0.0.0 www.lucyvaskas.com
 0.0.0.0 www.luditelife.com
 0.0.0.0 www.ludo2way.com
 0.0.0.0 www.luggageflinchdew.com
