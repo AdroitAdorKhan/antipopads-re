@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.093
 # Release: 093
-# Entries: 130,764
-# Updated: Tue, 02 Apr 24 14:21:17 +06
+# Entries: 130,765
+# Updated: Tue, 02 Apr 24 16:08:53 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -53571,6 +53571,7 @@
 0.0.0.0 kdpiidglonwvhc.com
 0.0.0.0 kdpnmlygyagyx.com
 0.0.0.0 kdprquajwnr.com
+0.0.0.0 kdto7.com
 0.0.0.0 kduiplo.pw
 0.0.0.0 kdvewlabjokfoc.com
 0.0.0.0 kdvtfbqhftvgpd.com
