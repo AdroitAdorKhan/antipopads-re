@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.094
 # Release: 094
-# Entries: 130,869
-# Updated: Wed, 03 Apr 24 12:08:07 +06
+# Entries: 130,870
+# Updated: Wed, 03 Apr 24 14:20:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -35153,6 +35153,7 @@
 0.0.0.0 fchsvrinyunlp.com
 0.0.0.0 fciyckhlpdxou.xyz
 0.0.0.0 fckdbz.info
+0.0.0.0 fclmhohgj.com
 0.0.0.0 fclwqrglxgyye.com
 0.0.0.0 fclypuqnbykp.xyz
 0.0.0.0 fcmpqltlswvugy.com
