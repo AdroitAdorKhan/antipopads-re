@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.095
 # Release: 095
-# Entries: 131,240
-# Updated: Thu, 04 Apr 24 12:08:27 +06
+# Entries: 131,245
+# Updated: Thu, 04 Apr 24 14:21:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12041,6 +12041,7 @@
 0.0.0.0 barthnullary.com
 0.0.0.0 bartleetgroup.net
 0.0.0.0 bartondelicate.com
+0.0.0.0 bartonfolk.com
 0.0.0.0 bartonpriority.com
 0.0.0.0 barukh.us
 0.0.0.0 baryonmartrix.space
@@ -14800,6 +14801,7 @@
 0.0.0.0 bluebellconnect.net
 0.0.0.0 bluebellconnect.org
 0.0.0.0 bluebergsoftwares.com
+0.0.0.0 blueberryastronomy.com
 0.0.0.0 blueberrydanelarger.com
 0.0.0.0 blueberrywaistcoat.com
 0.0.0.0 bluebet24.com
@@ -73020,6 +73022,7 @@
 0.0.0.0 pankajrojgarmela.com
 0.0.0.0 pankinka.com
 0.0.0.0 pankrac.shop
+0.0.0.0 panmed.in
 0.0.0.0 pannamdashee.com
 0.0.0.0 pannamsaluter.com
 0.0.0.0 pannonia-camp.online
@@ -89441,6 +89444,7 @@
 0.0.0.0 singaporeferragamo.com
 0.0.0.0 singasong.in
 0.0.0.0 singelstodate.com
+0.0.0.0 singercordial.com
 0.0.0.0 singerrespectfuljerk.com
 0.0.0.0 singershortestmodule.com
 0.0.0.0 singfrthemmnt.com
@@ -121100,6 +121104,7 @@
 0.0.0.0 www.paneleyelash.com
 0.0.0.0 www.pangintrigueliquidate.com
 0.0.0.0 www.panibiz.com
+0.0.0.0 www.panmed.in
 0.0.0.0 www.panshaoxiang.com
 0.0.0.0 www.pantdentaldonate.com
 0.0.0.0 www.pantherculture.com
