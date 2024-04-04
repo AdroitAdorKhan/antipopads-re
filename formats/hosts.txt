@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.095
 # Release: 095
-# Entries: 131,266
-# Updated: Thu, 04 Apr 24 16:08:11 +06
+# Entries: 131,267
+# Updated: Thu, 04 Apr 24 18:25:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29349,6 +29349,7 @@
 0.0.0.0 drewfoolery.com
 0.0.0.0 drewmichaeldesign.com
 0.0.0.0 drewsheltie.com
+0.0.0.0 drewunethicaleducate.com
 0.0.0.0 drexnfr.xyz
 0.0.0.0 dreyeli.info
 0.0.0.0 drfaultlessplays.com
