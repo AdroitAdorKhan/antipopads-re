@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.095
 # Release: 095
-# Entries: 131,238
-# Updated: Thu, 04 Apr 24 08:08:09 +06
+# Entries: 131,239
+# Updated: Thu, 04 Apr 24 10:21:17 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -46298,6 +46298,7 @@
 0.0.0.0 hpdurapol.biz
 0.0.0.0 hpdurapol.in
 0.0.0.0 hpepeepce.com
+0.0.0.0 hpgportal.com
 0.0.0.0 hpijkah.com
 0.0.0.0 hpilhooxcjh.com
 0.0.0.0 hpinno.org
