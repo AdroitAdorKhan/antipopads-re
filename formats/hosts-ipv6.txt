@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.096
 # Release: 096
-# Entries: 131,326
-# Updated: Fri, 05 Apr 24 00:08:26 +06
+# Entries: 131,328
+# Updated: Fri, 05 Apr 24 02:22:38 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -21775,6 +21775,7 @@
 :: coldlakemortgages.ca
 :: coldmaticrefrigeration.ca
 :: coldnesfspubli.com
+:: coldnetic.com
 :: coldpressoils.in
 :: coldrocksolutions.cc
 :: coldvain.com
@@ -118818,6 +118819,7 @@
 :: www.kan8x.com
 :: www.kandaglobaltrading.com
 :: www.kanhaceramics.com
+:: www.kannetflix.xyz
 :: www.kanoonkhabar.com
 :: www.kantemo.com
 :: www.kaol.tech
