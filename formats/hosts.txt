@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.096
 # Release: 096
-# Entries: 131,348
-# Updated: Fri, 05 Apr 24 10:21:17 +06
+# Entries: 131,349
+# Updated: Fri, 05 Apr 24 12:08:19 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -70226,6 +70226,7 @@
 0.0.0.0 ojajkllhblcyh.xyz
 0.0.0.0 ojapanelm.xyz
 0.0.0.0 ojashwi20.tech
+0.0.0.0 ojasvikhanna.com
 0.0.0.0 ojbcbyiojbya.top
 0.0.0.0 ojbrtkrvew.com
 0.0.0.0 ojbxqzornxazej.com
