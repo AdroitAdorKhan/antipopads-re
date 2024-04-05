@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.096
 # Release: 096
-# Entries: 131,342
-# Updated: Fri, 05 Apr 24 06:25:16 +06
+# Entries: 131,345
+# Updated: Fri, 05 Apr 24 08:08:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -875,6 +875,7 @@
 0.0.0.0 21oyna.info
 0.0.0.0 21sexturycash.com
 0.0.0.0 21stcenturyretirement.com
+0.0.0.0 21wiz.com
 0.0.0.0 220012.net
 0.0.0.0 2201.info
 0.0.0.0 220207977.world
@@ -15444,6 +15445,7 @@
 0.0.0.0 boomerhams.net
 0.0.0.0 boomerhams.org
 0.0.0.0 boomersask.us
+0.0.0.0 boomerskids.com
 0.0.0.0 boomersurlelac.com
 0.0.0.0 boomify.agency
 0.0.0.0 boominfluxdrank.com
@@ -107186,6 +107188,7 @@
 0.0.0.0 wabao.live
 0.0.0.0 wabejoyrode.life
 0.0.0.0 wabhack123.com
+0.0.0.0 wabhrkynybk.com
 0.0.0.0 wabisabiux.com
 0.0.0.0 wabrnwewmp.com
 0.0.0.0 wabungasodaic.digital
