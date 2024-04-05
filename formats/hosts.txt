@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.04.096
-# Release: 096
-# Entries: 131,471
-# Updated: Fri, 05 Apr 24 22:22:17 +06
+# Version: 24.04.097
+# Release: 097
+# Entries: 131,477
+# Updated: Sat, 06 Apr 24 00:08:06 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15838,6 +15838,7 @@
 0.0.0.0 bracecherry.com
 0.0.0.0 braceletclients.com
 0.0.0.0 braceletdistraughtpoll.com
+0.0.0.0 bracemascara.com
 0.0.0.0 bracerocclude.life
 0.0.0.0 bracerulcered.top
 0.0.0.0 bracesdismal.com
@@ -30714,6 +30715,7 @@
 0.0.0.0 ecfzzprphz.com
 0.0.0.0 ecgpdlksnmepf.top
 0.0.0.0 echaseresolution.com
+0.0.0.0 echefoph.net
 0.0.0.0 echehalids.guru
 0.0.0.0 echejf.com
 0.0.0.0 echiovlhu.com
@@ -40491,6 +40493,7 @@
 0.0.0.0 gjgnawubr.com
 0.0.0.0 gjhksxthokyjlm.com
 0.0.0.0 gjigle.com
+0.0.0.0 gjipbfrkbx.com
 0.0.0.0 gjjerqotvdolll.com
 0.0.0.0 gjjijveasacct.com
 0.0.0.0 gjjlcrvkqvp.xyz
@@ -69298,6 +69301,7 @@
 0.0.0.0 nzpi.co.nz
 0.0.0.0 nzpoolindustries.co.nz
 0.0.0.0 nzrzgorm.com
+0.0.0.0 nzsndovdjs.com
 0.0.0.0 nzuebfy.com
 0.0.0.0 nzurlmq.com
 0.0.0.0 nzvlpvgqsa.com
@@ -86822,6 +86826,7 @@
 0.0.0.0 scienceofnothingness.org
 0.0.0.0 sciencepeerreview.info
 0.0.0.0 scient-conf-committee.biz
+0.0.0.0 scientific-doubt.com
 0.0.0.0 scientific-globalcongress.biz
 0.0.0.0 scientific-meetings.biz
 0.0.0.0 scientificbeauty-medicine.com
@@ -131447,6 +131452,7 @@
 0.0.0.0 zycjw1.com
 0.0.0.0 zydro.org
 0.0.0.0 zydusuk.com
+0.0.0.0 zyeihixe.com
 0.0.0.0 zyelum.com
 0.0.0.0 zyf03k.xyz
 0.0.0.0 zygenidempaper.digital
