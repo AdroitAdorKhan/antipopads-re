@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.097
 # Release: 097
-# Entries: 131,488
-# Updated: Sat, 06 Apr 24 02:23:58 +06
+# Entries: 131,489
+# Updated: Sat, 06 Apr 24 04:08:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -78198,6 +78198,7 @@
 0.0.0.0 profitablegate.com
 0.0.0.0 profitablegatecpm.com
 0.0.0.0 profitablegatetocontent.com
+0.0.0.0 profitableheavilylord.com
 0.0.0.0 profitabletrustednetwork.com
 0.0.0.0 profitadvisornation.com
 0.0.0.0 profitandsmile.com
