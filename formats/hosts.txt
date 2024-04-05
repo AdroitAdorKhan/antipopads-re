@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.096
 # Release: 096
-# Entries: 131,345
-# Updated: Fri, 05 Apr 24 08:08:18 +06
+# Entries: 131,348
+# Updated: Fri, 05 Apr 24 10:21:17 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -22311,6 +22311,7 @@
 0.0.0.0 comwww.844644.com
 0.0.0.0 comwww.880666.comwww.601122.com
 0.0.0.0 comwww.88896.comwww.622722.comwww.601122.com
+0.0.0.0 comwww.bcloudhost.com
 0.0.0.0 comwww.effectivecreativeformat.com
 0.0.0.0 comwww.effectivecreativeformat.comwww.effectivecreativeformat.com
 0.0.0.0 comwww.effectivecreativeformat.comwww.effectivecreativeformat.comwww.effectivecreativeformat.com
@@ -102143,6 +102144,7 @@
 0.0.0.0 udlemnofujybgi.com
 0.0.0.0 udlnyc.net
 0.0.0.0 udlqdkqdfymq.com
+0.0.0.0 udmdev.net
 0.0.0.0 udmserve.net
 0.0.0.0 udncoeln.com
 0.0.0.0 udnjnujq.com
@@ -125556,6 +125558,7 @@
 0.0.0.0 www.udderexplosion.com
 0.0.0.0 www.udeghaipekr.com
 0.0.0.0 www.udhaarvasuli.com
+0.0.0.0 www.udmdev.net
 0.0.0.0 www.uesl.net
 0.0.0.0 www.uewl.top
 0.0.0.0 www.uflnorcal.org
