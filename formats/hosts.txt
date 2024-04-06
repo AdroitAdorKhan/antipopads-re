@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.097
 # Release: 097
-# Entries: 131,632
-# Updated: Sat, 06 Apr 24 14:20:18 +06
+# Entries: 131,637
+# Updated: Sat, 06 Apr 24 16:08:13 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -24645,6 +24645,7 @@
 0.0.0.0 customtrainingsolutions.ca
 0.0.0.0 customtshirtprinting.store
 0.0.0.0 customtshirtsusa.store
+0.0.0.0 customxc.store
 0.0.0.0 custorino.com
 0.0.0.0 cutania.ca
 0.0.0.0 cutchart.top
@@ -28298,6 +28299,7 @@
 0.0.0.0 dkakin.pro
 0.0.0.0 dkaluminium.ca
 0.0.0.0 dkbgcxltwljdua.com
+0.0.0.0 dkbupulnfm.com
 0.0.0.0 dkd-ev.com
 0.0.0.0 dkedufin.net
 0.0.0.0 dkesqebismkqec.com
@@ -33561,6 +33563,7 @@
 0.0.0.0 etphroqm.com
 0.0.0.0 etpvusybl.com
 0.0.0.0 etracking.pro
+0.0.0.0 etrafficglobalplatinum.online
 0.0.0.0 etrafficinterbio.pro
 0.0.0.0 etranslater5.com
 0.0.0.0 etresoft.net
@@ -57172,6 +57175,7 @@
 0.0.0.0 legrillecottages.com
 0.0.0.0 legrrvjxtk.com
 0.0.0.0 legxrhrrb.xyz
+0.0.0.0 legzo-oboronprom4.info
 0.0.0.0 legzo-radio1.info
 0.0.0.0 lehce.info
 0.0.0.0 lehebraverooper.xyz
@@ -80106,6 +80110,7 @@
 0.0.0.0 qexuqqwy.com
 0.0.0.0 qeygbrlagvlaexa.com
 0.0.0.0 qeylz.com
+0.0.0.0 qezhudifwlua.com
 0.0.0.0 qf.imamseenu.com
 0.0.0.0 qf.prostashehe.com
 0.0.0.0 qf.waitersmimical.com
