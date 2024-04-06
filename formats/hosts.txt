@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.097
 # Release: 097
-# Entries: 131,637
-# Updated: Sat, 06 Apr 24 16:08:13 +06
+# Entries: 131,638
+# Updated: Sat, 06 Apr 24 18:24:00 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -130349,6 +130349,7 @@
 0.0.0.0 ywuwkklct.top
 0.0.0.0 ywvhxymyk.com
 0.0.0.0 ywvjyxp.com
+0.0.0.0 ywwwozgfct.com
 0.0.0.0 ywyeetvrjx.xyz
 0.0.0.0 yx-ads6.com
 0.0.0.0 yx.drudgescouplet.com
