@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.04.097
-# Release: 097
-# Entries: 131,728
-# Updated: Sat, 06 Apr 24 22:21:01 +06
+# Version: 24.04.098
+# Release: 098
+# Entries: 131,731
+# Updated: Sun, 07 Apr 24 00:08:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -42023,6 +42023,7 @@
 0.0.0.0 gpt4all.xyz
 0.0.0.0 gptazeuotlng.com
 0.0.0.0 gptindia.in
+0.0.0.0 gptkjrseu.com
 0.0.0.0 gptpyf.top
 0.0.0.0 gpttuucg.com
 0.0.0.0 gptw.ai
@@ -78148,6 +78149,7 @@
 0.0.0.0 privatedqualizebrui.info
 0.0.0.0 privateleaflet.com
 0.0.0.0 privatelookhack.com
+0.0.0.0 privatelydevotionrewind.com
 0.0.0.0 privatenjet.com
 0.0.0.0 privatescalingpro.com
 0.0.0.0 privatespabox.com
@@ -122398,6 +122400,7 @@
 0.0.0.0 www.privacywithholdrepose.com
 0.0.0.0 www.privateleaflet.com
 0.0.0.0 www.privatelookhack.com
+0.0.0.0 www.privatelydevotionrewind.com
 0.0.0.0 www.privilegest.com
 0.0.0.0 www.prixchempharma.com
 0.0.0.0 www.priyacourtyard.com
