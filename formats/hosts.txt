@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.097
 # Release: 097
-# Entries: 131,638
-# Updated: Sat, 06 Apr 24 18:24:00 +06
+# Entries: 131,648
+# Updated: Sat, 06 Apr 24 20:08:57 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5270,6 +5270,7 @@
 0.0.0.0 aexcorp.com
 0.0.0.0 aexcorps.com
 0.0.0.0 aexdrivers.net
+0.0.0.0 aexfsrgev.com
 0.0.0.0 aexgroup.com
 0.0.0.0 aexqkttn.xyz
 0.0.0.0 aezgnctgfqn.com
@@ -25866,6 +25867,7 @@
 0.0.0.0 ddpglirkyfg.xyz
 0.0.0.0 ddpvnqtpdqid.xyz
 0.0.0.0 ddqfgamwnhp.com
+0.0.0.0 ddqielgcf.com
 0.0.0.0 ddrcontent.com
 0.0.0.0 ddrllviruqiyhg.com
 0.0.0.0 ddrlvacz.com
@@ -50826,6 +50828,7 @@
 0.0.0.0 iwsgoq.com
 0.0.0.0 iwtest-pragueoffice.online
 0.0.0.0 iwuh.org
+0.0.0.0 iwupfencdqap.xyz
 0.0.0.0 iwvinjjmreemnl.xyz
 0.0.0.0 iwwdcglj.com
 0.0.0.0 iwwexhppguzhf.com
@@ -61731,6 +61734,7 @@
 0.0.0.0 mcmillan.partners
 0.0.0.0 mcmillen.app
 0.0.0.0 mcmnljwjgwwmypi.com
+0.0.0.0 mcndlhrb.com
 0.0.0.0 mcnijjfoexaekfy.xyz
 0.0.0.0 mcoles.org
 0.0.0.0 mcpdqfnvluhpwt.com
@@ -88942,6 +88946,7 @@
 0.0.0.0 shlcvxdpm.com
 0.0.0.0 shlkqfkyvh.com
 0.0.0.0 shloemi.com
+0.0.0.0 shlsxklp.com
 0.0.0.0 shlyapajhd2kle8pnc09.com
 0.0.0.0 shmoesunbow.top
 0.0.0.0 shoabibs.xyz
@@ -96124,6 +96129,7 @@
 0.0.0.0 tcppu.com
 0.0.0.0 tcprd.xyz
 0.0.0.0 tcqkwoemkm.com
+0.0.0.0 tcsbywhq.xyz
 0.0.0.0 tctngzarxjfvt.com
 0.0.0.0 tcujuqqqhqd.com
 0.0.0.0 tcvg.pw
@@ -99000,6 +99006,7 @@
 0.0.0.0 tiwwobgdgc.com
 0.0.0.0 tixbwfqspuwouy.top
 0.0.0.0 tixfmdfuwtdjek.com
+0.0.0.0 tixfspcylelcpv.com
 0.0.0.0 tizadumbed.com
 0.0.0.0 tizangoag.com
 0.0.0.0 tizenweb.site
@@ -102443,6 +102450,7 @@
 0.0.0.0 uekfoenw.com
 0.0.0.0 uekish.com
 0.0.0.0 uel-uel-fie.com
+0.0.0.0 uelardfpqphyghr.xyz
 0.0.0.0 uelcydti.com
 0.0.0.0 uelllwrite.com
 0.0.0.0 uemkpzisvazce.com
@@ -108126,6 +108134,7 @@
 0.0.0.0 wdhsn.yt
 0.0.0.0 wdifvrhexkvjm.com
 0.0.0.0 wdigrrrd.top
+0.0.0.0 wdjaybubwb.com
 0.0.0.0 wdlbrympe.com
 0.0.0.0 wdllffcmpcvq.com
 0.0.0.0 wdmpumpsmx.com
@@ -129600,6 +129609,7 @@
 0.0.0.0 ymsh365.com
 0.0.0.0 ymstixseqmo.xyz
 0.0.0.0 ymu45luj7h2gceb3g9sfb7u45luj.com
+0.0.0.0 ymugnwwrmtlt.com
 0.0.0.0 ymuitydkdoy.com
 0.0.0.0 ymwdeaiut.com
 0.0.0.0 ymwehrducswbeu.com
