@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.04.098
-# Release: 098
-# Entries: 131,772
-# Updated: Sun, 07 Apr 24 22:20:49 +06
+# Version: 24.04.099
+# Release: 099
+# Entries: 131,776
+# Updated: Mon, 08 Apr 24 00:08:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2156,6 +2156,7 @@
 0.0.0.0 6196.wf
 0.0.0.0 6198399e4910e66-ovc.com
 0.0.0.0 61hcvghasda616.monster
+0.0.0.0 61zdn1c9.skin
 0.0.0.0 6202.yt
 0.0.0.0 620c663bca9a4.com
 0.0.0.0 622722.comwww.601122.com
@@ -40427,6 +40428,7 @@
 0.0.0.0 gilinstruggle.org
 0.0.0.0 gilledwebeye.life
 0.0.0.0 gillotjugful.com
+0.0.0.0 gillpwiul.com
 0.0.0.0 gillsapp.com
 0.0.0.0 gillsisabellaunarmed.com
 0.0.0.0 gillspaste.com
@@ -101454,6 +101456,7 @@
 0.0.0.0 tsakhim.app
 0.0.0.0 tsandycateup.com
 0.0.0.0 tsapphires.buzz
+0.0.0.0 tsapphiresand.info
 0.0.0.0 tsar2d.ru
 0.0.0.0 tsarandtsarina.com
 0.0.0.0 tsardagger.com
@@ -131444,6 +131447,7 @@
 0.0.0.0 zoocheeh.net
 0.0.0.0 zooey.online
 0.0.0.0 zoogle.co.in
+0.0.0.0 zoogripi.com
 0.0.0.0 zoohi.click
 0.0.0.0 zoojepsainy.com
 0.0.0.0 zoojool.com
