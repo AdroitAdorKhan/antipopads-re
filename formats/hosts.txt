@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.098
 # Release: 098
-# Entries: 131,753
-# Updated: Sun, 07 Apr 24 18:23:13 +06
+# Entries: 131,755
+# Updated: Sun, 07 Apr 24 20:08:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -25061,6 +25061,7 @@
 0.0.0.0 d36gnquzy6rtyp.cloudfront.net
 0.0.0.0 d37aacdbcc.com
 0.0.0.0 d3add3d.net
+0.0.0.0 d3c.life
 0.0.0.0 d3c.site
 0.0.0.0 d3d0wndor0l4xe.cloudfront.net
 0.0.0.0 d3db641c67.3574fd3373.com
@@ -40352,6 +40353,7 @@
 0.0.0.0 gidmikipluoju.com
 0.0.0.0 gidoulie.com
 0.0.0.0 gidvxkhewgjui.com
+0.0.0.0 gienunrbt.com
 0.0.0.0 gieswebinar.com
 0.0.0.0 gif-show.com
 0.0.0.0 giffty.in
