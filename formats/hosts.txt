@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.099
 # Release: 099
-# Entries: 131,777
-# Updated: Mon, 08 Apr 24 02:23:28 +06
+# Entries: 131,778
+# Updated: Mon, 08 Apr 24 04:08:10 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -130776,6 +130776,7 @@
 0.0.0.0 zb.stypsisvirific.com
 0.0.0.0 zbdcrnfheyfu.com
 0.0.0.0 zbezgpzozp.com
+0.0.0.0 zbfemgimtyejpm.com
 0.0.0.0 zbfxzpawfeoo.com
 0.0.0.0 zbgvyargb.com
 0.0.0.0 zbitsdesign.com
