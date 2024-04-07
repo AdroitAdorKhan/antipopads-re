@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.098
 # Release: 098
-# Entries: 131,739
-# Updated: Sun, 07 Apr 24 08:08:05 +06
+# Entries: 131,741
+# Updated: Sun, 07 Apr 24 10:20:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -68008,6 +68008,7 @@
 0.0.0.0 nj.coyotesgangan.com
 0.0.0.0 njalla.ma
 0.0.0.0 njbaveru.com
+0.0.0.0 njbidkrfb.com
 0.0.0.0 njbison.us
 0.0.0.0 njchydropower.com
 0.0.0.0 njcmanhn.com
@@ -104452,6 +104453,7 @@
 0.0.0.0 uvipbmrzlram.com
 0.0.0.0 uvisafe.com
 0.0.0.0 uvixuakmmnckdw.xyz
+0.0.0.0 uvlqgtgqdfl.com
 0.0.0.0 uvlvcmpvgvifo.com
 0.0.0.0 uvlxygwrevrm.com
 0.0.0.0 uvoephxf.com
