@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.098
 # Release: 098
-# Entries: 131,741
-# Updated: Sun, 07 Apr 24 10:20:49 +06
+# Entries: 131,744
+# Updated: Sun, 07 Apr 24 12:08:06 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -55081,6 +55081,7 @@
 0.0.0.0 koabukedosi.com
 0.0.0.0 koacojus.net
 0.0.0.0 koadoasi.net
+0.0.0.0 koafaimoor.net
 0.0.0.0 koafaupesurvey.space
 0.0.0.0 koahoocom.com
 0.0.0.0 koakoucaisho.com
@@ -89331,6 +89332,7 @@
 0.0.0.0 shujuwailian.xyz
 0.0.0.0 shukriya90.com
 0.0.0.0 shulugoo.net
+0.0.0.0 shuma.www.aoshiwf.com
 0.0.0.0 shumakerpictures.com
 0.0.0.0 shumanman99.com
 0.0.0.0 shumsooz.net
@@ -131295,6 +131297,7 @@
 0.0.0.0 zmgetmoneysurvey.top
 0.0.0.0 zmgiftsurvey.top
 0.0.0.0 zmgoodsurvey.top
+0.0.0.0 zmhbgjifpz.com
 0.0.0.0 zmhwaiapbtfq.com
 0.0.0.0 zmiev.city
 0.0.0.0 zmikrctxf.com
