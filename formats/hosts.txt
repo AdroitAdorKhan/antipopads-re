@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.098
 # Release: 098
-# Entries: 131,745
-# Updated: Sun, 07 Apr 24 14:20:02 +06
+# Entries: 131,747
+# Updated: Sun, 07 Apr 24 16:08:01 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -77539,6 +77539,7 @@
 0.0.0.0 prabintg.com
 0.0.0.0 pracasnov.com
 0.0.0.0 prace.click
+0.0.0.0 praceapp.com
 0.0.0.0 praceprobagr.com
 0.0.0.0 pracevit.com
 0.0.0.0 prachi-jain.com
@@ -130750,6 +130751,7 @@
 0.0.0.0 zbgvyargb.com
 0.0.0.0 zbitsdesign.com
 0.0.0.0 zbnfhsk.com
+0.0.0.0 zbnrpcvnqaa.com
 0.0.0.0 zbrojak.online
 0.0.0.0 zbvhwaakws.com
 0.0.0.0 zbxrjczqs.com
