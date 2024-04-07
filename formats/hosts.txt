@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.099
 # Release: 099
-# Entries: 131,776
-# Updated: Mon, 08 Apr 24 00:08:16 +06
+# Entries: 131,777
+# Updated: Mon, 08 Apr 24 02:23:28 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -130294,6 +130294,7 @@
 0.0.0.0 ytjkcheuoit.com
 0.0.0.0 ytkaiblmesmq.top
 0.0.0.0 ytkapemjx.com
+0.0.0.0 ytlhsmwu.com
 0.0.0.0 ytljaubc.com
 0.0.0.0 ytmhrjnffdrrt.com
 0.0.0.0 ytmp4.nu
