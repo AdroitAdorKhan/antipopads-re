@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.098
 # Release: 098
-# Entries: 131,744
-# Updated: Sun, 07 Apr 24 12:08:06 +06
+# Entries: 131,745
+# Updated: Sun, 07 Apr 24 14:20:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -125931,6 +125931,7 @@
 0.0.0.0 www.uapi.dmev.me
 0.0.0.0 www.ubboke.com
 0.0.0.0 www.ubetterubet.com
+0.0.0.0 www.ubodochel.com
 0.0.0.0 www.ubofuabneuafaohog.com
 0.0.0.0 www.uboungera.com
 0.0.0.0 www.uchchwas.tech
