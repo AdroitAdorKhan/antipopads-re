@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.099
 # Release: 099
-# Entries: 131,778
-# Updated: Mon, 08 Apr 24 04:08:10 +06
+# Entries: 131,779
+# Updated: Mon, 08 Apr 24 06:25:05 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -128477,6 +128477,7 @@
 0.0.0.0 xnxx56.com
 0.0.0.0 xnxx63.com
 0.0.0.0 xnxxfuck.com
+0.0.0.0 xnxxmove.com
 0.0.0.0 xnxznfrjx.com
 0.0.0.0 xo28pclotovi.com
 0.0.0.0 xo4uzhit.agency
