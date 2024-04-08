@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.099
 # Release: 099
-# Entries: 131,779
-# Updated: Mon, 08 Apr 24 06:25:05 +06
+# Entries: 131,781
+# Updated: Mon, 08 Apr 24 10:21:17 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19763,6 +19763,7 @@
 0.0.0.0 chcpayment.com
 0.0.0.0 chdkxgjtwflba.com
 0.0.0.0 cheap-jewelry-online.com
+0.0.0.0 cheap-jordanshoes.us.com
 0.0.0.0 cheap-mlbjerseys.us.com
 0.0.0.0 cheap-result.pro
 0.0.0.0 cheap-trip.pro
@@ -113953,6 +113954,7 @@
 0.0.0.0 www.chaudhryclinic.org
 0.0.0.0 www.chavdaministries.org
 0.0.0.0 www.chcl.tech
+0.0.0.0 www.cheap-jordanshoes.us.com
 0.0.0.0 www.cheapcoveringpearl.com
 0.0.0.0 www.cheapjerseysupplyforyou.com
 0.0.0.0 www.cheaplyroleinvolved.com
