@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.099
 # Release: 099
-# Entries: 131,783
-# Updated: Mon, 08 Apr 24 12:09:30 +06
+# Entries: 131,785
+# Updated: Mon, 08 Apr 24 14:42:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -117570,6 +117570,7 @@
 0.0.0.0 www.goosetension.com
 0.0.0.0 www.gopasscroatia.com
 0.0.0.0 www.gorgeousremoveplead.com
+0.0.0.0 www.gorodochel.com
 0.0.0.0 www.goshcries.com
 0.0.0.0 www.gossipprotectioncredentials.com
 0.0.0.0 www.gossipsize.com
@@ -119735,6 +119736,7 @@
 0.0.0.0 www.likeminer.nablabee.com
 0.0.0.0 www.likenaavu.com
 0.0.0.0 www.likenesscollecting.com
+0.0.0.0 www.likenessmockery.com
 0.0.0.0 www.liker.video
 0.0.0.0 www.lilysummoned.com
 0.0.0.0 www.limbcoastlineimpetuous.com
