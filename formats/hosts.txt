@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.100
 # Release: 100
-# Entries: 131,850
-# Updated: Tue, 09 Apr 24 08:08:16 +06
+# Entries: 131,851
+# Updated: Tue, 09 Apr 24 10:23:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29802,6 +29802,7 @@
 0.0.0.0 dtoottuleringwe.xyz
 0.0.0.0 dtot.io
 0.0.0.0 dtothdgemano.xyz
+0.0.0.0 dtpeqgfaps.com
 0.0.0.0 dtprofit.com
 0.0.0.0 dtqbqmzzbeck.com
 0.0.0.0 dtrahanscleaning.com
