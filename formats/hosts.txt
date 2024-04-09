@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.04.100
-# Release: 100
-# Entries: 131,908
-# Updated: Tue, 09 Apr 24 22:50:03 +06
+# Version: 24.04.101
+# Release: 101
+# Entries: 131,914
+# Updated: Wed, 10 Apr 24 00:08:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1137,6 +1137,7 @@
 0.0.0.0 2h6skj2da.de
 0.0.0.0 2hanwriten.com
 0.0.0.0 2hdev.com
+0.0.0.0 2hdn.online
 0.0.0.0 2heaoc.com
 0.0.0.0 2hearts.co.in
 0.0.0.0 2helden.com
@@ -26439,6 +26440,7 @@
 0.0.0.0 deliverytrafficnews.com
 0.0.0.0 deliverytraffico.com
 0.0.0.0 deliverytraffnews.com
+0.0.0.0 deliverytriumph.com
 0.0.0.0 delmarviato.com
 0.0.0.0 delmax.in
 0.0.0.0 delohm.com
@@ -75010,6 +75012,7 @@
 0.0.0.0 pgeejqisao.com
 0.0.0.0 pgerciasjtg.com
 0.0.0.0 pgerrismp.com
+0.0.0.0 pgezbuz.com
 0.0.0.0 pgfbmxfrsffxk.com
 0.0.0.0 pgfinjlnps.com
 0.0.0.0 pgglobalinv.online
@@ -80000,6 +80003,7 @@
 0.0.0.0 pxsunbsd.com
 0.0.0.0 pxtpjvrg.xyz
 0.0.0.0 pxtrkr.com
+0.0.0.0 pxvmggiypyod.xyz
 0.0.0.0 pxwgnymkcuvrq.com
 0.0.0.0 pxwuyqonykziss.com
 0.0.0.0 pxx23jkd.com
@@ -81594,6 +81598,7 @@
 0.0.0.0 rambleonroseco.com
 0.0.0.0 ramblepubprompt.com
 0.0.0.0 ramblespottedcommitment.com
+0.0.0.0 rambobf.com
 0.0.0.0 rambograntee.com
 0.0.0.0 rambojp.org
 0.0.0.0 rambomero.space
@@ -96471,6 +96476,7 @@
 0.0.0.0 teaser.cc
 0.0.0.0 teasfwda.com
 0.0.0.0 teasimilarman.com
+0.0.0.0 teaspoonhumor.com
 0.0.0.0 teassaid.com
 0.0.0.0 teatycacicus.com
 0.0.0.0 teawater.com
