@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.101
 # Release: 101
-# Entries: 131,917
-# Updated: Wed, 10 Apr 24 02:21:47 +06
+# Entries: 131,920
+# Updated: Wed, 10 Apr 24 04:08:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -48673,6 +48673,7 @@
 0.0.0.0 inabsolor.com
 0.0.0.0 inaccessiblefebruaryimmunity.com
 0.0.0.0 inaccuratetreasure.com
+0.0.0.0 inactionseeds.com
 0.0.0.0 inadequateinadmissibleoblige.com
 0.0.0.0 inadmissibleinsensitive.com
 0.0.0.0 inaickoo.com
@@ -48682,6 +48683,7 @@
 0.0.0.0 inaneamenvote.com
 0.0.0.0 inaneconstellationindistinct.com
 0.0.0.0 inanemuseum.com
+0.0.0.0 inaneoweidle.com
 0.0.0.0 inanepercyfinancially.com
 0.0.0.0 inanityacromia.life
 0.0.0.0 inanitystorken.com
@@ -131650,6 +131652,7 @@
 0.0.0.0 zpbiqrovnozhn.com
 0.0.0.0 zpbpenn.com
 0.0.0.0 zpcfnzjq.com
+0.0.0.0 zpdnisvzedgbw.com
 0.0.0.0 zpetnavazba.com
 0.0.0.0 zpgetworker11.com
 0.0.0.0 zpicteod.com
