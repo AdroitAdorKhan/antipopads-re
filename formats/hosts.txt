@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.100
 # Release: 100
-# Entries: 131,863
-# Updated: Tue, 09 Apr 24 16:32:35 +06
+# Entries: 131,865
+# Updated: Tue, 09 Apr 24 18:08:45 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19527,6 +19527,7 @@
 0.0.0.0 chamarwhisted.digital
 0.0.0.0 chambalindia.co
 0.0.0.0 chambermorality.com
+0.0.0.0 chamberofcannabis.org
 0.0.0.0 chambershoist.com
 0.0.0.0 chambersthanweed.com
 0.0.0.0 chameleon.ad
@@ -113977,6 +113978,7 @@
 0.0.0.0 www.chalkedsuperherorex.com
 0.0.0.0 www.challenger.fun
 0.0.0.0 www.chambermorality.com
+0.0.0.0 www.chamberofcannabis.org
 0.0.0.0 www.chambersthanweed.com
 0.0.0.0 www.chamomilleoriginal.com
 0.0.0.0 www.champagneregulateinterfere.com
