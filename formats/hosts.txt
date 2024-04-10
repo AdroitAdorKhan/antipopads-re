@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.102
 # Release: 102
-# Entries: 131,986
-# Updated: Thu, 11 Apr 24 02:08:39 +06
+# Entries: 131,988
+# Updated: Thu, 11 Apr 24 04:08:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4009,6 +4009,7 @@
 0.0.0.0 achunogo.com
 0.0.0.0 achuphaube.com
 0.0.0.0 achurt.com
+0.0.0.0 achyaplenty.com
 0.0.0.0 achycompassionate.com
 0.0.0.0 achyrepeatitchy.com
 0.0.0.0 acidacorn.com
@@ -125652,6 +125653,7 @@
 0.0.0.0 www.thischarmingcandy.com
 0.0.0.0 www.thiscombinationdecorated.com
 0.0.0.0 www.thisisdigitalpodcast.com
+0.0.0.0 www.thisisterezin.com
 0.0.0.0 www.thislaboratory.com
 0.0.0.0 www.thofteert.com
 0.0.0.0 www.tholteti.com
