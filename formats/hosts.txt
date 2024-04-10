@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.101
 # Release: 101
-# Entries: 131,936
-# Updated: Wed, 10 Apr 24 16:23:31 +06
+# Entries: 131,939
+# Updated: Wed, 10 Apr 24 18:08:37 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -114123,6 +114123,7 @@
 0.0.0.0 www.chinacar.asia
 0.0.0.0 www.chinapubmet.net
 0.0.0.0 www.chineseashamed.com
+0.0.0.0 www.chinesecanadianscare.com
 0.0.0.0 www.chipoats.com
 0.0.0.0 www.chippigs.com
 0.0.0.0 www.chipspasta.com
@@ -116209,6 +116210,7 @@
 0.0.0.0 www.empowertranslatingalloy.com
 0.0.0.0 www.emprendecontravientoymarea.com
 0.0.0.0 www.emptyeasygoing.com
+0.0.0.0 www.emsmcnc.com
 0.0.0.0 www.emteeveetwo.com
 0.0.0.0 www.emulationfastened.com
 0.0.0.0 www.enablerubbingjab.com
@@ -119549,6 +119551,7 @@
 0.0.0.0 www.kopeto.not-tesla.com
 0.0.0.0 www.kopoertse.com
 0.0.0.0 www.korooz.co.uk
+0.0.0.0 www.kortefam.org
 0.0.0.0 www.korzo.restaurant
 0.0.0.0 www.kostasbeys.gr
 0.0.0.0 www.kotak811.click
