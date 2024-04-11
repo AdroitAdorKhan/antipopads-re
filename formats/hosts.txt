@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.102
 # Release: 102
-# Entries: 132,142
-# Updated: Thu, 11 Apr 24 16:09:32 +06
+# Entries: 132,148
+# Updated: Thu, 11 Apr 24 18:08:31 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7130,6 +7130,7 @@
 0.0.0.0 altowriestwispy.com
 0.0.0.0 altpub.ru
 0.0.0.0 altpubli.com
+0.0.0.0 altraskonorge.org
 0.0.0.0 altrk.net
 0.0.0.0 altronopubacc.com
 0.0.0.0 altruisticcost.com
@@ -7954,6 +7955,7 @@
 0.0.0.0 annulichasm.digital
 0.0.0.0 annulmententrepreneurflex.com
 0.0.0.0 annulmentequitycereals.com
+0.0.0.0 annulmentsmallest.com
 0.0.0.0 annuncivenditausato.com
 0.0.0.0 annzoftsolutions.com
 0.0.0.0 anodetostyle.com
@@ -86494,6 +86496,7 @@
 0.0.0.0 saltcaramel.online
 0.0.0.0 saltcardiacprotective.com
 0.0.0.0 saltcatgrief.space
+0.0.0.0 saltconfectionery.com
 0.0.0.0 saltek-group.com
 0.0.0.0 saltek-ru.com
 0.0.0.0 saltekgroup.com
@@ -114131,6 +114134,7 @@
 0.0.0.0 www.cdnclient.net
 0.0.0.0 www.cdracademy.com
 0.0.0.0 www.ceasechampagneparade.com
+0.0.0.0 www.ceasedheave.com
 0.0.0.0 www.cecmuthejooz.com
 0.0.0.0 www.cedarverdure.com
 0.0.0.0 www.cedeimprovise.com
@@ -123768,6 +123772,7 @@
 0.0.0.0 www.romak.not-tesla.com
 0.0.0.0 www.romanbra.com
 0.0.0.0 www.romancemind.com
+0.0.0.0 www.romancepotsexists.com
 0.0.0.0 www.romaninformcompensate.com
 0.0.0.0 www.romanticmanufacture.com
 0.0.0.0 www.romanticwait.com
@@ -125607,6 +125612,7 @@
 0.0.0.0 www.tenseapprobation.com
 0.0.0.0 www.tenset.site
 0.0.0.0 www.tent-z.com
+0.0.0.0 www.tentativenegotiate.com
 0.0.0.0 www.tentativeroofearlap.com
 0.0.0.0 www.tenthgiven.com
 0.0.0.0 www.teqnosys.com
