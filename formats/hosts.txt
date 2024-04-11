@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.102
 # Release: 102
-# Entries: 131,988
-# Updated: Thu, 11 Apr 24 04:08:18 +06
+# Entries: 131,990
+# Updated: Thu, 11 Apr 24 06:46:06 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -116393,6 +116393,7 @@
 0.0.0.0 www.erikaeleniak.info
 0.0.0.0 www.ernieguarantee.com
 0.0.0.0 www.erodeopticals.com
+0.0.0.0 www.erosionyonderviolate.com
 0.0.0.0 www.erpbaby.com
 0.0.0.0 www.erpworld.in
 0.0.0.0 www.erringstartdelinquent.com
@@ -120569,6 +120570,7 @@
 0.0.0.0 www.mi1a8a.life
 0.0.0.0 www.miassav.com
 0.0.0.0 www.micechillyorchard.com
+0.0.0.0 www.miceelectricitysubdued.com
 0.0.0.0 www.michael-jackson.photos
 0.0.0.0 www.michaeljackson.photography
 0.0.0.0 www.michaelkorshandbags.in.net
