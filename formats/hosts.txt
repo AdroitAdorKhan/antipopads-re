@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.103
 # Release: 103
-# Entries: 132,369
-# Updated: Fri, 12 Apr 24 12:35:16 +06
+# Entries: 132,371
+# Updated: Fri, 12 Apr 24 14:08:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -83474,6 +83474,7 @@
 0.0.0.0 repayments.io
 0.0.0.0 repayrotten.com
 0.0.0.0 repbowdew.com
+0.0.0.0 repeatedlyshepherd.com
 0.0.0.0 repeatloin.com
 0.0.0.0 repeatresolve.com
 0.0.0.0 repellentamorousrefutation.com
@@ -109470,6 +109471,7 @@
 0.0.0.0 whaishou.com
 0.0.0.0 whaishub.net
 0.0.0.0 whaiweel.com
+0.0.0.0 whaixoads.xyz
 0.0.0.0 whale.bz
 0.0.0.0 whaleads.com
 0.0.0.0 whaleapartmenthumor.com
