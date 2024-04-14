@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.105
 # Release: 105
-# Entries: 133,107
-# Updated: Sun, 14 Apr 24 06:12:45 +06
+# Entries: 133,113
+# Updated: Sun, 14 Apr 24 08:07:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -31209,6 +31209,7 @@
 0.0.0.0 ecomines.us
 0.0.0.0 ecomixxx1.com
 0.0.0.0 ecomlifestyleacademy.com
+0.0.0.0 ecommerce.com.my
 0.0.0.0 ecommercemarketingblackbook.com
 0.0.0.0 ecommercemgt.net
 0.0.0.0 ecommercesummit.global
@@ -56269,6 +56270,7 @@
 0.0.0.0 ktfodkqypn.xyz
 0.0.0.0 kthtsboregej.xyz
 0.0.0.0 ktindsrik.xyz
+0.0.0.0 ktkvcpqyh.xyz
 0.0.0.0 ktlcssnswwfbv.xyz
 0.0.0.0 ktlepvyyoxydwi.com
 0.0.0.0 ktlrhudvlsu.com
@@ -57976,6 +57978,7 @@
 0.0.0.0 leptaasellus.digital
 0.0.0.0 leptidunhaunt.com
 0.0.0.0 leqjnmmyqtb.com
+0.0.0.0 lequzyz.com
 0.0.0.0 lerngood.com
 0.0.0.0 lernious.com
 0.0.0.0 lernmichkennen.com
@@ -74710,6 +74713,7 @@
 0.0.0.0 pawnoutletprimary.com
 0.0.0.0 pawpawpedia.com
 0.0.0.0 pawschancesponsor.com
+0.0.0.0 pawzaro.store
 0.0.0.0 paxafai1.com
 0.0.0.0 paxmedia.net
 0.0.0.0 paxonmarketing.pro
@@ -117617,6 +117621,7 @@
 0.0.0.0 www.exhibitedthawolympics.com
 0.0.0.0 www.exhibitionunattractive.com
 0.0.0.0 www.exileinstinct.com
+0.0.0.0 www.existenceassociationvoice.com
 0.0.0.0 www.existingcorresponding.com
 0.0.0.0 www.exitenmitynotwithstanding.com
 0.0.0.0 www.expectedballpaul.com
@@ -120907,6 +120912,7 @@
 0.0.0.0 www.leopardcares.org
 0.0.0.0 www.leoparddisappearcrumble.com
 0.0.0.0 www.leopardoilyteach.com
+0.0.0.0 www.lequzyz.com
 0.0.0.0 www.lescollinesmarrakech.net
 0.0.0.0 www.lesserrecentrecentnaturalist.com
 0.0.0.0 www.lessfilmingillicit.com
