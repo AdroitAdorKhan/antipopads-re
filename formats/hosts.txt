@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.04.105
-# Release: 105
-# Entries: 133,321
-# Updated: Sun, 14 Apr 24 22:11:05 +06
+# Version: 24.04.106
+# Release: 106
+# Entries: 133,356
+# Updated: Mon, 15 Apr 24 00:08:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4368,6 +4368,7 @@
 0.0.0.0 add3d.in
 0.0.0.0 addcoachtalk.com
 0.0.0.0 addecojobs.com
+0.0.0.0 addgreater.com
 0.0.0.0 addib.tech
 0.0.0.0 addicted2azores.com
 0.0.0.0 addictedsweetness.com
@@ -6355,6 +6356,7 @@
 0.0.0.0 ak6h.com
 0.0.0.0 ak7178.com
 0.0.0.0 ak9058.com
+0.0.0.0 aka-test-garagiste.com
 0.0.0.0 akaiksots.com
 0.0.0.0 akarospool.com
 0.0.0.0 akasa.digital
@@ -15697,6 +15699,7 @@
 0.0.0.0 boozesfrickle.uno
 0.0.0.0 boozifyprays.space
 0.0.0.0 bop-bop-bam.com
+0.0.0.0 bophocheem.com
 0.0.0.0 boptegre.com
 0.0.0.0 bopvetgel.com
 0.0.0.0 bopyridgypper.store
@@ -24150,6 +24153,7 @@
 0.0.0.0 creekrecollectkey.com
 0.0.0.0 creepercard.com
 0.0.0.0 creeperfutileforgot.com
+0.0.0.0 creeperimperfect.com
 0.0.0.0 creepingbrings.com
 0.0.0.0 creeppant.com
 0.0.0.0 creepyassist.pro
@@ -27519,6 +27523,7 @@
 0.0.0.0 dgqlwqedzowhqb.com
 0.0.0.0 dgthcfiwa.com
 0.0.0.0 dgtklmbypacjq.com
+0.0.0.0 dgtllp.com
 0.0.0.0 dgtprinter.com
 0.0.0.0 dgttkthhgjm.com
 0.0.0.0 dguhjlbefeuf.com
@@ -27650,6 +27655,8 @@
 0.0.0.0 diametercurl.com
 0.0.0.0 diametersunglassesbranch.com
 0.0.0.0 diamond-dent-art.com
+0.0.0.0 diamondageinvesting.com
+0.0.0.0 diamondageinvestor.com
 0.0.0.0 diamondbra.com
 0.0.0.0 diamondfickert.com
 0.0.0.0 diamondintherufftraining.com
@@ -27990,6 +27997,7 @@
 0.0.0.0 dimseeksa.com
 0.0.0.0 dinahmerfolk.life
 0.0.0.0 dinamic.mobi
+0.0.0.0 dinamic.plus
 0.0.0.0 dinamicsolutions.online
 0.0.0.0 dinarsonistprecisely.com
 0.0.0.0 dinboxesbones.com
@@ -31031,6 +31039,7 @@
 0.0.0.0 easymp3converter.app
 0.0.0.0 easynode.net
 0.0.0.0 easynostr.com
+0.0.0.0 easynym.com
 0.0.0.0 easypics.info
 0.0.0.0 easypics.space
 0.0.0.0 easyprintpack.com
@@ -31828,6 +31837,7 @@
 0.0.0.0 egmyz.com
 0.0.0.0 egnba.yt
 0.0.0.0 egoaxdyp.com
+0.0.0.0 egodisturbance.com
 0.0.0.0 egoismdondine.com
 0.0.0.0 egoisminfinite.com
 0.0.0.0 egoismundonefifth.com
@@ -35407,6 +35417,7 @@
 0.0.0.0 familybank.org.uk
 0.0.0.0 familyborn.com
 0.0.0.0 familyclean.academy
+0.0.0.0 familydefensivearts.com
 0.0.0.0 familydentalcare.international
 0.0.0.0 familyfellowshipnight.com
 0.0.0.0 familygifthut.com
@@ -41329,6 +41340,7 @@
 0.0.0.0 glihargi.net
 0.0.0.0 glihelethy.com
 0.0.0.0 gliksekr.net
+0.0.0.0 glimpsedimebodyguard.com
 0.0.0.0 glimpsedrastic.com
 0.0.0.0 glimpsemankind.com
 0.0.0.0 glimtaul.xyz
@@ -45303,6 +45315,7 @@
 0.0.0.0 hepare.com
 0.0.0.0 heparllasysy.xyz
 0.0.0.0 heparlorne.org
+0.0.0.0 hepatitiscreche.com
 0.0.0.0 hepekdxt.xyz
 0.0.0.0 hepengineering.com
 0.0.0.0 hepetaty.xyz
@@ -48578,6 +48591,9 @@
 0.0.0.0 ihack-mac.com
 0.0.0.0 ihafiwuxeu.com
 0.0.0.0 ihappymuttered.info
+0.0.0.0 ihatedoane.com
+0.0.0.0 ihatedoanegrantthornton.com
+0.0.0.0 ihategrantthornton.com
 0.0.0.0 ihatei25.com
 0.0.0.0 ihauvogh.com
 0.0.0.0 ihaveinsuance.com
@@ -63709,6 +63725,7 @@
 0.0.0.0 middlesswal.com
 0.0.0.0 midfirstsavings.com
 0.0.0.0 midgetdeliveringsmartly.com
+0.0.0.0 midgetgravelshorthand.com
 0.0.0.0 midgetincidentally.com
 0.0.0.0 midisk.site
 0.0.0.0 midistortrix.com
@@ -78827,6 +78844,7 @@
 0.0.0.0 prepositionrumour.com
 0.0.0.0 preposterousdecidedfollowing.com
 0.0.0.0 preposterousgoody.com
+0.0.0.0 preposterousmotionlocation.com
 0.0.0.0 preposterousstation.com
 0.0.0.0 preppartner.tech
 0.0.0.0 preppersstore.uk
@@ -83388,6 +83406,7 @@
 0.0.0.0 recourcecenter.org
 0.0.0.0 recoverhatred.com
 0.0.0.0 recovery.expert
+0.0.0.0 recoverybridgehousing.org
 0.0.0.0 recoveryprimarily.com
 0.0.0.0 recoverystrait.com
 0.0.0.0 recoverytool.org
@@ -87527,6 +87546,7 @@
 0.0.0.0 sanfenproperties.com
 0.0.0.0 sanfordcessor.space
 0.0.0.0 sangcopying.uno
+0.0.0.0 sangcrowded.com
 0.0.0.0 sangeiunzen.com
 0.0.0.0 sangforeasy.com
 0.0.0.0 sanggilregard.com
@@ -88956,6 +88976,7 @@
 0.0.0.0 semsidomide.us
 0.0.0.0 semsidomidedrug.co
 0.0.0.0 semsidomidedrug.us
+0.0.0.0 semsidomidesucks.com
 0.0.0.0 semsidomidesucks.info
 0.0.0.0 semsidomidesucks.us
 0.0.0.0 semupgrjbnlhi.com
@@ -89365,6 +89386,7 @@
 0.0.0.0 serververwaltung.jetzt
 0.0.0.0 servetraff.com
 0.0.0.0 servg1.net
+0.0.0.0 service-3adc4a.net
 0.0.0.0 service.qa
 0.0.0.0 service.supercounters.com
 0.0.0.0 serviceac.org
@@ -90973,6 +90995,8 @@
 0.0.0.0 singlesexdates.com
 0.0.0.0 singlesgetmatched.com
 0.0.0.0 singlesternlyshabby.com
+0.0.0.0 singletonlabs.com
+0.0.0.0 singletonmail.com
 0.0.0.0 singletpharo.top
 0.0.0.0 singlewomenmeet.com
 0.0.0.0 singlucy.com
@@ -91915,6 +91939,7 @@
 0.0.0.0 smartfitness.group
 0.0.0.0 smartfoodclub.net
 0.0.0.0 smartfuncontract.com
+0.0.0.0 smartfusionhlg.com
 0.0.0.0 smartgreencityworld.com
 0.0.0.0 smartgrowth.marketing
 0.0.0.0 smarthelp.pro
@@ -105024,6 +105049,7 @@
 0.0.0.0 unwice.com
 0.0.0.0 unwillingsnick.com
 0.0.0.0 unwindflophousework.com
+0.0.0.0 unwindnoodlegodforsaken.com
 0.0.0.0 unwisebiology.com
 0.0.0.0 unwisecommence.com
 0.0.0.0 unwitting-phrase.pro
@@ -106017,6 +106043,7 @@
 0.0.0.0 vabsirte.xyz
 0.0.0.0 vabybjbhgqfcld.com
 0.0.0.0 vacancy-booking.com
+0.0.0.0 vacancyreverenceflattering.com
 0.0.0.0 vacaneedasap.com
 0.0.0.0 vacantvaughn.digital
 0.0.0.0 vacation-albania.com
@@ -106662,6 +106689,7 @@
 0.0.0.0 veildiscotacky.com
 0.0.0.0 veilingchaufer.life
 0.0.0.0 veilsuccessfully.com
+0.0.0.0 veinbloat.com
 0.0.0.0 veincartrigeforceful.com
 0.0.0.0 veineryclauber.top
 0.0.0.0 veinierevangel.website
@@ -107574,6 +107602,7 @@
 0.0.0.0 vintagerespectful.com
 0.0.0.0 vintagestore.sale
 0.0.0.0 vintagetaboo.org
+0.0.0.0 vintagetumor.com
 0.0.0.0 vintagewatchfreak.com
 0.0.0.0 vintagewheels.shop
 0.0.0.0 vintee.tech
@@ -109344,6 +109373,7 @@
 0.0.0.0 watchandadmire.com
 0.0.0.0 watche.guru
 0.0.0.0 watchedthorter.guru
+0.0.0.0 watcheraddictedpatronize.com
 0.0.0.0 watchercupboard.com
 0.0.0.0 watcherworkingbrand.com
 0.0.0.0 watchespounceinvolving.com
@@ -110804,6 +110834,7 @@
 0.0.0.0 widelyuddercancelling.com
 0.0.0.0 widene.com
 0.0.0.0 wideorganiz.xyz
+0.0.0.0 widercrustbible.com
 0.0.0.0 widerdaydream.com
 0.0.0.0 widerintentionalacquire.com
 0.0.0.0 widern.com
@@ -115276,6 +115307,8 @@
 0.0.0.0 www.cemsidomidedrug.info
 0.0.0.0 www.cendegobresib.net
 0.0.0.0 www.cenlib.iitm.ac
+0.0.0.0 www.cenneu.net
+0.0.0.0 www.cenneu.org
 0.0.0.0 www.cenrefk.com
 0.0.0.0 www.censorcolonizegreatness.com
 0.0.0.0 www.censtop.com
@@ -119041,6 +119074,7 @@
 0.0.0.0 www.grackoceesto.com
 0.0.0.0 www.graduallyassist.com
 0.0.0.0 www.graduatedgroan.com
+0.0.0.0 www.graduatedspaghettiauthorize.com
 0.0.0.0 www.grainequipgroup.com
 0.0.0.0 www.grainger.top
 0.0.0.0 www.grainsgranny.com
@@ -125295,6 +125329,7 @@
 0.0.0.0 www.semsidimid.net
 0.0.0.0 www.semsidimid.org
 0.0.0.0 www.semsidomide.com
+0.0.0.0 www.semsidomidesucks.com
 0.0.0.0 www.semsidomidesucks.info
 0.0.0.0 www.senator.am
 0.0.0.0 www.sencila.pro
