@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.107
 # Release: 107
-# Entries: 133,945
-# Updated: Tue, 16 Apr 24 00:08:50 +06
+# Entries: 133,955
+# Updated: Tue, 16 Apr 24 02:08:28 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1613,6 +1613,7 @@
 0.0.0.0 40equans.com
 0.0.0.0 40for40.us
 0.0.0.0 40maoss.com
+0.0.0.0 40walls.org
 0.0.0.0 40yearyoung.com
 0.0.0.0 41059dd7817a0f2559409bce7.xyz
 0.0.0.0 41215330300.com
@@ -4307,6 +4308,7 @@
 0.0.0.0 adaptingtova.biz
 0.0.0.0 adaptonnerve.xyz
 0.0.0.0 adaranth.com
+0.0.0.0 adareality.com
 0.0.0.0 adarechauffers.com
 0.0.0.0 adaround.net
 0.0.0.0 adarshmahila.org
@@ -7369,6 +7371,7 @@
 0.0.0.0 ambient.guru
 0.0.0.0 ambientborrowvulture.com
 0.0.0.0 ambientbubbles.com
+0.0.0.0 ambientepulito.org
 0.0.0.0 ambientesicuro.org
 0.0.0.0 ambienthorizons.com
 0.0.0.0 ambientorphans.com
@@ -24327,6 +24330,7 @@
 0.0.0.0 cribenemiesleak.com
 0.0.0.0 cribut.com
 0.0.0.0 cribwarilyintentional.com
+0.0.0.0 cricfree.se
 0.0.0.0 cricindian.com
 0.0.0.0 crick8.in.net
 0.0.0.0 crickcoach.in.net
@@ -31151,6 +31155,7 @@
 0.0.0.0 eastofthecity.com
 0.0.0.0 eastrk-dn.com
 0.0.0.0 eastrk-lg.com
+0.0.0.0 eastsidenissan.com
 0.0.0.0 easttaodenver.com
 0.0.0.0 easttexasflexspace.com
 0.0.0.0 eastwestice.com
@@ -52656,6 +52661,7 @@
 0.0.0.0 jenova.capital
 0.0.0.0 jenpharbd.com
 0.0.0.0 jenprace.tv
+0.0.0.0 jenrosenmcchesney.com
 0.0.0.0 jensencycling.com
 0.0.0.0 jensonbikeshipping.com
 0.0.0.0 jeocuvykwedrus.top
@@ -99519,6 +99525,7 @@
 0.0.0.0 thejoyofsecret.com
 0.0.0.0 thejtevtoo.com
 0.0.0.0 thejuneteenthfest.com
+0.0.0.0 thejungle.com
 0.0.0.0 thekandhorayas.org
 0.0.0.0 thekatsmeowreiki.com
 0.0.0.0 thekct.org
@@ -132850,6 +132857,7 @@
 0.0.0.0 zaphakesleigh.com
 0.0.0.0 zapimobiliaria.com
 0.0.0.0 zapinspiration.com
+0.0.0.0 zapnode.xyz
 0.0.0.0 zapojsa.tech
 0.0.0.0 zaposlitev.biz
 0.0.0.0 zappelectricvehicles.com
@@ -133414,6 +133422,7 @@
 0.0.0.0 zivijoo.com
 0.0.0.0 zivohfmh.com
 0.0.0.0 zivotnabaterky.online
+0.0.0.0 zivotvrovnovaze.org
 0.0.0.0 ziwatek.com
 0.0.0.0 ziwyduke.xyz
 0.0.0.0 ziza.actor
@@ -133729,6 +133738,7 @@
 0.0.0.0 zshyudl.com
 0.0.0.0 zsinek.com
 0.0.0.0 zsinfra.com
+0.0.0.0 zsjanazemana.online
 0.0.0.0 zskuvehuihkusp.com
 0.0.0.0 zsmart.site
 0.0.0.0 zsmmflxvkgvmcf.com
