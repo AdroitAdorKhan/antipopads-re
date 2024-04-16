@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.107
 # Release: 107
-# Entries: 134,126
-# Updated: Tue, 16 Apr 24 16:08:17 +06
+# Entries: 134,133
+# Updated: Tue, 16 Apr 24 18:08:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4272,6 +4272,7 @@
 0.0.0.0 ad127m.com
 0.0.0.0 ad2up.com
 0.0.0.0 ad4game.com
+0.0.0.0 ad4mmo.com
 0.0.0.0 ad4play.com
 0.0.0.0 ad5343645f.bcd7ad4271.com
 0.0.0.0 ad999.biz
@@ -5444,6 +5445,7 @@
 0.0.0.0 affordswear.com
 0.0.0.0 affpa.top
 0.0.0.0 affplanet.com
+0.0.0.0 affrayteaseherring.com
 0.0.0.0 affrontsoulsretire.com
 0.0.0.0 afftires.ca
 0.0.0.0 afftrack.com
@@ -18414,6 +18416,7 @@
 0.0.0.0 capturedbyjmoise.com
 0.0.0.0 capturedrequires.com
 0.0.0.0 captureleaderdigestion.com
+0.0.0.0 capturescaldsomewhat.com
 0.0.0.0 capuletbabbler.life
 0.0.0.0 capwilyunseen.com
 0.0.0.0 caqianhua.xyz
@@ -26739,6 +26742,7 @@
 0.0.0.0 defeatpercharges.com
 0.0.0.0 defeature.xyz
 0.0.0.0 defeatureother.xyz
+0.0.0.0 defectiveaskewsite.com
 0.0.0.0 defectivecanyon.com
 0.0.0.0 defectivecreaturesleftover.com
 0.0.0.0 defectpayslips.com
@@ -91714,6 +91718,7 @@
 0.0.0.0 sistercashmerebless.com
 0.0.0.0 sistercomb.com
 0.0.0.0 sisterdating-club.com
+0.0.0.0 sisterexpendabsolve.com
 0.0.0.0 sisterlockup.com
 0.0.0.0 sistersavings.net
 0.0.0.0 siswensaidoh.xyz
@@ -101003,6 +101008,7 @@
 0.0.0.0 tirebrevity.com
 0.0.0.0 tirecolloquialinterest.com
 0.0.0.0 tiredbishop.com
+0.0.0.0 tirequicker.com
 0.0.0.0 tirescymlin.com
 0.0.0.0 tiresomemuggyeagerly.com
 0.0.0.0 tiresomethunder.com
@@ -106731,6 +106737,7 @@
 0.0.0.0 v8serramenti.com
 0.0.0.0 v96-surf.com
 0.0.0.0 va-hungary.com
+0.0.0.0 va-industries.ca
 0.0.0.0 va.humuseschoicy.com
 0.0.0.0 va.spdiactin.com
 0.0.0.0 va.tehseelareolas.com
