@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.108
 # Release: 108
-# Entries: 134,332
-# Updated: Wed, 17 Apr 24 14:39:41 +06
+# Entries: 134,340
+# Updated: Wed, 17 Apr 24 16:10:32 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14886,6 +14886,7 @@
 0.0.0.0 blazexart.com
 0.0.0.0 blazingnoticewhence.com
 0.0.0.0 blazingswatstated.com
+0.0.0.0 blazonstowel.com
 0.0.0.0 blbcipojdtesem.com
 0.0.0.0 blbesnuff.digital
 0.0.0.0 blckbucket.com
@@ -58028,6 +58029,7 @@
 0.0.0.0 lbogspot.com
 0.0.0.0 lbpnnlywgbc.top
 0.0.0.0 lbrdnk.com
+0.0.0.0 lbrwebray.com
 0.0.0.0 lbsbytlru.com
 0.0.0.0 lbswotkkpry.com
 0.0.0.0 lbwfinanceira.com
@@ -61433,6 +61435,7 @@
 0.0.0.0 machinetoolsindia.co.in
 0.0.0.0 machinexcariere.com
 0.0.0.0 machinexcarriere.com
+0.0.0.0 machinexhandling.com
 0.0.0.0 machings.com
 0.0.0.0 machnamh.net
 0.0.0.0 machodongon.com
@@ -72610,6 +72613,7 @@
 0.0.0.0 onlineclubcasino.com
 0.0.0.0 onlineconcerthall.com
 0.0.0.0 onlinecrematedremains.com.au
+0.0.0.0 onlinecustomersurvey.net
 0.0.0.0 onlinecvforyou.com
 0.0.0.0 onlinedeltazone.online
 0.0.0.0 onlinedestekol.com
@@ -72995,6 +72999,7 @@
 0.0.0.0 openlyprematurerates.com
 0.0.0.0 openlysideline.com
 0.0.0.0 openmethease.com
+0.0.0.0 openmindedaching.com
 0.0.0.0 openmindter.com
 0.0.0.0 openmqtt.com
 0.0.0.0 openobjstack.com
@@ -108928,6 +108933,7 @@
 0.0.0.0 vlbyzgj.com
 0.0.0.0 vlc-media.top
 0.0.0.0 vlc-mediaplayer.top
+0.0.0.0 vlcjpeailboxbw.com
 0.0.0.0 vlcworkandlive.com
 0.0.0.0 vldlueibomhp.top
 0.0.0.0 vleaddesignservice.com
@@ -116167,6 +116173,7 @@
 0.0.0.0 www.casualtyinflate.com
 0.0.0.0 www.catalogueinfectionbarbarian.com
 0.0.0.0 www.cataloguetally.com
+0.0.0.0 www.catalys.shop
 0.0.0.0 www.cataractdisinteresteddressing.com
 0.0.0.0 www.cataractoutputprogramming.com
 0.0.0.0 www.cataracttragedy.com
@@ -122450,6 +122457,7 @@
 0.0.0.0 www.machbsd.com
 0.0.0.0 www.machineattitudeace.com
 0.0.0.0 www.machineryblunderillusive.com
+0.0.0.0 www.machinexhandling.com
 0.0.0.0 www.macrosoftware.io
 0.0.0.0 www.macsignuae.com
 0.0.0.0 www.macworld.dev
