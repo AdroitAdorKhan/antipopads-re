@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.109
 # Release: 109
-# Entries: 134,459
-# Updated: Thu, 18 Apr 24 02:41:23 +06
+# Entries: 134,460
+# Updated: Thu, 18 Apr 24 04:08:39 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -38806,6 +38806,7 @@
 0.0.0.0 franksalsastudio.com
 0.0.0.0 franquicias-de-internet.info
 0.0.0.0 fransvanpraet.site
+0.0.0.0 franticallyseizedpredicate.com
 0.0.0.0 franticallyswap.com
 0.0.0.0 franticimpenetrableflourishing.com
 0.0.0.0 franticportal.com
