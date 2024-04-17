@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.108
 # Release: 108
-# Entries: 134,330
-# Updated: Wed, 17 Apr 24 12:38:50 +06
+# Entries: 134,332
+# Updated: Wed, 17 Apr 24 14:39:41 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -21422,6 +21422,7 @@
 0.0.0.0 click-v4.globlemath.com
 0.0.0.0 click-v4.jadspro.live
 0.0.0.0 click-v4.junmediadirect1.com
+0.0.0.0 click.academy
 0.0.0.0 click.myandroid-app.com
 0.0.0.0 click.plarimocl.com
 0.0.0.0 click.pushmachine.net
@@ -89998,6 +89999,7 @@
 0.0.0.0 sentimenthypocrisy.com
 0.0.0.0 sentimentsvarious.com
 0.0.0.0 sentineldiscordmm.com
+0.0.0.0 sentinelp.com
 0.0.0.0 sentirfeelmaquillaje.com
 0.0.0.0 sentphysically.com
 0.0.0.0 sentryrfb.uno
