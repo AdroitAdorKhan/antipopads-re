@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.108
 # Release: 108
-# Entries: 134,319
-# Updated: Wed, 17 Apr 24 06:10:43 +06
+# Entries: 134,320
+# Updated: Wed, 17 Apr 24 08:08:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -64910,6 +64910,7 @@
 0.0.0.0 mkaff.com
 0.0.0.0 mkcurches.com
 0.0.0.0 mkdbpbpi.com
+0.0.0.0 mkdxyktxwgo.com
 0.0.0.0 mkeliihb.com
 0.0.0.0 mkgerustbauteam.com
 0.0.0.0 mkgiiijigxwwn.com
