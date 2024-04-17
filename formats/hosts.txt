@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.108
 # Release: 108
-# Entries: 134,318
-# Updated: Wed, 17 Apr 24 04:34:46 +06
+# Entries: 134,319
+# Updated: Wed, 17 Apr 24 06:10:43 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -104130,6 +104130,7 @@
 0.0.0.0 tvbxrr4ym3.click
 0.0.0.0 tvcqboedaka.com
 0.0.0.0 tvdbspojay.com
+0.0.0.0 tvdiptv.com
 0.0.0.0 tvdltjik.xyz
 0.0.0.0 tvebuhmqvh.com
 0.0.0.0 tvetejamjfdqb.com
