@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.110
 # Release: 110
-# Entries: 134,595
-# Updated: Fri, 19 Apr 24 00:35:05 +06
+# Entries: 134,597
+# Updated: Fri, 19 Apr 24 04:08:38 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -72995,6 +72995,7 @@
 0.0.0.0 ooloptou.net
 0.0.0.0 oolraimt.net
 0.0.0.0 oolsouch.net
+0.0.0.0 ooltakreenu.xyz
 0.0.0.0 ooltutoo.net
 0.0.0.0 oomdmptq.com
 0.0.0.0 oomgnwdmzwnxn.com
@@ -121950,6 +121951,7 @@
 0.0.0.0 www.kdukvh.com
 0.0.0.0 www.ke.business
 0.0.0.0 www.keenlingerintentional.com
+0.0.0.0 www.keephoamoaph.com
 0.0.0.0 www.keepingconcerned.com
 0.0.0.0 www.keeplifefun.shop
 0.0.0.0 www.keepsosto.com
