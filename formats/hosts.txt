@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.109
 # Release: 109
-# Entries: 134,460
-# Updated: Thu, 18 Apr 24 04:08:39 +06
+# Entries: 134,462
+# Updated: Thu, 18 Apr 24 06:08:36 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16122,6 +16122,7 @@
 0.0.0.0 bpooilslamhght.com
 0.0.0.0 bpostbnkaudit.site
 0.0.0.0 bpplkotkpduwob.com
+0.0.0.0 bppvnypgfolx.com
 0.0.0.0 bpqlelwka.com
 0.0.0.0 bprnusa.com
 0.0.0.0 bps.group
@@ -102604,6 +102605,7 @@
 0.0.0.0 tracker.webaffsolution.xyz
 0.0.0.0 tracker19875.space
 0.0.0.0 tracker2.space
+0.0.0.0 trackerrr.com
 0.0.0.0 trackerx.ru
 0.0.0.0 trackeverything.co
 0.0.0.0 trackhost.click
