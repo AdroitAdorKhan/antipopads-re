@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.109
 # Release: 109
-# Entries: 134,468
-# Updated: Thu, 18 Apr 24 08:08:23 +06
+# Entries: 134,470
+# Updated: Thu, 18 Apr 24 10:26:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -38195,6 +38195,7 @@
 0.0.0.0 foodserviceequipsolutions.net
 0.0.0.0 foodservicetea.com
 0.0.0.0 foodtresor.com
+0.0.0.0 foodyrise.com
 0.0.0.0 foogpdywvrswrxl.com
 0.0.0.0 foojimie.net
 0.0.0.0 foolish-devil.pro
@@ -67527,6 +67528,7 @@
 0.0.0.0 nabauxou.net
 0.0.0.0 nabbaseballsling.com
 0.0.0.0 nabbr.com
+0.0.0.0 nabcustomsjoe.com
 0.0.0.0 nabfkhgvbi.xyz
 0.0.0.0 nabgrocercrescent.com
 0.0.0.0 nabicbh.com
