@@ -20,8 +20,8 @@
 ! Version: 24.04.109
 ! Release: 109
 ! Expires: 1 day
-! Entries: 134,484
-! Updated: Thu, 18 Apr 24 16:11:54 +06
+! Entries: 134,485
+! Updated: Thu, 18 Apr 24 18:30:52 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -102908,6 +102908,7 @@
 ||translate-action.com^
 ||translatecorrecthols.com^
 ||translatingimport.com^
+||translatingreport.com^
 ||translationbuddy.com^
 ||translationerrandviolin.com^
 ||translejend.com^
