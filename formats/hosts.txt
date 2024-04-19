@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.110
 # Release: 110
-# Entries: 134,611
-# Updated: Fri, 19 Apr 24 16:35:22 +06
+# Entries: 134,612
+# Updated: Fri, 19 Apr 24 18:08:29 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -25373,6 +25373,7 @@
 0.0.0.0 cxfhfgjeanicw.com
 0.0.0.0 cxfrmhsj.com
 0.0.0.0 cxglkwdchsmalvl.com
+0.0.0.0 cxgneqyaox.com
 0.0.0.0 cxgnymgd.xyz
 0.0.0.0 cxgrwhatyiwotsv.com
 0.0.0.0 cxhqpbwmyfskzt.com
