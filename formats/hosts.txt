@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.110
 # Release: 110
-# Entries: 134,607
-# Updated: Fri, 19 Apr 24 14:08:12 +06
+# Entries: 134,611
+# Updated: Fri, 19 Apr 24 16:35:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3859,6 +3859,7 @@
 0.0.0.0 acceptabletally.com
 0.0.0.0 acceptdeny.com
 0.0.0.0 acceptedregionsdispose.com
+0.0.0.0 acceptimpatient.com
 0.0.0.0 acceptmyinvoice.net
 0.0.0.0 access-ideafactory.com
 0.0.0.0 access-mc.com
@@ -4802,6 +4803,7 @@
 0.0.0.0 adright.xml.ak-is2.net
 0.0.0.0 adrkspf.com
 0.0.0.0 adro.pro
+0.0.0.0 adroitdeceitcongestion.com
 0.0.0.0 adroitlegion.org
 0.0.0.0 adroitontoconstraint.com
 0.0.0.0 adrokt.com
@@ -57801,6 +57803,7 @@
 0.0.0.0 lapypushistyye.com
 0.0.0.0 laq940.com
 0.0.0.0 laqddcc.com
+0.0.0.0 laqdkvjtjb.com
 0.0.0.0 laqixtkqpfax.com
 0.0.0.0 laqmoejhc.xyz
 0.0.0.0 laquearhokan.com
@@ -70823,6 +70826,7 @@
 0.0.0.0 nuphizarrafw.com
 0.0.0.0 nuphlopumps.com
 0.0.0.0 nupjzylhequ.com
+0.0.0.0 nurcghihmec.com
 0.0.0.0 nurenterprise.co
 0.0.0.0 nurewsawan.org
 0.0.0.0 nurewsawaninc.info
