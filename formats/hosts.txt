@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.110
 # Release: 110
-# Entries: 134,600
-# Updated: Fri, 19 Apr 24 06:08:42 +06
+# Entries: 134,602
+# Updated: Fri, 19 Apr 24 08:34:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -82720,6 +82720,7 @@
 0.0.0.0 qucireideauxdw.xyz
 0.0.0.0 qucuba.com
 0.0.0.0 qucvhtxw.com
+0.0.0.0 qucyqprplarw.com
 0.0.0.0 qudidm.net
 0.0.0.0 qudklsxu.com
 0.0.0.0 queachhjp.com
@@ -108027,6 +108028,7 @@
 0.0.0.0 veronikastadnyk.xyz
 0.0.0.0 verooperofthewo.com
 0.0.0.0 verossartesana.info
+0.0.0.0 verramail.ca
 0.0.0.0 verrippleshi.info
 0.0.0.0 verrydigeny.life
 0.0.0.0 versacepro.ru
