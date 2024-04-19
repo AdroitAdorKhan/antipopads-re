@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.111
 # Release: 111
-# Entries: 134,749
-# Updated: Sat, 20 Apr 24 02:08:18 +06
+# Entries: 134,751
+# Updated: Sat, 20 Apr 24 04:08:35 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3907,6 +3907,7 @@
 0.0.0.0 accompanycollapse.com
 0.0.0.0 accompanydope.com
 0.0.0.0 accompanyingjean.com
+0.0.0.0 accomplicemiracle.com
 0.0.0.0 accomplicepeach.com
 0.0.0.0 accomplishedacquaintedbungalow.com
 0.0.0.0 accomplishedgradual.com
@@ -109643,6 +109644,7 @@
 0.0.0.0 vouglftxohkcuu.com
 0.0.0.0 vougreph.net
 0.0.0.0 voujaizy.xyz
+0.0.0.0 voukaudeeph.net
 0.0.0.0 voull.net
 0.0.0.0 vounaipu.net
 0.0.0.0 vounesto.com
