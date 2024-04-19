@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.110
 # Release: 110
-# Entries: 134,602
-# Updated: Fri, 19 Apr 24 08:34:23 +06
+# Entries: 134,604
+# Updated: Fri, 19 Apr 24 10:08:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -48475,6 +48475,7 @@
 0.0.0.0 iadoremakingpics.com
 0.0.0.0 iadqelgjcmgnvy.com
 0.0.0.0 iaeconference.com
+0.0.0.0 iaeokajfyptsrv.com
 0.0.0.0 iaff2585.org
 0.0.0.0 iafzgvam.com
 0.0.0.0 iageandinone.com
@@ -105798,6 +105799,7 @@
 0.0.0.0 unif.us
 0.0.0.0 unifatechnologies.com
 0.0.0.0 unifclothing.us
+0.0.0.0 unificx.com
 0.0.0.0 unifiedaccessmanagement.com
 0.0.0.0 unifini.de
 0.0.0.0 uniforacl.ca
