@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.04.111
-# Release: 111
-# Entries: 134,782
-# Updated: Sat, 20 Apr 24 22:08:31 +06
+# Version: 24.04.112
+# Release: 112
+# Entries: 134,798
+# Updated: Sun, 21 Apr 24 00:34:19 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6407,6 +6407,7 @@
 0.0.0.0 ak9058.com
 0.0.0.0 aka-test-garagiste.com
 0.0.0.0 akaiksots.com
+0.0.0.0 akankshavidyapeeth.com
 0.0.0.0 akarospool.com
 0.0.0.0 akasa.digital
 0.0.0.0 akash29.xyz
@@ -14612,6 +14613,7 @@
 0.0.0.0 bitcoinmillionaireapp.info
 0.0.0.0 bitcoinovyportal.com
 0.0.0.0 bitcoins-code.com
+0.0.0.0 bitcoinsantander.com
 0.0.0.0 bitcoinselangor.com
 0.0.0.0 bitcoinshashes.xyz
 0.0.0.0 bitcoinsintocash.com
@@ -18956,6 +18958,7 @@
 0.0.0.0 castillone.com
 0.0.0.0 castingmannergrim.com
 0.0.0.0 castingsgiron.com
+0.0.0.0 castlecharters.com
 0.0.0.0 castlehodgii.com
 0.0.0.0 castlehomeinspectionsstl.com
 0.0.0.0 castleneer.com
@@ -21576,6 +21579,7 @@
 0.0.0.0 clientit.com
 0.0.0.0 clientlimit.com
 0.0.0.0 clientoutcry.com
+0.0.0.0 clientremotes.com
 0.0.0.0 clientscordial.com
 0.0.0.0 clientsedgebenefits.com
 0.0.0.0 clientsedgefamilyadvisors.com
@@ -22438,6 +22442,7 @@
 0.0.0.0 colognerelish.com
 0.0.0.0 cologu.com
 0.0.0.0 colomapp.com
+0.0.0.0 colombiaentry.com
 0.0.0.0 colombomyeloid.live
 0.0.0.0 colomboyees.com
 0.0.0.0 colonave.com
@@ -26450,6 +26455,7 @@
 0.0.0.0 dcpowergroup.ca
 0.0.0.0 dcreator.tech
 0.0.0.0 dcrms.org
+0.0.0.0 dcsfi.org
 0.0.0.0 dcskaler.co.in
 0.0.0.0 dctipshax.xyz
 0.0.0.0 dctnlfflgkewhkc.com
@@ -33683,6 +33689,10 @@
 0.0.0.0 eombyspell.uno
 0.0.0.0 eomcuaxdjyhpwwa.com
 0.0.0.0 eomeijcmwgisxh.com
+0.0.0.0 eon-construction.com
+0.0.0.0 eon-homes.com
+0.0.0.0 eon.builders
+0.0.0.0 eon.construction
 0.0.0.0 eondmobile.org
 0.0.0.0 eondunpea.com
 0.0.0.0 eoneenergy.com
@@ -50186,6 +50196,7 @@
 0.0.0.0 inertimpuredeadlock.com
 0.0.0.0 inertquickerinsert.com
 0.0.0.0 ines-raabe.net
+0.0.0.0 inessentials.net
 0.0.0.0 inestimableloiteringextortion.com
 0.0.0.0 inestimabletrifling.com
 0.0.0.0 inet.tips
@@ -57459,6 +57470,7 @@
 0.0.0.0 labelfeethopper.com
 0.0.0.0 labelhangtag.com
 0.0.0.0 labellafigura.design
+0.0.0.0 labelsandfables.com
 0.0.0.0 labelstallage.space
 0.0.0.0 labeyond.org
 0.0.0.0 labfinger.com
@@ -59712,6 +59724,7 @@
 0.0.0.0 litterwithholdhurricane.com
 0.0.0.0 littlealchemydude.com
 0.0.0.0 littlebaddee.com
+0.0.0.0 littlebiggy.site
 0.0.0.0 littlebigtalltales.com
 0.0.0.0 littlecdn.com
 0.0.0.0 littlecutecats.com
@@ -74541,6 +74554,7 @@
 0.0.0.0 owwogmlidz.com
 0.0.0.0 owwqacrfi.com
 0.0.0.0 owxanjxlxtfbjw.com
+0.0.0.0 owyhnatpgjlphd.com
 0.0.0.0 owyvqgudkcxdl.top
 0.0.0.0 ox4h1dk85.com
 0.0.0.0 oxado.com
@@ -99926,6 +99940,8 @@
 0.0.0.0 thecarshoppe.in
 0.0.0.0 thecarukgroup.com
 0.0.0.0 thecarvalho.com
+0.0.0.0 thecastleclan.com
+0.0.0.0 thecastleclan.ltd
 0.0.0.0 thecatchpartners.com
 0.0.0.0 thecaydennaples.com
 0.0.0.0 thecc.rocks
