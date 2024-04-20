@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.112
 # Release: 112
-# Entries: 134,798
-# Updated: Sun, 21 Apr 24 00:34:19 +06
+# Entries: 134,800
+# Updated: Sun, 21 Apr 24 02:08:13 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -107382,6 +107382,7 @@
 0.0.0.0 vaemfecqllefj.xyz
 0.0.0.0 vaeret.info
 0.0.0.0 vafle.online
+0.0.0.0 vafumjvrvjcup.com
 0.0.0.0 vafyhlysqabwvde.xyz
 0.0.0.0 vagabondinteriors.com
 0.0.0.0 vagaifoundation.org
@@ -127507,6 +127508,7 @@
 0.0.0.0 www.staffsumptuouscovetous.com
 0.0.0.0 www.stageclasp.com
 0.0.0.0 www.stagetortoiseinfatuated.com
+0.0.0.0 www.staggeredquelldressed.com
 0.0.0.0 www.staggeredravehospitality.com
 0.0.0.0 www.staggerment.com
 0.0.0.0 www.staiftee.com
