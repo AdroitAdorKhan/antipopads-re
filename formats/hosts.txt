@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.112
 # Release: 112
-# Entries: 134,819
-# Updated: Sun, 21 Apr 24 12:08:13 +06
+# Entries: 134,821
+# Updated: Sun, 21 Apr 24 14:08:14 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -17388,6 +17388,7 @@
 0.0.0.0 burmashave.us
 0.0.0.0 burnishedev.com
 0.0.0.0 burnliaisonafraid.com
+0.0.0.0 burnmoronexasperate.com
 0.0.0.0 burnoffendedconfinement.com
 0.0.0.0 burnoutheroes.com
 0.0.0.0 burnsideplantltd.uk
@@ -71761,6 +71762,7 @@
 0.0.0.0 odishafm.in
 0.0.0.0 odiumdrawlip.com
 0.0.0.0 odjrepabdwowyn.com
+0.0.0.0 odjweddfuh.com
 0.0.0.0 odkfzmwfkjgzag.com
 0.0.0.0 odkup-avtomobila.com
 0.0.0.0 odlnvecu.com
