@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.112
 # Release: 112
-# Entries: 134,825
-# Updated: Sun, 21 Apr 24 16:32:53 +06
+# Entries: 134,833
+# Updated: Sun, 21 Apr 24 18:08:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -60340,6 +60340,7 @@
 0.0.0.0 logpile-studio.co.uk
 0.0.0.0 logscardiac.com
 0.0.0.0 logsgroupknew.com
+0.0.0.0 logshort.xyz
 0.0.0.0 logtransconsult.store
 0.0.0.0 logvalve.com
 0.0.0.0 logwaysupdraw.guru
@@ -77609,6 +77610,7 @@
 0.0.0.0 pipsol.net
 0.0.0.0 pipwcdjglcsqifb.com
 0.0.0.0 piqarde.com
+0.0.0.0 piql-me.com
 0.0.0.0 piqnjwkj.com
 0.0.0.0 piquantstove.com
 0.0.0.0 piqueendogen.com
@@ -83063,6 +83065,7 @@
 0.0.0.0 qusfbuogks.xyz
 0.0.0.0 qusfmaxgfa.xyz
 0.0.0.0 qusibaaiwangxue.com
+0.0.0.0 qutzljcrj.com
 0.0.0.0 quupvsrsuqo.com
 0.0.0.0 quvn.tech
 0.0.0.0 quwbuqeqx.com
@@ -85614,6 +85617,7 @@
 0.0.0.0 retargeter.com
 0.0.0.0 retauwhu.com
 0.0.0.0 retavase.org
+0.0.0.0 retaxenteron.top
 0.0.0.0 retazove-pily.info
 0.0.0.0 retdbushtit.website
 0.0.0.0 retence.com
@@ -87240,6 +87244,7 @@
 0.0.0.0 rpersonals.com
 0.0.0.0 rpetmaterial.com
 0.0.0.0 rpfcooaebxuo.com
+0.0.0.0 rpfytkt.com
 0.0.0.0 rpglnkzetasnh.com
 0.0.0.0 rpgwqlsjhse.xyz
 0.0.0.0 rphbjkpliohx.com
@@ -101536,6 +101541,7 @@
 0.0.0.0 tiokloineutat.com
 0.0.0.0 tionakasulbac.net
 0.0.0.0 tionandas.com
+0.0.0.0 tionforeathyoug.info
 0.0.0.0 tionininanceena.info
 0.0.0.0 tiotyuknsyen.org
 0.0.0.0 tipcatscarola.com
@@ -107924,6 +107930,7 @@
 0.0.0.0 vebadu.com
 0.0.0.0 vebonix.solutions
 0.0.0.0 vecerka.net
+0.0.0.0 vecohgmpl.info
 0.0.0.0 vectisruntier.top
 0.0.0.0 vectorhdd.com
 0.0.0.0 vectorpharmarussia.com
@@ -124934,6 +124941,7 @@
 0.0.0.0 www.pipedealership.com
 0.0.0.0 www.pipeofferear.com
 0.0.0.0 www.pipeoverwhelm.com
+0.0.0.0 www.piql-me.com
 0.0.0.0 www.piqnjwkj.com
 0.0.0.0 www.piratedivide.com
 0.0.0.0 www.piratespartynft.xyz
