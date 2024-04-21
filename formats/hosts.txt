@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.112
 # Release: 112
-# Entries: 134,897
-# Updated: Sun, 21 Apr 24 20:08:26 +06
+# Entries: 134,900
+# Updated: Sun, 21 Apr 24 22:08:14 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -37353,6 +37353,7 @@
 0.0.0.0 firstaffiliatedholdings.ca
 0.0.0.0 firstaffiliatedholdings.com
 0.0.0.0 firstappad.me
+0.0.0.0 firstbytedns.com
 0.0.0.0 firstcitizensbanc.com
 0.0.0.0 firstclass-download.com
 0.0.0.0 firstclassgymnastics.com
@@ -82546,6 +82547,7 @@
 0.0.0.0 qmorindia.com
 0.0.0.0 qmoytmfeentd.xyz
 0.0.0.0 qmpnlaxehl.com
+0.0.0.0 qmqnnovstcdblm.com
 0.0.0.0 qmrfcnhaoyxv.com
 0.0.0.0 qmsdrghcxb.com
 0.0.0.0 qmslojptnngwybu.com
@@ -125456,6 +125458,7 @@
 0.0.0.0 www.proclaimincurable.com
 0.0.0.0 www.proclamationgumadvocate.com
 0.0.0.0 www.procuratorfontfireplace.com
+0.0.0.0 www.procuratorthoroughlycompere.com
 0.0.0.0 www.prodigiousarticulateruffian.com
 0.0.0.0 www.prodigiouseducation.com
 0.0.0.0 www.prodigiousutmostwould.com
