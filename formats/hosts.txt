@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.112
 # Release: 112
-# Entries: 134,812
-# Updated: Sun, 21 Apr 24 06:08:38 +06
+# Entries: 134,814
+# Updated: Sun, 21 Apr 24 08:32:58 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -60570,6 +60570,7 @@
 0.0.0.0 loserclub.biz
 0.0.0.0 losercurt.com
 0.0.0.0 loserwentsignify.com
+0.0.0.0 losespiritsdiscord.com
 0.0.0.0 loshaubs.com
 0.0.0.0 loshrhaphae.com
 0.0.0.0 losingfoundation.com
@@ -96427,6 +96428,7 @@
 0.0.0.0 sub.pushmeup.art
 0.0.0.0 subaadds.com
 0.0.0.0 subadhinam.com
+0.0.0.0 subaruprofessional.com
 0.0.0.0 subasebmedia.com
 0.0.0.0 subbandapodan.top
 0.0.0.0 subbedlugger.guru
