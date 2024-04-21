@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.112
 # Release: 112
-# Entries: 134,814
-# Updated: Sun, 21 Apr 24 08:32:58 +06
+# Entries: 134,819
+# Updated: Sun, 21 Apr 24 12:08:13 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1517,6 +1517,7 @@
 0.0.0.0 3e8f80994d.com
 0.0.0.0 3eb315e3eb.964e7c340a.com
 0.0.0.0 3ef8a8d533.f57fbf2b51.com
+0.0.0.0 3eib.ee
 0.0.0.0 3elements.asia
 0.0.0.0 3faz7cskcya.com
 0.0.0.0 3g25ko2.de
@@ -42139,6 +42140,7 @@
 0.0.0.0 gmkxcobeevc.com
 0.0.0.0 gml-grp.com
 0.0.0.0 gmlebdifvxzzl.com
+0.0.0.0 gmlingxijfy.com
 0.0.0.0 gmltiiu.com
 0.0.0.0 gmmcerkkja.com
 0.0.0.0 gmmmerch.com
@@ -49368,6 +49370,7 @@
 0.0.0.0 ilcdamnqtpem.com
 0.0.0.0 ilcfjdtksmqtka.com
 0.0.0.0 ildgubgw.com
+0.0.0.0 ildilmayq.com
 0.0.0.0 ildwicqrqazgjz.com
 0.0.0.0 ileacfaretta.digital
 0.0.0.0 ilealscathes.com
@@ -100847,6 +100850,7 @@
 0.0.0.0 thigi.com
 0.0.0.0 thikraik.net
 0.0.0.0 thikreept.com
+0.0.0.0 thilmany.llc
 0.0.0.0 thilsaig.xyz
 0.0.0.0 thimbledisappearance.com
 0.0.0.0 thin-hold.pro
@@ -116329,6 +116333,7 @@
 0.0.0.0 www.bufedr.com
 0.0.0.0 www.buffaloexemptdropped.com
 0.0.0.0 www.buffetaha.com
+0.0.0.0 www.buffethypothesis.com
 0.0.0.0 www.bugstractorbring.com
 0.0.0.0 www.buieslanding.com
 0.0.0.0 www.build2growmasterclass.com
