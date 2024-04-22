@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.113
 # Release: 113
-# Entries: 135,038
-# Updated: Mon, 22 Apr 24 08:33:42 +06
+# Entries: 135,039
+# Updated: Mon, 22 Apr 24 10:08:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -1606,6 +1606,7 @@
 :: 4-floorz.com
 :: 4-interads.com
 :: 400995.comwww.677555.com
+:: 400hefei.com
 :: 4026.comwww.900hk.com
 :: 4037.wf
 :: 404notfounds.xyz
