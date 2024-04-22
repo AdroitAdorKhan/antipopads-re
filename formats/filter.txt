@@ -20,8 +20,8 @@
 ! Version: 24.04.113
 ! Release: 113
 ! Expires: 1 day
-! Entries: 135,039
-! Updated: Mon, 22 Apr 24 10:08:22 +06
+! Entries: 135,040
+! Updated: Mon, 22 Apr 24 12:08:20 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -19731,6 +19731,7 @@
 ||cermmi.online^
 ||cernerasp-build-lsbuild.com^
 ||cerny.tech^
+||ceronet.ro^
 ||cerosync.com^
 ||cerousfirmest.com^
 ||cerrajeroalhaurindelatorre.net^

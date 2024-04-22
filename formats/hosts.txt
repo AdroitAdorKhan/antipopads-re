@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.113
 # Release: 113
-# Entries: 135,039
-# Updated: Mon, 22 Apr 24 10:08:22 +06
+# Entries: 135,040
+# Updated: Mon, 22 Apr 24 12:08:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19730,6 +19730,7 @@
 0.0.0.0 cermmi.online
 0.0.0.0 cernerasp-build-lsbuild.com
 0.0.0.0 cerny.tech
+0.0.0.0 ceronet.ro
 0.0.0.0 cerosync.com
 0.0.0.0 cerousfirmest.com
 0.0.0.0 cerrajeroalhaurindelatorre.net
