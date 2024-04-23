@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.114
 # Release: 114
-# Entries: 135,416
-# Updated: Tue, 23 Apr 24 10:08:27 +06
+# Entries: 135,419
+# Updated: Tue, 23 Apr 24 12:08:13 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -54667,6 +54667,7 @@
 0.0.0.0 jukopla.top
 0.0.0.0 jukseeng.net
 0.0.0.0 juktadhara.com
+0.0.0.0 jukulree.xyz
 0.0.0.0 jukxmvmaiiy.com
 0.0.0.0 jul507.com
 0.0.0.0 julbhzbwhcivj.com
@@ -84179,6 +84180,7 @@
 0.0.0.0 rarbgtorrents.org
 0.0.0.0 rarbgunblock.com
 0.0.0.0 rarbgunblock.org
+0.0.0.0 rarbgunblocked.org
 0.0.0.0 rarbgweb.org
 0.0.0.0 rarechats.blog
 0.0.0.0 rarecruises.com
@@ -126435,6 +126437,7 @@
 0.0.0.0 www.readerduckreflected.com
 0.0.0.0 www.readinglearnedintimidating.com
 0.0.0.0 www.readitseeit.net
+0.0.0.0 www.readme-ch.net
 0.0.0.0 www.readyblossomsuccesses.com
 0.0.0.0 www.readydolphinpoverty.com
 0.0.0.0 www.readyvengeance.com
