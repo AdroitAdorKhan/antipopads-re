@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.114
 # Release: 114
-# Entries: 135,419
-# Updated: Tue, 23 Apr 24 12:08:13 +06
+# Entries: 135,422
+# Updated: Tue, 23 Apr 24 14:37:59 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -39481,6 +39481,7 @@
 0.0.0.0 frooter.xyz
 0.0.0.0 frostandmiller.com
 0.0.0.0 frostbannk.com
+0.0.0.0 frostplacard.com
 0.0.0.0 frostscanty.com
 0.0.0.0 frostyonce.com
 0.0.0.0 frostyrocket.fun
@@ -39668,6 +39669,7 @@
 0.0.0.0 fudginghoners.com
 0.0.0.0 fudsrakh.com
 0.0.0.0 fuego.pro
+0.0.0.0 fuelburns.com
 0.0.0.0 fuelcathine.top
 0.0.0.0 fuelcompatibleblaspheme.com
 0.0.0.0 fueliedave.com
@@ -48791,6 +48793,7 @@
 0.0.0.0 i8bco.com
 0.0.0.0 i8gcbhje2.com
 0.0.0.0 i8xkjci7nd.com
+0.0.0.0 i8y156.com
 0.0.0.0 i9.cmail19.com
 0.0.0.0 i9.log.br
 0.0.0.0 i99i.org
