@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.115
 # Release: 115
-# Entries: 135,649
-# Updated: Wed, 24 Apr 24 10:08:12 +06
+# Entries: 135,654
+# Updated: Wed, 24 Apr 24 12:08:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3329,6 +3329,7 @@
 0.0.0.0 aakashaieee.com
 0.0.0.0 aakashgangaacademy.in.net
 0.0.0.0 aakashicampus.com
+0.0.0.0 aakashisp.com
 0.0.0.0 aakhrisafar.com
 0.0.0.0 aalamartex.com
 0.0.0.0 aalawrjgamoeofv.com
@@ -24754,6 +24755,7 @@
 0.0.0.0 crocopop.com
 0.0.0.0 crocsodealership.com
 0.0.0.0 crocsoutletuk.net
+0.0.0.0 crodasgfac.sg
 0.0.0.0 croissance-ontario.com
 0.0.0.0 croissanceontario.com
 0.0.0.0 crombiefamily.com
@@ -26768,6 +26770,7 @@
 0.0.0.0 dearcarvedclimb.com
 0.0.0.0 dearehontish.space
 0.0.0.0 dearestastray.com
+0.0.0.0 dearesthydrogen.com
 0.0.0.0 dearestimmortality.com
 0.0.0.0 dearfiring.com
 0.0.0.0 deargfdsnx.xyz
@@ -30102,6 +30105,7 @@
 0.0.0.0 downtownwrestling.ca
 0.0.0.0 downtransmitter.com
 0.0.0.0 downwardyoungest.com
+0.0.0.0 downypiece.com
 0.0.0.0 downywrenchforemost.com
 0.0.0.0 downzoner.xyz
 0.0.0.0 dowrylatest.com
@@ -110243,6 +110247,7 @@
 0.0.0.0 voathujo.top
 0.0.0.0 voavadou.com
 0.0.0.0 voawbugcy.com
+0.0.0.0 voax.com.br
 0.0.0.0 voazaube.net
 0.0.0.0 vobisprewash.website
 0.0.0.0 voc-celje.com
