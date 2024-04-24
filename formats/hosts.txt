@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.115
 # Release: 115
-# Entries: 135,664
-# Updated: Wed, 24 Apr 24 18:08:43 +06
+# Entries: 135,675
+# Updated: Wed, 24 Apr 24 20:08:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2255,6 +2255,7 @@
 0.0.0.0 666bbh.com
 0.0.0.0 666jdb.app
 0.0.0.0 666sss.com
+0.0.0.0 667.in
 0.0.0.0 6671.wf
 0.0.0.0 66989.comwww.844644.com
 0.0.0.0 6699acg.com
@@ -4618,6 +4619,7 @@
 0.0.0.0 adlook.net
 0.0.0.0 adlserq.com
 0.0.0.0 adlure.net
+0.0.0.0 adm-service.org
 0.0.0.0 admachina.com
 0.0.0.0 admamsterdam.net
 0.0.0.0 admamsterdam.org
@@ -4972,6 +4974,7 @@
 0.0.0.0 adsstrike.pro
 0.0.0.0 adstarget.net
 0.0.0.0 adstargets.com
+0.0.0.0 adstean.com
 0.0.0.0 adstico.io
 0.0.0.0 adstook.com
 0.0.0.0 adstracker.info
@@ -46730,6 +46733,7 @@
 0.0.0.0 hindicomputer.com
 0.0.0.0 hindidelight.in
 0.0.0.0 hindmetalcraft.com
+0.0.0.0 hindranceretort.com
 0.0.0.0 hindsightchampagne.com
 0.0.0.0 hinducouncil.in
 0.0.0.0 hindumantra.in
@@ -50580,6 +50584,7 @@
 0.0.0.0 infactconsulting.co.uk
 0.0.0.0 infamouslimit.pro
 0.0.0.0 infamousskullz.com
+0.0.0.0 infamousyoungster.com
 0.0.0.0 infancymatters.org
 0.0.0.0 infansmikir.tech
 0.0.0.0 infantrycutting.com
@@ -86491,6 +86496,7 @@
 0.0.0.0 rgbxxawm.xyz
 0.0.0.0 rgclips.com
 0.0.0.0 rgcxmzrmcvbxem.com
+0.0.0.0 rgddist.com
 0.0.0.0 rgedjdciukc.com
 0.0.0.0 rgentncqm.com
 0.0.0.0 rgentssep.xyz
@@ -91128,6 +91134,7 @@
 0.0.0.0 serversoursmiling.com
 0.0.0.0 serverssignshigher.com
 0.0.0.0 serververwaltung.jetzt
+0.0.0.0 servetean.site
 0.0.0.0 servetraff.com
 0.0.0.0 servg1.net
 0.0.0.0 service-3adc4a.net
@@ -110541,6 +110548,7 @@
 0.0.0.0 vptzqnjwguap.com
 0.0.0.0 vpumfeghiall.com
 0.0.0.0 vpwhhtpwhmd.com
+0.0.0.0 vpwyehsh.com
 0.0.0.0 vpylcxggepywaka.com
 0.0.0.0 vq-terpaije.com
 0.0.0.0 vq.bevorbrimly.com
@@ -112771,6 +112779,7 @@
 0.0.0.0 whitengoldfashions.uk.com
 0.0.0.0 whitenoisenews.com
 0.0.0.0 whiteoakranchhoa.com
+0.0.0.0 whitepark9.com
 0.0.0.0 whitequoted.com
 0.0.0.0 whiter4bbit.com
 0.0.0.0 whitetigeryoga.com
@@ -112994,6 +113003,7 @@
 0.0.0.0 wiela-kig.com
 0.0.0.0 wieldopdealer.com
 0.0.0.0 wiesbaden-taxi.com
+0.0.0.0 wifegraduallyclank.com
 0.0.0.0 wifeisbitch.com
 0.0.0.0 wifescamara.click
 0.0.0.0 wifeverticallywoodland.com
@@ -135588,6 +135598,7 @@
 0.0.0.0 zvrvwpcqweiwhm.com
 0.0.0.0 zvuky.online
 0.0.0.0 zvwhrc.com
+0.0.0.0 zvyfblpwmtyj.com
 0.0.0.0 zw.antasmalarky.com
 0.0.0.0 zw.callerdumka.com
 0.0.0.0 zwaar.net
