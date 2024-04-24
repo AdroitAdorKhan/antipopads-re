@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.115
 # Release: 115
-# Entries: 135,660
-# Updated: Wed, 24 Apr 24 14:40:40 +06
+# Entries: 135,662
+# Updated: Wed, 24 Apr 24 16:08:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -98382,6 +98382,7 @@
 0.0.0.0 syllabusrecipientreliable.com
 0.0.0.0 syllin.com
 0.0.0.0 sylphschanged.life
+0.0.0.0 syltfvcaa.com
 0.0.0.0 sylvatealonely.com
 0.0.0.0 sylviapettah.com
 0.0.0.0 sylxisys.com
@@ -112672,6 +112673,7 @@
 0.0.0.0 whgvhfnamomp.com
 0.0.0.0 whiboubs.com
 0.0.0.0 whiceega.com
+0.0.0.0 whichcrisp.com
 0.0.0.0 whicheverdestroyerjacket.com
 0.0.0.0 whicki.com
 0.0.0.0 whicus.com
