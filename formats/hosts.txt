@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.115
 # Release: 115
-# Entries: 135,662
-# Updated: Wed, 24 Apr 24 16:08:18 +06
+# Entries: 135,664
+# Updated: Wed, 24 Apr 24 18:08:43 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -97455,6 +97455,7 @@
 0.0.0.0 sundaeekphore.life
 0.0.0.0 sundancerreferred.com
 0.0.0.0 sundanime.com
+0.0.0.0 sundar-resort.com
 0.0.0.0 sundayceremonytitanic.com
 0.0.0.0 sundaysale.app
 0.0.0.0 sundaysale.in
@@ -135655,6 +135656,7 @@
 0.0.0.0 zypenetwork.com
 0.0.0.0 zypions.com
 0.0.0.0 zypneos.com
+0.0.0.0 zypwvyruq.com
 0.0.0.0 zypy2h6rgfux.com
 0.0.0.0 zyqweovbaaz.com
 0.0.0.0 zythnjeykcuscg.com
