@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.115
 # Release: 115
-# Entries: 135,643
-# Updated: Wed, 24 Apr 24 06:39:23 +06
+# Entries: 135,644
+# Updated: Wed, 24 Apr 24 08:08:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -41882,6 +41882,7 @@
 0.0.0.0 gjfeblixctsojx.xyz
 0.0.0.0 gjffrtfkhf.xyz
 0.0.0.0 gjfzdihq.com
+0.0.0.0 gjgbgszniq.com
 0.0.0.0 gjgnawubr.com
 0.0.0.0 gjhksxthokyjlm.com
 0.0.0.0 gjigle.com
