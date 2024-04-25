@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.117
 # Release: 117
-# Entries: 136,134
-# Updated: Fri, 26 Apr 24 02:08:36 +06
+# Entries: 136,136
+# Updated: Fri, 26 Apr 24 04:35:19 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -75471,6 +75471,7 @@
 0.0.0.0 oyoperseduca.com
 0.0.0.0 oyovlpdskqlwxwv.com
 0.0.0.0 oypucuqsuwabnxy.com
+0.0.0.0 oysterbywordwishful.com
 0.0.0.0 oysterexhalereview.com
 0.0.0.0 oysterfoxfoe.com
 0.0.0.0 oysterscoldtiny.com
@@ -111778,6 +111779,7 @@
 0.0.0.0 wantsomenews.com
 0.0.0.0 wantsstruckhall.com
 0.0.0.0 wao1.net
+0.0.0.0 waoacfdztgg.com
 0.0.0.0 wap-zfzf.net
 0.0.0.0 wapatomktg.live
 0.0.0.0 wapbaze.com
