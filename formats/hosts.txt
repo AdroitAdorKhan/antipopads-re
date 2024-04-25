@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.116
 # Release: 116
-# Entries: 135,878
-# Updated: Thu, 25 Apr 24 08:08:08 +06
+# Entries: 135,881
+# Updated: Thu, 25 Apr 24 10:08:14 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4718,6 +4718,7 @@
 0.0.0.0 adoaconference.ca
 0.0.0.0 adobe.com.www.sterenwifi.com
 0.0.0.0 adobecefefqms.net
+0.0.0.0 adobedrm.com
 0.0.0.0 adocean.pl
 0.0.0.0 adofintech.com
 0.0.0.0 adohana.com
@@ -48236,6 +48237,7 @@
 0.0.0.0 hsenhiqeopk.com
 0.0.0.0 hseyphtkd.xyz
 0.0.0.0 hsgroupcz.com
+0.0.0.0 hshsadtemp.org
 0.0.0.0 hsi.co
 0.0.0.0 hsivmlsgs.xyz
 0.0.0.0 hsjjduuean.xyz
@@ -111143,6 +111145,7 @@
 0.0.0.0 vxsxjsuul.com
 0.0.0.0 vxtkwshsmmnxaeg.com
 0.0.0.0 vxtlcqmfowxh.com
+0.0.0.0 vxuwqwyuwzmn.com
 0.0.0.0 vxvjgsgqyee.com
 0.0.0.0 vxvnmlaytuy.top
 0.0.0.0 vxvootaqvugx.com
