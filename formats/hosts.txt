@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.116
 # Release: 116
-# Entries: 135,962
-# Updated: Thu, 25 Apr 24 14:10:37 +06
+# Entries: 135,965
+# Updated: Thu, 25 Apr 24 16:08:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -35292,6 +35292,7 @@
 0.0.0.0 excavatoralliance.com
 0.0.0.0 excavatorawfullyclaims.com
 0.0.0.0 excavatorglide.com
+0.0.0.0 excavatorregards.com
 0.0.0.0 exceedinglydiscovered.com
 0.0.0.0 exceedmultisport.com
 0.0.0.0 exceldatepicker.com
@@ -42955,6 +42956,7 @@
 0.0.0.0 goholttjth.com
 0.0.0.0 gohznbe.com
 0.0.0.0 goict.cloud
+0.0.0.0 goilpay.com
 0.0.0.0 goined.com
 0.0.0.0 goinformer.com
 0.0.0.0 going.app.br
@@ -121486,6 +121488,7 @@
 0.0.0.0 www.gogggg.com
 0.0.0.0 www.gogletagsmanager.com
 0.0.0.0 www.gogogle.org
+0.0.0.0 www.goilpay.com
 0.0.0.0 www.goingbicyclepolitically.com
 0.0.0.0 www.golanmildred.com
 0.0.0.0 www.goldendefault.com
