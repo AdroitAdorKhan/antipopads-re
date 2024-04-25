@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.116
 # Release: 116
-# Entries: 135,936
-# Updated: Thu, 25 Apr 24 13:04:44 +06
+# Entries: 135,962
+# Updated: Thu, 25 Apr 24 14:10:37 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5612,6 +5612,7 @@
 0.0.0.0 afriflatry.co
 0.0.0.0 afrigh.com
 0.0.0.0 afrikamaat.com
+0.0.0.0 afrikana.info
 0.0.0.0 afrikascope.com
 0.0.0.0 afroamerica360.net
 0.0.0.0 afroamerica360.online
@@ -10963,6 +10964,7 @@
 0.0.0.0 avalancherepercussion.com
 0.0.0.0 avalanchers.com
 0.0.0.0 avalinker-cdn1.com
+0.0.0.0 avalis.net
 0.0.0.0 avamond.com
 0.0.0.0 avantgardeslo.com
 0.0.0.0 avantikainterior.com
@@ -32445,6 +32447,7 @@
 0.0.0.0 eflowspayment.com
 0.0.0.0 eflowtoll-online-payment.com
 0.0.0.0 eflowtoll-onlinepayment.com
+0.0.0.0 efmaster.com
 0.0.0.0 efmrxqjngyc.xyz
 0.0.0.0 efojzbnh.com
 0.0.0.0 efooods.com
@@ -32921,6 +32924,7 @@
 0.0.0.0 elektrickeauta.com
 0.0.0.0 elektrikar-bratislava-okolie.com
 0.0.0.0 elektrikar.xyz
+0.0.0.0 elektrino.com
 0.0.0.0 elektroinstalace.info
 0.0.0.0 elektroinstalacia.top
 0.0.0.0 elektromoskisautok.com
@@ -33992,6 +33996,7 @@
 0.0.0.0 eon-homes.com
 0.0.0.0 eon.builders
 0.0.0.0 eon.construction
+0.0.0.0 eonconstruction.ca
 0.0.0.0 eondmobile.org
 0.0.0.0 eondunpea.com
 0.0.0.0 eoneenergy.com
@@ -34238,6 +34243,7 @@
 0.0.0.0 eraumavezumrapaz.net
 0.0.0.0 eravprvvqqc.xyz
 0.0.0.0 erawaan.net
+0.0.0.0 erazim.net
 0.0.0.0 erbiscusys.info
 0.0.0.0 erbiscusysexbu.info
 0.0.0.0 erbuildtech.com
@@ -36692,6 +36698,7 @@
 0.0.0.0 featbooksterile.com
 0.0.0.0 featheracclaimbarber.com
 0.0.0.0 featherguard.com
+0.0.0.0 featherlightyogi.com
 0.0.0.0 feathersaloof.com
 0.0.0.0 featlyforthy.top
 0.0.0.0 featm.com
@@ -44470,6 +44477,7 @@
 0.0.0.0 gukodxxhkc.xyz
 0.0.0.0 gukyllfh.com
 0.0.0.0 gularqrxgtms.com
+0.0.0.0 gulaskapotapanie.com
 0.0.0.0 guldenstypps.top
 0.0.0.0 gulder.co
 0.0.0.0 gulfimply.com
@@ -49855,6 +49863,7 @@
 0.0.0.0 illegibledismiss.com
 0.0.0.0 illfated-feed.com
 0.0.0.0 illfvowjayo.com
+0.0.0.0 illich.wiki
 0.0.0.0 illicitdandily.cam
 0.0.0.0 illief.com
 0.0.0.0 illigent.xyz
@@ -54433,6 +54442,7 @@
 0.0.0.0 joufogli.com
 0.0.0.0 joukaglie.com
 0.0.0.0 joukidles.life
+0.0.0.0 joulesandwatts.ca
 0.0.0.0 joulesandwatts.com
 0.0.0.0 jounaque.com
 0.0.0.0 jouncystelar.guru
@@ -57241,6 +57251,7 @@
 0.0.0.0 kosice2030.com
 0.0.0.0 kosice2040.com
 0.0.0.0 kosice2050.com
+0.0.0.0 kosicehotels.org
 0.0.0.0 kosmozis.com
 0.0.0.0 kosovaliturizm.net
 0.0.0.0 kossuthmovar.com
@@ -67856,6 +67867,7 @@
 0.0.0.0 myclaimmatters.com
 0.0.0.0 myclickbankads.com
 0.0.0.0 myclickpush.com
+0.0.0.0 mycoach.fun
 0.0.0.0 mycoachingtree.community
 0.0.0.0 mycocomail.com
 0.0.0.0 mycodingjournal.com
@@ -75943,6 +75955,7 @@
 0.0.0.0 pappibottoms.website
 0.0.0.0 papplmate.com
 0.0.0.0 pappviki.com
+0.0.0.0 papricky.net
 0.0.0.0 paprikapartners.ca
 0.0.0.0 papularnutter.top
 0.0.0.0 papunk.com
@@ -77392,6 +77405,7 @@
 0.0.0.0 petersmatana.online
 0.0.0.0 petersojka.com
 0.0.0.0 peterszalay.help
+0.0.0.0 petervitchev.com
 0.0.0.0 peterwooster.ca
 0.0.0.0 peterwooster.com
 0.0.0.0 petfect.ca
@@ -80304,6 +80318,7 @@
 0.0.0.0 praguesecurityconference.org
 0.0.0.0 praguetaxis.com
 0.0.0.0 pragueventilation.com
+0.0.0.0 pragyawellness.in
 0.0.0.0 praha-stehovani.com
 0.0.0.0 praha.stream
 0.0.0.0 praha1.stream
@@ -84690,6 +84705,7 @@
 0.0.0.0 raylederer.com
 0.0.0.0 raylnk.com
 0.0.0.0 raymondcarryingordered.com
+0.0.0.0 rayprojectsco.com
 0.0.0.0 rayrecollect.com
 0.0.0.0 rayshopsshabby.com
 0.0.0.0 raysworkshops.com
@@ -93520,6 +93536,7 @@
 0.0.0.0 slangytextile.website
 0.0.0.0 slanquan.com
 0.0.0.0 slantdecline.com
+0.0.0.0 slapa.pro
 0.0.0.0 slapclergymoth.com
 0.0.0.0 slapexcitedly.com
 0.0.0.0 slaqandsan.xyz
@@ -95545,6 +95562,7 @@
 0.0.0.0 sport-play.live
 0.0.0.0 sport205.club
 0.0.0.0 sportamd.pro
+0.0.0.0 sportbux.com
 0.0.0.0 sportcares.site
 0.0.0.0 sportdays.net
 0.0.0.0 sportdays.online
@@ -96021,6 +96039,7 @@
 0.0.0.0 stablefulfil.com
 0.0.0.0 stablever.site
 0.0.0.0 stabmesaveme.com
+0.0.0.0 stacatac.com
 0.0.0.0 stacckain.com
 0.0.0.0 stachlglobal.com
 0.0.0.0 stackadapt.com
@@ -101007,6 +101026,7 @@
 0.0.0.0 thefattybaoindia.com
 0.0.0.0 thefeedfoundation.com
 0.0.0.0 thefeelloop.com
+0.0.0.0 thefeminists.net
 0.0.0.0 thefenceanddeckguys.com
 0.0.0.0 thefertilization.com
 0.0.0.0 thefilmes.tv
@@ -101285,6 +101305,7 @@
 0.0.0.0 themsugn.net
 0.0.0.0 themusicmissionnow.org
 0.0.0.0 thenarrativehouse.online
+0.0.0.0 thenattiness.com
 0.0.0.0 thenaturegain.com
 0.0.0.0 thenaturemama.com
 0.0.0.0 thenceafeard.com
@@ -103192,6 +103213,7 @@
 0.0.0.0 toothco.net
 0.0.0.0 toothco.org
 0.0.0.0 toothcodental.ca
+0.0.0.0 toothcodentistry.ca
 0.0.0.0 toothoverdone.com
 0.0.0.0 toothpasteginnysorrow.com
 0.0.0.0 toothpastepartmuttered.com
@@ -109275,6 +109297,7 @@
 0.0.0.0 verzoek-nl.com
 0.0.0.0 veselekoralky.store
 0.0.0.0 vesinstore.top
+0.0.0.0 vesmir.tv
 0.0.0.0 vesofefinego.info
 0.0.0.0 vesperanalytics.com
 0.0.0.0 vesperautomotive.com
@@ -111265,6 +111288,7 @@
 0.0.0.0 vyporiadanie.com
 0.0.0.0 vypywufmbsp.com
 0.0.0.0 vyqpumohlvdsd.xyz
+0.0.0.0 vyrax.tech
 0.0.0.0 vyres.online
 0.0.0.0 vyresme.com
 0.0.0.0 vyrmqohqokgnn.com
@@ -112227,6 +112251,7 @@
 0.0.0.0 weberry.us
 0.0.0.0 webestablishedsunflower.com
 0.0.0.0 webex.click
+0.0.0.0 webex.marketing
 0.0.0.0 webfeetdaidled.com
 0.0.0.0 webflo.io
 0.0.0.0 webflows.net
@@ -131375,6 +131400,7 @@
 0.0.0.0 wwwcubs.com
 0.0.0.0 wwwd5188comwww.601122.com
 0.0.0.0 wwwdiyibanzhu.com
+0.0.0.0 wwwdominospizza.com
 0.0.0.0 wwwdsxys.com
 0.0.0.0 wwwdy1655.com
 0.0.0.0 wwweat.com
