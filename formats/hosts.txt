@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.116
 # Release: 116
-# Entries: 135,866
-# Updated: Thu, 25 Apr 24 04:08:37 +06
+# Entries: 135,869
+# Updated: Thu, 25 Apr 24 06:53:00 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20590,6 +20590,7 @@
 0.0.0.0 chevalko.com
 0.0.0.0 chevetoelike.com
 0.0.0.0 chevrolat.com
+0.0.0.0 chevroletmazda.com
 0.0.0.0 chevroletpowerpose.ca
 0.0.0.0 chevroletsaskatoon.com
 0.0.0.0 chevychaseleague.com
@@ -21754,6 +21755,7 @@
 0.0.0.0 clidelivery.com
 0.0.0.0 clientes-particularesapp.info
 0.0.0.0 clientes.mobi
+0.0.0.0 clientesgco.com
 0.0.0.0 clientit.com
 0.0.0.0 clientlimit.com
 0.0.0.0 clientoutcry.com
@@ -52001,6 +52003,7 @@
 0.0.0.0 irmci.shop
 0.0.0.0 irmcii.shop
 0.0.0.0 irmcii.space
+0.0.0.0 irmet-intra.com
 0.0.0.0 irmghmmlet.com
 0.0.0.0 irmmamksywbwt.com
 0.0.0.0 irmri.org
