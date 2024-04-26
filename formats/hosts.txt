@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.117
 # Release: 117
-# Entries: 136,136
-# Updated: Fri, 26 Apr 24 04:35:19 +06
+# Entries: 136,139
+# Updated: Fri, 26 Apr 24 06:08:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14343,6 +14343,7 @@
 0.0.0.0 bigdoozy.net
 0.0.0.0 bige-sandwich.com
 0.0.0.0 bigeagle.biz
+0.0.0.0 bigeete.com
 0.0.0.0 bigelowcleaning.com
 0.0.0.0 bigenergyllc.pro
 0.0.0.0 bigfatopinion.net
@@ -60525,6 +60526,7 @@
 0.0.0.0 ljhrmpicnr.com
 0.0.0.0 ljifuqqvs.com
 0.0.0.0 ljjqqierdk.com
+0.0.0.0 ljkkhibuwe.com
 0.0.0.0 ljlbzdqznogl.com
 0.0.0.0 ljldipfjbh.com
 0.0.0.0 ljldpvos.com
@@ -81090,6 +81092,7 @@
 0.0.0.0 probationtoll.com
 0.0.0.0 probaufix.com
 0.0.0.0 probersnobles.com
+0.0.0.0 probessanggau.com
 0.0.0.0 probestrike.com
 0.0.0.0 probet.store
 0.0.0.0 probet365.shop
