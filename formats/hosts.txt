@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.118
 # Release: 118
-# Entries: 136,312
-# Updated: Sat, 27 Apr 24 12:34:59 +06
+# Entries: 136,315
+# Updated: Sat, 27 Apr 24 14:08:17 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -68662,6 +68662,7 @@
 0.0.0.0 najalacasa.com
 0.0.0.0 najcene.net
 0.0.0.0 najem-avtomobila.com
+0.0.0.0 najem-jadrnic-hrvaska.com
 0.0.0.0 najem.plus
 0.0.0.0 najemne.com
 0.0.0.0 najemvozil.com
@@ -70426,6 +70427,7 @@
 0.0.0.0 nihugd.com
 0.0.0.0 niiadvance.ca
 0.0.0.0 niiadvance.com
+0.0.0.0 niiriitmybvqne.com
 0.0.0.0 nikamarque.com
 0.0.0.0 nikdenikdo.com
 0.0.0.0 nikepol.com
@@ -78664,6 +78666,7 @@
 0.0.0.0 pj2z9.com
 0.0.0.0 pjblqxvmcjyiel.com
 0.0.0.0 pjcinfra.in.net
+0.0.0.0 pjfpjtlbmhuds.com
 0.0.0.0 pjgltd.com
 0.0.0.0 pjgpaoincwvo.com
 0.0.0.0 pjhbyaaadlw.com
