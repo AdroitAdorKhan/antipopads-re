@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.118
 # Release: 118
-# Entries: 136,310
-# Updated: Sat, 27 Apr 24 10:08:11 +06
+# Entries: 136,312
+# Updated: Sat, 27 Apr 24 12:34:59 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -38200,6 +38200,7 @@
 0.0.0.0 flexvectors.com
 0.0.0.0 flexygardenreview.com
 0.0.0.0 flezora.com
+0.0.0.0 flfegwxrctclm.com
 0.0.0.0 flfuizznbcdm.com
 0.0.0.0 flghgvlsdhetim.com
 0.0.0.0 flharce.site
@@ -78166,6 +78167,7 @@
 0.0.0.0 phywifupta.com
 0.0.0.0 pi.me
 0.0.0.0 pi28.net
+0.0.0.0 piafxnwmbx.com
 0.0.0.0 pianetagiustizia.com
 0.0.0.0 pianistcampingroom.com
 0.0.0.0 pianistrefutationgoose.com
