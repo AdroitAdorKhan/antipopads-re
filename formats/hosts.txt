@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.118
 # Release: 118
-# Entries: 136,325
-# Updated: Sat, 27 Apr 24 16:08:00 +06
+# Entries: 136,333
+# Updated: Sat, 27 Apr 24 18:08:15 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10011,6 +10011,7 @@
 0.0.0.0 assassinationrussia.com
 0.0.0.0 assassinationsteal.com
 0.0.0.0 assassinscreations.com
+0.0.0.0 assat.pl
 0.0.0.0 assaultmolecularjim.com
 0.0.0.0 assaultstrength.com
 0.0.0.0 assaysmohr.cfd
@@ -14655,6 +14656,7 @@
 0.0.0.0 bipidoan.com
 0.0.0.0 bipjiza.com
 0.0.0.0 biplihopsdim.com
+0.0.0.0 bipmwuhisvp.com
 0.0.0.0 bipr.education
 0.0.0.0 bipremium.net
 0.0.0.0 biptolyla.com
@@ -19755,6 +19757,7 @@
 0.0.0.0 cemeterybattleresigned.com
 0.0.0.0 cemeterybonnet.com
 0.0.0.0 cemeterysimilar.com
+0.0.0.0 cemiocw.com
 0.0.0.0 cemsidamid.info
 0.0.0.0 cemsidamid.net
 0.0.0.0 cemsidamid.us
@@ -20032,6 +20035,7 @@
 0.0.0.0 cffujnudcdy.com
 0.0.0.0 cfgr1.com
 0.0.0.0 cfgr5.com
+0.0.0.0 cfgrcr1.com
 0.0.0.0 cfikgqraxgznj.com
 0.0.0.0 cfisolutions.ca
 0.0.0.0 cfivfadtlr.com
@@ -98532,6 +98536,7 @@
 0.0.0.0 svetprodeje.com
 0.0.0.0 svetrealit.online
 0.0.0.0 svetveteranov.com
+0.0.0.0 svetvlacku.com
 0.0.0.0 svetzaoknom.online
 0.0.0.0 svetzivali.com
 0.0.0.0 svetzivali.net
@@ -106960,6 +106965,7 @@
 0.0.0.0 umfetalp.com
 0.0.0.0 umfsyvnufa.com
 0.0.0.0 umfvcpov.com
+0.0.0.0 umiooggj.com
 0.0.0.0 umipoll.xyz
 0.0.0.0 umiyadhamharidwar.org
 0.0.0.0 umiyahardware.com
@@ -129393,6 +129399,7 @@
 0.0.0.0 www.svastyogi.com
 0.0.0.0 www.svatopluk.org
 0.0.0.0 www.svcommunityschool.org
+0.0.0.0 www.svetvlacku.com
 0.0.0.0 www.svetzaoknom.online
 0.0.0.0 www.svgjs.com
 0.0.0.0 www.svgvector.com
@@ -130823,6 +130830,7 @@
 0.0.0.0 www.vokzal.org
 0.0.0.0 www.volandotequila.store
 0.0.0.0 www.volcanoimplement.com
+0.0.0.0 www.volko.tech
 0.0.0.0 www.volkswagenunionville.ca
 0.0.0.0 www.volkswagenunionville.com
 0.0.0.0 www.volleyballdishonoursecurity.com
