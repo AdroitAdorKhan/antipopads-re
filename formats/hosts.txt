@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.119
 # Release: 119
-# Entries: 136,749
-# Updated: Sun, 28 Apr 24 20:34:46 +06
+# Entries: 136,750
+# Updated: Sun, 28 Apr 24 22:08:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -82132,6 +82132,7 @@
 0.0.0.0 prpopss.com
 0.0.0.0 prpratik.online
 0.0.0.0 prpreladzer.com
+0.0.0.0 prqbdfmzjs.com
 0.0.0.0 prre.ru
 0.0.0.0 prrec.fr
 0.0.0.0 prrortho.com
