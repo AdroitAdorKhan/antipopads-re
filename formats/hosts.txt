@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.120
 # Release: 120
-# Entries: 136,789
-# Updated: Mon, 29 Apr 24 02:08:50 +06
+# Entries: 136,794
+# Updated: Mon, 29 Apr 24 04:34:26 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6586,6 +6586,7 @@
 0.0.0.0 alameentravels.com
 0.0.0.0 alamovillage.com
 0.0.0.0 alamrb.com
+0.0.0.0 alanbill.com
 0.0.0.0 alancorp-sa.com
 0.0.0.0 alanibelen.com
 0.0.0.0 alanklenor.com
@@ -31686,6 +31687,7 @@
 0.0.0.0 eabgkpiwnk.com
 0.0.0.0 eabithecon.xyz
 0.0.0.0 eableandwo.com
+0.0.0.0 eablnikfbevgyi.com
 0.0.0.0 eabrgisajgzahx.com
 0.0.0.0 eac0823ca94e3c07.com
 0.0.0.0 eacd2020.org
@@ -36869,6 +36871,7 @@
 0.0.0.0 fcqrrlkvm.com
 0.0.0.0 fcrtnptgkqjf.com
 0.0.0.0 fcswhwglli.com
+0.0.0.0 fctkuersakdhfy.xyz
 0.0.0.0 fcu.mov
 0.0.0.0 fcu.zip
 0.0.0.0 fcudlfqupglxynu.xyz
@@ -68953,6 +68956,7 @@
 0.0.0.0 najem-avtomobila.com
 0.0.0.0 najem-jadrnic-hrvaska.com
 0.0.0.0 najem.plus
+0.0.0.0 najemjadrnichrvaska.com
 0.0.0.0 najemne.com
 0.0.0.0 najemvozil.com
 0.0.0.0 najhypoteky.online
@@ -133222,6 +133226,7 @@
 0.0.0.0 xmtbbx.com
 0.0.0.0 xmtpt.com
 0.0.0.0 xmtv7.com
+0.0.0.0 xmuakamnq.com
 0.0.0.0 xmujigdhfm.com
 0.0.0.0 xmverqdrjodohf.com
 0.0.0.0 xmvftaoz.com
