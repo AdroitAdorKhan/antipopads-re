@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.119
 # Release: 119
-# Entries: 136,697
-# Updated: Sun, 28 Apr 24 12:31:26 +06
+# Entries: 136,703
+# Updated: Sun, 28 Apr 24 14:08:31 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -25193,6 +25193,7 @@
 0.0.0.0 csgloan.com
 0.0.0.0 csgltd.org.uk
 0.0.0.0 csgn.ca
+0.0.0.0 csgo2hub.com
 0.0.0.0 csgrandnord.ca
 0.0.0.0 csgwjwedeynqsrc.top
 0.0.0.0 cshadvisoryservices.com
@@ -40396,6 +40397,7 @@
 0.0.0.0 fvreb.com
 0.0.0.0 fvrnrgwldf.com
 0.0.0.0 fvsefuutddbjhnp.xyz
+0.0.0.0 fvsowyctxom.com
 0.0.0.0 fvvsgroup.com
 0.0.0.0 fvw32.com
 0.0.0.0 fvwpplymhwqx.top
@@ -54959,6 +54961,7 @@
 0.0.0.0 jr-machine-transport-limited.uk
 0.0.0.0 jr.buggerygruffed.com
 0.0.0.0 jr.nebrisvorago.com
+0.0.0.0 jraeqpszyw.com
 0.0.0.0 jrbhnmqwemw.xyz
 0.0.0.0 jrcprecisionchambers.com
 0.0.0.0 jrcvnvkjt.xyz
@@ -56629,6 +56632,7 @@
 0.0.0.0 khowawala.com
 0.0.0.0 khowawala.in
 0.0.0.0 khqtvdvu.com
+0.0.0.0 khrrnhjuhdjvx.com
 0.0.0.0 khryjt.com
 0.0.0.0 khshsixmp.com
 0.0.0.0 khskpbgqbmrddcy.com
@@ -96326,6 +96330,7 @@
 0.0.0.0 sputil.com
 0.0.0.0 spvpjcytwu.com
 0.0.0.0 spwirdwis.com
+0.0.0.0 spwlqrtmqn.com
 0.0.0.0 spxcpxgqfngye.xyz
 0.0.0.0 spybuildsoccasional.com
 0.0.0.0 spyismhuzzaed.com
@@ -134251,6 +134256,7 @@
 0.0.0.0 yewtransportation.com
 0.0.0.0 yewusbcotdwo.com
 0.0.0.0 yexsukkdti.com
+0.0.0.0 yexyejgdcbax.com
 0.0.0.0 yeyajipp.com
 0.0.0.0 yeypjnoe.com
 0.0.0.0 yf3a.com
