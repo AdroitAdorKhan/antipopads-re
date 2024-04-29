@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.120
 # Release: 120
-# Entries: 136,860
-# Updated: Mon, 29 Apr 24 16:08:25 +06
+# Entries: 136,863
+# Updated: Mon, 29 Apr 24 18:09:01 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3358,6 +3358,7 @@
 0.0.0.0 aaltadefinizione.com
 0.0.0.0 aambee.online
 0.0.0.0 aamericana.com
+0.0.0.0 aamnrcgpwyrse.com
 0.0.0.0 aamomnxyw.com
 0.0.0.0 aamrathe1986.com
 0.0.0.0 aamro.li
@@ -28621,6 +28622,7 @@
 0.0.0.0 digital2cloud.com
 0.0.0.0 digitalberries.com
 0.0.0.0 digitalbrandsmarkagency.tech
+0.0.0.0 digitalcable.ro
 0.0.0.0 digitalcreationsbynaida.com
 0.0.0.0 digitalcrownindex.com
 0.0.0.0 digitaldesignz.in
@@ -90337,6 +90339,7 @@
 0.0.0.0 satejbanglafood.com
 0.0.0.0 satelliteexaminer.com
 0.0.0.0 satellitefetidtelegraph.com
+0.0.0.0 satfa.nl
 0.0.0.0 sathderegional.com
 0.0.0.0 satik64.com
 0.0.0.0 sationturret.top
