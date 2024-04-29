@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.120
 # Release: 120
-# Entries: 136,794
-# Updated: Mon, 29 Apr 24 04:34:26 +06
+# Entries: 136,806
+# Updated: Mon, 29 Apr 24 06:08:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -855,6 +855,7 @@
 0.0.0.0 20aa31f1ba.com
 0.0.0.0 20boss.ru
 0.0.0.0 20cambridgesideplace.com
+0.0.0.0 20chandler.com
 0.0.0.0 20csplace.com
 0.0.0.0 20d2587024.3de3ac5082.com
 0.0.0.0 20dnfksdf20.monster
@@ -9310,6 +9311,7 @@
 0.0.0.0 arguesmoke.com
 0.0.0.0 argumentsadrenaline.com
 0.0.0.0 argumentsmaymadly.com
+0.0.0.0 argustestlab.net
 0.0.0.0 argutalk.com
 0.0.0.0 arguviz.com
 0.0.0.0 argxdhrjhett.xyz
@@ -12411,6 +12413,7 @@
 0.0.0.0 barcelonafringefestival.com
 0.0.0.0 barclaysoffshoredepartment.com
 0.0.0.0 barclaysoffshoresdepartments.com
+0.0.0.0 barcodesandbeyond.org
 0.0.0.0 barcosys.com
 0.0.0.0 bardatm.ru
 0.0.0.0 bardejovske-kupele.net
@@ -28023,6 +28026,7 @@
 0.0.0.0 detersrand.eu
 0.0.0.0 detestablemall.com
 0.0.0.0 detestgaspdowny.com
+0.0.0.0 deti.video
 0.0.0.0 deticsanatteway.com
 0.0.0.0 detinetcallant.com
 0.0.0.0 detinrubbing.com
@@ -59938,6 +59942,7 @@
 0.0.0.0 lflcbcb.com
 0.0.0.0 lflzcaskpkfhi.com
 0.0.0.0 lfmdefxhjyf.com
+0.0.0.0 lfodybaft.com
 0.0.0.0 lfooldjzuyfhae.com
 0.0.0.0 lfopq.xyz
 0.0.0.0 lforgot-appleid.com
@@ -87497,6 +87502,8 @@
 0.0.0.0 richensapient.top
 0.0.0.0 richer.healthcare
 0.0.0.0 richerhealth.net
+0.0.0.0 richerhealth.university
+0.0.0.0 richerhealthnow.com
 0.0.0.0 richerprudes.top
 0.0.0.0 richersitfast.life
 0.0.0.0 richesknew.com
@@ -115827,6 +115834,7 @@
 0.0.0.0 www.2020microclinic.org
 0.0.0.0 www.2023rich.com
 0.0.0.0 www.20cambridgesideplace.com
+0.0.0.0 www.20chandler.com
 0.0.0.0 www.20csplace.com
 0.0.0.0 www.20minutestochange.com
 0.0.0.0 www.212cables.com
@@ -117045,6 +117053,7 @@
 0.0.0.0 www.arenalitteraccommodation.com
 0.0.0.0 www.arevelk.am
 0.0.0.0 www.argumentsmaymadly.com
+0.0.0.0 www.argustestlab.net
 0.0.0.0 www.ariamovie13.site
 0.0.0.0 www.arianroid.com
 0.0.0.0 www.aridgrinmode.com
@@ -117516,6 +117525,7 @@
 0.0.0.0 www.barbariannumerous.com
 0.0.0.0 www.barbeduseless.com
 0.0.0.0 www.barbmerchant.com
+0.0.0.0 www.barcodesandbeyond.org
 0.0.0.0 www.bareelaborate.com
 0.0.0.0 www.barefootedpyjamasdetection.com
 0.0.0.0 www.barefoothardwood.com
@@ -128138,6 +128148,8 @@
 0.0.0.0 www.richcats.fun
 0.0.0.0 www.richer.healthcare
 0.0.0.0 www.richerhealth.net
+0.0.0.0 www.richerhealth.university
+0.0.0.0 www.richerhealthnow.com
 0.0.0.0 www.richesknew.com
 0.0.0.0 www.richrulessurvey.top
 0.0.0.0 www.richrulesurvey.top
