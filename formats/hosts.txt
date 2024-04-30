@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.121
 # Release: 121
-# Entries: 137,000
-# Updated: Tue, 30 Apr 24 08:08:10 +06
+# Entries: 137,004
+# Updated: Tue, 30 Apr 24 10:08:32 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7621,6 +7621,7 @@
 0.0.0.0 amicube.ca
 0.0.0.0 amicube.com
 0.0.0.0 amidatemolompi.space
+0.0.0.0 amidbow.com
 0.0.0.0 amiddespair.com
 0.0.0.0 amidoxypochard.com
 0.0.0.0 amiinternatioww.com
@@ -84217,6 +84218,7 @@
 0.0.0.0 qsswdxkmhmmyyce.xyz
 0.0.0.0 qsthtbjljqfuo.com
 0.0.0.0 qstyxveuwcdk.com
+0.0.0.0 qsueufhspej.com
 0.0.0.0 qsukcjbd.com
 0.0.0.0 qsuvdtursgrq.com
 0.0.0.0 qsvvhobsta.com
@@ -123285,6 +123287,7 @@
 0.0.0.0 www.i-semiconductors.fr
 0.0.0.0 www.i-switch.com
 0.0.0.0 www.i1nq.com
+0.0.0.0 www.i8y156.com
 0.0.0.0 www.i9.log.br
 0.0.0.0 www.iaff2585.org
 0.0.0.0 www.iamgprs.ma
@@ -130203,6 +130206,7 @@
 0.0.0.0 www.tanbank.app
 0.0.0.0 www.tancommunicated.com
 0.0.0.0 www.tangiblepotsadmired.com
+0.0.0.0 www.tanluxurious.com
 0.0.0.0 www.tanyaricardo.com
 0.0.0.0 www.taobaoimages.com
 0.0.0.0 www.taoyin365.com
