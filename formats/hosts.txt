@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.121
 # Release: 121
-# Entries: 137,010
-# Updated: Tue, 30 Apr 24 12:08:52 +06
+# Entries: 137,014
+# Updated: Tue, 30 Apr 24 14:36:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2752,6 +2752,7 @@
 0.0.0.0 86ren.net
 0.0.0.0 8705159.com
 0.0.0.0 8726.wf
+0.0.0.0 8730.wf
 0.0.0.0 8731.yt
 0.0.0.0 8735.wf
 0.0.0.0 874444.comwww.601122.com
@@ -15197,6 +15198,7 @@
 0.0.0.0 blessedwin.life
 0.0.0.0 blessfulsleep.com
 0.0.0.0 blessgravity.com
+0.0.0.0 blesshunt.com
 0.0.0.0 blessingessien.com
 0.0.0.0 blessinghookup.com
 0.0.0.0 blessingofpanacea.com
@@ -17643,6 +17645,7 @@
 0.0.0.0 burialdiffer.com
 0.0.0.0 burialgerminatebizarre.com
 0.0.0.0 burialgrief.com
+0.0.0.0 burialsupple.com
 0.0.0.0 buriedwithmyiphone.com
 0.0.0.0 burjelmedia.org
 0.0.0.0 burkard.ca
@@ -51389,6 +51392,7 @@
 0.0.0.0 inksterpennae.life
 0.0.0.0 inkstorylikeness.com
 0.0.0.0 inktad.com
+0.0.0.0 inktr.ee
 0.0.0.0 inktweb.online
 0.0.0.0 inkydfrktgy.com
 0.0.0.0 inlacedhageen.top
