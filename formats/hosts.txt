@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.121
 # Release: 121
-# Entries: 136,995
-# Updated: Tue, 30 Apr 24 06:34:27 +06
+# Entries: 137,000
+# Updated: Tue, 30 Apr 24 08:08:10 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -66564,6 +66564,7 @@
 0.0.0.0 mnrki.com
 0.0.0.0 mnrkmusic.org
 0.0.0.0 mntdwztuzq.com
+0.0.0.0 mntxalcb.com
 0.0.0.0 mnuesamwg.xyz
 0.0.0.0 mnuinfinity.com
 0.0.0.0 mnuqpgza.com
@@ -75342,6 +75343,7 @@
 0.0.0.0 oubeliketh.info
 0.0.0.0 oubsadroub.com
 0.0.0.0 oucaibie.net
+0.0.0.0 oucbbupcmy.com
 0.0.0.0 ouch.agency
 0.0.0.0 ouchojig.xyz
 0.0.0.0 ouchruse.com
@@ -90630,6 +90632,7 @@
 0.0.0.0 sbpgc.com
 0.0.0.0 sbqcjtbyfbkqjt.com
 0.0.0.0 sbrakepads.com
+0.0.0.0 sbrekaidwg.com
 0.0.0.0 sbroiughttohi.xyz
 0.0.0.0 sbscec.com
 0.0.0.0 sbscribeme.com
@@ -109690,6 +109693,7 @@
 0.0.0.0 vaukdljmljvsbe.com
 0.0.0.0 vaultmultiple.com
 0.0.0.0 vaultwrite.com
+0.0.0.0 vaumourechu.net
 0.0.0.0 vaumvxgrjiicdp.com
 0.0.0.0 vauptaih.com
 0.0.0.0 vauthaud.net
@@ -134311,6 +134315,7 @@
 0.0.0.0 ybb-network.com
 0.0.0.0 ybbftoygch.xyz
 0.0.0.0 ybbserver.com
+0.0.0.0 ybccrmuvvtan.xyz
 0.0.0.0 ybcqozfk.com
 0.0.0.0 ybeshir.com
 0.0.0.0 ybevleav.com
