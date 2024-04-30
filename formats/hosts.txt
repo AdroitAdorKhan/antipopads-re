@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.04.121
-# Release: 121
-# Entries: 137,049
-# Updated: Tue, 30 Apr 24 22:37:36 +06
+# Version: 24.05.122
+# Release: 122
+# Entries: 137,056
+# Updated: Wed, 01 May 24 00:08:36 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16244,6 +16244,7 @@
 0.0.0.0 bothinghalloy.com
 0.0.0.0 bothpersonality.com
 0.0.0.0 bothsemicolon.com
+0.0.0.0 bothwest.pro
 0.0.0.0 botniagroup.com
 0.0.0.0 botondsepsi.com
 0.0.0.0 botongfuff.uno
@@ -44670,6 +44671,7 @@
 0.0.0.0 gslpl.org
 0.0.0.0 gsmnation.com
 0.0.0.0 gsmzone.net
+0.0.0.0 gsnb048lj.com
 0.0.0.0 gsnet.in
 0.0.0.0 gsniper2.com
 0.0.0.0 gsnqhdo.com
@@ -65430,6 +65432,7 @@
 0.0.0.0 mfqc.ca
 0.0.0.0 mfqio.ca
 0.0.0.0 mfqio.com
+0.0.0.0 mfqmfuswnh.com
 0.0.0.0 mfrizkgh.com
 0.0.0.0 mfskxukebtukelm.com
 0.0.0.0 mftek.com
@@ -69834,6 +69837,7 @@
 0.0.0.0 negrineoakwood.com
 0.0.0.0 negterbummod.org
 0.0.0.0 negure.com
+0.0.0.0 negxkj5ca.com
 0.0.0.0 negyuk.com
 0.0.0.0 nehersheteen.pro
 0.0.0.0 nehfvhil.xyz
@@ -70311,6 +70315,7 @@
 0.0.0.0 news-getogo.com
 0.0.0.0 news-headlines.co
 0.0.0.0 news-host.net
+0.0.0.0 news-jelafa.com
 0.0.0.0 news-jivera.com
 0.0.0.0 news-losaji.com
 0.0.0.0 news-mars.com
@@ -74981,6 +74986,7 @@
 0.0.0.0 orfkvfzp.com
 0.0.0.0 orfnvumtfj.com
 0.0.0.0 orfraysrectory.uno
+0.0.0.0 orfuymdj.com
 0.0.0.0 org-3v.pro
 0.0.0.0 org-defi-v3.net
 0.0.0.0 orgagetnization.org
@@ -110421,6 +110427,7 @@
 0.0.0.0 vhod-id.info
 0.0.0.0 vhovgvprny.xyz
 0.0.0.0 vhrdwayksjrls.com
+0.0.0.0 vhscurmdplbd.com
 0.0.0.0 vhsefnivyhelph.com
 0.0.0.0 vhsugcbelruygy.com
 0.0.0.0 vhsxikfsrm.com
