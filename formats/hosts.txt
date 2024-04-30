@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.04.121
 # Release: 121
-# Entries: 137,025
-# Updated: Tue, 30 Apr 24 18:09:28 +06
+# Entries: 137,032
+# Updated: Tue, 30 Apr 24 20:08:39 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14854,6 +14854,7 @@
 0.0.0.0 bitcoinsteady.com
 0.0.0.0 bitcointitle.net
 0.0.0.0 bitcointransaction.app
+0.0.0.0 bitcoinwoodworker.com
 0.0.0.0 bitconomics.org
 0.0.0.0 bitdiko.com
 0.0.0.0 biteburied.com
@@ -21781,6 +21782,7 @@
 0.0.0.0 cleenfi.com
 0.0.0.0 clefsgast.top
 0.0.0.0 cleftinform.com
+0.0.0.0 cleftmeter.com
 0.0.0.0 clegalgroup.com
 0.0.0.0 clemandfloadopt.com
 0.0.0.0 clemencyexceptionpolar.com
@@ -41248,6 +41250,7 @@
 0.0.0.0 gbilthiefbdjgoa.com
 0.0.0.0 gbinquiries.com
 0.0.0.0 gbiwcrvomji.com
+0.0.0.0 gbiyigdsgu.com
 0.0.0.0 gbjellywatchweekend.com
 0.0.0.0 gbjgvhcjdcuft.com
 0.0.0.0 gbjmdlvynyy.com
@@ -55644,6 +55647,7 @@
 0.0.0.0 jwxm8ch.cn
 0.0.0.0 jwycmuozlpu.com
 0.0.0.0 jwydulaplhmo.com
+0.0.0.0 jwympcc.com
 0.0.0.0 jwynfocqiwaxim.xyz
 0.0.0.0 jx1ywb.com
 0.0.0.0 jxaiyxvjtczykq.com
@@ -74938,6 +74942,7 @@
 0.0.0.0 orderramsouthcarolina.com
 0.0.0.0 ordersconfirmation.info
 0.0.0.0 orderz.lol
+0.0.0.0 ordgcoazsswo.com
 0.0.0.0 ordinalexclusively.com
 0.0.0.0 ordinardeuton.com
 0.0.0.0 ordinarilyinstead.com
@@ -82646,6 +82651,7 @@
 0.0.0.0 ptexognouh.xyz
 0.0.0.0 ptffvpjhhb.com
 0.0.0.0 ptfxcapital.com
+0.0.0.0 pthdepsftn.com
 0.0.0.0 pthhmlxaruxpd.com
 0.0.0.0 pthikitpet.com
 0.0.0.0 pthzqqvrjyou.com
@@ -98158,6 +98164,7 @@
 0.0.0.0 stuted.com
 0.0.0.0 stutiturn-key.com
 0.0.0.0 stuvisa.in
+0.0.0.0 stv-ddorf.de
 0.0.0.0 stvbiopr.net
 0.0.0.0 stvkr.com
 0.0.0.0 stvsmdhfplfrcy.xyz
