@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.122
 # Release: 122
-# Entries: 137,056
-# Updated: Wed, 01 May 24 00:08:36 +06
+# Entries: 137,057
+# Updated: Wed, 01 May 24 02:09:13 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -24851,6 +24851,7 @@
 0.0.0.0 credulityicicle.com
 0.0.0.0 credvwmbehdqt.com
 0.0.0.0 creedaileenboiler.com
+0.0.0.0 creeddelirium.com
 0.0.0.0 creededlithic.digital
 0.0.0.0 creedoverwork.com
 0.0.0.0 creekrecollectkey.com
