@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.122
 # Release: 122
-# Entries: 137,123
-# Updated: Wed, 01 May 24 10:08:21 +06
+# Entries: 137,124
+# Updated: Wed, 01 May 24 12:08:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -49165,6 +49165,7 @@
 0.0.0.0 hwfnlmmqn.com
 0.0.0.0 hwgwkcylyfub.com
 0.0.0.0 hwhbdajovbxjmo.com
+0.0.0.0 hwhghslwqnhuy.com
 0.0.0.0 hwicliktt.com
 0.0.0.0 hwin.bet
 0.0.0.0 hwjqxlmrek.com
