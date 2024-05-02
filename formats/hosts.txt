@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.123
 # Release: 123
-# Entries: 137,394
-# Updated: Thu, 02 May 24 10:08:17 +06
+# Entries: 137,396
+# Updated: Thu, 02 May 24 12:24:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -99728,6 +99728,7 @@
 0.0.0.0 sxkjfroxta.com
 0.0.0.0 sxlflt.com
 0.0.0.0 sxlpfwckxpqgef.xyz
+0.0.0.0 sxlqiojff.com
 0.0.0.0 sxlvklm.com
 0.0.0.0 sxnjstbahm.com
 0.0.0.0 sxnkzm.com
@@ -120070,6 +120071,7 @@
 0.0.0.0 www.crystalclean803.net
 0.0.0.0 www.crystalheart.club
 0.0.0.0 www.crystallinesolarpanel.com
+0.0.0.0 www.csgo2hub.com
 0.0.0.0 www.csjichuang.com
 0.0.0.0 www.csqunarw.com
 0.0.0.0 www.cthwallet.com
