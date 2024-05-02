@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.123
 # Release: 123
-# Entries: 137,406
-# Updated: Thu, 02 May 24 16:08:12 +06
+# Entries: 137,411
+# Updated: Thu, 02 May 24 18:08:54 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -358,6 +358,7 @@
 0.0.0.0 123movie.lol
 0.0.0.0 123moviehub.ws
 0.0.0.0 123movies.baby
+0.0.0.0 123movies.ee
 0.0.0.0 123movies.family
 0.0.0.0 123movies.to
 0.0.0.0 123movies.town
@@ -56831,6 +56832,7 @@
 0.0.0.0 kfmhhfcrsqvza.com
 0.0.0.0 kfngvuu.com
 0.0.0.0 kfnobisd.xyz
+0.0.0.0 kfpodnaw.com
 0.0.0.0 kfri.in
 0.0.0.0 kfsfvqjzq.com
 0.0.0.0 kfuwkmsbwtve.com
@@ -59815,6 +59817,7 @@
 0.0.0.0 leftnetarenning.pro
 0.0.0.0 leftonhouston.com
 0.0.0.0 leftoverdense.com
+0.0.0.0 leftoverstatistics.com
 0.0.0.0 leftshoemakerexpecting.com
 0.0.0.0 legacy-iv.com
 0.0.0.0 legacy-ridge.ca
@@ -95389,6 +95392,7 @@
 0.0.0.0 sneakersip.com
 0.0.0.0 sneakersitalia.com
 0.0.0.0 sneakerzpietz.com
+0.0.0.0 sneakingthreatenedvent.com
 0.0.0.0 sneakintriguecasting.com
 0.0.0.0 sneaknonstopattribute.com
 0.0.0.0 sneaktown.net
@@ -99715,6 +99719,7 @@
 0.0.0.0 swwebblaw.com
 0.0.0.0 swww.movcpm.com
 0.0.0.0 swwxsrpcja.xyz
+0.0.0.0 swynyuclqw.com
 0.0.0.0 swzgvmlvt.com
 0.0.0.0 swzydgm.com
 0.0.0.0 sx.aeolicholsom.com
