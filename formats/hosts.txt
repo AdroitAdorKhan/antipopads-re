@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.124
 # Release: 124
-# Entries: 137,593
-# Updated: Fri, 03 May 24 18:15:16 +06
+# Entries: 137,599
+# Updated: Fri, 03 May 24 20:32:11 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -44837,6 +44837,7 @@
 0.0.0.0 gs1canadaamazonsupport.ca
 0.0.0.0 gs1gy.org
 0.0.0.0 gs1northamerica.org
+0.0.0.0 gscan.io
 0.0.0.0 gscducqnfapoo.top
 0.0.0.0 gscffirslpjm.com
 0.0.0.0 gsclvurjec.xyz
@@ -81399,6 +81400,7 @@
 0.0.0.0 praktijkjuno.com
 0.0.0.0 pramaneo.com
 0.0.0.0 pramdual.com
+0.0.0.0 pramenterpriseamy.com
 0.0.0.0 pramenviery.com
 0.0.0.0 pramukhbharat.com
 0.0.0.0 pramukhdevelopers.in
@@ -96272,6 +96274,7 @@
 0.0.0.0 soulsearch.link
 0.0.0.0 soulsglovesacid.com
 0.0.0.0 soulslaidmale.com
+0.0.0.0 soulslikefrigilityfrigility.com
 0.0.0.0 soulstarcoaching.co
 0.0.0.0 soulstone-creations.com
 0.0.0.0 soulstone-creations.org
@@ -113954,6 +113957,7 @@
 0.0.0.0 weifengtech.org
 0.0.0.0 weighertutania.com
 0.0.0.0 weightfeathersoffhand.com
+0.0.0.0 weightlossdietingtipsblog.com
 0.0.0.0 weightlossisascience.com
 0.0.0.0 weiha.yt
 0.0.0.0 weijishan.biz
@@ -118157,6 +118161,7 @@
 0.0.0.0 www.bagfulcoughwallow.com
 0.0.0.0 www.baggageconservationcaught.com
 0.0.0.0 www.baggagesuch.com
+0.0.0.0 www.baggertrasherysquamify.com
 0.0.0.0 www.bagsmartname.com
 0.0.0.0 www.bahceburada.net
 0.0.0.0 www.bahrainartweek.com
@@ -123222,6 +123227,7 @@
 0.0.0.0 www.grupposervicespa.it
 0.0.0.0 www.gruusia.com
 0.0.0.0 www.gryfoundation.org
+0.0.0.0 www.gscan.io
 0.0.0.0 www.gshopp.xyz
 0.0.0.0 www.gslpayments.in
 0.0.0.0 www.gslpl.org
