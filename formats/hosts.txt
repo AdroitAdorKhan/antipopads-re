@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.126
 # Release: 126
-# Entries: 138,056
-# Updated: Sun, 05 May 24 16:08:12 +06
+# Entries: 138,062
+# Updated: Sun, 05 May 24 18:08:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -54111,6 +54111,7 @@
 0.0.0.0 javgg.eu
 0.0.0.0 javmemu.com
 0.0.0.0 javmilk.org
+0.0.0.0 javnirazpisi.com
 0.0.0.0 javpiayer.com
 0.0.0.0 javsexbb.xyz
 0.0.0.0 javsfoods.in
@@ -57159,6 +57160,7 @@
 0.0.0.0 kg.flogspci.com
 0.0.0.0 kg.quinuaknife.com
 0.0.0.0 kgaypqks.com
+0.0.0.0 kgbsmnlypxvq.com
 0.0.0.0 kgc-br.com
 0.0.0.0 kgcj00.cn
 0.0.0.0 kgdvs9ov3l2aasw4nuts.com
@@ -98097,6 +98099,7 @@
 0.0.0.0 steel-casting-manufacturers.com
 0.0.0.0 steelbluebc.us
 0.0.0.0 steelcitydevils.com
+0.0.0.0 steelcityskeptics.net
 0.0.0.0 steeleceramics.ca
 0.0.0.0 steelers-tickets.net
 0.0.0.0 steeleslaw.ca
@@ -100253,6 +100256,7 @@
 0.0.0.0 sxcbnqubygqekx.com
 0.0.0.0 sxcpt.org
 0.0.0.0 sxellett.com
+0.0.0.0 sxfjkvwr.com
 0.0.0.0 sxhivhz.com
 0.0.0.0 sxhost.net
 0.0.0.0 sxhttorlazdii.com
@@ -124970,6 +124974,7 @@
 0.0.0.0 www.javdb023.com
 0.0.0.0 www.javdb033.com
 0.0.0.0 www.javmemu.com
+0.0.0.0 www.javnirazpisi.com
 0.0.0.0 www.javpiayer.com
 0.0.0.0 www.javstudy1.com
 0.0.0.0 www.jawlawolf.com
@@ -130733,6 +130738,7 @@
 0.0.0.0 www.steamlargelyjustified.com
 0.0.0.0 www.steamsorrowabbey.com
 0.0.0.0 www.steel-casting-foundries.com
+0.0.0.0 www.steelcityskeptics.net
 0.0.0.0 www.steeninvest.nl
 0.0.0.0 www.steeplesaturday.com
 0.0.0.0 www.steeringcrushed.com
