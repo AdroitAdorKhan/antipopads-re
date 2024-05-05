@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.127
 # Release: 127
-# Entries: 138,104
-# Updated: Mon, 06 May 24 00:08:22 +06
+# Entries: 138,108
+# Updated: Mon, 06 May 24 02:08:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -52596,6 +52596,7 @@
 0.0.0.0 involvingsorrowful.com
 0.0.0.0 invordones.com
 0.0.0.0 invox.live
+0.0.0.0 invpbzrsger.com
 0.0.0.0 invplpghc.com
 0.0.0.0 invraisemblable.com
 0.0.0.0 inwardinjustice.com
@@ -88203,6 +88204,7 @@
 0.0.0.0 rfmlulkmqoksq.xyz
 0.0.0.0 rfmxmgxsm.top
 0.0.0.0 rfnglkbxhta.xyz
+0.0.0.0 rfnlovuxqq.com
 0.0.0.0 rfoeongsoayasel.top
 0.0.0.0 rfpcanada.ca
 0.0.0.0 rfpcanada.com
@@ -113048,6 +113050,7 @@
 0.0.0.0 vvmcxclricxt.com
 0.0.0.0 vvmjwoyhbmehsky.com
 0.0.0.0 vvobtrjtinsd.com
+0.0.0.0 vvpabthqlyvdfk.com
 0.0.0.0 vvpcsvrw.com
 0.0.0.0 vvpojbsibm.xyz
 0.0.0.0 vvqfaanln.com
@@ -131319,6 +131322,7 @@
 0.0.0.0 www.tearsincompetentuntidy.com
 0.0.0.0 www.teaser-mobile.com
 0.0.0.0 www.teaser.cc
+0.0.0.0 www.teaspoonhumor.com
 0.0.0.0 www.tech-debt-api.com
 0.0.0.0 www.techincal-ceramics.uk
 0.0.0.0 www.techip.in
