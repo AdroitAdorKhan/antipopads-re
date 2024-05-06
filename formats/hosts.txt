@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.127
 # Release: 127
-# Entries: 138,168
-# Updated: Mon, 06 May 24 10:08:25 +06
+# Entries: 138,171
+# Updated: Mon, 06 May 24 12:29:41 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28904,6 +28904,7 @@
 0.0.0.0 digimakes.com
 0.0.0.0 digimei.tech
 0.0.0.0 digimoviez.vin
+0.0.0.0 diginarr.com
 0.0.0.0 diginora.com
 0.0.0.0 diginorin.com
 0.0.0.0 digiosolution.com
@@ -58950,6 +58951,7 @@
 0.0.0.0 kxwhiogrswx.com
 0.0.0.0 kxxwboavg.com
 0.0.0.0 ky.ghazismsplurt.com
+0.0.0.0 kyagltadecx.com
 0.0.0.0 kybelefwrkmtt.xyz
 0.0.0.0 kyber-obrana.com
 0.0.0.0 kybr-swaip.online
@@ -73239,6 +73241,7 @@
 0.0.0.0 oachaigin.com
 0.0.0.0 oachailo.net
 0.0.0.0 oackoubs.com
+0.0.0.0 oackoulimtoo.com
 0.0.0.0 oadaheba.net
 0.0.0.0 oadroass.com
 0.0.0.0 oadrojoa.net
