@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.128
 # Release: 128
-# Entries: 138,324
-# Updated: Tue, 07 May 24 16:08:56 +06
+# Entries: 138,337
+# Updated: Tue, 07 May 24 18:16:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -27517,6 +27517,7 @@
 0.0.0.0 deducemasjid.top
 0.0.0.0 deductionadjacentwatchful.com
 0.0.0.0 deductionkeepingbabysitter.com
+0.0.0.0 deductionobtained.com
 0.0.0.0 deductsgnostic.com
 0.0.0.0 deductstep.com
 0.0.0.0 dee.red
@@ -34236,6 +34237,7 @@
 0.0.0.0 enemasgemmary.uno
 0.0.0.0 enemieshemisphere.com
 0.0.0.0 enemiespointedextinguish.com
+0.0.0.0 enemydegradeaspect.com
 0.0.0.0 enenajorlaw.ca
 0.0.0.0 enenles.com
 0.0.0.0 enenlyb.com
@@ -37132,6 +37134,7 @@
 0.0.0.0 fatalityplatinumthing.com
 0.0.0.0 fatalityreel.com
 0.0.0.0 fatalloved.com
+0.0.0.0 fatalportentconstable.com
 0.0.0.0 fatamericans.us
 0.0.0.0 fatao.tech
 0.0.0.0 fatavailshipment.com
@@ -37272,6 +37275,7 @@
 0.0.0.0 fbnztqwlirf.com
 0.0.0.0 fbpfquhwlwxvwvo.com
 0.0.0.0 fbpgdlprsiz.com
+0.0.0.0 fbphgscslilrsm.com
 0.0.0.0 fbrheofkccovs.xyz
 0.0.0.0 fbroxaiityhkz.com
 0.0.0.0 fbrrhicrihaj.com
@@ -51311,6 +51315,7 @@
 0.0.0.0 incapableenormously.com
 0.0.0.0 incarnategrannystem.com
 0.0.0.0 incarnatepicturesque.com
+0.0.0.0 incastiglionfiorentino.com
 0.0.0.0 incastiglionfiorentino.net
 0.0.0.0 incaveprobeer.digital
 0.0.0.0 incensehubindia.com
@@ -71196,6 +71201,7 @@
 0.0.0.0 nextrelative.com
 0.0.0.0 nextretreat.me
 0.0.0.0 nextseason.online
+0.0.0.0 nextsoft.co.in
 0.0.0.0 nextyourcontent.com
 0.0.0.0 nexus-broking.com
 0.0.0.0 nexus-dynamics.net
@@ -75895,6 +75901,7 @@
 0.0.0.0 osaminepigee.space
 0.0.0.0 osangauh.net
 0.0.0.0 osarmapa.net
+0.0.0.0 osatky.com
 0.0.0.0 osaud.com
 0.0.0.0 osaunsot.net
 0.0.0.0 osbmpudpkvwyrbw.com
@@ -115971,6 +115978,7 @@
 0.0.0.0 wluqqkmhxb.com
 0.0.0.0 wlvhwwidvo.com
 0.0.0.0 wlvupulqadyuhr.xyz
+0.0.0.0 wlwbjjphtza.com
 0.0.0.0 wlwnefdkuc.com
 0.0.0.0 wlwynyobrjeov.com
 0.0.0.0 wlxhyijbukft.xyz
@@ -123647,6 +123655,7 @@
 0.0.0.0 www.gloriarefreshsuspected.com
 0.0.0.0 www.glorifyfactor.com
 0.0.0.0 www.glorifyraytreasurer.com
+0.0.0.0 www.glorious.video
 0.0.0.0 www.gloriousboileldest.com
 0.0.0.0 www.glossquay.com
 0.0.0.0 www.gloudsuns.com
@@ -124715,6 +124724,8 @@
 0.0.0.0 www.inbornsodcharms.com
 0.0.0.0 www.incapabledespair.com
 0.0.0.0 www.incarnatepicturesque.com
+0.0.0.0 www.incastiglionfiorentino.com
+0.0.0.0 www.incastiglionfiorentino.net
 0.0.0.0 www.incensehubindia.com
 0.0.0.0 www.incessantbecomingplucky.com
 0.0.0.0 www.incessantbizarrelick.com
@@ -127228,6 +127239,7 @@
 0.0.0.0 www.newyorkcityburlesque.com
 0.0.0.0 www.nexashoppingclub.com
 0.0.0.0 www.nextrelative.com
+0.0.0.0 www.nextsoft.co.in
 0.0.0.0 www.nexusmedia.tech
 0.0.0.0 www.nexussmartbuildings.com
 0.0.0.0 www.nexusstaffportal.com
@@ -127693,6 +127705,7 @@
 0.0.0.0 www.orslen.notaria2sincelejo.com.co
 0.0.0.0 www.orthocertified.com
 0.0.0.0 www.orurdaurg.com
+0.0.0.0 www.osatky.com
 0.0.0.0 www.ose.cpm.uy
 0.0.0.0 www.osmiorganizacionsorteomundialinformatico.org
 0.0.0.0 www.osnarep.de
