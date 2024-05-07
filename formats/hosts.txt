@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.128
 # Release: 128
-# Entries: 138,304
-# Updated: Tue, 07 May 24 06:10:00 +06
+# Entries: 138,305
+# Updated: Tue, 07 May 24 08:08:29 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -136956,6 +136956,7 @@
 0.0.0.0 yxgmrtaxi.com
 0.0.0.0 yxguqmcemyjiwb.com
 0.0.0.0 yxhamnomqlpkwt.com
+0.0.0.0 yxhdgeagpye.com
 0.0.0.0 yxhkonfmbe.com
 0.0.0.0 yxikdkxpoqhw.com
 0.0.0.0 yxjnzydc.com
