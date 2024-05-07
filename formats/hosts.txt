@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.128
 # Release: 128
-# Entries: 138,308
-# Updated: Tue, 07 May 24 10:08:34 +06
+# Entries: 138,311
+# Updated: Tue, 07 May 24 12:33:06 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -38119,6 +38119,7 @@
 0.0.0.0 finallytrained.com
 0.0.0.0 financcesurv.com
 0.0.0.0 finance-hot-news.com
+0.0.0.0 finance-plus.in
 0.0.0.0 finance2you.org
 0.0.0.0 financebaz.com
 0.0.0.0 financebestsurvey.top
@@ -94931,6 +94932,7 @@
 0.0.0.0 situationhostilitymemorable.com
 0.0.0.0 situbathool.com
 0.0.0.0 siumssoftish.com
+0.0.0.0 siuntrust.com
 0.0.0.0 siuywyycnrpe.com
 0.0.0.0 sivagnair.tech
 0.0.0.0 sivarhealthcity.com.sv
@@ -108090,6 +108092,7 @@
 0.0.0.0 ucomdigital.com
 0.0.0.0 ucpdaoweahmiyug.com
 0.0.0.0 ucqbhkrzsqpqmg.com
+0.0.0.0 ucqgzvxtevxkdd.com
 0.0.0.0 ucraeacekjmvcjo.com
 0.0.0.0 ucrllagm.com
 0.0.0.0 ucteqibnblrjhpb.com
