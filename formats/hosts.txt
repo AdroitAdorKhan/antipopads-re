@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.128
 # Release: 128
-# Entries: 138,301
-# Updated: Tue, 07 May 24 04:37:07 +06
+# Entries: 138,304
+# Updated: Tue, 07 May 24 06:10:00 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -89652,6 +89652,7 @@
 0.0.0.0 routinecloudycrocodile.com
 0.0.0.0 routingcalyces.top
 0.0.0.0 routingnaias.com
+0.0.0.0 routowoashie.xyz
 0.0.0.0 routrip.tech
 0.0.0.0 rouvoute.net
 0.0.0.0 rouwhapt.com
@@ -99833,6 +99834,7 @@
 0.0.0.0 surediscourageconcerning.com
 0.0.0.0 surelyconvinced.com
 0.0.0.0 surelyyap.com
+0.0.0.0 surescripts-dev.qa
 0.0.0.0 sureshmobile.com
 0.0.0.0 surestudies.com
 0.0.0.0 sureview.tv
@@ -136633,6 +136635,7 @@
 0.0.0.0 yqnfyqjnp.com
 0.0.0.0 yqpalfulpst.com
 0.0.0.0 yqragd.com
+0.0.0.0 yqtvnbfndxolsj.com
 0.0.0.0 yqvtqjslflfsq.xyz
 0.0.0.0 yqxhslsqaqkbd.com
 0.0.0.0 yr.sairyglossed.com
