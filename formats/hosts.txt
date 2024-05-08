@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.130
 # Release: 130
-# Entries: 138,528
-# Updated: Thu, 09 May 24 00:08:35 +06
+# Entries: 138,530
+# Updated: Thu, 09 May 24 02:15:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -49259,6 +49259,7 @@
 0.0.0.0 hssitplsoq.com
 0.0.0.0 hsslx.com
 0.0.0.0 hstbbmtyptovqmw.com
+0.0.0.0 hstozflv.com
 0.0.0.0 hstpnetwork.com
 0.0.0.0 hsumeaevly.com
 0.0.0.0 hsxohprjn.com
@@ -86259,6 +86260,7 @@
 0.0.0.0 rapinbox.com
 0.0.0.0 rapite.com
 0.0.0.0 raplicator.com
+0.0.0.0 rapmmxte.com
 0.0.0.0 raporto.net
 0.0.0.0 rapp.bio
 0.0.0.0 rappbio.com
