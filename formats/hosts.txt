@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.130
 # Release: 130
-# Entries: 138,530
-# Updated: Thu, 09 May 24 02:15:22 +06
+# Entries: 138,533
+# Updated: Thu, 09 May 24 04:30:17 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1508,6 +1508,7 @@
 0.0.0.0 3commas.fr
 0.0.0.0 3comms.io
 0.0.0.0 3commsa.io
+0.0.0.0 3cuevana.cx
 0.0.0.0 3d-bites.com
 0.0.0.0 3d-clock.com
 0.0.0.0 3d-fish.com
@@ -16114,6 +16115,7 @@
 0.0.0.0 bonus-app.net
 0.0.0.0 bonusaward.life
 0.0.0.0 bonuscontract.com
+0.0.0.0 bonusfurnishedben.com
 0.0.0.0 bonusmaniac.com
 0.0.0.0 bonusmu.id
 0.0.0.0 bonusshatter.com
@@ -33368,6 +33370,7 @@
 0.0.0.0 ejipaifaurga.com
 0.0.0.0 ejixwhxmacu.xyz
 0.0.0.0 ejmdicxmdoqwk.com
+0.0.0.0 ejmkghpvndufbc.com
 0.0.0.0 ejmqrhqegams.com
 0.0.0.0 ejn910.com
 0.0.0.0 ejo-cat.com
