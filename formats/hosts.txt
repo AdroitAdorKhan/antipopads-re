@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.130
 # Release: 130
-# Entries: 138,598
-# Updated: Thu, 09 May 24 20:31:36 +06
+# Entries: 138,600
+# Updated: Thu, 09 May 24 22:09:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -58612,6 +58612,7 @@
 0.0.0.0 kqjveskjxid.com
 0.0.0.0 kqkekwosxpj.com
 0.0.0.0 kqkimvrqxf.top
+0.0.0.0 kqkxgxluyl.com
 0.0.0.0 kqmffmth.xyz
 0.0.0.0 kqmhmtphshexh.com
 0.0.0.0 kqnhceelxuqvf.com
@@ -121263,6 +121264,7 @@
 0.0.0.0 www.cuttingstrikingtells.com
 0.0.0.0 www.cwindoso.dev
 0.0.0.0 www.cxdataverse.com
+0.0.0.0 www.cyber-counter.com
 0.0.0.0 www.cyber-winner.space
 0.0.0.0 www.cybermaxxlab.com
 0.0.0.0 www.cybermusi.com
