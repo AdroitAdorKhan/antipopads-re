@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.130
 # Release: 130
-# Entries: 138,589
-# Updated: Thu, 09 May 24 18:08:44 +06
+# Entries: 138,598
+# Updated: Thu, 09 May 24 20:31:36 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2745,6 +2745,7 @@
 0.0.0.0 8547.wf
 0.0.0.0 855122c.com
 0.0.0.0 8556.wf
+0.0.0.0 8576.wf
 0.0.0.0 8576.yt
 0.0.0.0 8597.yt
 0.0.0.0 85c485513f.com
@@ -57362,6 +57363,7 @@
 0.0.0.0 kfaksmehporrj.com
 0.0.0.0 kfareputfeab.org
 0.0.0.0 kfaugikes.com
+0.0.0.0 kfbdnyeelfxctc.com
 0.0.0.0 kfbjvkmmuus.com
 0.0.0.0 kfbvrcpaqhbagkf.com
 0.0.0.0 kfcculkonclcfox.xyz
@@ -59074,6 +59076,7 @@
 0.0.0.0 kwarh.com
 0.0.0.0 kwayne.tech
 0.0.0.0 kwaznkureluct.digital
+0.0.0.0 kwbgmufi.com
 0.0.0.0 kwbmkwej.com
 0.0.0.0 kwclhpslbhpmj.xyz
 0.0.0.0 kwcvtafqht.com
@@ -75337,6 +75340,7 @@
 0.0.0.0 onyx-brand.com
 0.0.0.0 onyxiscords.guru
 0.0.0.0 onyyqqojuy.xyz
+0.0.0.0 onzazqarhmpi.com
 0.0.0.0 onzlzyf.com
 0.0.0.0 onznwiocrrim.com
 0.0.0.0 oo-tea.com
@@ -76978,6 +76982,7 @@
 0.0.0.0 oysterfoxfoe.com
 0.0.0.0 oysterscoldtiny.com
 0.0.0.0 oysvlrijd.xyz
+0.0.0.0 oyttqbhxxc.com
 0.0.0.0 oytujdljaoi.com
 0.0.0.0 oyummg.com
 0.0.0.0 oyuncusistemlerim.net
@@ -78045,6 +78050,7 @@
 0.0.0.0 pauhoano.com
 0.0.0.0 paujudih.xyz
 0.0.0.0 paulamberin.com
+0.0.0.0 paularrears.com
 0.0.0.0 paulaskitchens.com
 0.0.0.0 paulastroid.com
 0.0.0.0 paulazeus.com
@@ -89044,6 +89050,7 @@
 0.0.0.0 rivierauno.com
 0.0.0.0 rivierauno.homes
 0.0.0.0 rivjjsopmau.com
+0.0.0.0 rivmuvlnu.com
 0.0.0.0 rivne.space
 0.0.0.0 rivoice.net
 0.0.0.0 rivuletwars.com
@@ -106207,6 +106214,7 @@
 0.0.0.0 trafficborder.com
 0.0.0.0 trafficbottomgrains.com
 0.0.0.0 trafficbroker.xyz
+0.0.0.0 trafficdecisions.com
 0.0.0.0 trafficdok.com
 0.0.0.0 trafficfactory.biz
 0.0.0.0 trafficforce.com
@@ -135275,6 +135283,7 @@
 0.0.0.0 xrp23.net
 0.0.0.0 xrp23.org
 0.0.0.0 xrp23.pro
+0.0.0.0 xrpikxtnmvcm.com
 0.0.0.0 xrpl.international
 0.0.0.0 xrplaunchpad.com
 0.0.0.0 xrpquhfqliddoks.com
