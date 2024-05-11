@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.132
 # Release: 132
-# Entries: 138,830
-# Updated: Sat, 11 May 24 06:10:02 +06
+# Entries: 138,834
+# Updated: Sat, 11 May 24 08:08:06 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3713,6 +3713,7 @@
 0.0.0.0 abordy.com
 0.0.0.0 aboriginaldisturbthirty.com
 0.0.0.0 aboriginalhubby.com
+0.0.0.0 aboriginesprimary.com
 0.0.0.0 aborld.com
 0.0.0.0 abortmaydesirable.com
 0.0.0.0 abortsrefront.top
@@ -6481,6 +6482,7 @@
 0.0.0.0 ajaydubey.in
 0.0.0.0 ajayian.com
 0.0.0.0 ajbbblkjmwm.com
+0.0.0.0 ajcgpqxokiorf.com
 0.0.0.0 ajcomenta.nifracomtra.com
 0.0.0.0 ajdbwugpyjhrm.com
 0.0.0.0 ajdss.org
@@ -25739,6 +25741,7 @@
 0.0.0.0 ctugslmxbdgkuq.com
 0.0.0.0 ctuklyeconnec.xyz
 0.0.0.0 ctusports.com
+0.0.0.0 ctvnfeta.com
 0.0.0.0 ctvnmxl.com
 0.0.0.0 ctvnwuhllwfvvw.com
 0.0.0.0 ctw-solutions.com
@@ -130230,6 +130233,7 @@
 0.0.0.0 www.rowplates.com
 0.0.0.0 www.royaldistributingtest.com
 0.0.0.0 www.royalkingdomproductions.com
+0.0.0.0 www.royalrelentcorrespondence.com
 0.0.0.0 www.royradiohouse.com
 0.0.0.0 www.rozhledy.net
 0.0.0.0 www.rp-kassel.owl21.de
