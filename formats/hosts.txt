@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.133
 # Release: 133
-# Entries: 138,891
-# Updated: Sun, 12 May 24 06:09:53 +06
+# Entries: 138,892
+# Updated: Sun, 12 May 24 08:08:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -83890,6 +83890,7 @@
 0.0.0.0 ptjswt.com
 0.0.0.0 ptjugubjdks.com
 0.0.0.0 ptkjdqwxyvkk.com
+0.0.0.0 ptkxailboxlnte.xyz
 0.0.0.0 ptlaocp.cn
 0.0.0.0 ptlwm.com
 0.0.0.0 ptm-heallth.com
