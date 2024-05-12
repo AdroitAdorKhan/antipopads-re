@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.134
 # Release: 134
-# Entries: 138,978
-# Updated: Mon, 13 May 24 00:08:21 +06
+# Entries: 138,983
+# Updated: Mon, 13 May 24 02:08:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15013,6 +15013,7 @@
 0.0.0.0 bitcoin-smarter-app.net
 0.0.0.0 bitcoin-solution.com
 0.0.0.0 bitcoin2dollars.com
+0.0.0.0 bitcoinbot-app.net
 0.0.0.0 bitcoincipro.com
 0.0.0.0 bitcoinfutureremastered.com
 0.0.0.0 bitcoingrowing.info
@@ -15186,6 +15187,7 @@
 0.0.0.0 bklzn.com
 0.0.0.0 bknbktxk.com
 0.0.0.0 bkofsthuvxw.com
+0.0.0.0 bkoufqfjgnd.com
 0.0.0.0 bkpndkowbo.com
 0.0.0.0 bkptarolium.uno
 0.0.0.0 bkrmyhynjddpl.com
@@ -19852,6 +19854,7 @@
 0.0.0.0 cd828.com
 0.0.0.0 cda-hd.co
 0.0.0.0 cdakcfsyimp.xyz
+0.0.0.0 cdalljtjplwu.com
 0.0.0.0 cdceed.de
 0.0.0.0 cdctwm.com
 0.0.0.0 cddbwlpqk.xyz
@@ -119820,6 +119823,7 @@
 0.0.0.0 www.birtuwhaim.com
 0.0.0.0 www.bisbeewire.org
 0.0.0.0 www.bishopswateririshwhiskey.com
+0.0.0.0 www.bitcoinbot-app.net
 0.0.0.0 www.bitcoinsteady.com
 0.0.0.0 www.bitemisuse.com
 0.0.0.0 www.bitgeniusonline.com
@@ -124216,6 +124220,7 @@
 0.0.0.0 www.glacierglorifybeetroot.com
 0.0.0.0 www.glaciergrimly.com
 0.0.0.0 www.gladlyconceitcucumbers.com
+0.0.0.0 www.gladsince.com
 0.0.0.0 www.glamorousdescend.com
 0.0.0.0 www.glampingsmart.com
 0.0.0.0 www.glancingambulance.com
