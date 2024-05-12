@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.133
 # Release: 133
-# Entries: 138,924
-# Updated: Sun, 12 May 24 20:58:47 +06
+# Entries: 138,925
+# Updated: Sun, 12 May 24 22:08:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -66941,6 +66941,7 @@
 :: mineraltip.com
 :: mineralztech.com
 :: minervazdravi.com
+:: minetr.ee
 :: mineux.digital
 :: mineux.io
 :: mingleabstainsuccessor.com
