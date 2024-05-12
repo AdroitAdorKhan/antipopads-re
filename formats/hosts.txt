@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.133
 # Release: 133
-# Entries: 138,890
-# Updated: Sun, 12 May 24 04:32:52 +06
+# Entries: 138,891
+# Updated: Sun, 12 May 24 06:09:53 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -30980,6 +30980,7 @@
 0.0.0.0 dqsdpdofibwsjjg.xyz
 0.0.0.0 dqsvzptpd.com
 0.0.0.0 dqtemcjldltfa.com
+0.0.0.0 dqtzmkwzvoidi.com
 0.0.0.0 dqvnpbs.com
 0.0.0.0 dqwiknud.com
 0.0.0.0 dqxafqhxfjculs.com
