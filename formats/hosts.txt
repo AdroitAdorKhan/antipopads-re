@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.134
 # Release: 134
-# Entries: 139,095
-# Updated: Mon, 13 May 24 08:08:41 +06
+# Entries: 139,126
+# Updated: Mon, 13 May 24 10:08:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3051,10 +3051,13 @@
 0.0.0.0 996.energy
 0.0.0.0 996.fish
 0.0.0.0 996.works
+0.0.0.0 9968557.com
 0.0.0.0 9968667.com
 0.0.0.0 9968758.com
 0.0.0.0 9968759.com
+0.0.0.0 9968767.com
 0.0.0.0 9968779.com
+0.0.0.0 9968785.com
 0.0.0.0 9968858.com
 0.0.0.0 9968878.com
 0.0.0.0 9968895.com
@@ -3869,6 +3872,7 @@
 0.0.0.0 abuseisno1.xyz
 0.0.0.0 abusiveserving.com
 0.0.0.0 abutmentlabodigital.com
+0.0.0.0 abvmyouth.com
 0.0.0.0 abvnypoqcgmh.com
 0.0.0.0 abvoltssilen.top
 0.0.0.0 abwhyag.com
@@ -7337,6 +7341,7 @@
 0.0.0.0 alpinedrct.com
 0.0.0.0 alpineoptometry.ca
 0.0.0.0 alpinesafes.com
+0.0.0.0 alpipean.com
 0.0.0.0 alpoalpo.xyz
 0.0.0.0 alppcbkrmxsci.xyz
 0.0.0.0 alps.life
@@ -24634,6 +24639,7 @@
 0.0.0.0 coubertin.international
 0.0.0.0 coubte.com
 0.0.0.0 couchimpishbrandy.com
+0.0.0.0 couchswinging.fun
 0.0.0.0 coudswamper.com
 0.0.0.0 coughparachutegenerosity.com
 0.0.0.0 couhiboa.com
@@ -28669,6 +28675,7 @@
 0.0.0.0 dezbrdez.store
 0.0.0.0 dezdf.de
 0.0.0.0 dezinfikuj.me
+0.0.0.0 dezolati.com
 0.0.0.0 dezzobranding.co.za
 0.0.0.0 df.aureneceriman.com
 0.0.0.0 df.fugacygarner.com
@@ -35768,6 +35775,7 @@
 0.0.0.0 eurocommercialasrl.com
 0.0.0.0 eurodlvp.com
 0.0.0.0 eurodual.org
+0.0.0.0 euroformcz.net
 0.0.0.0 euroformcz.org
 0.0.0.0 eurogirlbiller.in
 0.0.0.0 eurohandball2022.com
@@ -38299,6 +38307,7 @@
 0.0.0.0 fillstatus.com
 0.0.0.0 film-hd.online
 0.0.0.0 film4.tech
+0.0.0.0 filmbuck.com
 0.0.0.0 filmegod.com
 0.0.0.0 filmehdonline.biz
 0.0.0.0 filmesonlinegratis.com
@@ -38333,6 +38342,7 @@
 0.0.0.0 filteradkernel.adsimilate.com
 0.0.0.0 filtereddata.com
 0.0.0.0 filterexchangecage.com
+0.0.0.0 filtermac-tarify.com
 0.0.0.0 filtersindustrial.com
 0.0.0.0 filtertopplescream.com
 0.0.0.0 filthsafetypersons.com
@@ -43107,6 +43117,7 @@
 0.0.0.0 gladyscacerescoach.com
 0.0.0.0 glagic.com
 0.0.0.0 glagmnoh.com
+0.0.0.0 glaichaupu.net
 0.0.0.0 glaichid.net
 0.0.0.0 glaickoxaksy.com
 0.0.0.0 glaidsurteeg.com
@@ -49690,6 +49701,7 @@
 0.0.0.0 huldeeelfwife.com
 0.0.0.0 huliskiclub.com
 0.0.0.0 hulkflugarb.com
+0.0.0.0 hulkon.com
 0.0.0.0 hulledaries.top
 0.0.0.0 huloxakuxukwduo.xyz
 0.0.0.0 hulsairtid.com
@@ -50474,6 +50486,7 @@
 0.0.0.0 iconiceyeware.com
 0.0.0.0 iconista.uk
 0.0.0.0 iconstadper.com
+0.0.0.0 icook4you.online
 0.0.0.0 icookforkrishna.com
 0.0.0.0 icosianrimers.top
 0.0.0.0 icotrack.net
@@ -52475,6 +52488,8 @@
 0.0.0.0 inspikon.com
 0.0.0.0 inspinario.com
 0.0.0.0 inspio.online
+0.0.0.0 inspiodekorationer.com
+0.0.0.0 inspiokoristeet.com
 0.0.0.0 inspirationalselftalk.com
 0.0.0.0 inspirationalselftalk.net
 0.0.0.0 inspirationhistorical.com
@@ -53892,6 +53907,7 @@
 0.0.0.0 ivermectinepharmacie.com
 0.0.0.0 ivermectinkaufenschweiz.com
 0.0.0.0 ivesofefinegold.info
+0.0.0.0 ivetbakova.com
 0.0.0.0 ivfguideweb.com
 0.0.0.0 ivfihumeajjmbc.com
 0.0.0.0 ivfpyqudlaxfvm.com
@@ -58293,6 +58309,7 @@
 0.0.0.0 kmvrdkjr.com
 0.0.0.0 kmvrvsulfdushkb.xyz
 0.0.0.0 kmwflqmvfnv.com
+0.0.0.0 kmwjtcis.com
 0.0.0.0 kmwsmlwudyukcg.top
 0.0.0.0 kmxwygco.com
 0.0.0.0 kmyaklgcik.com
@@ -60108,6 +60125,7 @@
 0.0.0.0 laughbuckle.com
 0.0.0.0 laughedaffront.com
 0.0.0.0 laughedrevealedpears.com
+0.0.0.0 laughingbytes.com
 0.0.0.0 laughingfestive.com
 0.0.0.0 laughingrecordinggossipy.com
 0.0.0.0 laughterattainoverweight.com
@@ -66025,6 +66043,7 @@
 0.0.0.0 melancholyconceptparting.com
 0.0.0.0 melancholygreedyhonour.com
 0.0.0.0 melatonin.work
+0.0.0.0 melbet-casino.life
 0.0.0.0 melbet-casinos.cfd
 0.0.0.0 melbet-ru.life
 0.0.0.0 melbet-site.life
@@ -66962,6 +66981,7 @@
 0.0.0.0 mimi170.com
 0.0.0.0 mimicbeeralb.com
 0.0.0.0 mimicdisperse.com
+0.0.0.0 mimidrevo.com
 0.0.0.0 mimilcnf.pro
 0.0.0.0 mimilum.com
 0.0.0.0 mimipet.ir
@@ -68390,6 +68410,7 @@
 0.0.0.0 moshmarket.de
 0.0.0.0 moskalkova.com
 0.0.0.0 mosked.com
+0.0.0.0 moskva.live
 0.0.0.0 moslemtaxon.guru
 0.0.0.0 mosquedestitute.com
 0.0.0.0 mosques.in
@@ -68410,6 +68431,7 @@
 0.0.0.0 mostbet-kz.xyz
 0.0.0.0 mostbet-site.info
 0.0.0.0 mostbetcasinos-zerkalo.cfd
+0.0.0.0 mostbetcom.life
 0.0.0.0 mostbett.life
 0.0.0.0 mostbrilliantwar.com
 0.0.0.0 mostcolonizetoilet.com
@@ -86965,6 +86987,7 @@
 0.0.0.0 rd.dacryawingman.com
 0.0.0.0 rd.rearsated.com
 0.0.0.0 rd943.pw
+0.0.0.0 rdccd.cn
 0.0.0.0 rdcqbyienb.com
 0.0.0.0 rddywd.com
 0.0.0.0 rdeafwcapcf.xyz
@@ -88167,6 +88190,7 @@
 0.0.0.0 rentooze.com
 0.0.0.0 rentozindia.com
 0.0.0.0 rentsignal.ca
+0.0.0.0 rentusia.com
 0.0.0.0 renubourneart.com
 0.0.0.0 renukaindustries.org
 0.0.0.0 renumedspanc.com
@@ -89112,6 +89136,7 @@
 0.0.0.0 richheartpr.life
 0.0.0.0 richinfo.co
 0.0.0.0 richlandacademy.ca
+0.0.0.0 richmarket.me
 0.0.0.0 richmond-royals.com
 0.0.0.0 richmondcarpetcleaning.net
 0.0.0.0 richmondgabrieluniversity.org
@@ -95578,6 +95603,7 @@
 0.0.0.0 sjimyixxbpgq.com
 0.0.0.0 sjinternal.com
 0.0.0.0 sjjaewodpexdcyf.com
+0.0.0.0 sjjvhpthryzgp.com
 0.0.0.0 sjkekxjkca.com
 0.0.0.0 sjkpepjbg.com
 0.0.0.0 sjkzeivw.com
@@ -101324,6 +101350,7 @@
 0.0.0.0 sztv.re
 0.0.0.0 szucsek.com
 0.0.0.0 szumxymen.com
+0.0.0.0 szurcsi.com
 0.0.0.0 szwdating.com
 0.0.0.0 szxizhiw.com
 0.0.0.0 szyr524.com
@@ -103350,6 +103377,7 @@
 0.0.0.0 thebestlipo360.com
 0.0.0.0 thebestmetaversejobs.com
 0.0.0.0 thebestmoneycounters.com
+0.0.0.0 thebestnews.pro
 0.0.0.0 thebestpuzzlegame.com
 0.0.0.0 thebestwayfarward.org
 0.0.0.0 thebettergardens.com
@@ -103454,6 +103482,7 @@
 0.0.0.0 thecch.in
 0.0.0.0 thecenter4shs.com
 0.0.0.0 thechargenews.com
+0.0.0.0 thechasecafe.net
 0.0.0.0 thechef18.in
 0.0.0.0 thechiefdynamic.com
 0.0.0.0 thechiefexecutive.us
@@ -112867,6 +112896,7 @@
 0.0.0.0 virusprotectionset.com
 0.0.0.0 virussansara.store
 0.0.0.0 virusscanner.to
+0.0.0.0 visa-tsentre.info
 0.0.0.0 visaboard.co
 0.0.0.0 visaboard.net
 0.0.0.0 visaexasperation.com
@@ -130609,6 +130639,7 @@
 0.0.0.0 www.salewa.online
 0.0.0.0 www.sallyoxenstops.com
 0.0.0.0 www.salmonmicrophonesoul.com
+0.0.0.0 www.salomonjuniorteam.com
 0.0.0.0 www.salon526.com
 0.0.0.0 www.salonsoft.app
 0.0.0.0 www.salsrus.com
