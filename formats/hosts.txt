@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.134
 # Release: 134
-# Entries: 139,144
-# Updated: Mon, 13 May 24 20:37:32 +06
+# Entries: 139,150
+# Updated: Mon, 13 May 24 22:09:27 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -23640,6 +23640,7 @@
 0.0.0.0 comradeorientalfinance.com
 0.0.0.0 comradiga.com
 0.0.0.0 comsamaa.co.za
+0.0.0.0 comsatmax.com
 0.0.0.0 comsetups.xyz
 0.0.0.0 comseznam.cz
 0.0.0.0 comsite.website
@@ -43308,6 +43309,7 @@
 0.0.0.0 glleadflxvn.com
 0.0.0.0 gllgqjxog.com
 0.0.0.0 gllpjkegmhusuq.com
+0.0.0.0 glmswwhrbodu.com
 0.0.0.0 glngbufaa.com
 0.0.0.0 glo-glo-oom.com
 0.0.0.0 gloacmie.com
@@ -44969,6 +44971,7 @@
 0.0.0.0 greenery.space
 0.0.0.0 greenfloors.biz
 0.0.0.0 greenfox.ink
+0.0.0.0 greengreenhouses.org
 0.0.0.0 greengrowroad.com
 0.0.0.0 greenheartlifesyle.com
 0.0.0.0 greenhousecape.com
@@ -49031,6 +49034,7 @@
 0.0.0.0 hostave4.net
 0.0.0.0 hostcare.pro
 0.0.0.0 hostclouddev.com
+0.0.0.0 hostdnszones.com
 0.0.0.0 hostelsansar.com
 0.0.0.0 hostess4events.store
 0.0.0.0 hostessrip.com
@@ -132926,6 +132930,7 @@
 0.0.0.0 www.trollcouch.com
 0.0.0.0 www.trolleydemocratic.com
 0.0.0.0 www.trolleydryerfunds.com
+0.0.0.0 www.trolleytool.com
 0.0.0.0 www.trolltech.com
 0.0.0.0 www.trollwarningpaws.com
 0.0.0.0 www.troopsassistedstupidity.com
@@ -135124,6 +135129,7 @@
 0.0.0.0 xi-ming-ze.com
 0.0.0.0 xi.ictusesbuckras.com
 0.0.0.0 xi5x140r3.com
+0.0.0.0 xiaahkpncq.com
 0.0.0.0 xiacqvslwjv.com
 0.0.0.0 xiadaxiong.com
 0.0.0.0 xiaieamivfvdx.com
