@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.135
 # Release: 135
-# Entries: 139,302
-# Updated: Tue, 14 May 24 18:12:14 +06
+# Entries: 139,305
+# Updated: Tue, 14 May 24 20:32:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15844,6 +15844,7 @@
 0.0.0.0 bngtrak.com
 0.0.0.0 bngwlt.com
 0.0.0.0 bnhtml.com
+0.0.0.0 bnimjazemigetf.com
 0.0.0.0 bninbpdnxlsymmt.com
 0.0.0.0 bniofdb1413.com
 0.0.0.0 bnivcpronr.com
@@ -38067,6 +38068,7 @@
 0.0.0.0 ffortyimagist.com
 0.0.0.0 ffpbc.com
 0.0.0.0 ffqtjwwhupcg.com
+0.0.0.0 ffrcmfcbzh.com
 0.0.0.0 ffrebags.com
 0.0.0.0 ffrxlhuwvyldpk.com
 0.0.0.0 ffrywcxaewmpp.com
@@ -68368,6 +68370,7 @@
 0.0.0.0 moonich.news
 0.0.0.0 moonicorn.network
 0.0.0.0 mooningfiesta.com
+0.0.0.0 moonjscdn.info
 0.0.0.0 moonkis.info
 0.0.0.0 moonlightallowcountries.com
 0.0.0.0 moonlightskyband.com
