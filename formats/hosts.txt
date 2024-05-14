@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.135
 # Release: 135
-# Entries: 139,305
-# Updated: Tue, 14 May 24 20:32:56 +06
+# Entries: 139,309
+# Updated: Tue, 14 May 24 22:08:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -26913,6 +26913,7 @@
 0.0.0.0 danzigtitoism.guru
 0.0.0.0 daocatba.info
 0.0.0.0 daocatba.space
+0.0.0.0 daocrowdgrow.com
 0.0.0.0 daohoangsa.info
 0.0.0.0 daohoangsa.life
 0.0.0.0 daohoangsa.live
@@ -38116,6 +38117,7 @@
 0.0.0.0 fgnasqfcpu.xyz
 0.0.0.0 fgnidvwcg.com
 0.0.0.0 fgoqnva.com
+0.0.0.0 fgpcpfpie.com
 0.0.0.0 fgpmxwbxnpww.xyz
 0.0.0.0 fgpvxxbsickfm.xyz
 0.0.0.0 fgqjrurlqxucyo.com
@@ -65093,6 +65095,7 @@
 0.0.0.0 martinuhrecky.com
 0.0.0.0 martinvitations.com
 0.0.0.0 martmadimpatience.com
+0.0.0.0 martoine.com
 0.0.0.0 martovs.com
 0.0.0.0 martuconfuse.com
 0.0.0.0 martugnem.com
@@ -108743,6 +108746,7 @@
 0.0.0.0 tzvojcc.com
 0.0.0.0 tzvpn.site
 0.0.0.0 tzvroyuhmkvlsa.com
+0.0.0.0 tzxqjhurp.com
 0.0.0.0 tzyjotwoocku.com
 0.0.0.0 tzyus-p.net
 0.0.0.0 u.www.dimseeksa.com
