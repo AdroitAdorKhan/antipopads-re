@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.137
 # Release: 137
-# Entries: 139,586
-# Updated: Thu, 16 May 24 18:26:00 +06
+# Entries: 139,588
+# Updated: Thu, 16 May 24 20:17:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -42112,6 +42112,7 @@
 0.0.0.0 gcieehxlswdnjn.com
 0.0.0.0 gcion.com
 0.0.0.0 gcjktwkfhumpkxw.com
+0.0.0.0 gcjzuzldn.com
 0.0.0.0 gckkxvpbhhlx.com
 0.0.0.0 gcktek.com
 0.0.0.0 gclocks.com
@@ -118047,6 +118048,7 @@
 0.0.0.0 wuc11.com
 0.0.0.0 wuchaurteed.com
 0.0.0.0 wuckaity.com
+0.0.0.0 wucxlvjiown.com
 0.0.0.0 wudaoutsjuxbd.com
 0.0.0.0 wudbqbdli.com
 0.0.0.0 wudlyf.com
