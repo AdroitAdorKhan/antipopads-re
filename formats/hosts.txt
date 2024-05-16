@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.137
 # Release: 137
-# Entries: 139,559
-# Updated: Thu, 16 May 24 10:23:08 +06
+# Entries: 139,571
+# Updated: Thu, 16 May 24 12:08:11 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -25657,6 +25657,7 @@
 0.0.0.0 cryptoethica.io
 0.0.0.0 cryptofuture.info
 0.0.0.0 cryptofutureguide.com
+0.0.0.0 cryptofy.network
 0.0.0.0 cryptogene.net
 0.0.0.0 cryptogramwines.org
 0.0.0.0 cryptographicweb.org
@@ -57876,6 +57877,7 @@
 0.0.0.0 khadiprakritikpainthosur.com
 0.0.0.0 khadithandai.in
 0.0.0.0 khaison.org
+0.0.0.0 khakzbegyfcz.com
 0.0.0.0 khalid.biz
 0.0.0.0 khalidish.com
 0.0.0.0 khalsacollegeaakar.org
@@ -62619,6 +62621,7 @@
 0.0.0.0 loftartists.ca
 0.0.0.0 loftathailand.com
 0.0.0.0 loftbasics.com
+0.0.0.0 loftentertainmentmgmt.com
 0.0.0.0 loftiernucule.com
 0.0.0.0 loftknowing.com
 0.0.0.0 loftnet.net
@@ -65016,6 +65019,7 @@
 0.0.0.0 mariodeviajepor.com
 0.0.0.0 marioncountydetention.com
 0.0.0.0 mariovarga.online
+0.0.0.0 mariposafellow.org
 0.0.0.0 mariposafellows.us
 0.0.0.0 mariposafellowship.org
 0.0.0.0 mariposafellowship.ventures
@@ -69900,6 +69904,7 @@
 0.0.0.0 myedgereward.co.in
 0.0.0.0 myedgerewards.in
 0.0.0.0 myedgerewardsaxis.co.in
+0.0.0.0 myeducationtree.com
 0.0.0.0 myefforts.ru
 0.0.0.0 myemailtracking.com
 0.0.0.0 myemdwtjqkwvlmw.xyz
@@ -85655,6 +85660,7 @@
 0.0.0.0 qldjsilhux.com
 0.0.0.0 qlearn.courses
 0.0.0.0 qlepnmteidhpdlt.com
+0.0.0.0 qlfdnevdnjkff.com
 0.0.0.0 qlfqkjluvz.com
 0.0.0.0 qlhrhtwqjfs.com
 0.0.0.0 qliasqhhonow.com
@@ -96422,6 +96428,7 @@
 0.0.0.0 sll5.cfd
 0.0.0.0 slmdz4.com
 0.0.0.0 slnecneluky.com
+0.0.0.0 slnkenpodggp.com
 0.0.0.0 slnxbkskw.com
 0.0.0.0 slobcarpstun.com
 0.0.0.0 slobgrandmadryer.com
@@ -122068,6 +122075,7 @@
 0.0.0.0 www.cryingtherefore.com
 0.0.0.0 www.crypto-octagon.site
 0.0.0.0 www.cryptofutureguide.com
+0.0.0.0 www.cryptofy.network
 0.0.0.0 www.cryptogene.net
 0.0.0.0 www.cryptokharkov.com
 0.0.0.0 www.cryptolitetron.website
@@ -127235,6 +127243,7 @@
 0.0.0.0 www.lodha-solitaire.org
 0.0.0.0 www.loesfigure.com
 0.0.0.0 www.loftathailand.com
+0.0.0.0 www.loftentertainmentmgmt.com
 0.0.0.0 www.loftusinghorizon.com
 0.0.0.0 www.loftychord.com
 0.0.0.0 www.log.dance
@@ -127549,6 +127558,7 @@
 0.0.0.0 www.marinamirch.com
 0.0.0.0 www.marinegruffexpecting.com
 0.0.0.0 www.marineprospectsthirst.com
+0.0.0.0 www.mariposafellow.org
 0.0.0.0 www.mariposafellowship.org
 0.0.0.0 www.mariposafellowship.ventures
 0.0.0.0 www.markerfraction.com
@@ -128037,6 +128047,7 @@
 0.0.0.0 www.motiveblizzardstiffen.com
 0.0.0.0 www.motiverewriteupside.com
 0.0.0.0 www.motivessuggest.com
+0.0.0.0 www.moto.law
 0.0.0.0 www.motong.app
 0.0.0.0 www.motorwin.co.uk
 0.0.0.0 www.motorwin.uk
@@ -128170,6 +128181,7 @@
 0.0.0.0 www.mydailynewz.com
 0.0.0.0 www.mydigiverse.marketing
 0.0.0.0 www.myebiz.app
+0.0.0.0 www.myeducationtree.com
 0.0.0.0 www.myfaithster.com
 0.0.0.0 www.myfans.stream
 0.0.0.0 www.myfavoriteperson.info
