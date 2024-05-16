@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.137
 # Release: 137
-# Entries: 139,571
-# Updated: Thu, 16 May 24 12:08:11 +06
+# Entries: 139,574
+# Updated: Thu, 16 May 24 14:12:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -66976,6 +66976,7 @@
 0.0.0.0 microsoftedgewelcome.com
 0.0.0.0 microsoftofficesonline.com
 0.0.0.0 microsoftsucks.org
+0.0.0.0 microsofut.com
 0.0.0.0 microstouff.com
 0.0.0.0 microtextos.net
 0.0.0.0 microvitaprobiotic.com
@@ -85696,6 +85697,7 @@
 0.0.0.0 qmchotdasf.com
 0.0.0.0 qmfvwbqxdshbx.com
 0.0.0.0 qmgsismxtdnjb.com
+0.0.0.0 qmhcsjob.com
 0.0.0.0 qmhffrogjeca.com
 0.0.0.0 qmhiwbyxauat.com
 0.0.0.0 qmihajdixr.com
@@ -135954,6 +135956,7 @@
 0.0.0.0 xn--ciq9mb49iz4m97rexutg9ac5qngih4z.com
 0.0.0.0 xn--comunicaodigital-lnb5e.com
 0.0.0.0 xn--congecko-31a.com
+0.0.0.0 xn--converseper-fhb.com
 0.0.0.0 xn--cryptocomare-cmb.com
 0.0.0.0 xn--d1aihcfio7a4e.online
 0.0.0.0 xn--e-adsvtel-31a4g.com
