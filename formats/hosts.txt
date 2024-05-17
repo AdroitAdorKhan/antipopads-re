@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.138
 # Release: 138
-# Entries: 139,725
-# Updated: Fri, 17 May 24 10:08:11 +06
+# Entries: 139,730
+# Updated: Fri, 17 May 24 12:08:10 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -18508,6 +18508,7 @@
 0.0.0.0 c3customsigns.com
 0.0.0.0 c3magic.net
 0.0.0.0 c3t-system-err.club
+0.0.0.0 c3zone.net
 0.0.0.0 c41film.ca
 0.0.0.0 c43a3cd8f99413891.com
 0.0.0.0 c44wergiu87heghoconutdx.com
@@ -55396,6 +55397,7 @@
 0.0.0.0 jhzotqafwgb.com
 0.0.0.0 ji.dioramarelimit.com
 0.0.0.0 jiaduobao.co
+0.0.0.0 jiaipayhdnru.com
 0.0.0.0 jiajia100.net
 0.0.0.0 jiajumenye.com.cn
 0.0.0.0 jialiuonline.com
@@ -89941,6 +89943,7 @@
 0.0.0.0 rkoxxfnp.com
 0.0.0.0 rkpharma.co.in
 0.0.0.0 rkpublicschool.net
+0.0.0.0 rkshmpjmlm.com
 0.0.0.0 rkslxduqqtj.com
 0.0.0.0 rksolutions.space
 0.0.0.0 rktanlkvskweb.com
@@ -105705,6 +105708,7 @@
 0.0.0.0 titvrbob.xyz
 0.0.0.0 tiuixyhm.com
 0.0.0.0 tiujhxgwurjidj.com
+0.0.0.0 tiukrganv.com
 0.0.0.0 tivanta.com
 0.0.0.0 tivapheegnoa.com
 0.0.0.0 tivatingotherem.info
@@ -120986,6 +120990,7 @@
 0.0.0.0 www.c3-manufacturing.com
 0.0.0.0 www.c3commercialsigns.com
 0.0.0.0 www.c3customsignage.com
+0.0.0.0 www.c3zone.net
 0.0.0.0 www.c6mattakesett.com
 0.0.0.0 www.cabbagereporterpayroll.com
 0.0.0.0 www.cabbagesemestergeoffrey.com
