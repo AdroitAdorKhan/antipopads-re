@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.138
 # Release: 138
-# Entries: 139,742
-# Updated: Fri, 17 May 24 16:35:58 +06
+# Entries: 139,743
+# Updated: Fri, 17 May 24 18:08:37 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -114258,6 +114258,7 @@
 0.0.0.0 vs3.com
 0.0.0.0 vsarepjxnipcf.xyz
 0.0.0.0 vsavmrmqp.xyz
+0.0.0.0 vscbhmrxbu.com
 0.0.0.0 vscfbcovhctu.com
 0.0.0.0 vsciovdhwhboamy.xyz
 0.0.0.0 vscloiemq.com
