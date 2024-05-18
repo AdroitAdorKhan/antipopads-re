@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.140
 # Release: 140
-# Entries: 139,903
-# Updated: Sun, 19 May 24 02:08:18 +06
+# Entries: 139,905
+# Updated: Sun, 19 May 24 05:26:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -67398,6 +67398,7 @@
 0.0.0.0 minazero.com
 0.0.0.0 minbluesky.com
 0.0.0.0 minbutranche.live
+0.0.0.0 mincdecwdshy.com
 0.0.0.0 minceloro.live
 0.0.0.0 mincenavigable.com
 0.0.0.0 mincesecondaryinset.com
@@ -85290,6 +85291,7 @@
 0.0.0.0 pwppjmgvv.com
 0.0.0.0 pwpsychology.com
 0.0.0.0 pwqelsupxllx.com
+0.0.0.0 pwqzvrjv.com
 0.0.0.0 pwr-ads.xml-v4.ak-is2.net
 0.0.0.0 pwrads.net
 0.0.0.0 pwrcentric.com
