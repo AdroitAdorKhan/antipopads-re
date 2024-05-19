@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.140
 # Release: 140
-# Entries: 139,930
-# Updated: Sun, 19 May 24 16:33:41 +06
+# Entries: 139,932
+# Updated: Sun, 19 May 24 18:55:11 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -40360,6 +40360,7 @@
 0.0.0.0 fppmnvrubgl.xyz
 0.0.0.0 fpre.org
 0.0.0.0 fpsglobalgroup.com
+0.0.0.0 fpsrhkhopwm.com
 0.0.0.0 fpteaskadgs.com
 0.0.0.0 fpukxcinlf.com
 0.0.0.0 fpuylobfqjmp.xyz
@@ -136496,6 +136497,7 @@
 0.0.0.0 xpjjlgzqs.com
 0.0.0.0 xpkftctvei.com
 0.0.0.0 xpknhbllmqcytmt.com
+0.0.0.0 xpktfrye.com
 0.0.0.0 xplay.tv
 0.0.0.0 xplgl.com
 0.0.0.0 xplore.com
