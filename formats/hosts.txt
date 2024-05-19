@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.140
 # Release: 140
-# Entries: 139,932
-# Updated: Sun, 19 May 24 18:55:11 +06
+# Entries: 139,934
+# Updated: Sun, 19 May 24 20:45:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -98820,6 +98820,7 @@
 0.0.0.0 sqmhxxhpcmwwdn.com
 0.0.0.0 sqmzanszcahcmi.com
 0.0.0.0 sqnvpcjydjjt.com
+0.0.0.0 sqoauzxp.com
 0.0.0.0 sqoo.co
 0.0.0.0 sqpgncbm.com
 0.0.0.0 sqpkijeupbpirb.com
@@ -102874,6 +102875,7 @@
 0.0.0.0 tdstradingltd.com
 0.0.0.0 tdsyuoalxtply.xyz
 0.0.0.0 tdufdcnjatnj.top
+0.0.0.0 tduuynfetuczfn.com
 0.0.0.0 tdveargeo.com
 0.0.0.0 tdwbcjgaal.com
 0.0.0.0 tdwiefkvgeru.com
