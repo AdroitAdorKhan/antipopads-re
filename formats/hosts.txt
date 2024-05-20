@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.141
 # Release: 141
-# Entries: 139,999
-# Updated: Mon, 20 May 24 07:09:44 +06
+# Entries: 140,002
+# Updated: Mon, 20 May 24 08:09:01 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14497,6 +14497,7 @@
 0.0.0.0 bhatiaestates.in
 0.0.0.0 bhaveshdesai.online
 0.0.0.0 bhaveshdesai.site
+0.0.0.0 bhb.ba
 0.0.0.0 bhbtmipjiqn.com
 0.0.0.0 bhcont.com
 0.0.0.0 bhcostefja.com
@@ -120680,6 +120681,7 @@
 0.0.0.0 www.bezawada.in
 0.0.0.0 www.bezlya.uk
 0.0.0.0 www.bhagwatidevisharma.org
+0.0.0.0 www.bhb.ba
 0.0.0.0 www.bhntnfj.com
 0.0.0.0 www.bhumitourandtravels.com
 0.0.0.0 www.bibleablative.com
@@ -136675,6 +136677,7 @@
 0.0.0.0 xsiam.tech
 0.0.0.0 xsjc4smhbyjf.com
 0.0.0.0 xskctff.com
+0.0.0.0 xskghmlcoxvfqd.com
 0.0.0.0 xskjyfef.xyz
 0.0.0.0 xsknvlmjvrdqo.com
 0.0.0.0 xskywraters.com
