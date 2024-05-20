@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.141
 # Release: 141
-# Entries: 140,027
-# Updated: Mon, 20 May 24 20:52:55 +06
+# Entries: 140,035
+# Updated: Mon, 20 May 24 22:55:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6712,6 +6712,7 @@
 0.0.0.0 alareef.tech
 0.0.0.0 alargeredrubygsw.com
 0.0.0.0 alargeredrubygsw.info
+0.0.0.0 alariadosr.com
 0.0.0.0 alarm-jablotron.com
 0.0.0.0 alarmonitor.uk
 0.0.0.0 alarmsubjectiveanniversary.com
@@ -11621,6 +11622,7 @@
 0.0.0.0 axepallorstraits.com
 0.0.0.0 axesequelplant.com
 0.0.0.0 axesofdominion.com
+0.0.0.0 axexzrldh.com
 0.0.0.0 axfdwhsi.com
 0.0.0.0 axfeicjfp.com
 0.0.0.0 axfpyhyjpxfm.com
@@ -15103,6 +15105,7 @@
 0.0.0.0 bitcoin-solution.com
 0.0.0.0 bitcoin-trendapp.net
 0.0.0.0 bitcoin2dollars.com
+0.0.0.0 bitcoin360ai.tech
 0.0.0.0 bitcoinbank-breaker.net
 0.0.0.0 bitcoinbot-app.net
 0.0.0.0 bitcoincipro.com
@@ -22072,6 +22075,7 @@
 0.0.0.0 claquefumeuse.com
 0.0.0.0 claracambridge.co.uk
 0.0.0.0 clarear.net
+0.0.0.0 clarendoncustos.com
 0.0.0.0 claricehadalittlelamb.net
 0.0.0.0 clarifyde.com
 0.0.0.0 clarifyeloquentblackness.com
@@ -43905,6 +43909,7 @@
 0.0.0.0 gmsstatus.com
 0.0.0.0 gmtrend.io
 0.0.0.0 gmuinujsn.com
+0.0.0.0 gmupxqlbde.xyz
 0.0.0.0 gmuuiqcfcb.com
 0.0.0.0 gmvfggqes.com
 0.0.0.0 gmvhdxteqsy.com
@@ -49404,6 +49409,7 @@
 0.0.0.0 hotelcascadainn.com
 0.0.0.0 hotelcrownamritsar.com
 0.0.0.0 hoteldael.com
+0.0.0.0 hoteldesavoie.eu.com
 0.0.0.0 hoteleasternplazakolkata.com
 0.0.0.0 hotelesenvillalaangostura.info
 0.0.0.0 hotelexshow.com
@@ -74979,6 +74985,7 @@
 0.0.0.0 offertrigger.com
 0.0.0.0 offerwall.site
 0.0.0.0 offfurreton.com
+0.0.0.0 offgalvantulaom.com
 0.0.0.0 offgate-app-phkr.com
 0.0.0.0 offgoldeenon.com
 0.0.0.0 offgrid-wear.com
@@ -125974,6 +125981,7 @@
 0.0.0.0 www.hotdogmomz.com
 0.0.0.0 www.hotelblackandwhite.org
 0.0.0.0 www.hotelbowfeast.com
+0.0.0.0 www.hoteldesavoie.eu.com
 0.0.0.0 www.hotelintimacybananas.com
 0.0.0.0 www.hotgoldenshower.com
 0.0.0.0 www.hotstretchdove.com
