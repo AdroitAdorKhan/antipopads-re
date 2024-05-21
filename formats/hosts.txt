@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.142
 # Release: 142
-# Entries: 140,206
-# Updated: Tue, 21 May 24 12:28:59 +06
+# Entries: 140,211
+# Updated: Tue, 21 May 24 15:01:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -56545,6 +56545,7 @@
 0.0.0.0 jsbpegtvuur.xyz
 0.0.0.0 jsc.adskeeper.co.uk
 0.0.0.0 jsc9988.com
+0.0.0.0 jscdfyxgcakkwcv.xyz
 0.0.0.0 jscdn.online
 0.0.0.0 jscdnweb.pages.dev
 0.0.0.0 jscloud.org
@@ -75919,6 +75920,7 @@
 0.0.0.0 ondrabeneda.com
 0.0.0.0 ondraymusic.com
 0.0.0.0 ondrejcizmar.com
+0.0.0.0 ondrejkabrna.com
 0.0.0.0 ondrejlesak.online
 0.0.0.0 ondrejtomecek.com
 0.0.0.0 ondshub.com
@@ -91691,6 +91693,7 @@
 0.0.0.0 rvddfchkj.xyz
 0.0.0.0 rveasqig.com
 0.0.0.0 rvfwjcvghfgrrq.com
+0.0.0.0 rvhhmpiwydw.com
 0.0.0.0 rvigxvvpkgvvbo.com
 0.0.0.0 rvioyjme.com
 0.0.0.0 rvitsolution.co.in
@@ -109904,6 +109907,7 @@
 0.0.0.0 uhorka.tech
 0.0.0.0 uhpdsplo.com
 0.0.0.0 uhrauebvpa.com
+0.0.0.0 uhrkszyru.com
 0.0.0.0 uhrmzgp.com
 0.0.0.0 uhrsjxkjrx.xyz
 0.0.0.0 uhsmmaq4l2n5.com
@@ -129321,6 +129325,7 @@
 0.0.0.0 www.onchange.org
 0.0.0.0 www.oncominggaragegravely.com
 0.0.0.0 www.oncomingpainless.com
+0.0.0.0 www.ondrejkabrna.com
 0.0.0.0 www.one-alts.com
 0.0.0.0 www.one-gam.net
 0.0.0.0 www.one-pw.net
