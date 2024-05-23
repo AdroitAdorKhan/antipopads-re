@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.145
 # Release: 145
-# Entries: 140,664
-# Updated: Fri, 24 May 24 00:08:44 +06
+# Entries: 140,666
+# Updated: Fri, 24 May 24 02:19:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -67341,6 +67341,7 @@
 0.0.0.0 mgid.com
 0.0.0.0 mgjgqztw.com
 0.0.0.0 mgjnmfhyis.xyz
+0.0.0.0 mgjupkjqmt.com
 0.0.0.0 mglep.com
 0.0.0.0 mglfhedrib.com
 0.0.0.0 mglvfetiub.com
@@ -123554,6 +123555,7 @@
 0.0.0.0 www.deterrentphilosophicalchivalrous.com
 0.0.0.0 www.deterrentviewsmedal.com
 0.0.0.0 www.deutsch-lola.com
+0.0.0.0 www.dev.29kadvisers.ae
 0.0.0.0 www.devaluationfigure.com
 0.0.0.0 www.devappsz.xyz
 0.0.0.0 www.developercleavemillions.com
