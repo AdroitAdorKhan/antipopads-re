@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.144
 # Release: 144
-# Entries: 140,578
-# Updated: Thu, 23 May 24 14:10:15 +06
+# Entries: 140,581
+# Updated: Thu, 23 May 24 16:08:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3869,6 +3869,7 @@
 0.0.0.0 absthetic.com
 0.0.0.0 abstract-r.com
 0.0.0.0 abstractcode.com
+0.0.0.0 abstractmenu.com
 0.0.0.0 absump.com
 0.0.0.0 absurdstudio.space
 0.0.0.0 absurdunite.com
@@ -26474,6 +26475,7 @@
 0.0.0.0 cvytjfempvjor.com
 0.0.0.0 cwacademy.io
 0.0.0.0 cwbankgroup.xyz
+0.0.0.0 cwcgqrfneqle.xyz
 0.0.0.0 cwcpjngtko.com
 0.0.0.0 cwdisqjogjxnr.com
 0.0.0.0 cwefccw.net
@@ -27972,6 +27974,7 @@
 0.0.0.0 deebcards-themier.com
 0.0.0.0 deebwcnanjmegdv.com
 0.0.0.0 deecqem892bg5er.com
+0.0.0.0 deeddrugtask.com
 0.0.0.0 deedeedthowel.top
 0.0.0.0 deedeedwinos.com
 0.0.0.0 deedkernelhomesick.com
