@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.145
 # Release: 145
-# Entries: 140,744
-# Updated: Fri, 24 May 24 08:08:19 +06
+# Entries: 140,751
+# Updated: Fri, 24 May 24 10:20:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -33435,6 +33435,7 @@
 0.0.0.0 edxfquupejhbrey.com
 0.0.0.0 edyu.pl
 0.0.0.0 edzeskulfoldon.com
+0.0.0.0 edzuahkymbureo.com
 0.0.0.0 edzwmobmj.com
 0.0.0.0 ee.cantripmorian.com
 0.0.0.0 ee.vogulprecast.com
@@ -86729,6 +86730,7 @@
 0.0.0.0 qtbcenrfnd.com
 0.0.0.0 qtcebmkf.xyz
 0.0.0.0 qtdopwuau.xyz
+0.0.0.0 qtecdwhbjc.com
 0.0.0.0 qthiqwum.com
 0.0.0.0 qthynj2.com
 0.0.0.0 qtkcgsmoyg.com
@@ -87083,6 +87085,7 @@
 0.0.0.0 qvgmxob.cn
 0.0.0.0 qvhbfxvnf.com
 0.0.0.0 qvikar.com
+0.0.0.0 qvikyqyenshrv.com
 0.0.0.0 qviqautwqnf.com
 0.0.0.0 qvjpjsglmvhcbv.xyz
 0.0.0.0 qvlckjduksqw.com
@@ -105904,6 +105907,10 @@
 0.0.0.0 thosemethod.pro
 0.0.0.0 thosemungo.life
 0.0.0.0 thotcheck.com
+0.0.0.0 thothub.city
+0.0.0.0 thothub.taxi
+0.0.0.0 thothub.world
+0.0.0.0 thothub.zone
 0.0.0.0 thoudroa.net
 0.0.0.0 thouedslipped.life
 0.0.0.0 thoughclassifiedjeff.com
