@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.145
 # Release: 145
-# Entries: 140,801
-# Updated: Fri, 24 May 24 16:38:30 +06
+# Entries: 140,803
+# Updated: Fri, 24 May 24 18:08:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -69802,6 +69802,7 @@
 0.0.0.0 msjfxqrcw.com
 0.0.0.0 msjltrpkpfgb.com
 0.0.0.0 msk-sokil.com
+0.0.0.0 mskdhdqpufw.com
 0.0.0.0 mskeducation.ca
 0.0.0.0 mskjtggjwix.com
 0.0.0.0 mskkppdxjuafmsu.com
@@ -73521,6 +73522,7 @@
 0.0.0.0 noltoomp.net
 0.0.0.0 noltyuivaruehhi.xyz
 0.0.0.0 nomad-minusvirus.com
+0.0.0.0 nomad-minusvirus.fr
 0.0.0.0 nomadbritish.com
 0.0.0.0 nomadcloud.io
 0.0.0.0 nomadeto.com
