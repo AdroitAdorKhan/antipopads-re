@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.147
 # Release: 147
-# Entries: 141,031
-# Updated: Sun, 26 May 24 00:33:12 +06
+# Entries: 141,032
+# Updated: Sun, 26 May 24 02:08:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -46071,6 +46071,7 @@
 0.0.0.0 gsponding.buzz
 0.0.0.0 gsqiynysbvrivpd.com
 0.0.0.0 gsrfkrnkeaanc.xyz
+0.0.0.0 gsrmoajyoplznv.com
 0.0.0.0 gssicidctdklvs.com
 0.0.0.0 gst-advocates.in
 0.0.0.0 gstegenie.com
