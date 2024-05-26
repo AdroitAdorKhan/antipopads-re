@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.148
 # Release: 148
-# Entries: 141,158
-# Updated: Mon, 27 May 24 00:23:59 +06
+# Entries: 141,159
+# Updated: Mon, 27 May 24 02:10:14 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -140406,6 +140406,7 @@
 0.0.0.0 zghaqixhrar.com
 0.0.0.0 zghxus-p.net
 0.0.0.0 zgilcejcfym.com
+0.0.0.0 zgiyqvmsjofn.com
 0.0.0.0 zgjdxws.com
 0.0.0.0 zglceszp.com
 0.0.0.0 zglwrzmreovhl.com
