@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.147
 # Release: 147
-# Entries: 141,131
-# Updated: Sun, 26 May 24 14:07:45 +06
+# Entries: 141,136
+# Updated: Sun, 26 May 24 16:23:00 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -34029,6 +34029,7 @@
 0.0.0.0 ejmkghpvndufbc.com
 0.0.0.0 ejmqrhqegams.com
 0.0.0.0 ejn910.com
+0.0.0.0 ejnrvilfilnz.com
 0.0.0.0 ejo-cat.com
 0.0.0.0 ejobdxeovdnc.com
 0.0.0.0 ejoonsoo.net
@@ -71627,6 +71628,7 @@
 0.0.0.0 nativeleads.net
 0.0.0.0 nativepu.sh
 0.0.0.0 nativeshumbug.com
+0.0.0.0 nativevessel.com
 0.0.0.0 nativewpsh.com
 0.0.0.0 nativewpshep.com
 0.0.0.0 natmedai.com
@@ -79534,6 +79536,7 @@
 0.0.0.0 pathpiece.com
 0.0.0.0 pathpiece.net
 0.0.0.0 pathpiece.org
+0.0.0.0 pathscondensedoatmeal.com
 0.0.0.0 pathsectorostentatious.com
 0.0.0.0 pathswreaths.guru
 0.0.0.0 pathwayscareercollege.ca
@@ -90895,6 +90898,7 @@
 0.0.0.0 rkgwzfwjgk.com
 0.0.0.0 rkhregkgxofnwld.com
 0.0.0.0 rkibntjppusybh.com
+0.0.0.0 rkifguxul.com
 0.0.0.0 rkjl1pn.com
 0.0.0.0 rkjnazpgfihz.com
 0.0.0.0 rkjrepvldtkdel.com
@@ -92818,6 +92822,7 @@
 0.0.0.0 sageclinic.info
 0.0.0.0 sagedeportflorist.com
 0.0.0.0 sageinformationservices.net
+0.0.0.0 sageislanddev.com
 0.0.0.0 sagemind-consulting.co.uk
 0.0.0.0 sagerealtors.in
 0.0.0.0 sages-dev.site
