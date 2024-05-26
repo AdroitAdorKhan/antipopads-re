@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.147
 # Release: 147
-# Entries: 141,150
-# Updated: Sun, 26 May 24 20:18:16 +06
+# Entries: 141,153
+# Updated: Sun, 26 May 24 22:07:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -45959,6 +45959,7 @@
 0.0.0.0 groveexpress.org
 0.0.0.0 grow-carolina.com
 0.0.0.0 growbusinessideas.tech
+0.0.0.0 growcolor.net
 0.0.0.0 growcolour.com
 0.0.0.0 growebads.com
 0.0.0.0 growfastcredit.com
@@ -73460,6 +73461,7 @@
 0.0.0.0 nl.alkeneslaired.com
 0.0.0.0 nl.turnipsyoursel.com
 0.0.0.0 nl221.ca
+0.0.0.0 nlacivduggh.com
 0.0.0.0 nlargeconsu.info
 0.0.0.0 nlbdrwydovuq.xyz
 0.0.0.0 nlbgkaesfhf.com
@@ -106228,6 +106230,7 @@
 0.0.0.0 thosemungo.life
 0.0.0.0 thotcheck.com
 0.0.0.0 thothub.city
+0.0.0.0 thothub.rip
 0.0.0.0 thothub.stream
 0.0.0.0 thothub.taxi
 0.0.0.0 thothub.world
