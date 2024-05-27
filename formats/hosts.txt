@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.148
 # Release: 148
-# Entries: 141,251
-# Updated: Mon, 27 May 24 08:25:15 +06
+# Entries: 141,263
+# Updated: Mon, 27 May 24 12:12:15 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -35407,6 +35407,7 @@
 0.0.0.0 eogvldpoeecdsi.com
 0.0.0.0 eohgtthvl.com
 0.0.0.0 eohssyphg.com
+0.0.0.0 eoigoybnzgqp.com
 0.0.0.0 eoiqyndksdm.com
 0.0.0.0 eojdesign.com
 0.0.0.0 eokethxqpa.com
@@ -58340,6 +58341,7 @@
 0.0.0.0 kegimminent.com
 0.0.0.0 kegnupha.com
 0.0.0.0 kegsandremembrance.com
+0.0.0.0 kegtyeqsbsei.com
 0.0.0.0 kehalim.com
 0.0.0.0 kehuaupsgw.com
 0.0.0.0 kehweuxmwwol.com
@@ -62170,6 +62172,7 @@
 0.0.0.0 lhioqxkralmy.com
 0.0.0.0 lhiswrkt.com
 0.0.0.0 lhjersey.com
+0.0.0.0 lhjuxhscdrjtmj.xyz
 0.0.0.0 lhkgswnnfjcugo.com
 0.0.0.0 lhldyndns.com
 0.0.0.0 lhldyndns.de
@@ -85853,11 +85856,13 @@
 0.0.0.0 pureindustrial.rent
 0.0.0.0 pureindustrial.rentals
 0.0.0.0 pureindustrialrealestatetrust.dev
+0.0.0.0 pureindustrialrealestatetrust.land
 0.0.0.0 pureindustrialrealestatetrust.rentals
 0.0.0.0 pureindustriel.biz
 0.0.0.0 pureindustriel.construction
 0.0.0.0 pureindustriel.dev
 0.0.0.0 pureindustriel.info
+0.0.0.0 pureindustriel.lease
 0.0.0.0 pureindustriel.legal
 0.0.0.0 pureindustriel.live
 0.0.0.0 pureindustriel.properties
@@ -87591,6 +87596,7 @@
 0.0.0.0 r0015.xyz
 0.0.0.0 r023m83skv5v.com
 0.0.0.0 r1-l1.com
+0.0.0.0 r1tech.net
 0.0.0.0 r202cop.xyz
 0.0.0.0 r2b2.email
 0.0.0.0 r2d2.pub
@@ -90630,6 +90636,7 @@
 0.0.0.0 rideautours.net
 0.0.0.0 rideawaken.com
 0.0.0.0 ridegoricko.com
+0.0.0.0 rideinwineregion.com
 0.0.0.0 ridelo.in
 0.0.0.0 ridepaa.com
 0.0.0.0 riderekids.com
@@ -128813,6 +128820,7 @@
 0.0.0.0 www.loftychord.com
 0.0.0.0 www.log.dance
 0.0.0.0 www.logaloftrestrain.com
+0.0.0.0 www.logangroup-us.com
 0.0.0.0 www.logicconfinement.com
 0.0.0.0 www.logicorganized.com
 0.0.0.0 www.logiquids.com
@@ -131718,11 +131726,13 @@
 0.0.0.0 www.pureindustrial.lease
 0.0.0.0 www.pureindustrial.live
 0.0.0.0 www.pureindustrialrealestatetrust.dev
+0.0.0.0 www.pureindustrialrealestatetrust.land
 0.0.0.0 www.pureindustrialrealestatetrust.rentals
 0.0.0.0 www.pureindustriel.biz
 0.0.0.0 www.pureindustriel.construction
 0.0.0.0 www.pureindustriel.dev
 0.0.0.0 www.pureindustriel.info
+0.0.0.0 www.pureindustriel.lease
 0.0.0.0 www.pureindustriel.legal
 0.0.0.0 www.pureindustriel.live
 0.0.0.0 www.pureindustriel.properties
@@ -131836,6 +131846,7 @@
 0.0.0.0 www.qwsua.yt
 0.0.0.0 www.qxx04.com
 0.0.0.0 www.qydemo.com
+0.0.0.0 www.r1tech.net
 0.0.0.0 www.r4-karte.com.de
 0.0.0.0 www.rabbleforfeitporcelain.com
 0.0.0.0 www.rabbleit.com
@@ -132369,6 +132380,7 @@
 0.0.0.0 www.richtwist.com
 0.0.0.0 www.ridbehaviour.com
 0.0.0.0 www.riddanceresolutionharshly.com
+0.0.0.0 www.rideinwineregion.com
 0.0.0.0 www.ridelo.in
 0.0.0.0 www.ridfunnyassuredness.com
 0.0.0.0 www.ridgephysique.com
