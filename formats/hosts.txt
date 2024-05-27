@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.148
 # Release: 148
-# Entries: 141,263
-# Updated: Mon, 27 May 24 12:12:15 +06
+# Entries: 141,264
+# Updated: Mon, 27 May 24 14:09:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -122193,6 +122193,7 @@
 0.0.0.0 www.bravoluna.com
 0.0.0.0 www.brayon.org
 0.0.0.0 www.breachflu.com
+0.0.0.0 www.breachpotatoesmelodramatic.com
 0.0.0.0 www.breadthforensicsstriking.com
 0.0.0.0 www.breakerfit.com
 0.0.0.0 www.breakingarable.com
