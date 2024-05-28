@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.150
 # Release: 150
-# Entries: 141,500
-# Updated: Wed, 29 May 24 02:33:35 +06
+# Entries: 141,502
+# Updated: Wed, 29 May 24 04:08:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -33927,6 +33927,7 @@
 0.0.0.0 egres.online
 0.0.0.0 egretswamper.com
 0.0.0.0 egretta.net
+0.0.0.0 egrnwxvrf.xyz
 0.0.0.0 egrogree.xyz
 0.0.0.0 egrousoawhie.com
 0.0.0.0 egrvkoqigygqk.com
@@ -92776,6 +92777,7 @@
 0.0.0.0 rympsxilkdqywd.com
 0.0.0.0 rynkimports.com
 0.0.0.0 ryntmyhahy.com
+0.0.0.0 ryoman.ca
 0.0.0.0 ryptowallet.com
 0.0.0.0 ryqbmqeoten.com
 0.0.0.0 ryqlomofet.com
