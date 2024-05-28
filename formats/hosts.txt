@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.149
 # Release: 149
-# Entries: 141,480
-# Updated: Tue, 28 May 24 20:08:03 +06
+# Entries: 141,486
+# Updated: Tue, 28 May 24 22:09:04 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7422,6 +7422,7 @@
 0.0.0.0 alphonso.tv
 0.0.0.0 alpidoveon.com
 0.0.0.0 alpina-welt.com
+0.0.0.0 alpinaest.com
 0.0.0.0 alpine-vpn.com
 0.0.0.0 alpineambient.com
 0.0.0.0 alpinedrct.com
@@ -11757,6 +11758,7 @@
 0.0.0.0 axiumeuropa.com
 0.0.0.0 axix.ca
 0.0.0.0 axjfjdm.com
+0.0.0.0 axjwwsvxjl.xyz
 0.0.0.0 axkgwislaspkp.com
 0.0.0.0 axkwmsivme.com
 0.0.0.0 axledjuking.com
@@ -63217,6 +63219,7 @@
 0.0.0.0 lljup.com
 0.0.0.0 llkih.yt
 0.0.0.0 llkxmhtoaew.com
+0.0.0.0 lllegbtcicoy.com
 0.0.0.0 llmeocaptainh.com
 0.0.0.0 llmspot.com
 0.0.0.0 llmvycxvfbalxa.xyz
@@ -76088,6 +76091,7 @@
 0.0.0.0 oidaio.com
 0.0.0.0 oiejdyxrfim.com
 0.0.0.0 oigduusrva.com
+0.0.0.0 oigebiwp.com
 0.0.0.0 oijorfkfwtdswv.xyz
 0.0.0.0 oikala.com
 0.0.0.0 oiksgmazeicsuj.com
@@ -87628,6 +87632,7 @@
 0.0.0.0 qxknktdbftc.com
 0.0.0.0 qxkvgtxyhav.com
 0.0.0.0 qxlaqfjyguehuu.com
+0.0.0.0 qxlnissaa.com
 0.0.0.0 qxmdtsfixm.com
 0.0.0.0 qxnmvttxqrhrkl.com
 0.0.0.0 qxpwiqydg.com
@@ -95633,6 +95638,7 @@
 0.0.0.0 sezkdftfa.com
 0.0.0.0 seznam.center
 0.0.0.0 seznam.cy
+0.0.0.0 sezngvdghqp.com
 0.0.0.0 sf-soushu2021.com
 0.0.0.0 sf.outfishfumy.com
 0.0.0.0 sf.zestfulpize.com
