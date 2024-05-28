@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.149
 # Release: 149
-# Entries: 141,412
-# Updated: Tue, 28 May 24 10:25:40 +06
+# Entries: 141,417
+# Updated: Tue, 28 May 24 12:08:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -21463,6 +21463,7 @@
 0.0.0.0 chiesirarecare.com
 0.0.0.0 chiesiusa.org
 0.0.0.0 chiesiusa.us
+0.0.0.0 chiglees.com
 0.0.0.0 chigua5.com
 0.0.0.0 chihak.us
 0.0.0.0 chihlas.com
@@ -74874,6 +74875,7 @@
 0.0.0.0 nvnmuenenefhrh.com
 0.0.0.0 nvnumsnndqzju.com
 0.0.0.0 nvodmkion.com
+0.0.0.0 nvolmgehjghys.com
 0.0.0.0 nvougpk.com
 0.0.0.0 nvpakwhxqcgdt.com
 0.0.0.0 nvqjpzxufp.com
@@ -86450,6 +86452,7 @@
 0.0.0.0 qaraellr.com
 0.0.0.0 qarewien.com
 0.0.0.0 qaritaq.ca
+0.0.0.0 qarncsrzf.com
 0.0.0.0 qascfr.tech
 0.0.0.0 qasforsalesrep.info
 0.0.0.0 qasrae.com
@@ -139996,6 +139999,7 @@
 0.0.0.0 ywnlhetjkcf.com
 0.0.0.0 ywonxkardwn.com
 0.0.0.0 ywopyohpihnkppc.xyz
+0.0.0.0 ywqippyyw.com
 0.0.0.0 ywronwasthetron.com
 0.0.0.0 ywrvpmapjcg.xyz
 0.0.0.0 ywsxkucwyghaa.xyz
@@ -140035,6 +140039,7 @@
 0.0.0.0 yxs.im
 0.0.0.0 yxvdjrxcm.xyz
 0.0.0.0 yxvrxvyb.com
+0.0.0.0 yxvxzrsaeik.com
 0.0.0.0 yxwwcusokbcubw.com
 0.0.0.0 yxxbulasvx.com
 0.0.0.0 yxxlgybbnashjop.xyz
