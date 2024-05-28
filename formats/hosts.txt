@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.149
 # Release: 149
-# Entries: 141,417
-# Updated: Tue, 28 May 24 12:08:22 +06
+# Entries: 141,429
+# Updated: Tue, 28 May 24 14:07:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11328,6 +11328,7 @@
 0.0.0.0 av7797.com
 0.0.0.0 av999j.com
 0.0.0.0 ava.systems
+0.0.0.0 avad.work
 0.0.0.0 avads.co.uk
 0.0.0.0 avaghogn.net
 0.0.0.0 avaides.com
@@ -17804,6 +17805,7 @@
 0.0.0.0 btwujiji.com
 0.0.0.0 btwwiwmhfhh.com
 0.0.0.0 btxdbuaxn.com
+0.0.0.0 btxdxdpynk.com
 0.0.0.0 btxvqmdmwawypdw.com
 0.0.0.0 btxxhkgfup.com
 0.0.0.0 btxxxnav.com
@@ -65918,6 +65920,7 @@
 0.0.0.0 marioncountydetention.com
 0.0.0.0 mariovarga.online
 0.0.0.0 mariposafellow.org
+0.0.0.0 mariposafellows.org
 0.0.0.0 mariposafellows.us
 0.0.0.0 mariposafellowship.org
 0.0.0.0 mariposafellowship.ventures
@@ -69768,6 +69771,7 @@
 0.0.0.0 mouseforgerycondition.com
 0.0.0.0 mouseplanetsaxophone.com
 0.0.0.0 moustacheoverloadwar.com
+0.0.0.0 moustachepoke.com
 0.0.0.0 moustite.com
 0.0.0.0 mouthaipee.xyz
 0.0.0.0 mouthinvincibleexpecting.com
@@ -77936,6 +77940,7 @@
 0.0.0.0 otochcozumel.com
 0.0.0.0 otoiparts.com
 0.0.0.0 otoliteaerides.com
+0.0.0.0 otomfphymjwujh.com
 0.0.0.0 otopractiicc.com
 0.0.0.0 otoqrbprbauy.com
 0.0.0.0 otorwardsoffhdgat.com
@@ -93121,6 +93126,7 @@
 0.0.0.0 sakshar.store
 0.0.0.0 sakshibhavavritti.org
 0.0.0.0 sakshigraphics.com
+0.0.0.0 saktdtmkt.com
 0.0.0.0 sakthibooks.in
 0.0.0.0 saktismberakes.space
 0.0.0.0 sakuftaurgo.com
@@ -106022,6 +106028,7 @@
 0.0.0.0 thespiceandteamarket.com
 0.0.0.0 thespicytest.com
 0.0.0.0 thespinestealers.com
+0.0.0.0 thespiralbee.com
 0.0.0.0 thespiritofinquiry.com
 0.0.0.0 thespiritualguru.in
 0.0.0.0 thesportbuddy.coach
@@ -121526,6 +121533,7 @@
 0.0.0.0 www.auxiliarydonor.com
 0.0.0.0 www.auxiliaryformalboil.com
 0.0.0.0 www.av7797.com
+0.0.0.0 www.avad.work
 0.0.0.0 www.avaides.com
 0.0.0.0 www.availinvesting.com
 0.0.0.0 www.availroeamenity.com
@@ -123911,6 +123919,7 @@
 0.0.0.0 www.dangerouslygluttony.com
 0.0.0.0 www.dangerswitty.com
 0.0.0.0 www.danielduchaine.com
+0.0.0.0 www.danielfavot.com
 0.0.0.0 www.daphnedorel.com
 0.0.0.0 www.daplugwholesale.site
 0.0.0.0 www.dapo.app
@@ -125670,6 +125679,7 @@
 0.0.0.0 www.fencerecollect.com
 0.0.0.0 www.fenddiscourse.com
 0.0.0.0 www.fenghuangxs.com
+0.0.0.0 www.feratrak.org
 0.0.0.0 www.fermentassemblethoughtful.com
 0.0.0.0 www.fermentwavesir.com
 0.0.0.0 www.fertilebeautifulfilming.com
@@ -129274,6 +129284,7 @@
 0.0.0.0 www.marinegruffexpecting.com
 0.0.0.0 www.marineprospectsthirst.com
 0.0.0.0 www.mariposafellow.org
+0.0.0.0 www.mariposafellows.org
 0.0.0.0 www.mariposafellowship.org
 0.0.0.0 www.mariposafellowship.ventures
 0.0.0.0 www.markerfraction.com
@@ -134703,6 +134714,7 @@
 0.0.0.0 www.theskinspecialistblog.com
 0.0.0.0 www.thesmartdigitalmarketing.com
 0.0.0.0 www.thesoundmoneypodcast.com
+0.0.0.0 www.thespiralbee.com
 0.0.0.0 www.thesugarplumfairy.net
 0.0.0.0 www.thesummerofsolidarity.com
 0.0.0.0 www.thesurgicalsolutionsnetnetwork.net
