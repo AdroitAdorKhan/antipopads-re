@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.150
 # Release: 150
-# Entries: 141,612
-# Updated: Wed, 29 May 24 16:10:33 +06
+# Entries: 141,632
+# Updated: Wed, 29 May 24 19:08:39 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3388,6 +3388,7 @@
 0.0.0.0 aacassociates.com
 0.0.0.0 aacharya.net
 0.0.0.0 aactxwic.com
+0.0.0.0 aacvox.org
 0.0.0.0 aadat.co.in
 0.0.0.0 aadat.online
 0.0.0.0 aadat.store
@@ -24247,6 +24248,7 @@
 0.0.0.0 confectioneryconnected.com
 0.0.0.0 confectionerycrock.com
 0.0.0.0 confectionerytaxi.com
+0.0.0.0 confederatesignificantlyknock.com
 0.0.0.0 conference-series.info
 0.0.0.0 conferencecast.co.uk
 0.0.0.0 conferencecast.com
@@ -25155,6 +25157,7 @@
 0.0.0.0 coupleairplane.com
 0.0.0.0 coupleburns.com
 0.0.0.0 couplecemeteryreal.com
+0.0.0.0 couples.team
 0.0.0.0 couplescamp.org
 0.0.0.0 coupleseducation.com
 0.0.0.0 couplestherapy.academy
@@ -43698,6 +43701,7 @@
 0.0.0.0 gingercompute.com
 0.0.0.0 gingergreen.org
 0.0.0.0 gingermagicblogistics.com
+0.0.0.0 gingerschnapps.com
 0.0.0.0 gingerschnaps.com
 0.0.0.0 gingertaffy.com
 0.0.0.0 ginglmiresaw.com
@@ -47065,6 +47069,7 @@
 0.0.0.0 halteddropped.com
 0.0.0.0 halthomosexual.com
 0.0.0.0 haltonwaldorfschool.com
+0.0.0.0 haltonwaldorfschool.net
 0.0.0.0 haltough.net
 0.0.0.0 haluskarennalaurinskej.online
 0.0.0.0 halvedghost.space
@@ -48093,6 +48098,7 @@
 0.0.0.0 hehpjtultkr.xyz
 0.0.0.0 hei.co
 0.0.0.0 heibeidygz.com
+0.0.0.0 heidiniechcial.com
 0.0.0.0 heightfany.us
 0.0.0.0 heightsuspicious.com
 0.0.0.0 heimstad.ca
@@ -62404,6 +62410,7 @@
 0.0.0.0 librariandemocrattoss.com
 0.0.0.0 librariessunflower.com
 0.0.0.0 libraryglowingjo.com
+0.0.0.0 librarygooseintoxicate.com
 0.0.0.0 libraryimpact.org
 0.0.0.0 libraryoftrader.org
 0.0.0.0 libratraining.org.uk
@@ -65027,6 +65034,7 @@
 0.0.0.0 machinexcariere.com
 0.0.0.0 machinexcarriere.com
 0.0.0.0 machinexhandling.com
+0.0.0.0 machinexsorting.com
 0.0.0.0 machings.com
 0.0.0.0 machnamh.net
 0.0.0.0 machodongon.com
@@ -79623,6 +79631,7 @@
 0.0.0.0 particularantler.com
 0.0.0.0 particularimplantarcadia.com
 0.0.0.0 particularlyrecentrecentspare.com
+0.0.0.0 particularsons.top
 0.0.0.0 partieseclipse.com
 0.0.0.0 partiesinches.com
 0.0.0.0 partiespenitence.com
@@ -81445,6 +81454,7 @@
 0.0.0.0 phultems.net
 0.0.0.0 phultids.com
 0.0.0.0 phumpauk.com
+0.0.0.0 phunsaux.top
 0.0.0.0 phupours.com
 0.0.0.0 phuquoc.sale
 0.0.0.0 phuquy.news
@@ -93657,6 +93667,7 @@
 0.0.0.0 saradasishumandir.in
 0.0.0.0 sarafidis.group
 0.0.0.0 sarafpdu.com
+0.0.0.0 sarahcurtisslp.com
 0.0.0.0 sarahgulish.com
 0.0.0.0 sarahjfogg.com
 0.0.0.0 sarahmadisonfiction.com
@@ -120588,6 +120599,7 @@
 0.0.0.0 www.a4or.com
 0.0.0.0 www.aa1411.com
 0.0.0.0 www.aac-eg.net
+0.0.0.0 www.aacvox.org
 0.0.0.0 www.aadyanoverseas.com
 0.0.0.0 www.aakafoundation.org
 0.0.0.0 www.aalamartex.com
@@ -120921,6 +120933,7 @@
 0.0.0.0 www.ahagreatlypromised.com
 0.0.0.0 www.ahaheartburndo.com
 0.0.0.0 www.ahamshoonyam.com
+0.0.0.0 www.ahfht.com
 0.0.0.0 www.ahlanair.co.uk
 0.0.0.0 www.ahotelru.com
 0.0.0.0 www.ai-ciso.com
@@ -123813,6 +123826,7 @@
 0.0.0.0 www.couple.education
 0.0.0.0 www.coupleburns.com
 0.0.0.0 www.couplecemeteryreal.com
+0.0.0.0 www.couples.team
 0.0.0.0 www.coupleseducation.com
 0.0.0.0 www.courageimportance.com
 0.0.0.0 www.courageousalmondtrice.com
@@ -126630,6 +126644,7 @@
 0.0.0.0 www.gilzzxds.tech
 0.0.0.0 www.gingercompute.com
 0.0.0.0 www.gingergreen.org
+0.0.0.0 www.gingerschnapps.com
 0.0.0.0 www.gingerschnaps.com
 0.0.0.0 www.ginnyclairvoyantapp.com
 0.0.0.0 www.ginnycleanedfeud.com
@@ -127042,6 +127057,7 @@
 0.0.0.0 www.haloimmigration.com
 0.0.0.0 www.haltcandle.com
 0.0.0.0 www.halteddropped.com
+0.0.0.0 www.haltonwaldorfschool.net
 0.0.0.0 www.halveimpendinggig.com
 0.0.0.0 www.halvepowdercorrectly.com
 0.0.0.0 www.hamiltoncfs.com
@@ -127200,6 +127216,7 @@
 0.0.0.0 www.heedbraidclutch.com
 0.0.0.0 www.heedlessplanallusion.com
 0.0.0.0 www.heelseparateddistinguished.com
+0.0.0.0 www.heidiniechcial.com
 0.0.0.0 www.heli.direct
 0.0.0.0 www.helicobuilders.com
 0.0.0.0 www.helicopterskull.com
@@ -129304,6 +129321,7 @@
 0.0.0.0 www.machineattitudeace.com
 0.0.0.0 www.machineryblunderillusive.com
 0.0.0.0 www.machinexhandling.com
+0.0.0.0 www.machinexsorting.com
 0.0.0.0 www.macrosoftware.io
 0.0.0.0 www.macsignuae.com
 0.0.0.0 www.macworld.dev
@@ -133022,6 +133040,7 @@
 0.0.0.0 www.sapdealtsalary.com
 0.0.0.0 www.sapfollower.com
 0.0.0.0 www.saptorge.com
+0.0.0.0 www.sarahcurtisslp.com
 0.0.0.0 www.sarahsartcorner.store
 0.0.0.0 www.sarahsilvermanonline.com
 0.0.0.0 www.saralsatyalegacy.org
@@ -135474,6 +135493,7 @@
 0.0.0.0 www.uk4net.uk
 0.0.0.0 www.ukdepression.co.uk
 0.0.0.0 www.ukraina.co.uk
+0.0.0.0 www.ukrainevpn.com
 0.0.0.0 www.ukscreeding.uk
 0.0.0.0 www.ukta.org.uk
 0.0.0.0 www.ukulereterser.com
