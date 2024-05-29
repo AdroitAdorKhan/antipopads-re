@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.150
 # Release: 150
-# Entries: 141,601
-# Updated: Wed, 29 May 24 12:09:19 +06
+# Entries: 141,604
+# Updated: Wed, 29 May 24 14:09:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10305,6 +10305,7 @@
 0.0.0.0 aspclients.com
 0.0.0.0 aspectivesolutions.com
 0.0.0.0 aspectoom.com
+0.0.0.0 aspectreinforce.com
 0.0.0.0 aspectunderground.com
 0.0.0.0 aspenpalette.com
 0.0.0.0 aspenpsychologycalgary.com
@@ -73447,6 +73448,7 @@
 0.0.0.0 nimrodossicle.life
 0.0.0.0 nimrodsblazers.com
 0.0.0.0 nimrute.com
+0.0.0.0 nimseye.com
 0.0.0.0 nimsocku.net
 0.0.0.0 nimxfbepwldtso.com
 0.0.0.0 nina-osenar.com
@@ -130338,6 +130340,7 @@
 0.0.0.0 www.nightingaletasting.com
 0.0.0.0 www.nihao112.com
 0.0.0.0 www.nikexoffwhite.com
+0.0.0.0 www.nimseye.com
 0.0.0.0 www.nineanguish.com
 0.0.0.0 www.ninegrapes.in
 0.0.0.0 www.nineteenthdipper.com
