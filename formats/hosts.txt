@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.150
 # Release: 150
-# Entries: 141,632
-# Updated: Wed, 29 May 24 19:08:39 +06
+# Entries: 141,658
+# Updated: Wed, 29 May 24 21:09:09 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20162,6 +20162,7 @@
 0.0.0.0 ccasinctexas.com
 0.0.0.0 ccastexas.com
 0.0.0.0 ccbaitco.com
+0.0.0.0 ccbgvcuu.com
 0.0.0.0 ccbiliturgy.com
 0.0.0.0 cccares.ca
 0.0.0.0 cccnnet.com
@@ -31192,6 +31193,7 @@
 0.0.0.0 dontpanic.xyz
 0.0.0.0 donttbeevils.de
 0.0.0.0 dontvotefordonaldjtrump.com
+0.0.0.0 dontworrybepuppy.com
 0.0.0.0 dontworrybesafe.com
 0.0.0.0 donutfulfilherd.com
 0.0.0.0 donvanilio.com
@@ -42008,6 +42010,7 @@
 0.0.0.0 fxlurepwuaqd.com
 0.0.0.0 fxmovttmb.xyz
 0.0.0.0 fxmrelevbu.com
+0.0.0.0 fxmuvuofoogl.xyz
 0.0.0.0 fxooefhw.xyz
 0.0.0.0 fxpipeline.com
 0.0.0.0 fxqnnlitw.xyz
@@ -50247,6 +50250,7 @@
 0.0.0.0 hpsvgbrlqa.com
 0.0.0.0 hpsxayld.com
 0.0.0.0 hptcwtmzuj.com
+0.0.0.0 hpthugxeqkebk.com
 0.0.0.0 hptjguygya.com
 0.0.0.0 hptspot.com
 0.0.0.0 hpugmsqcpylhrdx.com
@@ -50893,6 +50897,7 @@
 0.0.0.0 hwmrulghdyyk.com
 0.0.0.0 hwnhdslufb.com
 0.0.0.0 hwnytherapy.com
+0.0.0.0 hwpdwosisgpxtrm.com
 0.0.0.0 hwpnocpctu.com
 0.0.0.0 hwpowerhour.org
 0.0.0.0 hwpyfcxahv.com
@@ -57668,6 +57673,7 @@
 0.0.0.0 jxjnrkuj.com
 0.0.0.0 jxjrigjtxpw.com
 0.0.0.0 jxkayopaij.com
+0.0.0.0 jxkrtvluycxng.com
 0.0.0.0 jxlpafdxbnhak.com
 0.0.0.0 jxlxeeo.com
 0.0.0.0 jxlxyzbys.com
@@ -60919,6 +60925,7 @@
 0.0.0.0 lammerrices.uno
 0.0.0.0 lamochila.biz
 0.0.0.0 lamourvintage.store
+0.0.0.0 lamovidamiami.com
 0.0.0.0 lampatv.fan
 0.0.0.0 lampdrewcupid.com
 0.0.0.0 lamperunlet.life
@@ -62530,6 +62537,7 @@
 0.0.0.0 lifeonvedic.in
 0.0.0.0 lifepo4.tech
 0.0.0.0 lifeporn.net
+0.0.0.0 liferealty.life
 0.0.0.0 lifesale.me
 0.0.0.0 lifesavings.us.com
 0.0.0.0 lifesbeautifulmoments.com
@@ -77646,6 +77654,7 @@
 0.0.0.0 orchidlife.in
 0.0.0.0 orchidlife.info
 0.0.0.0 orchidreducedbleak.com
+0.0.0.0 orchidsalisbury.com
 0.0.0.0 orchidsoho.com
 0.0.0.0 orchivebooks.co.uk
 0.0.0.0 orcinolroomthy.com
@@ -79021,6 +79030,7 @@
 0.0.0.0 padutchgrubs.us
 0.0.0.0 padutchmealworms.net
 0.0.0.0 padutchworms.us
+0.0.0.0 padxdydtfbwf.com
 0.0.0.0 paeastei.net
 0.0.0.0 paehceman.com
 0.0.0.0 paekicz.com
@@ -79035,6 +79045,7 @@
 0.0.0.0 pagaloaqui.net
 0.0.0.0 paganrabbits.com
 0.0.0.0 paganscove.ca
+0.0.0.0 pagdxuxuywn.com
 0.0.0.0 page-analytic.com
 0.0.0.0 pageage.agency
 0.0.0.0 pageantbagauspice.com
@@ -90583,6 +90594,7 @@
 0.0.0.0 rfconector.com
 0.0.0.0 rfdfgourgoldpiec.info
 0.0.0.0 rfeablduda.com
+0.0.0.0 rfekhovfvghps.xyz
 0.0.0.0 rfgdjs.info
 0.0.0.0 rfhddwa.com
 0.0.0.0 rfiadhpad.com
@@ -115509,6 +115521,7 @@
 0.0.0.0 vocuedralnakestos.com
 0.0.0.0 vocula.app
 0.0.0.0 vocxi.net
+0.0.0.0 vocxi.org
 0.0.0.0 vocxl.com
 0.0.0.0 vocxl.org
 0.0.0.0 vocxl.us
@@ -116858,6 +116871,7 @@
 0.0.0.0 waterypower.pro
 0.0.0.0 wateryvan.com
 0.0.0.0 wateryzapsandwich.com
+0.0.0.0 wates-retail.info
 0.0.0.0 wather.guru
 0.0.0.0 wathetalimited.com
 0.0.0.0 watltqfjk.com
@@ -116951,6 +116965,7 @@
 0.0.0.0 waytoeminence.com
 0.0.0.0 waytofrontend.com
 0.0.0.0 waytokashmir.com
+0.0.0.0 waytoomuchfun.info
 0.0.0.0 wazamba-casino.cfd
 0.0.0.0 wazbuvdcij.com
 0.0.0.0 wazctigribhy.com
@@ -117103,6 +117118,7 @@
 0.0.0.0 wdpylyw.com
 0.0.0.0 wdqllarhunlv.xyz
 0.0.0.0 wdqoydsa.com
+0.0.0.0 wdqppxslwfn.com
 0.0.0.0 wdqxpqtmaaveut.com
 0.0.0.0 wdsiyfykcau.com
 0.0.0.0 wdszxmvutlxm.com
@@ -120683,6 +120699,7 @@
 0.0.0.0 www.absorbingelsewheredisobey.com
 0.0.0.0 www.absorptionpersonalforesee.com
 0.0.0.0 www.abstaininquisitive.com
+0.0.0.0 www.abszero.net
 0.0.0.0 www.abtechinfo.com
 0.0.0.0 www.abunaufal.net
 0.0.0.0 www.abundantminussteal.com
@@ -124802,6 +124819,7 @@
 0.0.0.0 www.donorattacks.com
 0.0.0.0 www.donorenvy.com
 0.0.0.0 www.dontvotefordonaldjtrump.com
+0.0.0.0 www.dontworrybepuppy.com
 0.0.0.0 www.donutfulfilherd.com
 0.0.0.0 www.doodleanyone.com
 0.0.0.0 www.doodlerehearsesculpture.com
@@ -128780,6 +128798,7 @@
 0.0.0.0 www.lamesinging.com
 0.0.0.0 www.laminutecalme.com
 0.0.0.0 www.lamourvintage.store
+0.0.0.0 www.lamovidamiami.com
 0.0.0.0 www.lampatv.fan
 0.0.0.0 www.lampshadescreen.com
 0.0.0.0 www.lanceload.com
@@ -129012,6 +129031,7 @@
 0.0.0.0 www.lifeboatlegalalleviate.com
 0.0.0.0 www.lifeillumine.com
 0.0.0.0 www.lifeisarecipe.net
+0.0.0.0 www.liferealty.life
 0.0.0.0 www.lifesciencesbysquareone.com
 0.0.0.0 www.lifestyle-directory.com
 0.0.0.0 www.lifestyleheartrobust.com
@@ -130769,6 +130789,7 @@
 0.0.0.0 www.orchardgate.net
 0.0.0.0 www.orchestraanticipation.com
 0.0.0.0 www.orchidreducedbleak.com
+0.0.0.0 www.orchidsalisbury.com
 0.0.0.0 www.orchidsoho.com
 0.0.0.0 www.ord.gg
 0.0.0.0 www.order-maximrestaurant.ca
@@ -135919,6 +135940,7 @@
 0.0.0.0 www.voathoacushi.com
 0.0.0.0 www.vocalconferencesinister.com
 0.0.0.0 www.vocxi.net
+0.0.0.0 www.vocxi.org
 0.0.0.0 www.vocxl.com
 0.0.0.0 www.vocxl.org
 0.0.0.0 www.vocxlhealth.com
@@ -136663,6 +136685,7 @@
 0.0.0.0 www.your-instant-chance.com
 0.0.0.0 www.yourbestappever.com
 0.0.0.0 www.yourbestlandever.com
+0.0.0.0 www.yourfertilityplan.info
 0.0.0.0 www.yourfreshposts.com
 0.0.0.0 www.yourhotfeed.com
 0.0.0.0 www.yourmobnotification.com
@@ -138498,6 +138521,7 @@
 0.0.0.0 xxenohhtvwctj.xyz
 0.0.0.0 xxfaqvcnogfxkbu.com
 0.0.0.0 xxgqsbfwbmtqa.com
+0.0.0.0 xxgrmuoep.com
 0.0.0.0 xxhyyokmepvn.com
 0.0.0.0 xxiforever21.com
 0.0.0.0 xxjcedclosxcaox.com
@@ -139716,6 +139740,7 @@
 0.0.0.0 yourelli.com
 0.0.0.0 yourempoweredlife.co.nz
 0.0.0.0 yourempoweredlife.nz
+0.0.0.0 yourfertilityplan.info
 0.0.0.0 yourfirstfunnelchallenge.com
 0.0.0.0 yourfreshjournal.com
 0.0.0.0 yourfreshposts.com
@@ -141097,6 +141122,7 @@
 0.0.0.0 zkifw.yt
 0.0.0.0 zkj178.com
 0.0.0.0 zkmkuphtemb.com
+0.0.0.0 zkmloqwwa.com
 0.0.0.0 zkqegdgj.com
 0.0.0.0 zkruhu.online
 0.0.0.0 zksyncswap.info
