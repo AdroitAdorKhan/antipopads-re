@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.151
 # Release: 151
-# Entries: 141,708
-# Updated: Thu, 30 May 24 04:49:56 +06
+# Entries: 141,710
+# Updated: Thu, 30 May 24 06:16:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -73122,6 +73122,7 @@
 0.0.0.0 nflmoderate.ca
 0.0.0.0 nflsite.com
 0.0.0.0 nfntqxxwxvcrc.com
+0.0.0.0 nfnwwqipnfpuiv.com
 0.0.0.0 nfojcjzhxwnh.com
 0.0.0.0 nforce.eu.com
 0.0.0.0 nfoxlyvassg.com
@@ -123520,6 +123521,7 @@
 0.0.0.0 www.combineblaze.com
 0.0.0.0 www.combinedcongratulateaviation.com
 0.0.0.0 www.combinedunresolved.com
+0.0.0.0 www.combinestronger.com
 0.0.0.0 www.combustiblestarkjerk.com
 0.0.0.0 www.comdomains3.com
 0.0.0.0 www.comdomins1.com
