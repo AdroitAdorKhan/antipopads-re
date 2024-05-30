@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.152
 # Release: 152
-# Entries: 141,794
-# Updated: Fri, 31 May 24 00:08:20 +06
+# Entries: 141,797
+# Updated: Fri, 31 May 24 02:08:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -61301,6 +61301,7 @@
 0.0.0.0 latinnathathem.com
 0.0.0.0 latinoboulevard.com
 0.0.0.0 latinopoetry.org
+0.0.0.0 latinwayy.com
 0.0.0.0 latinxpoetry.org
 0.0.0.0 latinzzis.com
 0.0.0.0 lationalmilerague.com
@@ -111606,6 +111607,7 @@
 0.0.0.0 umscodcpbxe.com
 0.0.0.0 umteenodyles.guru
 0.0.0.0 umteldefeglwnao.com
+0.0.0.0 umtudo.com
 0.0.0.0 umtxxxonw.com
 0.0.0.0 umuotov.com
 0.0.0.0 umuqpnvc.com
@@ -112525,6 +112527,7 @@
 0.0.0.0 upstdc.org
 0.0.0.0 upstore-surgut.ru
 0.0.0.0 upstreamqatar.com
+0.0.0.0 upsups.click
 0.0.0.0 upsweepdorical.digital
 0.0.0.0 upsweephalms.com
 0.0.0.0 upswell.store
