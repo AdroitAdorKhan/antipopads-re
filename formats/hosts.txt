@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.153
 # Release: 153
-# Entries: 141,862
-# Updated: Sat, 01 Jun 24 00:09:44 +06
+# Entries: 141,864
+# Updated: Sat, 01 Jun 24 02:08:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8737,6 +8737,7 @@
 0.0.0.0 aoaceek.xyz
 0.0.0.0 aoalmfwinbsstec23.com
 0.0.0.0 aoalpvovpbajxtj.com
+0.0.0.0 aobuhutyyivfoxp.xyz
 0.0.0.0 aoengineering.ca
 0.0.0.0 aofcs.org
 0.0.0.0 aofppecbmordq.com
@@ -31244,6 +31245,7 @@
 0.0.0.0 doobaupu.xyz
 0.0.0.0 doobing.net
 0.0.0.0 doobinooby.com
+0.0.0.0 doobuphoo.com
 0.0.0.0 doobyyooby.com
 0.0.0.0 doochoor.xyz
 0.0.0.0 doodleanyone.com
