@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.152
 # Release: 152
-# Entries: 141,826
-# Updated: Fri, 31 May 24 16:08:08 +06
+# Entries: 141,828
+# Updated: Fri, 31 May 24 18:07:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13309,6 +13309,7 @@
 0.0.0.0 bcxcxixcwprccn.com
 0.0.0.0 bcxsulngkcykuef.com
 0.0.0.0 bcykqeubcmx.com
+0.0.0.0 bczparknjjxyv.com
 0.0.0.0 bczzwakqyae.com
 0.0.0.0 bd-6.in
 0.0.0.0 bd-a.in
@@ -83556,6 +83557,7 @@
 0.0.0.0 porscheladies.com
 0.0.0.0 porsnqyerx.com
 0.0.0.0 port-of-roses.com
+0.0.0.0 portaalid.ee
 0.0.0.0 portableapss.com
 0.0.0.0 portableflattopgrill.com
 0.0.0.0 portablewirelessprinter.net
