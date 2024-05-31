@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.152
 # Release: 152
-# Entries: 141,805
-# Updated: Fri, 31 May 24 04:07:59 +06
+# Entries: 141,806
+# Updated: Fri, 31 May 24 06:49:13 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -112870,6 +112870,7 @@
 0.0.0.0 uslphoctxrpwry.com
 0.0.0.0 uslycoloursewo.com
 0.0.0.0 usmansoftware.tech
+0.0.0.0 usmkpapdxl01.www.sterenwifi.com
 0.0.0.0 usmtp1.shop
 0.0.0.0 usmtp3.shop
 0.0.0.0 usnese.com
