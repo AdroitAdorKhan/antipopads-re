@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.05.152
 # Release: 152
-# Entries: 141,823
-# Updated: Fri, 31 May 24 14:36:44 +06
+# Entries: 141,826
+# Updated: Fri, 31 May 24 16:08:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8618,6 +8618,7 @@
 0.0.0.0 antlersolidthrilled.com
 0.0.0.0 antn.io
 0.0.0.0 antoniaduchesne.com
+0.0.0.0 antoninbinar.com
 0.0.0.0 antoniodeluca1985.com
 0.0.0.0 antonisous.net
 0.0.0.0 antonpriatel.com
@@ -87038,6 +87039,7 @@
 0.0.0.0 qjcikflhpfsea.xyz
 0.0.0.0 qjcrcwgnjktgxrd.com
 0.0.0.0 qjdlivr.com
+0.0.0.0 qjdphlusdgsn.com
 0.0.0.0 qjdyokmjypac.com
 0.0.0.0 qjfehnksquxeba.com
 0.0.0.0 qjhwoixjkd.com
@@ -87574,6 +87576,7 @@
 0.0.0.0 queerstockfestival.com
 0.0.0.0 queersynonymlunatic.com
 0.0.0.0 queervic.ca
+0.0.0.0 queerygenets.com
 0.0.0.0 queezy.online
 0.0.0.0 quellaplentyresolute.com
 0.0.0.0 quellbustle.com
