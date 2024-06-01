@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.153
 # Release: 153
-# Entries: 141,895
-# Updated: Sat, 01 Jun 24 10:08:28 +06
+# Entries: 141,900
+# Updated: Sat, 01 Jun 24 12:08:00 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -17751,6 +17751,7 @@
 0.0.0.0 bsbnc.com
 0.0.0.0 bsbrsociety.org
 0.0.0.0 bsc420.net
+0.0.0.0 bscsailing.co.za
 0.0.0.0 bscwhite.com
 0.0.0.0 bsfofnphcuj.com
 0.0.0.0 bsgbd77l.de
@@ -36734,6 +36735,7 @@
 0.0.0.0 evfriendlymotel.net
 0.0.0.0 evfrnqvextppij.com
 0.0.0.0 evgeniapovolotskaya.com
+0.0.0.0 evgxfyni.com
 0.0.0.0 evgywgur.com
 0.0.0.0 evhubllc.us
 0.0.0.0 eviclick.pro
@@ -91304,6 +91306,7 @@
 0.0.0.0 rivetrearrange.com
 0.0.0.0 rivierauno.com
 0.0.0.0 rivierauno.homes
+0.0.0.0 rivierauno.in
 0.0.0.0 rivjjsopmau.com
 0.0.0.0 rivmuvlnu.com
 0.0.0.0 rivne.space
@@ -101356,6 +101359,7 @@
 0.0.0.0 stonevada.co.uk
 0.0.0.0 stoneycreeknews.com
 0.0.0.0 stoneyshorn.digital
+0.0.0.0 stongoapti.net
 0.0.0.0 stonkiestock.com
 0.0.0.0 stonkiestocks.com
 0.0.0.0 stonkphymata.com
@@ -141838,6 +141842,7 @@
 0.0.0.0 zxcxrpvmuh.com
 0.0.0.0 zxdcxwpxheu.com
 0.0.0.0 zxferraolloy.com
+0.0.0.0 zxflodfsru.com
 0.0.0.0 zxggaus-p.net
 0.0.0.0 zxittvzqrpn.com
 0.0.0.0 zxjtzxjycsc108app.com
