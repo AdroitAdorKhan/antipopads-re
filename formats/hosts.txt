@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.154
 # Release: 154
-# Entries: 141,946
-# Updated: Sun, 02 Jun 24 00:08:18 +06
+# Entries: 141,947
+# Updated: Sun, 02 Jun 24 02:07:58 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -126443,6 +126443,7 @@
 0.0.0.0 www.foodowingweapon.com
 0.0.0.0 www.foolishjunction.com
 0.0.0.0 www.foolishunequal.com
+0.0.0.0 www.foolishyours.com
 0.0.0.0 www.foolsworldnews.com
 0.0.0.0 www.foomaque.net
 0.0.0.0 www.footageaccomplishment.com
