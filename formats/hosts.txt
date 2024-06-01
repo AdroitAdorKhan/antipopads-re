@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.154
 # Release: 154
-# Entries: 141,947
-# Updated: Sun, 02 Jun 24 02:07:58 +06
+# Entries: 141,949
+# Updated: Sun, 02 Jun 24 04:08:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -60641,6 +60641,7 @@
 0.0.0.0 kxotmcsuibrwlf.com
 0.0.0.0 kxowmbwprnck.com
 0.0.0.0 kxqorpdbhvtt.com
+0.0.0.0 kxrfunmbktnl.com
 0.0.0.0 kxrglnpolgofvr.xyz
 0.0.0.0 kxsaxoaejyw.com
 0.0.0.0 kxshyo.com
@@ -126451,6 +126452,7 @@
 0.0.0.0 www.footcomefully.com
 0.0.0.0 www.foothoupaufa.com
 0.0.0.0 www.footloosefloors.com
+0.0.0.0 www.footprintsfurnish.com
 0.0.0.0 www.footprintswarming.com
 0.0.0.0 www.footstepnoneappetite.com
 0.0.0.0 www.footwearheartedswig.com
