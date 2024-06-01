@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.153
 # Release: 153
-# Entries: 141,934
-# Updated: Sat, 01 Jun 24 20:08:01 +06
+# Entries: 141,942
+# Updated: Sat, 01 Jun 24 22:39:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13091,6 +13091,7 @@
 0.0.0.0 battletestedlawyer.us
 0.0.0.0 battlezilla.com
 0.0.0.0 battubase.xyz
+0.0.0.0 batumelebi.org
 0.0.0.0 batumitems.com
 0.0.0.0 batwaxwok.site
 0.0.0.0 batwingexolete.top
@@ -46176,6 +46177,7 @@
 0.0.0.0 group.army
 0.0.0.0 group108expressway.com
 0.0.0.0 groupcohabitphoto.com
+0.0.0.0 groupe-hajjar.bf
 0.0.0.0 groupe-somdia.com
 0.0.0.0 groupecarrefoursa.com
 0.0.0.0 groupecatalys.ca
@@ -51733,6 +51735,7 @@
 0.0.0.0 iepmpzvnbqejr.com
 0.0.0.0 iepprimaria.edu.mx
 0.0.0.0 iere.digital
+0.0.0.0 ierftpjoyhvq.com
 0.0.0.0 ietbwrkg.com
 0.0.0.0 ietyofedinj89yewtburgh.com
 0.0.0.0 ieudde.com
@@ -53772,6 +53775,7 @@
 0.0.0.0 intellekt.ca
 0.0.0.0 intelli-ven.com
 0.0.0.0 intellibanners.com
+0.0.0.0 intelliflo.dev
 0.0.0.0 intelligenceadx.com
 0.0.0.0 intelligenceconcerning.com
 0.0.0.0 intelligenceretarget.com
@@ -61745,6 +61749,7 @@
 0.0.0.0 leakypatgoo.com
 0.0.0.0 leanbathroom.com
 0.0.0.0 leandervyvey.com
+0.0.0.0 leandradepol.ch
 0.0.0.0 leanlife.site
 0.0.0.0 leanmina.com
 0.0.0.0 leanmining.net
@@ -65051,6 +65056,7 @@
 0.0.0.0 m0hcppadsnq8.com
 0.0.0.0 m0res.xyz
 0.0.0.0 m0rsq075u.com
+0.0.0.0 m0tt.net
 0.0.0.0 m0ve0n.com
 0.0.0.0 m0x6b.com
 0.0.0.0 m1dnightclubx.com
@@ -72746,6 +72752,7 @@
 0.0.0.0 netfllxya.com
 0.0.0.0 netflopin.com
 0.0.0.0 netgainchallenge.com
+0.0.0.0 netgazeti.org
 0.0.0.0 netgearweb.com
 0.0.0.0 netget.fun
 0.0.0.0 netgl.ca
@@ -127222,6 +127229,7 @@
 0.0.0.0 www.groundlessconvention.com
 0.0.0.0 www.grounolrou.com
 0.0.0.0 www.group108expressway.com
+0.0.0.0 www.groupe-hajjar.bf
 0.0.0.0 www.groupgama.com
 0.0.0.0 www.groupsrider.com
 0.0.0.0 www.growledavenuejill.com
