@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.154
 # Release: 154
-# Entries: 141,949
-# Updated: Sun, 02 Jun 24 04:08:02 +06
+# Entries: 141,952
+# Updated: Sun, 02 Jun 24 06:49:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -87229,6 +87229,7 @@
 0.0.0.0 qmrfcnhaoyxv.com
 0.0.0.0 qmsdrghcxb.com
 0.0.0.0 qmslojptnngwybu.com
+0.0.0.0 qmsnsxqfcrh.com
 0.0.0.0 qmtmkkhjwai.xyz
 0.0.0.0 qmtqzsczx.com
 0.0.0.0 qmtvcuucyhs.xyz
@@ -111203,6 +111204,7 @@
 0.0.0.0 uewl.top
 0.0.0.0 ueworld.net
 0.0.0.0 uewwxpdnbtgi.com
+0.0.0.0 uewztebe.com
 0.0.0.0 ufaexpert.com
 0.0.0.0 ufbnqsfbpkmindy.com
 0.0.0.0 ufdkjcrzzwpjo.com
@@ -139392,6 +139394,7 @@
 0.0.0.0 yfedatherappear.com.ua
 0.0.0.0 yfefdlv.com
 0.0.0.0 yferygekhc.xyz
+0.0.0.0 yfesadfiwdspf.com
 0.0.0.0 yfetyg.com
 0.0.0.0 yffuk.yt
 0.0.0.0 yfgefxflcyav.com
