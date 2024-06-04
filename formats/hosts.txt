@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.157
 # Release: 157
-# Entries: 142,856
-# Updated: Wed, 05 Jun 24 00:22:39 +06
+# Entries: 142,859
+# Updated: Wed, 05 Jun 24 02:10:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -50779,6 +50779,7 @@
 0.0.0.0 hrcaz.com
 0.0.0.0 hrckrtxrmnwna.top
 0.0.0.0 hrcm.in
+0.0.0.0 hrctwonvo.com
 0.0.0.0 hrczhdv.com
 0.0.0.0 hrds.co.in
 0.0.0.0 hreerfdfgourg.com.ua
@@ -78674,6 +78675,7 @@
 0.0.0.0 osspwamuhn.com
 0.0.0.0 ossrhydonr.com
 0.0.0.0 ossshucklean.com
+0.0.0.0 ossstarlyor.com
 0.0.0.0 ossswannaa.com
 0.0.0.0 ossyfirecpo.com
 0.0.0.0 ostazvtx.com
@@ -122682,6 +122684,7 @@
 0.0.0.0 www.askedappear.com
 0.0.0.0 www.askedopinionatedimmediately.com
 0.0.0.0 www.askfinguru.online
+0.0.0.0 www.askgpa.com
 0.0.0.0 www.askingconsideration.com
 0.0.0.0 www.aslau-cre.info
 0.0.0.0 www.asleepplatforms.com
