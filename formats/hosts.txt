@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.156
 # Release: 156
-# Entries: 142,547
-# Updated: Tue, 04 Jun 24 04:07:42 +06
+# Entries: 142,557
+# Updated: Tue, 04 Jun 24 06:17:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9720,6 +9720,7 @@
 0.0.0.0 arkmedboo.live
 0.0.0.0 arkongreen.ca
 0.0.0.0 arkosicginkgo.digital
+0.0.0.0 arksfoundation.org
 0.0.0.0 arkstationery.co.uk
 0.0.0.0 arktonightinept.com
 0.0.0.0 arkun.in
@@ -26214,6 +26215,7 @@
 0.0.0.0 cryptolitetron.website
 0.0.0.0 cryptoloot.pro
 0.0.0.0 cryptolynex.com
+0.0.0.0 cryptoman.top
 0.0.0.0 cryptomcw.com
 0.0.0.0 cryptomilkshake.com
 0.0.0.0 cryptomine.pro
@@ -32541,6 +32543,7 @@
 0.0.0.0 duginamis.com
 0.0.0.0 duglompu.xyz
 0.0.0.0 dugothitachan.com
+0.0.0.0 duhafaroalub.com
 0.0.0.0 duhestyce.com
 0.0.0.0 duhstbyl.com
 0.0.0.0 duikitfbzc.com
@@ -50623,6 +50626,7 @@
 0.0.0.0 hqqqqwcdxvjbd.com
 0.0.0.0 hqqulwygpq.com
 0.0.0.0 hqquxxjrqy.top
+0.0.0.0 hqriazehshfndn.com
 0.0.0.0 hqsrvwfk.xyz
 0.0.0.0 hqtbnelkvax.com
 0.0.0.0 hqtfjugceattb.com
@@ -69515,6 +69519,7 @@
 0.0.0.0 mobileoffers-dld-download.com
 0.0.0.0 mobileoffers-downloadapp-a.com
 0.0.0.0 mobilepettingfarms.co.uk
+0.0.0.0 mobileplanet.top
 0.0.0.0 mobilepokernz.co.nz
 0.0.0.0 mobilepreviouswicked.com
 0.0.0.0 mobileraffles.com
@@ -75596,6 +75601,7 @@
 0.0.0.0 nycustomerserviceltd.com
 0.0.0.0 nydbehindforh.xyz
 0.0.0.0 nydinnovations.com
+0.0.0.0 nyeaeynmwc.com
 0.0.0.0 nyerskerdesek.com
 0.0.0.0 nyetm2mkch.com
 0.0.0.0 nyg25.com
@@ -77659,6 +77665,7 @@
 0.0.0.0 oodsotso.com
 0.0.0.0 ooeciumpokable.com
 0.0.0.0 ooeofjf.com
+0.0.0.0 ooevtcascxx.com
 0.0.0.0 oofflxeaivyjy.com
 0.0.0.0 oofgescj.com
 0.0.0.0 oofodekr.top
@@ -90718,6 +90725,7 @@
 0.0.0.0 resetoccultkeeper.com
 0.0.0.0 resetselected.com
 0.0.0.0 resetuj.com
+0.0.0.0 reseved.com
 0.0.0.0 resharekobolds.top
 0.0.0.0 resholdouca.club
 0.0.0.0 reshuntyanan.com
@@ -104508,6 +104516,7 @@
 0.0.0.0 tarresdiptych.top
 0.0.0.0 tarriesthetine.digital
 0.0.0.0 tarrilyathenee.com
+0.0.0.0 tarsasag.org
 0.0.0.0 tarsiusbaconic.com
 0.0.0.0 tartanthistle.net
 0.0.0.0 tartarsharped.com
@@ -141514,6 +141523,7 @@
 0.0.0.0 zdravje-synergy.net
 0.0.0.0 zdravoachutne.info
 0.0.0.0 zdravotnik.online
+0.0.0.0 zdravstvena-pismenost.org
 0.0.0.0 zdsaegvrgrsaom.com
 0.0.0.0 zdsfnagupwkztl.com
 0.0.0.0 zdsiwtid.com
