@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.157
 # Release: 157
-# Entries: 142,910
-# Updated: Wed, 05 Jun 24 20:15:48 +06
+# Entries: 142,916
+# Updated: Wed, 05 Jun 24 22:10:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20285,6 +20285,7 @@
 0.0.0.0 cbhaxdurf.com
 0.0.0.0 cbhsaceypfdqbn.com
 0.0.0.0 cbhvuivvkkrjrsg.com
+0.0.0.0 cbieiijrstdfn.xyz
 0.0.0.0 cbijwves.com
 0.0.0.0 cbilrirtqyawue.com
 0.0.0.0 cbiucjrffklcfe.xyz
@@ -25991,6 +25992,7 @@
 0.0.0.0 cricindian.com
 0.0.0.0 crick8.in.net
 0.0.0.0 crickcoach.in.net
+0.0.0.0 crickcrush.in
 0.0.0.0 cricket247.in.net
 0.0.0.0 cricketcafe.org
 0.0.0.0 cricketcafe.us
@@ -38652,6 +38654,7 @@
 0.0.0.0 fdjnhutsmwhviu.com
 0.0.0.0 fdjnusmqs.com
 0.0.0.0 fdkbiqjworr.com
+0.0.0.0 fdlevgtkymy.com
 0.0.0.0 fdmfbxvsthr.xyz
 0.0.0.0 fdokosbvp.xyz
 0.0.0.0 fdomyywy.com
@@ -85194,6 +85197,7 @@
 0.0.0.0 pricecenter.net
 0.0.0.0 priceix.com
 0.0.0.0 pricepeep.net
+0.0.0.0 priceroot.com
 0.0.0.0 priceyaspect.pro
 0.0.0.0 prickclenched.com
 0.0.0.0 prickjuvenileturnstile.com
@@ -113845,6 +113849,7 @@
 0.0.0.0 usps-cloud.com
 0.0.0.0 usps-faqs.com
 0.0.0.0 uspscc.com
+0.0.0.0 uspseis-u1.net
 0.0.0.0 uspsfaqs.com
 0.0.0.0 uspstp.com
 0.0.0.0 uspstransportationagency.com
@@ -125104,6 +125109,7 @@
 0.0.0.0 www.cribenemiesleak.com
 0.0.0.0 www.cribwarilyintentional.com
 0.0.0.0 www.cricindian.com
+0.0.0.0 www.crickcrush.in
 0.0.0.0 www.cricmerch.com
 0.0.0.0 www.criesnonstopbake.com
 0.0.0.0 www.criminalweightforetaste.com
