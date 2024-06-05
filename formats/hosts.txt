@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.158
 # Release: 158
-# Entries: 142,926
-# Updated: Thu, 06 Jun 24 02:17:10 +06
+# Entries: 142,934
+# Updated: Thu, 06 Jun 24 04:07:59 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11615,6 +11615,7 @@
 0.0.0.0 avtb2733.com
 0.0.0.0 avtb2785.com
 0.0.0.0 avtb4456.com
+0.0.0.0 avtbdnwqnwoasm.com
 0.0.0.0 avtfhavgjctpqy.xyz
 0.0.0.0 avthelkp.net
 0.0.0.0 avtklwruejfr.com
@@ -21303,6 +21304,7 @@
 0.0.0.0 chatgepetto.com
 0.0.0.0 chatglm6b.com
 0.0.0.0 chatgpt-4.co.uk
+0.0.0.0 chatgpt-central.com
 0.0.0.0 chatgpt-link.com
 0.0.0.0 chatgpt-tutor.com
 0.0.0.0 chatgpt.net.ec
@@ -35801,6 +35803,7 @@
 0.0.0.0 envylavish.com
 0.0.0.0 enwingdondia.com
 0.0.0.0 enwombjounced.space
+0.0.0.0 enwrtixapk.com
 0.0.0.0 enx5.online
 0.0.0.0 enxqkbsqlh.com
 0.0.0.0 enyceclothing.com
@@ -57165,6 +57168,7 @@
 0.0.0.0 jodellvideos.pro
 0.0.0.0 jodhpurrarish.digital
 0.0.0.0 jodilhsitybnv.com
+0.0.0.0 jodpvnkmpxy.com
 0.0.0.0 jodroacm.com
 0.0.0.0 jodsempu.com
 0.0.0.0 joe3.co
@@ -58528,6 +58532,7 @@
 0.0.0.0 kaminari.club
 0.0.0.0 kaminari.space
 0.0.0.0 kaminari.systems
+0.0.0.0 kamknam.tv
 0.0.0.0 kamnastrednu.com
 0.0.0.0 kamnebo.info
 0.0.0.0 kamnik-savinja-alps.com
@@ -63465,6 +63470,7 @@
 0.0.0.0 linodrvs.ru
 0.0.0.0 linousfalafel.guru
 0.0.0.0 linqsandbox.com
+0.0.0.0 linsaicki.net
 0.0.0.0 lintensciurid.top
 0.0.0.0 linterngubbin.com
 0.0.0.0 lintfeintshindig.com
@@ -88860,6 +88866,7 @@
 0.0.0.0 raftmomentarywed.com
 0.0.0.0 raftybuts.com
 0.0.0.0 rag3ca7t5amubr8eedffin.com
+0.0.0.0 ragandbone.com.se
 0.0.0.0 ragapa.com
 0.0.0.0 ragersville.online
 0.0.0.0 ragged-weakness.pro
@@ -117824,6 +117831,7 @@
 0.0.0.0 warmafterthought.com
 0.0.0.0 warmdeals.net
 0.0.0.0 warmerdisembark.com
+0.0.0.0 warmerleave.com
 0.0.0.0 warmevents.us
 0.0.0.0 warmheartedtackle.pro
 0.0.0.0 warmhearttherapy.com
