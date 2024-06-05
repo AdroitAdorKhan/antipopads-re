@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.157
 # Release: 157
-# Entries: 142,894
-# Updated: Wed, 05 Jun 24 14:11:38 +06
+# Entries: 142,895
+# Updated: Wed, 05 Jun 24 16:16:40 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11194,6 +11194,7 @@
 0.0.0.0 aupteeds.net
 0.0.0.0 aupteens.com
 0.0.0.0 aupwikhtvlesf.com
+0.0.0.0 auqxowxt.com
 0.0.0.0 aurabar.net
 0.0.0.0 auradust.in
 0.0.0.0 aurallyhypaton.com
