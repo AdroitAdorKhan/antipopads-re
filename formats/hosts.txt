@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.158
 # Release: 158
-# Entries: 142,968
-# Updated: Thu, 06 Jun 24 16:24:32 +06
+# Entries: 142,970
+# Updated: Thu, 06 Jun 24 18:08:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -84858,6 +84858,7 @@
 0.0.0.0 prcarchitects.com
 0.0.0.0 prclk.gpbtrx.com
 0.0.0.0 prdmjzogryvhhz.com
+0.0.0.0 prdouncexsopb.com
 0.0.0.0 prdredir.com
 0.0.0.0 prdsrnsrksgryz.com
 0.0.0.0 prdyilhhwqh.com
@@ -138694,6 +138695,7 @@
 0.0.0.0 xfcpdigfsx.xyz
 0.0.0.0 xfdmihlzrmks.com
 0.0.0.0 xfeclslx.xyz
+0.0.0.0 xfenlqfhdf.com
 0.0.0.0 xfepcankuvixtf.com
 0.0.0.0 xfflmuxvghgnvns.xyz
 0.0.0.0 xfgicjnxckrnq.com
