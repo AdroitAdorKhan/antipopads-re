@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.158
 # Release: 158
-# Entries: 142,934
-# Updated: Thu, 06 Jun 24 04:07:59 +06
+# Entries: 142,940
+# Updated: Thu, 06 Jun 24 06:11:21 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4825,6 +4825,7 @@
 0.0.0.0 admiralugly.com
 0.0.0.0 admiredclumsy.com
 0.0.0.0 admireddepend.com
+0.0.0.0 admiredeterioratesinner.com
 0.0.0.0 admiredexcrete.com
 0.0.0.0 admiredexpansioncollege.com
 0.0.0.0 admiredfreakishgraveyard.com
@@ -36985,6 +36986,7 @@
 0.0.0.0 everydaycarry.fyi
 0.0.0.0 everydayispowerday.com
 0.0.0.0 everydayispowerdays.com
+0.0.0.0 everydayprize.net
 0.0.0.0 everydayreward.net
 0.0.0.0 everymarket.com.mx
 0.0.0.0 everymarket.uk
@@ -59903,6 +59905,7 @@
 0.0.0.0 klmconstructionmanagement.com
 0.0.0.0 klmrgtvjeiea.com
 0.0.0.0 klmxakymsfgkc.com
+0.0.0.0 klnxwvrtkogbzg.com
 0.0.0.0 klnycxlvghht.com
 0.0.0.0 klonedaset.org
 0.0.0.0 kloofgalium.website
@@ -66450,6 +66453,8 @@
 0.0.0.0 manualdin.com
 0.0.0.0 manualiq.com
 0.0.0.0 manualos.com
+0.0.0.0 manualos.net
+0.0.0.0 manualos.org
 0.0.0.0 manualpeasantconnoisseur.com
 0.0.0.0 manualspool.com
 0.0.0.0 manufacturerexpandedagrarian.com
@@ -135463,6 +135468,7 @@
 0.0.0.0 www.stovecharacterize.com
 0.0.0.0 www.stoweinstitute.org
 0.0.0.0 www.stowsentimental.com
+0.0.0.0 www.strain.ee
 0.0.0.0 www.straitsdeprive.com
 0.0.0.0 www.straitssoak.com
 0.0.0.0 www.strandedpeel.com
