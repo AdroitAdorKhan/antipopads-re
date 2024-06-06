@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.158
 # Release: 158
-# Entries: 142,970
-# Updated: Thu, 06 Jun 24 18:08:02 +06
+# Entries: 142,978
+# Updated: Thu, 06 Jun 24 20:07:59 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -58859,6 +58859,7 @@
 0.0.0.0 kblpartners.net
 0.0.0.0 kbmaxbfpbfw.com
 0.0.0.0 kbmcpatd.com
+0.0.0.0 kbmlgnhs.xyz
 0.0.0.0 kbonwalppnqni.com
 0.0.0.0 kbpukmqclyxtnn.com
 0.0.0.0 kbpwfbjqs.com
@@ -87306,6 +87307,7 @@
 0.0.0.0 pxsunbsd.com
 0.0.0.0 pxtpjvrg.xyz
 0.0.0.0 pxtrkr.com
+0.0.0.0 pxucnhvpywdvn.com
 0.0.0.0 pxvmggiypyod.xyz
 0.0.0.0 pxwgnymkcuvrq.com
 0.0.0.0 pxwuyqonykziss.com
@@ -105597,6 +105599,7 @@
 0.0.0.0 telarlyfasels.guru
 0.0.0.0 tele-clinic.app
 0.0.0.0 tele-sim.info
+0.0.0.0 teleboost.org
 0.0.0.0 telechargementdirect.net
 0.0.0.0 telefunken.online
 0.0.0.0 telefunken.store
@@ -119031,6 +119034,7 @@
 0.0.0.0 wgpsjcpdulptl.com
 0.0.0.0 wgrdnuap.com
 0.0.0.0 wgrgyymfnmtf.com
+0.0.0.0 wgrnanszfdfeo.com
 0.0.0.0 wgsxteihr.com
 0.0.0.0 wgt-int.com
 0.0.0.0 wgweubxmvsembxy.com
@@ -121072,6 +121076,7 @@
 0.0.0.0 wtrep.xyz
 0.0.0.0 wtrgsmbd.com
 0.0.0.0 wtrurkqrcccmuh.com
+0.0.0.0 wtscsmvhehw.com
 0.0.0.0 wtuqkqkfaegrhey.com
 0.0.0.0 wtuuilhbfvsiqbo.com
 0.0.0.0 wtwbvglzzt.com
@@ -129445,6 +129450,7 @@
 0.0.0.0 www.italmilradar.com
 0.0.0.0 www.italyconvictpowers.com
 0.0.0.0 www.italyfeedingclimax.com
+0.0.0.0 www.itchhandwritingimpetuous.com
 0.0.0.0 www.itchinglikely.com
 0.0.0.0 www.itchingpowerlesshamburger.com
 0.0.0.0 www.itechspirit.com
@@ -134271,6 +134277,7 @@
 0.0.0.0 www.sakira.app
 0.0.0.0 www.saladadefrutas.com
 0.0.0.0 www.salamander.parts
+0.0.0.0 www.sales2win.in
 0.0.0.0 www.salesconnections.net
 0.0.0.0 www.salesoonerfurnace.com
 0.0.0.0 www.salewa.online
@@ -141416,6 +141423,7 @@
 0.0.0.0 yumenetworks.com
 0.0.0.0 yumkelis.com
 0.0.0.0 yummbag.com
+0.0.0.0 yummienation.com
 0.0.0.0 yummiescinders.top
 0.0.0.0 yummiesfootle.space
 0.0.0.0 yummy-gap.pro
