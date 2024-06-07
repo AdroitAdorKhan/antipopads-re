@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.159
 # Release: 159
-# Entries: 143,169
-# Updated: Fri, 07 Jun 24 12:08:06 +06
+# Entries: 143,170
+# Updated: Fri, 07 Jun 24 14:11:17 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -83987,6 +83987,7 @@
 :: pokeord.com
 :: poker3m.net
 :: pokerarrangewandering.com
+:: pokerdom-app.life
 :: pokerdom-bet.life
 :: pokerdom-com.world
 :: pokerdom-net.life
