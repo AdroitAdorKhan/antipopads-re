@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.159
 # Release: 159
-# Entries: 143,086
-# Updated: Fri, 07 Jun 24 06:12:44 +06
+# Entries: 143,088
+# Updated: Fri, 07 Jun 24 08:19:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -79801,6 +79801,7 @@
 0.0.0.0 packbank.top
 0.0.0.0 packersandmoversfrombangalore.com
 0.0.0.0 packersandmoversrajasthan.com
+0.0.0.0 packerscheapjerseys.com
 0.0.0.0 packersmoversinkolkata.com
 0.0.0.0 packeryflats.com
 0.0.0.0 packetbye.com
@@ -132274,6 +132275,7 @@
 0.0.0.0 www.pacificcoastresourcesllc.com
 0.0.0.0 www.pacifyinvalid.com
 0.0.0.0 www.pacifypane.com
+0.0.0.0 www.packerscheapjerseys.com
 0.0.0.0 www.packethammer.net
 0.0.0.0 www.packethierarchy.com
 0.0.0.0 www.packstung.com.de
