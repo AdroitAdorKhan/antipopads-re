@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.159
 # Release: 159
-# Entries: 143,130
-# Updated: Fri, 07 Jun 24 10:13:43 +06
+# Entries: 143,169
+# Updated: Fri, 07 Jun 24 12:08:06 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -696,6 +696,7 @@
 0.0.0.0 1manewf1le.com
 0.0.0.0 1martbd.com
 0.0.0.0 1meitudata.com
+0.0.0.0 1minutemore.ca
 0.0.0.0 1minutemorning.ca
 0.0.0.0 1minutemorning.com
 0.0.0.0 1mrmsp0ki.de
@@ -2526,6 +2527,8 @@
 0.0.0.0 737194.com
 0.0.0.0 7381.yt
 0.0.0.0 73a.org
+0.0.0.0 73fahrenheit.net
+0.0.0.0 73fahrenheit.org
 0.0.0.0 73xm.com
 0.0.0.0 7461.yt
 0.0.0.0 7468comwww.601122.com
@@ -11457,6 +11460,7 @@
 0.0.0.0 availablesyrup.com
 0.0.0.0 availduty.com
 0.0.0.0 availinvesting.com
+0.0.0.0 availitech.com
 0.0.0.0 availroeamenity.com
 0.0.0.0 avalanchelackinghomework.com
 0.0.0.0 avalanchemight.com
@@ -17647,6 +17651,7 @@
 0.0.0.0 brmovies.xyz
 0.0.0.0 brmuclifyii.com
 0.0.0.0 brnenska-prehrada.com
+0.0.0.0 brnenske-pivni-lazne.com
 0.0.0.0 brno.marketing
 0.0.0.0 brnofilmfestival.com
 0.0.0.0 brnykuccvdftxa.com
@@ -26506,6 +26511,7 @@
 0.0.0.0 ctoatwoxxnk.com
 0.0.0.0 ctoosqtuxgaq.com
 0.0.0.0 ctosrd.com
+0.0.0.0 ctostance.com
 0.0.0.0 ctoziphius.com
 0.0.0.0 ctpdegbeqlejw.com
 0.0.0.0 ctplhosting.com
@@ -28030,6 +28036,7 @@
 0.0.0.0 dazeoffhandskip.com
 0.0.0.0 dazhantai.com
 0.0.0.0 dazzlealloys.com
+0.0.0.0 dazzletees.com
 0.0.0.0 dazzlinghorse.co
 0.0.0.0 dazzlingscraps.net
 0.0.0.0 db.faldfeepabular.com
@@ -28039,6 +28046,7 @@
 0.0.0.0 dbamosiebie.net
 0.0.0.0 dbapjhqvczhu.com
 0.0.0.0 dbaqdxsxvxxlkf.com
+0.0.0.0 dbash.pro
 0.0.0.0 dbbathware.co.in
 0.0.0.0 dbbathware.online
 0.0.0.0 dbbsrv.com
@@ -29210,6 +29218,7 @@
 0.0.0.0 designingbadlyhinder.com
 0.0.0.0 designingpupilintermediary.com
 0.0.0.0 designinnovationinteriors.com
+0.0.0.0 designitalltee.com
 0.0.0.0 designlviv.com
 0.0.0.0 designmania.tech
 0.0.0.0 designmole.com
@@ -32096,6 +32105,7 @@
 0.0.0.0 dreamaspire.in
 0.0.0.0 dreamaspire.net
 0.0.0.0 dreambigrealcon.com
+0.0.0.0 dreambook.tv
 0.0.0.0 dreambooknews.com
 0.0.0.0 dreamcredit.com
 0.0.0.0 dreamersconnect.org
@@ -35026,6 +35036,7 @@
 0.0.0.0 emajinit.com
 0.0.0.0 emalanephotography.com
 0.0.0.0 emalexa.art
+0.0.0.0 emaluka.com
 0.0.0.0 eman-commerce.com
 0.0.0.0 emappyjvdhvurmo.com
 0.0.0.0 emaratnewsar.org
@@ -48398,6 +48409,7 @@
 0.0.0.0 healedfamily.org
 0.0.0.0 healie.net
 0.0.0.0 healing-streams-center.com
+0.0.0.0 healinghotel.net
 0.0.0.0 healingpatternsdesign.com
 0.0.0.0 healingpelivicpain.net
 0.0.0.0 healingplanet.shop
@@ -49129,6 +49141,7 @@
 0.0.0.0 hgkuafsvkrn.xyz
 0.0.0.0 hgljjyjs.com
 0.0.0.0 hglxnyduwoguxx.xyz
+0.0.0.0 hgmholding.com
 0.0.0.0 hgnllgpfufthtc.com
 0.0.0.0 hgnsgewl.com
 0.0.0.0 hgoldh.com
@@ -50619,6 +50632,7 @@
 0.0.0.0 hotterenvisage.com
 0.0.0.0 hottest-dating-now.com
 0.0.0.0 hottest-girls-online.com
+0.0.0.0 hotu.online
 0.0.0.0 hotvids.online
 0.0.0.0 hotvids.space
 0.0.0.0 hotwildadult.com
@@ -52876,6 +52890,7 @@
 0.0.0.0 immediate-advantage.net
 0.0.0.0 immediate-alpha.com
 0.0.0.0 immediatebedroom.pro
+0.0.0.0 immediatecode.com
 0.0.0.0 immediateknowledge.com
 0.0.0.0 immediatelycobwebabominable.com
 0.0.0.0 immediaterevolution360.com
@@ -54305,6 +54320,7 @@
 0.0.0.0 interestingvids.online
 0.0.0.0 interestingvids.space
 0.0.0.0 interestsubsidereason.com
+0.0.0.0 interexpogulf.com
 0.0.0.0 interfacemotleyharden.com
 0.0.0.0 interfacewarrefrain.com
 0.0.0.0 interfereparagraphinterrogate.com
@@ -58449,6 +58465,7 @@
 0.0.0.0 kadamudakkam.net
 0.0.0.0 kadankondou.com
 0.0.0.0 kadernickepotreby.xyz
+0.0.0.0 kadernickynabytok.com
 0.0.0.0 kadernictvi-praha.com
 0.0.0.0 kadernictvonature.com
 0.0.0.0 kadggriffshoyv.com
@@ -60476,6 +60493,7 @@
 0.0.0.0 kosice2040.com
 0.0.0.0 kosice2050.com
 0.0.0.0 kosicehotels.org
+0.0.0.0 kosirgroup.com
 0.0.0.0 kosjuara.net
 0.0.0.0 kosmetika-praha.com
 0.0.0.0 kosmozis.com
@@ -62761,6 +62779,7 @@
 0.0.0.0 letmedothistoyou.com
 0.0.0.0 letmeknow.market
 0.0.0.0 letmepodcastyou.com
+0.0.0.0 letnytabor.com
 0.0.0.0 letopreseynatc.org
 0.0.0.0 letou499.com
 0.0.0.0 letouffu.ca
@@ -64040,6 +64059,7 @@
 0.0.0.0 lnbswijsipf.com
 0.0.0.0 lncfuqbgpnmxm.xyz
 0.0.0.0 lndjj.com
+0.0.0.0 lndnmusicvideo.com
 0.0.0.0 lndonclkds.com
 0.0.0.0 lndywafkryvs.com
 0.0.0.0 lnet22.com
@@ -66234,6 +66254,7 @@
 0.0.0.0 malearrogantblocking.com
 0.0.0.0 malect.com
 0.0.0.0 maledisappointingscholarship.com
+0.0.0.0 maledomy.online
 0.0.0.0 maleliteral.com
 0.0.0.0 malelocated.com
 0.0.0.0 maler-va.store
@@ -68305,6 +68326,7 @@
 0.0.0.0 meshpainsurvey.com
 0.0.0.0 meshpetrols.com
 0.0.0.0 meshugagobet.digital
+0.0.0.0 mesiash.com
 0.0.0.0 mesilswwroiu.com
 0.0.0.0 meskarawang.org
 0.0.0.0 meslameighty.com
@@ -69830,6 +69852,7 @@
 0.0.0.0 mobilesyncdesign.com
 0.0.0.0 mobiletracking.ru
 0.0.0.0 mobilevq.com
+0.0.0.0 mobilhazak.net
 0.0.0.0 mobility-survey.org
 0.0.0.0 mobilityshopsnorthampton.com
 0.0.0.0 mobilize.org.in
@@ -72373,6 +72396,7 @@
 0.0.0.0 naivina.ch
 0.0.0.0 naivina.com
 0.0.0.0 naiyoz.lol
+0.0.0.0 naizeylines.com
 0.0.0.0 najalacasa.com
 0.0.0.0 najcene.net
 0.0.0.0 najem-avtomobila.com
@@ -73435,6 +73459,7 @@
 0.0.0.0 nettvservices.com
 0.0.0.0 netu.io
 0.0.0.0 netvahidaa.com
+0.0.0.0 netventic.biz
 0.0.0.0 netweb.ai
 0.0.0.0 netweco.site
 0.0.0.0 network-bg.net
@@ -78336,6 +78361,7 @@
 0.0.0.0 opterra.site
 0.0.0.0 opthushbeginning.com
 0.0.0.0 opticalfashion.in
+0.0.0.0 opticalhomehealthcare.com
 0.0.0.0 opticalperception.net
 0.0.0.0 opticalwornshampoo.com
 0.0.0.0 opticlitchis.digital
@@ -85962,6 +85988,7 @@
 0.0.0.0 proofkoala.com
 0.0.0.0 proofmediacontent.com
 0.0.0.0 proofnaive.com
+0.0.0.0 proofreaderdirectory.com
 0.0.0.0 proofreclass.com
 0.0.0.0 propadsviews.com
 0.0.0.0 propagandapro.com
@@ -86465,6 +86492,7 @@
 0.0.0.0 psqena.com
 0.0.0.0 psqltsfmru.com
 0.0.0.0 psqxarvwsnfduhu.xyz
+0.0.0.0 pssgame.com
 0.0.0.0 pssy.xyz
 0.0.0.0 psthanks.com
 0.0.0.0 pstimes.com
@@ -92091,6 +92119,7 @@
 0.0.0.0 risebeigehelium.com
 0.0.0.0 risecheats.com
 0.0.0.0 riseconceivedairy.com
+0.0.0.0 riselandcapital.com
 0.0.0.0 risenbenefits.com
 0.0.0.0 risensoft.in.net
 0.0.0.0 risentimaddress.com
@@ -94939,6 +94968,7 @@
 0.0.0.0 savouryadolescent.com
 0.0.0.0 savouryliaison.com
 0.0.0.0 savoyedpollet.life
+0.0.0.0 savoytrans.com
 0.0.0.0 savtvkdny.xyz
 0.0.0.0 savvcsj.com
 0.0.0.0 savvvqabnvqebs.xyz
@@ -100068,6 +100098,7 @@
 0.0.0.0 solarmosa.com
 0.0.0.0 solarmovie.love
 0.0.0.0 solarne-skridle.com
+0.0.0.0 solarnekrytiny.com
 0.0.0.0 solarni-elektrarna.com
 0.0.0.0 solarpanel.in.net
 0.0.0.0 solarpanelbatteries.uk
@@ -104455,6 +104486,7 @@
 0.0.0.0 szkubfni.com
 0.0.0.0 szkzvqs.com
 0.0.0.0 szlipubod.com
+0.0.0.0 szlovakia.info
 0.0.0.0 szokwgcjxdt.com
 0.0.0.0 szolraegara.com
 0.0.0.0 szomormez.online
@@ -106361,6 +106393,7 @@
 0.0.0.0 the-bit-iq.net
 0.0.0.0 the-bit-lq.net
 0.0.0.0 the-bit-profit-app.net
+0.0.0.0 the-bit-superstar.com
 0.0.0.0 the-bit-trader.com
 0.0.0.0 the-bit-up.com
 0.0.0.0 the-bitcoin-billionaire-app.net
@@ -106578,6 +106611,7 @@
 0.0.0.0 thebigworld.in
 0.0.0.0 thebillway.tech
 0.0.0.0 thebillybabies.com
+0.0.0.0 thebiofitapp.com
 0.0.0.0 thebitcodeprime-app.com
 0.0.0.0 thebitcoin-bankapp.info
 0.0.0.0 thebitcoin-billionaire-app.net
@@ -112528,6 +112562,7 @@
 0.0.0.0 ukrainianschools.org
 0.0.0.0 ukrait.com
 0.0.0.0 ukrand.com
+0.0.0.0 ukrania.com
 0.0.0.0 ukrauw.com
 0.0.0.0 ukrazi.com
 0.0.0.0 ukrhosting.net
@@ -115244,6 +115279,7 @@
 0.0.0.0 vemtecko.net
 0.0.0.0 vemtourt.com
 0.0.0.0 vena979fm.com
+0.0.0.0 venaka-bioapp.online
 0.0.0.0 vencici.com
 0.0.0.0 vend-swap.com
 0.0.0.0 vendcraftvending.com
@@ -116247,6 +116283,7 @@
 0.0.0.0 vipefx.com
 0.0.0.0 viperiduropygi.top
 0.0.0.0 viperishly.com
+0.0.0.0 vipersd4.com
 0.0.0.0 viperydeer.com
 0.0.0.0 vipgirlescort.com
 0.0.0.0 viphongbao.com
@@ -118858,6 +118895,7 @@
 0.0.0.0 weilandair.com
 0.0.0.0 weird-lab.pro
 0.0.0.0 weirdfoulds.com
+0.0.0.0 weirdifulyourecords.com
 0.0.0.0 weirdmythos.com
 0.0.0.0 weirdstout.com
 0.0.0.0 weiserware.com
@@ -133425,6 +133463,7 @@
 0.0.0.0 www.psophauroat.com
 0.0.0.0 www.psoudulto.com
 0.0.0.0 www.psqena.com
+0.0.0.0 www.pssgame.com
 0.0.0.0 www.pstimes.com
 0.0.0.0 www.psychicbowel.com
 0.0.0.0 www.psychologicalchristmasdistant.com
