@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.160
 # Release: 160
-# Entries: 143,320
-# Updated: Sat, 08 Jun 24 10:08:38 +06
+# Entries: 143,321
+# Updated: Sat, 08 Jun 24 12:08:05 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -58020,6 +58020,7 @@
 0.0.0.0 judocore.com
 0.0.0.0 judosllyn.com
 0.0.0.0 judruwough.com
+0.0.0.0 juduegeohwpha.com
 0.0.0.0 juegosdirectos.net
 0.0.0.0 juelcr.com
 0.0.0.0 juergeninez.com
