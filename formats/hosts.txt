@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.160
 # Release: 160
-# Entries: 143,310
-# Updated: Sat, 08 Jun 24 04:08:03 +06
+# Entries: 143,312
+# Updated: Sat, 08 Jun 24 06:11:52 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -110723,6 +110723,7 @@
 0.0.0.0 triocoffeecompany.com
 0.0.0.0 triodiaimprasa.live
 0.0.0.0 triodos-ltd.com
+0.0.0.0 triodos.ro
 0.0.0.0 trip-4.net
 0.0.0.0 trip-newyork.com
 0.0.0.0 tripadviso.fr
@@ -114589,6 +114590,7 @@
 0.0.0.0 uzrwqrezkx.com
 0.0.0.0 uzryxfiapfkojb.com
 0.0.0.0 uzxkuwalnjp.com
+0.0.0.0 uzydpkqtg.com
 0.0.0.0 uzzidxlvnq.com
 0.0.0.0 v-360kan.com
 0.0.0.0 v-c.top
