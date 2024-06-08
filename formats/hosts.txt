@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.160
 # Release: 160
-# Entries: 143,324
-# Updated: Sat, 08 Jun 24 14:10:51 +06
+# Entries: 143,327
+# Updated: Sat, 08 Jun 24 16:22:58 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -65777,6 +65777,7 @@
 0.0.0.0 maar-c.com
 0.0.0.0 maas-ind.com
 0.0.0.0 maasglobalsolutions.co.in
+0.0.0.0 maastersinfra.co
 0.0.0.0 maatenacted.guru
 0.0.0.0 maatru.net
 0.0.0.0 mabcooline.com
@@ -122746,6 +122747,7 @@
 0.0.0.0 www.analogydid.com
 0.0.0.0 www.analysecrappy.com
 0.0.0.0 www.anandalok.org
+0.0.0.0 www.anantramcity.com
 0.0.0.0 www.anarcholife.info
 0.0.0.0 www.anatomyabdicatenettle.com
 0.0.0.0 www.anatomyassault.com
@@ -130901,6 +130903,7 @@
 0.0.0.0 www.m3mtheculinan.net
 0.0.0.0 www.m42software.com
 0.0.0.0 www.maapitambra36.com
+0.0.0.0 www.maastersinfra.co
 0.0.0.0 www.maboazolsamp.com
 0.0.0.0 www.macabray.com
 0.0.0.0 www.macaronibackachebeautify.com
