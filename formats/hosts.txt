@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.160
 # Release: 160
-# Entries: 143,327
-# Updated: Sat, 08 Jun 24 16:22:58 +06
+# Entries: 143,329
+# Updated: Sat, 08 Jun 24 18:07:58 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16237,6 +16237,7 @@
 0.0.0.0 bmybkeo.com
 0.0.0.0 bmycupptafr.com
 0.0.0.0 bmydajrkaw.com
+0.0.0.0 bmzarsyxmsg.com
 0.0.0.0 bmzmeugzar.com
 0.0.0.0 bn.fcompsepd.com
 0.0.0.0 bn5x.net
@@ -87712,6 +87713,7 @@
 0.0.0.0 qbkkmwyqvllcqaw.com
 0.0.0.0 qbkzvophvva.com
 0.0.0.0 qblcyqgn.com
+0.0.0.0 qblkxtwei.com
 0.0.0.0 qblqaiveg.com
 0.0.0.0 qbluwddjm.top
 0.0.0.0 qbmdlvijixx.top
