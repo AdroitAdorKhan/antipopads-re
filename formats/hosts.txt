@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.162
 # Release: 162
-# Entries: 143,524
-# Updated: Mon, 10 Jun 24 02:07:47 +06
+# Entries: 143,574
+# Updated: Mon, 10 Jun 24 04:08:58 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3037,6 +3037,7 @@
 0.0.0.0 942756.com
 0.0.0.0 944e66f8683ac43c.com
 0.0.0.0 9499665.com
+0.0.0.0 9499669.com
 0.0.0.0 9499896.com
 0.0.0.0 94iiii.com
 0.0.0.0 94ij3.com
@@ -6869,6 +6870,7 @@
 0.0.0.0 alberni4x4.com
 0.0.0.0 albernitrucks.com
 0.0.0.0 albertacommercialinsurance.com
+0.0.0.0 albertainsuranceservice.com
 0.0.0.0 albertamoderate.ca
 0.0.0.0 albertaspca.com
 0.0.0.0 albertgently.com
@@ -8123,6 +8125,7 @@
 0.0.0.0 analitics-media.com
 0.0.0.0 analitits.com
 0.0.0.0 analiz90.com
+0.0.0.0 analloft.com
 0.0.0.0 analnoe24.com
 0.0.0.0 analogdigitalmusic.com
 0.0.0.0 analogisdigital.com
@@ -8984,6 +8987,7 @@
 0.0.0.0 apistatexperience.com
 0.0.0.0 apiszapp.com
 0.0.0.0 apitnsoft.in
+0.0.0.0 apivillageistria.com
 0.0.0.0 apjtour.in
 0.0.0.0 apk-4u.net
 0.0.0.0 apk.net.in
@@ -9484,6 +9488,7 @@
 0.0.0.0 aranyevek.com
 0.0.0.0 ararat-hiker.com
 0.0.0.0 arashdigital.com
+0.0.0.0 arashinori.com
 0.0.0.0 arasinteriors.net
 0.0.0.0 arautsod.com
 0.0.0.0 arazkarton.ir
@@ -9695,6 +9700,7 @@
 0.0.0.0 ariadnethreadmin.com
 0.0.0.0 ariagrillbbq.com
 0.0.0.0 ariamovie13.site
+0.0.0.0 arianaatelier.com
 0.0.0.0 arianroid.com
 0.0.0.0 ariapawners.space
 0.0.0.0 ariav.ir
@@ -10655,6 +10661,7 @@
 0.0.0.0 asverymucha.info
 0.0.0.0 asvhdasd22.monster
 0.0.0.0 asvvzezk.com
+0.0.0.0 aswadan.online
 0.0.0.0 aswanfreezone.com
 0.0.0.0 aswaystumbly.com
 0.0.0.0 asweveglump.live
@@ -15461,7 +15468,9 @@
 0.0.0.0 bitcoin-loophole.org
 0.0.0.0 bitcoin-monterrey.com
 0.0.0.0 bitcoin-news.vip
+0.0.0.0 bitcoin-ontario.com
 0.0.0.0 bitcoin-oslo.com
+0.0.0.0 bitcoin-parisapp.com
 0.0.0.0 bitcoin-profit-way.net
 0.0.0.0 bitcoin-revolution-software.com
 0.0.0.0 bitcoin-smarter-app.net
@@ -15479,6 +15488,7 @@
 0.0.0.0 bitcoinheatingcompany.ca
 0.0.0.0 bitcoinlucroapp.net
 0.0.0.0 bitcoinmadridapp.com
+0.0.0.0 bitcoinmilan.com
 0.0.0.0 bitcoinmilkshake.com
 0.0.0.0 bitcoinmillionaireapp.info
 0.0.0.0 bitcoinovyportal.com
@@ -16244,6 +16254,7 @@
 0.0.0.0 bmvjxiiijtebtu.com
 0.0.0.0 bmvljvkfsgppsu.com
 0.0.0.0 bmw-02-clubs.de
+0.0.0.0 bmwair.com
 0.0.0.0 bmwdenver.com
 0.0.0.0 bmwgoiep.com
 0.0.0.0 bmwswvslswt.com
@@ -16484,6 +16495,7 @@
 0.0.0.0 bogusnervousskier.com
 0.0.0.0 boguspredict.com
 0.0.0.0 boguspumprancorous.com
+0.0.0.0 bohacek.online
 0.0.0.0 bohaige.com
 0.0.0.0 boharaf.com
 0.0.0.0 bohdana.art
@@ -17340,6 +17352,7 @@
 0.0.0.0 brassstacker.com
 0.0.0.0 brasthingut.com
 0.0.0.0 bratenoak.com
+0.0.0.0 bratislava.click
 0.0.0.0 bratislava.club
 0.0.0.0 bratislava365.com
 0.0.0.0 bratislavaattractions.com
@@ -17465,6 +17478,7 @@
 0.0.0.0 brendanmcbride.tech
 0.0.0.0 brendaspalenza.tech
 0.0.0.0 brenderuprealtrailers.com
+0.0.0.0 brenduniverse.com
 0.0.0.0 brenn-wck.com
 0.0.0.0 brennkammern.com
 0.0.0.0 brentol.com
@@ -20363,6 +20377,7 @@
 0.0.0.0 cbpnambtkgojmc.top
 0.0.0.0 cbpsi.com
 0.0.0.0 cbpslot.com
+0.0.0.0 cbqqctnslc.com
 0.0.0.0 cbreezeimports.com
 0.0.0.0 cbrfnitjixegplp.xyz
 0.0.0.0 cbsbmfmv.xyz
@@ -25195,6 +25210,7 @@
 0.0.0.0 coreignpetered.store
 0.0.0.0 coreloft.com
 0.0.0.0 corenotabilityhire.com
+0.0.0.0 corepass.id
 0.0.0.0 coreportions.com
 0.0.0.0 corepsh.top
 0.0.0.0 coresys.digital
@@ -28003,6 +28019,7 @@
 0.0.0.0 davidamis.com
 0.0.0.0 davidandspoke.com
 0.0.0.0 davidbaldaofficial.com
+0.0.0.0 davidbaracoa.com
 0.0.0.0 davidbuoys.ca
 0.0.0.0 davidcontributorlanded.com
 0.0.0.0 davidduhanic.com
@@ -29004,6 +29021,7 @@
 0.0.0.0 dennica-official.com
 0.0.0.0 dennikmudrehomuza.com
 0.0.0.0 dennismorse.me
+0.0.0.0 dennysmenu.com
 0.0.0.0 denotelevystarring.com
 0.0.0.0 denoughtanot.info
 0.0.0.0 denounceaffection.com
@@ -31138,6 +31156,7 @@
 0.0.0.0 dnbumfdxhqb.com
 0.0.0.0 dnc.events
 0.0.0.0 dncdmbyluoqkl.com
+0.0.0.0 dncfazupxjaz.com
 0.0.0.0 dnckawxatc.com
 0.0.0.0 dncnudcrjprotiy.xyz
 0.0.0.0 dncxdllvlxqy.xyz
@@ -31516,6 +31535,7 @@
 0.0.0.0 dominiqhamel.com
 0.0.0.0 dominoeds.com
 0.0.0.0 dominows.com
+0.0.0.0 domiphoto.com
 0.0.0.0 domislica.com
 0.0.0.0 domith.com
 0.0.0.0 domitvori.com
@@ -34789,6 +34809,7 @@
 0.0.0.0 electromenagers.com
 0.0.0.0 electromotors.info
 0.0.0.0 electromusic.top
+0.0.0.0 electronicandappliances.com
 0.0.0.0 electronicauthentic.com
 0.0.0.0 electronicc.it
 0.0.0.0 electronicconsensus.com
@@ -37614,6 +37635,7 @@
 0.0.0.0 expertnifg.com
 0.0.0.0 experts-gossip.com
 0.0.0.0 expertseminargroup.com
+0.0.0.0 expertsystemsolution.com
 0.0.0.0 expertverifiedreview.com
 0.0.0.0 expertverifiedreviews.com
 0.0.0.0 expiredemure.com
@@ -38880,6 +38902,7 @@
 0.0.0.0 federpesca.net
 0.0.0.0 fedexpostaloff.com
 0.0.0.0 fedfceddu.com
+0.0.0.0 fediverse.bond
 0.0.0.0 fedlee.com
 0.0.0.0 fednunvckcsx.com
 0.0.0.0 fedrocou.net
@@ -44722,6 +44745,7 @@
 0.0.0.0 global-dates-here.life
 0.0.0.0 global-financial-benefits.com
 0.0.0.0 global-news-blog.com
+0.0.0.0 globalacademyprague.com
 0.0.0.0 globaladblocker.com
 0.0.0.0 globaladblocker.net
 0.0.0.0 globaladmedia.com
@@ -49837,6 +49861,7 @@
 0.0.0.0 hl5.club
 0.0.0.0 hla-lernetz.de
 0.0.0.0 hladamzahradnika.online
+0.0.0.0 hladas.com
 0.0.0.0 hladikholz.top
 0.0.0.0 hladisko.info
 0.0.0.0 hlaki.com
@@ -51048,6 +51073,7 @@
 0.0.0.0 hrtvluy.com
 0.0.0.0 hruby.software
 0.0.0.0 hruwfyovqa.com
+0.0.0.0 hruzajiri.com
 0.0.0.0 hrvatskazasigurnetehonlogije.com
 0.0.0.0 hrvatskazasigurnutehnologiju.com
 0.0.0.0 hrvfrioaudsxk.com
@@ -53790,6 +53816,7 @@
 0.0.0.0 infodonorbranch.com
 0.0.0.0 infoempire.org
 0.0.0.0 infofox.top
+0.0.0.0 infogalanta.online
 0.0.0.0 infogeologi.com
 0.0.0.0 infoimmo.net
 0.0.0.0 infokesehatanlengkap.com
@@ -56471,6 +56498,7 @@
 0.0.0.0 jcrnbnw.com
 0.0.0.0 jcsbpqvao.xyz
 0.0.0.0 jcscarautoservice.com
+0.0.0.0 jctek.ca
 0.0.0.0 jctransportationshuttle.com
 0.0.0.0 jctxsjtgedii.com
 0.0.0.0 jcufklto.com
@@ -57295,6 +57323,7 @@
 0.0.0.0 jmtlgwgq.xyz
 0.0.0.0 jmtt2.com
 0.0.0.0 jmusdyijcpkd.com
+0.0.0.0 jmvchjwtvgjqs.com
 0.0.0.0 jmvfitzhzllx.com
 0.0.0.0 jmvscgd.com
 0.0.0.0 jmxiwcjx.com
@@ -66553,6 +66582,7 @@
 0.0.0.0 manappuramcsa.org
 0.0.0.0 manastechy8.in.net
 0.0.0.0 manatfive.com
+0.0.0.0 manaut-design.com
 0.0.0.0 manazment-projektov.online
 0.0.0.0 manber.ch
 0.0.0.0 manboo.xyz
@@ -67341,6 +67371,7 @@
 0.0.0.0 matejopet.com
 0.0.0.0 matejplachy.com
 0.0.0.0 matematicaluchin.com
+0.0.0.0 matematika1.site
 0.0.0.0 matera.company
 0.0.0.0 matera.family
 0.0.0.0 materiaisgratis.com
@@ -69844,6 +69875,7 @@
 0.0.0.0 mmgads.com
 0.0.0.0 mmgaleria.com
 0.0.0.0 mmh3gf.com
+0.0.0.0 mmiol.com
 0.0.0.0 mmjartwork.com
 0.0.0.0 mmjfnxx.com
 0.0.0.0 mmjj88.com
@@ -71526,6 +71558,7 @@
 0.0.0.0 murrayrothbot.io
 0.0.0.0 muruamx.com
 0.0.0.0 murzimarab.tech
+0.0.0.0 mus42.com
 0.0.0.0 musafirhunyaro.com
 0.0.0.0 musafirtravelsbangladesh.com
 0.0.0.0 musajafar.com
@@ -72810,6 +72843,7 @@
 0.0.0.0 nastymankinddefective.com
 0.0.0.0 nastymetus.com
 0.0.0.0 natalerut.website
+0.0.0.0 nataliamorova.com
 0.0.0.0 nataliatothova.art
 0.0.0.0 nataliavargova.com
 0.0.0.0 nataliebraw.digital
@@ -96910,6 +96944,7 @@
 0.0.0.0 sesoionsglear.xyz
 0.0.0.0 sessionamateur.com
 0.0.0.0 sessionlab.de
+0.0.0.0 sessions2transform.com
 0.0.0.0 sesstm.ee
 0.0.0.0 sestonenures.com
 0.0.0.0 sestraproduction.com
@@ -107285,6 +107320,7 @@
 0.0.0.0 thekatsmeowreiki.com
 0.0.0.0 thekct.org
 0.0.0.0 thekedges.co.uk
+0.0.0.0 theketothinstate.com
 0.0.0.0 thekhatuwala.com
 0.0.0.0 thekillforabuse1.xyz
 0.0.0.0 thekillforabuse2.xyz
@@ -109408,6 +109444,7 @@
 0.0.0.0 toolsdividedacquaint.com
 0.0.0.0 toolspaflinch.com
 0.0.0.0 toolspatriot.com
+0.0.0.0 toolstech.biz
 0.0.0.0 toolsthwartgrim.com
 0.0.0.0 toolsyjejunen.com
 0.0.0.0 tooltechh.com
@@ -109532,6 +109569,7 @@
 0.0.0.0 topgfund.com
 0.0.0.0 topgirls-here.com
 0.0.0.0 topgirls-here1.com
+0.0.0.0 topglabs.vip
 0.0.0.0 topgodbless.com
 0.0.0.0 topgostovanje.com
 0.0.0.0 topgtfuch.com
@@ -111578,6 +111616,7 @@
 0.0.0.0 tukeelsy.com
 0.0.0.0 tukipasti.com
 0.0.0.0 tukpublishers.com
+0.0.0.0 tuktuker.com
 0.0.0.0 tuktukthaifusionknoxville.com
 0.0.0.0 tukulordimera.com
 0.0.0.0 tukz.xyz
@@ -112356,6 +112395,7 @@
 0.0.0.0 uberouspolitei.com
 0.0.0.0 uberphotos.ca
 0.0.0.0 uberrealistic.com
+0.0.0.0 ubersonic.com
 0.0.0.0 ubetterubet.com
 0.0.0.0 ubfxqirtru.com
 0.0.0.0 ubg-ins.com
@@ -115851,6 +115891,7 @@
 0.0.0.0 vestparticle.com
 0.0.0.0 vesuvinaqueity.top
 0.0.0.0 vesytvcyvxtnj.xyz
+0.0.0.0 vetbird.com
 0.0.0.0 vetcheck4newpet.com
 0.0.0.0 vetdeberg.com
 0.0.0.0 veteranets.net
@@ -118228,6 +118269,7 @@
 0.0.0.0 wamvsgifra.top
 0.0.0.0 wanako.ca
 0.0.0.0 wancongbjvjnn.com
+0.0.0.0 wander-camper.com
 0.0.0.0 wanderbydiveding.com
 0.0.0.0 wandererbashful.com
 0.0.0.0 wanderingchimneypainting.com
@@ -120591,6 +120633,7 @@
 0.0.0.0 wkshkbojar.com
 0.0.0.0 wkslmxvyl.xyz
 0.0.0.0 wkvktvgoyklgof.com
+0.0.0.0 wkweieoj.com
 0.0.0.0 wkyyqcasfueb.com
 0.0.0.0 wl.flingeraflatus.com
 0.0.0.0 wlafx4trk.com
@@ -126061,6 +126104,7 @@
 0.0.0.0 www.demuresight.com
 0.0.0.0 www.dendegobrezib.com
 0.0.0.0 www.dendegobrezib.net
+0.0.0.0 www.dendegobrezib.org
 0.0.0.0 www.deneorphan.com
 0.0.0.0 www.denfengpingtai.com
 0.0.0.0 www.dengbisk.com
@@ -130761,6 +130805,7 @@
 0.0.0.0 www.liberalembedded.com
 0.0.0.0 www.liberalmuhafazakarkomunistparti.com
 0.0.0.0 www.liberalthrustwhilst.com
+0.0.0.0 www.liberator12.com
 0.0.0.0 www.liberty-homestead.com
 0.0.0.0 www.libertyshe.com
 0.0.0.0 www.libertysuededrizzle.com
@@ -132507,6 +132552,7 @@
 0.0.0.0 www.openerkey.com
 0.0.0.0 www.openexaminationgist.com
 0.0.0.0 www.openforalberta.com
+0.0.0.0 www.openhoseinsurance.com
 0.0.0.0 www.openhouseinsuranc.com
 0.0.0.0 www.openhouseinsurane.com
 0.0.0.0 www.openhouseinurance.com
@@ -135063,6 +135109,7 @@
 0.0.0.0 www.sendegobresob.net
 0.0.0.0 www.sendegobresub.com
 0.0.0.0 www.sendegobresub.org
+0.0.0.0 www.sendegobrezib.info
 0.0.0.0 www.sendegobrezib.org
 0.0.0.0 www.sendegonresib.com
 0.0.0.0 www.sendegonresiv.info
@@ -136680,6 +136727,7 @@
 0.0.0.0 www.theobaidur.dev
 0.0.0.0 www.theologicallimbs.com
 0.0.0.0 www.theologicalpresentation.com
+0.0.0.0 www.theoriginalstutzcider.com
 0.0.0.0 www.theoryexempt.com
 0.0.0.0 www.theoutdoortoycentre.com
 0.0.0.0 www.thep322.com
@@ -140532,6 +140580,7 @@
 0.0.0.0 yahama.us
 0.0.0.0 yahblemable.com
 0.0.0.0 yahmarts.com
+0.0.0.0 yahodaa.store
 0.0.0.0 yahoo.com
 0.0.0.0 yahoo.pm
 0.0.0.0 yahoomatch.live
@@ -141496,6 +141545,7 @@
 0.0.0.0 youdiscussed.com
 0.0.0.0 youdunngood.com
 0.0.0.0 youearrid.com
+0.0.0.0 yougetnothing.wtf
 0.0.0.0 yougoargentina.com
 0.0.0.0 yougotacheck.com
 0.0.0.0 youhaveaminute.com
