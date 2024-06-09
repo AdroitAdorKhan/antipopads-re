@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.161
 # Release: 161
-# Entries: 143,426
-# Updated: Sun, 09 Jun 24 14:10:43 +06
+# Entries: 143,428
+# Updated: Sun, 09 Jun 24 16:21:59 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -51684,6 +51684,7 @@
 0.0.0.0 hyosungmoto.info
 0.0.0.0 hyosungmoto.org
 0.0.0.0 hyovhlwx.com
+0.0.0.0 hyoyjeufpurkp.com
 0.0.0.0 hype-ads.com
 0.0.0.0 hype-digital.com
 0.0.0.0 hypeads.org
@@ -108842,6 +108843,7 @@
 0.0.0.0 tls-traffic.com
 0.0.0.0 tltfufoegaeupev.com
 0.0.0.0 tlthugthteksxp.com
+0.0.0.0 tludbgtmnu.com
 0.0.0.0 tluicnvqxbjdt.com
 0.0.0.0 tlvoiofg.com
 0.0.0.0 tlvpsbuffyiph.com
