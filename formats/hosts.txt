@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.161
 # Release: 161
-# Entries: 143,418
-# Updated: Sun, 09 Jun 24 10:08:45 +06
+# Entries: 143,419
+# Updated: Sun, 09 Jun 24 12:08:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -92417,6 +92417,7 @@
 0.0.0.0 rkajleihgyidsu.com
 0.0.0.0 rkalbwupipuow.xyz
 0.0.0.0 rkapghq.com
+0.0.0.0 rkasehyxvg.com
 0.0.0.0 rkatamonju.info
 0.0.0.0 rkcdcffxywdmh.com
 0.0.0.0 rkclifestyle.com
