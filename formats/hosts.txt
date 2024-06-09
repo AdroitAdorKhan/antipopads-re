@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.161
 # Release: 161
-# Entries: 143,399
-# Updated: Sun, 09 Jun 24 04:08:02 +06
+# Entries: 143,405
+# Updated: Sun, 09 Jun 24 06:11:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4661,6 +4661,7 @@
 0.0.0.0 aderstono.com
 0.0.0.0 aderymuchadmir.com
 0.0.0.0 adethemos.one
+0.0.0.0 adeum.io
 0.0.0.0 adex.media
 0.0.0.0 adexchange.io
 0.0.0.0 adexchangecloud.com
@@ -53920,6 +53921,7 @@
 0.0.0.0 inksbopyrus.website
 0.0.0.0 inkspireprintingservices.com
 0.0.0.0 inksterpennae.life
+0.0.0.0 inkstorulus.top
 0.0.0.0 inkstorylikeness.com
 0.0.0.0 inktad.com
 0.0.0.0 inktr.ee
@@ -55269,6 +55271,7 @@
 0.0.0.0 isolationmildred.com
 0.0.0.0 isolationoranges.com
 0.0.0.0 isolutions.co.in
+0.0.0.0 isomeremankin.top
 0.0.0.0 isonephmagas.life
 0.0.0.0 isoquant.io
 0.0.0.0 isortflorent.com
@@ -57310,6 +57313,7 @@
 0.0.0.0 jobkart.ca
 0.0.0.0 jobkart.us
 0.0.0.0 joblelo.online
+0.0.0.0 jobleveled.top
 0.0.0.0 joblouder.com
 0.0.0.0 jobly.info
 0.0.0.0 jobs4skilled.com
@@ -68766,6 +68770,7 @@
 0.0.0.0 mhtwpozkl.com
 0.0.0.0 mhuisrfx.xyz
 0.0.0.0 mhwpwcj.com
+0.0.0.0 mhxhidyyvtqc.com
 0.0.0.0 mhxyiqtan.com
 0.0.0.0 mhykited.com
 0.0.0.0 mhzmhd.xyz
@@ -139233,6 +139238,7 @@
 0.0.0.0 xhskypdbrl.xyz
 0.0.0.0 xhtlofartoxvnct.com
 0.0.0.0 xhtswsyfb.com
+0.0.0.0 xhtvpuicmsa.com
 0.0.0.0 xhtwo.xyz
 0.0.0.0 xhvaqgs.com
 0.0.0.0 xhwaqilpdc.com
