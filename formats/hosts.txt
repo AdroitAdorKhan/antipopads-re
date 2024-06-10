@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.162
 # Release: 162
-# Entries: 143,585
-# Updated: Mon, 10 Jun 24 10:09:11 +06
+# Entries: 143,592
+# Updated: Mon, 10 Jun 24 12:08:43 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -75862,6 +75862,7 @@
 0.0.0.0 nuevarelevacion.com
 0.0.0.0 nuevarelevacionsenorjesucristo.com
 0.0.0.0 nuevonoelmid.com
+0.0.0.0 nufa-ad.com
 0.0.0.0 nufsaid.net
 0.0.0.0 nuftitoat.net
 0.0.0.0 nufuglou.net
@@ -107013,6 +107014,7 @@
 0.0.0.0 thecastleclan.com
 0.0.0.0 thecastleclan.ltd
 0.0.0.0 thecatchpartners.com
+0.0.0.0 thecaterermail.com
 0.0.0.0 thecaydennaples.com
 0.0.0.0 thecc.rocks
 0.0.0.0 thecch.in
@@ -131593,6 +131595,7 @@
 0.0.0.0 www.mincenavigable.com
 0.0.0.0 www.mincesecondaryinset.com
 0.0.0.0 www.minderfaucetdramatic.com
+0.0.0.0 www.mindfulinstituteforemergingadults.com
 0.0.0.0 www.mindfulnessemergingadults.com
 0.0.0.0 www.mindfulnessinstituteforea.com
 0.0.0.0 www.mindfulnet.co.uk
@@ -135136,6 +135139,7 @@
 0.0.0.0 www.senecapolytechnic.net
 0.0.0.0 www.senecapolytechnicinstitute.net
 0.0.0.0 www.senecatech.net
+0.0.0.0 www.senfegobresib.net
 0.0.0.0 www.sensationaljanuaryscent.com
 0.0.0.0 www.sensationapparatus.com
 0.0.0.0 www.sensegobresib.com
@@ -136680,6 +136684,7 @@
 0.0.0.0 www.thecannabisreporter.com
 0.0.0.0 www.thecareveda.com
 0.0.0.0 www.thecarvalho.com
+0.0.0.0 www.thecaterermail.com
 0.0.0.0 www.theclubpalmbeach.com
 0.0.0.0 www.theconnectedlightingalliance.org
 0.0.0.0 www.theconspicuum.org
@@ -136719,6 +136724,7 @@
 0.0.0.0 www.thelivebasket.website
 0.0.0.0 www.thelocaldistro.com
 0.0.0.0 www.theloftartists.com
+0.0.0.0 www.thelongdrivenorth.com
 0.0.0.0 www.themeillogical.com
 0.0.0.0 www.themiddlecrossbaptistchurch.org
 0.0.0.0 www.themonarchultramovie.com
@@ -137757,6 +137763,7 @@
 0.0.0.0 www.vishaldurafe.com
 0.0.0.0 www.vishnutrends.com
 0.0.0.0 www.visibilitymondaydisappeared.com
+0.0.0.0 www.visionbirthing.com
 0.0.0.0 www.visionidentification.com
 0.0.0.0 www.visit.keznews.com
 0.0.0.0 www.visitationdependwrath.com
