@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.162
 # Release: 162
-# Entries: 143,583
-# Updated: Mon, 10 Jun 24 08:24:50 +06
+# Entries: 143,585
+# Updated: Mon, 10 Jun 24 10:09:11 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -37944,6 +37944,7 @@
 0.0.0.0 ezmob.xml-v4.ak-is2.net
 0.0.0.0 eznoz.xyz
 0.0.0.0 ezodhorrent.top
+0.0.0.0 ezoejkwwrv.com
 0.0.0.0 ezojs.com
 0.0.0.0 ezonlwiyhv.com
 0.0.0.0 ezoufdpeyqaain.com
@@ -93476,6 +93477,7 @@
 0.0.0.0 rr.tutoreddiota.com
 0.0.0.0 rrabg.to
 0.0.0.0 rratssbpkgoc.com
+0.0.0.0 rrbfybqloq.com
 0.0.0.0 rrcranchi.org
 0.0.0.0 rreauksofthecom.xyz
 0.0.0.0 rreg.us
