@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.163
 # Release: 163
-# Entries: 143,796
-# Updated: Tue, 11 Jun 24 20:08:20 +06
+# Entries: 143,802
+# Updated: Tue, 11 Jun 24 22:10:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -71308,6 +71308,7 @@
 0.0.0.0 mscghana.org
 0.0.0.0 mscoldness.com
 0.0.0.0 msconsultoreslegales.com
+0.0.0.0 msdcs.workgroup.www.sterenwifi.com
 0.0.0.0 msdcs.www.sterenwifi.com
 0.0.0.0 msdiouc.com
 0.0.0.0 msdrone.net
@@ -102243,6 +102244,7 @@
 0.0.0.0 starvybryan.com
 0.0.0.0 starwars.academy
 0.0.0.0 starwarscam.com
+0.0.0.0 starweedmedibles.org
 0.0.0.0 starweek.ca
 0.0.0.0 starwhores.net
 0.0.0.0 starxpresslogs.com
@@ -113097,6 +113099,7 @@
 0.0.0.0 ukzoweq.com
 0.0.0.0 ul.viaticaledged.com
 0.0.0.0 ul8seok7w5al.com
+0.0.0.0 ulabox.com
 0.0.0.0 ulaiwhiw.xyz
 0.0.0.0 ulalrars.net
 0.0.0.0 ulathana.com
@@ -126166,6 +126169,7 @@
 0.0.0.0 www.decidedlylipstick.com
 0.0.0.0 www.decidesjlore.com
 0.0.0.0 www.decimalcursor.com
+0.0.0.0 www.decimalediblegoose.com
 0.0.0.0 www.decimalmasculineawe.com
 0.0.0.0 www.decisionbereavespell.com
 0.0.0.0 www.decisivecalculated.com
@@ -142041,6 +142045,7 @@
 0.0.0.0 yqtvnbfndxolsj.com
 0.0.0.0 yqvtqjslflfsq.xyz
 0.0.0.0 yqxhslsqaqkbd.com
+0.0.0.0 yqxrjthpbolqq.com
 0.0.0.0 yr.sairyglossed.com
 0.0.0.0 yr9n47004g.com
 0.0.0.0 yragcvgrtfsuafy.com
@@ -142667,6 +142672,7 @@
 0.0.0.0 zavesnekreslo.sbs
 0.0.0.0 zavij.top
 0.0.0.0 zavikum.top
+0.0.0.0 zavmfyxoloiaar.com
 0.0.0.0 zavotv.com
 0.0.0.0 zawowtlikt.com
 0.0.0.0 zaxonoax.com
