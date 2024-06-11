@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.163
 # Release: 163
-# Entries: 143,779
-# Updated: Tue, 11 Jun 24 16:25:02 +06
+# Entries: 143,780
+# Updated: Tue, 11 Jun 24 18:08:37 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14751,6 +14751,7 @@
 0.0.0.0 bflone.com
 0.0.0.0 bfmasjrbtgy.com
 0.0.0.0 bfndquqal.com
+0.0.0.0 bfnthowxrxxkyyv.xyz
 0.0.0.0 bfnuhejbcs.com
 0.0.0.0 bfogxatnxkkmlc.com
 0.0.0.0 bfovysc.com
