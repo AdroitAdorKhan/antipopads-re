@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.163
 # Release: 163
-# Entries: 143,764
-# Updated: Tue, 11 Jun 24 08:22:58 +06
+# Entries: 143,768
+# Updated: Tue, 11 Jun 24 10:07:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -51939,6 +51939,7 @@
 0.0.0.0 i20122.com
 0.0.0.0 i20flex.com
 0.0.0.0 i20flexspace.com
+0.0.0.0 i2q7.com
 0.0.0.0 i3r7s2.com
 0.0.0.0 i42.live
 0.0.0.0 i4comfort.com
@@ -52681,6 +52682,7 @@
 0.0.0.0 ihzuephjxb.com
 0.0.0.0 ii3qy2.su
 0.0.0.0 ii9g0qj9.de
+0.0.0.0 iiamrlhf.com
 0.0.0.0 iiavtmmtyojkw.xyz
 0.0.0.0 iibhytvj.com
 0.0.0.0 iibugdjjbiy.com
@@ -69983,6 +69985,7 @@
 0.0.0.0 mmkwayys.com
 0.0.0.0 mmkznirlkjyghx.com
 0.0.0.0 mmliwvbw.com
+0.0.0.0 mmlvmwsngn.com
 0.0.0.0 mmmdn.net
 0.0.0.0 mmmh520.com
 0.0.0.0 mmmkwhktalcvvpg.com
@@ -129562,6 +129565,7 @@
 0.0.0.0 www.i-semiconductors.fr
 0.0.0.0 www.i-switch.com
 0.0.0.0 www.i1nq.com
+0.0.0.0 www.i2q7.com
 0.0.0.0 www.i8y156.com
 0.0.0.0 www.i9.log.br
 0.0.0.0 www.iaff2585.org
