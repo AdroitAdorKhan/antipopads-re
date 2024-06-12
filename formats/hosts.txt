@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.164
 # Release: 164
-# Entries: 143,913
-# Updated: Wed, 12 Jun 24 12:08:19 +06
+# Entries: 143,915
+# Updated: Wed, 12 Jun 24 14:10:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -39442,6 +39442,7 @@
 0.0.0.0 fhsm8123.com
 0.0.0.0 fhsmtrnsfnt.com
 0.0.0.0 fhsvyfoadsbo.com
+0.0.0.0 fhtrvndsoujbog.xyz
 0.0.0.0 fhtygvqhwwecwjr.xyz
 0.0.0.0 fhuafkxvrzgmyn.com
 0.0.0.0 fhuldusmtyenuf.com
@@ -121046,6 +121047,7 @@
 0.0.0.0 wnmnlibbqesrq.com
 0.0.0.0 wnmpbdgsiobp.com
 0.0.0.0 wnnhnaurzbr.com
+0.0.0.0 wnnnlivln.com
 0.0.0.0 wnp.com
 0.0.0.0 wnpfwudgleyvkb.com
 0.0.0.0 wnpladv.com
