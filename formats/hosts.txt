@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.165
 # Release: 165
-# Entries: 143,996
-# Updated: Thu, 13 Jun 24 04:08:23 +06
+# Entries: 144,005
+# Updated: Thu, 13 Jun 24 06:11:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3291,6 +3291,7 @@
 0.0.0.0 a-bring.com
 0.0.0.0 a-csontos.com
 0.0.0.0 a-k-v.net
+0.0.0.0 a-kovrik.ru
 0.0.0.0 a-munich.com
 0.0.0.0 a-network.biz
 0.0.0.0 a-o-w.ru
@@ -11392,6 +11393,7 @@
 0.0.0.0 autocarcare.net
 0.0.0.0 autochunkintriguing.com
 0.0.0.0 autocomplete.online
+0.0.0.0 autodek.ru
 0.0.0.0 autodes.de
 0.0.0.0 autodiscover.www.clicksgear.com
 0.0.0.0 autoenrolmentsupport.com
@@ -40627,6 +40629,7 @@
 0.0.0.0 flqidhffisba.com
 0.0.0.0 flqwvojijhqqlq.com
 0.0.0.0 flrdra.com
+0.0.0.0 flrealtycorp.com
 0.0.0.0 flrrenovations.net
 0.0.0.0 fltulgyxsq.com
 0.0.0.0 fluemantappall.guru
@@ -56969,6 +56972,7 @@
 0.0.0.0 jetpackjunkies.com
 0.0.0.0 jetpgnebpwm.com
 0.0.0.0 jetseparation.com
+0.0.0.0 jetskayak.com
 0.0.0.0 jetsonsdigital.com
 0.0.0.0 jetsowilk.com
 0.0.0.0 jetsurfsport.club
@@ -63289,6 +63293,7 @@
 0.0.0.0 lfpthkipndval.com
 0.0.0.0 lfstmedia.com
 0.0.0.0 lfsuigdrtsszog.com
+0.0.0.0 lftdotbpvs.com
 0.0.0.0 lfufujhxmy.com
 0.0.0.0 lfuntkrqgoxewqd.xyz
 0.0.0.0 lfwujowkcf.com
@@ -88697,6 +88702,7 @@
 0.0.0.0 qqqqbdma.com
 0.0.0.0 qqqwes.com
 0.0.0.0 qqrjoyywqxasxh.com
+0.0.0.0 qqrvtchm.com
 0.0.0.0 qqtcfdqd.com
 0.0.0.0 qqtfeobbpulrsb.com
 0.0.0.0 qqtnw.com
@@ -105988,6 +105994,7 @@
 0.0.0.0 tconf.ru
 0.0.0.0 tcontametrop.info
 0.0.0.0 tcopengroup.com
+0.0.0.0 tcotfsgmwhs.com
 0.0.0.0 tcow.store
 0.0.0.0 tcowmrj.com
 0.0.0.0 tcp.azuread.www.sterenwifi.com
@@ -121868,6 +121875,7 @@
 0.0.0.0 wrrnpdpnu.com
 0.0.0.0 wrrpc.yt
 0.0.0.0 wrrzje.com
+0.0.0.0 wrsgqqwjnumdu.com
 0.0.0.0 wrsnpevgfn.xyz
 0.0.0.0 wruaqpkuwa.com
 0.0.0.0 wrufer.com
@@ -139586,6 +139594,7 @@
 0.0.0.0 xdomainsx1ss.com
 0.0.0.0 xdpwrcdcafc.com
 0.0.0.0 xdserv.com
+0.0.0.0 xdtbqpxtevothd.com
 0.0.0.0 xdticbyy.com
 0.0.0.0 xdtmkkhr.xyz
 0.0.0.0 xdtqaaleryxrv.com
