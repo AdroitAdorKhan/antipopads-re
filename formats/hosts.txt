@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.166
 # Release: 166
-# Entries: 144,149
-# Updated: Fri, 14 Jun 24 08:22:35 +06
+# Entries: 144,160
+# Updated: Fri, 14 Jun 24 10:07:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4818,6 +4818,7 @@
 0.0.0.0 adlook.net
 0.0.0.0 adlserq.com
 0.0.0.0 adlure.net
+0.0.0.0 adm-net.com
 0.0.0.0 adm-service.org
 0.0.0.0 admachina.com
 0.0.0.0 admamsterdam.net
@@ -48138,6 +48139,7 @@
 0.0.0.0 haqse.net
 0.0.0.0 haqshptgevbixu.com
 0.0.0.0 haradeiu.rocks
+0.0.0.0 harag.online
 0.0.0.0 harakhclothing.in
 0.0.0.0 haramtour.com
 0.0.0.0 harankumaran.com
@@ -49012,6 +49014,7 @@
 0.0.0.0 helio-3recharge.com
 0.0.0.0 helionhubber.uno
 0.0.0.0 helionteasy.digital
+0.0.0.0 heliostechnics.com
 0.0.0.0 heliotics.app
 0.0.0.0 helirfid.com
 0.0.0.0 helisens.ca
@@ -55084,6 +55087,8 @@
 0.0.0.0 iosqmookf.com
 0.0.0.0 iosr3.sg
 0.0.0.0 iosze.com
+0.0.0.0 iot-monitoring.online
+0.0.0.0 iot-monitoring.tech
 0.0.0.0 iotacreativeagency.in
 0.0.0.0 iote.app
 0.0.0.0 iotiro.tech
@@ -63757,6 +63762,7 @@
 0.0.0.0 lihuwvokhonsni.com
 0.0.0.0 liiiht.com
 0.0.0.0 liioqbpty.com
+0.0.0.0 liiquhmblebaq.com
 0.0.0.0 lijbpjllfv.com
 0.0.0.0 lijxpxmbcsjts.xyz
 0.0.0.0 lijybcfgnjh.com
@@ -82343,6 +82349,7 @@
 0.0.0.0 perviv.com
 0.0.0.0 pescanforum.com
 0.0.0.0 pescataria.com
+0.0.0.0 peschl.biz
 0.0.0.0 pesewabantus.digital
 0.0.0.0 peskyclarifysuitcases.com
 0.0.0.0 peskycrash.com
@@ -91917,6 +91924,7 @@
 0.0.0.0 restadrenaline.com
 0.0.0.0 restartburgerremembrance.com
 0.0.0.0 restauracia.fun
+0.0.0.0 restaurant-abc.com
 0.0.0.0 restaurant-dev.com
 0.0.0.0 restauranthedwig.com
 0.0.0.0 restaurantkunnzelmann-dolcevita.de
@@ -97438,6 +97446,7 @@
 0.0.0.0 sex-and-flirt.com
 0.0.0.0 sex-chat.club
 0.0.0.0 sex-chat.me
+0.0.0.0 sex-chat.top
 0.0.0.0 sex-finder.net
 0.0.0.0 sex-loading.com
 0.0.0.0 sex-online.org
@@ -118541,6 +118550,7 @@
 0.0.0.0 w1w1.pro
 0.0.0.0 w2clientes.digital
 0.0.0.0 w2digitalnet.info
+0.0.0.0 w2kb.com
 0.0.0.0 w2produtosonline.digital
 0.0.0.0 w2servicosdigitais.info
 0.0.0.0 w33slot.net
@@ -138385,6 +138395,7 @@
 0.0.0.0 www.w12atendim.digital
 0.0.0.0 www.w1360.com
 0.0.0.0 www.w1w1.pro
+0.0.0.0 www.w2kb.com
 0.0.0.0 www.wadmargincling.com
 0.0.0.0 www.wadperformancethirty.com
 0.0.0.0 www.wafflesquaking.com
