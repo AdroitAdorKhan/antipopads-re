@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.168
 # Release: 168
-# Entries: 144,409
-# Updated: Sun, 16 Jun 24 06:08:34 +06
+# Entries: 144,411
+# Updated: Sun, 16 Jun 24 08:23:11 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13096,6 +13096,7 @@
 0.0.0.0 bartarinha.it
 0.0.0.0 bartclaessens.com
 0.0.0.0 barteebs.xyz
+0.0.0.0 bartendery.com
 0.0.0.0 barterbuddy.blog
 0.0.0.0 bartergram.shop
 0.0.0.0 barterko.com
@@ -28325,6 +28326,7 @@
 0.0.0.0 dchoseitfromt.com.ua
 0.0.0.0 dchrmahafw.com
 0.0.0.0 dcjaefrbn.xyz
+0.0.0.0 dcjeeqwrhg.com
 0.0.0.0 dcjfebjtkwjb.xyz
 0.0.0.0 dckitamxcroeirh.xyz
 0.0.0.0 dckmmwpskhjajrv.com
