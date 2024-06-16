@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.06.168
-# Release: 168
-# Entries: 144,445
-# Updated: Sun, 16 Jun 24 22:08:17 +06
+# Version: 24.06.169
+# Release: 169
+# Entries: 144,448
+# Updated: Mon, 17 Jun 24 00:24:06 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -18980,6 +18980,7 @@
 0.0.0.0 bymuratfener.com
 0.0.0.0 bymycom.com
 0.0.0.0 bymyth.com
+0.0.0.0 bynlokmulbyp.com
 0.0.0.0 byocamper.com
 0.0.0.0 byops.net
 0.0.0.0 bypasseaseboot.com
@@ -23546,6 +23547,7 @@
 0.0.0.0 cnsis001.com
 0.0.0.0 cnt.my
 0.0.0.0 cnt05.me
+0.0.0.0 cntonnkpcj.com
 0.0.0.0 cntrafficpro.com
 0.0.0.0 cntrktaieagnam.com
 0.0.0.0 cnucafwhtf.com
@@ -142074,6 +142076,7 @@
 0.0.0.0 yk.tacananbouffon.com
 0.0.0.0 ykakassg.com
 0.0.0.0 ykazaka.com
+0.0.0.0 ykbwiiafufwke.com
 0.0.0.0 ykcejuhkoey.com
 0.0.0.0 ykdwyf.com
 0.0.0.0 ykeerbdu.xyz
