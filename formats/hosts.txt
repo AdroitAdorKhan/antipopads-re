@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.168
 # Release: 168
-# Entries: 144,421
-# Updated: Sun, 16 Jun 24 14:08:15 +06
+# Entries: 144,426
+# Updated: Sun, 16 Jun 24 16:23:17 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5335,6 +5335,7 @@
 0.0.0.0 advard.com
 0.0.0.0 advenahedge.fund
 0.0.0.0 advenindia.shop
+0.0.0.0 adventa-bs.com
 0.0.0.0 adventnikoledar.com
 0.0.0.0 adventory.com
 0.0.0.0 adventrm.com
@@ -76150,6 +76151,7 @@
 0.0.0.0 nsfruitgrowers.ca
 0.0.0.0 nsfwadds.com
 0.0.0.0 nsfweth.com
+0.0.0.0 nsgyedmpxy.com
 0.0.0.0 nshio.com
 0.0.0.0 nshsefeasonkvg.com
 0.0.0.0 nshuzbylai.com
@@ -83224,6 +83226,7 @@
 0.0.0.0 picosevales.com
 0.0.0.0 picotwoolded.com
 0.0.0.0 picpicacg.xyz
+0.0.0.0 picpong.com
 0.0.0.0 picru.net
 0.0.0.0 pics-about-space.com
 0.0.0.0 pics-city.space
@@ -95806,6 +95809,7 @@
 0.0.0.0 savoyedpollet.life
 0.0.0.0 savoytrans.com
 0.0.0.0 savtvkdny.xyz
+0.0.0.0 savuzfhm.com
 0.0.0.0 savvcsj.com
 0.0.0.0 savvvqabnvqebs.xyz
 0.0.0.0 savvytec.ca
@@ -109865,6 +109869,7 @@
 0.0.0.0 tojebazaar.com
 0.0.0.0 tojebazar.com
 0.0.0.0 tojepravice.net
+0.0.0.0 tojfyvgbg.com
 0.0.0.0 tokaysguessed.uno
 0.0.0.0 tokboo.com
 0.0.0.0 tokchiptoken.com
