@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.169
 # Release: 169
-# Entries: 144,513
-# Updated: Mon, 17 Jun 24 12:07:44 +06
+# Entries: 144,514
+# Updated: Mon, 17 Jun 24 14:08:15 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -46724,6 +46724,7 @@
 0.0.0.0 greening-the-spark.com
 0.0.0.0 greenishbox.us
 0.0.0.0 greenixholidays.com
+0.0.0.0 greenlakeinsurance.ca
 0.0.0.0 greenlakeinsurance.com
 0.0.0.0 greenlandjourney.com
 0.0.0.0 greenlandskitouring.com
