@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.169
 # Release: 169
-# Entries: 144,514
-# Updated: Mon, 17 Jun 24 14:08:15 +06
+# Entries: 144,519
+# Updated: Mon, 17 Jun 24 16:25:15 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -24929,6 +24929,7 @@
 0.0.0.0 constraintarrearsadvantages.com
 0.0.0.0 constraintspectaclecabin.com
 0.0.0.0 constrictbuzz.com
+0.0.0.0 constrictopticaldarkness.com
 0.0.0.0 constructavix.com
 0.0.0.0 constructbrought.com
 0.0.0.0 constructcowardlysurface.com
@@ -29873,6 +29874,7 @@
 0.0.0.0 dgudbaykj.com
 0.0.0.0 dguhjlbefeuf.com
 0.0.0.0 dguxtyxy.com
+0.0.0.0 dguzigva.com
 0.0.0.0 dgvofecsvsu.com
 0.0.0.0 dgwmrddx.xyz
 0.0.0.0 dgwskishj.com
@@ -121026,6 +121028,7 @@
 0.0.0.0 wimax-hotspot.net
 0.0.0.0 wimex.store
 0.0.0.0 wimfwomrjt.com
+0.0.0.0 wimhofs.com
 0.0.0.0 wimmon.com
 0.0.0.0 wimpeelt.com
 0.0.0.0 wimpthirtyarrears.com
@@ -126265,6 +126268,7 @@
 0.0.0.0 www.constituentbitbarley.com
 0.0.0.0 www.constituentonset.com
 0.0.0.0 www.constomach.com
+0.0.0.0 www.constrictopticaldarkness.com
 0.0.0.0 www.constructcowardlysurface.com
 0.0.0.0 www.constructionabyss.com
 0.0.0.0 www.constructionjeffben.com
@@ -139035,6 +139039,7 @@
 0.0.0.0 www.willingnesslimit.com
 0.0.0.0 www.willingnesslookheap.com
 0.0.0.0 www.willowresponsible.com
+0.0.0.0 www.wimhofs.com
 0.0.0.0 www.win-bets.net
 0.0.0.0 www.win-channel.net
 0.0.0.0 www.win-wincollector.org
