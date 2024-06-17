@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.169
 # Release: 169
-# Entries: 144,511
-# Updated: Mon, 17 Jun 24 10:07:38 +06
+# Entries: 144,513
+# Updated: Mon, 17 Jun 24 12:07:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -57328,6 +57328,7 @@
 0.0.0.0 jhgxklbkyg.com
 0.0.0.0 jhgy.yt
 0.0.0.0 jhiekkjeyyfbj.com
+0.0.0.0 jhifgvqvi.com
 0.0.0.0 jhnanh.com
 0.0.0.0 jhnmqpyvfws.com
 0.0.0.0 jhonnatanmesquita.com.br
@@ -119497,6 +119498,7 @@
 0.0.0.0 wbrrfoapfc.com
 0.0.0.0 wbs.center
 0.0.0.0 wbslpqcjhl.com
+0.0.0.0 wbsnovsknu.com
 0.0.0.0 wbsymw.com
 0.0.0.0 wbtsaeadmo.com
 0.0.0.0 wbubnjqyrmv.com
