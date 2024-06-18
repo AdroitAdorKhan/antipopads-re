@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.170
 # Release: 170
-# Entries: 144,675
-# Updated: Tue, 18 Jun 24 12:07:53 +06
+# Entries: 144,679
+# Updated: Tue, 18 Jun 24 14:08:31 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1900,6 +1900,7 @@
 0.0.0.0 4kshdbjhfsdf44.monster
 0.0.0.0 4ksjdkfsdf4.monster
 0.0.0.0 4kuy37.com
+0.0.0.0 4kwp.com
 0.0.0.0 4lan.email
 0.0.0.0 4lke.online
 0.0.0.0 4lordfilm-0.xyz
@@ -10886,6 +10887,7 @@
 0.0.0.0 atlasfledbeheld.com
 0.0.0.0 atlashookah.com
 0.0.0.0 atlaspo4k.me
+0.0.0.0 atlastwo.com
 0.0.0.0 atleticoclubeleiria.com
 0.0.0.0 atlgensxfnqtw.com
 0.0.0.0 atlhjtmjrj.com
@@ -67389,6 +67391,7 @@
 0.0.0.0 marekhlava.com
 0.0.0.0 mareklukacko.com
 0.0.0.0 marekmajercik.com
+0.0.0.0 marekospaly.com
 0.0.0.0 marekslifestyle.com
 0.0.0.0 maremashop.com
 0.0.0.0 marengoruga.website
@@ -123050,6 +123053,7 @@
 0.0.0.0 www.4jshvdjfsdf4.monster
 0.0.0.0 www.4kki.com
 0.0.0.0 www.4ksjdkfsdf4.monster
+0.0.0.0 www.4kwp.com
 0.0.0.0 www.4ltv4.com
 0.0.0.0 www.4mv2.com
 0.0.0.0 www.4rpets.com
