@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.170
 # Release: 170
-# Entries: 144,684
-# Updated: Tue, 18 Jun 24 16:28:29 +06
+# Entries: 144,686
+# Updated: Tue, 18 Jun 24 18:08:40 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -52996,6 +52996,7 @@
 0.0.0.0 ihoster.io
 0.0.0.0 ihousing.online
 0.0.0.0 ihpacademy.com
+0.0.0.0 ihpljbrwytfyvsj.com
 0.0.0.0 ihqnckvpfx.com
 0.0.0.0 ihqyfhytlu.com
 0.0.0.0 ihr.immobilien
@@ -140115,6 +140116,7 @@
 0.0.0.0 xavito.tech
 0.0.0.0 xawab.com
 0.0.0.0 xawpdwil.com
+0.0.0.0 xaxciisqwvk.com
 0.0.0.0 xaxoro.com
 0.0.0.0 xaxre.com
 0.0.0.0 xaxrtiahkft.com
