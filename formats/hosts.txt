@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.171
 # Release: 171
-# Entries: 144,805
-# Updated: Wed, 19 Jun 24 12:32:04 +06
+# Entries: 144,807
+# Updated: Wed, 19 Jun 24 14:07:43 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -59105,6 +59105,7 @@
 0.0.0.0 k4umr0wuc.com
 0.0.0.0 k5.tf
 0.0.0.0 k55p9ka2.de
+0.0.0.0 k5v5.com
 0.0.0.0 k5zoom.com
 0.0.0.0 k68tkg.com
 0.0.0.0 k6sf.com
@@ -131433,6 +131434,7 @@
 0.0.0.0 www.k.mr
 0.0.0.0 www.k12jyzs2020.com
 0.0.0.0 www.k3author.com
+0.0.0.0 www.k5v5.com
 0.0.0.0 www.k6sf.com
 0.0.0.0 www.kaamsutra.in
 0.0.0.0 www.kaayaloram.com
