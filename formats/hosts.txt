@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.171
 # Release: 171
-# Entries: 144,797
-# Updated: Wed, 19 Jun 24 08:09:00 +06
+# Entries: 144,799
+# Updated: Wed, 19 Jun 24 10:07:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -104754,6 +104754,7 @@
 0.0.0.0 supteco.com
 0.0.0.0 suptraf.com
 0.0.0.0 suptur.online
+0.0.0.0 supwioom.com
 0.0.0.0 suqhojqeywimf.xyz
 0.0.0.0 surahsbimas.com
 0.0.0.0 surakshaas.com
@@ -143354,6 +143355,7 @@
 0.0.0.0 yx2005526wxx.com
 0.0.0.0 yxajqsrsij.com
 0.0.0.0 yxdxikxbppdcn.com
+0.0.0.0 yxedjsin.com
 0.0.0.0 yxeqahmgyxqdid.com
 0.0.0.0 yxg688.com
 0.0.0.0 yxgacdl.com
