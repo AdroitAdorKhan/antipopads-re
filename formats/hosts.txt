@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.172
 # Release: 172
-# Entries: 144,918
-# Updated: Thu, 20 Jun 24 02:08:00 +06
+# Entries: 144,919
+# Updated: Thu, 20 Jun 24 04:27:15 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -119899,6 +119899,7 @@
 0.0.0.0 wcsfglobal.co.uk
 0.0.0.0 wcsvjqcrpqqft.com
 0.0.0.0 wct.link
+0.0.0.0 wctqqmqosqw.com
 0.0.0.0 wcuolmojkzir.com
 0.0.0.0 wcvsateu.com
 0.0.0.0 wcvyyacmnoamt.com
