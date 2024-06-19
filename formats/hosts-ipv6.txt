@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.171
 # Release: 171
-# Entries: 144,814
-# Updated: Wed, 19 Jun 24 16:09:08 +06
+# Entries: 144,815
+# Updated: Wed, 19 Jun 24 18:08:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -96992,6 +96992,7 @@
 :: securitetotale.fr
 :: securityaudioassociates.com
 :: securitycornerbd.com
+:: securityfirstcloud.com
 :: securitypoint.ca
 :: secvsc.com
 :: secybunsen.tech
