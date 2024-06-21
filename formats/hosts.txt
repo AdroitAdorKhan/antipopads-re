@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.173
 # Release: 173
-# Entries: 145,276
-# Updated: Fri, 21 Jun 24 16:08:20 +06
+# Entries: 145,281
+# Updated: Fri, 21 Jun 24 18:08:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -32387,6 +32387,7 @@
 0.0.0.0 dqxieblh.com
 0.0.0.0 dqxifbm.com
 0.0.0.0 dqxsxcpsafgvr.com
+0.0.0.0 dqypqewirrf.com
 0.0.0.0 dqyqawqfgsyyd.com
 0.0.0.0 dqzsejvbr.com
 0.0.0.0 dr-apps.in
@@ -38375,6 +38376,7 @@
 0.0.0.0 ezpixeltraking.com
 0.0.0.0 ezprice.net
 0.0.0.0 ezproof.org
+0.0.0.0 ezresults.ca
 0.0.0.0 ezsafety.com.ec
 0.0.0.0 ezsbhlpchu.com
 0.0.0.0 ezsoftech.com
@@ -46547,6 +46549,7 @@
 0.0.0.0 gpqatar.qa
 0.0.0.0 gpqudvbtu.com
 0.0.0.0 gprhe.com
+0.0.0.0 gprsiugqgwqt.com
 0.0.0.0 gps-iphone.info
 0.0.0.0 gps-live.pw
 0.0.0.0 gpt-trump.com
@@ -108461,6 +108464,7 @@
 0.0.0.0 theethereumcodeapp.com
 0.0.0.0 theethicmed.com
 0.0.0.0 theethiopiankitchen.co.uk
+0.0.0.0 theetholri.xyz
 0.0.0.0 theetsothie.com
 0.0.0.0 theeventdumpster.com
 0.0.0.0 theexportnews.com
@@ -129000,6 +129004,7 @@
 0.0.0.0 www.ezeelinkgroup.com
 0.0.0.0 www.ezigma.com
 0.0.0.0 www.ezproof.org
+0.0.0.0 www.ezresults.ca
 0.0.0.0 www.ezsoftech.com
 0.0.0.0 www.ezytopups.com
 0.0.0.0 www.f1insider.tech
