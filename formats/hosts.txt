@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.174
 # Release: 174
-# Entries: 145,345
-# Updated: Sat, 22 Jun 24 04:26:07 +06
+# Entries: 145,350
+# Updated: Sat, 22 Jun 24 06:08:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -18637,6 +18637,7 @@
 0.0.0.0 bureauxcope.casa
 0.0.0.0 burgea.com
 0.0.0.0 burgerdc.com
+0.0.0.0 burgerideas.com
 0.0.0.0 burgerjolly.com
 0.0.0.0 burgerking.ru
 0.0.0.0 burgermeisterburgers.ca
@@ -30597,6 +30598,7 @@
 0.0.0.0 dinterperson.xyz
 0.0.0.0 dintgobline.digital
 0.0.0.0 dinvergne.space
+0.0.0.0 dinygjesn.xyz
 0.0.0.0 dio.ooo
 0.0.0.0 diodetriops.live
 0.0.0.0 dioecycatalog.guru
@@ -89298,6 +89300,7 @@
 0.0.0.0 qjdphlusdgsn.com
 0.0.0.0 qjdyokmjypac.com
 0.0.0.0 qjfehnksquxeba.com
+0.0.0.0 qjfltppw.com
 0.0.0.0 qjhwoixjkd.com
 0.0.0.0 qjidxgzfrpehem.com
 0.0.0.0 qjlmkickilbqxbs.xyz
@@ -108059,6 +108062,7 @@
 0.0.0.0 thazukom.net
 0.0.0.0 thbum.xyz
 0.0.0.0 thc-vapepen.com
+0.0.0.0 thcrvmste.com
 0.0.0.0 thddrk.sbs
 0.0.0.0 thdebtbox.online
 0.0.0.0 thdifferuken.com
@@ -141023,6 +141027,7 @@
 0.0.0.0 xfy60.com
 0.0.0.0 xfyqlex.com
 0.0.0.0 xfyuittioif.xyz
+0.0.0.0 xfzbrfmffnpqd.com
 0.0.0.0 xfzyz55.com
 0.0.0.0 xg.lavedpewmate.com
 0.0.0.0 xg8888.net
