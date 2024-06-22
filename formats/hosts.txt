@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.174
 # Release: 174
-# Entries: 145,368
-# Updated: Sat, 22 Jun 24 14:07:58 +06
+# Entries: 145,378
+# Updated: Sat, 22 Jun 24 16:07:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -60028,6 +60028,7 @@
 0.0.0.0 kedvenckerteszet.com
 0.0.0.0 kedxycgtnw.top
 0.0.0.0 kedymapatriknarodeniny.com
+0.0.0.0 kedzijugygevb.com
 0.0.0.0 keechavy.com
 0.0.0.0 keedaipa.xyz
 0.0.0.0 keefeezo.net
@@ -80730,6 +80731,7 @@
 0.0.0.0 ovrlydrb.com
 0.0.0.0 ovs-ibm.it
 0.0.0.0 ovsgalzea.com
+0.0.0.0 ovsgxlpeug.com
 0.0.0.0 ovsqadol.com
 0.0.0.0 ovsrhikuma.com
 0.0.0.0 ovtvupkcn.com
@@ -91265,6 +91267,7 @@
 0.0.0.0 realitari.net
 0.0.0.0 realitcar.online
 0.0.0.0 realitka.app
+0.0.0.0 reality-egypt.cz
 0.0.0.0 reality007.com
 0.0.0.0 reality120.com
 0.0.0.0 realityamorphous.com
@@ -120502,6 +120505,7 @@
 0.0.0.0 web3series.com
 0.0.0.0 web3tax.us
 0.0.0.0 web41k.ru
+0.0.0.0 web4india.in
 0.0.0.0 web4photo.net
 0.0.0.0 web605.cn
 0.0.0.0 web99.tech
@@ -124297,6 +124301,7 @@
 0.0.0.0 www.aicopywritersoftware.com
 0.0.0.0 www.aicounsel.uk
 0.0.0.0 www.aidainsights.com
+0.0.0.0 www.aidantsontario.com
 0.0.0.0 www.aidgrid.net
 0.0.0.0 www.aidraiphejpb.com
 0.0.0.0 www.aidreaming.org
@@ -130014,6 +130019,7 @@
 0.0.0.0 www.getbestsurvey.top
 0.0.0.0 www.getcgdtested.com
 0.0.0.0 www.getclassification.com
+0.0.0.0 www.getcleancontacts.com
 0.0.0.0 www.getdollarsurvey.top
 0.0.0.0 www.geteversensecgm.com
 0.0.0.0 www.getfinancesurvey.top
@@ -133679,6 +133685,7 @@
 0.0.0.0 www.nasalburglarthomas.com
 0.0.0.0 www.nasalhoney.com
 0.0.0.0 www.nastymankinddefective.com
+0.0.0.0 www.national-valve.org
 0.0.0.0 www.nationalgausewatrust.com
 0.0.0.0 www.nationalityblizzard.com
 0.0.0.0 www.nationhandbook.com
@@ -135852,6 +135859,7 @@
 0.0.0.0 www.realestatecareersalabama.com
 0.0.0.0 www.realestatedxb.info
 0.0.0.0 www.realinternetspeed.com
+0.0.0.0 www.reality-egypt.cz
 0.0.0.0 www.realityamorphous.com
 0.0.0.0 www.realizationdatabase.com
 0.0.0.0 www.realizeparish.com
@@ -136772,6 +136780,7 @@
 0.0.0.0 www.semiglorifyseek.com
 0.0.0.0 www.semiinfest.com
 0.0.0.0 www.seminareagle.com
+0.0.0.0 www.semitorrinc.org
 0.0.0.0 www.semsidamide.net
 0.0.0.0 www.semsidimid.net
 0.0.0.0 www.semsidimid.org
@@ -139680,6 +139689,7 @@
 0.0.0.0 www.weavelurkwiden.com
 0.0.0.0 www.weaverdispensepause.com
 0.0.0.0 www.web-kite.ru
+0.0.0.0 www.web4india.in
 0.0.0.0 www.web605.cn
 0.0.0.0 www.webbrowser-downloading.com
 0.0.0.0 www.webcube-dsp.jp
