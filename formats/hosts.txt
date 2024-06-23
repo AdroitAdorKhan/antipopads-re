@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.175
 # Release: 175
-# Entries: 145,507
-# Updated: Sun, 23 Jun 24 04:36:18 +06
+# Entries: 145,512
+# Updated: Sun, 23 Jun 24 06:07:42 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12708,6 +12708,7 @@
 0.0.0.0 bajbe.pl
 0.0.0.0 bajcar.site
 0.0.0.0 bajiecc.com
+0.0.0.0 bajk.store
 0.0.0.0 bajta.com
 0.0.0.0 bajtalon.net
 0.0.0.0 bajyhhykjgcuiv.com
@@ -21299,6 +21300,7 @@
 0.0.0.0 cfffk.com
 0.0.0.0 cffjqmatjkvolf.com
 0.0.0.0 cffmloilr.com
+0.0.0.0 cffmycagktoi.com
 0.0.0.0 cffujnudcdy.com
 0.0.0.0 cfgr1.com
 0.0.0.0 cfgr5.com
@@ -89266,6 +89268,7 @@
 0.0.0.0 qgalsuokqgqssw.xyz
 0.0.0.0 qgaqougf.com
 0.0.0.0 qgathqaptdfufe.xyz
+0.0.0.0 qgdjzgoojtrll.com
 0.0.0.0 qgevavwyafjf.com
 0.0.0.0 qgexkmi.com
 0.0.0.0 qgfolcfi.com
@@ -89321,6 +89324,7 @@
 0.0.0.0 qhupdeop.xyz
 0.0.0.0 qhuqzw.top
 0.0.0.0 qhvdhftskbvr.com
+0.0.0.0 qhwbhyvxn.com
 0.0.0.0 qhweaywcqx.com
 0.0.0.0 qhwyoat.com
 0.0.0.0 qhxturwtar.xyz
@@ -143114,6 +143118,7 @@
 0.0.0.0 yk.tacananbouffon.com
 0.0.0.0 ykakassg.com
 0.0.0.0 ykazaka.com
+0.0.0.0 ykbwgoicgllke.com
 0.0.0.0 ykbwiiafufwke.com
 0.0.0.0 ykcejuhkoey.com
 0.0.0.0 ykdwyf.com
