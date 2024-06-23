@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.175
 # Release: 175
-# Entries: 145,519
-# Updated: Sun, 23 Jun 24 12:35:53 +06
+# Entries: 145,520
+# Updated: Sun, 23 Jun 24 14:07:39 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -48583,6 +48583,7 @@
 0.0.0.0 happy-counter.net
 0.0.0.0 happy-laser.ca
 0.0.0.0 happy-laser.com
+0.0.0.0 happy-ticket.bet
 0.0.0.0 happy22kids.org
 0.0.0.0 happybabygames.com
 0.0.0.0 happycutters.store
