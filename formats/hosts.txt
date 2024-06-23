@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.175
 # Release: 175
-# Entries: 145,512
-# Updated: Sun, 23 Jun 24 06:07:42 +06
+# Entries: 145,514
+# Updated: Sun, 23 Jun 24 08:09:07 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -83715,6 +83715,7 @@
 0.0.0.0 photosbydag.com
 0.0.0.0 photoshootneworleans.com
 0.0.0.0 photoshopkiller.com
+0.0.0.0 photoshoptoxd.com
 0.0.0.0 phototrackback.com
 0.0.0.0 photovoltaicsinstallation.com
 0.0.0.0 phoulade.xyz
@@ -131067,6 +131068,7 @@
 0.0.0.0 www.hoyi-design.site
 0.0.0.0 www.hoyolab.de
 0.0.0.0 www.hpclvitarakchayan.in
+0.0.0.0 www.hphats.com
 0.0.0.0 www.hpinno.org
 0.0.0.0 www.hputigroup.com
 0.0.0.0 www.hqonlineporn.com
