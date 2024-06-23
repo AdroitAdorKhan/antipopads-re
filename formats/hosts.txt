@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.175
 # Release: 175
-# Entries: 145,517
-# Updated: Sun, 23 Jun 24 10:07:39 +06
+# Entries: 145,519
+# Updated: Sun, 23 Jun 24 12:35:53 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -31825,6 +31825,7 @@
 0.0.0.0 dolitechart.cfd
 0.0.0.0 dollacryptoww.io
 0.0.0.0 dollarade.com
+0.0.0.0 dollaratthetime.com
 0.0.0.0 dollarcollapse.net
 0.0.0.0 dollarcollapse.org
 0.0.0.0 dollarcollapseinsider.com
@@ -132101,6 +132102,7 @@
 0.0.0.0 www.juxtaposeinclined.com
 0.0.0.0 www.jwpcdn-hamed.com
 0.0.0.0 www.jychzx.com
+0.0.0.0 www.jyotishvigyan.in
 0.0.0.0 www.jzdxt.com
 0.0.0.0 www.jzehblzy.com
 0.0.0.0 www.k.mr
