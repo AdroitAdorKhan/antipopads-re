@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.06.177
-# Release: 177
-# Entries: 145,814
-# Updated: Tue, 25 Jun 24 22:26:12 +06
+# Version: 24.06.178
+# Release: 178
+# Entries: 145,816
+# Updated: Wed, 26 Jun 24 00:07:53 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -32497,6 +32497,7 @@
 0.0.0.0 dqheyqnru.xyz
 0.0.0.0 dqhezw.com
 0.0.0.0 dqhoikghxts.com
+0.0.0.0 dqhsavongmknx.com
 0.0.0.0 dqhvmdkvajhwgo.com
 0.0.0.0 dqhvnhvasdn.xyz
 0.0.0.0 dqithafgpksyw.com
@@ -82443,6 +82444,7 @@
 0.0.0.0 paycca.pw
 0.0.0.0 payclickcare.com
 0.0.0.0 payconiq-nl.com
+0.0.0.0 paydart.com
 0.0.0.0 payday-lenders.us
 0.0.0.0 payequityontario.com
 0.0.0.0 payfertilisedtint.com
