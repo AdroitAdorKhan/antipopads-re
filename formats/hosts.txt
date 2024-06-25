@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.177
 # Release: 177
-# Entries: 145,794
-# Updated: Tue, 25 Jun 24 18:07:48 +06
+# Entries: 145,802
+# Updated: Tue, 25 Jun 24 20:08:00 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29337,6 +29337,7 @@
 0.0.0.0 demand.supply
 0.0.0.0 demandbrigde.com
 0.0.0.0 demandedaccolade.com
+0.0.0.0 demandedgovernesssupply.com
 0.0.0.0 demandedhalfmoon.com
 0.0.0.0 demanova.online
 0.0.0.0 demarre-ici.ca
@@ -55848,6 +55849,7 @@
 0.0.0.0 ipmathematical.org
 0.0.0.0 ipmbnqqaon.com
 0.0.0.0 ipmiumjdgyrqko.top
+0.0.0.0 ipmrxuslgtq.com
 0.0.0.0 ipmsun.com
 0.0.0.0 ipmuvtmonjdwuf.xyz
 0.0.0.0 ipmzpxne.com
@@ -116591,6 +116593,7 @@
 0.0.0.0 uwqtijqw.com
 0.0.0.0 uwrzjgtnur.com
 0.0.0.0 uwufcjfjjlpmm.com
+0.0.0.0 uwunuhucedmfhd.com
 0.0.0.0 uwyaxfkfcfnj.com
 0.0.0.0 uwzxukualwdkx.com
 0.0.0.0 ux.inlooktrac.com
@@ -120661,6 +120664,7 @@
 0.0.0.0 wcadlxvbjus.com
 0.0.0.0 wcanadagoosecheap.com
 0.0.0.0 wcasaints.org
+0.0.0.0 wcbbhswfdpctbjo.com
 0.0.0.0 wcblxtcneisq.top
 0.0.0.0 wcbxugtfk.com
 0.0.0.0 wcciu.yt
@@ -129400,6 +129404,7 @@
 0.0.0.0 www.existenceassociationvoice.com
 0.0.0.0 www.existingcorresponding.com
 0.0.0.0 www.exitenmitynotwithstanding.com
+0.0.0.0 www.exopacs.com
 0.0.0.0 www.expectedballpaul.com
 0.0.0.0 www.expedientabnormaldeceased.com
 0.0.0.0 www.expelledcleaner.com
@@ -131426,6 +131431,7 @@
 0.0.0.0 www.hydrofoodie.com
 0.0.0.0 www.hydrogenpicklenope.com
 0.0.0.0 www.hydroshop.com.au
+0.0.0.0 www.hylo-lang.net
 0.0.0.0 www.hyphenprovocationpout.com
 0.0.0.0 www.hypnotizedespiterelinquish.com
 0.0.0.0 www.hypocrisypreliminary.com
@@ -132830,6 +132836,7 @@
 0.0.0.0 www.letsmeetatthewell.com
 0.0.0.0 www.letsplaywaverly.com
 0.0.0.0 www.letterdowrynewest.com
+0.0.0.0 www.lettersfromgrandmarais.org
 0.0.0.0 www.letterwolves.com
 0.0.0.0 www.leubsdorf.com
 0.0.0.0 www.level23.nl
@@ -139617,6 +139624,7 @@
 0.0.0.0 www.upwardunderground.com
 0.0.0.0 www.upwerxs.com
 0.0.0.0 www.urassdogibog.com
+0.0.0.0 www.urbanagriculturedesign.com
 0.0.0.0 www.urbanahousingfund.org
 0.0.0.0 www.urbanbizhub.com
 0.0.0.0 www.urbaninsights.co.uk
