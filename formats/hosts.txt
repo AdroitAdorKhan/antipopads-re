@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.179
 # Release: 179
-# Entries: 146,038
-# Updated: Thu, 27 Jun 24 02:08:01 +06
+# Entries: 146,043
+# Updated: Thu, 27 Jun 24 04:08:01 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16903,6 +16903,7 @@
 0.0.0.0 bonitabay.life
 0.0.0.0 bonitabaybaypointe.com
 0.0.0.0 bonitabaytavira.com
+0.0.0.0 bonitafood.net
 0.0.0.0 bonitas-cz.com
 0.0.0.0 bonjonetwork.com
 0.0.0.0 bonjoucafe.net
@@ -84534,6 +84535,7 @@
 0.0.0.0 pippamiddleton.com
 0.0.0.0 pippinbooks.us
 0.0.0.0 pipprfvhpykpvk.com
+0.0.0.0 piprogram.bm
 0.0.0.0 pipsol.net
 0.0.0.0 pipwcdjglcsqifb.com
 0.0.0.0 piqarde.com
@@ -103582,6 +103584,7 @@
 0.0.0.0 sslgvgeecaytnb.xyz
 0.0.0.0 sslifefoundation.org
 0.0.0.0 sslinkcom.com
+0.0.0.0 ssliswvfcwlx.com
 0.0.0.0 ssllink.net
 0.0.0.0 sslong.life
 0.0.0.0 sslong010.com
@@ -113610,6 +113613,7 @@
 0.0.0.0 tughansllp.com
 0.0.0.0 tugrikicebox.guru
 0.0.0.0 tugrulhankeskin.tech
+0.0.0.0 tuguhnnurakts.xyz
 0.0.0.0 tuguiaenellaberinto.com
 0.0.0.0 tugust.com
 0.0.0.0 tuhadslknckfm.com
@@ -126393,6 +126397,7 @@
 0.0.0.0 www.bondprodtrue.com
 0.0.0.0 www.bonesinoffensivebook.com
 0.0.0.0 www.bonitabay.life
+0.0.0.0 www.bonitafood.net
 0.0.0.0 www.bonnetacademy.com
 0.0.0.0 www.bonuswinner.net
 0.0.0.0 www.bookastaycation.com
