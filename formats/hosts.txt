@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.178
 # Release: 178
-# Entries: 145,876
-# Updated: Wed, 26 Jun 24 08:07:48 +06
+# Entries: 145,877
+# Updated: Wed, 26 Jun 24 10:07:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -143488,6 +143488,7 @@
 0.0.0.0 ykhpsnni.com
 0.0.0.0 ykhystdclta.com
 0.0.0.0 ykiqgxbfsr.com
+0.0.0.0 ykiyuryt.com
 0.0.0.0 ykjlywmacl.com
 0.0.0.0 ykjsmgzjuad.com
 0.0.0.0 ykjxwedaskyv.com
