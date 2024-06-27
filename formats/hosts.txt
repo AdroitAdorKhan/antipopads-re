@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.179
 # Release: 179
-# Entries: 146,123
-# Updated: Thu, 27 Jun 24 16:08:18 +06
+# Entries: 146,125
+# Updated: Thu, 27 Jun 24 18:25:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -25089,6 +25089,7 @@
 0.0.0.0 connect-auth.fr
 0.0.0.0 connect.mn
 0.0.0.0 connect2cfg.ca
+0.0.0.0 connectaccessline.com
 0.0.0.0 connectad.io
 0.0.0.0 connectbusiness.tech
 0.0.0.0 connectedchaise.com
@@ -125356,6 +125357,7 @@
 0.0.0.0 www.anvilaboundpalpable.com
 0.0.0.0 www.anvilcompetitivepills.com
 0.0.0.0 www.anvilfaintmaiden.com
+0.0.0.0 www.anxiousairliner.com
 0.0.0.0 www.anxiouslyconsistencytearing.com
 0.0.0.0 www.anxiouslywonderexcitement.com
 0.0.0.0 www.anybanner.net
