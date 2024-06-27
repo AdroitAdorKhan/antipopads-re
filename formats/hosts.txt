@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.179
 # Release: 179
-# Entries: 146,049
-# Updated: Thu, 27 Jun 24 06:29:47 +06
+# Entries: 146,051
+# Updated: Thu, 27 Jun 24 08:07:54 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -70230,6 +70230,7 @@
 0.0.0.0 midgetdeliveringsmartly.com
 0.0.0.0 midgetgravelshorthand.com
 0.0.0.0 midgetincidentally.com
+0.0.0.0 midiainter.com
 0.0.0.0 midisk.site
 0.0.0.0 midistortrix.com
 0.0.0.0 midlandbookshop.online
@@ -107626,6 +107627,7 @@
 0.0.0.0 tdahteaflleida.com
 0.0.0.0 tdaisanchez.com
 0.0.0.0 tdbrcsrjhkcpsh.com
+0.0.0.0 tdcecdkm.com
 0.0.0.0 tdcjtexas.com
 0.0.0.0 tdcjtx.com
 0.0.0.0 tddemchenko.info
