@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.180
 # Release: 180
-# Entries: 146,210
-# Updated: Fri, 28 Jun 24 00:08:03 +06
+# Entries: 146,213
+# Updated: Fri, 28 Jun 24 02:23:22 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28850,6 +28850,7 @@
 0.0.0.0 deandcor.com
 0.0.0.0 deanofvaluation.com
 0.0.0.0 deanreadiness.com
+0.0.0.0 deanrogers.net
 0.0.0.0 deanscraftsandgifts.com
 0.0.0.0 deansdenguideservice.com
 0.0.0.0 deanvividsquall.com
@@ -83921,6 +83922,7 @@
 0.0.0.0 pharmacyface.com
 0.0.0.0 pharmacyinbox.uk
 0.0.0.0 pharmacymachine.org
+0.0.0.0 pharmawhiz.com
 0.0.0.0 pharmcash.com
 0.0.0.0 pharmercy.store
 0.0.0.0 pharmlio.com
@@ -128341,6 +128343,7 @@
 0.0.0.0 www.dealstodecor.com
 0.0.0.0 www.dealtelementalchop.com
 0.0.0.0 www.deanreadiness.com
+0.0.0.0 www.deanrogers.net
 0.0.0.0 www.deanvividsquall.com
 0.0.0.0 www.dearcarvedclimb.com
 0.0.0.0 www.dearesthydrogen.com
