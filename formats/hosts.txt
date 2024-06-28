@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.180
 # Release: 180
-# Entries: 146,222
-# Updated: Fri, 28 Jun 24 08:07:55 +06
+# Entries: 146,223
+# Updated: Fri, 28 Jun 24 10:23:33 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -77486,6 +77486,7 @@
 0.0.0.0 nuxdwjicbg.com
 0.0.0.0 nuyhvoshqnbkrg.com
 0.0.0.0 nuyubioceuticals.com
+0.0.0.0 nuzhespo.com
 0.0.0.0 nuzuki.com
 0.0.0.0 nv.anginasallodge.com
 0.0.0.0 nv.uglieraccoll.com
