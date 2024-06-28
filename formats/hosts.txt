@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.180
 # Release: 180
-# Entries: 146,227
-# Updated: Fri, 28 Jun 24 12:07:55 +06
+# Entries: 146,229
+# Updated: Fri, 28 Jun 24 14:08:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -11193,6 +11193,7 @@
 0.0.0.0 atweenshote.uno
 0.0.0.0 atwgh.com
 0.0.0.0 atwilliam.com
+0.0.0.0 atwitrufvay.com
 0.0.0.0 atwkuaoasgmhty.xyz
 0.0.0.0 atworkoffice.ca
 0.0.0.0 atworkofficecanada.ca
@@ -79847,6 +79848,7 @@
 0.0.0.0 oothupeelobs.com
 0.0.0.0 ootibsay.xyz
 0.0.0.0 ootsoobs.net
+0.0.0.0 ooumzowcliqawg.com
 0.0.0.0 oourmarketingefifor.info
 0.0.0.0 oouwblvhhc.com
 0.0.0.0 oovaufty.com
