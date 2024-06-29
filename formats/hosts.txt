@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.181
 # Release: 181
-# Entries: 146,277
-# Updated: Sat, 29 Jun 24 04:08:05 +06
+# Entries: 146,279
+# Updated: Sat, 29 Jun 24 06:08:04 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -46750,6 +46750,7 @@
 0.0.0.0 gostoamt.com
 0.0.0.0 gostosuraspet.com
 0.0.0.0 gostreaming-black.online
+0.0.0.0 gosvroqqftetwiq.com
 0.0.0.0 got-mail.org
 0.0.0.0 got-to-be.com
 0.0.0.0 got-to-be.in
@@ -66465,6 +66466,7 @@
 0.0.0.0 lsswwuaqbwox.com
 0.0.0.0 lssxnbbtnptrb.top
 0.0.0.0 lstjwjtdomno.com
+0.0.0.0 lstkadfnevu.com
 0.0.0.0 lstonorallantyne.com
 0.0.0.0 lsubalhqkg.com
 0.0.0.0 lsukzeatonsq.com
