@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.182
 # Release: 182
-# Entries: 146,577
-# Updated: Sun, 30 Jun 24 16:25:03 +06
+# Entries: 146,579
+# Updated: Sun, 30 Jun 24 18:07:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16542,6 +16542,7 @@
 0.0.0.0 bmf-erhalten.com
 0.0.0.0 bmf-erinnerung.com
 0.0.0.0 bmf-unterschreiben.com
+0.0.0.0 bmgad.com
 0.0.0.0 bmgipyr.com
 0.0.0.0 bmgsindia.org
 0.0.0.0 bmhenchlyica.xyz
@@ -81456,6 +81457,7 @@
 0.0.0.0 ovvmrrufvhclxf.com
 0.0.0.0 ovvwunawrt.com
 0.0.0.0 ovwnmfaauk.com
+0.0.0.0 ovxpyxthyregz.com
 0.0.0.0 ovyondkggnqhmt.xyz
 0.0.0.0 ovywtxedqp.com
 0.0.0.0 ow.guanarealiyah.com
