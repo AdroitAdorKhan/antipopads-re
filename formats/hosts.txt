@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.06.182
 # Release: 182
-# Entries: 146,573
-# Updated: Sun, 30 Jun 24 14:08:02 +06
+# Entries: 146,577
+# Updated: Sun, 30 Jun 24 16:25:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -69017,6 +69017,7 @@
 0.0.0.0 maxhealthbeograd.com
 0.0.0.0 maxhold.xyz
 0.0.0.0 maxhospital.in
+0.0.0.0 maxi-buy.com
 0.0.0.0 maxi-design.com
 0.0.0.0 maxi-slevy.com
 0.0.0.0 maxickycomplex.com
@@ -112509,6 +112510,7 @@
 0.0.0.0 tqepqvpjgbbdh.xyz
 0.0.0.0 tqgaebbwfz.com
 0.0.0.0 tqgrrfssodfo.com
+0.0.0.0 tqhikkhdhevgyl.com
 0.0.0.0 tqivupnbhhjrwk.xyz
 0.0.0.0 tqjuwrnjtbr.com
 0.0.0.0 tqkbdxfzmbjp.com
@@ -117260,6 +117262,7 @@
 0.0.0.0 uwzxukualwdkx.com
 0.0.0.0 ux.inlooktrac.com
 0.0.0.0 ux.sapoaix.com
+0.0.0.0 uxatrhrupnnuql.com
 0.0.0.0 uxbridgetimesjournal.com
 0.0.0.0 uxbuedlq.com
 0.0.0.0 uxcreatives.com
@@ -117544,6 +117547,7 @@
 0.0.0.0 valiantmanioca.com
 0.0.0.0 valiantsubquery.com
 0.0.0.0 valicektransport.com
+0.0.0.0 valicyhj.com
 0.0.0.0 valid-dad.com
 0.0.0.0 validads.com
 0.0.0.0 validateuser.info
