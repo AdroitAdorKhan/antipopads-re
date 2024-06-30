@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: abp
-! Version: 24.06.182
-! Release: 182
+! Version: 24.07.183
+! Release: 183
 ! Expires: 1 day
-! Entries: 146,621
-! Updated: Sun, 30 Jun 24 22:07:54 +06
+! Entries: 146,650
+! Updated: Mon, 01 Jul 24 00:24:40 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -3321,6 +3321,7 @@
 ||a-o-w.ru^
 ||a-ply.store^
 ||a-sto.com^
+||a-un-clic.com^
 ||a-w-t.ca^
 ||a-w-t.com^
 ||a-waiting.com^
@@ -9682,6 +9683,7 @@
 ||arccarterultimate.com^
 ||arccdyvgh.com^
 ||arcesium.net^
+||arcesiumportugal.com^
 ||arcfest.events^
 ||arcgisunderground.com^
 ||archacentre.org^
@@ -10899,6 +10901,7 @@
 ||atdnetwork.com^
 ||atdrifblimor.com^
 ||atdrilburr.com^
+||ateaudiblydriving.com^
 ||atebilaterde.one^
 ||atecca.com^
 ||atecnodis.org^
@@ -12217,6 +12220,7 @@
 ||aympcity.su^
 ||aynhnrgxjxfv.com^
 ||ayodeji.tech^
+||ayodhyaverse.com^
 ||ayodwtwjakpk.com^
 ||ayolackg.com^
 ||ayon.design^
@@ -13306,6 +13310,7 @@
 ||base31venues.com^
 ||baseballapproximately.com^
 ||baseballkingacademy.org^
+||baseballletters.com^
 ||baseballrabble.com^
 ||baseballswingline.com^
 ||basebook.online^
@@ -15078,6 +15083,7 @@
 ||bgvhyaquj.com^
 ||bgvkfmxq.com^
 ||bgvlmxvgmigkb.xyz^
+||bgwelyqhi.com^
 ||bgwrwesyspvl.com^
 ||bgxwlomtebrtq.com^
 ||bgyeouoavr.xyz^
@@ -23469,6 +23475,7 @@
 ||climatedefensefund.global^
 ||climategate.tv^
 ||climateproject.ca^
+||climatepuzzle.com^
 ||climaterefrigerationandhvac.com^
 ||climaterefrigerationandhvac.net^
 ||climatesolutionsdesignbuild.com^
@@ -24734,6 +24741,7 @@
 ||compileformality.com^
 ||compilegates.com^
 ||compinvestments.com^
+||complain.app^
 ||complainfriendshipperry.com^
 ||complainhere.ca^
 ||complainlapseobserve.com^
@@ -27707,6 +27715,7 @@
 ||cybersence.tech^
 ||cybershieldfortress.buzz^
 ||cyberslovakia.com^
+||cyberstewardinc.com^
 ||cybersugardrew.com^
 ||cybertrek.us^
 ||cybertronads.com^
@@ -33698,6 +33707,7 @@
 ||dwelc.com^
 ||dwellads.com^
 ||dwellfamous.com^
+||dwellflick.com^
 ||dwellingmerrimentrecorder.com^
 ||dwellingsensationalthere.com^
 ||dwellsew.com^
@@ -40300,6 +40310,7 @@
 ||figovniky.com^
 ||figuan.com^
 ||figuis.com^
+||figuredcounteractworrying.com^
 ||figuredcurrantcroak.com^
 ||figuredreconsiderinvest.com^
 ||figurefortified.ca^
@@ -44057,6 +44068,7 @@
 ||garnetsnails.com^
 ||garnetsvolleyball.com^
 ||garnishpoints.com^
+||garnishwas.com^
 ||garosesia.com^
 ||garotas.info^
 ||garoteddepict.uno^
@@ -48274,6 +48286,7 @@
 ||guxrskldqaowi.com^
 ||guxsxexlkdk.xyz^
 ||guybaafvpv.com^
+||guypane.com^
 ||guypykhva.com^
 ||guysstuff.xyz^
 ||guytzaig.com^
@@ -61324,6 +61337,7 @@
 ||kitchenerbusinessinsurance.ca^
 ||kitchenerbusinessinsurance.com^
 ||kitchenerwaterloo.ca^
+||kitchenklubcatering.com^
 ||kitchenmatts.com^
 ||kitchenobject.in^
 ||kitchiepreppie.com^
@@ -70216,6 +70230,7 @@
 ||mevarabon.com^
 ||mevaurban.com^
 ||mevmwycjtgqjxnj.com^
+||mevotechfleet.com^
 ||mevotechlp.com^
 ||mevs.tech^
 ||mewad.in^
@@ -71137,6 +71152,7 @@
 ||mister-riddle.com^
 ||misterbangingfancied.com^
 ||misterdefrostale.com^
+||misterfancypants.fun^
 ||mistericon.org^
 ||misteriji.org^
 ||mistermr.net^
@@ -72498,6 +72514,7 @@
 ||movesickly.com^
 ||movesmod.com^
 ||movetokitimat.ca^
+||movewithdata.com^
 ||moveyouforward.co^
 ||moveyourads.online^
 ||moveyourbackup.co^
@@ -72802,6 +72819,7 @@
 ||msfwhocares.in^
 ||msg-mosnterus.online^
 ||msgfuwqxytkewn.xyz^
+||msghosted.com^
 ||msgose.com^
 ||mshahara.net^
 ||mshkonline.com^
@@ -74851,6 +74869,7 @@
 ||ndocfwuyhvlr.com^
 ||ndollarhe.com^
 ||ndonatxcnc.com^
+||ndoto.us^
 ||ndpjgpfctmqxrrl.top^
 ||ndpugkr.com^
 ||ndqdwykc.com^
@@ -82809,6 +82828,7 @@
 ||patriotgunsmith.com^
 ||patriotinvestorlustre.com^
 ||patriotpay.store^
+||patriotsupportfund.com^
 ||patriottypeout.space^
 ||patriziabetak.com^
 ||patrolcontinually.com^
@@ -85387,6 +85407,7 @@
 ||planeatplay.com^
 ||planelee.com^
 ||planepizzabreak.com^
+||planepleasant.com^
 ||planesforce.website^
 ||planesknob.com^
 ||planet-college.net^
@@ -97275,6 +97296,7 @@
 ||satisfactorilybewitchgreatness.com^
 ||satisfactorilyfigured.com^
 ||satisfactorydipforeman.com^
+||satisfactoryhustlebands.com^
 ||satisfactorymetalrub.com^
 ||satisfied-tour.pro^
 ||satniskrin.sbs^
@@ -99617,6 +99639,7 @@
 ||shareyourspot.com^
 ||shariah.co.uk^
 ||sharieta.com^
+||sharikelleyeventsinc.com^
 ||sharingcharity.life^
 ||sharion.xyz^
 ||sharkbiz.lol^
@@ -110469,6 +110492,7 @@
 ||thisaforlio.tech^
 ||thisamodaaninal.com^
 ||thisbetsa.com^
+||thisbrumfg.com^
 ||thiscdn.com^
 ||thischarmingcandy.com^
 ||thiscombinationdecorated.com^
@@ -113995,6 +114019,8 @@
 ||ttw-1.com^
 ||ttwmed.com^
 ||ttwpqokkp.com^
+||ttxbymevotech.com^
+||ttxfleet.com^
 ||ttytatsip.com^
 ||ttyvdilxsuorg.com^
 ||ttyyeastfeukuf.xyz^
@@ -118028,6 +118054,7 @@
 ||vdhirhvbrdd.com^
 ||vdhtxgbydlknt.com^
 ||vdigitaltechies.com^
+||vdikbbuun.com^
 ||vdjpqtsxuwc.xyz^
 ||vdjsvxcgkb.com^
 ||vdkbagtiengese.com^
@@ -123876,6 +123903,7 @@
 ||worldsource-login.com^
 ||worldsourcegroup.ca^
 ||worldsportlife.com^
+||worldswanmixed.com^
 ||worldtimenews.online^
 ||worldtimes2.xyz^
 ||worldtraffic.trade^
@@ -124134,6 +124162,7 @@
 ||wrapsix.org^
 ||wrapstro.com^
 ||wraptloulu.guru^
+||wraqgitxsbsd.com^
 ||wratbokhiouix.com^
 ||wrathful-alternative.com^
 ||wrathfultower.pro^

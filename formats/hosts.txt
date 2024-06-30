@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.06.182
-# Release: 182
-# Entries: 146,621
-# Updated: Sun, 30 Jun 24 22:07:54 +06
+# Version: 24.07.183
+# Release: 183
+# Entries: 146,650
+# Updated: Mon, 01 Jul 24 00:24:40 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3320,6 +3320,7 @@
 0.0.0.0 a-o-w.ru
 0.0.0.0 a-ply.store
 0.0.0.0 a-sto.com
+0.0.0.0 a-un-clic.com
 0.0.0.0 a-w-t.ca
 0.0.0.0 a-w-t.com
 0.0.0.0 a-waiting.com
@@ -9681,6 +9682,7 @@
 0.0.0.0 arccarterultimate.com
 0.0.0.0 arccdyvgh.com
 0.0.0.0 arcesium.net
+0.0.0.0 arcesiumportugal.com
 0.0.0.0 arcfest.events
 0.0.0.0 arcgisunderground.com
 0.0.0.0 archacentre.org
@@ -10898,6 +10900,7 @@
 0.0.0.0 atdnetwork.com
 0.0.0.0 atdrifblimor.com
 0.0.0.0 atdrilburr.com
+0.0.0.0 ateaudiblydriving.com
 0.0.0.0 atebilaterde.one
 0.0.0.0 atecca.com
 0.0.0.0 atecnodis.org
@@ -12216,6 +12219,7 @@
 0.0.0.0 aympcity.su
 0.0.0.0 aynhnrgxjxfv.com
 0.0.0.0 ayodeji.tech
+0.0.0.0 ayodhyaverse.com
 0.0.0.0 ayodwtwjakpk.com
 0.0.0.0 ayolackg.com
 0.0.0.0 ayon.design
@@ -13305,6 +13309,7 @@
 0.0.0.0 base31venues.com
 0.0.0.0 baseballapproximately.com
 0.0.0.0 baseballkingacademy.org
+0.0.0.0 baseballletters.com
 0.0.0.0 baseballrabble.com
 0.0.0.0 baseballswingline.com
 0.0.0.0 basebook.online
@@ -15077,6 +15082,7 @@
 0.0.0.0 bgvhyaquj.com
 0.0.0.0 bgvkfmxq.com
 0.0.0.0 bgvlmxvgmigkb.xyz
+0.0.0.0 bgwelyqhi.com
 0.0.0.0 bgwrwesyspvl.com
 0.0.0.0 bgxwlomtebrtq.com
 0.0.0.0 bgyeouoavr.xyz
@@ -23468,6 +23474,7 @@
 0.0.0.0 climatedefensefund.global
 0.0.0.0 climategate.tv
 0.0.0.0 climateproject.ca
+0.0.0.0 climatepuzzle.com
 0.0.0.0 climaterefrigerationandhvac.com
 0.0.0.0 climaterefrigerationandhvac.net
 0.0.0.0 climatesolutionsdesignbuild.com
@@ -24733,6 +24740,7 @@
 0.0.0.0 compileformality.com
 0.0.0.0 compilegates.com
 0.0.0.0 compinvestments.com
+0.0.0.0 complain.app
 0.0.0.0 complainfriendshipperry.com
 0.0.0.0 complainhere.ca
 0.0.0.0 complainlapseobserve.com
@@ -27706,6 +27714,7 @@
 0.0.0.0 cybersence.tech
 0.0.0.0 cybershieldfortress.buzz
 0.0.0.0 cyberslovakia.com
+0.0.0.0 cyberstewardinc.com
 0.0.0.0 cybersugardrew.com
 0.0.0.0 cybertrek.us
 0.0.0.0 cybertronads.com
@@ -33697,6 +33706,7 @@
 0.0.0.0 dwelc.com
 0.0.0.0 dwellads.com
 0.0.0.0 dwellfamous.com
+0.0.0.0 dwellflick.com
 0.0.0.0 dwellingmerrimentrecorder.com
 0.0.0.0 dwellingsensationalthere.com
 0.0.0.0 dwellsew.com
@@ -40299,6 +40309,7 @@
 0.0.0.0 figovniky.com
 0.0.0.0 figuan.com
 0.0.0.0 figuis.com
+0.0.0.0 figuredcounteractworrying.com
 0.0.0.0 figuredcurrantcroak.com
 0.0.0.0 figuredreconsiderinvest.com
 0.0.0.0 figurefortified.ca
@@ -44056,6 +44067,7 @@
 0.0.0.0 garnetsnails.com
 0.0.0.0 garnetsvolleyball.com
 0.0.0.0 garnishpoints.com
+0.0.0.0 garnishwas.com
 0.0.0.0 garosesia.com
 0.0.0.0 garotas.info
 0.0.0.0 garoteddepict.uno
@@ -48273,6 +48285,7 @@
 0.0.0.0 guxrskldqaowi.com
 0.0.0.0 guxsxexlkdk.xyz
 0.0.0.0 guybaafvpv.com
+0.0.0.0 guypane.com
 0.0.0.0 guypykhva.com
 0.0.0.0 guysstuff.xyz
 0.0.0.0 guytzaig.com
@@ -61323,6 +61336,7 @@
 0.0.0.0 kitchenerbusinessinsurance.ca
 0.0.0.0 kitchenerbusinessinsurance.com
 0.0.0.0 kitchenerwaterloo.ca
+0.0.0.0 kitchenklubcatering.com
 0.0.0.0 kitchenmatts.com
 0.0.0.0 kitchenobject.in
 0.0.0.0 kitchiepreppie.com
@@ -70215,6 +70229,7 @@
 0.0.0.0 mevarabon.com
 0.0.0.0 mevaurban.com
 0.0.0.0 mevmwycjtgqjxnj.com
+0.0.0.0 mevotechfleet.com
 0.0.0.0 mevotechlp.com
 0.0.0.0 mevs.tech
 0.0.0.0 mewad.in
@@ -71136,6 +71151,7 @@
 0.0.0.0 mister-riddle.com
 0.0.0.0 misterbangingfancied.com
 0.0.0.0 misterdefrostale.com
+0.0.0.0 misterfancypants.fun
 0.0.0.0 mistericon.org
 0.0.0.0 misteriji.org
 0.0.0.0 mistermr.net
@@ -72497,6 +72513,7 @@
 0.0.0.0 movesickly.com
 0.0.0.0 movesmod.com
 0.0.0.0 movetokitimat.ca
+0.0.0.0 movewithdata.com
 0.0.0.0 moveyouforward.co
 0.0.0.0 moveyourads.online
 0.0.0.0 moveyourbackup.co
@@ -72801,6 +72818,7 @@
 0.0.0.0 msfwhocares.in
 0.0.0.0 msg-mosnterus.online
 0.0.0.0 msgfuwqxytkewn.xyz
+0.0.0.0 msghosted.com
 0.0.0.0 msgose.com
 0.0.0.0 mshahara.net
 0.0.0.0 mshkonline.com
@@ -74850,6 +74868,7 @@
 0.0.0.0 ndocfwuyhvlr.com
 0.0.0.0 ndollarhe.com
 0.0.0.0 ndonatxcnc.com
+0.0.0.0 ndoto.us
 0.0.0.0 ndpjgpfctmqxrrl.top
 0.0.0.0 ndpugkr.com
 0.0.0.0 ndqdwykc.com
@@ -82808,6 +82827,7 @@
 0.0.0.0 patriotgunsmith.com
 0.0.0.0 patriotinvestorlustre.com
 0.0.0.0 patriotpay.store
+0.0.0.0 patriotsupportfund.com
 0.0.0.0 patriottypeout.space
 0.0.0.0 patriziabetak.com
 0.0.0.0 patrolcontinually.com
@@ -85386,6 +85406,7 @@
 0.0.0.0 planeatplay.com
 0.0.0.0 planelee.com
 0.0.0.0 planepizzabreak.com
+0.0.0.0 planepleasant.com
 0.0.0.0 planesforce.website
 0.0.0.0 planesknob.com
 0.0.0.0 planet-college.net
@@ -97274,6 +97295,7 @@
 0.0.0.0 satisfactorilybewitchgreatness.com
 0.0.0.0 satisfactorilyfigured.com
 0.0.0.0 satisfactorydipforeman.com
+0.0.0.0 satisfactoryhustlebands.com
 0.0.0.0 satisfactorymetalrub.com
 0.0.0.0 satisfied-tour.pro
 0.0.0.0 satniskrin.sbs
@@ -99616,6 +99638,7 @@
 0.0.0.0 shareyourspot.com
 0.0.0.0 shariah.co.uk
 0.0.0.0 sharieta.com
+0.0.0.0 sharikelleyeventsinc.com
 0.0.0.0 sharingcharity.life
 0.0.0.0 sharion.xyz
 0.0.0.0 sharkbiz.lol
@@ -110468,6 +110491,7 @@
 0.0.0.0 thisaforlio.tech
 0.0.0.0 thisamodaaninal.com
 0.0.0.0 thisbetsa.com
+0.0.0.0 thisbrumfg.com
 0.0.0.0 thiscdn.com
 0.0.0.0 thischarmingcandy.com
 0.0.0.0 thiscombinationdecorated.com
@@ -113994,6 +114018,8 @@
 0.0.0.0 ttw-1.com
 0.0.0.0 ttwmed.com
 0.0.0.0 ttwpqokkp.com
+0.0.0.0 ttxbymevotech.com
+0.0.0.0 ttxfleet.com
 0.0.0.0 ttytatsip.com
 0.0.0.0 ttyvdilxsuorg.com
 0.0.0.0 ttyyeastfeukuf.xyz
@@ -118027,6 +118053,7 @@
 0.0.0.0 vdhirhvbrdd.com
 0.0.0.0 vdhtxgbydlknt.com
 0.0.0.0 vdigitaltechies.com
+0.0.0.0 vdikbbuun.com
 0.0.0.0 vdjpqtsxuwc.xyz
 0.0.0.0 vdjsvxcgkb.com
 0.0.0.0 vdkbagtiengese.com
@@ -123875,6 +123902,7 @@
 0.0.0.0 worldsource-login.com
 0.0.0.0 worldsourcegroup.ca
 0.0.0.0 worldsportlife.com
+0.0.0.0 worldswanmixed.com
 0.0.0.0 worldtimenews.online
 0.0.0.0 worldtimes2.xyz
 0.0.0.0 worldtraffic.trade
@@ -124133,6 +124161,7 @@
 0.0.0.0 wrapsix.org
 0.0.0.0 wrapstro.com
 0.0.0.0 wraptloulu.guru
+0.0.0.0 wraqgitxsbsd.com
 0.0.0.0 wratbokhiouix.com
 0.0.0.0 wrathful-alternative.com
 0.0.0.0 wrathfultower.pro
