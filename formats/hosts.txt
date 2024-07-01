@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.183
 # Release: 183
-# Entries: 146,768
-# Updated: Mon, 01 Jul 24 18:07:52 +06
+# Entries: 146,782
+# Updated: Mon, 01 Jul 24 20:08:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8024,6 +8024,7 @@
 0.0.0.0 amgjldens.com
 0.0.0.0 amgmotorsdubai.com
 0.0.0.0 amgodec.com
+0.0.0.0 amgpsqdaopomwr.com
 0.0.0.0 amgrow.com
 0.0.0.0 amgxsiwqh.com
 0.0.0.0 amhimaliparivar.com
@@ -18083,6 +18084,7 @@
 0.0.0.0 broadstreetai.com
 0.0.0.0 broadstreetbullies.com
 0.0.0.0 broadsview.site
+0.0.0.0 broadviewpublicsafety.com
 0.0.0.0 brobb1972.com
 0.0.0.0 broblogger.net
 0.0.0.0 brobyndistr.com
@@ -26834,6 +26836,7 @@
 0.0.0.0 crsiooqioiswdo.com
 0.0.0.0 crsssashlytics.com
 0.0.0.0 crtdbcjsq.com
+0.0.0.0 crtfkseb.com
 0.0.0.0 crtovjzyndkey.com
 0.0.0.0 crtracklink.com
 0.0.0.0 crttatlt.com
@@ -30258,6 +30261,7 @@
 0.0.0.0 dfa.consulting
 0.0.0.0 dfafei.com
 0.0.0.0 dfayu.top
+0.0.0.0 dfbt-ddm.com
 0.0.0.0 dfchevbeuydwq.com
 0.0.0.0 dfciiiafweiag.com
 0.0.0.0 dfdgfruitie.xyz
@@ -67218,6 +67222,7 @@
 0.0.0.0 lwojitro.top
 0.0.0.0 lwonclbench.com
 0.0.0.0 lwphjpxcuie.com
+0.0.0.0 lwppgbkdxnbxw.com
 0.0.0.0 lwppiglets.website
 0.0.0.0 lwprdsbqpej.com
 0.0.0.0 lwqbcqqb.com
@@ -94166,6 +94171,7 @@
 0.0.0.0 rgvjdxxa.com
 0.0.0.0 rgvqcsxqge.com
 0.0.0.0 rgwch2017.com
+0.0.0.0 rgwjlhsehlt.xyz
 0.0.0.0 rgwktvyqomdq.com
 0.0.0.0 rgxcuqlv.com
 0.0.0.0 rgysvtuolbeyub.com
@@ -94286,6 +94292,7 @@
 0.0.0.0 ribkroyalbank.com
 0.0.0.0 ribncan.com
 0.0.0.0 ribnican.net
+0.0.0.0 riboocmaud.com
 0.0.0.0 ribottle.com
 0.0.0.0 ribqpiocnzc.com
 0.0.0.0 ribrattle.com
@@ -108355,6 +108362,7 @@
 0.0.0.0 teblspyp.com
 0.0.0.0 tebo0o2xw4.com
 0.0.0.0 tecaavdsy.com
+0.0.0.0 tecaitouque.net
 0.0.0.0 tecaxe.com
 0.0.0.0 teccretenyc.cam
 0.0.0.0 tech-cluster.org
@@ -109091,6 +109099,7 @@
 0.0.0.0 tgscxevfd.com
 0.0.0.0 tgsscmaxfi.com
 0.0.0.0 tgtesqjs.com
+0.0.0.0 tgucgqult.com
 0.0.0.0 tgvcqcthxaaue.com
 0.0.0.0 tgvlrlof.com
 0.0.0.0 tgwsklqjdq.com
@@ -111768,6 +111777,7 @@
 0.0.0.0 togetherinvitation.com
 0.0.0.0 togetherrxaccess.org
 0.0.0.0 togethersin.com
+0.0.0.0 toghotinsuts.com
 0.0.0.0 togkf.us
 0.0.0.0 toglooman.com
 0.0.0.0 togolfshow.com
@@ -115710,6 +115720,7 @@
 0.0.0.0 umbrellaomendear.com
 0.0.0.0 umbretalen.com
 0.0.0.0 umcqtxnn.com
+0.0.0.0 umcrrpqufkgna.com
 0.0.0.0 umcsghecmszp.com
 0.0.0.0 umdgene.com
 0.0.0.0 umebella.com
@@ -123849,6 +123860,7 @@
 0.0.0.0 woopeekip.com
 0.0.0.0 woopgoop.com
 0.0.0.0 woophoog.net
+0.0.0.0 woopsale.net
 0.0.0.0 woopteem.net
 0.0.0.0 woosur.com
 0.0.0.0 woosvaginas.uno
@@ -124112,6 +124124,7 @@
 0.0.0.0 wountr.com
 0.0.0.0 wouogycfkk.com
 0.0.0.0 woupheezoh.com
+0.0.0.0 woupoulouca.net
 0.0.0.0 woushucaug.com
 0.0.0.0 woutathothee.com
 0.0.0.0 wouthula.xyz
@@ -139763,6 +139776,7 @@
 0.0.0.0 www.theloftartists.com
 0.0.0.0 www.thelongdrivenorth.com
 0.0.0.0 www.themeillogical.com
+0.0.0.0 www.themester-assets.co.uk
 0.0.0.0 www.themiddlecrossbaptistchurch.org
 0.0.0.0 www.themonarchultramovie.com
 0.0.0.0 www.themortgageadvicehub.co.uk
