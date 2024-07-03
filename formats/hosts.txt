@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.186
 # Release: 186
-# Entries: 147,323
-# Updated: Thu, 04 Jul 24 00:25:14 +06
+# Entries: 147,362
+# Updated: Thu, 04 Jul 24 02:08:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1665,6 +1665,8 @@
 0.0.0.0 3r1kwxcd.top
 0.0.0.0 3rdstate.org
 0.0.0.0 3redlightfix.com
+0.0.0.0 3rooms.site
+0.0.0.0 3roomsdoors.xyz
 0.0.0.0 3sbdjhfsdf3.monster
 0.0.0.0 3sjhdbjfsdf3.monster
 0.0.0.0 3sjhdfjs3.monster
@@ -7388,6 +7390,7 @@
 0.0.0.0 alleygoat.com
 0.0.0.0 allfb8dremsiw09oiabhboolsebt29jhe3setn.com
 0.0.0.0 allfilesfree.com
+0.0.0.0 allfor.site
 0.0.0.0 allforcustomer.com
 0.0.0.0 allformypet.com
 0.0.0.0 allfreecounter.com
@@ -17959,8 +17962,10 @@
 0.0.0.0 brickcontaining.com
 0.0.0.0 bricker.us
 0.0.0.0 bricklang.uk
+0.0.0.0 brickmasters.net
 0.0.0.0 bricksandinches.uk
 0.0.0.0 bricksconsentedhanky.com
+0.0.0.0 bricksmasters.net
 0.0.0.0 brickswitnessed.com
 0.0.0.0 bricts.com
 0.0.0.0 bridae.com
@@ -21927,6 +21932,7 @@
 0.0.0.0 chatalomnica.com
 0.0.0.0 chatapodtatrami.online
 0.0.0.0 chatavysocina.com
+0.0.0.0 chatbatur.cam
 0.0.0.0 chatboat.app
 0.0.0.0 chatbottest.in
 0.0.0.0 chateaurecalled.com
@@ -22512,6 +22518,7 @@
 0.0.0.0 choakaucmomt.com
 0.0.0.0 choamoax.net
 0.0.0.0 choanabethump.com
+0.0.0.0 choanses.net
 0.0.0.0 choapeek.com
 0.0.0.0 choawour.xyz
 0.0.0.0 choawuram.com
@@ -26460,6 +26467,7 @@
 0.0.0.0 crackyunfence.com
 0.0.0.0 cracts.com
 0.0.0.0 cradspbsdarltng.com
+0.0.0.0 craf-test.com
 0.0.0.0 craftbeerprague.com
 0.0.0.0 craftdrew.online
 0.0.0.0 crafteddreams.ca
@@ -27852,6 +27860,7 @@
 0.0.0.0 cyberpacker.org
 0.0.0.0 cyberprithvi.tech
 0.0.0.0 cybersecurity.works
+0.0.0.0 cybersecuritytest2.xyz
 0.0.0.0 cybersence.tech
 0.0.0.0 cybershieldfortress.buzz
 0.0.0.0 cyberslovakia.com
@@ -34080,6 +34089,7 @@
 0.0.0.0 e-4ra.com
 0.0.0.0 e-abs.money
 0.0.0.0 e-advertisement.biz
+0.0.0.0 e-bikeami.com
 0.0.0.0 e-blaze.com
 0.0.0.0 e-bourgas.org
 0.0.0.0 e-cash.co.in
@@ -34852,6 +34862,7 @@
 0.0.0.0 edintered.online
 0.0.0.0 edioca.com
 0.0.0.0 edirectuklyeco.info
+0.0.0.0 edisonvirtuallearning.com
 0.0.0.0 editahajdu.com
 0.0.0.0 editalcaulked.top
 0.0.0.0 edithpiaf-collection.com
@@ -37752,6 +37763,7 @@
 0.0.0.0 etingplansfor.org
 0.0.0.0 etiquettegrapesdoleful.com
 0.0.0.0 etiquetteschool.org
+0.0.0.0 etis.top
 0.0.0.0 etisaalt-uae-paytofast.com
 0.0.0.0 etisallat-uae-paytofast.com
 0.0.0.0 etjxkvdorypmppp.com
@@ -38483,6 +38495,7 @@
 0.0.0.0 exemptassign.com
 0.0.0.0 exemptrequest.com
 0.0.0.0 exequitypartners.com
+0.0.0.0 exercise-maker.com
 0.0.0.0 exercisefeeling.com
 0.0.0.0 exerciseundergone.com
 0.0.0.0 exertheadlight.com
@@ -44714,6 +44727,7 @@
 0.0.0.0 geminiaudio.ca
 0.0.0.0 geminiinvest.xyz
 0.0.0.0 geministar.online
+0.0.0.0 geminitrust-app.com
 0.0.0.0 geminiwing.com
 0.0.0.0 gemkickoff2022.com
 0.0.0.0 gemlocomotivemid.com
@@ -54634,6 +54648,7 @@
 0.0.0.0 imperator-club.cfd
 0.0.0.0 imperatorbrandy.com
 0.0.0.0 imperatyv.online
+0.0.0.0 imperial-oil-app.com
 0.0.0.0 imperialauto.info
 0.0.0.0 imperialbattervideo.com
 0.0.0.0 imperialcargo.co.in
@@ -54942,6 +54957,7 @@
 0.0.0.0 indconpackagingsolutions.com
 0.0.0.0 indebtedatrocious.com
 0.0.0.0 indecentcurvelawsuit.com
+0.0.0.0 indeedpessimisticoverdo.com
 0.0.0.0 indeedpriest.com
 0.0.0.0 indeedrefines.com
 0.0.0.0 indeedsmother.com
@@ -55745,6 +55761,7 @@
 0.0.0.0 inspiredactionmethod.net
 0.0.0.0 inspiredsolutions.tech
 0.0.0.0 inspiredsolutionstech.com
+0.0.0.0 inspiresleepover.com
 0.0.0.0 inspiringaccurate.com
 0.0.0.0 inspiringaloft.com
 0.0.0.0 inspiringperiods.com
@@ -57210,6 +57227,7 @@
 0.0.0.0 ivaluecoaching.com
 0.0.0.0 ivanaivancevic.com
 0.0.0.0 ivanatheassistant.com
+0.0.0.0 ivanatokarska.com
 0.0.0.0 ivanavirtualassistant.com
 0.0.0.0 ivankalapar.com
 0.0.0.0 ivankejzar.com
@@ -60575,6 +60593,7 @@
 0.0.0.0 karmamotors.in
 0.0.0.0 karmamovies.com
 0.0.0.0 karnanis.in.net
+0.0.0.0 karnisena.co.in
 0.0.0.0 karolinajelinkova.com
 0.0.0.0 karolinau.com
 0.0.0.0 karolinenhoffarm.com
@@ -68956,6 +68975,7 @@
 0.0.0.0 marshalwire.com
 0.0.0.0 marshgarments.com
 0.0.0.0 marshwhisper.com
+0.0.0.0 marshyfarsightedharmony.com
 0.0.0.0 marsox.net
 0.0.0.0 marspearelct.com
 0.0.0.0 marsthecolony.com
@@ -69992,6 +70012,7 @@
 0.0.0.0 meenetiy.com
 0.0.0.0 meepergpkhjhehd.com
 0.0.0.0 meepsaph.xyz
+0.0.0.0 meepsoothoow.com
 0.0.0.0 meepwrite.com
 0.0.0.0 meeratech.ae
 0.0.0.0 meerihoh.net
@@ -79074,6 +79095,7 @@
 0.0.0.0 ofertasopel.com
 0.0.0.0 ofertaxgua.com
 0.0.0.0 ofexjocjicyyyhi.xyz
+0.0.0.0 off-whitesverige.com.se
 0.0.0.0 offaces-butional.com
 0.0.0.0 offalakazaman.com
 0.0.0.0 offarmiesupward.com
@@ -79558,6 +79580,7 @@
 0.0.0.0 okmentally.com
 0.0.0.0 okmingle.online
 0.0.0.0 okmugelo.it
+0.0.0.0 okno.services
 0.0.0.0 oknodosveta.online
 0.0.0.0 oknoservis.com
 0.0.0.0 oknssfjarym.xyz
@@ -84537,6 +84560,7 @@
 0.0.0.0 pgfinjlnps.com
 0.0.0.0 pgglobalinv.online
 0.0.0.0 pggrnlfqhifxo.xyz
+0.0.0.0 pghbwiqpemk.com
 0.0.0.0 pghfoodgeek.org
 0.0.0.0 pghgallery.com
 0.0.0.0 pghwogjkhfayw.com
@@ -88057,6 +88081,7 @@
 0.0.0.0 primitededition.com
 0.0.0.0 primitivekitchen.info
 0.0.0.0 primitiveposterappeal.com
+0.0.0.0 primobolan-fr.info
 0.0.0.0 primomopicnics.top
 0.0.0.0 primoquestmarketing.com
 0.0.0.0 primorphic.com
@@ -93429,6 +93454,7 @@
 0.0.0.0 relativelyweptcurls.com
 0.0.0.0 relativewheneverhoe.com
 0.0.0.0 relatumrorid.com
+0.0.0.0 relax-me.store
 0.0.0.0 relaxariacityspa.it
 0.0.0.0 relaxespawner.space
 0.0.0.0 relaxingclassics.net
@@ -95989,6 +96015,7 @@
 0.0.0.0 rozmaryna.com
 0.0.0.0 rozmaryna.info
 0.0.0.0 rozpocetstavba.online
+0.0.0.0 rozpoctovka.online
 0.0.0.0 rozsliduvach.info
 0.0.0.0 rozudbgvi.com
 0.0.0.0 rp.askableuts.com
@@ -100791,6 +100818,7 @@
 0.0.0.0 shrivelhorizonentrust.com
 0.0.0.0 shriverrevery.com
 0.0.0.0 shrivinayakhospital.com
+0.0.0.0 shriyanshifin.com
 0.0.0.0 shrizi.com
 0.0.0.0 shrmdpc.com
 0.0.0.0 shrojxouelny.xyz
@@ -101961,6 +101989,7 @@
 0.0.0.0 slavesenviablegrammar.com
 0.0.0.0 slavesubmarinebribery.com
 0.0.0.0 slavewindows.com
+0.0.0.0 slavia.love
 0.0.0.0 slaviafans.com
 0.0.0.0 slavianclub.com
 0.0.0.0 slavianmir.com
@@ -103999,6 +104028,7 @@
 0.0.0.0 spinecareofidaho.com
 0.0.0.0 spinflygolf.com
 0.0.0.0 spinit24.com
+0.0.0.0 spinn.study
 0.0.0.0 spinnyrestaurant.it
 0.0.0.0 spinoso.ca
 0.0.0.0 spinraised.com
@@ -104445,6 +104475,7 @@
 0.0.0.0 srconsultancy.online
 0.0.0.0 srcphnymfa.com
 0.0.0.0 srcsmrtgs.com
+0.0.0.0 srdceraja.com
 0.0.0.0 srdcommalovane.sk
 0.0.0.0 srdhsdordajmgqo.xyz
 0.0.0.0 sreamyourvids.online
@@ -107688,6 +107719,7 @@
 0.0.0.0 szgaikk.com
 0.0.0.0 szhcyxtszb.com
 0.0.0.0 sziabarcelona.com
+0.0.0.0 szinhazstream.com
 0.0.0.0 szinrolszinre.com
 0.0.0.0 szinvarazs.com
 0.0.0.0 sziszisorozo.online
@@ -108155,6 +108187,7 @@
 0.0.0.0 tanulunk.com
 0.0.0.0 tanushop.com
 0.0.0.0 tanyaricardo.com
+0.0.0.0 taoakcnee.com
 0.0.0.0 taobaoimages.com
 0.0.0.0 taody8.com
 0.0.0.0 taoiknaa.com
@@ -108870,6 +108903,7 @@
 0.0.0.0 techpeps.com
 0.0.0.0 techpirates.in
 0.0.0.0 techplaneteg.com
+0.0.0.0 techpub.store
 0.0.0.0 techqfx.in
 0.0.0.0 techroger.com
 0.0.0.0 techscope.info
@@ -109746,6 +109780,7 @@
 0.0.0.0 the-ethereum-invest.net
 0.0.0.0 the-financail.com
 0.0.0.0 the-fleecing-of-ipv52.com
+0.0.0.0 the-friedrich-bitcoin-v.com
 0.0.0.0 the-funded-accounts.com
 0.0.0.0 the-funnelthatflows.com
 0.0.0.0 the-gbemisolab.com
@@ -109796,6 +109831,7 @@
 0.0.0.0 the-tesler-app.net
 0.0.0.0 the-today-profit.com
 0.0.0.0 the-tortuga-casino.com
+0.0.0.0 the-tr-petrolleri.net
 0.0.0.0 the-vasudhaivakutumbakam.com
 0.0.0.0 the-xbitcoin-aicom.com
 0.0.0.0 the1chance.com
@@ -112146,6 +112182,7 @@
 0.0.0.0 tobaltoyon.com
 0.0.0.0 tobbydeehagler.com
 0.0.0.0 tobellsprouta.com
+0.0.0.0 tobeplayfit.com
 0.0.0.0 tobias.works
 0.0.0.0 tobleronchiko.com
 0.0.0.0 toboads.si
@@ -117749,6 +117786,7 @@
 0.0.0.0 uttmpvsf.com
 0.0.0.0 utubepwhml.com
 0.0.0.0 utugmtyrktvmf.top
+0.0.0.0 utulnydom.space
 0.0.0.0 utupfmyy.com
 0.0.0.0 utwyyrjdwgmynu.com
 0.0.0.0 utxamlgxtyix.com
@@ -121897,6 +121935,7 @@
 0.0.0.0 wavingconcludeauction.com
 0.0.0.0 wavingteenagecandle.com
 0.0.0.0 wavmusic.org
+0.0.0.0 wavpedal.com
 0.0.0.0 wavysnarlfollow.com
 0.0.0.0 wawadoga.com
 0.0.0.0 wawbarf.com
