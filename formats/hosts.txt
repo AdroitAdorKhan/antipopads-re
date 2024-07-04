@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.186
 # Release: 186
-# Entries: 147,510
-# Updated: Thu, 04 Jul 24 16:24:24 +06
+# Entries: 147,512
+# Updated: Thu, 04 Jul 24 18:07:52 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -76943,6 +76943,7 @@
 0.0.0.0 nljminvestments.net
 0.0.0.0 nljpifciv.com
 0.0.0.0 nlkhnchp.com
+0.0.0.0 nlllvfci.com
 0.0.0.0 nllrhlpeasix.xyz
 0.0.0.0 nllwhkrjik.com
 0.0.0.0 nlmthxjgjhg.com
@@ -85588,6 +85589,7 @@
 0.0.0.0 pixiv.org
 0.0.0.0 pixolium.ai
 0.0.0.0 pixooffset.com
+0.0.0.0 pixraqygqs.com
 0.0.0.0 pixselmarketings.com
 0.0.0.0 pixxur.com
 0.0.0.0 piyalimedia.com
