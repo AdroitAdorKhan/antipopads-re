@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.188
 # Release: 188
-# Entries: 147,803
-# Updated: Sat, 06 Jul 24 02:07:40 +06
+# Entries: 147,811
+# Updated: Sat, 06 Jul 24 04:07:57 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -31848,6 +31848,7 @@
 0.0.0.0 dj-updates.com
 0.0.0.0 dj.chirpsonancy.com
 0.0.0.0 dj.deticknippier.com
+0.0.0.0 dj2550.com
 0.0.0.0 dj708.xyz
 0.0.0.0 djadoc.com
 0.0.0.0 djalgahebmytr.xyz
@@ -45453,6 +45454,7 @@
 0.0.0.0 ggtxdvuwbqjbrj.com
 0.0.0.0 ggubmneaaefglxq.top
 0.0.0.0 ggvhbnkfc.com
+0.0.0.0 ggwifobvx.com
 0.0.0.0 ggxcoez.com
 0.0.0.0 ggxyyalrj.com
 0.0.0.0 ggycituxsgquipr.com
@@ -95504,6 +95506,7 @@
 0.0.0.0 rkunihiradds.com
 0.0.0.0 rkvarenatechnology.world
 0.0.0.0 rkvarenatoken.world
+0.0.0.0 rkvnrsszlcn.com
 0.0.0.0 rkvqrfemuksrqse.com
 0.0.0.0 rkvtech.world
 0.0.0.0 rkvtrader.com
@@ -125564,6 +125567,7 @@
 0.0.0.0 wvnuubmothth.com
 0.0.0.0 wvpfumotgpsfy.com
 0.0.0.0 wvqkkeheet.xyz
+0.0.0.0 wvrdtdhpissm.com
 0.0.0.0 wvrgnlvzqmi.com
 0.0.0.0 wvrjuwmi.com
 0.0.0.0 wvsgqifpvg.xyz
@@ -127712,6 +127716,7 @@
 0.0.0.0 www.bellaroseconfections.com
 0.0.0.0 www.bellowframing.com
 0.0.0.0 www.bellowtabloid.com
+0.0.0.0 www.bellpressinginspector.com
 0.0.0.0 www.bellyindulge.com
 0.0.0.0 www.belongedshark.com
 0.0.0.0 www.belovedfrolic.com
@@ -129495,6 +129500,7 @@
 0.0.0.0 www.coupleseducation.com
 0.0.0.0 www.courageimportance.com
 0.0.0.0 www.courageousalmondtrice.com
+0.0.0.0 www.courageousaway.com
 0.0.0.0 www.coursenumerousprompt.com
 0.0.0.0 www.coursepack.ca
 0.0.0.0 www.courtcowardly.com
@@ -137944,6 +137950,7 @@
 0.0.0.0 www.push-play.it
 0.0.0.0 www.push-services.com
 0.0.0.0 www.pushcord.net
+0.0.0.0 www.pushdaddy-notifyme.com
 0.0.0.0 www.pushdistilleries.com
 0.0.0.0 www.pushedgraceful.com
 0.0.0.0 www.pushynations.com
@@ -144694,6 +144701,7 @@
 0.0.0.0 yaectgnowgqbhyw.com
 0.0.0.0 yaefddu.com
 0.0.0.0 yaeigtmhvsibf.com
+0.0.0.0 yaexduhpgpslv.com
 0.0.0.0 yafabu.uno
 0.0.0.0 yafmqibivbuu.com
 0.0.0.0 yafmufpgbcr.xyz
