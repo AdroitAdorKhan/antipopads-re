@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.07.188
-# Release: 188
-# Entries: 147,968
-# Updated: Sat, 06 Jul 24 22:07:58 +06
+# Version: 24.07.189
+# Release: 189
+# Entries: 148,001
+# Updated: Sun, 07 Jul 24 00:24:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -685,6 +685,7 @@
 0.0.0.0 1jutu5nnx.com
 0.0.0.0 1k-daily-profit.info
 0.0.0.0 1k-daily-profit.net
+0.0.0.0 1k-daily-profitapp.com
 0.0.0.0 1k1.net
 0.0.0.0 1k2k3k4k5k.com
 0.0.0.0 1kastrets1.com
@@ -15866,6 +15867,7 @@
 0.0.0.0 bit-bolt.net
 0.0.0.0 bit-coin-eras.com
 0.0.0.0 bit-ibank.com
+0.0.0.0 bit-iq-site.com
 0.0.0.0 bit-iqapp.net
 0.0.0.0 bit-lq-app.net
 0.0.0.0 bit-lq.net
@@ -15918,6 +15920,7 @@
 0.0.0.0 bitcoinbot-app.net
 0.0.0.0 bitcoinbratislava.com
 0.0.0.0 bitcoincipro.com
+0.0.0.0 bitcoineprex-ai.com
 0.0.0.0 bitcoinfutureremastered.com
 0.0.0.0 bitcoingrowing.info
 0.0.0.0 bitcoinheating.ca
@@ -18527,6 +18530,7 @@
 0.0.0.0 btclaundry.io
 0.0.0.0 btclbvkxc.com
 0.0.0.0 btclucro.com
+0.0.0.0 btcnano-360.com
 0.0.0.0 btcnews.one
 0.0.0.0 btcpayhub.com
 0.0.0.0 btcpl.co.in
@@ -22354,6 +22358,7 @@
 0.0.0.0 chestishugli.com
 0.0.0.0 chestnutdevelopers.ca
 0.0.0.0 chestnutinc.ca
+0.0.0.0 chetandavdra.com
 0.0.0.0 chetchen.net
 0.0.0.0 chetchoa.com
 0.0.0.0 chethgentman.live
@@ -27159,6 +27164,7 @@
 0.0.0.0 cryptocitizens.world
 0.0.0.0 cryptocoinpilot.com
 0.0.0.0 cryptoconnect.pro
+0.0.0.0 cryptocrash-fortune.com
 0.0.0.0 cryptodroidapp.com
 0.0.0.0 cryptoethica.com
 0.0.0.0 cryptoethica.io
@@ -35271,6 +35277,7 @@
 0.0.0.0 eetsooso.net
 0.0.0.0 eetyed.com
 0.0.0.0 eevaitou.xyz
+0.0.0.0 eevvhoawzybzpv.com
 0.0.0.0 eewhaukr.xyz
 0.0.0.0 eewheeds.com
 0.0.0.0 eewhocmi.com
@@ -36161,6 +36168,7 @@
 0.0.0.0 eltonunclecomplex.com
 0.0.0.0 eltoppraha.biz
 0.0.0.0 eltoppraha.org
+0.0.0.0 eltorromini.com
 0.0.0.0 eltwit.com
 0.0.0.0 eltxarqgwngybfi.com
 0.0.0.0 elubvhmdwtcq.com
@@ -43905,6 +43913,7 @@
 0.0.0.0 fwyhyryyqvs.com
 0.0.0.0 fwyucyhkiengf.com
 0.0.0.0 fwznpbggydr.com
+0.0.0.0 fx-masterbot-app.com
 0.0.0.0 fxecgesvd.com
 0.0.0.0 fxeex.com
 0.0.0.0 fxefriuekh.com
@@ -46367,6 +46376,7 @@
 0.0.0.0 glowingcupid.com
 0.0.0.0 glowingnews.com
 0.0.0.0 glowingramblelobes.com
+0.0.0.0 glownyclick.com
 0.0.0.0 glowoapeky.com
 0.0.0.0 glowwa.store
 0.0.0.0 gloxeept.com
@@ -91504,6 +91514,7 @@
 0.0.0.0 quantpluslimited.com
 0.0.0.0 quantum-analytica.com
 0.0.0.0 quantum-ecosystem.online
+0.0.0.0 quantum-fbc6.com
 0.0.0.0 quantum-legal.online
 0.0.0.0 quantum-market.support
 0.0.0.0 quantum-service.online
@@ -99179,6 +99190,7 @@
 0.0.0.0 secret-clothing.com
 0.0.0.0 secret-criss-blueprint.com
 0.0.0.0 secretburiededmund.com
+0.0.0.0 secretcrisisblueprint-app.com
 0.0.0.0 secretdatecam.com
 0.0.0.0 secretfinsurvey.top
 0.0.0.0 secretionforbearace.com
@@ -105452,6 +105464,8 @@
 0.0.0.0 stationspire.com
 0.0.0.0 statistcdn.com
 0.0.0.0 statistic-data.com
+0.0.0.0 statistical-investing.info
+0.0.0.0 statistical-investing.org
 0.0.0.0 statisticalinvesting.org
 0.0.0.0 statisticresearch.com
 0.0.0.0 statisticscensordilate.com
@@ -110216,12 +110230,14 @@
 0.0.0.0 the-bitcoinfastprofitapp.net
 0.0.0.0 the-bitcoinlegacy.com
 0.0.0.0 the-bitcoinmotionapp.net
+0.0.0.0 the-bitcoinpro-app.com
 0.0.0.0 the-bitcoinpro-app.net
 0.0.0.0 the-bitcoinsmarter-app.net
 0.0.0.0 the-bitcoinuppro.com
 0.0.0.0 the-bitfit-app.com
 0.0.0.0 the-biti-codes.net
 0.0.0.0 the-biticodes-app.net
+0.0.0.0 the-bitindex-prime.com
 0.0.0.0 the-bitlq-app.net
 0.0.0.0 the-bitprofit-app.net
 0.0.0.0 the-bitqt-app.net
@@ -110269,6 +110285,10 @@
 0.0.0.0 the-immediate-connect.com
 0.0.0.0 the-immediate-edges.com
 0.0.0.0 the-immediate-experience.com
+0.0.0.0 the-immediate-multiplex.com
+0.0.0.0 the-immediate-richmax.com
+0.0.0.0 the-immediate-xrise.com
+0.0.0.0 the-immediateinnovaultapp.com
 0.0.0.0 the-imperial-oil.com
 0.0.0.0 the-invest-wealth.com
 0.0.0.0 the-iro.org
@@ -110306,6 +110326,7 @@
 0.0.0.0 the-today-profit.com
 0.0.0.0 the-tortuga-casino.com
 0.0.0.0 the-tr-petrolleri.net
+0.0.0.0 the-tradegpt360-evix.com
 0.0.0.0 the-traderaiapp.com
 0.0.0.0 the-vasudhaivakutumbakam.com
 0.0.0.0 the-xbitcoin-aicom.com
@@ -110339,6 +110360,7 @@
 0.0.0.0 thealpineblaze.com
 0.0.0.0 thealtculture.com
 0.0.0.0 thealtiumsandbox.com
+0.0.0.0 thealtrix-connect.com
 0.0.0.0 thealtruist.life
 0.0.0.0 theambedkar.org
 0.0.0.0 theamericancharade.com
@@ -110796,8 +110818,10 @@
 0.0.0.0 thehypenewz.com
 0.0.0.0 theihafe.com
 0.0.0.0 theimaginationdestination.com
+0.0.0.0 theimmediate-yboost.com
 0.0.0.0 theimmediatebitcoinapp.net
 0.0.0.0 theimmediatebtc.net
+0.0.0.0 theimmediatefuture-app.com
 0.0.0.0 theimmovables.com
 0.0.0.0 theimpactofhope.ca
 0.0.0.0 theindiandirectory.org
@@ -110806,6 +110830,7 @@
 0.0.0.0 theinnob.com
 0.0.0.0 theinspirationarchive.com
 0.0.0.0 theinspiredbooklover.com
+0.0.0.0 theinstant-boostai.com
 0.0.0.0 theinstantsolution.com
 0.0.0.0 theinteltech.com
 0.0.0.0 theinternationalfirefightersassociation.com
@@ -111359,6 +111384,7 @@
 0.0.0.0 thetoughofthetrack.co.uk
 0.0.0.0 thetowermen.com
 0.0.0.0 thetpay.com
+0.0.0.0 thetrade-serax.com
 0.0.0.0 thetradersmart.com
 0.0.0.0 thetradingwebinr.com
 0.0.0.0 thetransparence.com
@@ -111514,6 +111540,7 @@
 0.0.0.0 thinkappetitefeud.com
 0.0.0.0 thinkfreshindia.com
 0.0.0.0 thinkfutureactnow.com
+0.0.0.0 thinkgeekier.com
 0.0.0.0 thinkingpresentimenteducational.com
 0.0.0.0 thinkingwindfallhandkerchief.com
 0.0.0.0 thinkoverseas.org
@@ -128202,6 +128229,7 @@
 0.0.0.0 www.bothpersonality.com
 0.0.0.0 www.bottlecigarshop.store
 0.0.0.0 www.bottledinfectionearthquake.com
+0.0.0.0 www.bottledrecreate.com
 0.0.0.0 www.bottleschance.com
 0.0.0.0 www.bottleselement.com
 0.0.0.0 www.bottomsupqld.com
@@ -133728,6 +133756,7 @@
 0.0.0.0 www.indicatemellowlotion.com
 0.0.0.0 www.indicatordevotedriver.com
 0.0.0.0 www.indicesvestigetruck.com
+0.0.0.0 www.indictmentsmell.com
 0.0.0.0 www.indictmentvehemently.com
 0.0.0.0 www.indifferencefeed.com
 0.0.0.0 www.indifferencemissile.com
@@ -133939,6 +133968,7 @@
 0.0.0.0 www.instructorstudied.com
 0.0.0.0 www.instrumenttactics.com
 0.0.0.0 www.insularattacks.com
+0.0.0.0 www.insultingnoisysubjects.com
 0.0.0.0 www.insultingrecord.com
 0.0.0.0 www.insuranceripenslender.com
 0.0.0.0 www.insuranceserviceexchange.com
@@ -136352,6 +136382,7 @@
 0.0.0.0 www.noisesuperserver.com
 0.0.0.0 www.noisybeforemorton.com
 0.0.0.0 www.noisybench.com
+0.0.0.0 www.noisyoursarrears.com
 0.0.0.0 www.noisytariff.com
 0.0.0.0 www.nomadbritish.com
 0.0.0.0 www.nomadiss.com
@@ -137369,6 +137400,7 @@
 0.0.0.0 www.pl15393240.highcpmrevenuegate.com
 0.0.0.0 www.pl15686703.highrevenuegate.com
 0.0.0.0 www.pl15951806.profitablecpmgate.com
+0.0.0.0 www.pl16504700.effectivecpmgate.com
 0.0.0.0 www.pl17398584.highcpmrevenuenetwork.com
 0.0.0.0 www.pl18286915.highcpmrevenuenetwork.com
 0.0.0.0 www.pl18403256.highcpmrevenuenetwork.com
@@ -147253,6 +147285,7 @@
 0.0.0.0 zidlejidelni.sbs
 0.0.0.0 zidlekancelarska.sbs
 0.0.0.0 zidoudsa.net
+0.0.0.0 zidrnuuudut.com
 0.0.0.0 ziel-berlin.com
 0.0.0.0 ziel.berlin
 0.0.0.0 zieussolutions.com

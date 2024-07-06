@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: abp
-! Version: 24.07.188
-! Release: 188
+! Version: 24.07.189
+! Release: 189
 ! Expires: 1 day
-! Entries: 147,968
-! Updated: Sat, 06 Jul 24 22:07:58 +06
+! Entries: 148,001
+! Updated: Sun, 07 Jul 24 00:24:56 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -686,6 +686,7 @@
 ||1jutu5nnx.com^
 ||1k-daily-profit.info^
 ||1k-daily-profit.net^
+||1k-daily-profitapp.com^
 ||1k1.net^
 ||1k2k3k4k5k.com^
 ||1kastrets1.com^
@@ -15867,6 +15868,7 @@
 ||bit-bolt.net^
 ||bit-coin-eras.com^
 ||bit-ibank.com^
+||bit-iq-site.com^
 ||bit-iqapp.net^
 ||bit-lq-app.net^
 ||bit-lq.net^
@@ -15919,6 +15921,7 @@
 ||bitcoinbot-app.net^
 ||bitcoinbratislava.com^
 ||bitcoincipro.com^
+||bitcoineprex-ai.com^
 ||bitcoinfutureremastered.com^
 ||bitcoingrowing.info^
 ||bitcoinheating.ca^
@@ -18528,6 +18531,7 @@
 ||btclaundry.io^
 ||btclbvkxc.com^
 ||btclucro.com^
+||btcnano-360.com^
 ||btcnews.one^
 ||btcpayhub.com^
 ||btcpl.co.in^
@@ -22355,6 +22359,7 @@
 ||chestishugli.com^
 ||chestnutdevelopers.ca^
 ||chestnutinc.ca^
+||chetandavdra.com^
 ||chetchen.net^
 ||chetchoa.com^
 ||chethgentman.live^
@@ -27160,6 +27165,7 @@
 ||cryptocitizens.world^
 ||cryptocoinpilot.com^
 ||cryptoconnect.pro^
+||cryptocrash-fortune.com^
 ||cryptodroidapp.com^
 ||cryptoethica.com^
 ||cryptoethica.io^
@@ -35272,6 +35278,7 @@
 ||eetsooso.net^
 ||eetyed.com^
 ||eevaitou.xyz^
+||eevvhoawzybzpv.com^
 ||eewhaukr.xyz^
 ||eewheeds.com^
 ||eewhocmi.com^
@@ -36162,6 +36169,7 @@
 ||eltonunclecomplex.com^
 ||eltoppraha.biz^
 ||eltoppraha.org^
+||eltorromini.com^
 ||eltwit.com^
 ||eltxarqgwngybfi.com^
 ||elubvhmdwtcq.com^
@@ -43906,6 +43914,7 @@
 ||fwyhyryyqvs.com^
 ||fwyucyhkiengf.com^
 ||fwznpbggydr.com^
+||fx-masterbot-app.com^
 ||fxecgesvd.com^
 ||fxeex.com^
 ||fxefriuekh.com^
@@ -46368,6 +46377,7 @@
 ||glowingcupid.com^
 ||glowingnews.com^
 ||glowingramblelobes.com^
+||glownyclick.com^
 ||glowoapeky.com^
 ||glowwa.store^
 ||gloxeept.com^
@@ -91505,6 +91515,7 @@
 ||quantpluslimited.com^
 ||quantum-analytica.com^
 ||quantum-ecosystem.online^
+||quantum-fbc6.com^
 ||quantum-legal.online^
 ||quantum-market.support^
 ||quantum-service.online^
@@ -99180,6 +99191,7 @@
 ||secret-clothing.com^
 ||secret-criss-blueprint.com^
 ||secretburiededmund.com^
+||secretcrisisblueprint-app.com^
 ||secretdatecam.com^
 ||secretfinsurvey.top^
 ||secretionforbearace.com^
@@ -105453,6 +105465,8 @@
 ||stationspire.com^
 ||statistcdn.com^
 ||statistic-data.com^
+||statistical-investing.info^
+||statistical-investing.org^
 ||statisticalinvesting.org^
 ||statisticresearch.com^
 ||statisticscensordilate.com^
@@ -110217,12 +110231,14 @@
 ||the-bitcoinfastprofitapp.net^
 ||the-bitcoinlegacy.com^
 ||the-bitcoinmotionapp.net^
+||the-bitcoinpro-app.com^
 ||the-bitcoinpro-app.net^
 ||the-bitcoinsmarter-app.net^
 ||the-bitcoinuppro.com^
 ||the-bitfit-app.com^
 ||the-biti-codes.net^
 ||the-biticodes-app.net^
+||the-bitindex-prime.com^
 ||the-bitlq-app.net^
 ||the-bitprofit-app.net^
 ||the-bitqt-app.net^
@@ -110270,6 +110286,10 @@
 ||the-immediate-connect.com^
 ||the-immediate-edges.com^
 ||the-immediate-experience.com^
+||the-immediate-multiplex.com^
+||the-immediate-richmax.com^
+||the-immediate-xrise.com^
+||the-immediateinnovaultapp.com^
 ||the-imperial-oil.com^
 ||the-invest-wealth.com^
 ||the-iro.org^
@@ -110307,6 +110327,7 @@
 ||the-today-profit.com^
 ||the-tortuga-casino.com^
 ||the-tr-petrolleri.net^
+||the-tradegpt360-evix.com^
 ||the-traderaiapp.com^
 ||the-vasudhaivakutumbakam.com^
 ||the-xbitcoin-aicom.com^
@@ -110340,6 +110361,7 @@
 ||thealpineblaze.com^
 ||thealtculture.com^
 ||thealtiumsandbox.com^
+||thealtrix-connect.com^
 ||thealtruist.life^
 ||theambedkar.org^
 ||theamericancharade.com^
@@ -110797,8 +110819,10 @@
 ||thehypenewz.com^
 ||theihafe.com^
 ||theimaginationdestination.com^
+||theimmediate-yboost.com^
 ||theimmediatebitcoinapp.net^
 ||theimmediatebtc.net^
+||theimmediatefuture-app.com^
 ||theimmovables.com^
 ||theimpactofhope.ca^
 ||theindiandirectory.org^
@@ -110807,6 +110831,7 @@
 ||theinnob.com^
 ||theinspirationarchive.com^
 ||theinspiredbooklover.com^
+||theinstant-boostai.com^
 ||theinstantsolution.com^
 ||theinteltech.com^
 ||theinternationalfirefightersassociation.com^
@@ -111360,6 +111385,7 @@
 ||thetoughofthetrack.co.uk^
 ||thetowermen.com^
 ||thetpay.com^
+||thetrade-serax.com^
 ||thetradersmart.com^
 ||thetradingwebinr.com^
 ||thetransparence.com^
@@ -111515,6 +111541,7 @@
 ||thinkappetitefeud.com^
 ||thinkfreshindia.com^
 ||thinkfutureactnow.com^
+||thinkgeekier.com^
 ||thinkingpresentimenteducational.com^
 ||thinkingwindfallhandkerchief.com^
 ||thinkoverseas.org^
@@ -128203,6 +128230,7 @@
 ||www.bothpersonality.com^
 ||www.bottlecigarshop.store^
 ||www.bottledinfectionearthquake.com^
+||www.bottledrecreate.com^
 ||www.bottleschance.com^
 ||www.bottleselement.com^
 ||www.bottomsupqld.com^
@@ -133729,6 +133757,7 @@
 ||www.indicatemellowlotion.com^
 ||www.indicatordevotedriver.com^
 ||www.indicesvestigetruck.com^
+||www.indictmentsmell.com^
 ||www.indictmentvehemently.com^
 ||www.indifferencefeed.com^
 ||www.indifferencemissile.com^
@@ -133940,6 +133969,7 @@
 ||www.instructorstudied.com^
 ||www.instrumenttactics.com^
 ||www.insularattacks.com^
+||www.insultingnoisysubjects.com^
 ||www.insultingrecord.com^
 ||www.insuranceripenslender.com^
 ||www.insuranceserviceexchange.com^
@@ -136353,6 +136383,7 @@
 ||www.noisesuperserver.com^
 ||www.noisybeforemorton.com^
 ||www.noisybench.com^
+||www.noisyoursarrears.com^
 ||www.noisytariff.com^
 ||www.nomadbritish.com^
 ||www.nomadiss.com^
@@ -137370,6 +137401,7 @@
 ||www.pl15393240.highcpmrevenuegate.com^
 ||www.pl15686703.highrevenuegate.com^
 ||www.pl15951806.profitablecpmgate.com^
+||www.pl16504700.effectivecpmgate.com^
 ||www.pl17398584.highcpmrevenuenetwork.com^
 ||www.pl18286915.highcpmrevenuenetwork.com^
 ||www.pl18403256.highcpmrevenuenetwork.com^
@@ -147254,6 +147286,7 @@
 ||zidlejidelni.sbs^
 ||zidlekancelarska.sbs^
 ||zidoudsa.net^
+||zidrnuuudut.com^
 ||ziel-berlin.com^
 ||ziel.berlin^
 ||zieussolutions.com^
