@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.190
 # Release: 190
-# Entries: 148,135
-# Updated: Mon, 08 Jul 24 06:08:07 +06
+# Entries: 148,141
+# Updated: Mon, 08 Jul 24 08:24:32 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -27410,6 +27410,7 @@
 0.0.0.0 ctrahistorical.com
 0.0.0.0 ctrggjspulmcx.com
 0.0.0.0 ctrlaltdel99.com
+0.0.0.0 ctrowbkp.com
 0.0.0.0 ctrtrk.com
 0.0.0.0 ctsdwm.com
 0.0.0.0 ctsjackupspete.com
@@ -67853,6 +67854,7 @@
 0.0.0.0 lwmtfhremidj.xyz
 0.0.0.0 lwojitro.top
 0.0.0.0 lwonclbench.com
+0.0.0.0 lwpca.fm
 0.0.0.0 lwphjpxcuie.com
 0.0.0.0 lwppgbkdxnbxw.com
 0.0.0.0 lwppiglets.website
@@ -109198,6 +109200,7 @@
 0.0.0.0 tcjyhblfmcl.xyz
 0.0.0.0 tckcymfnpsl.com
 0.0.0.0 tcklxsdxmpgrutc.com
+0.0.0.0 tckrxifmvmbf.com
 0.0.0.0 tcmcentrum.com
 0.0.0.0 tcmediaelt.com
 0.0.0.0 tcmedica.com
@@ -129713,6 +129716,7 @@
 0.0.0.0 www.costumegratetenth.com
 0.0.0.0 www.cosydrbrewing.com
 0.0.0.0 www.cosymeditatepub.com
+0.0.0.0 www.cottoncabbage.com
 0.0.0.0 www.cottondivorcefootprint.com
 0.0.0.0 www.couchimpishbrandy.com
 0.0.0.0 www.coughparachutegenerosity.com
@@ -134455,6 +134459,7 @@
 0.0.0.0 www.join.admiralsmarkets.com
 0.0.0.0 www.joinelegancetitanic.com
 0.0.0.0 www.joiningcriminal.com
+0.0.0.0 www.joiningslogan.com
 0.0.0.0 www.joinnye.com
 0.0.0.0 www.joj.city
 0.0.0.0 www.joker327.xyz
@@ -145833,6 +145838,7 @@
 0.0.0.0 yneikiddka.com
 0.0.0.0 ynfhnbjsl.xyz
 0.0.0.0 ynfocfip.com
+0.0.0.0 ynfpazcous.com
 0.0.0.0 ynfsiosdt.com
 0.0.0.0 yngmitru.xyz
 0.0.0.0 ynhmwyt.com
