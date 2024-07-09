@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.191
 # Release: 191
-# Entries: 148,289
-# Updated: Tue, 09 Jul 24 08:25:33 +06
+# Entries: 148,292
+# Updated: Tue, 09 Jul 24 10:07:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -53301,6 +53301,7 @@
 0.0.0.0 hutchison.scot
 0.0.0.0 huthut.net
 0.0.0.0 hutlockshelter.com
+0.0.0.0 hutoumseet.com
 0.0.0.0 hutquicktheory.com
 0.0.0.0 hutrealebion.com
 0.0.0.0 hutrebuzzier.live
@@ -58133,6 +58134,7 @@
 0.0.0.0 janetholmes.info
 0.0.0.0 janetrueda-art.com
 0.0.0.0 janfxoaa.com
+0.0.0.0 jangauwigny.com
 0.0.0.0 jangiddywashed.com
 0.0.0.0 jangigarments.com
 0.0.0.0 jangleachy.com
@@ -147830,6 +147832,7 @@
 0.0.0.0 zoachoar.net
 0.0.0.0 zoachops.com
 0.0.0.0 zoadoash.net
+0.0.0.0 zoagaloptaig.com
 0.0.0.0 zoagfst.com
 0.0.0.0 zoagouwie.com
 0.0.0.0 zoagreejouph.com
