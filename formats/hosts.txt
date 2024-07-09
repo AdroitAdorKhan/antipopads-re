@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.192
 # Release: 192
-# Entries: 148,402
-# Updated: Wed, 10 Jul 24 00:24:54 +06
+# Entries: 148,404
+# Updated: Wed, 10 Jul 24 02:08:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -59127,6 +59127,7 @@
 0.0.0.0 jistapujckabezregistru.cfd
 0.0.0.0 jistaumt.com
 0.0.0.0 jistvotestabl.space
+0.0.0.0 jiswmqpds.com
 0.0.0.0 jitaihr.com
 0.0.0.0 jitantaktravels.com
 0.0.0.0 jitdknclhdpfzyvkio.bid
@@ -83075,6 +83076,7 @@
 0.0.0.0 paipai.tech
 0.0.0.0 paipsuto.com
 0.0.0.0 pairaffirmative.com
+0.0.0.0 pairgufkq.com
 0.0.0.0 pairplayed.com
 0.0.0.0 pairschorus.com
 0.0.0.0 pairsprudence.com
