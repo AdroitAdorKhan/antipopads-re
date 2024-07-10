@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.192
 # Release: 192
-# Entries: 148,545
-# Updated: Wed, 10 Jul 24 16:24:25 +06
+# Entries: 148,551
+# Updated: Wed, 10 Jul 24 18:08:11 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -27284,6 +27284,7 @@
 0.0.0.0 cryptostocks.buzz
 0.0.0.0 cryptotitleservices.net
 0.0.0.0 cryptotwittercoin.com
+0.0.0.0 cryptotyc.care
 0.0.0.0 cryptovaluetoday.com
 0.0.0.0 cryptovbot.com
 0.0.0.0 cryptovilla.info
@@ -62442,6 +62443,7 @@
 0.0.0.0 kmwflqmvfnv.com
 0.0.0.0 kmwjtcis.com
 0.0.0.0 kmwsmlwudyukcg.top
+0.0.0.0 kmxsjygetmmrzh.com
 0.0.0.0 kmxwygco.com
 0.0.0.0 kmyaklgcik.com
 0.0.0.0 kmyamhowpj.com
@@ -114795,6 +114797,7 @@
 0.0.0.0 tremormedia.com
 0.0.0.0 tremosinesulgardaproloco.org
 0.0.0.0 trenbolonacetat-no.com
+0.0.0.0 trenbolonacetat-sk.com
 0.0.0.0 trenchtech.in
 0.0.0.0 trencin.marketing
 0.0.0.0 trendbuffseparation.com
@@ -133458,6 +133461,7 @@
 0.0.0.0 www.handsomepinchingconsultation.com
 0.0.0.0 www.handwritingdoorbellglum.com
 0.0.0.0 www.handwritingnomad.com
+0.0.0.0 www.hangnailhasten.com
 0.0.0.0 www.hangoverineffectivecorners.com
 0.0.0.0 www.hanksuggestquilt.com
 0.0.0.0 www.hansinaugurate.com
@@ -135786,6 +135790,7 @@
 0.0.0.0 www.maddenword.com
 0.0.0.0 www.maddoverevents.com
 0.0.0.0 www.madebabysittingimperturbable.com
+0.0.0.0 www.madeinvasionneedy.com
 0.0.0.0 www.madeirauncertaintendency.com
 0.0.0.0 www.madelossbravely.com
 0.0.0.0 www.mademadelavish.com
@@ -141881,6 +141886,7 @@
 0.0.0.0 www.treklizard.com
 0.0.0.0 www.trekstereo.com
 0.0.0.0 www.tremblesyringeillusive.com
+0.0.0.0 www.trenbolonacetat-sk.com
 0.0.0.0 www.trendcram.com
 0.0.0.0 www.trendindicator.org
 0.0.0.0 www.treneraco.com
