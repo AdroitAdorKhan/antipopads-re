@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.193
 # Release: 193
-# Entries: 148,726
-# Updated: Thu, 11 Jul 24 16:24:54 +06
+# Entries: 148,728
+# Updated: Thu, 11 Jul 24 18:08:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1830,6 +1830,7 @@
 0.0.0.0 496269c.com
 0.0.0.0 496687.com
 0.0.0.0 49726b.com
+0.0.0.0 498569.com
 0.0.0.0 49863c.com
 0.0.0.0 49869b.com
 0.0.0.0 49ky.app
@@ -126643,6 +126644,7 @@
 0.0.0.0 www.486bb.com
 0.0.0.0 www.496687.com
 0.0.0.0 www.49726b.com
+0.0.0.0 www.498569.com
 0.0.0.0 www.4ahdasd44.monster
 0.0.0.0 www.4ajhbsjdasd44.monster
 0.0.0.0 www.4ajhsbjasd445.monster
