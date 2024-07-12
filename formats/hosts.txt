@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.194
 # Release: 194
-# Entries: 148,864
-# Updated: Fri, 12 Jul 24 16:24:54 +06
+# Entries: 148,868
+# Updated: Fri, 12 Jul 24 18:08:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -51775,6 +51775,7 @@
 0.0.0.0 hldxvloxsxqqg.com
 0.0.0.0 hldylatbujc.com
 0.0.0.0 hledoziequt.com
+0.0.0.0 hleemodb.com
 0.0.0.0 hlerseomcb.com
 0.0.0.0 hleuindnjcixxep.com
 0.0.0.0 hlfservices.org
@@ -68245,6 +68246,7 @@
 0.0.0.0 lyffvymqqdcu.com
 0.0.0.0 lyfgnoskb.com
 0.0.0.0 lyfhkyneq.com
+0.0.0.0 lyftorganix.com
 0.0.0.0 lygbbkgykzcr.com
 0.0.0.0 lygeumentered.digital
 0.0.0.0 lygshgj.com
@@ -96523,6 +96525,7 @@
 0.0.0.0 rohananatara.com
 0.0.0.0 rohillaspatzle.website
 0.0.0.0 rohiniherbal.com
+0.0.0.0 rohitraj.in
 0.0.0.0 rohitvermaphotography.com
 0.0.0.0 rohlicek.name
 0.0.0.0 rohovasatniskrin.sbs
@@ -143405,6 +143408,7 @@
 0.0.0.0 www.ww6.sea.cryptaloot.pro
 0.0.0.0 www.ww62.agenziaentrateriscossione.it
 0.0.0.0 www.ww82.e-dnevnik.rs
+0.0.0.0 www.ww82.e-library.co.za
 0.0.0.0 www.ww82.imageheaven.nl
 0.0.0.0 www.ww82.juicymovies.in
 0.0.0.0 www.ww82.portalzacarias.com
