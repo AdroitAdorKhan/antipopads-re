@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.194
 # Release: 194
-# Entries: 148,857
-# Updated: Fri, 12 Jul 24 12:08:52 +06
+# Entries: 148,858
+# Updated: Fri, 12 Jul 24 14:07:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6583,6 +6583,7 @@
 0.0.0.0 aiobazaar.in
 0.0.0.0 aiomag.com
 0.0.0.0 aionz.net
+0.0.0.0 aioregnydug.com
 0.0.0.0 aiosdwgp.com
 0.0.0.0 aiosms.in
 0.0.0.0 aiotor.co.in
