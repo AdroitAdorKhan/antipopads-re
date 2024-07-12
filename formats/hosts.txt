@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.195
 # Release: 195
-# Entries: 148,957
-# Updated: Sat, 13 Jul 24 02:09:49 +06
+# Entries: 148,959
+# Updated: Sat, 13 Jul 24 04:09:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -54648,6 +54648,7 @@
 0.0.0.0 ihoster.io
 0.0.0.0 ihousing.online
 0.0.0.0 ihpacademy.com
+0.0.0.0 ihpgxqdmlfdr.com
 0.0.0.0 ihpljbrwytfyvsj.com
 0.0.0.0 ihqnckvpfx.com
 0.0.0.0 ihqyfhytlu.com
@@ -144145,6 +144146,7 @@
 0.0.0.0 wzw345.com
 0.0.0.0 wzwtdbvzio.com
 0.0.0.0 wzxsysdtwte.com
+0.0.0.0 wzzedierzxfr.com
 0.0.0.0 wzztxdripb.com
 0.0.0.0 x-adservice.com
 0.0.0.0 x-automate.net
