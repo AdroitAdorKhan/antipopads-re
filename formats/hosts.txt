@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.194
 # Release: 194
-# Entries: 148,798
-# Updated: Fri, 12 Jul 24 06:08:00 +06
+# Entries: 148,801
+# Updated: Fri, 12 Jul 24 08:24:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9645,6 +9645,7 @@
 0.0.0.0 aqdx2021.com
 0.0.0.0 aqdybg.com
 0.0.0.0 aqeelaadam.us
+0.0.0.0 aqepreto.com
 0.0.0.0 aqewvatwqzoigh.com
 0.0.0.0 aqgdlgshs.com
 0.0.0.0 aqgrcyacgan.com
@@ -51940,6 +51941,7 @@
 0.0.0.0 hodlerz.online
 0.0.0.0 hodlhaven.africa
 0.0.0.0 hodpads.com
+0.0.0.0 hodydlys.com
 0.0.0.0 hoeatchi.com
 0.0.0.0 hoeipecr.com
 0.0.0.0 hoelikeotc.top
@@ -70259,6 +70261,7 @@
 0.0.0.0 mcfruta.com
 0.0.0.0 mcfstats.com
 0.0.0.0 mcgbvjasbch.com
+0.0.0.0 mcgcmlgvasn.com
 0.0.0.0 mcgrathforda.com
 0.0.0.0 mchrueirmky.com
 0.0.0.0 mciadjusters.com
