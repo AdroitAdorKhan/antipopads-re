@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.196
 # Release: 196
-# Entries: 149,032
-# Updated: Sun, 14 Jul 24 04:09:29 +06
+# Entries: 149,082
+# Updated: Sun, 14 Jul 24 06:08:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6677,6 +6677,7 @@
 0.0.0.0 airpollutionnews.co.uk
 0.0.0.0 airport-bratislava.com
 0.0.0.0 airportinfinity.com
+0.0.0.0 airporttransportsedan.com
 0.0.0.0 airportvyskov.com
 0.0.0.0 airportyellowcabsanjose.com
 0.0.0.0 airpush.com
@@ -6856,6 +6857,7 @@
 0.0.0.0 ajsneaker.shop
 0.0.0.0 ajsyxphfpr.com
 0.0.0.0 ajtea.tech
+0.0.0.0 ajtjknyi.com
 0.0.0.0 ajty.org
 0.0.0.0 ajuaglritjig.com
 0.0.0.0 ajunduxpbarn.com
@@ -7044,6 +7046,7 @@
 0.0.0.0 albercascorse.com
 0.0.0.0 alberchad.org
 0.0.0.0 albergodiffusoenna.com
+0.0.0.0 albergovillaviola.com
 0.0.0.0 alberni4x4.com
 0.0.0.0 albernitrucks.com
 0.0.0.0 albertacommercialinsurance.com
@@ -10372,6 +10375,7 @@
 0.0.0.0 artlessspaceship.com
 0.0.0.0 artlifepress.com
 0.0.0.0 artlikeratan.click
+0.0.0.0 artmagister.com
 0.0.0.0 artman-atelier.com
 0.0.0.0 artmino.com
 0.0.0.0 artnwrite.com
@@ -11786,6 +11790,7 @@
 0.0.0.0 autopsyjam.com
 0.0.0.0 autopsytan.com
 0.0.0.0 autopujcovna-autopujcovny.info
+0.0.0.0 autopujcovna-olomouc.com
 0.0.0.0 autopujcovna.org
 0.0.0.0 autopujcovnaplzen.com
 0.0.0.0 autoreviews.tv
@@ -12421,6 +12426,7 @@
 0.0.0.0 ayushmanayurved.com
 0.0.0.0 ayushmanuti.org
 0.0.0.0 ayushmanutiitsl.org
+0.0.0.0 ayushvaani.in
 0.0.0.0 ayvcjvdfk.xyz
 0.0.0.0 ayvfzwttm.com
 0.0.0.0 ayvhebubr.com
@@ -20469,6 +20475,7 @@
 0.0.0.0 cargo-outlet.com
 0.0.0.0 cargodescent.com
 0.0.0.0 cargodump.com
+0.0.0.0 cargoe.eu
 0.0.0.0 cargoe.net
 0.0.0.0 cargotropical.com
 0.0.0.0 carguedquannet.com
@@ -22716,6 +22723,7 @@
 0.0.0.0 chl7rysobc3ol6xla.com
 0.0.0.0 chladicipodlozky.info
 0.0.0.0 chlamydia.tech
+0.0.0.0 chlapovic.com
 0.0.0.0 chlapskevikendovky.store
 0.0.0.0 chlibopi.xyz
 0.0.0.0 chliebahry.com
@@ -25350,6 +25358,8 @@
 0.0.0.0 concerntypisthumility.com
 0.0.0.0 concertainwqa.club
 0.0.0.0 concertbackwards.com
+0.0.0.0 concertproperties.realty
+0.0.0.0 concertrealtyservices.realty
 0.0.0.0 concertstop.com
 0.0.0.0 concessionmedicalgroup.ca
 0.0.0.0 concessionmedicalgroup.com
@@ -31174,6 +31184,7 @@
 0.0.0.0 digitaldesignz.in
 0.0.0.0 digitaldsp.com
 0.0.0.0 digitale-identiteitupdate.com
+0.0.0.0 digitale-verarbeitung.xyz
 0.0.0.0 digitaleducationschool.com
 0.0.0.0 digitalempowers.online
 0.0.0.0 digitalfaas.com
@@ -33260,6 +33271,7 @@
 0.0.0.0 draftpowerful.com
 0.0.0.0 draftsponsorship.com
 0.0.0.0 draftyreview.pro
+0.0.0.0 dragan-ignjic.com
 0.0.0.0 dragbarinsuper.top
 0.0.0.0 dragdisrespectmeddling.com
 0.0.0.0 dragfault.com
@@ -33577,6 +33589,7 @@
 0.0.0.0 dron-ocean.com
 0.0.0.0 dronaeducators.com
 0.0.0.0 drone-sights.com
+0.0.0.0 droneawaymedia.com
 0.0.0.0 dronebestshop.com
 0.0.0.0 dronedgentile.com
 0.0.0.0 dronediscussed.com
@@ -38543,6 +38556,7 @@
 0.0.0.0 everydayreward.net
 0.0.0.0 everydayrewards.net
 0.0.0.0 everydaywickedwailing.com
+0.0.0.0 everymail.com
 0.0.0.0 everymarket.com.mx
 0.0.0.0 everymarket.uk
 0.0.0.0 everyminduk.org.uk
@@ -42419,6 +42433,8 @@
 0.0.0.0 fometh.com
 0.0.0.0 fomfwrpfklckhr.com
 0.0.0.0 fompouta.xyz
+0.0.0.0 fomsolution.net
+0.0.0.0 fomsolutions.net
 0.0.0.0 fomtoupoubiz.com
 0.0.0.0 fomulex.com
 0.0.0.0 fonbetbk.pw
@@ -43682,6 +43698,7 @@
 0.0.0.0 fstpro.pro
 0.0.0.0 fstsrv.com
 0.0.0.0 fsunbottncef.com
+0.0.0.0 fsworld.co.za
 0.0.0.0 fswvlswhgvjh.xyz
 0.0.0.0 fsxemowhrx.com
 0.0.0.0 fsznjdg.com
@@ -47339,6 +47356,7 @@
 0.0.0.0 golfservis.com
 0.0.0.0 golftravel.net
 0.0.0.0 golgappewala.co
+0.0.0.0 golias.solutions
 0.0.0.0 gollarpulsus.com
 0.0.0.0 gollgle.com
 0.0.0.0 gollkawvv.xyz
@@ -48723,6 +48741,7 @@
 0.0.0.0 gsniper2.com
 0.0.0.0 gsnqhdo.com
 0.0.0.0 gsnyadosl.com
+0.0.0.0 gsoft.bh
 0.0.0.0 gsowpjghrj.xyz
 0.0.0.0 gsponding.buzz
 0.0.0.0 gsqiynysbvrivpd.com
@@ -48936,6 +48955,7 @@
 0.0.0.0 gulder.co
 0.0.0.0 gulfimply.com
 0.0.0.0 gulfpowerpoints.com
+0.0.0.0 gulipan.com
 0.0.0.0 gullible-hope.com
 0.0.0.0 gullible-lawyer.pro
 0.0.0.0 gullibleabuse.com
@@ -49154,6 +49174,7 @@
 0.0.0.0 gxcvxdeda.com
 0.0.0.0 gxdzfyg.com
 0.0.0.0 gxeireojvtfoq.com
+0.0.0.0 gxfmjfgo.com
 0.0.0.0 gxfuwkgsp.com
 0.0.0.0 gxgevatgu.xyz
 0.0.0.0 gxgiyeyeqsxtp.com
@@ -49775,6 +49796,7 @@
 0.0.0.0 happeningdeliverancenorth.com
 0.0.0.0 happeningflutter.com
 0.0.0.0 happeningurinepomposity.com
+0.0.0.0 happens.today
 0.0.0.0 happilyabstract.com
 0.0.0.0 happilydestructive.com
 0.0.0.0 happilyeveraspergers.com
@@ -49783,6 +49805,7 @@
 0.0.0.0 happy-laser.ca
 0.0.0.0 happy-laser.com
 0.0.0.0 happy-ticket.bet
+0.0.0.0 happy.tech
 0.0.0.0 happy22kids.org
 0.0.0.0 happybabygames.com
 0.0.0.0 happycutters.store
@@ -57138,6 +57161,7 @@
 0.0.0.0 ipmzpxne.com
 0.0.0.0 ipnbrotsmo.com
 0.0.0.0 ipngxvphglt.xyz
+0.0.0.0 ipnino.com
 0.0.0.0 ipo-yaksib.com
 0.0.0.0 ipodreevess.com
 0.0.0.0 ipoiesis.com
@@ -60155,6 +60179,7 @@
 0.0.0.0 jqinreeersbqv.com
 0.0.0.0 jqitetsk.com
 0.0.0.0 jqjqiksmjhtku.com
+0.0.0.0 jqkdjxrmw.com
 0.0.0.0 jqllkwkpil.com
 0.0.0.0 jqlqmeveax.com
 0.0.0.0 jqluhrwlfwsgdd.com
@@ -62231,6 +62256,7 @@
 0.0.0.0 kingsnkrs.top
 0.0.0.0 kingstek.site
 0.0.0.0 kingstondispensary.us
+0.0.0.0 kingsurfing.com
 0.0.0.0 kingswayfamily.dental
 0.0.0.0 kingsxing.com
 0.0.0.0 kingtrck1.com
@@ -65160,6 +65186,7 @@
 0.0.0.0 legal-will.com
 0.0.0.0 legalavouch.com
 0.0.0.0 legalchained.com
+0.0.0.0 legaldarkchem.com
 0.0.0.0 legaleagleslawfirm.com
 0.0.0.0 legalio.online
 0.0.0.0 legalities.in
@@ -69153,6 +69180,7 @@
 0.0.0.0 mamweb.online
 0.0.0.0 mamyko.com
 0.0.0.0 mamzeraucaner.life
+0.0.0.0 man-prison.com
 0.0.0.0 man.qa
 0.0.0.0 man2ch5836dester.com
 0.0.0.0 manaforge.online
@@ -76701,6 +76729,7 @@
 0.0.0.0 newdawngold.com
 0.0.0.0 newdelhibraces.com
 0.0.0.0 newdemeanourhunchback.com
+0.0.0.0 newdesignfile.online
 0.0.0.0 newdesignoutlet.com
 0.0.0.0 newdesk-qbchat.com
 0.0.0.0 newdigiguide.com
@@ -77896,6 +77925,7 @@
 0.0.0.0 noelbenc.com
 0.0.0.0 noeliaberruezo.com
 0.0.0.0 noelsdoc.cam
+0.0.0.0 noem.world
 0.0.0.0 noerwe5gianfor19e4st.com
 0.0.0.0 noetianidite.top
 0.0.0.0 nofashot.com
@@ -85366,6 +85396,7 @@
 0.0.0.0 petristoker.website
 0.0.0.0 petrjirikovsky.art
 0.0.0.0 petrkanda.com
+0.0.0.0 petrkroutil.com
 0.0.0.0 petrmorkes.com
 0.0.0.0 petro9energy.in
 0.0.0.0 petrolam.net
@@ -87722,6 +87753,7 @@
 0.0.0.0 pongyoutdoor.com
 0.0.0.0 ponierpeewees.digital
 0.0.0.0 ponk.pro
+0.0.0.0 ponokado.com
 0.0.0.0 ponosenvy.top
 0.0.0.0 ponsaba.net
 0.0.0.0 ponstars.org
@@ -95499,6 +95531,7 @@
 0.0.0.0 rewwlzjmj.com
 0.0.0.0 rexbucks.com
 0.0.0.0 rexclusive.net
+0.0.0.0 rexdit.com
 0.0.0.0 rexelita.it
 0.0.0.0 rexmoderatesupple.com
 0.0.0.0 rexneedleinterfere.com
@@ -97272,6 +97305,7 @@
 0.0.0.0 rssrqecohagbk.xyz
 0.0.0.0 rsss.org.in
 0.0.0.0 rsswabcyuwnffx.com
+0.0.0.0 rstgmihrzveb.com
 0.0.0.0 rsthwwqhxef.xyz
 0.0.0.0 rstrfxbbtouo.com
 0.0.0.0 rsudc.net
@@ -102026,6 +102060,7 @@
 0.0.0.0 siamzone.com
 0.0.0.0 siaracine.org
 0.0.0.0 siball-hotel.com
+0.0.0.0 sibenik-apartments.net
 0.0.0.0 siber.pro
 0.0.0.0 siberiabecrush.com
 0.0.0.0 sibgycqzgj.com
@@ -103173,6 +103208,7 @@
 0.0.0.0 slenderfetch.com
 0.0.0.0 slenderglowingcontrary.com
 0.0.0.0 slepec.sbs
+0.0.0.0 sleproject.com
 0.0.0.0 slepsluzbapalilula.com
 0.0.0.0 sleptbereave.com
 0.0.0.0 sleptornament.com
@@ -108232,6 +108268,7 @@
 0.0.0.0 svadba.click
 0.0.0.0 svadbagabikaerik.online
 0.0.0.0 svadboys.com
+0.0.0.0 svadbulienka.com
 0.0.0.0 svadobna.fun
 0.0.0.0 svadobna.party
 0.0.0.0 svadobnekytice.online
@@ -108465,6 +108502,7 @@
 0.0.0.0 sweethomebuildingcleaning.com
 0.0.0.0 sweetie.pp.ru
 0.0.0.0 sweetmoonmonth.com
+0.0.0.0 sweetphoria.com
 0.0.0.0 sweetpie.online
 0.0.0.0 sweetrnd.net
 0.0.0.0 sweetromance.life
@@ -110305,6 +110343,7 @@
 0.0.0.0 teliatrics.net
 0.0.0.0 telingabureaus.top
 0.0.0.0 telinteredlmewhl.xyz
+0.0.0.0 telkesgep.com
 0.0.0.0 tellabscm.net
 0.0.0.0 tellamc.xyz
 0.0.0.0 tellaudience.com
@@ -111620,6 +111659,7 @@
 0.0.0.0 thekiloculture.com
 0.0.0.0 thekinkylawyer.ca
 0.0.0.0 thekinkylawyer.com
+0.0.0.0 thekipdistrict.realty
 0.0.0.0 thekitts.tech
 0.0.0.0 thekkgc.net
 0.0.0.0 thekkgc.org
@@ -112110,6 +112150,7 @@
 0.0.0.0 theteetop.com
 0.0.0.0 thetenacious.pk
 0.0.0.0 theteslerapp.info
+0.0.0.0 theteslerquiz.com
 0.0.0.0 thethateronjus.com
 0.0.0.0 thetheatreclubandlounge.com
 0.0.0.0 thetheautumnleafcafe.com
@@ -113299,6 +113340,7 @@
 0.0.0.0 tlthugthteksxp.com
 0.0.0.0 tludbgtmnu.com
 0.0.0.0 tluicnvqxbjdt.com
+0.0.0.0 tlumocnickyservis.net
 0.0.0.0 tlvoiofg.com
 0.0.0.0 tlvpsbuffyiph.com
 0.0.0.0 tlwixvejx.xyz
@@ -119458,6 +119500,7 @@
 0.0.0.0 vaccinesrd.org
 0.0.0.0 vaccinetruthmovement.net
 0.0.0.0 vacexhire.uk
+0.0.0.0 vackemedia.com
 0.0.0.0 vaclavpeca.com
 0.0.0.0 vactbwonjayyyi.com
 0.0.0.0 vactionrentalsoakisland.com
@@ -119944,6 +119987,7 @@
 0.0.0.0 vbnewcrdhxtetk.com
 0.0.0.0 vbobaodlgsx.com
 0.0.0.0 vbomsksv.com
+0.0.0.0 vbooking.pro
 0.0.0.0 vbovdbqxxoqbxd.com
 0.0.0.0 vbpush.xyz
 0.0.0.0 vbq8.com
@@ -125638,6 +125682,7 @@
 0.0.0.0 wolfimpex.com
 0.0.0.0 wolfmia.com
 0.0.0.0 wolfpakrealty.com
+0.0.0.0 wolfrealm.trade
 0.0.0.0 wolfshop.tech
 0.0.0.0 wolfson.info
 0.0.0.0 wollfhouse.ca
@@ -142766,6 +142811,7 @@
 0.0.0.0 www.utterlyfunding.com
 0.0.0.0 www.uuhuanfu.com
 0.0.0.0 www.uuzi.tech
+0.0.0.0 www.uvsaaf.fsworld.co.za
 0.0.0.0 www.uwatchfree.fr
 0.0.0.0 www.uzhan.org
 0.0.0.0 www.uzxkuwalnjp.com
@@ -143984,6 +144030,7 @@
 0.0.0.0 wwwbawagpsk.com
 0.0.0.0 wwwbdys03.com
 0.0.0.0 wwwbet105.com
+0.0.0.0 wwwbloomingdale.com
 0.0.0.0 wwwc1breach2019.com
 0.0.0.0 wwwcanal13.com
 0.0.0.0 wwwcap1databreach.com
@@ -145923,6 +145970,7 @@
 0.0.0.0 yakonapackery.store
 0.0.0.0 yaksofcoalbankcreek.com
 0.0.0.0 yakubmarian.com
+0.0.0.0 yakunapath.com
 0.0.0.0 yakvssigg.xyz
 0.0.0.0 yala.scot
 0.0.0.0 yalecivicleadership.com
@@ -148048,6 +148096,7 @@
 0.0.0.0 zeleneslovensko.digital
 0.0.0.0 zeleneslovensko.online
 0.0.0.0 zeleni-planet.com
+0.0.0.0 zelenycaj.info
 0.0.0.0 zeleziarstvo.online
 0.0.0.0 zelia.uk
 0.0.0.0 zeliangames.com
@@ -148905,6 +148954,7 @@
 0.0.0.0 zuzanacellar.com
 0.0.0.0 zuzanafialova.info
 0.0.0.0 zuzanahegrova.com
+0.0.0.0 zuzanahudacova.com
 0.0.0.0 zuzanakardosova.com
 0.0.0.0 zuzanakosiba.com
 0.0.0.0 zuzanapokrivcakova.com
