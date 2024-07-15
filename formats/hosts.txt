@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.197
 # Release: 197
-# Entries: 149,248
-# Updated: Mon, 15 Jul 24 14:07:44 +06
+# Entries: 149,253
+# Updated: Mon, 15 Jul 24 16:24:28 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28453,6 +28453,7 @@
 0.0.0.0 daboovip.xyz
 0.0.0.0 daccontractor.site
 0.0.0.0 daccroi.com
+0.0.0.0 dacctg.com
 0.0.0.0 dacenba.sk
 0.0.0.0 dackershalts.life
 0.0.0.0 dacmaiss.com
@@ -63453,6 +63454,7 @@
 0.0.0.0 krniovvfufx.com
 0.0.0.0 krnishwktki.com
 0.0.0.0 krobotfoto.com
+0.0.0.0 krocgmoexbq.com
 0.0.0.0 kronentriduo.top
 0.0.0.0 kronervisile.com
 0.0.0.0 kronosspell.com
@@ -68591,6 +68593,7 @@
 0.0.0.0 ma2gs3wne3gfej70osium.com
 0.0.0.0 ma3ryh8l6v.de
 0.0.0.0 maac-mcl.com
+0.0.0.0 maadixwqv.com
 0.0.0.0 maagayatrirealtech.com
 0.0.0.0 maaivkgdulv.com
 0.0.0.0 maalabaala.com
@@ -102450,6 +102453,7 @@
 0.0.0.0 simatvgold.com
 0.0.0.0 simba-digital.com
 0.0.0.0 simbatactical.com
+0.0.0.0 simbill.in
 0.0.0.0 simbiworks.org
 0.0.0.0 simblumauberge.digital
 0.0.0.0 simchascribe.com
@@ -140777,6 +140781,7 @@
 0.0.0.0 www.silverundergofold.com
 0.0.0.0 www.silvish.com
 0.0.0.0 www.simaowilliams.com
+0.0.0.0 www.simbill.in
 0.0.0.0 www.simbiworks.org
 0.0.0.0 www.simchascribe.com
 0.0.0.0 www.simchascribes.org
