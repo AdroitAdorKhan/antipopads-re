@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.197
 # Release: 197
-# Entries: 149,247
-# Updated: Mon, 15 Jul 24 12:08:15 +06
+# Entries: 149,248
+# Updated: Mon, 15 Jul 24 14:07:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -144623,6 +144623,7 @@
 0.0.0.0 xcyqdjrut.com
 0.0.0.0 xczjts.com
 0.0.0.0 xd.tastierxyphoid.com
+0.0.0.0 xdaofpllrf.com
 0.0.0.0 xdatings-now.life
 0.0.0.0 xdaudiovideo.com
 0.0.0.0 xdcaxiyzgg.com
