@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.197
 # Release: 197
-# Entries: 149,253
-# Updated: Mon, 15 Jul 24 16:24:28 +06
+# Entries: 149,256
+# Updated: Mon, 15 Jul 24 18:07:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -82230,6 +82230,7 @@
 0.0.0.0 oshdarvitop.com
 0.0.0.0 oshevchuk.com
 0.0.0.0 oshfmwrjfdki.com
+0.0.0.0 oshibki-bytovoj-tehniki.com
 0.0.0.0 oshunooy.xyz
 0.0.0.0 oshxhofaf.com
 0.0.0.0 osiersabatis.website
@@ -104599,6 +104600,7 @@
 0.0.0.0 solosnica.net
 0.0.0.0 solqenet.in
 0.0.0.0 solreind.com
+0.0.0.0 solrtrqaitnjy.com
 0.0.0.0 solskenbuilder.com
 0.0.0.0 soltaixa.com
 0.0.0.0 soltes.email
@@ -113341,6 +113343,7 @@
 0.0.0.0 tivatingotherem.info
 0.0.0.0 tivdeesaloyhx.com
 0.0.0.0 tivider.com
+0.0.0.0 tivilatino.com
 0.0.0.0 tivvsaunec.com
 0.0.0.0 tiwazdaunts.cfd
 0.0.0.0 tiwbgqddmz.com
