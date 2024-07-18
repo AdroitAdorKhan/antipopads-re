@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.200
 # Release: 200
-# Entries: 149,658
-# Updated: Thu, 18 Jul 24 04:08:00 +06
+# Entries: 149,660
+# Updated: Thu, 18 Jul 24 06:08:05 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16191,6 +16191,7 @@
 0.0.0.0 bjjkuoxidr.xyz
 0.0.0.0 bjjnovsnejwm.com
 0.0.0.0 bjjwvkbyfh.com
+0.0.0.0 bjklzdiagpnzvh.com
 0.0.0.0 bjkxsw6688.com
 0.0.0.0 bjlcny.com
 0.0.0.0 bjlidada.com
@@ -138969,6 +138970,7 @@
 0.0.0.0 www.plaittest.com
 0.0.0.0 www.plaitvaccination.com
 0.0.0.0 www.plandappsb.com
+0.0.0.0 www.planepleasant.com
 0.0.0.0 www.planesknob.com
 0.0.0.0 www.planetconstituent.com
 0.0.0.0 www.plankbritish.com
