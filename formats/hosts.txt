@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.200
 # Release: 200
-# Entries: 149,665
-# Updated: Thu, 18 Jul 24 08:25:18 +06
+# Entries: 149,669
+# Updated: Thu, 18 Jul 24 10:07:52 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19896,6 +19896,7 @@
 0.0.0.0 caihahou.xyz
 0.0.0.0 caiji11.com
 0.0.0.0 caiji14.com
+0.0.0.0 caimac.net
 0.0.0.0 caimoasy.net
 0.0.0.0 cainauhi.xyz
 0.0.0.0 cainismlungee.uno
@@ -41028,6 +41029,7 @@
 0.0.0.0 fibrefilamentherself.com
 0.0.0.0 fibrehighness.com
 0.0.0.0 fibrela.com
+0.0.0.0 ficawskh.com
 0.0.0.0 ficinhubcap.com
 0.0.0.0 ficinvesses.com
 0.0.0.0 fickehdllbv.com
@@ -75807,6 +75809,7 @@
 0.0.0.0 najalacasa.com
 0.0.0.0 najcene.net
 0.0.0.0 najdarila.com
+0.0.0.0 najdikaviaren.online
 0.0.0.0 najem-avtomobila.com
 0.0.0.0 najem-jadrnic-hrvaska.com
 0.0.0.0 najem.plus
@@ -100018,6 +100021,7 @@
 0.0.0.0 scriptsfirework.com
 0.0.0.0 scriptvealpatronage.com
 0.0.0.0 scrivermoulded.life
+0.0.0.0 scrlink.cool
 0.0.0.0 scrogrearm.com
 0.0.0.0 scrollhandful.com
 0.0.0.0 scrollisolation.com
