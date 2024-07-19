@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.201
 # Release: 201
-# Entries: 149,937
-# Updated: Fri, 19 Jul 24 20:08:03 +06
+# Entries: 149,941
+# Updated: Fri, 19 Jul 24 22:07:59 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -67704,6 +67704,7 @@
 0.0.0.0 loothoko.net
 0.0.0.0 lootypay.com
 0.0.0.0 looverfamose.top
+0.0.0.0 loowhujoom.net
 0.0.0.0 lopedgingers.website
 0.0.0.0 lopertsreare.com
 0.0.0.0 lophaiss.net
@@ -90745,6 +90746,7 @@
 0.0.0.0 psougrie.com
 0.0.0.0 psoukesh.com
 0.0.0.0 psoumoalt.com
+0.0.0.0 psoumpoabup.com
 0.0.0.0 psounsoo.xyz
 0.0.0.0 psouphoz.com
 0.0.0.0 psouthee.xyz
@@ -102177,6 +102179,7 @@
 0.0.0.0 shimmering-novel.pro
 0.0.0.0 shimmering-strike.pro
 0.0.0.0 shimmeringconcert.com
+0.0.0.0 shimpoast.net
 0.0.0.0 shimpooy.com
 0.0.0.0 shimu-tech.com
 0.0.0.0 shinasi.info
@@ -122729,6 +122732,7 @@
 0.0.0.0 volcanostricken.com
 0.0.0.0 voldarinis.com
 0.0.0.0 voldekor.com
+0.0.0.0 volform.online
 0.0.0.0 volitve.info
 0.0.0.0 volka.tv
 0.0.0.0 volkatv.biz
