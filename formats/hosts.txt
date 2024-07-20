@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.202
 # Release: 202
-# Entries: 150,072
-# Updated: Sat, 20 Jul 24 14:07:52 +06
+# Entries: 150,076
+# Updated: Sat, 20 Jul 24 16:23:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10768,6 +10768,7 @@
 0.0.0.0 asnoibator.com
 0.0.0.0 asnortsalol.website
 0.0.0.0 asnothycan.info
+0.0.0.0 asnothycantyou.info
 0.0.0.0 asoawhum.com
 0.0.0.0 asociacefinancnihoplanovani.com
 0.0.0.0 asociacionlaclaqueta.com
@@ -92116,6 +92117,7 @@
 0.0.0.0 qe0ckm024b.com
 0.0.0.0 qeabgjdgobjnq.xyz
 0.0.0.0 qebcpyfb.com
+0.0.0.0 qebpwkxjz.com
 0.0.0.0 qebuoxn.com
 0.0.0.0 qedeczzdt.com
 0.0.0.0 qedjnmpmdnqsya.com
@@ -122654,6 +122656,7 @@
 0.0.0.0 vmetiqduk.xyz
 0.0.0.0 vmgbhecstignrw.com
 0.0.0.0 vmgbimwjytgcy.com
+0.0.0.0 vmhcvgnwfbu.com
 0.0.0.0 vmhnatkfge.com
 0.0.0.0 vmhzvqzx.com
 0.0.0.0 vmiplan.com
@@ -149096,6 +149099,7 @@
 0.0.0.0 zemteksu.xyz
 0.0.0.0 zemwa.com
 0.0.0.0 zemydreamsa.info
+0.0.0.0 zemydreamsauk.com
 0.0.0.0 zemywwm.com
 0.0.0.0 zen-conferencing.com
 0.0.0.0 zen-conferencing.net
