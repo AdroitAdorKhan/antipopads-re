@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.202
 # Release: 202
-# Entries: 150,076
-# Updated: Sat, 20 Jul 24 16:23:24 +06
+# Entries: 150,078
+# Updated: Sat, 20 Jul 24 18:08:10 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -75784,6 +75784,7 @@
 0.0.0.0 mzunuvof.com
 0.0.0.0 mzurugaf.com
 0.0.0.0 mzuspejtuodc.com
+0.0.0.0 mzw00.com
 0.0.0.0 mzwblatzoz.com
 0.0.0.0 mzxfrok.com
 0.0.0.0 mzxkxzlfbw.com
@@ -138062,6 +138063,7 @@
 0.0.0.0 www.mzfinancesurvey.top
 0.0.0.0 www.mzfinsurvey.top
 0.0.0.0 www.mzgoodsurvey.top
+0.0.0.0 www.mzw00.com
 0.0.0.0 www.mzyoutube.com
 0.0.0.0 www.n3543eer.com
 0.0.0.0 www.nabbaseballsling.com
