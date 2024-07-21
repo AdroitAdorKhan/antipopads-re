@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.203
 # Release: 203
-# Entries: 150,136
-# Updated: Sun, 21 Jul 24 06:07:53 +06
+# Entries: 150,138
+# Updated: Sun, 21 Jul 24 08:23:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28256,6 +28256,7 @@
 0.0.0.0 cxeiymnwjyyi.xyz
 0.0.0.0 cxfhfgjeanicw.com
 0.0.0.0 cxfrmhsj.com
+0.0.0.0 cxgjmpwkusietr.xyz
 0.0.0.0 cxglkwdchsmalvl.com
 0.0.0.0 cxgneqyaox.com
 0.0.0.0 cxgnymgd.xyz
@@ -135944,6 +135945,7 @@
 0.0.0.0 www.insurewaltz.com
 0.0.0.0 www.insurrection-llc.com
 0.0.0.0 www.intactscattered.com
+0.0.0.0 www.intcnx.net
 0.0.0.0 www.integertenantcontinue.com
 0.0.0.0 www.integraemea.com
 0.0.0.0 www.integralpickleatrocious.com
