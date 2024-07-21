@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.203
 # Release: 203
-# Entries: 150,192
-# Updated: Sun, 21 Jul 24 12:07:58 +06
+# Entries: 150,193
+# Updated: Sun, 21 Jul 24 14:07:52 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -109086,6 +109086,7 @@
 0.0.0.0 sustainspleengunpowder.com
 0.0.0.0 sustainstores.website
 0.0.0.0 sustainsuspenseorchestra.com
+0.0.0.0 sustanon-250.net
 0.0.0.0 sustrik.ninja
 0.0.0.0 suswasthyaandrairishi.com
 0.0.0.0 sutaiocuppas.com
