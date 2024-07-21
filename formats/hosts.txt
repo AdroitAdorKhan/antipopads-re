@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.07.203
-# Release: 203
-# Entries: 150,217
-# Updated: Sun, 21 Jul 24 22:07:57 +06
+# Version: 24.07.204
+# Release: 204
+# Entries: 150,221
+# Updated: Mon, 22 Jul 24 00:24:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -17487,6 +17487,7 @@
 0.0.0.0 boostknifehumidity.com
 0.0.0.0 boostlab.online
 0.0.0.0 boostonig.com
+0.0.0.0 boostyourbrain.online
 0.0.0.0 boostyourecom.store
 0.0.0.0 boostyourlinkedinprofile.com
 0.0.0.0 bootdescendant.com
@@ -21444,6 +21445,7 @@
 0.0.0.0 cdnjs-bnn.com
 0.0.0.0 cdnjs-gst.com
 0.0.0.0 cdnjs-mht.com
+0.0.0.0 cdnkcloud.com
 0.0.0.0 cdnondemand.org
 0.0.0.0 cdnpsh.com
 0.0.0.0 cdnquality.com
@@ -21948,6 +21950,7 @@
 0.0.0.0 cfikgqraxgznj.com
 0.0.0.0 cfisolutions.ca
 0.0.0.0 cfivfadtlr.com
+0.0.0.0 cfjcjwmbumi.com
 0.0.0.0 cfkerfnqetmbek.com
 0.0.0.0 cflmdoigokoeld.com
 0.0.0.0 cfoondlkjlox.com
@@ -57924,6 +57927,7 @@
 0.0.0.0 isklad.online
 0.0.0.0 iskrovaskuska.com
 0.0.0.0 iskvape.co.uk
+0.0.0.0 iskwqyqdorr.com
 0.0.0.0 isladelpadrenorte.com
 0.0.0.0 islamicfreedom.net
 0.0.0.0 islamicguide.uk
