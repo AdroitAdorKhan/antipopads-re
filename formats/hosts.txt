@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.205
 # Release: 205
-# Entries: 150,348
-# Updated: Tue, 23 Jul 24 02:08:21 +06
+# Entries: 150,350
+# Updated: Tue, 23 Jul 24 04:07:57 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -43233,6 +43233,7 @@
 0.0.0.0 fossilconstantly.com
 0.0.0.0 fossilreservoirincorrect.com
 0.0.0.0 fossorplumper.com
+0.0.0.0 fossoulexoon.net
 0.0.0.0 fostercarenc.net
 0.0.0.0 fosterchildpublicitytower.com
 0.0.0.0 fosterchildwarehouse.com
@@ -147876,6 +147877,7 @@
 0.0.0.0 ykmvnhue.com
 0.0.0.0 ykopnlrbb.com
 0.0.0.0 ykpebdshcqefqm.com
+0.0.0.0 ykpkuomyodckyc.com
 0.0.0.0 ykpllarvxijhox.com
 0.0.0.0 ykppmiof.com
 0.0.0.0 ykqalsm.com
