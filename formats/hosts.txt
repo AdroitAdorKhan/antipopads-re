@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.204
 # Release: 204
-# Entries: 150,310
-# Updated: Mon, 22 Jul 24 12:07:40 +06
+# Entries: 150,314
+# Updated: Mon, 22 Jul 24 14:07:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -85163,6 +85163,7 @@
 0.0.0.0 pazashevy.com
 0.0.0.0 pazdra-blogparts.net
 0.0.0.0 pazenie.com
+0.0.0.0 pazif.net
 0.0.0.0 pazzfun.com
 0.0.0.0 pb.faithedzones.com
 0.0.0.0 pb.indiumgoutier.com
@@ -92162,6 +92163,7 @@
 0.0.0.0 qbartcqptrl.com
 0.0.0.0 qbcpicrtdje.com
 0.0.0.0 qbcwhruvvfggjl.com
+0.0.0.0 qbd20.site
 0.0.0.0 qbdlxaqgcp.com
 0.0.0.0 qbeoyasaiz.com
 0.0.0.0 qbevahauvt.xyz
@@ -116928,6 +116930,7 @@
 0.0.0.0 tsyfnhd.com
 0.0.0.0 tsyndicate.com
 0.0.0.0 tsyucjwlxkgpyu.com
+0.0.0.0 tszjjfjbixavuj.com
 0.0.0.0 tszuhznuteoxkx.com
 0.0.0.0 tt.canteentangka.com
 0.0.0.0 tt.commonsbutyr.com
@@ -139257,6 +139260,7 @@
 0.0.0.0 www.paymistrustflake.com
 0.0.0.0 www.paymybills.app
 0.0.0.0 www.paysqueak.com
+0.0.0.0 www.pazif.net
 0.0.0.0 www.pb2b2.com
 0.0.0.0 www.pbterra.com
 0.0.0.0 www.pbtl.com
