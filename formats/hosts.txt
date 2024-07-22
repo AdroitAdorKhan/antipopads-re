@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.07.204
-# Release: 204
-# Entries: 150,335
-# Updated: Mon, 22 Jul 24 22:08:08 +06
+# Version: 24.07.205
+# Release: 205
+# Entries: 150,337
+# Updated: Tue, 23 Jul 24 00:25:10 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -106148,6 +106148,7 @@
 0.0.0.0 spinflygolf.com
 0.0.0.0 spinit24.com
 0.0.0.0 spinn.study
+0.0.0.0 spinney.dev
 0.0.0.0 spinnyrestaurant.it
 0.0.0.0 spinoso.ca
 0.0.0.0 spinraised.com
@@ -142227,6 +142228,7 @@
 0.0.0.0 www.spinalobtrusivekangaroo.com
 0.0.0.0 www.spinbiased.com
 0.0.0.0 www.spineanaemia.com
+0.0.0.0 www.spinney.dev
 0.0.0.0 www.spinnyrestaurant.it
 0.0.0.0 www.spinraised.com
 0.0.0.0 www.spinsaxes.xyz

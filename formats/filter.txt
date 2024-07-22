@@ -17,11 +17,11 @@
 ! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT
 ! Format: abp
-! Version: 24.07.204
-! Release: 204
+! Version: 24.07.205
+! Release: 205
 ! Expires: 1 day
-! Entries: 150,335
-! Updated: Mon, 22 Jul 24 22:08:08 +06
+! Entries: 150,337
+! Updated: Tue, 23 Jul 24 00:25:10 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -106149,6 +106149,7 @@
 ||spinflygolf.com^
 ||spinit24.com^
 ||spinn.study^
+||spinney.dev^
 ||spinnyrestaurant.it^
 ||spinoso.ca^
 ||spinraised.com^
@@ -142228,6 +142229,7 @@
 ||www.spinalobtrusivekangaroo.com^
 ||www.spinbiased.com^
 ||www.spineanaemia.com^
+||www.spinney.dev^
 ||www.spinnyrestaurant.it^
 ||www.spinraised.com^
 ||www.spinsaxes.xyz^
