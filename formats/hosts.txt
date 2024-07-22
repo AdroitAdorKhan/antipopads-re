@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.204
 # Release: 204
-# Entries: 150,321
-# Updated: Mon, 22 Jul 24 16:25:52 +06
+# Entries: 150,322
+# Updated: Mon, 22 Jul 24 18:08:35 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -73098,6 +73098,7 @@
 0.0.0.0 mjvnpybcakx.com
 0.0.0.0 mjwooqogsds.com
 0.0.0.0 mjxexuwnx.com
+0.0.0.0 mjxswkqmzv.com
 0.0.0.0 mjxvufetukfrav.com
 0.0.0.0 mjyhgt.xyz
 0.0.0.0 mjylidoj.com
