@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.205
 # Release: 205
-# Entries: 150,356
-# Updated: Tue, 23 Jul 24 08:26:02 +06
+# Entries: 150,363
+# Updated: Tue, 23 Jul 24 10:07:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -9428,6 +9428,7 @@
 0.0.0.0 appcdn01.xyz
 0.0.0.0 appcdn02.xyz
 0.0.0.0 appcdn03.xyz
+0.0.0.0 appchallenge-singaporeair.com
 0.0.0.0 appcloudactive.com
 0.0.0.0 appcloudcore.com
 0.0.0.0 appcloudgroup.com
@@ -29182,6 +29183,7 @@
 0.0.0.0 datariders.pro
 0.0.0.0 datascienceinitiative.eu
 0.0.0.0 datasity.net
+0.0.0.0 datasity.online
 0.0.0.0 datatechdrift.com
 0.0.0.0 datatechone.com
 0.0.0.0 datatechonert.com
@@ -36214,6 +36216,7 @@
 0.0.0.0 ek.untonedrisus.com
 0.0.0.0 ek.vetuststeek.com
 0.0.0.0 ekaayaconceretesolutions.com
+0.0.0.0 ekagdhqnkctno.com
 0.0.0.0 ekahoot.com
 0.0.0.0 ekaitechnolabs.com
 0.0.0.0 ekalbmarketing.com
@@ -56442,6 +56445,7 @@
 0.0.0.0 inforural.com
 0.0.0.0 infosala.online
 0.0.0.0 infosports.site
+0.0.0.0 infoteldistributors.com
 0.0.0.0 infotiny.com
 0.0.0.0 infotrum.net
 0.0.0.0 infoviewpoint.online
@@ -56764,6 +56768,7 @@
 0.0.0.0 insanitynapoleon.com
 0.0.0.0 insanitynominate.com
 0.0.0.0 insanityquietlyviolent.com
+0.0.0.0 insar.space
 0.0.0.0 inscribereclaim.com
 0.0.0.0 inscriptionafford.com
 0.0.0.0 inscriptionbastard.com
@@ -101001,6 +101006,7 @@
 0.0.0.0 sefsdvc.com
 0.0.0.0 sefuge.com
 0.0.0.0 sefulheadde.info
+0.0.0.0 sefwkmtgtwjcg.com
 0.0.0.0 sefytiavhavrds.com
 0.0.0.0 segay.link
 0.0.0.0 seggarsusa.guru
@@ -149872,6 +149878,7 @@
 0.0.0.0 zniev.online
 0.0.0.0 zniqgergvpk.com
 0.0.0.0 znjibbkb.com
+0.0.0.0 znmmairre.com
 0.0.0.0 znnhmzumod.com
 0.0.0.0 znojmo.wine
 0.0.0.0 znpxlhrsuvtio.com
