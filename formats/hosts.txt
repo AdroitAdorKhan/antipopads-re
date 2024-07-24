@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.206
 # Release: 206
-# Entries: 150,557
-# Updated: Wed, 24 Jul 24 18:07:48 +06
+# Entries: 150,564
+# Updated: Wed, 24 Jul 24 20:08:01 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -21078,6 +21078,7 @@
 0.0.0.0 catba.news
 0.0.0.0 catba.space
 0.0.0.0 catba.website
+0.0.0.0 catbakoeu.com
 0.0.0.0 catbananabed.com
 0.0.0.0 catchhim.online
 0.0.0.0 catchingfreakish.com
@@ -55386,6 +55387,7 @@
 0.0.0.0 il-12.com
 0.0.0.0 il.beclosecods.com
 0.0.0.0 ilahfsac.com
+0.0.0.0 ilajaing.com
 0.0.0.0 ilamlwfupv.com
 0.0.0.0 ilanton.co.uk
 0.0.0.0 ilaterdeallyi.info
@@ -62094,6 +62096,7 @@
 0.0.0.0 kbvus.yt
 0.0.0.0 kbvvdzyaqo.com
 0.0.0.0 kbwgcxmea.com
+0.0.0.0 kbxlvmmobt.com
 0.0.0.0 kbyemftfpnwuost.com
 0.0.0.0 kbyjxhnweoi.com
 0.0.0.0 kbzonline.net
@@ -93490,6 +93493,7 @@
 0.0.0.0 qwshopee.com
 0.0.0.0 qwsua.yt
 0.0.0.0 qwvdickrdrjk.top
+0.0.0.0 qwvujpujyrvwmxy.xyz
 0.0.0.0 qwwknhxetgpmp.com
 0.0.0.0 qwxhgopnnujpk.xyz
 0.0.0.0 qwxsoonyercgg.com
@@ -107189,6 +107193,7 @@
 0.0.0.0 stargate15.net
 0.0.0.0 stargazeroverland.com
 0.0.0.0 stargen.ac.in
+0.0.0.0 starinnllc.xyz
 0.0.0.0 stark.codes
 0.0.0.0 starkconsult.us
 0.0.0.0 starkhelperidentifier.com
@@ -137610,6 +137615,7 @@
 0.0.0.0 www.luckymonsieur.com
 0.0.0.0 www.lucrativeemotionallypromised.com
 0.0.0.0 www.lucyvaskas.com
+0.0.0.0 www.ludistratege.net
 0.0.0.0 www.luditelife.com
 0.0.0.0 www.ludo2way.com
 0.0.0.0 www.luggageflinchdew.com
@@ -148916,6 +148922,7 @@
 0.0.0.0 yunmaue.com
 0.0.0.0 yunrong360.com
 0.0.0.0 yunshipei.com
+0.0.0.0 yuntodifrz.com
 0.0.0.0 yunvx.fun
 0.0.0.0 yuoawgfkq.com
 0.0.0.0 yupfiles.net
