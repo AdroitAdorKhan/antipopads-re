@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.206
 # Release: 206
-# Entries: 150,492
-# Updated: Wed, 24 Jul 24 08:23:24 +06
+# Entries: 150,495
+# Updated: Wed, 24 Jul 24 10:07:53 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -96619,6 +96619,7 @@
 0.0.0.0 rgwktvyqomdq.com
 0.0.0.0 rgxcuqlv.com
 0.0.0.0 rgysvtuolbeyub.com
+0.0.0.0 rgzfscrirzgk.com
 0.0.0.0 rh.mochasevitate.com
 0.0.0.0 rh.quartesflandan.com
 0.0.0.0 rh.turtanonlay.com
@@ -101722,6 +101723,7 @@
 0.0.0.0 serresnews.net
 0.0.0.0 sertfouder.com
 0.0.0.0 seruj.top
+0.0.0.0 serum-code.com
 0.0.0.0 serumalkillow.com
 0.0.0.0 serumbosses.com
 0.0.0.0 serumlisp.com
@@ -123205,6 +123207,7 @@
 0.0.0.0 vokaunget.xyz
 0.0.0.0 vokhnavsky.art
 0.0.0.0 vokjslngw.xyz
+0.0.0.0 voklciqcd.com
 0.0.0.0 vokrjmishvy.com
 0.0.0.0 vokut.com
 0.0.0.0 vokzal.org
