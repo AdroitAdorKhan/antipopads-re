@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.208
 # Release: 208
-# Entries: 150,910
-# Updated: Fri, 26 Jul 24 16:24:38 +06
+# Entries: 150,916
+# Updated: Fri, 26 Jul 24 18:07:52 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -5229,6 +5229,7 @@
 0.0.0.0 adserved.net
 0.0.0.0 adserverplus.com
 0.0.0.0 adserverpub.com
+0.0.0.0 adservf.com
 0.0.0.0 adservi.com
 0.0.0.0 adservicemedia.dk
 0.0.0.0 adsessionserv.com
@@ -16909,6 +16910,7 @@
 0.0.0.0 blunderadventurouscompound.com
 0.0.0.0 blunderfluffy.com
 0.0.0.0 blundstoneschweiz.org
+0.0.0.0 blunicineslituples.com
 0.0.0.0 blunksdaler.uno
 0.0.0.0 bluntabsolutionoblique.com
 0.0.0.0 bluntmonster.com
@@ -92907,6 +92909,7 @@
 0.0.0.0 qkhrhikthvitnag.com
 0.0.0.0 qkhtbpeorl.com
 0.0.0.0 qkhvongctffugm.com
+0.0.0.0 qkiflejrtpzyuq.com
 0.0.0.0 qkiljxvihu.com
 0.0.0.0 qkioaxpvoabesm.com
 0.0.0.0 qkjjuhs.com
@@ -100403,6 +100406,7 @@
 0.0.0.0 sberbank.avito.www.pay.pay.sberbank.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.sberbank.sberbank.sberbank.sber.edb9389f2aa25ld7b0d5c4dl70fccabl50d3450eafed94c5dllcef9d.a3ae95899.2573f5f6.dns.baidentrue.com
 0.0.0.0 sberbankszemelyikolcson.sbs
 0.0.0.0 sbfsdvc.com
+0.0.0.0 sbftkrcgnidq.com
 0.0.0.0 sbgmx.com
 0.0.0.0 sbgqdyrohtatd.com
 0.0.0.0 sbhisvision.org
@@ -123936,6 +123940,7 @@
 0.0.0.0 vsavmrmqp.xyz
 0.0.0.0 vsbfqyxiu.com
 0.0.0.0 vscbhmrxbu.com
+0.0.0.0 vscehskhpysojq.com
 0.0.0.0 vscfbcovhctu.com
 0.0.0.0 vsciovdhwhboamy.xyz
 0.0.0.0 vscloiemq.com
@@ -125150,6 +125155,7 @@
 0.0.0.0 wclasswatch.com
 0.0.0.0 wclwtcyhj.xyz
 0.0.0.0 wcm.pl
+0.0.0.0 wcmadoxuu.com
 0.0.0.0 wcmcs.net
 0.0.0.0 wcnbtqarduxxoqo.com
 0.0.0.0 wcnhhqqueu.com
