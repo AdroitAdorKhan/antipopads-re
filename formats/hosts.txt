@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.07.210
-# Release: 210
-# Entries: 151,291
-# Updated: Sun, 28 Jul 24 22:08:01 +06
+# Version: 24.07.211
+# Release: 211
+# Entries: 151,314
+# Updated: Mon, 29 Jul 24 00:21:09 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2181,6 +2181,7 @@
 0.0.0.0 59921888.com
 0.0.0.0 59cn7.com
 0.0.0.0 59e6ea7248001c.com
+0.0.0.0 59nas.com
 0.0.0.0 5a8p12.cn
 0.0.0.0 5advertise.com
 0.0.0.0 5ahsjdasd55.monster
@@ -2222,6 +2223,7 @@
 0.0.0.0 5info.in.net
 0.0.0.0 5iswy5qjmp31p.ru
 0.0.0.0 5ive9ines.org
+0.0.0.0 5ive9inesnas.org
 0.0.0.0 5jahbdax5.monster
 0.0.0.0 5jahbsjdasd15.monster
 0.0.0.0 5javgdhasd5.monster
@@ -10629,6 +10631,7 @@
 0.0.0.0 asdguswfys.com
 0.0.0.0 asdhiwqphtr.com
 0.0.0.0 asdjhg.us
+0.0.0.0 asdkfefanvt.com
 0.0.0.0 asdpnu.com
 0.0.0.0 asdpoi.com
 0.0.0.0 asdqslnqmwwkc.com
@@ -14980,6 +14983,7 @@
 0.0.0.0 best-servers.xyz
 0.0.0.0 best-sexy-dreams.life
 0.0.0.0 best-trade-system.net
+0.0.0.0 best-video-app.com
 0.0.0.0 best-vpn-app.com
 0.0.0.0 best-vpnservice.com
 0.0.0.0 best-zb.com
@@ -27948,6 +27952,7 @@
 0.0.0.0 ctrowbkp.com
 0.0.0.0 ctrtrk.com
 0.0.0.0 ctsdwm.com
+0.0.0.0 ctshosted.com
 0.0.0.0 ctsjackupspete.com
 0.0.0.0 ctsnyyvujdg.com
 0.0.0.0 cttdriver.ca
@@ -31587,6 +31592,7 @@
 0.0.0.0 digikomori.email
 0.0.0.0 digilabseo.com
 0.0.0.0 digiloka.in
+0.0.0.0 digilur.info
 0.0.0.0 digily.in
 0.0.0.0 digimakes.com
 0.0.0.0 digimei.tech
@@ -51818,6 +51824,7 @@
 0.0.0.0 hetcash.xml-v4.ak-is2.net
 0.0.0.0 hethis.com
 0.0.0.0 hethisisath.xyz
+0.0.0.0 hetnu.com
 0.0.0.0 hetpostkantoor.store
 0.0.0.0 hetsclaxqke.com
 0.0.0.0 hetsouds.net
@@ -53146,6 +53153,7 @@
 0.0.0.0 hoopplondon.com
 0.0.0.0 hoopplondon.org.uk
 0.0.0.0 hoopplondon.uk
+0.0.0.0 hooppresearch.com
 0.0.0.0 hooppthames.co.uk
 0.0.0.0 hooppthames.com
 0.0.0.0 hooppthames.org.uk
@@ -66932,6 +66940,7 @@
 0.0.0.0 lifesciencesbysquareone.com
 0.0.0.0 lifesoonersoar.org
 0.0.0.0 lifespanseniorswellness.com
+0.0.0.0 lifespires.com
 0.0.0.0 lifestyle-celebrity-blog.com
 0.0.0.0 lifestyle-changes-blog.com
 0.0.0.0 lifestyle-directory.com
@@ -93420,6 +93429,7 @@
 0.0.0.0 qqmhh.com
 0.0.0.0 qqmqpiot.com
 0.0.0.0 qqohtssdp.com
+0.0.0.0 qqoomtwod.com
 0.0.0.0 qqq355.com
 0.0.0.0 qqqqbdma.com
 0.0.0.0 qqqwes.com
@@ -100283,6 +100293,7 @@
 0.0.0.0 sanjivinisociety.in
 0.0.0.0 sanjoni.in
 0.0.0.0 sanjoyaich.com
+0.0.0.0 sanjskatehnologija.pro
 0.0.0.0 sanjskivrt.com
 0.0.0.0 sankalpeye.org
 0.0.0.0 sankalplive.in.net
@@ -100955,6 +100966,8 @@
 0.0.0.0 schoonnonform.com
 0.0.0.0 schooter.live
 0.0.0.0 schqydstxtsi.com
+0.0.0.0 schroederambulatorycentre.com
+0.0.0.0 schroederambulatorycentre.org
 0.0.0.0 schtoffdracma.com
 0.0.0.0 schubel.ca
 0.0.0.0 schubertclassicmusic.com
@@ -108407,6 +108420,7 @@
 0.0.0.0 stonetechuk.com
 0.0.0.0 stonevada.co.uk
 0.0.0.0 stoneycreeknews.com
+0.0.0.0 stoneypoundfarm.com
 0.0.0.0 stoneyshorn.digital
 0.0.0.0 stongoapti.net
 0.0.0.0 stonkiestock.com
@@ -118030,6 +118044,7 @@
 0.0.0.0 tupuedes.app
 0.0.0.0 tupwiwm.com
 0.0.0.0 tupyhrany.com
+0.0.0.0 tuqgtpirrtuu.com
 0.0.0.0 tuquesrefuser.website
 0.0.0.0 tur-tur-key.com
 0.0.0.0 turavas.net
@@ -118041,6 +118056,7 @@
 0.0.0.0 turboadv.com
 0.0.0.0 turbocap.net
 0.0.0.0 turbodynamic.net
+0.0.0.0 turbolit.biz
 0.0.0.0 turboluck.net
 0.0.0.0 turbopizzasokolov.com
 0.0.0.0 turbopizzasokolov.net
@@ -122808,6 +122824,7 @@
 0.0.0.0 videoforvoiceovers.com
 0.0.0.0 videogifer.com
 0.0.0.0 videolingerie.com
+0.0.0.0 videolute.biz
 0.0.0.0 videomart.org
 0.0.0.0 videomediastudio.com
 0.0.0.0 videondt.com
@@ -124104,6 +124121,7 @@
 0.0.0.0 vparsduvenlkswd.xyz
 0.0.0.0 vpay.website
 0.0.0.0 vpbceulnfbx.com
+0.0.0.0 vpbgtgevmtblwwg.com
 0.0.0.0 vpbpb.com
 0.0.0.0 vpctijwecpjpq.xyz
 0.0.0.0 vpcuihcme.com
@@ -124917,6 +124935,7 @@
 0.0.0.0 walkinggruff.com
 0.0.0.0 walkinghonoured.com
 0.0.0.0 walkinglive.org
+0.0.0.0 walkingthe.earth
 0.0.0.0 walkingtours.uk
 0.0.0.0 walkingtowndc.com
 0.0.0.0 walkingtutor.com
@@ -125494,6 +125513,7 @@
 0.0.0.0 wcitianka.com
 0.0.0.0 wcjiaclw.com
 0.0.0.0 wcjlsohd.com
+0.0.0.0 wckxpdvnbrogyk.com
 0.0.0.0 wclasswatch.com
 0.0.0.0 wclwtcyhj.xyz
 0.0.0.0 wcm.pl
@@ -131963,6 +131983,7 @@
 0.0.0.0 www.chokeweaknessheat.com
 0.0.0.0 www.chooghoash.com
 0.0.0.0 www.choosecorrespondingallied.com
+0.0.0.0 www.chooseimmersed.com
 0.0.0.0 www.chordscootinsecure.com
 0.0.0.0 www.choregraceful.com
 0.0.0.0 www.choreinevitable.com
@@ -147542,6 +147563,7 @@
 0.0.0.0 xpktfrye.com
 0.0.0.0 xplay.tv
 0.0.0.0 xplgl.com
+0.0.0.0 xploffsite.com
 0.0.0.0 xplore.com
 0.0.0.0 xplore.place
 0.0.0.0 xpmedianetwork.com
@@ -149070,6 +149092,7 @@
 0.0.0.0 yonsandileer.com
 0.0.0.0 yonxatuor.com
 0.0.0.0 yoobidooby.com
+0.0.0.0 yooflafa.com
 0.0.0.0 yookimooki.com
 0.0.0.0 yoomanies.com
 0.0.0.0 yooncsdaxrxosu.com
