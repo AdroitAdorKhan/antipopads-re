@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.211
 # Release: 211
-# Entries: 151,325
-# Updated: Mon, 29 Jul 24 04:08:23 +06
+# Entries: 151,332
+# Updated: Mon, 29 Jul 24 06:09:43 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29734,6 +29734,7 @@
 0.0.0.0 ddkoverseas.com
 0.0.0.0 ddksdjybngdfqe.com
 0.0.0.0 ddlesswale.co
+0.0.0.0 ddlspace.info
 0.0.0.0 ddnmzrpp.com
 0.0.0.0 ddnnxx.com
 0.0.0.0 ddns.wtf
@@ -53751,6 +53752,7 @@
 0.0.0.0 hqcxypexsiu.xyz
 0.0.0.0 hqdrrqjgwdhxpu.com
 0.0.0.0 hqduejsycx.com
+0.0.0.0 hqeduzuduvk.com
 0.0.0.0 hqemailverifier.net
 0.0.0.0 hqfmcitfemuuhl.com
 0.0.0.0 hqfnlejmegtfx.com
@@ -62855,6 +62857,7 @@
 0.0.0.0 kfnobisd.xyz
 0.0.0.0 kfpodnaw.com
 0.0.0.0 kfri.in
+0.0.0.0 kfsdsuxl.com
 0.0.0.0 kfsfvqjzq.com
 0.0.0.0 kfuwkmsbwtve.com
 0.0.0.0 kfxbxfvlepv.xyz
@@ -64488,6 +64491,7 @@
 0.0.0.0 ktuqe-us-ps.net
 0.0.0.0 kturvpknttmhx.xyz
 0.0.0.0 ktvfhvdlh.top
+0.0.0.0 ktwdbwepr.com
 0.0.0.0 ktwsegtwfcu.com
 0.0.0.0 ktwzvq.com
 0.0.0.0 ktxolchycxbyp.com
@@ -117923,6 +117927,7 @@
 0.0.0.0 tudoms.com
 0.0.0.0 tudosobredachshund.com
 0.0.0.0 tudou369.com
+0.0.0.0 tudsoytsexz.com
 0.0.0.0 tudungaruda.com
 0.0.0.0 tudy.info
 0.0.0.0 tuelhbzpzimogh.com
@@ -122457,6 +122462,7 @@
 0.0.0.0 vesofefinego.info
 0.0.0.0 vesper5ervices.com
 0.0.0.0 vesper5ervices.net
+0.0.0.0 vesper5ervices.org
 0.0.0.0 vesperanalytics.com
 0.0.0.0 vesperautomotive.com
 0.0.0.0 vesperinsurance.com
@@ -122470,6 +122476,7 @@
 0.0.0.0 vesperservices.com
 0.0.0.0 vesperservices.net
 0.0.0.0 vesperservices.org
+0.0.0.0 vesperservlces.com
 0.0.0.0 vesperservlces.org
 0.0.0.0 vespymedia.com
 0.0.0.0 vesqerservices.net
