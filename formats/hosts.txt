@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.212
 # Release: 212
-# Entries: 151,509
-# Updated: Tue, 30 Jul 24 02:09:49 +06
+# Entries: 151,512
+# Updated: Tue, 30 Jul 24 04:08:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -66317,6 +66317,7 @@
 0.0.0.0 leglengthreflex.com
 0.0.0.0 legmcwfok.com
 0.0.0.0 legnaush.com
+0.0.0.0 legnpmwfgojlao.com
 0.0.0.0 legoinstructions.com
 0.0.0.0 legoinvest.com
 0.0.0.0 legoparts.shop
@@ -69180,6 +69181,7 @@
 0.0.0.0 lumpyactive.com
 0.0.0.0 lumpylumber.com
 0.0.0.0 lumpyouter.com
+0.0.0.0 lumqpric.com
 0.0.0.0 lumturimaterials.com
 0.0.0.0 lumwvkxb.com
 0.0.0.0 lumxts.com
@@ -110796,6 +110798,7 @@
 0.0.0.0 szakmaikepzes.com
 0.0.0.0 szallasneked.com
 0.0.0.0 szallitmanyozas.net
+0.0.0.0 szankeguajrrf.com
 0.0.0.0 szaritsaniko-00234657-outlook-hotmail.click
 0.0.0.0 szaritsaniko-002537-outlook-hotmail.click
 0.0.0.0 szaritsaniko-00275689-megapenthes-oreithya-hotmail.online
