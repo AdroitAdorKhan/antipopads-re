@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.212
 # Release: 212
-# Entries: 151,512
-# Updated: Tue, 30 Jul 24 04:08:50 +06
+# Entries: 151,513
+# Updated: Tue, 30 Jul 24 06:09:54 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -80568,6 +80568,7 @@
 0.0.0.0 nyqpgzohhllvx.com
 0.0.0.0 nyqqxh.top
 0.0.0.0 nyquuggiovccesk.com
+0.0.0.0 nyqxrhlnh.com
 0.0.0.0 nyrex.tech
 0.0.0.0 nyrithenrebarro.info
 0.0.0.0 nyrsko.info
