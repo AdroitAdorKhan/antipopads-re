@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.212
 # Release: 212
-# Entries: 151,582
-# Updated: Tue, 30 Jul 24 12:07:59 +06
+# Entries: 151,585
+# Updated: Tue, 30 Jul 24 14:08:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -53619,6 +53619,7 @@
 0.0.0.0 hotnews1.me
 0.0.0.0 hotpics.mom
 0.0.0.0 hotplaystime.life
+0.0.0.0 hotpokieslist.com
 0.0.0.0 hotpot.menu
 0.0.0.0 hotprettyteen.pro
 0.0.0.0 hotratz.ca
@@ -81742,6 +81743,7 @@
 0.0.0.0 oi.porettginzo.com
 0.0.0.0 oiarske.com
 0.0.0.0 oiavdib.com
+0.0.0.0 oibaepdem.com
 0.0.0.0 oichuuwitvsdke.top
 0.0.0.0 oicr.foundation
 0.0.0.0 oicr.institute
@@ -102810,6 +102812,7 @@
 0.0.0.0 sf-soushu2021.com
 0.0.0.0 sf.outfishfumy.com
 0.0.0.0 sf.zestfulpize.com
+0.0.0.0 sf2.pw
 0.0.0.0 sfacnhfwc.xyz
 0.0.0.0 sfafabztidi.com
 0.0.0.0 sfagencyllc.com
