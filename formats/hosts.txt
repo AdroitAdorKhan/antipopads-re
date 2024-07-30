@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.212
 # Release: 212
-# Entries: 151,591
-# Updated: Tue, 30 Jul 24 16:30:19 +06
+# Entries: 151,594
+# Updated: Tue, 30 Jul 24 18:09:16 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -55993,6 +55993,7 @@
 0.0.0.0 imcuber.com
 0.0.0.0 imdn.pics
 0.0.0.0 imdriving.app
+0.0.0.0 imecyemqqkkvpy.com
 0.0.0.0 imedialy.com
 0.0.0.0 imei.help
 0.0.0.0 imemediates.org
@@ -101094,6 +101095,7 @@
 0.0.0.0 scg6666win.com
 0.0.0.0 scg9.online
 0.0.0.0 scgufsjv.com
+0.0.0.0 scgwwhbdh.com
 0.0.0.0 schackmail.com
 0.0.0.0 schaconferencecenter.com
 0.0.0.0 schaefer-sabitaetshaus.de
@@ -138916,6 +138918,7 @@
 0.0.0.0 www.mbtoutlet.us.com
 0.0.0.0 www.mbtsz.xyz
 0.0.0.0 www.mcafeecom.net
+0.0.0.0 www.mccaskill.net
 0.0.0.0 www.mciadjusters.com
 0.0.0.0 www.mckennaengineering.org
 0.0.0.0 www.mcknightrock.com
