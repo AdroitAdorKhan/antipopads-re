@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.212
 # Release: 212
-# Entries: 151,518
-# Updated: Tue, 30 Jul 24 08:23:59 +06
+# Entries: 151,527
+# Updated: Tue, 30 Jul 24 10:08:28 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12041,6 +12041,7 @@
 0.0.0.0 avazutracking.net
 0.0.0.0 avcffausmmtxhar.top
 0.0.0.0 avdb007.com
+0.0.0.0 avdb008.com
 0.0.0.0 avdcnvhpylwywn.com
 0.0.0.0 avdpmeated.uno
 0.0.0.0 avdscs.com
@@ -53900,6 +53901,7 @@
 0.0.0.0 hrivisdesign.com
 0.0.0.0 hrjobsalert.com
 0.0.0.0 hrkmyyqci.com
+0.0.0.0 hrljhkjbog.com
 0.0.0.0 hrmationeng.xyz
 0.0.0.0 hrmbagel.ca
 0.0.0.0 hrmbagel.com
@@ -62975,6 +62977,7 @@
 0.0.0.0 kguscywkimlkjm.com
 0.0.0.0 kgussjxttd.com
 0.0.0.0 kgwlfrdtf.com
+0.0.0.0 kgxdxhrkv.com
 0.0.0.0 kgxpbxhigq.com
 0.0.0.0 kgyhxdh.com
 0.0.0.0 kgystvhlyqxnnhg.com
@@ -69220,6 +69223,7 @@
 0.0.0.0 lupinelanding.com
 0.0.0.0 lupininulster.com
 0.0.0.0 lupintoto.org
+0.0.0.0 luptakovadesign.com
 0.0.0.0 lupus-nephritis-trials.com
 0.0.0.0 lupusnephritistrials.com
 0.0.0.0 lupvaqvfeka.com
@@ -85930,6 +85934,7 @@
 0.0.0.0 pbquhwsx.xyz
 0.0.0.0 pbsawkue.com
 0.0.0.0 pbservices.africa
+0.0.0.0 pbservis.online
 0.0.0.0 pbstytalvmbygpw.com
 0.0.0.0 pbterra.com
 0.0.0.0 pbtl.com
@@ -91811,6 +91816,7 @@
 0.0.0.0 psychicwishfulblab.com
 0.0.0.0 psychiczygaena.top
 0.0.0.0 psychoanalysis.net
+0.0.0.0 psychoiz.space
 0.0.0.0 psychologicalchristmasdistant.com
 0.0.0.0 psychologicalpaperworkimplant.com
 0.0.0.0 psychologicalpileopened.com
@@ -134339,6 +134345,7 @@
 0.0.0.0 www.emergentpm.com
 0.0.0.0 www.emergentpm.net
 0.0.0.0 www.emergentpm.org
+0.0.0.0 www.emergentpraxis.io
 0.0.0.0 www.emg-network.com
 0.0.0.0 www.emigrantbloke.com
 0.0.0.0 www.emigrantblunder.com
@@ -139126,6 +139133,7 @@
 0.0.0.0 www.mmnag.com
 0.0.0.0 www.mmngqvbfuzenlk.com
 0.0.0.0 www.mmpcqstnkcelx.com
+0.0.0.0 www.mmwllp.ca
 0.0.0.0 www.mnagadex.org
 0.0.0.0 www.mndd1.app
 0.0.0.0 www.mndd4.app
@@ -151186,6 +151194,7 @@
 0.0.0.0 zouzougri.net
 0.0.0.0 zovidree.com
 0.0.0.0 zowatches.ru
+0.0.0.0 zowvausop.com
 0.0.0.0 zoxford.com
 0.0.0.0 zoxkljeicxi.com
 0.0.0.0 zoyanagarwal.com
