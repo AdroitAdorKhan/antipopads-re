@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.07.213
 # Release: 213
-# Entries: 151,655
-# Updated: Wed, 31 Jul 24 06:09:06 +06
+# Entries: 151,662
+# Updated: Wed, 31 Jul 24 08:24:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29801,6 +29801,7 @@
 0.0.0.0 ddlspace.info
 0.0.0.0 ddnmzrpp.com
 0.0.0.0 ddnnxx.com
+0.0.0.0 ddnrgmdu.com
 0.0.0.0 ddns.wtf
 0.0.0.0 ddnudncag.com
 0.0.0.0 ddoo11.com
@@ -46751,6 +46752,7 @@
 0.0.0.0 gijxsthpuqdwcn.com
 0.0.0.0 gikefa.uno
 0.0.0.0 gilarditus.com
+0.0.0.0 gilaycxxzgmd.com
 0.0.0.0 gilbanegroup.com
 0.0.0.0 gilbanereport.com
 0.0.0.0 gilbertpump.net
@@ -104611,6 +104613,7 @@
 0.0.0.0 sizeilksohs.com
 0.0.0.0 sizini.net
 0.0.0.0 sizkta.net
+0.0.0.0 sizp.online
 0.0.0.0 sizqaxmiqa.com
 0.0.0.0 sizusa.com
 0.0.0.0 sizyreelingly.com
@@ -125526,6 +125529,7 @@
 0.0.0.0 watchakc.tv
 0.0.0.0 watchandadmire.com
 0.0.0.0 watchandclockschool.com
+0.0.0.0 watchanimation.online
 0.0.0.0 watchbuttonbatteries.com
 0.0.0.0 watchdirty.org
 0.0.0.0 watche.guru
@@ -147673,6 +147677,7 @@
 0.0.0.0 xn--actualit-litteraire-izb.com
 0.0.0.0 xn--aranyvek-f1a.com
 0.0.0.0 xn--asicsjuoksukengt-9nb.com
+0.0.0.0 xn--at-8h4avgybo2j.jp
 0.0.0.0 xn--aufklrungsstunde-znb.de
 0.0.0.0 xn--baidu-gm6h.com
 0.0.0.0 xn--bcsletfarm-ecb8e.com
@@ -149783,6 +149788,7 @@
 0.0.0.0 yr9n47004g.com
 0.0.0.0 yragcvgrtfsuafy.com
 0.0.0.0 yrcedupgqe.com
+0.0.0.0 yrclauflqfvma.com
 0.0.0.0 yrcotwykyrlln.xyz
 0.0.0.0 yrcpsfqoyi.com
 0.0.0.0 yrdesk.com
@@ -150300,6 +150306,7 @@
 0.0.0.0 zaicasoawoul.com
 0.0.0.0 zaid-khan.tech
 0.0.0.0 zaido.me
+0.0.0.0 zaigadgets.com
 0.0.0.0 zaigaphy.net
 0.0.0.0 zaihxti.com
 0.0.0.0 zaikasoatie.xyz
