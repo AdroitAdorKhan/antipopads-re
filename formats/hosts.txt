@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.07.213
-# Release: 213
-# Entries: 151,774
-# Updated: Wed, 31 Jul 24 22:08:36 +06
+# Version: 24.08.214
+# Release: 214
+# Entries: 151,790
+# Updated: Thu, 01 Aug 24 00:25:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2803,6 +2803,7 @@
 0.0.0.0 8088ky.app
 0.0.0.0 80am.tech
 0.0.0.0 80c7aeb9f3.106c6423c3.com
+0.0.0.0 80dadatu.com
 0.0.0.0 80zk.cn
 0.0.0.0 810999www.844644.com
 0.0.0.0 810f3cd649.c9072c600c.com
@@ -3334,6 +3335,7 @@
 0.0.0.0 9technology3vps3.es
 0.0.0.0 9tp9jd4p.de
 0.0.0.0 9tumza4dp4o9.com
+0.0.0.0 9uub3.com
 0.0.0.0 9v58v.com
 0.0.0.0 9x9kabwdawd.monster
 0.0.0.0 9xeqynu3gt7c.com
@@ -8094,6 +8096,8 @@
 0.0.0.0 ambientplatform.vn
 0.0.0.0 ambientrockutilities.com
 0.0.0.0 ambientsleepingpill.com
+0.0.0.0 ambientsoundexperience.com
+0.0.0.0 ambientsoundsexperience.com
 0.0.0.0 ambientspeckretiring.com
 0.0.0.0 ambiguityornamenttell.com
 0.0.0.0 ambiguitypalm.com
@@ -23274,6 +23278,7 @@
 0.0.0.0 christianpokerplayers.com
 0.0.0.0 christiansketches.com
 0.0.0.0 christinaderbyshire.au
+0.0.0.0 christinalakeinsurance.com
 0.0.0.0 christinepro.com
 0.0.0.0 christinerice.co.za
 0.0.0.0 christinetraynor.ca
@@ -33112,6 +33117,7 @@
 0.0.0.0 dogstarlab.co
 0.0.0.0 dogswithjoy.ca
 0.0.0.0 dogtrainingcurated.com
+0.0.0.0 dogumentaries.dog
 0.0.0.0 dogventure.fun
 0.0.0.0 dogwingswinter.com
 0.0.0.0 dogwoodjoshed.digital
@@ -45946,6 +45952,7 @@
 0.0.0.0 geekitsupport.net
 0.0.0.0 geekrockmusic.com
 0.0.0.0 geeksquadprotectionservices.com
+0.0.0.0 geekstitchcreations.com
 0.0.0.0 geeksundigne.com
 0.0.0.0 geekzlife.net
 0.0.0.0 geemail.ca
@@ -46070,6 +46077,7 @@
 0.0.0.0 generatorgenuinelyupcoming.com
 0.0.0.0 generatorqrcode.online
 0.0.0.0 generatuelectricidad.com
+0.0.0.0 genericall.com
 0.0.0.0 genericapiservices.in
 0.0.0.0 genericdavamart.com
 0.0.0.0 genericlink.com
@@ -46728,6 +46736,7 @@
 0.0.0.0 gifino.com
 0.0.0.0 gifjnpvxpueoyc.com
 0.0.0.0 gift-luxury.com
+0.0.0.0 giftaidea.com
 0.0.0.0 giftamera.com
 0.0.0.0 giftbag.online
 0.0.0.0 giftbagshop.online
@@ -61207,6 +61216,7 @@
 0.0.0.0 jpmldwvjqd.xyz
 0.0.0.0 jpolvepkesgyo.com
 0.0.0.0 jppaolnnfxhdbkw.com
+0.0.0.0 jppjcpa.com
 0.0.0.0 jpplast.info
 0.0.0.0 jpppumvxc.com
 0.0.0.0 jppvgnbib.com
@@ -69950,6 +69960,7 @@
 0.0.0.0 madparts.org
 0.0.0.0 madramp.com
 0.0.0.0 madras-hs.com
+0.0.0.0 madrasakurundwad.org
 0.0.0.0 madrasbhavan.in
 0.0.0.0 madratesforall.com
 0.0.0.0 madridfusionmanila.com
@@ -103971,6 +103982,7 @@
 0.0.0.0 shusacem.net
 0.0.0.0 shushuist.com
 0.0.0.0 shuswaphomebuilder.com
+0.0.0.0 shuswaplakeinsurance.com
 0.0.0.0 shuswapwitness.store
 0.0.0.0 shutdownpious.com
 0.0.0.0 shutesaroph.com
@@ -109904,6 +109916,7 @@
 0.0.0.0 superfurrycdn.nl
 0.0.0.0 supergalcias.com
 0.0.0.0 supergiftidea.com
+0.0.0.0 supergluu.com
 0.0.0.0 superhawktransport.com
 0.0.0.0 superhawktransportation.com
 0.0.0.0 superheavy.app
@@ -131882,6 +131895,7 @@
 0.0.0.0 www.bushpoutquest.com
 0.0.0.0 www.business-leaders.com
 0.0.0.0 www.businessagencynetwork.com
+0.0.0.0 www.businessincorporation.ca
 0.0.0.0 www.businessmencrib.com
 0.0.0.0 www.businessmenmerchandise.com
 0.0.0.0 www.businessmensynonymmidwife.com
@@ -139134,6 +139148,7 @@
 0.0.0.0 www.medtestlabs.com
 0.0.0.0 www.medynsky.co.uk
 0.0.0.0 www.meemichob.com
+0.0.0.0 www.meet-with-huestis.com
 0.0.0.0 www.meet-with-western.com
 0.0.0.0 www.meetexhibitcautiously.com
 0.0.0.0 www.meetingcivilfilling.com
@@ -142776,6 +142791,7 @@
 0.0.0.0 www.scrap-store.com
 0.0.0.0 www.scraparts.net
 0.0.0.0 www.screechzoologicalform.com
+0.0.0.0 www.screwoffensivebanter.com
 0.0.0.0 www.scriptsfirework.com
 0.0.0.0 www.scriptvealpatronage.com
 0.0.0.0 www.scrollisolation.com
