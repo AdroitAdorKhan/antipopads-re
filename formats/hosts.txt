@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.214
 # Release: 214
-# Entries: 151,847
-# Updated: Thu, 01 Aug 24 10:09:00 +06
+# Entries: 151,895
+# Updated: Thu, 01 Aug 24 12:08:05 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8194,6 +8194,7 @@
 0.0.0.0 amesacejagger.space
 0.0.0.0 amesacewilga.store
 0.0.0.0 amesgraduatel.xyz
+0.0.0.0 amesters-sestest.com
 0.0.0.0 amethyst-pvp.net
 0.0.0.0 amethystauctions.com
 0.0.0.0 amewi.online
@@ -9035,6 +9036,7 @@
 0.0.0.0 antiquariangerm.com
 0.0.0.0 antiquarianjenny.com
 0.0.0.0 antique-stores.net
+0.0.0.0 antiquebg.net
 0.0.0.0 antiquelongcaseclocks.com
 0.0.0.0 antiqueminefield.com
 0.0.0.0 antiquespecialtyimpure.com
@@ -11963,6 +11965,7 @@
 0.0.0.0 autoservicelift.co.in
 0.0.0.0 autoserviskosice.tech
 0.0.0.0 autoskola1.com
+0.0.0.0 autoskolausti.com
 0.0.0.0 autosquirrel.com
 0.0.0.0 autostampede.in
 0.0.0.0 autostop.city
@@ -12126,6 +12129,7 @@
 0.0.0.0 aviddoated.com
 0.0.0.0 aviddrive.com
 0.0.0.0 avidemux.gratis
+0.0.0.0 avider-prestry.com
 0.0.0.0 avidheroismgelatine.com
 0.0.0.0 aviditytrading.com
 0.0.0.0 avidlengthenselfevident.com
@@ -13001,6 +13005,7 @@
 0.0.0.0 badhaiyan.com
 0.0.0.0 badhya.in
 0.0.0.0 badili.in
+0.0.0.0 badinfluencefx.com
 0.0.0.0 badjocks.com
 0.0.0.0 badjojo.xyz
 0.0.0.0 badkarmaboyshop.com
@@ -13970,6 +13975,7 @@
 0.0.0.0 bbccn.org
 0.0.0.0 bbccode.xyz
 0.0.0.0 bbccomments.com
+0.0.0.0 bbceh.com
 0.0.0.0 bbcinfidelity.com
 0.0.0.0 bbcrgate.com
 0.0.0.0 bbcxcmsrbf.com
@@ -14644,6 +14650,7 @@
 0.0.0.0 bekraft.com
 0.0.0.0 bekricketuneon.com
 0.0.0.0 bekumjtlh.top
+0.0.0.0 bekventrex.com
 0.0.0.0 bekvhjtut.com
 0.0.0.0 bel4dtoop.com
 0.0.0.0 belaematheus.com
@@ -16262,6 +16269,7 @@
 0.0.0.0 bitcoinmillionaireapp.info
 0.0.0.0 bitcoinovyportal.com
 0.0.0.0 bitcoins-code.com
+0.0.0.0 bitcoins-era.biz
 0.0.0.0 bitcoinsantander.com
 0.0.0.0 bitcoinselangor.com
 0.0.0.0 bitcoinshashes.xyz
@@ -27388,6 +27396,7 @@
 0.0.0.0 creativeformatsnetwork.com
 0.0.0.0 creativefurniturework.com
 0.0.0.0 creativeintech.com
+0.0.0.0 creativejob.net
 0.0.0.0 creativemeasuredoffend.com
 0.0.0.0 creativemisto.com
 0.0.0.0 creativemotion.app
@@ -29320,11 +29329,13 @@
 0.0.0.0 dark-reader.com
 0.0.0.0 dark-system.xyz
 0.0.0.0 dark-talks.xyz
+0.0.0.0 dark-work.xyz
 0.0.0.0 darkandlight.ru
 0.0.0.0 darkbytesecurity.com
 0.0.0.0 darkcake.in
 0.0.0.0 darkcarlson.com
 0.0.0.0 darkchameleon.com
+0.0.0.0 darkcvv-workshop.xyz
 0.0.0.0 darkdepthdriller.top
 0.0.0.0 darkercoincidentsword.com
 0.0.0.0 darkerillegimateillegimateshade.com
@@ -32719,6 +32730,7 @@
 0.0.0.0 dkesqebismkqec.com
 0.0.0.0 dkftgdjli.com
 0.0.0.0 dkgbbygxjmlnsxh.top
+0.0.0.0 dkgosaflbkabsg.com
 0.0.0.0 dkhpdslgjpnw.com
 0.0.0.0 dkhtbqql.com
 0.0.0.0 dkihlqwmd.com
@@ -40844,6 +40856,7 @@
 0.0.0.0 faveykad.xyz
 0.0.0.0 favikre.top
 0.0.0.0 favilu.it
+0.0.0.0 favisor-saining.com
 0.0.0.0 favofficial.com
 0.0.0.0 favorable-lady.pro
 0.0.0.0 favorable-sample.com
@@ -43543,6 +43556,7 @@
 0.0.0.0 forooqso.tv
 0.0.0.0 foroorso.com
 0.0.0.0 forparents.live
+0.0.0.0 forpiano.com
 0.0.0.0 forprimeapeon.com
 0.0.0.0 forrestspace.com
 0.0.0.0 forrsteel.com
@@ -50614,6 +50628,7 @@
 0.0.0.0 hankima.com
 0.0.0.0 hankliving.com
 0.0.0.0 hankrivuletperjury.com
+0.0.0.0 hankso.me
 0.0.0.0 hanksuggestquilt.com
 0.0.0.0 hanli.tv
 0.0.0.0 hannahcomputing.com
@@ -54260,6 +54275,7 @@
 0.0.0.0 huediscriminationyonder.com
 0.0.0.0 huefvywc.com
 0.0.0.0 huehinge.com
+0.0.0.0 hueshome.com
 0.0.0.0 hueton.net
 0.0.0.0 hufaztjist.com
 0.0.0.0 huffingontpost.com
@@ -56890,6 +56906,7 @@
 0.0.0.0 infinityllp.in
 0.0.0.0 infinitymachineries.com
 0.0.0.0 infinitymicrolab.com
+0.0.0.0 infinitynepremicnine.com
 0.0.0.0 infinitynews.tv
 0.0.0.0 infinityplusone.fyi
 0.0.0.0 infinitytrk.com
@@ -57404,6 +57421,7 @@
 0.0.0.0 inspirationhistorical.com
 0.0.0.0 inspirationinaction.us
 0.0.0.0 inspirationstarednope.com
+0.0.0.0 inspirationstherapeuticmassage.com
 0.0.0.0 inspirecarriermagnetic.com
 0.0.0.0 inspiredactionmethod.net
 0.0.0.0 inspiredsolutions.tech
@@ -58085,6 +58103,7 @@
 0.0.0.0 ioxffew.com
 0.0.0.0 ioyalxnxbwjs.com
 0.0.0.0 ioyboargtm.com
+0.0.0.0 iozeohajvsy.com
 0.0.0.0 ip-79-137-68.eu
 0.0.0.0 ip.kumma.com
 0.0.0.0 ip00am4sn.com
@@ -60865,6 +60884,7 @@
 0.0.0.0 johnmallpanthers.us
 0.0.0.0 johnnieaborigine.org
 0.0.0.0 johnnieaborigine.store
+0.0.0.0 johnniefreeman.com
 0.0.0.0 johnnyo2.com
 0.0.0.0 johnpride.us
 0.0.0.0 johnsco.ca
@@ -62451,6 +62471,7 @@
 0.0.0.0 kasyno-27.com
 0.0.0.0 kasyno-online-101.com
 0.0.0.0 kasyno-online.net
+0.0.0.0 kasynogo.net
 0.0.0.0 kasynoonline101.com
 0.0.0.0 katabaumgartner.com
 0.0.0.0 kataihajnalka.com
@@ -66219,6 +66240,7 @@
 0.0.0.0 leaptoffender.com
 0.0.0.0 leaptreplacement.com
 0.0.0.0 learn-hustlersuniversity.com
+0.0.0.0 learn2dance4fun.ca
 0.0.0.0 learnarid.com
 0.0.0.0 learnaxs.com
 0.0.0.0 learnbetterworkbetter.ca
@@ -66322,6 +66344,7 @@
 0.0.0.0 ledbolt.net
 0.0.0.0 leddicroica.com
 0.0.0.0 ledehulwbxvny.com
+0.0.0.0 ledfarmlamps.com
 0.0.0.0 ledgeadmitted.com
 0.0.0.0 ledger-connect.net
 0.0.0.0 ledger-live-connect.net
@@ -69813,6 +69836,7 @@
 0.0.0.0 ma3ryh8l6v.de
 0.0.0.0 maac-mcl.com
 0.0.0.0 maadixwqv.com
+0.0.0.0 maadwood.com
 0.0.0.0 maagayatrirealtech.com
 0.0.0.0 maaivkgdulv.com
 0.0.0.0 maalabaala.com
@@ -70114,6 +70138,7 @@
 0.0.0.0 magnounousa.com
 0.0.0.0 magnumhotel.am
 0.0.0.0 magnumjobs.com
+0.0.0.0 magnusonline.online
 0.0.0.0 magotschnell.uno
 0.0.0.0 magrurjo.com
 0.0.0.0 magsson.com
@@ -72694,6 +72719,7 @@
 0.0.0.0 metavertizer.com
 0.0.0.0 metavineproperties.com
 0.0.0.0 metawyrd.xyz
+0.0.0.0 metelkadominik.tech
 0.0.0.0 meteorclashbailey.com
 0.0.0.0 meteordentproposal.com
 0.0.0.0 meteorite-poo.com
@@ -73239,6 +73265,7 @@
 0.0.0.0 milanaboutique.tech
 0.0.0.0 milandobes.studio
 0.0.0.0 milangladis.com
+0.0.0.0 milanmaly.info
 0.0.0.0 milanocool.uno
 0.0.0.0 milanoristrazione.it
 0.0.0.0 milanrinkovsky.com
@@ -76503,6 +76530,7 @@
 0.0.0.0 myomasocager.com
 0.0.0.0 myomedia.net
 0.0.0.0 myonlinedating.net
+0.0.0.0 myonlinediet.com
 0.0.0.0 myopestoo.space
 0.0.0.0 myopybaldwin.com
 0.0.0.0 myopyrum.digital
@@ -89150,6 +89178,7 @@
 0.0.0.0 podnikam.online
 0.0.0.0 podnikatelskaakademia.com
 0.0.0.0 podnikatelskakademia.com
+0.0.0.0 podnikavezeny.online
 0.0.0.0 podolupark.com
 0.0.0.0 podosupsurge.com
 0.0.0.0 podperinou.com
@@ -89414,6 +89443,7 @@
 0.0.0.0 polygraphpretenceraw.com
 0.0.0.0 polygraphua.center
 0.0.0.0 polyh-nce.com
+0.0.0.0 polymerceramicdesign.com
 0.0.0.0 polynco.com
 0.0.0.0 polynco.org
 0.0.0.0 polynko.org
@@ -90256,6 +90286,7 @@
 0.0.0.0 pragmaticinfosol.com
 0.0.0.0 pragon.consulting
 0.0.0.0 prague-antique.com
+0.0.0.0 prague-homes.com
 0.0.0.0 prague-transfers.info
 0.0.0.0 prague.education
 0.0.0.0 pragueairporteasytransfers.com
@@ -93066,6 +93097,7 @@
 0.0.0.0 qaakggmwncvshg.com
 0.0.0.0 qaaumflu.com
 0.0.0.0 qabolhrpmx.xyz
+0.0.0.0 qacoupons.net
 0.0.0.0 qactaggxwoyla.com
 0.0.0.0 qads.io
 0.0.0.0 qadserve.com
@@ -97060,6 +97092,7 @@
 0.0.0.0 restadrenaline.com
 0.0.0.0 restartburgerremembrance.com
 0.0.0.0 restauracia.fun
+0.0.0.0 restauracia.net
 0.0.0.0 restaurant-abc.com
 0.0.0.0 restaurant-dev.com
 0.0.0.0 restauranthedwig.com
@@ -98379,6 +98412,7 @@
 0.0.0.0 robertsimpson.scot
 0.0.0.0 robertsonwealth.ca
 0.0.0.0 robertssolutionsllc.com
+0.0.0.0 robertvanogallery.com
 0.0.0.0 robertvejvoda.com
 0.0.0.0 robescampus.com
 0.0.0.0 robflea.com
@@ -103904,6 +103938,7 @@
 0.0.0.0 shownperfunctory.com
 0.0.0.0 showshops.co
 0.0.0.0 shpr.link
+0.0.0.0 shprague.com
 0.0.0.0 shpresarupar.com
 0.0.0.0 shprkdnogwqx.com
 0.0.0.0 shprojectmanager.com
@@ -105536,6 +105571,7 @@
 0.0.0.0 smaragdinamentalcare.com
 0.0.0.0 smaragdinaspa.com
 0.0.0.0 smaragdinastore.com
+0.0.0.0 smaragdy.com
 0.0.0.0 smart-building.cloud
 0.0.0.0 smart-cmr.com
 0.0.0.0 smart-doghouse.com
@@ -107609,6 +107645,7 @@
 0.0.0.0 spruznet.com
 0.0.0.0 spryptvqguhpwt.com
 0.0.0.0 spsoft.online
+0.0.0.0 sptest1.xyz
 0.0.0.0 sptest13.xyz
 0.0.0.0 sptest17.xyz
 0.0.0.0 sptest9.xyz
@@ -113056,6 +113093,7 @@
 0.0.0.0 thanenewlaunches.com
 0.0.0.0 thangetsoam.com
 0.0.0.0 thangkaartforliberation.com
+0.0.0.0 thangtrimochoa.xyz
 0.0.0.0 thaninncoos.com
 0.0.0.0 thankdogrescue.com
 0.0.0.0 thankful-conference.pro
@@ -113867,6 +113905,7 @@
 0.0.0.0 thelaziacafe.com
 0.0.0.0 thelazysloths.xyz
 0.0.0.0 theleaseip.com
+0.0.0.0 theledfarm.com
 0.0.0.0 theledz.com
 0.0.0.0 theleelapalacesnhotels.in
 0.0.0.0 thelegendofwelda.online
@@ -117280,6 +117319,7 @@
 0.0.0.0 traveljobs.agency
 0.0.0.0 traveljunction.ae
 0.0.0.0 travelkist.com
+0.0.0.0 travelkrumlov.com
 0.0.0.0 travellbulls.tech
 0.0.0.0 travelledelkremittance.com
 0.0.0.0 travelledpropagandaconveniences.com
@@ -117979,6 +118019,7 @@
 0.0.0.0 trustedcpmrevenue.com
 0.0.0.0 trustedgatetocontent.com
 0.0.0.0 trustedpeach.com
+0.0.0.0 trustedprohackers.com
 0.0.0.0 trustedreviews.casino
 0.0.0.0 trustedvoyages.com
 0.0.0.0 trustedzone.info
@@ -119255,6 +119296,7 @@
 0.0.0.0 ucetni.pro
 0.0.0.0 ucetnictvi-praha.net
 0.0.0.0 ucetnictvivpohode.com
+0.0.0.0 ucetnijahodova.info
 0.0.0.0 ucgnawffqess.xyz
 0.0.0.0 ucgxnstr.com
 0.0.0.0 uchchwas.tech
@@ -119983,6 +120025,7 @@
 0.0.0.0 unafeed.com
 0.0.0.0 unairazoads.com
 0.0.0.0 unairedcushite.com
+0.0.0.0 unalanu.app
 0.0.0.0 unallowferae.com
 0.0.0.0 unampharostor.com
 0.0.0.0 unanac.com
@@ -123538,6 +123581,7 @@
 0.0.0.0 villadaniel.com
 0.0.0.0 villaedeinos.com
 0.0.0.0 villaencanta.com
+0.0.0.0 villaflorexperience.com
 0.0.0.0 villageeatable.com
 0.0.0.0 villageofmenandsny.gov
 0.0.0.0 villageofmoravia.gov
@@ -125113,6 +125157,7 @@
 0.0.0.0 vyiosamgdc.xyz
 0.0.0.0 vyklizeni-kladno.com
 0.0.0.0 vyklizeni-pozustalosti.com
+0.0.0.0 vykopy-stavby.com
 0.0.0.0 vyktorads-dsp.us
 0.0.0.0 vykupautovrakov.com
 0.0.0.0 vykupbaterii.com
@@ -126554,6 +126599,7 @@
 0.0.0.0 wellmendorrs.uno
 0.0.0.0 wellmov.com
 0.0.0.0 wellness-majster.info
+0.0.0.0 wellness-prague.com
 0.0.0.0 wellnessbusinessgrowthsummit.com
 0.0.0.0 wellnessfamily24.com
 0.0.0.0 wellnesshomeocare.com
@@ -136582,6 +136628,7 @@
 0.0.0.0 www.harriscomputer.mov
 0.0.0.0 www.harriscomputer.zip
 0.0.0.0 www.harriscomputers.mov
+0.0.0.0 www.harriscomputers.zip
 0.0.0.0 www.harryheapanything.com
 0.0.0.0 www.harshlygiraffediscover.com
 0.0.0.0 www.harshvardhansingh.tech
@@ -148248,6 +148295,7 @@
 0.0.0.0 xtendmedia.org
 0.0.0.0 xtentioncrew.tech
 0.0.0.0 xtfast.com
+0.0.0.0 xtfffudn.com
 0.0.0.0 xtgonhhsqeb.com
 0.0.0.0 xthizbdwgebzqf.com
 0.0.0.0 xthwosrs.com
