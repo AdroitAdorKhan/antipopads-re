@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.214
 # Release: 214
-# Entries: 151,805
-# Updated: Thu, 01 Aug 24 04:08:36 +06
+# Entries: 151,815
+# Updated: Thu, 01 Aug 24 06:09:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -29127,6 +29127,7 @@
 0.0.0.0 damozelmikvahs.com
 0.0.0.0 dampapproach.com
 0.0.0.0 dampedout.co.uk
+0.0.0.0 dampedvisored.com
 0.0.0.0 dampout.co.uk
 0.0.0.0 damptechnicallyrepulse.com
 0.0.0.0 dampwarabi.com
@@ -52748,6 +52749,7 @@
 0.0.0.0 hldylatbujc.com
 0.0.0.0 hledoziequt.com
 0.0.0.0 hleemodb.com
+0.0.0.0 hlefabhhhbchd.com
 0.0.0.0 hlerseomcb.com
 0.0.0.0 hleuindnjcixxep.com
 0.0.0.0 hlfservices.org
@@ -70240,6 +70242,7 @@
 0.0.0.0 maintopmakes.website
 0.0.0.0 mainwebinar.com
 0.0.0.0 maioux.xyz
+0.0.0.0 maipheeg.com
 0.0.0.0 maipofok.net
 0.0.0.0 maiptica.com
 0.0.0.0 mairbeets.com
@@ -119771,6 +119774,7 @@
 0.0.0.0 uliveo.com
 0.0.0.0 uljfmdyyu.com
 0.0.0.0 ullingsubzone.website
+0.0.0.0 ullucupuces.click
 0.0.0.0 ulluru.com
 0.0.0.0 ulmbecfpbok.xyz
 0.0.0.0 ulminicbawty.com
@@ -128629,6 +128633,7 @@
 0.0.0.0 wowsoftwares108.xyz
 0.0.0.0 wowsomefan.com
 0.0.0.0 wowsomefan.store
+0.0.0.0 wowstash.net
 0.0.0.0 wowstretching.com
 0.0.0.0 wowwowhindi.com
 0.0.0.0 woxfiybiepgltf.com
@@ -129105,6 +129110,7 @@
 0.0.0.0 wvuvpahnbmnxt.com
 0.0.0.0 wvuxoghha.xyz
 0.0.0.0 wvvkxni.com
+0.0.0.0 wvvwmyfate.com
 0.0.0.0 wvwxjfjjytaf.com
 0.0.0.0 wvxcdtuhcagistb.xyz
 0.0.0.0 wvxfkzzqvwty.com
@@ -135038,6 +135044,7 @@
 0.0.0.0 www.ezytopups.com
 0.0.0.0 www.f1insider.tech
 0.0.0.0 www.f1rstontario.mov
+0.0.0.0 www.f1rstontario.zip
 0.0.0.0 www.fabindia.online
 0.0.0.0 www.fabredo.com
 0.0.0.0 www.fabulousrestrict.com
@@ -135166,6 +135173,8 @@
 0.0.0.0 www.favthemes.com
 0.0.0.0 www.faxueyun.com
 0.0.0.0 www.fcfaff904d.com
+0.0.0.0 www.fcu.mov
+0.0.0.0 www.fcu.zip
 0.0.0.0 www.fe028f0519.com
 0.0.0.0 www.fearfulswam.com
 0.0.0.0 www.featbankrupthide.com
@@ -146203,6 +146212,7 @@
 0.0.0.0 www.woupheezoh.com
 0.0.0.0 www.wovenni.com
 0.0.0.0 www.wowmomofranchisenow.com
+0.0.0.0 www.wowstash.net
 0.0.0.0 www.wp-stats-php.info
 0.0.0.0 www.wpblockheight.com
 0.0.0.0 www.wppredirect.tk
