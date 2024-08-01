@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.214
 # Release: 214
-# Entries: 151,815
-# Updated: Thu, 01 Aug 24 06:09:24 +06
+# Entries: 151,827
+# Updated: Thu, 01 Aug 24 08:25:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7425,6 +7425,7 @@
 0.0.0.0 aljazeera.asia
 0.0.0.0 aljazperovsek.com
 0.0.0.0 aljazplankl.com
+0.0.0.0 aljdjqme.com
 0.0.0.0 aljnbltaxcd.com
 0.0.0.0 aljosavodopija.com
 0.0.0.0 aljyiqva.xyz
@@ -47665,6 +47666,7 @@
 0.0.0.0 gndyowk.com
 0.0.0.0 gneebjjq.com
 0.0.0.0 gnemxcfermkpp.com
+0.0.0.0 gnenjhez.com
 0.0.0.0 gnfoltsbaocw.com
 0.0.0.0 gngsrgaza.com
 0.0.0.0 gngtvwjo.com
@@ -58045,6 +58047,7 @@
 0.0.0.0 iopontario.ca
 0.0.0.0 iopzvd.xyz
 0.0.0.0 ioqferemsnn.com
+0.0.0.0 ioqhhblbbv.com
 0.0.0.0 ioqlowkgwbtsqqq.xyz
 0.0.0.0 ioquanti.com
 0.0.0.0 ioredi.com
@@ -70025,6 +70028,7 @@
 0.0.0.0 magazinesfluentlymercury.com
 0.0.0.0 magazinesporch.com
 0.0.0.0 magazinslovensko.online
+0.0.0.0 magbo.tv
 0.0.0.0 magclotty.top
 0.0.0.0 magda-lena.site
 0.0.0.0 magdalenakrupa.com
@@ -75026,6 +75030,7 @@
 0.0.0.0 motoriitaliani.com
 0.0.0.0 motorisedgrills.co.uk
 0.0.0.0 motorizzazionecivileitaliana.it
+0.0.0.0 motorknippert.nl
 0.0.0.0 motoro.app
 0.0.0.0 motorove-pily.info
 0.0.0.0 motorros.com
@@ -83049,6 +83054,7 @@
 0.0.0.0 opchikoritaan.com
 0.0.0.0 opchikoritar.com
 0.0.0.0 opclauncheran.com
+0.0.0.0 opclck.com
 0.0.0.0 opdavplcufic.com
 0.0.0.0 opdaxlgwudi.com
 0.0.0.0 opdbpohurgpt.xyz
@@ -97488,6 +97494,7 @@
 0.0.0.0 rgqvdibwq.xyz
 0.0.0.0 rgrfkurqltuc.com
 0.0.0.0 rgroverservices.com
+0.0.0.0 rgsegvxhhf.com
 0.0.0.0 rgsnktxhe.com
 0.0.0.0 rgsnlgcsmk.com
 0.0.0.0 rgsstramgarh.in
@@ -101085,6 +101092,7 @@
 0.0.0.0 sc-client.com
 0.0.0.0 sc-cyber.org
 0.0.0.0 sc-i3.ru
+0.0.0.0 sc-pb-extreme.top
 0.0.0.0 sc.dipwaredanger.com
 0.0.0.0 sc.franklyrammy.com
 0.0.0.0 scaakxxobpp.com
@@ -120605,6 +120613,7 @@
 0.0.0.0 unswellballist.guru
 0.0.0.0 unswingfluvial.com
 0.0.0.0 untackreviler.com
+0.0.0.0 untafmrammkd.com
 0.0.0.0 untar4dmasuk.com
 0.0.0.0 untastymondos.digital
 0.0.0.0 untd.com
@@ -135369,6 +135378,9 @@
 0.0.0.0 www.firsthandcurious.com
 0.0.0.0 www.firstlyliquidstereotype.com
 0.0.0.0 www.firstnationsenergyltd.com
+0.0.0.0 www.firstontario.mov
+0.0.0.0 www.firstontario.zip
+0.0.0.0 www.firstontariocreditunion.mov
 0.0.0.0 www.firstontariocreditunion.zip
 0.0.0.0 www.firstsutra.in
 0.0.0.0 www.firstverifyemigrant.com
