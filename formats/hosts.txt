@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.215
 # Release: 215
-# Entries: 152,064
-# Updated: Fri, 02 Aug 24 12:08:31 +06
+# Entries: 152,069
+# Updated: Fri, 02 Aug 24 14:09:01 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -55778,6 +55778,7 @@
 0.0.0.0 iiivt.in
 0.0.0.0 iijejzkz.com
 0.0.0.0 iiji.in
+0.0.0.0 iijyncatropm.com
 0.0.0.0 iilojyukjjar.xyz
 0.0.0.0 iindesign.com
 0.0.0.0 iingsinspiring.com
@@ -67619,6 +67620,7 @@
 0.0.0.0 linkstoorder.com
 0.0.0.0 linkstrack.net
 0.0.0.0 linksyssmrtwifi.com
+0.0.0.0 linkte.ee
 0.0.0.0 linktr.re
 0.0.0.0 linkuniverse.link
 0.0.0.0 linkuryjs.info
@@ -83309,6 +83311,7 @@
 0.0.0.0 opertyvaluationiam.xyz
 0.0.0.0 opf-wwf.org
 0.0.0.0 opfffguwwuwst.com
+0.0.0.0 opfkvjqbjptypvv.com
 0.0.0.0 opgbtjviiuwu.xyz
 0.0.0.0 opgemgyrrjc.com
 0.0.0.0 opgolan.com
@@ -108785,6 +108788,7 @@
 0.0.0.0 sthgqhb.com
 0.0.0.0 sthoutte.com
 0.0.0.0 sthpgurgjac.com
+0.0.0.0 sthumwlqso.com
 0.0.0.0 stialt.com
 0.0.0.0 stiavnickaanca.info
 0.0.0.0 stibui.com
@@ -138821,6 +138825,7 @@
 0.0.0.0 www.linkhunters.net
 0.0.0.0 www.linkre.ee
 0.0.0.0 www.linkrt.ee
+0.0.0.0 www.linkte.ee
 0.0.0.0 www.linktr.re
 0.0.0.0 www.linkwords.net
 0.0.0.0 www.lintfeintshindig.com
