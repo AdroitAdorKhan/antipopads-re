@@ -19,8 +19,8 @@
 # Format: domains
 # Version: 24.08.217
 # Release: 217
-# Entries: 152,254
-# Updated: Sun, 04 Aug 24 00:23:43 +06
+# Entries: 152,260
+# Updated: Sun, 04 Aug 24 02:08:29 +06
 # RAW: https://antipopads-re.energized.pro/formats/domains.txt
 # ----------------------------------------------------------------------------
 #
@@ -3348,6 +3348,7 @@ _dmarc.www.capenuttraders.co.za
 _domainkey.hostmaster.www.todaypk.cz
 _domainkey.www.6be39.wh.3dtops.com
 _ldap._tcp.mckinney._sites.dc._msdcs.w5273341.www.sterenwifi.com
+_ldap._tcp.mckinney._sites.dc._msdcs.www.sterenwifi.com
 _ldap._tcp.mckinney._sites.uk.www.sterenwifi.com
 _ldap._tcp.mx-mexicocity._sites.dc._msdcs.www.sterenwifi.com
 _msdcs.w5273341.www.sterenwifi.com
@@ -3355,6 +3356,7 @@ _sites.dc._msdcs.w5273341.www.sterenwifi.com
 _sites.dc._msdcs.www.sterenwifi.com
 _sites.uk.www.sterenwifi.com
 _tcp.mckinney._sites.dc._msdcs.w5273341.www.sterenwifi.com
+_tcp.mckinney._sites.dc._msdcs.www.sterenwifi.com
 _tcp.mckinney._sites.uk.www.sterenwifi.com
 _tcp.mx-mexicocity._sites.dc._msdcs.www.sterenwifi.com
 a-94interdads.com
@@ -64931,6 +64933,7 @@ kuhsffmtktowmq.com
 kuhtizasca.com
 kuhvkajactas.com
 kuhxhoanlf.com
+kuijlsmoxibd.com
 kujgkqurzgn.com
 kukiza.top
 kukrosti.com
@@ -71959,6 +71962,7 @@ mckensecuryr.info
 mckensson.com
 mckerry.ca
 mckinney._sites.dc._msdcs.w5273341.www.sterenwifi.com
+mckinney._sites.dc._msdcs.www.sterenwifi.com
 mckinney._sites.uk.www.sterenwifi.com
 mcknifcxvgjlcw.com
 mcknightrock.com
@@ -77946,6 +77950,7 @@ nedvedicka.store
 neebeech.com
 neechube.net
 neechuce.net
+neecoareepsy.net
 need.design
 needagym.com
 needalogo.net
@@ -124515,6 +124520,7 @@ vlneducation.net
 vlnk.me
 vlnnoandjtftkvg.com
 vlnstudent.net
+vlntadfzvdwfuo.com
 vloked.com
 vlpocxtewtj.com
 vlpoliklinika.com

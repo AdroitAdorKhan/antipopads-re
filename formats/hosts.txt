@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.217
 # Release: 217
-# Entries: 152,254
-# Updated: Sun, 04 Aug 24 00:23:43 +06
+# Entries: 152,260
+# Updated: Sun, 04 Aug 24 02:08:29 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3348,6 +3348,7 @@
 0.0.0.0 _domainkey.hostmaster.www.todaypk.cz
 0.0.0.0 _domainkey.www.6be39.wh.3dtops.com
 0.0.0.0 _ldap._tcp.mckinney._sites.dc._msdcs.w5273341.www.sterenwifi.com
+0.0.0.0 _ldap._tcp.mckinney._sites.dc._msdcs.www.sterenwifi.com
 0.0.0.0 _ldap._tcp.mckinney._sites.uk.www.sterenwifi.com
 0.0.0.0 _ldap._tcp.mx-mexicocity._sites.dc._msdcs.www.sterenwifi.com
 0.0.0.0 _msdcs.w5273341.www.sterenwifi.com
@@ -3355,6 +3356,7 @@
 0.0.0.0 _sites.dc._msdcs.www.sterenwifi.com
 0.0.0.0 _sites.uk.www.sterenwifi.com
 0.0.0.0 _tcp.mckinney._sites.dc._msdcs.w5273341.www.sterenwifi.com
+0.0.0.0 _tcp.mckinney._sites.dc._msdcs.www.sterenwifi.com
 0.0.0.0 _tcp.mckinney._sites.uk.www.sterenwifi.com
 0.0.0.0 _tcp.mx-mexicocity._sites.dc._msdcs.www.sterenwifi.com
 0.0.0.0 a-94interdads.com
@@ -64931,6 +64933,7 @@
 0.0.0.0 kuhtizasca.com
 0.0.0.0 kuhvkajactas.com
 0.0.0.0 kuhxhoanlf.com
+0.0.0.0 kuijlsmoxibd.com
 0.0.0.0 kujgkqurzgn.com
 0.0.0.0 kukiza.top
 0.0.0.0 kukrosti.com
@@ -71959,6 +71962,7 @@
 0.0.0.0 mckensson.com
 0.0.0.0 mckerry.ca
 0.0.0.0 mckinney._sites.dc._msdcs.w5273341.www.sterenwifi.com
+0.0.0.0 mckinney._sites.dc._msdcs.www.sterenwifi.com
 0.0.0.0 mckinney._sites.uk.www.sterenwifi.com
 0.0.0.0 mcknifcxvgjlcw.com
 0.0.0.0 mcknightrock.com
@@ -77946,6 +77950,7 @@
 0.0.0.0 neebeech.com
 0.0.0.0 neechube.net
 0.0.0.0 neechuce.net
+0.0.0.0 neecoareepsy.net
 0.0.0.0 need.design
 0.0.0.0 needagym.com
 0.0.0.0 needalogo.net
@@ -124515,6 +124520,7 @@
 0.0.0.0 vlnk.me
 0.0.0.0 vlnnoandjtftkvg.com
 0.0.0.0 vlnstudent.net
+0.0.0.0 vlntadfzvdwfuo.com
 0.0.0.0 vloked.com
 0.0.0.0 vlpocxtewtj.com
 0.0.0.0 vlpoliklinika.com
