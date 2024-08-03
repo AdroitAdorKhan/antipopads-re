@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.217
 # Release: 217
-# Entries: 152,260
-# Updated: Sun, 04 Aug 24 02:08:29 +06
+# Entries: 152,261
+# Updated: Sun, 04 Aug 24 04:08:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -121456,6 +121456,7 @@
 0.0.0.0 urinle.com
 0.0.0.0 uritmusunca.com
 0.0.0.0 urkkeuvvw.com
+0.0.0.0 urktdkata.com
 0.0.0.0 url-www.effectivedisplayformats.com
 0.0.0.0 url-www.toprevenuegate.com
 0.0.0.0 url.re
