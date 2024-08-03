@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.216
 # Release: 216
-# Entries: 152,136
-# Updated: Sat, 03 Aug 24 08:25:19 +06
+# Entries: 152,137
+# Updated: Sat, 03 Aug 24 10:09:14 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -55416,6 +55416,7 @@
 0.0.0.0 idiotyet.com
 0.0.0.0 iditolshewn.com
 0.0.0.0 idjcymxwbjqxum.com
+0.0.0.0 idjuiyuahxnya.com
 0.0.0.0 idkmgzkdhanmz.com
 0.0.0.0 idkuaplixcxksd.com
 0.0.0.0 idlccpuom.com
