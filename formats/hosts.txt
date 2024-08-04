@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.217
 # Release: 217
-# Entries: 152,329
-# Updated: Sun, 04 Aug 24 16:23:04 +06
+# Entries: 152,331
+# Updated: Sun, 04 Aug 24 18:07:45 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -106503,6 +106503,7 @@
 0.0.0.0 soakrumouropposition.com
 0.0.0.0 soalonie.com
 0.0.0.0 soalouve.com
+0.0.0.0 soanoany.com
 0.0.0.0 soap-wash.com
 0.0.0.0 soapandpickle.com
 0.0.0.0 soaperdeils.com
@@ -128607,6 +128608,7 @@
 0.0.0.0 wohpaqjb.com
 0.0.0.0 woi.yt
 0.0.0.0 woinhffbrdao.com
+0.0.0.0 woisxjtxtfp.com
 0.0.0.0 woiy.yt
 0.0.0.0 wojan.yt
 0.0.0.0 wojyrbqtlvmmvv.com
