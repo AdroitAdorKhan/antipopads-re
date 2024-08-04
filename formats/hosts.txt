@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.217
 # Release: 217
-# Entries: 152,321
-# Updated: Sun, 04 Aug 24 12:08:47 +06
+# Entries: 152,324
+# Updated: Sun, 04 Aug 24 14:07:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -78431,6 +78431,7 @@
 0.0.0.0 nevisfoundation.org
 0.0.0.0 nevpriwnlva.top
 0.0.0.0 nevrocenter.com
+0.0.0.0 new-btc-code.com
 0.0.0.0 new-buy.co.uk
 0.0.0.0 new-egypt.bond
 0.0.0.0 new-incoming.email
@@ -93518,6 +93519,7 @@
 0.0.0.0 qclgcdtv.com
 0.0.0.0 qcmjdptyikwf.xyz
 0.0.0.0 qcnapaxxfuijga.com
+0.0.0.0 qcnmrdqtcs.com
 0.0.0.0 qcotzalsettiv.com
 0.0.0.0 qcqirqaqdq.top
 0.0.0.0 qcsjmidihe.com
@@ -115824,6 +115826,7 @@
 0.0.0.0 tizangoag.com
 0.0.0.0 tizenweb.site
 0.0.0.0 tizerlady.info
+0.0.0.0 tizfzthtjqm.com
 0.0.0.0 tj-therapies.com
 0.0.0.0 tj.rebulktallish.com
 0.0.0.0 tj.tipperrowen.com
