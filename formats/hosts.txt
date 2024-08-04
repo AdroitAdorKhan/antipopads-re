@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.218
 # Release: 218
-# Entries: 152,354
-# Updated: Mon, 05 Aug 24 02:07:41 +06
+# Entries: 152,355
+# Updated: Mon, 05 Aug 24 04:08:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -81962,6 +81962,7 @@
 0.0.0.0 ofgogooatan.com
 0.0.0.0 ofhappinyer.com
 0.0.0.0 ofhgkuopngw.com
+0.0.0.0 ofhpmgbukb.com
 0.0.0.0 ofhunch.com
 0.0.0.0 ofhypnoer.com
 0.0.0.0 ofismxehutbm.com
