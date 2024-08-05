@@ -20,8 +20,8 @@
 ! Version: 24.08.218
 ! Release: 218
 ! Expires: 1 day
-! Entries: 152,431
-! Updated: Mon, 05 Aug 24 12:08:56 +06
+! Entries: 152,433
+! Updated: Mon, 05 Aug 24 14:07:43 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -95444,6 +95444,7 @@
 ||rarbg2021.org^
 ||rarbgaccess.org^
 ||rarbgaccessed.org^
+||rarbgget.org^
 ||rarbggo.org^
 ||rarbgmirror.com^
 ||rarbgmirror.org^
@@ -151322,6 +151323,7 @@
 ||zdxblxwjoees.com^
 ||zdxcuchr.com^
 ||zdzqwsumkn.com^
+||zdzserzi.com^
 ||ze-promo.com^
 ||ze66.xyz^
 ||zeads.com^

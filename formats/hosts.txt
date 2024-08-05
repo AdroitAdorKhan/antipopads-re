@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.218
 # Release: 218
-# Entries: 152,431
-# Updated: Mon, 05 Aug 24 12:08:56 +06
+# Entries: 152,433
+# Updated: Mon, 05 Aug 24 14:07:43 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -95443,6 +95443,7 @@
 0.0.0.0 rarbg2021.org
 0.0.0.0 rarbgaccess.org
 0.0.0.0 rarbgaccessed.org
+0.0.0.0 rarbgget.org
 0.0.0.0 rarbggo.org
 0.0.0.0 rarbgmirror.com
 0.0.0.0 rarbgmirror.org
@@ -151321,6 +151322,7 @@
 0.0.0.0 zdxblxwjoees.com
 0.0.0.0 zdxcuchr.com
 0.0.0.0 zdzqwsumkn.com
+0.0.0.0 zdzserzi.com
 0.0.0.0 ze-promo.com
 0.0.0.0 ze66.xyz
 0.0.0.0 zeads.com
