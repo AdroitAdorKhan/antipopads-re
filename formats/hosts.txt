@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.219
 # Release: 219
-# Entries: 152,536
-# Updated: Tue, 06 Aug 24 06:10:19 +06
+# Entries: 152,539
+# Updated: Tue, 06 Aug 24 08:08:42 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -61070,6 +61070,7 @@
 0.0.0.0 jockersunface.com
 0.0.0.0 jockertsres.com
 0.0.0.0 jockeryfgtu.club
+0.0.0.0 jocotmte.com
 0.0.0.0 jocowhab.com
 0.0.0.0 joctar.org
 0.0.0.0 jod-news1.club
@@ -80873,6 +80874,7 @@
 0.0.0.0 nuncornflower.com
 0.0.0.0 nunearn.com
 0.0.0.0 nunetwork.io
+0.0.0.0 nunfmsblzor.com
 0.0.0.0 nunhoefey.com
 0.0.0.0 nuniceberg.com
 0.0.0.0 nunnarivu.org
@@ -88080,6 +88082,7 @@
 0.0.0.0 piatrnjio.com
 0.0.0.0 piattorotto.it
 0.0.0.0 pibgornspooks.top
+0.0.0.0 pibsompaicaz.com
 0.0.0.0 picacg2023.xyz
 0.0.0.0 picalchymic.uno
 0.0.0.0 picarasfrag.website
