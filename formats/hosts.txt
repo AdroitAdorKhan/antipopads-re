@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.220
 # Release: 220
-# Entries: 152,658
-# Updated: Wed, 07 Aug 24 02:08:21 +06
+# Entries: 152,659
+# Updated: Wed, 07 Aug 24 04:08:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -98758,6 +98758,7 @@
 0.0.0.0 rluwpeathgvf.com
 0.0.0.0 rlvvakyuipqbl.com
 0.0.0.0 rlwiupbqn.com
+0.0.0.0 rlxfjqah.com
 0.0.0.0 rlyeh.space
 0.0.0.0 rlygycxhtqvf.com
 0.0.0.0 rlyorbiditys.online
