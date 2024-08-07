@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.220
 # Release: 220
-# Entries: 152,666
-# Updated: Wed, 07 Aug 24 06:07:44 +06
+# Entries: 152,672
+# Updated: Wed, 07 Aug 24 08:25:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -45944,6 +45944,7 @@
 0.0.0.0 gaused.com
 0.0.0.0 gaushaih.xyz
 0.0.0.0 gausic.com
+0.0.0.0 gausovoheeza.com
 0.0.0.0 gaustele.xyz
 0.0.0.0 gaut-hil.com
 0.0.0.0 gautamdua.com
@@ -74364,6 +74365,7 @@
 0.0.0.0 mlbtmusic.com
 0.0.0.0 mlbyoqecfemww.xyz
 0.0.0.0 mlcdjemrx.com
+0.0.0.0 mlcmsivan.com
 0.0.0.0 mlcth.com
 0.0.0.0 mldfckinkpyhwk.com
 0.0.0.0 mldxqrntd.xyz
@@ -79153,6 +79155,7 @@
 0.0.0.0 ngxcpvtemktena.com
 0.0.0.0 ngxkkwlxet.com
 0.0.0.0 ngxosjptnnccwxk.com
+0.0.0.0 nh.gov
 0.0.0.0 nhacchuong.mobi
 0.0.0.0 nhacuchi.co
 0.0.0.0 nhaedbnffa.com
@@ -117409,6 +117412,7 @@
 0.0.0.0 tqgaebbwfz.com
 0.0.0.0 tqgrrfssodfo.com
 0.0.0.0 tqhikkhdhevgyl.com
+0.0.0.0 tqijvxjzvaqrjq.com
 0.0.0.0 tqivupnbhhjrwk.xyz
 0.0.0.0 tqjuwrnjtbr.com
 0.0.0.0 tqkbdxfzmbjp.com
@@ -131917,6 +131921,7 @@
 0.0.0.0 www.barrenusers.com
 0.0.0.0 www.barrestauranteagorallanes.com
 0.0.0.0 www.barrierpurpledispleased.com
+0.0.0.0 www.barringtonpd.nh.gov
 0.0.0.0 www.barristerwebzoo.com
 0.0.0.0 www.barrowwailing.com
 0.0.0.0 www.barterproductionsbang.com
@@ -146977,6 +146982,7 @@
 0.0.0.0 www.woodenbond.com
 0.0.0.0 www.woodlandsintervention.com
 0.0.0.0 www.woodlandsveteran.com
+0.0.0.0 www.woodlandsvictoria.com
 0.0.0.0 www.woodygarlicdraw.com
 0.0.0.0 www.woodymotherhood.com
 0.0.0.0 www.woollouder.com
