@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.08.221
-# Release: 221
-# Entries: 152,951
-# Updated: Thu, 08 Aug 24 22:08:36 +06
+# Version: 24.08.222
+# Release: 222
+# Entries: 152,989
+# Updated: Fri, 09 Aug 24 00:08:39 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -18774,7 +18774,10 @@
 0.0.0.0 broidensordini.com
 0.0.0.0 broilking.store
 0.0.0.0 broilkingbbq.store
+0.0.0.0 broilkingbbqco.com
 0.0.0.0 broilkingbbqco.store
+0.0.0.0 broilkingbbqcompany.com
+0.0.0.0 broilkingbbqusa.com
 0.0.0.0 broilkingique.com
 0.0.0.0 brojwaozvgib.com
 0.0.0.0 brokagedefraud.com
@@ -25996,6 +25999,7 @@
 0.0.0.0 concordpopup.ca
 0.0.0.0 concordpopup.com
 0.0.0.0 concordtransmitter.com
+0.0.0.0 concourse.org
 0.0.0.0 concoursegrope.com
 0.0.0.0 concoursehost.org
 0.0.0.0 concoursestrickenpuppy.com
@@ -29937,6 +29941,7 @@
 0.0.0.0 dcayljcvr.com
 0.0.0.0 dcbnameapneas.com
 0.0.0.0 dccfriendschallenges.net
+0.0.0.0 dcdukedistrict.com
 0.0.0.0 dcdxpdxbp.com
 0.0.0.0 dcebmbsnmcs.com
 0.0.0.0 dcekppuv.xyz
@@ -34839,7 +34844,11 @@
 0.0.0.0 dujcubbzog.com
 0.0.0.0 dujinniu.com
 0.0.0.0 dujourventures.com
+0.0.0.0 duke-dc.com
 0.0.0.0 dukecruise.com
+0.0.0.0 dukedc.com
+0.0.0.0 dukedcdistrict.com
+0.0.0.0 dukedistrict-dc.com
 0.0.0.0 dukedistrictdc.com
 0.0.0.0 dukemavor.tech
 0.0.0.0 dukeserve.xyz
@@ -36801,6 +36810,7 @@
 0.0.0.0 ejpnots.com
 0.0.0.0 ejpzqnqwcszfsz.com
 0.0.0.0 ejqpfaau.xyz
+0.0.0.0 ejqsqmqohwav.com
 0.0.0.0 ejqtsodtirjgg.xyz
 0.0.0.0 ejrigxesvg.com
 0.0.0.0 ejrxbepg.xyz
@@ -39181,6 +39191,7 @@
 0.0.0.0 ettjvrjujt.xyz
 0.0.0.0 ettlingnidana.com
 0.0.0.0 etulips.io
+0.0.0.0 etuujkavnjqx.com
 0.0.0.0 etuvvoyyspw.com
 0.0.0.0 etvda.yt
 0.0.0.0 etx.management
@@ -49341,6 +49352,7 @@
 0.0.0.0 grdgroupscom.com
 0.0.0.0 greamore.com
 0.0.0.0 grearbest.com
+0.0.0.0 grease-trail.com
 0.0.0.0 greaseabsorbing.com
 0.0.0.0 greasecalculatevarnish.com
 0.0.0.0 greasenipple.in
@@ -63153,6 +63165,7 @@
 0.0.0.0 kcpicmgwddbpclu.com
 0.0.0.0 kcsdns.com
 0.0.0.0 kcsnyyglb.com
+0.0.0.0 kcsvufacpqlampb.com
 0.0.0.0 kct.agency
 0.0.0.0 kcvyfyjcblfy.com
 0.0.0.0 kcwtugkvnq.xyz
@@ -71310,6 +71323,7 @@
 0.0.0.0 maplecurriculum.com
 0.0.0.0 mapleoffgrid.ca
 0.0.0.0 maplesyrupmysteries.ca
+0.0.0.0 mapplyapp.com
 0.0.0.0 maps-help.me
 0.0.0.0 maps-study.org
 0.0.0.0 mapslob.com
@@ -99753,7 +99767,18 @@
 0.0.0.0 royalpeaksroofing.ca
 0.0.0.0 royalregencygardens.com
 0.0.0.0 royalrelentcorrespondence.com
+0.0.0.0 royalroadsmiddleeast.com
+0.0.0.0 royalroadsmiddleeast.org
+0.0.0.0 royalroadsraak.com
+0.0.0.0 royalroadsraak.org
+0.0.0.0 royalroadsuae.com
 0.0.0.0 royalroadsuae.org
+0.0.0.0 royalroadsuniversitymiddleeast.com
+0.0.0.0 royalroadsuniversitymiddleeast.org
+0.0.0.0 royalroadsuniversityrak.com
+0.0.0.0 royalroadsuniversityrak.org
+0.0.0.0 royalroadsuniversityuae.com
+0.0.0.0 royalroadsuniversityuae.org
 0.0.0.0 royalssl.com
 0.0.0.0 royalwatchesx.xyz
 0.0.0.0 royalwater.biz
@@ -99918,8 +99943,14 @@
 0.0.0.0 rrtfiqix.com
 0.0.0.0 rrtgxgwrtekqirv.com
 0.0.0.0 rrtwda9.com
+0.0.0.0 rrumiddleeast.com
+0.0.0.0 rrumiddleeast.org
 0.0.0.0 rrupee.org
+0.0.0.0 rrurak.com
+0.0.0.0 rrurak.org
+0.0.0.0 rrurasalkhaimah.com
 0.0.0.0 rrurasalkhaimah.org
+0.0.0.0 rruuae.com
 0.0.0.0 rruuae.org
 0.0.0.0 rruvbtb.com
 0.0.0.0 rrvpscehvjuz.com
@@ -101403,6 +101434,7 @@
 0.0.0.0 sandysurfshack.com
 0.0.0.0 sandysuspicions.com
 0.0.0.0 sanelas.com
+0.0.0.0 sanesec.com
 0.0.0.0 sanestsizeine.website
 0.0.0.0 sanfenproperties.com
 0.0.0.0 sanfordcessor.space
@@ -114494,6 +114526,8 @@
 0.0.0.0 thedreamforestfarms.com
 0.0.0.0 thedreamstree.com
 0.0.0.0 thedswnetwork.com
+0.0.0.0 thedukedistrict-dc.com
+0.0.0.0 thedukedistrictdc.com
 0.0.0.0 theeatwellsystem.com
 0.0.0.0 theechugnie.com
 0.0.0.0 theecomfamily.online
@@ -115206,6 +115240,7 @@
 0.0.0.0 thestayorganic.com
 0.0.0.0 thestock11.com
 0.0.0.0 thestockdip.com
+0.0.0.0 thestripeylion.com
 0.0.0.0 thestudio.vc
 0.0.0.0 thestudiokosice.com
 0.0.0.0 thestudiosausalito.com
@@ -122693,6 +122728,7 @@
 0.0.0.0 uzhut.com
 0.0.0.0 uzibhigtekn.com
 0.0.0.0 uzjayu.com
+0.0.0.0 uzkie.com
 0.0.0.0 uznqxjtqea.com
 0.0.0.0 uzoamtee.xyz
 0.0.0.0 uzouptel.xyz
@@ -125212,6 +125248,7 @@
 0.0.0.0 vnaokcfyi.com
 0.0.0.0 vnbegthmqtdapep.com
 0.0.0.0 vnbgcquiihu.xyz
+0.0.0.0 vncegdfreobvc.com
 0.0.0.0 vncgwubmrkw.com
 0.0.0.0 vndcrknbh.xyz
 0.0.0.0 vneffwecka.com
@@ -129773,6 +129810,7 @@
 0.0.0.0 wqorxfp.com
 0.0.0.0 wqourvraehwobu.com
 0.0.0.0 wqqcyjkrdpk.xyz
+0.0.0.0 wqrkyljde.com
 0.0.0.0 wqvkerqmxt.com
 0.0.0.0 wqwjd.yt
 0.0.0.0 wqygiokfbwgkvb.com
