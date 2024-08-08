@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.221
 # Release: 221
-# Entries: 152,819
-# Updated: Thu, 08 Aug 24 06:08:20 +06
+# Entries: 152,821
+# Updated: Thu, 08 Aug 24 08:17:41 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -88774,6 +88774,7 @@
 0.0.0.0 pixfuture.net
 0.0.0.0 pixgohsfqmrxfrf.com
 0.0.0.0 pixhare.de
+0.0.0.0 pixieinapocket.world
 0.0.0.0 pixiv.org
 0.0.0.0 pixolium.ai
 0.0.0.0 pixooffset.com
@@ -102430,6 +102431,7 @@
 0.0.0.0 seaofads.com
 0.0.0.0 seapolo.com
 0.0.0.0 searbseiblhml.com
+0.0.0.0 search-amt.co
 0.0.0.0 search-converter.com
 0.0.0.0 search.trcksrvrs.com
 0.0.0.0 search1.net
