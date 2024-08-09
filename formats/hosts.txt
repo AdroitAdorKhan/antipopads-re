@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.222
 # Release: 222
-# Entries: 153,148
-# Updated: Fri, 09 Aug 24 14:07:55 +06
+# Entries: 153,149
+# Updated: Fri, 09 Aug 24 16:37:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -125180,6 +125180,7 @@
 0.0.0.0 vixmolton.com
 0.0.0.0 vixmwnivtbqk.com
 0.0.0.0 vixoafte.xyz
+0.0.0.0 vixpnliyfvp.com
 0.0.0.0 vixqorlolvobih.com
 0.0.0.0 vixtream.net
 0.0.0.0 viyijdizm.com
