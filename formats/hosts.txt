@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.222
 # Release: 222
-# Entries: 153,049
-# Updated: Fri, 09 Aug 24 08:08:47 +06
+# Entries: 153,071
+# Updated: Fri, 09 Aug 24 10:26:09 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10256,6 +10256,7 @@
 0.0.0.0 ark23.net
 0.0.0.0 ark23.org
 0.0.0.0 ark23.pro
+0.0.0.0 arka-arm.com
 0.0.0.0 arkadenest-mulund.in
 0.0.0.0 arkadyczsk.com
 0.0.0.0 arkaelite.com
@@ -16112,6 +16113,7 @@
 0.0.0.0 binanceguru.com
 0.0.0.0 binancero.com
 0.0.0.0 binancetrade.pro
+0.0.0.0 binans-obnal.xyz
 0.0.0.0 binanve.me
 0.0.0.0 binardose.tech
 0.0.0.0 binarjob.store
@@ -17198,6 +17200,7 @@
 0.0.0.0 bmp-studio.com
 0.0.0.0 bmpgkspo.xyz
 0.0.0.0 bmptbyb.com
+0.0.0.0 bmqhtdcpvo.com
 0.0.0.0 bmqjgzmdwwft.com
 0.0.0.0 bmqtvmdg.xyz
 0.0.0.0 bmrgliygnaf.com
@@ -18860,6 +18863,7 @@
 0.0.0.0 brothersparklingresolve.com
 0.0.0.0 brotherspooltn.com
 0.0.0.0 brotherstricttying.com
+0.0.0.0 brotschi-dev.com
 0.0.0.0 broubt.com
 0.0.0.0 broughtalienshear.com
 0.0.0.0 broughtcontract.com
@@ -24844,6 +24848,7 @@
 0.0.0.0 cnhisi.com
 0.0.0.0 cnhisi.com.cn
 0.0.0.0 cnhuaqiaobearing.com
+0.0.0.0 cnhuashan.cc
 0.0.0.0 cnifypm.com
 0.0.0.0 cniytubfyfe.com
 0.0.0.0 cnjmvwowygm.com
@@ -29526,6 +29531,7 @@
 0.0.0.0 dark-system.xyz
 0.0.0.0 dark-talks.xyz
 0.0.0.0 dark-work.xyz
+0.0.0.0 darkadm.com
 0.0.0.0 darkandlight.ru
 0.0.0.0 darkbytesecurity.com
 0.0.0.0 darkcake.in
@@ -41322,6 +41328,7 @@
 0.0.0.0 fdheincvdbp.com
 0.0.0.0 fdhuxnfht.com
 0.0.0.0 fdiirjong.com
+0.0.0.0 fdiroplwcb.com
 0.0.0.0 fdirseqqotw.xyz
 0.0.0.0 fditldpuoumv.com
 0.0.0.0 fdjcuxxgmrye.com
@@ -51247,6 +51254,7 @@
 0.0.0.0 harryjugglewhose.com
 0.0.0.0 harrymercurydynasty.com
 0.0.0.0 harrypottershirts.com
+0.0.0.0 harrys-herbs.com
 0.0.0.0 harryshurricane.com
 0.0.0.0 harsh-definition.pro
 0.0.0.0 harsh-hello.pro
@@ -53200,6 +53208,7 @@
 0.0.0.0 hlrfqtcftlphic.com
 0.0.0.0 hlrpgimopqjqmn.com
 0.0.0.0 hlrvfycqtlfjd.com
+0.0.0.0 hls-technology.online
 0.0.0.0 hlsdg.org
 0.0.0.0 hlserve.com
 0.0.0.0 hlsmmaae.com
@@ -74887,6 +74896,7 @@
 0.0.0.0 mobilko.net
 0.0.0.0 mobilne-oplotenia.com
 0.0.0.0 mobilne.house
+0.0.0.0 mobilnuy24.org
 0.0.0.0 mobilo4ka.info
 0.0.0.0 mobilocredit.sbs
 0.0.0.0 mobilpujcka.sbs
@@ -77016,6 +77026,7 @@
 0.0.0.0 myfrontsite.com
 0.0.0.0 mygalaxy.fun
 0.0.0.0 mygaliceonlinempresa.online
+0.0.0.0 mygambiabooking.com
 0.0.0.0 mygarageplans.net
 0.0.0.0 mygatewaynews.com
 0.0.0.0 mygchat.com
@@ -77615,6 +77626,7 @@
 0.0.0.0 najdarila.com
 0.0.0.0 najdikaviaren.online
 0.0.0.0 najdikaviaren.store
+0.0.0.0 najdo.info
 0.0.0.0 najem-avtomobila.com
 0.0.0.0 najem-jadrnic-hrvaska.com
 0.0.0.0 najem.plus
@@ -94824,6 +94836,7 @@
 0.0.0.0 quay-australia.fr
 0.0.0.0 quayolderinstance.com
 0.0.0.0 qubitra.net
+0.0.0.0 qublgauxbck.com
 0.0.0.0 qubpsoqufy.com
 0.0.0.0 qucawpagrd.com
 0.0.0.0 qucikbuyingusa.com
@@ -95854,6 +95867,8 @@
 0.0.0.0 rar-vpn.com
 0.0.0.0 rarath.com
 0.0.0.0 rarbg.com
+0.0.0.0 rarbg.net
+0.0.0.0 rarbg.org
 0.0.0.0 rarbg2018.org
 0.0.0.0 rarbg2020.org
 0.0.0.0 rarbg2021.org
@@ -99189,6 +99204,7 @@
 0.0.0.0 roathoowood.com
 0.0.0.0 roaxuxkwy.com
 0.0.0.0 robalone.com
+0.0.0.0 roban.graphics
 0.0.0.0 robberydelegateraw.com
 0.0.0.0 robberyfurthermore.com
 0.0.0.0 robberyinscription.com
@@ -99600,6 +99616,7 @@
 0.0.0.0 rosefli.com
 0.0.0.0 roselightdesign.com
 0.0.0.0 rosellarecover.website
+0.0.0.0 rosellaskitchen.ca
 0.0.0.0 rosellaskitchen.com
 0.0.0.0 rosemarycottage.je
 0.0.0.0 rosemessengeryuri.com
@@ -106599,6 +106616,7 @@
 0.0.0.0 smartukil.com
 0.0.0.0 smartuper.com
 0.0.0.0 smartverse.ng
+0.0.0.0 smartvision-group.com
 0.0.0.0 smartvx.ca
 0.0.0.0 smartware.tv
 0.0.0.0 smartwebinarchoice.com
@@ -111898,6 +111916,7 @@
 0.0.0.0 synergosureste.com
 0.0.0.0 synergy-smc.com
 0.0.0.0 synergycapital.life
+0.0.0.0 synergymarketer.com
 0.0.0.0 synergysolutions.pro
 0.0.0.0 synexustaxhosted.com
 0.0.0.0 synnexaedu.in
@@ -117915,6 +117934,7 @@
 0.0.0.0 tradementor101.net
 0.0.0.0 tradeportal365.com
 0.0.0.0 trader-ai-review.com
+0.0.0.0 trader-joes-com.com
 0.0.0.0 traderconnect-app.com
 0.0.0.0 traderinbox.uk
 0.0.0.0 traderinsightmedia.com
@@ -123832,6 +123852,7 @@
 0.0.0.0 verjus.life
 0.0.0.0 verlangern-ihre-legitimation.xyz
 0.0.0.0 vermesfluid.com
+0.0.0.0 vermeydendelicatessen.com
 0.0.0.0 vernementsec.info
 0.0.0.0 vernes.travel
 0.0.0.0 verneukorgia.com
@@ -141595,6 +141616,7 @@
 0.0.0.0 www.outnumberconnatetomato.com
 0.0.0.0 www.outputoverseas.com
 0.0.0.0 www.outrepublicanshelf.com
+0.0.0.0 www.outrightsham.com
 0.0.0.0 www.outsidebrightenmisfortune.com
 0.0.0.0 www.ovalembezzlement.com
 0.0.0.0 www.ovauthalrim.com
