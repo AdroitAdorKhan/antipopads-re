@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.08.223
-# Release: 223
-# Entries: 153,316
-# Updated: Sat, 10 Aug 24 22:07:49 +06
+# Version: 24.08.224
+# Release: 224
+# Entries: 153,349
+# Updated: Sun, 11 Aug 24 00:07:42 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10998,6 +10998,8 @@
 0.0.0.0 asperityhorizontally.com
 0.0.0.0 asperityresidential.com
 0.0.0.0 aspignitean.com
+0.0.0.0 aspiranetadoption.org
+0.0.0.0 aspiranetthpplus.org
 0.0.0.0 aspirationlocksmithsupplant.com
 0.0.0.0 aspiredcapitol.com
 0.0.0.0 aspireecayuca.life
@@ -20426,6 +20428,7 @@
 0.0.0.0 calibry.casino
 0.0.0.0 calibry.partners
 0.0.0.0 calibry1.casino
+0.0.0.0 calibry3.casino
 0.0.0.0 calichevigogne.com
 0.0.0.0 calicutscrubby.top
 0.0.0.0 california-muscles.com
@@ -28875,6 +28878,7 @@
 0.0.0.0 cyber-winner.space
 0.0.0.0 cyberbackgroundchbecks.com
 0.0.0.0 cyberbasket.ca
+0.0.0.0 cyberbasket.net
 0.0.0.0 cyberbusiness.io
 0.0.0.0 cybercerebro.com
 0.0.0.0 cyberchallege.it
@@ -39796,6 +39800,7 @@
 0.0.0.0 ewkjfwwld.xyz
 0.0.0.0 ewlfcpnqlylef.com
 0.0.0.0 ewlgedplheqkf.com
+0.0.0.0 ewmobile.com
 0.0.0.0 ewolet.com
 0.0.0.0 ewollet.com
 0.0.0.0 ewoodandwaveo.com
@@ -43868,6 +43873,7 @@
 0.0.0.0 forgivenessdeportdearly.com
 0.0.0.0 forgivenessfashioned.com
 0.0.0.0 forgivenessimpact.com
+0.0.0.0 forgivenesspaint.com
 0.0.0.0 forgivenesspeltanalyse.com
 0.0.0.0 forgivenesssweptsupervision.com
 0.0.0.0 forgivenfundingplums.com
@@ -49456,6 +49462,7 @@
 0.0.0.0 greamore.com
 0.0.0.0 grearbest.com
 0.0.0.0 grease-trail.com
+0.0.0.0 grease-trail.net
 0.0.0.0 greaseabsorbing.com
 0.0.0.0 greasecalculatevarnish.com
 0.0.0.0 greasenipple.in
@@ -53732,6 +53739,7 @@
 0.0.0.0 honestfatherinlaw.com
 0.0.0.0 honestinsure.com
 0.0.0.0 honestjunk.ca
+0.0.0.0 honestly.work
 0.0.0.0 honestlyanxiousimpenetrable.com
 0.0.0.0 honestlyapparentlycoil.com
 0.0.0.0 honestlydeploy.com
@@ -74997,8 +75005,10 @@
 0.0.0.0 mobileabbey.com
 0.0.0.0 mobileadspopup.com
 0.0.0.0 mobilebarshampshire.com
+0.0.0.0 mobilebinder.com
 0.0.0.0 mobilecanoe.com
 0.0.0.0 mobilecardinal.com
+0.0.0.0 mobiledev.app
 0.0.0.0 mobiledevel.com
 0.0.0.0 mobiledevo.com
 0.0.0.0 mobiledisplays.video
@@ -75021,6 +75031,7 @@
 0.0.0.0 mobilesyncdesign.com
 0.0.0.0 mobiletracking.ru
 0.0.0.0 mobilevq.com
+0.0.0.0 mobileww.com
 0.0.0.0 mobilhazak.net
 0.0.0.0 mobility-survey.org
 0.0.0.0 mobilityshopsnorthampton.com
@@ -83700,6 +83711,7 @@
 0.0.0.0 onssoc.ca
 0.0.0.0 onssoc.com
 0.0.0.0 onsteri.com
+0.0.0.0 onstly.com
 0.0.0.0 onstunkyr.com
 0.0.0.0 onsukultingecauy.com
 0.0.0.0 ontari0.ca
@@ -94888,6 +94900,7 @@
 0.0.0.0 qtymhsgwgraqd.com
 0.0.0.0 qtzedmrehcvpe.com
 0.0.0.0 qu.boothscrain.com
+0.0.0.0 qu4ntum.one
 0.0.0.0 quackdamaging.com
 0.0.0.0 quackexclusfdfjd.com
 0.0.0.0 quacktypist.com
@@ -100003,17 +100016,31 @@
 0.0.0.0 royalpeaksroofing.ca
 0.0.0.0 royalregencygardens.com
 0.0.0.0 royalrelentcorrespondence.com
+0.0.0.0 royalroadsinternational.com
+0.0.0.0 royalroadsinternational.org
 0.0.0.0 royalroadsmiddleeast.com
+0.0.0.0 royalroadsmiddleeast.net
 0.0.0.0 royalroadsmiddleeast.org
 0.0.0.0 royalroadsraak.com
+0.0.0.0 royalroadsraak.net
 0.0.0.0 royalroadsraak.org
+0.0.0.0 royalroadsrasalkhaimah.com
+0.0.0.0 royalroadsrasalkhaimah.org
 0.0.0.0 royalroadsuae.com
+0.0.0.0 royalroadsuae.net
 0.0.0.0 royalroadsuae.org
+0.0.0.0 royalroadsuniversityinternational.com
+0.0.0.0 royalroadsuniversityinternational.org
 0.0.0.0 royalroadsuniversitymiddleeast.com
+0.0.0.0 royalroadsuniversitymiddleeast.net
 0.0.0.0 royalroadsuniversitymiddleeast.org
 0.0.0.0 royalroadsuniversityrak.com
+0.0.0.0 royalroadsuniversityrak.net
 0.0.0.0 royalroadsuniversityrak.org
+0.0.0.0 royalroadsuniversityrasalkhaimah.com
+0.0.0.0 royalroadsuniversityrasalkhaimah.org
 0.0.0.0 royalroadsuniversityuae.com
+0.0.0.0 royalroadsuniversityuae.net
 0.0.0.0 royalroadsuniversityuae.org
 0.0.0.0 royalssl.com
 0.0.0.0 royalwatchesx.xyz
@@ -100180,12 +100207,17 @@
 0.0.0.0 rrtfiqix.com
 0.0.0.0 rrtgxgwrtekqirv.com
 0.0.0.0 rrtwda9.com
+0.0.0.0 rruinternational.com
+0.0.0.0 rruinternational.org
 0.0.0.0 rrumiddleeast.com
+0.0.0.0 rrumiddleeast.net
 0.0.0.0 rrumiddleeast.org
 0.0.0.0 rrupee.org
 0.0.0.0 rrurak.com
+0.0.0.0 rrurak.net
 0.0.0.0 rrurak.org
 0.0.0.0 rrurasalkhaimah.com
+0.0.0.0 rrurasalkhaimah.net
 0.0.0.0 rrurasalkhaimah.org
 0.0.0.0 rruuae.com
 0.0.0.0 rruuae.net
@@ -123132,6 +123164,7 @@
 0.0.0.0 vacexhire.uk
 0.0.0.0 vackemedia.com
 0.0.0.0 vaclavpeca.com
+0.0.0.0 vacpukna.com
 0.0.0.0 vactbwonjayyyi.com
 0.0.0.0 vactionrentalsoakisland.com
 0.0.0.0 vacuittahua.live
