@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.223
 # Release: 223
-# Entries: 153,299
-# Updated: Sat, 10 Aug 24 16:07:41 +06
+# Entries: 153,307
+# Updated: Sat, 10 Aug 24 18:20:37 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12661,6 +12661,7 @@
 0.0.0.0 aybosxmhnql.com
 0.0.0.0 aybvfvlyrtbskvy.com
 0.0.0.0 aycalfcwwgf.com
+0.0.0.0 aycanozden.com
 0.0.0.0 aycrxa.com
 0.0.0.0 aydandelion.com
 0.0.0.0 aydsvrikr.com
@@ -47389,6 +47390,7 @@
 0.0.0.0 gitechiphy.pro
 0.0.0.0 gitemotors.com
 0.0.0.0 gitespornic.com
+0.0.0.0 githubuseremail.com
 0.0.0.0 githupb.com
 0.0.0.0 gitoku.com
 0.0.0.0 gitpipeline.com
@@ -63912,6 +63914,7 @@
 0.0.0.0 kigmart.com
 0.0.0.0 kigraglishoa.net
 0.0.0.0 kigxconsultant.com
+0.0.0.0 kigxgroup.com
 0.0.0.0 kihjnoqn.com
 0.0.0.0 kihmnulxt.com
 0.0.0.0 kihonrhvkkgdiav.com
@@ -79323,6 +79326,7 @@
 0.0.0.0 nextnews.site
 0.0.0.0 nextoptim.com
 0.0.0.0 nextplainwatch.top
+0.0.0.0 nextprm.com
 0.0.0.0 nextpsh.top
 0.0.0.0 nextrelative.com
 0.0.0.0 nextretreat.me
@@ -84578,6 +84582,7 @@
 0.0.0.0 osatky.com
 0.0.0.0 osaud.com
 0.0.0.0 osaunsot.net
+0.0.0.0 osbjeans.com.cn
 0.0.0.0 osbmpudpkvwyrbw.com
 0.0.0.0 osbpcosnfgo.com
 0.0.0.0 oscaret.ca
@@ -132350,6 +132355,7 @@
 0.0.0.0 www.axesequelplant.com
 0.0.0.0 www.axisdoctrine.com
 0.0.0.0 www.axisnuisance.com
+0.0.0.0 www.aycanozden.com
 0.0.0.0 www.ayodeji.tech
 0.0.0.0 www.ayudame.biz
 0.0.0.0 www.ayuremedies.com
@@ -139496,6 +139502,7 @@
 0.0.0.0 www.kidslinecover.com
 0.0.0.0 www.kidsluw.com
 0.0.0.0 www.kidworld.app
+0.0.0.0 www.kigxgroup.com
 0.0.0.0 www.kikckfirtss.com
 0.0.0.0 www.killchatgpt.com
 0.0.0.0 www.killernineteenthjoyous.com
@@ -141298,6 +141305,7 @@
 0.0.0.0 www.newyorkcityburlesque.com
 0.0.0.0 www.nexashoppingclub.com
 0.0.0.0 www.nexo-code.com
+0.0.0.0 www.nextprm.com
 0.0.0.0 www.nextrelative.com
 0.0.0.0 www.nextsoft.co.in
 0.0.0.0 www.nexusmedia.tech
