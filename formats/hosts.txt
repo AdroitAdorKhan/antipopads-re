@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.224
 # Release: 224
-# Entries: 153,351
-# Updated: Sun, 11 Aug 24 02:20:10 +06
+# Entries: 153,352
+# Updated: Sun, 11 Aug 24 04:10:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -18826,6 +18826,7 @@
 0.0.0.0 broke-dev.site
 0.0.0.0 brokec.biz
 0.0.0.0 brokeloy.com
+0.0.0.0 brokemeritreduced.com
 0.0.0.0 brokenbva.com
 0.0.0.0 brokennails.org
 0.0.0.0 brokenneutralparsley.com
