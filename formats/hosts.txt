@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.223
 # Release: 223
-# Entries: 153,307
-# Updated: Sat, 10 Aug 24 18:20:37 +06
+# Entries: 153,310
+# Updated: Sat, 10 Aug 24 20:10:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28327,6 +28327,7 @@
 0.0.0.0 cu.demurerbewary.live
 0.0.0.0 cu.hahauturgy.com
 0.0.0.0 cu.hippieestreat.com
+0.0.0.0 cuagjbwehmin.com
 0.0.0.0 cuanbanget.net
 0.0.0.0 cuandoeraspavo.com
 0.0.0.0 cuanwin77.org
@@ -82524,6 +82525,7 @@
 0.0.0.0 ofhpmgbukb.com
 0.0.0.0 ofhunch.com
 0.0.0.0 ofhypnoer.com
+0.0.0.0 ofiowwjcps.xyz
 0.0.0.0 ofismxehutbm.com
 0.0.0.0 ofitstefukste.org
 0.0.0.0 ofkiqanf.xyz
@@ -121601,6 +121603,7 @@
 0.0.0.0 unisabana.shop
 0.0.0.0 unisabana.us
 0.0.0.0 uniset.io
+0.0.0.0 unispace.io
 0.0.0.0 unistore.top
 0.0.0.0 uniswap-uni.online
 0.0.0.0 uniswap.space
