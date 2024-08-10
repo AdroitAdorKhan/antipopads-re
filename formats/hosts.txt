@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.223
 # Release: 223
-# Entries: 153,293
-# Updated: Sat, 10 Aug 24 12:10:30 +06
+# Entries: 153,295
+# Updated: Sat, 10 Aug 24 14:07:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -8750,6 +8750,7 @@
 0.0.0.0 angrenuniversity.net
 0.0.0.0 angrilyinclusionminister.com
 0.0.0.0 angrilyunbuttoncouch.com
+0.0.0.0 angry-gamers.com
 0.0.0.0 angrygadget.net
 0.0.0.0 angryheadlong.com
 0.0.0.0 angsapiemonte.it
@@ -144751,6 +144752,7 @@
 0.0.0.0 www.sksil.com
 0.0.0.0 www.skullhalfway.com
 0.0.0.0 www.skyos.co.uk
+0.0.0.0 www.skyptp.com
 0.0.0.0 www.skyscraperreport.com
 0.0.0.0 www.slabreasonablyportions.com
 0.0.0.0 www.slamgarlic.com
