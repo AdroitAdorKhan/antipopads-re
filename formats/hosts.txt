@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.224
 # Release: 224
-# Entries: 153,460
-# Updated: Sun, 11 Aug 24 18:20:37 +06
+# Entries: 153,472
+# Updated: Sun, 11 Aug 24 20:10:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4805,6 +4805,7 @@
 0.0.0.0 addtakingcontinuous.com
 0.0.0.0 addthief.com
 0.0.0.0 addthirs.com
+0.0.0.0 adea.ca
 0.0.0.0 adecosystems.tech
 0.0.0.0 adeditiontowri.org
 0.0.0.0 adeepado.xyz
@@ -9835,6 +9836,7 @@
 0.0.0.0 apuwpigjno.com
 0.0.0.0 apvfhisrrmen.com
 0.0.0.0 apvmediamagic.com
+0.0.0.0 apvqmwvpnhbac.xyz
 0.0.0.0 apwhmiiwg.com
 0.0.0.0 apworks.co
 0.0.0.0 apxlv.com
@@ -16612,6 +16614,7 @@
 0.0.0.0 bkoufqfjgnd.com
 0.0.0.0 bkpndkowbo.com
 0.0.0.0 bkptarolium.uno
+0.0.0.0 bkpvntvnxvyxqo.com
 0.0.0.0 bkrmyhynjddpl.com
 0.0.0.0 bktchaton.digital
 0.0.0.0 bktqukpc.com
@@ -55239,6 +55242,7 @@
 0.0.0.0 hxorjxtgsdcc.com
 0.0.0.0 hxplnojsw.com
 0.0.0.0 hxpyrgqycgreyy.xyz
+0.0.0.0 hxriwsua.com
 0.0.0.0 hxtaisfsgtegut.xyz
 0.0.0.0 hxtvrydyhi.xyz
 0.0.0.0 hxukyvlhjk.xyz
@@ -58952,6 +58956,7 @@
 0.0.0.0 irfanproperties.com
 0.0.0.0 irfanwiew.com
 0.0.0.0 irfqmfnymyrs.com
+0.0.0.0 irfycqpwfg.com
 0.0.0.0 irgvfdwicqerqfy.com
 0.0.0.0 irgygllmp.com
 0.0.0.0 irhiuieasozbd.com
@@ -78324,6 +78329,7 @@
 0.0.0.0 nbctomjd.com
 0.0.0.0 nbdayingcellophane.com
 0.0.0.0 nbdnet.co.uk
+0.0.0.0 nbedyibjkgx.com
 0.0.0.0 nbeliterealtybrokerage.com
 0.0.0.0 nbfcfinqa.com
 0.0.0.0 nbgiadblm.com
@@ -80020,6 +80026,7 @@
 0.0.0.0 njdocs.com
 0.0.0.0 njdvazkdkbhvk.com
 0.0.0.0 njejgoscqmcqn.com
+0.0.0.0 njfdtcikyp.com
 0.0.0.0 njfqygvexn.com
 0.0.0.0 njfwjnpuq.com
 0.0.0.0 njfxmqvonppwq.com
@@ -111725,6 +111732,7 @@
 0.0.0.0 svist.site
 0.0.0.0 sviter2s1olenyami1.com
 0.0.0.0 svivla.biz
+0.0.0.0 svjrfdntwis.com
 0.0.0.0 svjvvfkriu.com
 0.0.0.0 svkmxwssih.com
 0.0.0.0 svkwiki.net
@@ -131323,6 +131331,7 @@
 0.0.0.0 www.aboundbunkerflap.com
 0.0.0.0 www.aboundplausibleeloquent.com
 0.0.0.0 www.aboutpersonify.com
+0.0.0.0 www.aboveaverageheavenly.com
 0.0.0.0 www.abrasivefirsthandsadly.com
 0.0.0.0 www.abrasivematch.com
 0.0.0.0 www.abridgesynchronizepleat.com
@@ -131462,6 +131471,7 @@
 0.0.0.0 www.additiontreason.com
 0.0.0.0 www.addresseeboldly.com
 0.0.0.0 www.addresslegbreathless.com
+0.0.0.0 www.adea.ca
 0.0.0.0 www.adeptexcessivewatches.com
 0.0.0.0 www.adeptfleamisjudge.com
 0.0.0.0 www.adflect.tech
@@ -132098,6 +132108,7 @@
 0.0.0.0 www.apptechnewz.com
 0.0.0.0 www.apptrialsource.com
 0.0.0.0 www.appwoolfeatures.com
+0.0.0.0 www.appzeyland.com
 0.0.0.0 www.appzksndomeinz.site
 0.0.0.0 www.aprilineffective.com
 0.0.0.0 www.aptdiary.com
@@ -141118,6 +141129,7 @@
 0.0.0.0 www.mpathix.com
 0.0.0.0 www.mpdeco.com
 0.0.0.0 www.mpls.buzz
+0.0.0.0 www.mpservicesinc.ca
 0.0.0.0 www.mpsmpahang.net
 0.0.0.0 www.mrdaveslab.com
 0.0.0.0 www.mrsmatch.com
