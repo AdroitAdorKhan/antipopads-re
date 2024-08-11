@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.224
 # Release: 224
-# Entries: 153,352
-# Updated: Sun, 11 Aug 24 04:10:03 +06
+# Entries: 153,354
+# Updated: Sun, 11 Aug 24 06:07:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -92832,6 +92832,7 @@
 0.0.0.0 pselubeet.com
 0.0.0.0 psemotion.top
 0.0.0.0 psensuds.net
+0.0.0.0 pserdagrit.net
 0.0.0.0 psergete.com
 0.0.0.0 psewhaur.net
 0.0.0.0 psfdi.com
@@ -126637,6 +126638,7 @@
 0.0.0.0 wagecarriage.com
 0.0.0.0 wagecolorful.com
 0.0.0.0 wagedustermet.com
+0.0.0.0 wagenerfevers.com
 0.0.0.0 wagepulsate.com
 0.0.0.0 wagerjoint.com
 0.0.0.0 wagerprocuratorantiterrorist.com
