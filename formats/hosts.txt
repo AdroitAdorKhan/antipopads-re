@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.225
 # Release: 225
-# Entries: 153,558
-# Updated: Mon, 12 Aug 24 00:08:46 +06
+# Entries: 153,560
+# Updated: Mon, 12 Aug 24 02:21:17 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -23749,6 +23749,7 @@
 0.0.0.0 cinemahelicopterwall.com
 0.0.0.0 cinemakim.net
 0.0.0.0 cinemarequestsperfume.com
+0.0.0.0 cinematop.net
 0.0.0.0 cinemensenoy.xyz
 0.0.0.0 cineolesloth.com
 0.0.0.0 cineplexalecoute.com
@@ -58867,6 +58868,7 @@
 0.0.0.0 ipsjxtyxji.com
 0.0.0.0 ipsoozodavob.xyz
 0.0.0.0 ipsowrite.com
+0.0.0.0 ipstbyxrmfbsbp.com
 0.0.0.0 ipsttulf.com
 0.0.0.0 ipsvptuxn.com
 0.0.0.0 ipsylon.space
