@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.224
 # Release: 224
-# Entries: 153,447
-# Updated: Sun, 11 Aug 24 12:10:27 +06
+# Entries: 153,451
+# Updated: Sun, 11 Aug 24 14:07:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -36416,6 +36416,7 @@
 0.0.0.0 eegnacou.com
 0.0.0.0 eegookiz.com
 0.0.0.0 eegprgsylcf.com
+0.0.0.0 eegrautsair.net
 0.0.0.0 eegroosoad.com
 0.0.0.0 eeheersoat.com
 0.0.0.0 eehimeer.xyz
@@ -137371,6 +137372,7 @@
 0.0.0.0 www.futileharrystephen.com
 0.0.0.0 www.futvbol.net
 0.0.0.0 www.fuzzywardshoplifting.com
+0.0.0.0 www.fwsgroup.net
 0.0.0.0 www.fwww.topcreativeformat.com
 0.0.0.0 www.fxpipeline.com
 0.0.0.0 www.fxtrademill.com
@@ -140432,6 +140434,7 @@
 0.0.0.0 www.magistratehumorousjeep.com
 0.0.0.0 www.magnati.co.uk
 0.0.0.0 www.magnetoperatingnarcotic.com
+0.0.0.0 www.magnosistema.com
 0.0.0.0 www.mahaidroagra.com
 0.0.0.0 www.mahakriya.com
 0.0.0.0 www.maharajgroup.co.za
@@ -146109,6 +146112,7 @@
 0.0.0.0 www.theclubpalmbeach.com
 0.0.0.0 www.theconnectedlightingalliance.org
 0.0.0.0 www.theconspicuum.org
+0.0.0.0 www.thecoolposts.com
 0.0.0.0 www.thecrypto-genius.net
 0.0.0.0 www.theecomfamily.online
 0.0.0.0 www.theelegantstores.com
