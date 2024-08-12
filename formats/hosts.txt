@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.225
 # Release: 225
-# Entries: 153,802
-# Updated: Mon, 12 Aug 24 12:10:09 +06
+# Entries: 153,804
+# Updated: Mon, 12 Aug 24 14:07:42 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -101739,6 +101739,7 @@
 0.0.0.0 sakshar.store
 0.0.0.0 sakshibhavavritti.org
 0.0.0.0 sakshigraphics.com
+0.0.0.0 saksourt.net
 0.0.0.0 saktdtmkt.com
 0.0.0.0 sakthibooks.in
 0.0.0.0 saktismberakes.space
@@ -123090,6 +123091,7 @@
 0.0.0.0 usutuyvsvjun.xyz
 0.0.0.0 usviptour.com
 0.0.0.0 usvisatalk.com
+0.0.0.0 usvitgco.com
 0.0.0.0 uswardwot.com
 0.0.0.0 uswestdigest.com
 0.0.0.0 uswshop.com
