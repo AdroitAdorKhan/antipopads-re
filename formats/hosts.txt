@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.225
 # Release: 225
-# Entries: 153,562
-# Updated: Mon, 12 Aug 24 04:10:06 +06
+# Entries: 153,566
+# Updated: Mon, 12 Aug 24 06:07:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -18956,6 +18956,7 @@
 0.0.0.0 browsiprod.com
 0.0.0.0 browsobsolete.com
 0.0.0.0 browsterstack.com
+0.0.0.0 browsum.com
 0.0.0.0 brozgar.com
 0.0.0.0 brpldaut.com
 0.0.0.0 brppwfej.com
@@ -20839,6 +20840,7 @@
 0.0.0.0 capitaineshop.com
 0.0.0.0 capitalfxstream.com
 0.0.0.0 capitalhasterussian.com
+0.0.0.0 capitalhitelhaz.com
 0.0.0.0 capitalistblotbits.com
 0.0.0.0 capitalistlukewarmdot.com
 0.0.0.0 capitallinkinc.org
@@ -133682,6 +133684,7 @@
 0.0.0.0 www.capcityofgreenfield.com
 0.0.0.0 www.capemayherald.com
 0.0.0.0 www.capeplannails.com
+0.0.0.0 www.capitalhitelhaz.com
 0.0.0.0 www.capitalistlukewarmdot.com
 0.0.0.0 www.capitalpowertrade.ltd
 0.0.0.0 www.capitalpromoter.com
@@ -150796,6 +150799,7 @@
 0.0.0.0 yguuoibdsscki.com
 0.0.0.0 ygvbgf.tech
 0.0.0.0 ygvqughn.com
+0.0.0.0 ygvxgyuc.com
 0.0.0.0 ygwolffshop.store
 0.0.0.0 ygxbitssites.ltd
 0.0.0.0 ygymthipvx.com
