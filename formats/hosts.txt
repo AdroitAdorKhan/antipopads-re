@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.226
 # Release: 226
-# Entries: 154,193
-# Updated: Tue, 13 Aug 24 12:10:34 +06
+# Entries: 154,196
+# Updated: Tue, 13 Aug 24 14:07:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20920,6 +20920,7 @@
 0.0.0.0 capawhile.com
 0.0.0.0 capcityofgreenfield.com
 0.0.0.0 capeantiquariandecision.com
+0.0.0.0 capefast.com
 0.0.0.0 capelca.com
 0.0.0.0 capellaregia.com
 0.0.0.0 capemayherald.com
@@ -40375,6 +40376,7 @@
 0.0.0.0 expertcamomile.com
 0.0.0.0 expertin.pro
 0.0.0.0 expertisefall.com
+0.0.0.0 expertiseincompatiblejean.com
 0.0.0.0 expertiseinpractice.com
 0.0.0.0 expertiseresemblefood.com
 0.0.0.0 expertkanakrasu.online
@@ -62895,6 +62897,7 @@
 0.0.0.0 jvnydntynmru.com
 0.0.0.0 jvpxqmie.com
 0.0.0.0 jvqqpnijsvtscbk.com
+0.0.0.0 jvqrvzlyv.com
 0.0.0.0 jvrawodh.com
 0.0.0.0 jvsffrjutsax.com
 0.0.0.0 jvslltus.com
