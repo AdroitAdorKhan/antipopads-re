@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.227
 # Release: 227
-# Entries: 154,523
-# Updated: Wed, 14 Aug 24 12:11:03 +06
+# Entries: 154,525
+# Updated: Wed, 14 Aug 24 14:07:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -127435,6 +127435,7 @@
 0.0.0.0 vw.dvaitatonging.com
 0.0.0.0 vw.eagletskoku.com
 0.0.0.0 vw.savssatcowslip.com
+0.0.0.0 vwa-forum.net
 0.0.0.0 vwaflbckj.com
 0.0.0.0 vwbeffdpvk.xyz
 0.0.0.0 vwbkxmnakelel.com
@@ -129366,6 +129367,7 @@
 0.0.0.0 whatnotbenjoin.top
 0.0.0.0 whatolra.net
 0.0.0.0 whatosgoingon.biz
+0.0.0.0 whatsapp-messenger.net
 0.0.0.0 whatsappautomation.org
 0.0.0.0 whatsapplogin.net
 0.0.0.0 whatsapppoint.com
