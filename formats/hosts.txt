@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.228
 # Release: 228
-# Entries: 154,608
-# Updated: Thu, 15 Aug 24 02:26:27 +06
+# Entries: 154,612
+# Updated: Thu, 15 Aug 24 04:11:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -23330,6 +23330,7 @@
 0.0.0.0 chibchasuffete.com
 0.0.0.0 chic-cocktail.com
 0.0.0.0 chicagocraigslist.com
+0.0.0.0 chicagopickleco.com
 0.0.0.0 chicagopicklecompany.com
 0.0.0.0 chicanostyle.com
 0.0.0.0 chicanowaffing.digital
@@ -59373,6 +59374,7 @@
 0.0.0.0 iqacademy.co.in
 0.0.0.0 iqacyu.top
 0.0.0.0 iqakogmxrlusyv.com
+0.0.0.0 iqbackoffice.in
 0.0.0.0 iqbkkhhsgk.com
 0.0.0.0 iqcjuetaudtj.com
 0.0.0.0 iqdonbkstx.com
@@ -102937,6 +102939,7 @@
 0.0.0.0 satur-uac.com
 0.0.0.0 saturatecats.com
 0.0.0.0 saturatedrake.com
+0.0.0.0 saturatemadman.com
 0.0.0.0 saturdayaremoaning.com
 0.0.0.0 saturdaygrownupneglect.com
 0.0.0.0 saturdayloathe.com
@@ -153916,6 +153919,7 @@
 0.0.0.0 ziourel.com
 0.0.0.0 zipakrar.com
 0.0.0.0 ziparegulus.uno
+0.0.0.0 ziphay.com
 0.0.0.0 zipheeda.xyz
 0.0.0.0 ziphoumt.net
 0.0.0.0 zipinaccurateoffering.com
