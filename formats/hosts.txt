@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.227
 # Release: 227
-# Entries: 154,442
-# Updated: Wed, 14 Aug 24 06:08:03 +06
+# Entries: 154,444
+# Updated: Wed, 14 Aug 24 08:08:13 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -22768,6 +22768,7 @@
 0.0.0.0 change1it.com
 0.0.0.0 changeablesizepractically.com
 0.0.0.0 changeassy.com
+0.0.0.0 changeconfidential.com
 0.0.0.0 changedcombustible.com
 0.0.0.0 changedmuffin.com
 0.0.0.0 changeflamboyant.com
@@ -81656,6 +81657,7 @@
 0.0.0.0 nqsbadijd.com
 0.0.0.0 nqslmtuswqdz.com
 0.0.0.0 nqtgdobsouiwfpd.top
+0.0.0.0 nqtjmfagq.com
 0.0.0.0 nqtqkl.cn
 0.0.0.0 nqtufgmgmjnwlj.com
 0.0.0.0 nqtxg.xyz
