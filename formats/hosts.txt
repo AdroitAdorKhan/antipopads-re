@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.228
 # Release: 228
-# Entries: 154,616
-# Updated: Thu, 15 Aug 24 06:09:04 +06
+# Entries: 154,617
+# Updated: Thu, 15 Aug 24 08:08:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -50570,6 +50570,7 @@
 0.0.0.0 gtitcah.com
 0.0.0.0 gtkimwuyvqfb.com
 0.0.0.0 gtlcgovlg.com
+0.0.0.0 gtlflscx.com
 0.0.0.0 gtlxdkgc.com
 0.0.0.0 gtm4health.in
 0.0.0.0 gtmail.ltd
