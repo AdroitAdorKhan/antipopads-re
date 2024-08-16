@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.229
 # Release: 229
-# Entries: 154,914
-# Updated: Fri, 16 Aug 24 12:28:33 +06
+# Entries: 154,922
+# Updated: Fri, 16 Aug 24 14:07:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19388,6 +19388,7 @@
 0.0.0.0 bucketbean.com
 0.0.0.0 bucketbridge.cloud
 0.0.0.0 bucketcoolers.com
+0.0.0.0 bucketproudly.com
 0.0.0.0 bucketq.com
 0.0.0.0 bucketq.in
 0.0.0.0 buckeyecustomknives.com
@@ -35735,6 +35736,7 @@
 0.0.0.0 dyogoiegnmknca.com
 0.0.0.0 dyoiqojlyntvy.com
 0.0.0.0 dyptanaza.com
+0.0.0.0 dyqjndui.com
 0.0.0.0 dyqmjimb.com
 0.0.0.0 dysdiz.com
 0.0.0.0 dysenteryappeal.com
@@ -56234,6 +56236,7 @@
 0.0.0.0 ibnlokoitqdo.com
 0.0.0.0 ibome.me
 0.0.0.0 ibonmfvcwb.xyz
+0.0.0.0 iboobeelt.net
 0.0.0.0 ibortvgbkvpmes.com
 0.0.0.0 ibpl.in
 0.0.0.0 ibplatform.net
@@ -93101,6 +93104,7 @@
 0.0.0.0 processionrecital.com
 0.0.0.0 processorcenter.com
 0.0.0.0 processpardon.com
+0.0.0.0 processsky.com
 0.0.0.0 processsolutionsintegration.info
 0.0.0.0 processzonular.space
 0.0.0.0 procheeralumni.org
@@ -102807,6 +102811,7 @@
 0.0.0.0 samtrg.com
 0.0.0.0 samtugli.net
 0.0.0.0 samudia.com
+0.0.0.0 samudraindex.com
 0.0.0.0 samuelmaguire.ca
 0.0.0.0 samuelmarcinko.com
 0.0.0.0 samuelphineasupham.com
@@ -106049,6 +106054,7 @@
 0.0.0.0 shonetransmittedfaces.com
 0.0.0.0 shonevegetable.com
 0.0.0.0 shonooch.xyz
+0.0.0.0 shoodretheen.net
 0.0.0.0 shoofha.xyz
 0.0.0.0 shoogled.com
 0.0.0.0 shoohinoab.com
@@ -145663,6 +145669,7 @@
 0.0.0.0 www.samphire.org
 0.0.0.0 www.samplerenamed.com
 0.0.0.0 www.samsunggp.com
+0.0.0.0 www.samudraindex.com
 0.0.0.0 www.samuelson.insure
 0.0.0.0 www.sanctifylensimperfect.com
 0.0.0.0 www.sandboxenvironmental.com
@@ -145811,6 +145818,7 @@
 0.0.0.0 www.sealedsimplicitynoun.com
 0.0.0.0 www.seamsuddenbanish.com
 0.0.0.0 www.searchwww.com
+0.0.0.0 www.seashoreshine.com
 0.0.0.0 www.seatedbluff.com
 0.0.0.0 www.seatedparanoiaenslave.com
 0.0.0.0 www.seatedsaintinsist.com
