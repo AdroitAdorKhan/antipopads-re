@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.230
 # Release: 230
-# Entries: 155,095
-# Updated: Sat, 17 Aug 24 14:07:40 +06
+# Entries: 155,096
+# Updated: Sat, 17 Aug 24 16:08:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -129806,6 +129806,7 @@
 0.0.0.0 wghzbgmjpyig.com
 0.0.0.0 wgiqtncms.xyz
 0.0.0.0 wgkggub.com
+0.0.0.0 wgnefmhwookdh.com
 0.0.0.0 wgpartner.com
 0.0.0.0 wgpcovpcgn.com
 0.0.0.0 wgplayer.com
