@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.230
 # Release: 230
-# Entries: 155,030
-# Updated: Sat, 17 Aug 24 06:07:54 +06
+# Entries: 155,033
+# Updated: Sat, 17 Aug 24 08:08:27 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -54318,6 +54318,7 @@
 0.0.0.0 homepig4.xyz
 0.0.0.0 homepik.net
 0.0.0.0 homerealtycalifornia.com
+0.0.0.0 homeremedies4all.net
 0.0.0.0 homerewardstoday.com
 0.0.0.0 homergeoidal.tech
 0.0.0.0 homesafetyconsult.com
@@ -64803,6 +64804,7 @@
 0.0.0.0 kinasechebog.tech
 0.0.0.0 kinbashful.com
 0.0.0.0 kindeargrain.com
+0.0.0.0 kindemolitions.ca
 0.0.0.0 kinder-hearts.org
 0.0.0.0 kindergarteninitiallyprotector.com
 0.0.0.0 kindersheart.com
@@ -139884,6 +139886,7 @@
 0.0.0.0 www.homeloanrangers.com
 0.0.0.0 www.homeopathliliana.com
 0.0.0.0 www.homerealtycalifornia.com
+0.0.0.0 www.homeremedies4all.net
 0.0.0.0 www.homesickgoodnight.com
 0.0.0.0 www.homesickheron.com
 0.0.0.0 www.homestylelandscaping.com
