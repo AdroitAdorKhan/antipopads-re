@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.232
 # Release: 232
-# Entries: 155,325
-# Updated: Mon, 19 Aug 24 02:07:46 +06
+# Entries: 155,329
+# Updated: Mon, 19 Aug 24 04:27:29 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -20921,6 +20921,7 @@
 0.0.0.0 canadianstatesman.com
 0.0.0.0 canadiantrace.com
 0.0.0.0 canadiantrace.net
+0.0.0.0 canaform.net
 0.0.0.0 canalsul.net
 0.0.0.0 canalthinkcleaning.com
 0.0.0.0 canamera.com
@@ -92448,6 +92449,7 @@
 0.0.0.0 pqmvcngrcfqfs.com
 0.0.0.0 pqnlokaqeyq.xyz
 0.0.0.0 pqnyrissgapprec.xyz
+0.0.0.0 pqotwscxucvn.com
 0.0.0.0 pqplkjwwezfrn.com
 0.0.0.0 pqquvnlausmpyv.xyz
 0.0.0.0 pqrst.in
@@ -111356,6 +111358,7 @@
 0.0.0.0 stethaug.xyz
 0.0.0.0 stethuth.xyz
 0.0.0.0 stethydelicat.com
+0.0.0.0 stetica.net
 0.0.0.0 steuergruppe.com
 0.0.0.0 steve-rogers.com
 0.0.0.0 steveandkim.net
@@ -147241,6 +147244,7 @@
 0.0.0.0 www.sterncock.com
 0.0.0.0 www.sternlythese.com
 0.0.0.0 www.steroidhazeparticipate.com
+0.0.0.0 www.stetica.net
 0.0.0.0 www.steveoriginate.com
 0.0.0.0 www.stevestonproperties.com
 0.0.0.0 www.stewardchurch.com
