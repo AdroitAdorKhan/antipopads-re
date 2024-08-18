@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.231
 # Release: 231
-# Entries: 155,183
-# Updated: Sun, 18 Aug 24 04:25:26 +06
+# Entries: 155,184
+# Updated: Sun, 18 Aug 24 06:07:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -89428,6 +89428,7 @@
 0.0.0.0 phauftee.xyz
 0.0.0.0 phaughykdqwtrc.com
 0.0.0.0 phauraur.com
+0.0.0.0 phaursargy.net
 0.0.0.0 phaurtuh.net
 0.0.0.0 phause.com
 0.0.0.0 phautchiwaiw.net
