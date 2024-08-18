@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.231
 # Release: 231
-# Entries: 155,256
-# Updated: Sun, 18 Aug 24 12:26:31 +06
+# Entries: 155,258
+# Updated: Sun, 18 Aug 24 16:08:05 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -78770,6 +78770,7 @@
 0.0.0.0 nafgtolxbfefeod.xyz
 0.0.0.0 nafizinternational.com
 0.0.0.0 nafjwnaadoiso.com
+0.0.0.0 nafmc.edu.in
 0.0.0.0 naforeshow.org
 0.0.0.0 nafpghhxoatbkn.com
 0.0.0.0 nafrebnkxlmgos.com
@@ -81245,6 +81246,7 @@
 0.0.0.0 nmrcvexqa.com
 0.0.0.0 nmrjnqiwocfyi.com
 0.0.0.0 nmrkgcs.com
+0.0.0.0 nmruwivz.com
 0.0.0.0 nms911.xyz
 0.0.0.0 nmsedhkcd.com
 0.0.0.0 nmthpcanvokjbkh.xyz
