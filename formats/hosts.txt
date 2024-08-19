@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.232
 # Release: 232
-# Entries: 155,334
-# Updated: Mon, 19 Aug 24 06:07:47 +06
+# Entries: 155,335
+# Updated: Mon, 19 Aug 24 08:07:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -53904,6 +53904,7 @@
 0.0.0.0 hjcc70.com
 0.0.0.0 hjcgg55.com
 0.0.0.0 hjcjymkto.com
+0.0.0.0 hjeilbpxjtyl.com
 0.0.0.0 hjergtqsbiuybey.com
 0.0.0.0 hjf5e2222.com
 0.0.0.0 hjfkxeyptxoutut.com
