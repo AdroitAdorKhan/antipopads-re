@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.232
 # Release: 232
-# Entries: 155,443
-# Updated: Mon, 19 Aug 24 14:40:15 +06
+# Entries: 155,446
+# Updated: Mon, 19 Aug 24 16:07:41 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -57185,6 +57185,7 @@
 0.0.0.0 ijswlzoivzzsvz.com
 0.0.0.0 ijtema.net
 0.0.0.0 ijukwkxpek.xyz
+0.0.0.0 ijulpfhnufwpci.com
 0.0.0.0 ijwhmybgth.xyz
 0.0.0.0 ijxnnrnp.xyz
 0.0.0.0 ijyoguyv.com
@@ -80540,6 +80541,7 @@
 0.0.0.0 nextoptim.com
 0.0.0.0 nextplainwatch.top
 0.0.0.0 nextprm.com
+0.0.0.0 nextpro.ec
 0.0.0.0 nextpsh.top
 0.0.0.0 nextrelative.com
 0.0.0.0 nextretreat.me
@@ -143367,6 +143369,7 @@
 0.0.0.0 www.nexashoppingclub.com
 0.0.0.0 www.nexo-code.com
 0.0.0.0 www.nextprm.com
+0.0.0.0 www.nextpro.ec
 0.0.0.0 www.nextrelative.com
 0.0.0.0 www.nextsoft.co.in
 0.0.0.0 www.nexusmedia.tech
