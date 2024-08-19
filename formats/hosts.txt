@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.08.232
-# Release: 232
-# Entries: 155,496
-# Updated: Mon, 19 Aug 24 22:07:56 +06
+# Version: 24.08.233
+# Release: 233
+# Entries: 155,498
+# Updated: Tue, 20 Aug 24 00:07:53 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -48444,6 +48444,7 @@
 0.0.0.0 glimtors.net
 0.0.0.0 glinkembraid.top
 0.0.0.0 glintedhatbox.uno
+0.0.0.0 glipteechath.net
 0.0.0.0 glipusta.com
 0.0.0.0 glirsoss.com
 0.0.0.0 glishais.net
@@ -88013,6 +88014,7 @@
 0.0.0.0 pastioripastipromo.tech
 0.0.0.0 pastjauntychinese.com
 0.0.0.0 pastlifesoulregression.com
+0.0.0.0 pastortogo.org
 0.0.0.0 pastoupt.com
 0.0.0.0 pastreflected.com
 0.0.0.0 paststwku.com
