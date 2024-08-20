@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.233
 # Release: 233
-# Entries: 155,620
-# Updated: Tue, 20 Aug 24 12:28:28 +06
+# Entries: 155,623
+# Updated: Tue, 20 Aug 24 14:07:37 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12616,6 +12616,7 @@
 0.0.0.0 awhfgvmwhhx.com
 0.0.0.0 awhiledad.com
 0.0.0.0 awhileirrelevant.com
+0.0.0.0 awhiptera.net
 0.0.0.0 awhnojwscnvnla.com
 0.0.0.0 awhokspcyr.com
 0.0.0.0 awi-it.it
@@ -108351,6 +108352,7 @@
 0.0.0.0 slpstudent.com
 0.0.0.0 slqyrvijxviet.com
 0.0.0.0 slrviazqkilu.com
+0.0.0.0 slsarchive.net
 0.0.0.0 slshaqynationalhighschool.in
 0.0.0.0 slsiti.com
 0.0.0.0 slteggsqlcelb.com
@@ -138649,6 +138651,7 @@
 0.0.0.0 www.fabredo.com
 0.0.0.0 www.fabulousrestrict.com
 0.0.0.0 www.faceandhairtrend.com
+0.0.0.0 www.facebook.giaynu.net
 0.0.0.0 www.facebook1.net
 0.0.0.0 www.facebooksignin.net
 0.0.0.0 www.facebooksignin.org
