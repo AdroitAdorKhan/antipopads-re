@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.235
 # Release: 235
-# Entries: 155,797
-# Updated: Thu, 22 Aug 24 02:08:04 +06
+# Entries: 155,803
+# Updated: Thu, 22 Aug 24 04:28:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4161,6 +4161,7 @@
 0.0.0.0 acceleratemouse.com
 0.0.0.0 acceleratenovice.com
 0.0.0.0 accelerateswitch.com
+0.0.0.0 acceleratetomb.com
 0.0.0.0 accelerationplebs.com
 0.0.0.0 acceleratorhr.com
 0.0.0.0 accelererlesvacations.com
@@ -37354,6 +37355,7 @@
 0.0.0.0 ehakpsvdt.com
 0.0.0.0 ehasilks.store
 0.0.0.0 ehb99.com
+0.0.0.0 ehbiosuco.com
 0.0.0.0 ehcasbtbjprmri.com
 0.0.0.0 ehclptriihxha.com
 0.0.0.0 ehcrmpbrfyrq.com
@@ -48277,6 +48279,7 @@
 0.0.0.0 gj-agency.com
 0.0.0.0 gj892.com
 0.0.0.0 gjcujbnhcimgxav.com
+0.0.0.0 gjdgdhjfkbwx.com
 0.0.0.0 gjehsaopbbgnr.com
 0.0.0.0 gjepcmegacfc.org
 0.0.0.0 gjexigugdor.com
@@ -117358,6 +117361,7 @@
 0.0.0.0 theplayadvisor.com
 0.0.0.0 theplumbermarketer.net
 0.0.0.0 theplumbersmarketer.net
+0.0.0.0 thepocketpower.org
 0.0.0.0 thepocketwatchmarket.com
 0.0.0.0 thepokemonproject.com
 0.0.0.0 thepoleteam.com
@@ -148414,6 +148418,7 @@
 0.0.0.0 www.thekandhorayas.org
 0.0.0.0 www.thekragnoots.com
 0.0.0.0 www.thelifelunch.com
+0.0.0.0 www.theliquidcity.com
 0.0.0.0 www.thelivebasket.website
 0.0.0.0 www.thelocaldistro.com
 0.0.0.0 www.theloftartists.com
@@ -148443,6 +148448,7 @@
 0.0.0.0 www.thep322.com
 0.0.0.0 www.thepackingshed.com.au
 0.0.0.0 www.thepeoplestoreentertainmentcompany.online
+0.0.0.0 www.thepocketpower.org
 0.0.0.0 www.thepokemonproject.com
 0.0.0.0 www.theporn177.com
 0.0.0.0 www.theporn255.com
