@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.234
 # Release: 234
-# Entries: 155,773
-# Updated: Wed, 21 Aug 24 20:24:14 +06
+# Entries: 155,777
+# Updated: Wed, 21 Aug 24 22:08:01 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19687,6 +19687,7 @@
 0.0.0.0 bulk.studio
 0.0.0.0 bulkaapricot.com
 0.0.0.0 bulkaccompanying.com
+0.0.0.0 bulkbrigade.com
 0.0.0.0 bulkconflictpeculiarities.com
 0.0.0.0 bulkd.co
 0.0.0.0 bulkemailchecker2.com
@@ -23141,6 +23142,7 @@
 0.0.0.0 chaudhryclinic.org
 0.0.0.0 chaudoubeets.net
 0.0.0.0 chaudrep.net
+0.0.0.0 chauffeurreliancegreek.com
 0.0.0.0 chaugroo.net
 0.0.0.0 chauhonglinh.org
 0.0.0.0 chauinubbins.com
@@ -53951,6 +53953,7 @@
 0.0.0.0 hirelinghistorian.com
 0.0.0.0 hirepuces.uno
 0.0.0.0 hireshrinebeauty.com
+0.0.0.0 hiresplinter.com
 0.0.0.0 hiretech.jobs
 0.0.0.0 hiringairport.com
 0.0.0.0 hiringwould.com
@@ -108406,6 +108409,7 @@
 0.0.0.0 slovakiank9.com
 0.0.0.0 slovakiaopen.online
 0.0.0.0 slovakiatrade.co.uk
+0.0.0.0 slovakiatrade.cz
 0.0.0.0 slovakiatrade.de
 0.0.0.0 slovakiatrade.net
 0.0.0.0 slovakiatrade.pl
