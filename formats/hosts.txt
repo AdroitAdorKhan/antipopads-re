@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.236
 # Release: 236
-# Entries: 155,988
-# Updated: Fri, 23 Aug 24 00:07:57 +06
+# Entries: 155,991
+# Updated: Fri, 23 Aug 24 02:08:04 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -49157,6 +49157,7 @@
 0.0.0.0 goadserver.com
 0.0.0.0 goadx.com
 0.0.0.0 goaffiliateprogram.com
+0.0.0.0 goafoatojur.net
 0.0.0.0 goagloow.xyz
 0.0.0.0 goahoubesho.com
 0.0.0.0 goahouma.xyz
@@ -61478,6 +61479,7 @@
 0.0.0.0 jawfallporkies.space
 0.0.0.0 jawholeminable.com
 0.0.0.0 jawinfallible.com
+0.0.0.0 jawkrvcwisp.com
 0.0.0.0 jawlawolf.com
 0.0.0.0 jawlookingchapter.com
 0.0.0.0 jawsspecific.com
@@ -82994,6 +82996,7 @@
 0.0.0.0 nuzuki.com
 0.0.0.0 nv.anginasallodge.com
 0.0.0.0 nv.uglieraccoll.com
+0.0.0.0 nv5g.com
 0.0.0.0 nvaepsns.com
 0.0.0.0 nvchhzg.com
 0.0.0.0 nvctdpdiihxboe.com
