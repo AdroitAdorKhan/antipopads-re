@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.235
 # Release: 235
-# Entries: 155,803
-# Updated: Thu, 22 Aug 24 04:28:55 +06
+# Entries: 155,807
+# Updated: Thu, 22 Aug 24 06:07:57 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19769,6 +19769,7 @@
 0.0.0.0 bunchofads.com
 0.0.0.0 bunchofcreatives.com
 0.0.0.0 bunchofideas.space
+0.0.0.0 buncnltyh.com
 0.0.0.0 buncoswosh.com
 0.0.0.0 buncounsel.com
 0.0.0.0 bundequinst.cfd
@@ -27781,6 +27782,7 @@
 0.0.0.0 cpmnetworkcontent.com
 0.0.0.0 cpmprofitablecontent.com
 0.0.0.0 cpmprofitablenetwork.com
+0.0.0.0 cpmrevenuegate.com
 0.0.0.0 cpmrevenuenetwork.com
 0.0.0.0 cpmrocket.com
 0.0.0.0 cpmspace.com
@@ -60486,6 +60488,7 @@
 0.0.0.0 itsystemsglobal.space
 0.0.0.0 ittaxklbddvfcw.xyz
 0.0.0.0 itthatsheis.one
+0.0.0.0 ittmoydrzgr.com
 0.0.0.0 ittogepiom.com
 0.0.0.0 ittontrinevengre.info
 0.0.0.0 ittorchicer.com
@@ -90100,6 +90103,7 @@
 0.0.0.0 phxnkysa.com
 0.0.0.0 phychashowi.com
 0.0.0.0 phydihffyoq.com
+0.0.0.0 phylpyffv.com
 0.0.0.0 physessangsue.digital
 0.0.0.0 physical-flow-i-255.site
 0.0.0.0 physicalaverage.com
