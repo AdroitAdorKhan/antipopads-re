@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.235
 # Release: 235
-# Entries: 155,882
-# Updated: Thu, 22 Aug 24 12:29:46 +06
+# Entries: 155,885
+# Updated: Thu, 22 Aug 24 14:07:58 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -78669,6 +78669,7 @@
 0.0.0.0 mylearngroup.com
 0.0.0.0 mylearnworld.com
 0.0.0.0 mylemans-it.be
+0.0.0.0 mylevitrabag.net
 0.0.0.0 mylhhqycuxti.com
 0.0.0.0 mylifeafter45.com
 0.0.0.0 mylifestylehive.com
@@ -79762,6 +79763,7 @@
 0.0.0.0 ncgtc.org
 0.0.0.0 ncgtc.org.in
 0.0.0.0 ncgvowqfolon.com
+0.0.0.0 nchcbyqiejdh.com
 0.0.0.0 nchiragtravels.com
 0.0.0.0 nchldbebusjf.com
 0.0.0.0 ncih5app.com
@@ -143555,6 +143557,7 @@
 0.0.0.0 www.mykhel11.com
 0.0.0.0 www.mykotakrewards.co.in
 0.0.0.0 www.mylearnworld.com
+0.0.0.0 www.mylevitrabag.net
 0.0.0.0 www.mylifeafter45.com
 0.0.0.0 www.mylpg.in
 0.0.0.0 www.mymantech.com
