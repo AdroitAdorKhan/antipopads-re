@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.236
 # Release: 236
-# Entries: 156,015
-# Updated: Fri, 23 Aug 24 08:07:51 +06
+# Entries: 156,018
+# Updated: Fri, 23 Aug 24 10:07:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -70732,6 +70732,7 @@
 0.0.0.0 lostincunt.com
 0.0.0.0 lostinfuture.com
 0.0.0.0 lostinsmokenft.com
+0.0.0.0 lostnewman.com
 0.0.0.0 lostswiftpliable.com
 0.0.0.0 losybsno.com
 0.0.0.0 lotacaoesgotada.net
@@ -80139,6 +80140,7 @@
 0.0.0.0 negure.com
 0.0.0.0 negxkj5ca.com
 0.0.0.0 negyuk.com
+0.0.0.0 nehasiesien.com
 0.0.0.0 nehersheteen.pro
 0.0.0.0 nehfvhil.xyz
 0.0.0.0 nehjnhektmg.com
@@ -130510,6 +130512,7 @@
 0.0.0.0 westernicbc.com
 0.0.0.0 westerninsurancebusiness.ca
 0.0.0.0 westerninsurancehome.ca
+0.0.0.0 westerninsurancesolutions.ca
 0.0.0.0 westernromancecompany.com
 0.0.0.0 westernsgi.ca
 0.0.0.0 westernsgi.com
