@@ -17,10 +17,10 @@
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: hosts
-# Version: 24.08.237
-# Release: 237
-# Entries: 156,256
-# Updated: Sat, 24 Aug 24 22:08:49 +06
+# Version: 24.08.238
+# Release: 238
+# Entries: 156,268
+# Updated: Sun, 25 Aug 24 00:08:02 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -21475,6 +21475,8 @@
 0.0.0.0 carnavalmazatlan.net
 0.0.0.0 carnavalnoir.ca
 0.0.0.0 carnegiechildcarecentre.ca
+0.0.0.0 carnegiemobile.com
+0.0.0.0 carnegiewireless.com
 0.0.0.0 carnevalarco.it
 0.0.0.0 carniolalabs.com
 0.0.0.0 carnit.one
@@ -37514,6 +37516,7 @@
 0.0.0.0 ehxddpuhuahd.com
 0.0.0.0 ehxjgcirwdgslc.com
 0.0.0.0 ehxyqcdnpqweffc.com
+0.0.0.0 eialptxvjdfvvnl.com
 0.0.0.0 eiasninancu.com
 0.0.0.0 eiautomation.in
 0.0.0.0 eibiifiieedbjdacabf.ru
@@ -70296,6 +70299,7 @@
 0.0.0.0 loaksandtheir.info
 0.0.0.0 loanlocatorsa.co.za
 0.0.0.0 loanmatchsa.co.za
+0.0.0.0 loannescoffeeco.com
 0.0.0.0 loanonionbidding.com
 0.0.0.0 loanpoint.com
 0.0.0.0 loans-finder.com
@@ -78131,6 +78135,7 @@
 0.0.0.0 muletatyphic.com
 0.0.0.0 muleyyanky.website
 0.0.0.0 mulitaungot.space
+0.0.0.0 mullanium.com
 0.0.0.0 mullerjewelry.com
 0.0.0.0 mulleysnutmeg.com
 0.0.0.0 mulserebush.digital
@@ -83619,6 +83624,7 @@
 0.0.0.0 obhggjchjkpb.xyz
 0.0.0.0 obhiezds.com
 0.0.0.0 obhkiuvfupgfc.com
+0.0.0.0 obhrdutrsjix.xyz
 0.0.0.0 obidegorafenib.com
 0.0.0.0 obituaryfuneral.com
 0.0.0.0 obiwhkidcfsqxb.xyz
@@ -91860,6 +91866,7 @@
 0.0.0.0 pnezwdpc.com
 0.0.0.0 pnfxczpjueroa.com
 0.0.0.0 pngmnoeyxel.xyz
+0.0.0.0 pngtuwesxqbk.com
 0.0.0.0 pnhjpfwlfif.com
 0.0.0.0 pnjlnugel.com
 0.0.0.0 pnjsknbw.com
@@ -103216,6 +103223,7 @@
 0.0.0.0 s4block.com
 0.0.0.0 s4cp.xyz
 0.0.0.0 s4elk8ir1exrkc.com
+0.0.0.0 s5atesolutions.com
 0.0.0.0 s5qj82thv3dw.de
 0.0.0.0 s66y.com
 0.0.0.0 s7feh.top
@@ -106318,6 +106326,7 @@
 0.0.0.0 sfczxujjmk.com
 0.0.0.0 sfdecpromwjj.com
 0.0.0.0 sfekarxgunp.com
+0.0.0.0 sfelpvclibp.com
 0.0.0.0 sffsdvc.com
 0.0.0.0 sfgfukhdp.com
 0.0.0.0 sfgkihtrxiwe.com
@@ -119303,6 +119312,7 @@
 0.0.0.0 tmiawrrysqk.com
 0.0.0.0 tmicrosoft.com
 0.0.0.0 tmio.org
+0.0.0.0 tmiorkoahisa.com
 0.0.0.0 tmirivera.com.sv
 0.0.0.0 tmjhdyghjm.com
 0.0.0.0 tmjididaqbom.com
@@ -123083,6 +123093,7 @@
 0.0.0.0 ucvtxoqykmnrnor.com
 0.0.0.0 ucxswbycm.com
 0.0.0.0 ucxyz.xyz
+0.0.0.0 ucylsbbfvwiw.com
 0.0.0.0 ud.kraitbrit.com
 0.0.0.0 udaananimation.com
 0.0.0.0 udadhats.com
@@ -130746,6 +130757,7 @@
 0.0.0.0 westprobenefitsystems.ca
 0.0.0.0 westreflection.com
 0.0.0.0 westrogerscircledesigncenter.com
+0.0.0.0 westshorecampus.com
 0.0.0.0 westshoreuni.ca
 0.0.0.0 westslendersolitary.com
 0.0.0.0 westspulse.com
