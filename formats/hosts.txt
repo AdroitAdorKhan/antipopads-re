@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.238
 # Release: 238
-# Entries: 156,274
-# Updated: Sun, 25 Aug 24 06:08:19 +06
+# Entries: 156,278
+# Updated: Sun, 25 Aug 24 08:07:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1211,6 +1211,7 @@
 0.0.0.0 2fwww.highperformancedformats.com
 0.0.0.0 2fwww.highperformancedisplayformat.com
 0.0.0.0 2fwww.highrevenuegate.com
+0.0.0.0 2fwww.highrevenuenetwork.com
 0.0.0.0 2fwww.highwaycpmrevenue.com
 0.0.0.0 2fwww.logiquest.com.br
 0.0.0.0 2fwww.pinkwinkers.com
@@ -67183,6 +67184,7 @@
 0.0.0.0 kzkmmbrrzn.com
 0.0.0.0 kzknjdlalls.com
 0.0.0.0 kznwetbzqze.com
+0.0.0.0 kznzjlbiyi.com
 0.0.0.0 kzqufmgo.com
 0.0.0.0 kzschztr.xyz
 0.0.0.0 kzsfip3v.cfd
@@ -109306,6 +109308,7 @@
 0.0.0.0 smoothoperatorwaxparlor.com
 0.0.0.0 smooyfikvudv.com
 0.0.0.0 smopon.com
+0.0.0.0 smosh.tv
 0.0.0.0 smotherboats.com
 0.0.0.0 smothercontinuingsnore.com
 0.0.0.0 smotherlameoven.com
@@ -147712,6 +147715,7 @@
 0.0.0.0 www.smokingspecialize.com
 0.0.0.0 www.smokingvetoscent.com
 0.0.0.0 www.smoothlytalking.com
+0.0.0.0 www.smosh.tv
 0.0.0.0 www.smotherboats.com
 0.0.0.0 www.smotherpaperwork.com
 0.0.0.0 www.smoulderhangnail.com
