@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.240
 # Release: 240
-# Entries: 156,658
-# Updated: Tue, 27 Aug 24 12:07:57 +06
+# Entries: 156,662
+# Updated: Tue, 27 Aug 24 14:07:47 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -28316,6 +28316,7 @@
 0.0.0.0 creeddelirium.com
 0.0.0.0 creededlithic.digital
 0.0.0.0 creedoverwork.com
+0.0.0.0 creekaugust.com
 0.0.0.0 creekrecollectkey.com
 0.0.0.0 creeksettingbates.com
 0.0.0.0 creepercard.com
@@ -100994,6 +100995,7 @@
 0.0.0.0 rianbow.com
 0.0.0.0 rianinternational.online
 0.0.0.0 riapanephre.online
+0.0.0.0 riaqqitue.com
 0.0.0.0 riasiacepasky.online
 0.0.0.0 riaszto.online
 0.0.0.0 riasztobolt.net
@@ -111283,6 +111285,7 @@
 0.0.0.0 spotrebny-uver.sbs
 0.0.0.0 spotruth.org
 0.0.0.0 spotscenered.info
+0.0.0.0 spotsconcealedunlikely.com
 0.0.0.0 spotshop.tech
 0.0.0.0 spotssurprise.com
 0.0.0.0 spotted-estate.pro
@@ -114625,6 +114628,7 @@
 0.0.0.0 swpnyrxgobtryu.com
 0.0.0.0 swqohkzbxch.com
 0.0.0.0 swqplvlfarqx.xyz
+0.0.0.0 swqtfymnwmyfo.com
 0.0.0.0 swrggntsvmsgv.com
 0.0.0.0 swrirjtk.com
 0.0.0.0 swskcwuqvopm.com
