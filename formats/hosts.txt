@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.240
 # Release: 240
-# Entries: 156,603
-# Updated: Tue, 27 Aug 24 06:08:05 +06
+# Entries: 156,609
+# Updated: Tue, 27 Aug 24 08:07:52 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -41249,6 +41249,7 @@
 0.0.0.0 extropist.net
 0.0.0.0 extropist.org
 0.0.0.0 extropist.us
+0.0.0.0 exttest-vfpa.ca
 0.0.0.0 extyoasigus.com
 0.0.0.0 exuharpxs.com
 0.0.0.0 exukpressmy.work
@@ -42316,6 +42317,7 @@
 0.0.0.0 fcqrrlkvm.com
 0.0.0.0 fcrswpmm.com
 0.0.0.0 fcrtnptgkqjf.com
+0.0.0.0 fcsfbydwxkyf.com
 0.0.0.0 fcswhwglli.com
 0.0.0.0 fctagptoiotg.com
 0.0.0.0 fctkuersakdhfy.xyz
@@ -97612,6 +97614,7 @@
 0.0.0.0 qyfkarotggyk.xyz
 0.0.0.0 qyhugamu.xyz
 0.0.0.0 qyhugvdfaagfq.com
+0.0.0.0 qyjzvbvji.com
 0.0.0.0 qykejgoaykqrhf.com
 0.0.0.0 qykship.com
 0.0.0.0 qykxyax.com
@@ -126892,6 +126895,7 @@
 0.0.0.0 venusantibiotic.com
 0.0.0.0 venusfritter.com
 0.0.0.0 veobeitkalson.info
+0.0.0.0 veomjnjz.com
 0.0.0.0 veosgrupon.xyz
 0.0.0.0 veoxphl.com
 0.0.0.0 vepemtuphul.net
@@ -150819,6 +150823,7 @@
 0.0.0.0 www.wowmomofranchisenow.com
 0.0.0.0 www.wowstash.net
 0.0.0.0 www.wp-stats-php.info
+0.0.0.0 www.wpad.sterenwifi.com
 0.0.0.0 www.wpblockheight.com
 0.0.0.0 www.wppredirect.tk
 0.0.0.0 www.wpsload.ru
@@ -151404,6 +151409,7 @@
 0.0.0.0 wxoywtyuj.com
 0.0.0.0 wxphysics.com
 0.0.0.0 wxppgmwao.com
+0.0.0.0 wxqdcakvuv.com
 0.0.0.0 wxranwen.com
 0.0.0.0 wxrduqtitcufxd.xyz
 0.0.0.0 wxretphjbpi.com
