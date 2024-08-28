@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.241
 # Release: 241
-# Entries: 156,717
-# Updated: Wed, 28 Aug 24 08:32:16 +06
+# Entries: 156,719
+# Updated: Wed, 28 Aug 24 10:10:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -25218,6 +25218,7 @@
 0.0.0.0 cloudemr.app
 0.0.0.0 cloudfinopts.com
 0.0.0.0 cloudflane.com
+0.0.0.0 cloudflarein.com
 0.0.0.0 cloudfolder.ca
 0.0.0.0 cloudhak.in
 0.0.0.0 cloudiiv.com
@@ -78703,6 +78704,7 @@
 0.0.0.0 mwifcugxihhpwm.com
 0.0.0.0 mwihruozvmzu.com
 0.0.0.0 mwikpepfiw.com
+0.0.0.0 mwilson.on.ca
 0.0.0.0 mwirawdrexp.com
 0.0.0.0 mwjkteucypb.com
 0.0.0.0 mwkexbte.com
