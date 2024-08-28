@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.241
 # Release: 241
-# Entries: 156,720
-# Updated: Wed, 28 Aug 24 12:11:21 +06
+# Entries: 156,723
+# Updated: Wed, 28 Aug 24 14:45:24 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -65241,6 +65241,7 @@
 0.0.0.0 kfjkgfgr.com
 0.0.0.0 kfkclxbmdptmehv.com
 0.0.0.0 kfkx.net
+0.0.0.0 kflhwntytom.com
 0.0.0.0 kflyxfwgbesi.com
 0.0.0.0 kfmbrjvar.com
 0.0.0.0 kfmhhfcrsqvza.com
@@ -128425,6 +128426,7 @@
 0.0.0.0 vkkguhveswr.com
 0.0.0.0 vklnkgmubvi.com
 0.0.0.0 vklwqdit.top
+0.0.0.0 vkmlabrjpppd.com
 0.0.0.0 vkmnz.yt
 0.0.0.0 vknecciko.com
 0.0.0.0 vknrfwwxhxaxupqp.pro
@@ -152606,6 +152608,7 @@
 0.0.0.0 xn--fiq64bm1du4bu2qxrktwhea7063admx.xyz
 0.0.0.0 xn--fiq71iurj9jmca6399a8wlbvy.xyz
 0.0.0.0 xn--fiqa12k55yb5e3tmfs8biln.xyz
+0.0.0.0 xn--fiqa12kbziv9qp7d114bxxs.xyz
 0.0.0.0 xn--fiqa90kpa644ri83b20c8x9d.xyz
 0.0.0.0 xn--fiqy4bla9927bf8bt9v.xyz
 0.0.0.0 xn--fiqy4by1dkubo71aprmfw0d.xyz
