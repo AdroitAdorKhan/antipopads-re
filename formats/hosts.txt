@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.241
 # Release: 241
-# Entries: 156,723
-# Updated: Wed, 28 Aug 24 14:45:24 +06
+# Entries: 156,724
+# Updated: Wed, 28 Aug 24 16:27:10 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -3095,6 +3095,7 @@
 0.0.0.0 91dewa.net
 0.0.0.0 91dewa.org
 0.0.0.0 91jiexi.com
+0.0.0.0 91ocen.com
 0.0.0.0 91p655.com
 0.0.0.0 91pancj.com
 0.0.0.0 91pormy.com
