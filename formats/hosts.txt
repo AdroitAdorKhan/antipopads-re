@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.242
 # Release: 242
-# Entries: 156,812
-# Updated: Thu, 29 Aug 24 06:08:18 +06
+# Entries: 156,836
+# Updated: Thu, 29 Aug 24 08:26:31 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7840,6 +7840,7 @@
 0.0.0.0 allwedoisdive.com
 0.0.0.0 allwownewz.com
 0.0.0.0 ally.so
+0.0.0.0 allya.live
 0.0.0.0 allyenitwasbr.com
 0.0.0.0 allyes.com
 0.0.0.0 allyohlg.top
@@ -21286,6 +21287,7 @@
 0.0.0.0 capitalpromoters.com
 0.0.0.0 capitaltradeltd.com
 0.0.0.0 capitl.it
+0.0.0.0 capitolcityfordgreenfield.com
 0.0.0.0 capitolcitygreenfield.com
 0.0.0.0 capitolelect.com
 0.0.0.0 capnet.in
@@ -32402,6 +32404,7 @@
 0.0.0.0 dgqakqcjfutfte.com
 0.0.0.0 dgqdcetwbq.xyz
 0.0.0.0 dgqlwqedzowhqb.com
+0.0.0.0 dgtbjoswrqu.com
 0.0.0.0 dgthcfiwa.com
 0.0.0.0 dgtklmbypacjq.com
 0.0.0.0 dgtllp.ca
@@ -66081,6 +66084,7 @@
 0.0.0.0 kmxwygco.com
 0.0.0.0 kmyaklgcik.com
 0.0.0.0 kmyamhowpj.com
+0.0.0.0 kmyekvovp.com
 0.0.0.0 kmyexmobhb.xyz
 0.0.0.0 kmyolramxrw.com
 0.0.0.0 kmyunderthf.info
@@ -91187,6 +91191,7 @@
 0.0.0.0 pirela.org
 0.0.0.0 pireneupdelve.space
 0.0.0.0 piret.loan
+0.0.0.0 piret.rent
 0.0.0.0 piret.rentals
 0.0.0.0 pirist.com
 0.0.0.0 pirnaurban.com
@@ -94241,6 +94246,7 @@
 0.0.0.0 pro100.game
 0.0.0.0 proactivegroupmexico.com
 0.0.0.0 proadviserusa.com
+0.0.0.0 proanoia.net
 0.0.0.0 proartservices.de
 0.0.0.0 proated-occousion.com
 0.0.0.0 proation.net
@@ -95837,6 +95843,7 @@
 0.0.0.0 purchaserteddy.com
 0.0.0.0 purchasertormentscoundrel.com
 0.0.0.0 purduegreeks.com
+0.0.0.0 pure.lease
 0.0.0.0 pure.legal
 0.0.0.0 pureaan.com
 0.0.0.0 pureadexchange.com
@@ -95855,7 +95862,10 @@
 0.0.0.0 pureindustrial.rentals
 0.0.0.0 pureindustrialrealestatetrust.dev
 0.0.0.0 pureindustrialrealestatetrust.land
+0.0.0.0 pureindustrialrealestatetrust.loan
+0.0.0.0 pureindustrialrealestatetrust.org
 0.0.0.0 pureindustrialrealestatetrust.rentals
+0.0.0.0 pureindustrialrealestatetrust.shop
 0.0.0.0 pureindustriel.biz
 0.0.0.0 pureindustriel.construction
 0.0.0.0 pureindustriel.dev
@@ -96205,6 +96215,7 @@
 0.0.0.0 pwsnjyye.xyz
 0.0.0.0 pwtarchive.net
 0.0.0.0 pwteam.pro
+0.0.0.0 pwuqdfppzmjdj.com
 0.0.0.0 pwuwimppoqs.com
 0.0.0.0 pwxerujvl.com
 0.0.0.0 pwxloeujj.xyz
@@ -101197,6 +101208,7 @@
 0.0.0.0 riddenyapocks.com
 0.0.0.0 riddhiintl.com
 0.0.0.0 riddleloud.com
+0.0.0.0 ridealyze.com
 0.0.0.0 rideaucemetery.ca
 0.0.0.0 rideaulakestours.ca
 0.0.0.0 rideautours.net
@@ -128815,6 +128827,7 @@
 0.0.0.0 voldarinis.com
 0.0.0.0 voldekor.com
 0.0.0.0 volform.online
+0.0.0.0 volition-games.com
 0.0.0.0 volitve.info
 0.0.0.0 volka.tv
 0.0.0.0 volkatv.biz
@@ -134927,6 +134940,7 @@
 0.0.0.0 www.allureoutlayterrific.com
 0.0.0.0 www.allurepraised.com
 0.0.0.0 www.allusionfussintervention.com
+0.0.0.0 www.allya.live
 0.0.0.0 www.allyourgainsurvey.top
 0.0.0.0 www.allyprimroseidol.com
 0.0.0.0 www.allypublicity.com
@@ -136735,6 +136749,7 @@
 0.0.0.0 www.capitalistlukewarmdot.com
 0.0.0.0 www.capitalpowertrade.ltd
 0.0.0.0 www.capitalpromoter.com
+0.0.0.0 www.capitolcityfordgreenfield.com
 0.0.0.0 www.capitolcitygreenfield.com
 0.0.0.0 www.cappuccinoeliza.com
 0.0.0.0 www.cappuccinoinaneconsiderate.com
@@ -142856,6 +142871,7 @@
 0.0.0.0 www.kingsnkrs.top
 0.0.0.0 www.kinkyedition.com
 0.0.0.0 www.kinkywhoopfilm.com
+0.0.0.0 www.kiocloud.net
 0.0.0.0 www.kioo.tech
 0.0.0.0 www.kipesa.info
 0.0.0.0 www.kipodell.com
@@ -145750,6 +145766,7 @@
 0.0.0.0 www.piratedivide.com
 0.0.0.0 www.piratespartynft.xyz
 0.0.0.0 www.piret.loan
+0.0.0.0 www.piret.rent
 0.0.0.0 www.piret.rentals
 0.0.0.0 www.pistolmuteness.com
 0.0.0.0 www.pistolsizehoe.com
@@ -146210,6 +146227,7 @@
 0.0.0.0 www.prizeoffers4all.com
 0.0.0.0 www.prizestopsurvey.top
 0.0.0.0 www.prizesurveytoday.top
+0.0.0.0 www.proanoia.net
 0.0.0.0 www.probablebeeper.com
 0.0.0.0 www.probablediscoverylung.com
 0.0.0.0 www.probablyimmatureresentment.com
@@ -146459,13 +146477,17 @@
 0.0.0.0 www.purchasefastidiouswindfall.com
 0.0.0.0 www.purchaserteddy.com
 0.0.0.0 www.purduegreeks.com
+0.0.0.0 www.pure.lease
 0.0.0.0 www.pure.legal
 0.0.0.0 www.pureairhits.com
 0.0.0.0 www.pureindustrial.lease
 0.0.0.0 www.pureindustrial.live
 0.0.0.0 www.pureindustrialrealestatetrust.dev
 0.0.0.0 www.pureindustrialrealestatetrust.land
+0.0.0.0 www.pureindustrialrealestatetrust.loan
+0.0.0.0 www.pureindustrialrealestatetrust.org
 0.0.0.0 www.pureindustrialrealestatetrust.rentals
+0.0.0.0 www.pureindustrialrealestatetrust.shop
 0.0.0.0 www.pureindustriel.biz
 0.0.0.0 www.pureindustriel.construction
 0.0.0.0 www.pureindustriel.dev
@@ -147144,6 +147166,7 @@
 0.0.0.0 www.richtwist.com
 0.0.0.0 www.ridbehaviour.com
 0.0.0.0 www.riddanceresolutionharshly.com
+0.0.0.0 www.ridealyze.com
 0.0.0.0 www.rideinwineregion.com
 0.0.0.0 www.ridelo.in
 0.0.0.0 www.ridfunnyassuredness.com
@@ -150511,6 +150534,7 @@
 0.0.0.0 www.vokzal.org
 0.0.0.0 www.volandotequila.store
 0.0.0.0 www.volcanoimplement.com
+0.0.0.0 www.volition-games.com
 0.0.0.0 www.volko.tech
 0.0.0.0 www.volkswagenunionville.ca
 0.0.0.0 www.volkswagenunionville.com
