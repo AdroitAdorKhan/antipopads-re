@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.242
 # Release: 242
-# Entries: 156,810
-# Updated: Thu, 29 Aug 24 04:11:00 +06
+# Entries: 156,812
+# Updated: Thu, 29 Aug 24 06:08:18 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -82180,6 +82180,7 @@
 0.0.0.0 noaon2.com
 0.0.0.0 noapai.name
 0.0.0.0 noapplause.stream
+0.0.0.0 noapsovochu.net
 0.0.0.0 noaptauw.com
 0.0.0.0 noapteen.net
 0.0.0.0 noathoaw.net
@@ -94461,6 +94462,7 @@
 0.0.0.0 profitguide.com
 0.0.0.0 profitisprofit.com
 0.0.0.0 profitnessthreads.com
+0.0.0.0 profitnest.biz
 0.0.0.0 profitnest.org
 0.0.0.0 profitpeelers.com
 0.0.0.0 profitredirect.com
