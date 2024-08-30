@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.244
 # Release: 244
-# Entries: 157,011
-# Updated: Sat, 31 Aug 24 02:07:58 +06
+# Entries: 157,012
+# Updated: Sat, 31 Aug 24 04:10:36 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -19351,6 +19351,7 @@
 0.0.0.0 brsociety.net
 0.0.0.0 brtenusjkmgyb.com
 0.0.0.0 brtinzz.com
+0.0.0.0 brtobpikkbpyup.com
 0.0.0.0 brtsumthree.com
 0.0.0.0 brtv.xyz
 0.0.0.0 bruark.com
