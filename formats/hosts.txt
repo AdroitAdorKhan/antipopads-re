@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.243
 # Release: 243
-# Entries: 156,937
-# Updated: Fri, 30 Aug 24 10:08:00 +06
+# Entries: 156,938
+# Updated: Fri, 30 Aug 24 12:10:40 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -27819,6 +27819,7 @@
 0.0.0.0 couwooji.xyz
 0.0.0.0 cov2tech.org
 0.0.0.0 covaxinvaccinepassports.online
+0.0.0.0 coveinsecure.com
 0.0.0.0 covenanthelena.org
 0.0.0.0 covenantparkchurch.net
 0.0.0.0 covenantsuccession.com
