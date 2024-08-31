@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.244
 # Release: 244
-# Entries: 157,041
-# Updated: Sat, 31 Aug 24 16:26:23 +06
+# Entries: 157,047
+# Updated: Sat, 31 Aug 24 18:07:58 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -15553,6 +15553,7 @@
 0.0.0.0 bestialvehemence.com
 0.0.0.0 bestie-butik.com
 0.0.0.0 bestie-dunja.com
+0.0.0.0 bestimpersonal.com
 0.0.0.0 bestjerseycn.com
 0.0.0.0 bestkeydeals.com
 0.0.0.0 bestkidstoys.online
@@ -28887,6 +28888,7 @@
 0.0.0.0 cspchemung.guru
 0.0.0.0 cspdimfa.com
 0.0.0.0 cspfuqi4.live
+0.0.0.0 csportal.com
 0.0.0.0 csps-efpc-sandbox-bacasable.ca
 0.0.0.0 csq.yt
 0.0.0.0 csqgebok.com
@@ -133816,6 +133818,7 @@
 0.0.0.0 wtuqkqkfaegrhey.com
 0.0.0.0 wtuuilhbfvsiqbo.com
 0.0.0.0 wtvmydhycyhu.com
+0.0.0.0 wtwbcuwmviwf.com
 0.0.0.0 wtwbvglzzt.com
 0.0.0.0 wtwt59.com
 0.0.0.0 wtwzkivppqcm.com
@@ -138145,6 +138148,7 @@
 0.0.0.0 www.crystallinesolarpanel.com
 0.0.0.0 www.csgo2hub.com
 0.0.0.0 www.csjichuang.com
+0.0.0.0 www.csportal.com
 0.0.0.0 www.csqunarw.com
 0.0.0.0 www.ctfdsolutions.com
 0.0.0.0 www.cthwallet.com
@@ -146656,6 +146660,7 @@
 0.0.0.0 www.pulserviral.com
 0.0.0.0 www.puma-outlets.us.com
 0.0.0.0 www.pumachaussur.fr
+0.0.0.0 www.punch-precision.com
 0.0.0.0 www.punchfront.net
 0.0.0.0 www.punctualflopsubquery.com
 0.0.0.0 www.punctuationceiling.com
@@ -153071,6 +153076,7 @@
 0.0.0.0 xonmdyob.com
 0.0.0.0 xonyxdpnelhzi.com
 0.0.0.0 xoojesxjq.com
+0.0.0.0 xoowpiklbc.com
 0.0.0.0 xopbnnieebmpu.com
 0.0.0.0 xosidfbg.com
 0.0.0.0 xosodocdac.net
