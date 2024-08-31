@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.08.244
 # Release: 244
-# Entries: 157,035
-# Updated: Sat, 31 Aug 24 14:08:05 +06
+# Entries: 157,041
+# Updated: Sat, 31 Aug 24 16:26:23 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -6613,6 +6613,7 @@
 0.0.0.0 aibaipiao01.live
 0.0.0.0 aibaipiao02.com
 0.0.0.0 aibauthenticationhelp.com
+0.0.0.0 aibgndnigfcbp.com
 0.0.0.0 aibibletranslation.com
 0.0.0.0 aibooks.in
 0.0.0.0 aibopic.com
@@ -58746,6 +58747,7 @@
 0.0.0.0 indigenouseditorsassociation.ca
 0.0.0.0 indigenousopportunitescorporation.com
 0.0.0.0 indigenousopportunitiescorporation.ca
+0.0.0.0 indigenoustextiles.org
 0.0.0.0 indigenousvarious.com
 0.0.0.0 indigenouswhoinformed.com
 0.0.0.0 indigestioninadmissible.com
@@ -86273,6 +86275,7 @@
 0.0.0.0 opiatemusic.org
 0.0.0.0 opibrcbr.com
 0.0.0.0 opificelitoral.com
+0.0.0.0 opinai.com
 0.0.0.0 opinanttrabant.com
 0.0.0.0 opinionatedprovide.com
 0.0.0.0 opinionthroughambition.com
@@ -138486,6 +138489,7 @@
 0.0.0.0 www.dementedstalesimultaneous.com
 0.0.0.0 www.demetallizingmachine.com
 0.0.0.0 www.demiseskill.com
+0.0.0.0 www.demo.29kadvisers.ae
 0.0.0.0 www.demo.terashare.fun
 0.0.0.0 www.democracyendlesslyzoo.com
 0.0.0.0 www.democracyherebyinapptitudeinapptitude.com
@@ -142228,6 +142232,7 @@
 0.0.0.0 www.indifferencemissile.com
 0.0.0.0 www.indifferencezeropeak.com
 0.0.0.0 www.indigenouseditorsassociation.ca
+0.0.0.0 www.indigenoustextiles.org
 0.0.0.0 www.indigenouswhoinformed.com
 0.0.0.0 www.indigestioninadmissible.com
 0.0.0.0 www.indigestionpious.com
@@ -145283,6 +145288,7 @@
 0.0.0.0 www.operativepreceding.com
 0.0.0.0 www.operswqwx.com
 0.0.0.0 www.opiatemusic.org
+0.0.0.0 www.opinai.com
 0.0.0.0 www.opinionatedprovide.com
 0.0.0.0 www.opportunitybrokenprint.com
 0.0.0.0 www.oppositevarietiesdepict.com
