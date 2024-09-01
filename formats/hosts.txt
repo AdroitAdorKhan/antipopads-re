@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.246
 # Release: 246
-# Entries: 157,290
-# Updated: Mon, 02 Sep 24 00:27:35 +06
+# Entries: 157,291
+# Updated: Mon, 02 Sep 24 02:07:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -156589,6 +156589,7 @@
 0.0.0.0 zir.mobi
 0.0.0.0 zirconiaceramic.net
 0.0.0.0 zircorp.com
+0.0.0.0 zircpiwnend.com
 0.0.0.0 zirdough.net
 0.0.0.0 zirdrax.com
 0.0.0.0 zirgogoo.xyz
