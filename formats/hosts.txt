@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.245
 # Release: 245
-# Entries: 157,267
-# Updated: Sun, 01 Sep 24 20:09:28 +06
+# Entries: 157,269
+# Updated: Sun, 01 Sep 24 22:08:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -23398,6 +23398,7 @@
 0.0.0.0 cheapenleaving.com
 0.0.0.0 cheapera.com
 0.0.0.0 cheapflightticketz.com
+0.0.0.0 cheapgrampa.com
 0.0.0.0 cheapimitrexbuy.net
 0.0.0.0 cheapjerseybizchina.com
 0.0.0.0 cheapjerseygo.com
@@ -48926,6 +48927,7 @@
 0.0.0.0 gleboareephy.com
 0.0.0.0 glebypraiss.com
 0.0.0.0 glecmaim.net
+0.0.0.0 gledroupsens.xyz
 0.0.0.0 gledycedule.life
 0.0.0.0 gleebsex.net
 0.0.0.0 gleebsoa.xyz
