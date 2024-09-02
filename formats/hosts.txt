@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.247
 # Release: 247
-# Entries: 157,480
-# Updated: Tue, 03 Sep 24 00:30:52 +06
+# Entries: 157,485
+# Updated: Tue, 03 Sep 24 02:08:14 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -79747,6 +79747,7 @@
 0.0.0.0 mzfinancesurvey.top
 0.0.0.0 mzfinsurvey.top
 0.0.0.0 mzgoodsurvey.top
+0.0.0.0 mzicucalbw.com
 0.0.0.0 mziso.xyz
 0.0.0.0 mzlhhkrsavrw.com
 0.0.0.0 mznbrazfty.com
@@ -87114,6 +87115,7 @@
 0.0.0.0 osorclhhbins.com
 0.0.0.0 osotirukurwyo.com
 0.0.0.0 osp-papardo.it
+0.0.0.0 ospartners.xyz
 0.0.0.0 ospfwvhc.com
 0.0.0.0 ospicalad.buzz
 0.0.0.0 ospravedlneni.store
@@ -107285,6 +107287,7 @@
 0.0.0.0 sgwweolpju.com
 0.0.0.0 sgxlanvsegd.com
 0.0.0.0 sgxojhgvha.com
+0.0.0.0 sgyahkkwcb.com
 0.0.0.0 sgynjglhxxnqkv.com
 0.0.0.0 sgzfw.com
 0.0.0.0 sh-kct.com
@@ -109106,6 +109109,7 @@
 0.0.0.0 skez.tech
 0.0.0.0 skgtnvpvuufmpig.com
 0.0.0.0 skhgtbpxogp.com
+0.0.0.0 skhmjezzj.com
 0.0.0.0 skhqmobc.com
 0.0.0.0 skiableethyls.com
 0.0.0.0 skiareal.ski
@@ -120751,6 +120755,7 @@
 0.0.0.0 tookaute.com
 0.0.0.0 tookfundsdepreciate.com
 0.0.0.0 tookimookin.com
+0.0.0.0 tookiroufiz.net
 0.0.0.0 tool-usps.com
 0.0.0.0 tool4champs.com
 0.0.0.0 toolaque.net
