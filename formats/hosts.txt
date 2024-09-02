@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.246
 # Release: 246
-# Entries: 157,390
-# Updated: Mon, 02 Sep 24 12:07:50 +06
+# Entries: 157,394
+# Updated: Mon, 02 Sep 24 14:07:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -143879,6 +143879,7 @@
 0.0.0.0 www.litteraction.org.uk
 0.0.0.0 www.litterago.com
 0.0.0.0 www.littertradition.com
+0.0.0.0 www.live-a-live.com
 0.0.0.0 www.live1powerlife.com
 0.0.0.0 www.liveandrestinpeace.com
 0.0.0.0 www.livecasinogirls.online
@@ -144674,6 +144675,7 @@
 0.0.0.0 www.mnuinfinity.com
 0.0.0.0 www.moaningtread.com
 0.0.0.0 www.moaptaidu.com
+0.0.0.0 www.moazoapas.com
 0.0.0.0 www.mobilelimitationvirtually.com
 0.0.0.0 www.mobtrendinsanity.com
 0.0.0.0 www.mockingcolloquial.com
@@ -145232,6 +145234,7 @@
 0.0.0.0 www.nissav.com
 0.0.0.0 www.nitrogenblissful.com
 0.0.0.0 www.nitrogeneligible.com
+0.0.0.0 www.nivungauru.com
 0.0.0.0 www.njcps.com
 0.0.0.0 www.nnexi.it
 0.0.0.0 www.no-photo-no-video.info
@@ -151096,6 +151099,7 @@
 0.0.0.0 www.vupyjyyu.xyz
 0.0.0.0 www.vushcups.com
 0.0.0.0 www.vuuwd.com
+0.0.0.0 www.vvoy.app
 0.0.0.0 www.vwd-e.net
 0.0.0.0 www.vyafac.com
 0.0.0.0 www.vyhrivaneobleceni.online
