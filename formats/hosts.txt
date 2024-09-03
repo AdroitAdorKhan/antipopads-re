@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.248
 # Release: 248
-# Entries: 157,842
-# Updated: Wed, 04 Sep 24 00:32:33 +06
+# Entries: 157,846
+# Updated: Wed, 04 Sep 24 02:07:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -108060,6 +108060,7 @@
 0.0.0.0 shinygabbleovertime.com
 0.0.0.0 shinyspiesyou.com
 0.0.0.0 shio-navi.net
+0.0.0.0 shiodagozo-yoshinkan-unity.com
 0.0.0.0 ship2code.net
 0.0.0.0 ship2world.uk
 0.0.0.0 shipard.biz
@@ -134612,6 +134613,7 @@
 0.0.0.0 wunpbwww.scriptvealpatronage.com
 0.0.0.0 wunteetoco.com
 0.0.0.0 wuohecvggqlch.com
+0.0.0.0 wuokhdaszlr.com
 0.0.0.0 wuombkpa.com
 0.0.0.0 wup.ag
 0.0.0.0 wupfrvxtsuiv.com
@@ -153873,6 +153875,7 @@
 0.0.0.0 xpgtc.com
 0.0.0.0 xpgystv.com
 0.0.0.0 xpgyv.com
+0.0.0.0 xphsypmact.com
 0.0.0.0 xpidgvrjakkdx.com
 0.0.0.0 xpimupaqnanl.com
 0.0.0.0 xpinfyxinma.com
@@ -156498,6 +156501,7 @@
 0.0.0.0 zarame.uno
 0.0.0.0 zarathustra.guru
 0.0.0.0 zaratllc.com
+0.0.0.0 zarexhtdlia.com
 0.0.0.0 zargaron.com
 0.0.0.0 zargroups.com
 0.0.0.0 zariastudio.com
