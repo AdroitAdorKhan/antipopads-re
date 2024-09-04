@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.248
 # Release: 248
-# Entries: 157,884
-# Updated: Wed, 04 Sep 24 10:07:44 +06
+# Entries: 157,889
+# Updated: Wed, 04 Sep 24 12:07:53 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -13912,6 +13912,7 @@
 0.0.0.0 bankersend.com
 0.0.0.0 bankertwistsneeze.com
 0.0.0.0 bankervehemently.com
+0.0.0.0 bankgarancia.com
 0.0.0.0 bankgaruda.id
 0.0.0.0 bankiatutalasdija2021otp.sbs
 0.0.0.0 bankiingatlanok.com
@@ -25693,6 +25694,7 @@
 0.0.0.0 coachoutletonlinecoachfactoryoutlets.us.com
 0.0.0.0 coachoutletonlineinc.us.com
 0.0.0.0 coachoutletstoreclearance.us.com
+0.0.0.0 coachoutletstoress.us.com
 0.0.0.0 coachpurses.com
 0.0.0.0 coachrama.co.uk
 0.0.0.0 coachsubdued.com
@@ -108089,6 +108091,7 @@
 0.0.0.0 shinygabbleovertime.com
 0.0.0.0 shinyspiesyou.com
 0.0.0.0 shio-navi.net
+0.0.0.0 shiodagozo-aikido-unity.com
 0.0.0.0 shiodagozo-yoshinkan-unity.com
 0.0.0.0 ship2code.net
 0.0.0.0 ship2world.uk
@@ -132649,6 +132652,7 @@
 0.0.0.0 whoajeex.xyz
 0.0.0.0 whoaksoo.com
 0.0.0.0 whoalsos.com
+0.0.0.0 whoansailt.net
 0.0.0.0 whoansodroas.net
 0.0.0.0 whoapsoo.com
 0.0.0.0 whoartairg.com
@@ -152579,6 +152583,7 @@
 0.0.0.0 wwww.mglep.com
 0.0.0.0 wwww.qksrv.net
 0.0.0.0 wwww.qksz.net
+0.0.0.0 wwww.rethinkshone.com
 0.0.0.0 wwww.ssss.in
 0.0.0.0 wwww.tag-india.in
 0.0.0.0 wwww.tkqlhce.com
