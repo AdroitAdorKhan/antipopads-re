@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.248
 # Release: 248
-# Entries: 157,883
-# Updated: Wed, 04 Sep 24 08:30:35 +06
+# Entries: 157,884
+# Updated: Wed, 04 Sep 24 10:07:44 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -141181,6 +141181,7 @@
 0.0.0.0 www.foampartiesdaycare.com
 0.0.0.0 www.foampartiesgalveston.com
 0.0.0.0 www.foamsomethingrobots.com
+0.0.0.0 www.foaveesaunie.com
 0.0.0.0 www.focalfpl.com
 0.0.0.0 www.foceval.org
 0.0.0.0 www.focuscivilization.com
