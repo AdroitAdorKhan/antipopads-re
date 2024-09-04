@@ -19,8 +19,8 @@
 # Format: domains
 # Version: 24.09.248
 # Release: 248
-# Entries: 157,891
-# Updated: Wed, 04 Sep 24 14:07:51 +06
+# Entries: 157,892
+# Updated: Wed, 04 Sep 24 16:33:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/domains.txt
 # ----------------------------------------------------------------------------
 #
@@ -21242,6 +21242,7 @@ canadiantrace.net
 canaform.net
 canaformbuildingsystems.com
 canaformbuildingsystems.net
+canaformbuildingsystems.org
 canalsul.net
 canalthinkcleaning.com
 canamera.com
