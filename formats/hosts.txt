@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.250
 # Release: 250
-# Entries: 158,085
-# Updated: Fri, 06 Sep 24 02:08:13 +06
+# Entries: 158,089
+# Updated: Fri, 06 Sep 24 04:08:12 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -50569,6 +50569,7 @@
 0.0.0.0 gotrk.net
 0.0.0.0 goturlock.org
 0.0.0.0 goturula.com
+0.0.0.0 gotvnepal.com
 0.0.0.0 gotwakinrollet.xyz
 0.0.0.0 gotyerback.ca
 0.0.0.0 goucejugra.com
@@ -52659,6 +52660,7 @@
 0.0.0.0 hamoud.tech
 0.0.0.0 hamoudapp.com
 0.0.0.0 hamoumpa.xyz
+0.0.0.0 hamoxsipfi.com
 0.0.0.0 hampersolarwings.com
 0.0.0.0 hamperstirringoats.com
 0.0.0.0 hamply.com
@@ -133612,6 +133614,7 @@
 0.0.0.0 wjphngnyu.com
 0.0.0.0 wjqcadwwlsou.com
 0.0.0.0 wjqfrikhdxh.com
+0.0.0.0 wjrhrlsaglfb.com
 0.0.0.0 wjrwkytieyck.com
 0.0.0.0 wjsifexiymjct.com
 0.0.0.0 wjtwrkqxm.com
@@ -142106,6 +142109,7 @@
 0.0.0.0 www.gossipsize.com
 0.0.0.0 www.gossipyimpoliteconcurrence.com
 0.0.0.0 www.gotohr.com
+0.0.0.0 www.gotvnepal.com
 0.0.0.0 www.goucejugra.com
 0.0.0.0 www.gouloupt.com
 0.0.0.0 www.gounephouth.com
