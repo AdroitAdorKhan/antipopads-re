@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.249
 # Release: 249
-# Entries: 157,959
-# Updated: Thu, 05 Sep 24 06:07:58 +06
+# Entries: 157,961
+# Updated: Thu, 05 Sep 24 08:37:14 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -32570,6 +32570,7 @@
 0.0.0.0 dfmadvisory.com
 0.0.0.0 dfnetwork.link
 0.0.0.0 dfnuh.yt
+0.0.0.0 dfptcslvqbn.com
 0.0.0.0 dfqcf.com
 0.0.0.0 dfreep.com
 0.0.0.0 dfrescue.com
@@ -143746,6 +143747,7 @@
 0.0.0.0 www.julyouncecat.com
 0.0.0.0 www.jumaanton.tech
 0.0.0.0 www.jumpedanxious.com
+0.0.0.0 www.junctionexcursionkitty.com
 0.0.0.0 www.juniorapplesconsonant.com
 0.0.0.0 www.juniorolivares.com
 0.0.0.0 www.juniortelegraph.com
