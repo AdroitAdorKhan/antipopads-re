@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.250
 # Release: 250
-# Entries: 158,131
-# Updated: Fri, 06 Sep 24 20:08:15 +06
+# Entries: 158,133
+# Updated: Fri, 06 Sep 24 22:08:05 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -77112,6 +77112,7 @@
 0.0.0.0 miyuoshe.com
 0.0.0.0 mizarstvo5element.com
 0.0.0.0 mizdok.com
+0.0.0.0 mizjtjzcnulcl.com
 0.0.0.0 mizoramlottery.com
 0.0.0.0 mizuhogroup.ru
 0.0.0.0 mizuno-teamwear.com
@@ -79214,6 +79215,7 @@
 0.0.0.0 murkymouse.online
 0.0.0.0 murphystsmoke.com
 0.0.0.0 murrayrothbot.io
+0.0.0.0 murtbgab.com
 0.0.0.0 muruamx.com
 0.0.0.0 murzimarab.tech
 0.0.0.0 mus42.com
