@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.251
 # Release: 251
-# Entries: 158,202
-# Updated: Sat, 07 Sep 24 14:07:46 +06
+# Entries: 158,207
+# Updated: Sat, 07 Sep 24 16:39:19 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4355,6 +4355,7 @@
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 acds.online
 0.0.0.0 acdwbpxcw.com
+0.0.0.0 ace-adserver.com
 0.0.0.0 ace-europa.com
 0.0.0.0 aceadonis.tech
 0.0.0.0 acebs.com
@@ -49279,6 +49280,7 @@
 0.0.0.0 glfbusinessschool.ac.in
 0.0.0.0 glfudvro.com
 0.0.0.0 glfvmduhg.com
+0.0.0.0 glgbzhcbnq.com
 0.0.0.0 glgeniuses.com
 0.0.0.0 glhfservices.com
 0.0.0.0 glhyvunvinu.com
@@ -51739,6 +51741,7 @@
 0.0.0.0 gsniper2.com
 0.0.0.0 gsnqhdo.com
 0.0.0.0 gsnyadosl.com
+0.0.0.0 gsocwpibisxrz.com
 0.0.0.0 gsoft.bh
 0.0.0.0 gsowpjghrj.xyz
 0.0.0.0 gsponding.buzz
@@ -66700,6 +66703,7 @@
 0.0.0.0 kmwflqmvfnv.com
 0.0.0.0 kmwjtcis.com
 0.0.0.0 kmwsmlwudyukcg.top
+0.0.0.0 kmxargzzcthcia.com
 0.0.0.0 kmxsjygetmmrzh.com
 0.0.0.0 kmxwygco.com
 0.0.0.0 kmyaklgcik.com
@@ -155473,6 +155477,7 @@
 0.0.0.0 yivcgddmoevv.com
 0.0.0.0 yivkklkblvmdr.com
 0.0.0.0 yivmnuod.com
+0.0.0.0 yivqdiript.com
 0.0.0.0 yiwangyijiang.com
 0.0.0.0 yiwatu.com
 0.0.0.0 yixevbtok.xyz
