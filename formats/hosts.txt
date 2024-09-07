@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.252
 # Release: 252
-# Entries: 158,242
-# Updated: Sun, 08 Sep 24 02:07:51 +06
+# Entries: 158,243
+# Updated: Sun, 08 Sep 24 04:08:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -112221,6 +112221,7 @@
 0.0.0.0 spindlyrebegin.top
 0.0.0.0 spineanaemia.com
 0.0.0.0 spinecareofidaho.com
+0.0.0.0 spinesoftsettle.com
 0.0.0.0 spinflygolf.com
 0.0.0.0 spinit24.com
 0.0.0.0 spinn.study
