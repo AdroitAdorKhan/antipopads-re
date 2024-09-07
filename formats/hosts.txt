@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.251
 # Release: 251
-# Entries: 158,184
-# Updated: Sat, 07 Sep 24 06:08:01 +06
+# Entries: 158,186
+# Updated: Sat, 07 Sep 24 08:41:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -16547,6 +16547,7 @@
 0.0.0.0 billpippinrealestate.com
 0.0.0.0 billrooba.com
 0.0.0.0 billservingineffective.com
+0.0.0.0 billy.mobi
 0.0.0.0 billybobandirect.org
 0.0.0.0 billydropfarther.com
 0.0.0.0 billygroups.com
@@ -99340,6 +99341,7 @@
 0.0.0.0 rarbgmirror.com
 0.0.0.0 rarbgmirror.org
 0.0.0.0 rarbgmirrored.org
+0.0.0.0 rarbgp2p.org
 0.0.0.0 rarbgproxied.org
 0.0.0.0 rarbgto.org
 0.0.0.0 rarbgtorrents.org
