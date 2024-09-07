@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.252
 # Release: 252
-# Entries: 158,240
-# Updated: Sun, 08 Sep 24 00:37:31 +06
+# Entries: 158,242
+# Updated: Sun, 08 Sep 24 02:07:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -78732,6 +78732,7 @@
 0.0.0.0 mqfkquaswpvahb.xyz
 0.0.0.0 mqfnotiuhcx.com
 0.0.0.0 mqhzklxrgdwudg.com
+0.0.0.0 mqjaccrcg.com
 0.0.0.0 mqkuzy.com
 0.0.0.0 mqldskirbp.com
 0.0.0.0 mqnrrawj.com
@@ -86079,6 +86080,7 @@
 0.0.0.0 omenshiloh.com
 0.0.0.0 omero-plus.com
 0.0.0.0 omeroplus.com
+0.0.0.0 omersgrowthequity.net
 0.0.0.0 omersinnovation.org
 0.0.0.0 omfiydlbmy.com
 0.0.0.0 omfpa.org.in
