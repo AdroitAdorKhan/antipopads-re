@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.252
 # Release: 252
-# Entries: 158,246
-# Updated: Sun, 08 Sep 24 06:08:09 +06
+# Entries: 158,248
+# Updated: Sun, 08 Sep 24 08:40:45 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -98665,6 +98665,7 @@
 0.0.0.0 qxriqtmmxpoj.com
 0.0.0.0 qxrvfjgjhwwtd.com
 0.0.0.0 qxsbofemjfjcfqp.com
+0.0.0.0 qxslgufwrjowd.com
 0.0.0.0 qxuegfcag.com
 0.0.0.0 qxuelcdfvgecwpb.com
 0.0.0.0 qxuvpohuy.com
@@ -112093,6 +112094,7 @@
 0.0.0.0 spectato.com
 0.0.0.0 specterlaniate.uno
 0.0.0.0 spectertechnologies.tech
+0.0.0.0 specterworld.net
 0.0.0.0 spectionsvacribe.com
 0.0.0.0 specut.com
 0.0.0.0 spedhowusing.com
