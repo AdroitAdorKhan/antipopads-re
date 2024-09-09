@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.253
 # Release: 253
-# Entries: 158,374
-# Updated: Mon, 09 Sep 24 20:08:07 +06
+# Entries: 158,375
+# Updated: Mon, 09 Sep 24 22:08:08 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -57484,6 +57484,7 @@
 0.0.0.0 iaxwnffhikiac.com
 0.0.0.0 iaywxowvaomahl.com
 0.0.0.0 iayyyiod.com
+0.0.0.0 iaztfippkbwyg.com
 0.0.0.0 ib-property.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 ib1.in
