@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.253
 # Release: 253
-# Entries: 158,321
-# Updated: Mon, 09 Sep 24 10:07:46 +06
+# Entries: 158,323
+# Updated: Mon, 09 Sep 24 12:08:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -12326,6 +12326,7 @@
 :: autofoxweek.com
 :: autographnutmegassail.com
 :: autohoje.com
+:: autok.ee
 :: autokino-kemnader-see.de
 :: autoklice.online
 :: autokomplexx.com
@@ -99429,6 +99430,7 @@
 :: rarbgmirrored.org
 :: rarbgp2p.org
 :: rarbgproxied.org
+:: rarbgprx.org
 :: rarbgto.org
 :: rarbgtorrents.org
 :: rarbgunblock.com
