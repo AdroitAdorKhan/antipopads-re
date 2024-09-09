@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.253
 # Release: 253
-# Entries: 158,315
-# Updated: Mon, 09 Sep 24 08:53:01 +06
+# Entries: 158,321
+# Updated: Mon, 09 Sep 24 10:07:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -12807,6 +12807,7 @@
 0.0.0.0 awjelrnkugdsb.xyz
 0.0.0.0 awjffhksnoqptb.com
 0.0.0.0 awkiktwfvhqiwb.com
+0.0.0.0 awkkkpktq.com
 0.0.0.0 awkn.ca
 0.0.0.0 awkorting.net
 0.0.0.0 awkwardsuperstition.com
@@ -102749,6 +102750,7 @@
 0.0.0.0 rmmyqc.com
 0.0.0.0 rmndme.com
 0.0.0.0 rmnhkldqjahbi.xyz
+0.0.0.0 rmokjuqaefeqgc.com
 0.0.0.0 rmovfsuyk.xyz
 0.0.0.0 rmp.li
 0.0.0.0 rmpfceoj.com
@@ -112805,6 +112807,7 @@
 0.0.0.0 srmsurat.com
 0.0.0.0 srnec.wtf
 0.0.0.0 srnecenterprises.com
+0.0.0.0 srnewsbd.net
 0.0.0.0 srnpochi.com
 0.0.0.0 srntdclerwom.xyz
 0.0.0.0 srodicham.com
@@ -118838,6 +118841,7 @@
 0.0.0.0 thecoolposts.com
 0.0.0.0 thecoreadv.com
 0.0.0.0 thecostco.com
+0.0.0.0 thecoughlanfamily.net
 0.0.0.0 thecourtyardonlime.com
 0.0.0.0 thecreations.org
 0.0.0.0 thecreatives.co.in
@@ -149925,6 +149929,7 @@
 0.0.0.0 www.srgxcvxcxvbsyu.com
 0.0.0.0 www.srimanikantabus.com
 0.0.0.0 www.srivigneshacademy.org
+0.0.0.0 www.srnewsbd.net
 0.0.0.0 www.srwlyx1.com
 0.0.0.0 www.ssfxyun.com
 0.0.0.0 www.ssl.risingproductsearch.com
@@ -150763,6 +150768,7 @@
 0.0.0.0 www.theconnectedlightingalliance.org
 0.0.0.0 www.theconspicuum.org
 0.0.0.0 www.thecoolposts.com
+0.0.0.0 www.thecoughlanfamily.net
 0.0.0.0 www.thecrypto-genius.net
 0.0.0.0 www.theecomfamily.online
 0.0.0.0 www.theelegantstores.com
