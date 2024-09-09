@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.253
 # Release: 253
-# Entries: 158,311
-# Updated: Mon, 09 Sep 24 06:07:56 +06
+# Entries: 158,315
+# Updated: Mon, 09 Sep 24 08:53:01 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -68133,6 +68133,7 @@
 0.0.0.0 la-petite-bretonne.ca
 0.0.0.0 la.rongseavy.com
 0.0.0.0 la3c05lr3o.com
+0.0.0.0 laadpasvergelijken.net
 0.0.0.0 laagershosed.com
 0.0.0.0 laagersmascons.com
 0.0.0.0 laalmatifarm.com
@@ -94226,6 +94227,7 @@
 0.0.0.0 ppedtoalktoherha.info
 0.0.0.0 ppfmail.tech
 0.0.0.0 ppfrlfe.com
+0.0.0.0 ppfvfbzqq.com
 0.0.0.0 ppgjebhcyu.com
 0.0.0.0 pphiresandala.info
 0.0.0.0 pphxrdpmghxwmdv.com
@@ -97551,6 +97553,7 @@
 0.0.0.0 qemyetwxfcwhtyy.com
 0.0.0.0 qengfgijjpmv.xyz
 0.0.0.0 qepkvoqnhpyyvn.com
+0.0.0.0 qeppbvdqnl.com
 0.0.0.0 qeqmfcgwcypxi.com
 0.0.0.0 qeraera.top
 0.0.0.0 qeraogxzvplqvq.com
@@ -144354,6 +144357,7 @@
 0.0.0.0 www.kyour.com
 0.0.0.0 www.kyriakossdr.com
 0.0.0.0 www.l1n3d1ne.com
+0.0.0.0 www.laadpasvergelijken.net
 0.0.0.0 www.labcoatgamers.net
 0.0.0.0 www.labelfeethopper.com
 0.0.0.0 www.labgypsy.com
