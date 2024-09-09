@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.253
 # Release: 253
-# Entries: 158,329
-# Updated: Mon, 09 Sep 24 14:07:40 +06
+# Entries: 158,334
+# Updated: Mon, 09 Sep 24 16:41:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -7249,6 +7249,7 @@
 0.0.0.0 al-adtech.com
 0.0.0.0 al-bo.cfd
 0.0.0.0 al-qaim.tech
+0.0.0.0 al-scott.me.uk
 0.0.0.0 al-senator.net
 0.0.0.0 alabamarcracers.com
 0.0.0.0 alacrityimitation.com
@@ -53571,6 +53572,7 @@
 0.0.0.0 hdxpqgvqm.com
 0.0.0.0 hdyc.co.uk
 0.0.0.0 hdyonuctxkeuf.com
+0.0.0.0 hdzamqeofbnuou.com
 0.0.0.0 he-ad.online
 0.0.0.0 he.chiasmsshoals.com
 0.0.0.0 he.starrygaj.com
@@ -54666,6 +54668,7 @@
 0.0.0.0 higqbtbi.com
 0.0.0.0 higylflsnlmfk.com
 0.0.0.0 hihaapostclutdw.com
+0.0.0.0 hihfwscbmg.com
 0.0.0.0 hiioblfkgtobxxq.xyz
 0.0.0.0 hiirt.yt
 0.0.0.0 hiiwvseqrdxsz.com
@@ -66759,6 +66762,7 @@
 0.0.0.0 kmyamhowpj.com
 0.0.0.0 kmyekvovp.com
 0.0.0.0 kmyexmobhb.xyz
+0.0.0.0 kmymaigwizwa.com
 0.0.0.0 kmyolramxrw.com
 0.0.0.0 kmyunderthf.info
 0.0.0.0 knackhr.com
@@ -106241,6 +106245,7 @@
 0.0.0.0 scotlynn.us
 0.0.0.0 scotnepal.net
 0.0.0.0 scotsmaut.top
+0.0.0.0 scott.cx
 0.0.0.0 scottbiddle.biz
 0.0.0.0 scottbiddle.co
 0.0.0.0 scottbiddle.com
