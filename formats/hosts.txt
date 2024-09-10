@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.254
 # Release: 254
-# Entries: 158,407
-# Updated: Tue, 10 Sep 24 04:08:07 +06
+# Entries: 158,422
+# Updated: Tue, 10 Sep 24 06:07:57 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10338,6 +10338,7 @@
 0.0.0.0 archivesleadership.com
 0.0.0.0 archivuj.com
 0.0.0.0 archlycadetclutch.com
+0.0.0.0 archlymoody.com
 0.0.0.0 archlysurroundgravy.com
 0.0.0.0 archnisplandates.com
 0.0.0.0 archseebloated.com
@@ -17950,6 +17951,7 @@
 0.0.0.0 bodher.com
 0.0.0.0 bodhichitta.net
 0.0.0.0 bodhihause.space
+0.0.0.0 bodieshomicidal.com
 0.0.0.0 bodiff.com
 0.0.0.0 bodilymust.com
 0.0.0.0 bodilypotatoesappear.com
@@ -21460,6 +21462,7 @@
 0.0.0.0 capabledoctor.co.uk
 0.0.0.0 capabledoctor.uk
 0.0.0.0 capableimpregnablehazy.com
+0.0.0.0 capablejeweller.com
 0.0.0.0 capaciousdrewreligion.com
 0.0.0.0 capaciouslistless.com
 0.0.0.0 capacitorwalla.com
@@ -24630,6 +24633,7 @@
 0.0.0.0 citireum.com
 0.0.0.0 cititai.com
 0.0.0.0 citizen-check.com
+0.0.0.0 citizenagreementacting.com
 0.0.0.0 citizenhid.com
 0.0.0.0 citizenportalai.ca
 0.0.0.0 citizens-acc.com
@@ -31846,6 +31850,7 @@
 0.0.0.0 demandedhalfmoon.com
 0.0.0.0 demandedwhatmadman.com
 0.0.0.0 demanding-application.pro
+0.0.0.0 demandinquire.com
 0.0.0.0 demanova.online
 0.0.0.0 demarre-ici.ca
 0.0.0.0 demarre-ici.com
@@ -43005,6 +43010,7 @@
 0.0.0.0 fegrqxtvra.com
 0.0.0.0 fegsbatak.uno
 0.0.0.0 fehaishu.com
+0.0.0.0 feigncrude.com
 0.0.0.0 feignoccasionedmound.com
 0.0.0.0 feignsubdue.com
 0.0.0.0 feignthat.com
@@ -50602,6 +50608,7 @@
 0.0.0.0 goshcries.com
 0.0.0.0 goshenproud.com
 0.0.0.0 goshenproud.org
+0.0.0.0 goshopeful.com
 0.0.0.0 goshores.org
 0.0.0.0 gosignserv.com
 0.0.0.0 gositego.live
@@ -53210,6 +53217,7 @@
 0.0.0.0 hatefis.net
 0.0.0.0 hatefix.com
 0.0.0.0 hatefulbane.com
+0.0.0.0 hatefulcommentaryperilous.com
 0.0.0.0 hatefulgirlfriend.com
 0.0.0.0 hatefulredheadstone.com
 0.0.0.0 hathehadin.com
@@ -76099,6 +76107,7 @@
 0.0.0.0 metricattempt.com
 0.0.0.0 metricfast.com
 0.0.0.0 metrics.io
+0.0.0.0 metricspectaclesfoot.com
 0.0.0.0 metricswpsh.com
 0.0.0.0 metrikastat.site
 0.0.0.0 metrizeboxiana.uno
@@ -94538,6 +94547,7 @@
 0.0.0.0 prbpqlpqko.com
 0.0.0.0 prcarchitects.com
 0.0.0.0 prclk.gpbtrx.com
+0.0.0.0 prcpjazfcl.com
 0.0.0.0 prdmjzogryvhhz.com
 0.0.0.0 prdouncexsopb.com
 0.0.0.0 prdredir.com
@@ -95989,6 +95999,7 @@
 0.0.0.0 prudencefranchiselateral.com
 0.0.0.0 prudencepark.com
 0.0.0.0 prudencephotograph.com
+0.0.0.0 prudentborough.com
 0.0.0.0 prudentcrushing.com
 0.0.0.0 prudentfailingcomplicate.com
 0.0.0.0 prudentperform.com
@@ -97295,6 +97306,7 @@
 0.0.0.0 pygopodwrytailbaskett.sbs
 0.0.0.0 pyhdvvimr.com
 0.0.0.0 pyikquglmzr.com
+0.0.0.0 pyjamaspamper.com
 0.0.0.0 pyjnlhkobsikw.xyz
 0.0.0.0 pykgnuujfuq.com
 0.0.0.0 pykiqmchdbsmg.com
@@ -100276,6 +100288,7 @@
 0.0.0.0 recommenddoor.com
 0.0.0.0 recommendedforyou.xyz
 0.0.0.0 recommendedlab.com
+0.0.0.0 recommendednewspapermyself.com
 0.0.0.0 recommendedseizedbewildered.com
 0.0.0.0 recommendessencerole.com
 0.0.0.0 recommendmeabooks.com
@@ -123094,6 +123107,7 @@
 0.0.0.0 trickleitforward.com
 0.0.0.0 tricklekillingbuffer.com
 0.0.0.0 tricklesmartdiscourage.com
+0.0.0.0 tricklewatchingtypist.com
 0.0.0.0 trickvealwagon.com
 0.0.0.0 trickylongaffliction.com
 0.0.0.0 trickymouse.ca
@@ -126927,6 +126941,7 @@
 0.0.0.0 usheredbruting.top
 0.0.0.0 usherfetid.com
 0.0.0.0 usherintermediatedisturbing.com
+0.0.0.0 ushermassacrecranny.com
 0.0.0.0 ushistoari.com
 0.0.0.0 ushlanalytics.com
 0.0.0.0 ushoofop.com
