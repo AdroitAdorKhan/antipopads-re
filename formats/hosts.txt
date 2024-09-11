@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.255
 # Release: 255
-# Entries: 158,646
-# Updated: Wed, 11 Sep 24 12:08:17 +06
+# Entries: 158,660
+# Updated: Wed, 11 Sep 24 14:08:25 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -390,6 +390,7 @@
 0.0.0.0 123ym.wang
 0.0.0.0 12580kp.com
 0.0.0.0 12896c.com
+0.0.0.0 1297.wf
 0.0.0.0 1298bab69bbc4.com
 0.0.0.0 12ad-pr23.xyz
 0.0.0.0 12am.tech
@@ -2113,6 +2114,7 @@
 0.0.0.0 534zh.com
 0.0.0.0 535666h.com
 0.0.0.0 5360.xyz
+0.0.0.0 5361.wf
 0.0.0.0 5368.wf
 0.0.0.0 5370.yt
 0.0.0.0 5372.wf
@@ -22137,6 +22139,7 @@
 0.0.0.0 catalysgroup.ca
 0.0.0.0 catalystchords.com
 0.0.0.0 catalystleadershipcapital.com
+0.0.0.0 catalystspace.com
 0.0.0.0 catalyticnutrition.com
 0.0.0.0 catandmouse.games
 0.0.0.0 catapultmyworld.com
@@ -22968,6 +22971,7 @@
 0.0.0.0 cerellirealestate.ca
 0.0.0.0 ceremoniamester.me
 0.0.0.0 ceremonyavengeheartache.com
+0.0.0.0 cerestia.net
 0.0.0.0 cerfoillycea.website
 0.0.0.0 cergfiklll3ljgfdh.com
 0.0.0.0 cerialhd.org
@@ -43420,6 +43424,7 @@
 0.0.0.0 fgiybmqhhm.com
 0.0.0.0 fgjasshw.com
 0.0.0.0 fgjbsjiq.com
+0.0.0.0 fgjhxldtbgxmid.com
 0.0.0.0 fgjihxjkavfdv.com
 0.0.0.0 fgkoxeqjpal.com
 0.0.0.0 fgkqaatlzhgn.com
@@ -47132,6 +47137,7 @@
 0.0.0.0 fymlwv.com
 0.0.0.0 fyndc.co.uk
 0.0.0.0 fynydwpnykgm.com
+0.0.0.0 fyoldvmeab.com
 0.0.0.0 fyqdzrydfww.com
 0.0.0.0 fyrckqgohc.com
 0.0.0.0 fyrestones.com
@@ -57335,6 +57341,7 @@
 0.0.0.0 hypemakers.net
 0.0.0.0 hypepayment.com
 0.0.0.0 hypepayments.com
+0.0.0.0 hyper-blog.net
 0.0.0.0 hyperbanner.net
 0.0.0.0 hyperbody.fun
 0.0.0.0 hyperbody.life
@@ -57911,6 +57918,7 @@
 0.0.0.0 idfrhbcm.com
 0.0.0.0 idgodvip.com
 0.0.0.0 idgsdrtmmsyae.com
+0.0.0.0 idhack.net
 0.0.0.0 idhrohax.xyz
 0.0.0.0 idiafix.com
 0.0.0.0 idiasmural.com
@@ -59039,6 +59047,7 @@
 0.0.0.0 imprumuta.store
 0.0.0.0 imprumutonline.sbs
 0.0.0.0 imprumuturirapide.xyz
+0.0.0.0 impuls21.net
 0.0.0.0 impulsamostupasion.com
 0.0.0.0 impulseaversion.com
 0.0.0.0 impulsefelicity.com
@@ -72031,6 +72040,7 @@
 0.0.0.0 lotusexclusives.store
 0.0.0.0 lotushomesalem.in
 0.0.0.0 lotusinfraprojects.com
+0.0.0.0 lotusnotestooutlook.net
 0.0.0.0 lotusontheloose.com
 0.0.0.0 lotusvomit.com
 0.0.0.0 lotymtcwuf.com
@@ -80155,6 +80165,7 @@
 0.0.0.0 mynandika.net
 0.0.0.0 mynativeads.com
 0.0.0.0 myndwovwpfk.com
+0.0.0.0 myneighboralice-code.com
 0.0.0.0 myneme.us
 0.0.0.0 mynetworkprotector.com
 0.0.0.0 mynewdatings.life
@@ -90886,6 +90897,7 @@
 0.0.0.0 percybroadcast.com
 0.0.0.0 percygroup.in
 0.0.0.0 percynaturalist.com
+0.0.0.0 perdonenquenomelevante.net
 0.0.0.0 pereas-batedelta.com
 0.0.0.0 perechsupors.com
 0.0.0.0 peregianbeachcommunityassociation.org
@@ -99789,6 +99801,7 @@
 0.0.0.0 raupsica.net
 0.0.0.0 raupsoap.com
 0.0.0.0 rausougo.net
+0.0.0.0 rausteel.net
 0.0.0.0 rauvoaty.net
 0.0.0.0 rauwoafe.com
 0.0.0.0 rauwoukauku.com
@@ -134148,6 +134161,7 @@
 0.0.0.0 wkqimvtf.com
 0.0.0.0 wkqqdchbbz.com
 0.0.0.0 wkqvmjvlmhw.com
+0.0.0.0 wkrakowie.net
 0.0.0.0 wkrmgntnb.com
 0.0.0.0 wkshkbojar.com
 0.0.0.0 wkslmxvyl.xyz
