@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.256
 # Release: 256
-# Entries: 158,927
-# Updated: Thu, 12 Sep 24 14:45:30 +06
+# Entries: 158,932
+# Updated: Thu, 12 Sep 24 16:07:54 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -14254,6 +14254,7 @@
 0.0.0.0 baseballkingacademy.org
 0.0.0.0 baseballletters.com
 0.0.0.0 baseballmania.org
+0.0.0.0 baseballmovie.net
 0.0.0.0 baseballrabble.com
 0.0.0.0 baseballswingline.com
 0.0.0.0 basebook.online
@@ -81170,6 +81171,7 @@
 0.0.0.0 natulizer.com
 0.0.0.0 natuprint.com
 0.0.0.0 natur-protein.com
+0.0.0.0 naturaest.com
 0.0.0.0 naturalbiohacking.net
 0.0.0.0 naturalbodybuilder.it
 0.0.0.0 naturalcantons.live
@@ -100837,6 +100839,7 @@
 0.0.0.0 redoutcomecomfort.com
 0.0.0.0 redouthicks.com
 0.0.0.0 redoxaqua.com
+0.0.0.0 redpepper.site
 0.0.0.0 redphi.net
 0.0.0.0 redphoenixgaming.net
 0.0.0.0 redplus.com
@@ -117328,6 +117331,7 @@
 0.0.0.0 tarjani.org
 0.0.0.0 tarjetaexito.net
 0.0.0.0 tarjetitas.online
+0.0.0.0 tarkea-kasittely.info
 0.0.0.0 tarketthomerewards.com
 0.0.0.0 tarkettsee.com
 0.0.0.0 tarkev.org
@@ -150190,6 +150194,7 @@
 0.0.0.0 www.smartabc-ccc.com
 0.0.0.0 www.smartaerospacenews.com
 0.0.0.0 www.smartcareclimatedesignbuild.com
+0.0.0.0 www.smartcareclimatesolutionsrefrigerationandhvac.net
 0.0.0.0 www.smartel.uk
 0.0.0.0 www.smartfinstories.biz
 0.0.0.0 www.smartmarker.com
