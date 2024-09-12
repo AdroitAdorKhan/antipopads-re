@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.256
 # Release: 256
-# Entries: 158,901
-# Updated: Thu, 12 Sep 24 12:07:49 +06
+# Entries: 158,927
+# Updated: Thu, 12 Sep 24 14:45:30 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2483,6 +2483,7 @@
 0.0.0.0 684nn.com
 0.0.0.0 685678.comwww.677555.com
 0.0.0.0 6857.yt
+0.0.0.0 6862.wf
 0.0.0.0 6868.site
 0.0.0.0 686c3870617463682616b.com
 0.0.0.0 688de7b3822de.com
@@ -16333,6 +16334,7 @@
 0.0.0.0 biblicalcharades.com
 0.0.0.0 biblickaskola.org
 0.0.0.0 biblio-aneni.info
+0.0.0.0 biblio.qc.ca
 0.0.0.0 bibliothequeserignesouhaibou.com
 0.0.0.0 bibobaja.com
 0.0.0.0 bibtu.com
@@ -19701,6 +19703,7 @@
 0.0.0.0 bskoxrhkkta.com
 0.0.0.0 bslhcogqiknupo.com
 0.0.0.0 bsmqxkdwl.com
+0.0.0.0 bsnhwqnwqxs.com
 0.0.0.0 bsolaoecm.xyz
 0.0.0.0 bsorewkynq.com
 0.0.0.0 bspca.com
@@ -21037,6 +21040,7 @@
 0.0.0.0 cagnco.com
 0.0.0.0 cagolgzazof.com
 0.0.0.0 cagoogle-analytics.com
+0.0.0.0 cagoogle.com
 0.0.0.0 cagooseoutletc.com
 0.0.0.0 cagothie.net
 0.0.0.0 cagwalxhlfqszv.com
@@ -28381,6 +28385,7 @@
 0.0.0.0 cqauthorsintel.com
 0.0.0.0 cqbd1.com
 0.0.0.0 cqbmddliqbbp.com
+0.0.0.0 cqburqvsnsql.com
 0.0.0.0 cqculuhyfdu.com
 0.0.0.0 cqdalradz.com
 0.0.0.0 cqdaznl.com
@@ -32915,6 +32920,7 @@
 0.0.0.0 dhrdvyci.top
 0.0.0.0 dhritiindia.com
 0.0.0.0 dhroerbsjaymyck.com
+0.0.0.0 dhruvkoradia.com
 0.0.0.0 dhsgroup.online
 0.0.0.0 dhspcgsehmlbdy.com
 0.0.0.0 dhthrewdownth.xyz
@@ -38683,6 +38689,7 @@
 0.0.0.0 elitumshop.com
 0.0.0.0 elitunion.com
 0.0.0.0 elivone.store
+0.0.0.0 elixher.com
 0.0.0.0 elixirshop.net
 0.0.0.0 elixirsummit.com
 0.0.0.0 elizabethclowneasy.com
@@ -38965,6 +38972,7 @@
 0.0.0.0 emilagency.com
 0.0.0.0 emili.tech
 0.0.0.0 emilieetantoine.com
+0.0.0.0 emily-jane.net
 0.0.0.0 emilyanne.net
 0.0.0.0 emilyelyphotography.com
 0.0.0.0 emilypostapocalypse.com
@@ -46184,6 +46192,7 @@
 0.0.0.0 freeevpn.info
 0.0.0.0 freefinet.com
 0.0.0.0 freefire-news.net
+0.0.0.0 freeflux.org
 0.0.0.0 freefreightfeeders.us
 0.0.0.0 freefreightinsects.us
 0.0.0.0 freefromads.com
@@ -60650,6 +60659,7 @@
 0.0.0.0 inthe520.com
 0.0.0.0 intheair.ca
 0.0.0.0 inticebolls.top
+0.0.0.0 intiforteperu.com
 0.0.0.0 intimacyastronomygutter.com
 0.0.0.0 intimacycounsellordemocratic.com
 0.0.0.0 intimacyextinct.com
@@ -61737,6 +61747,7 @@
 0.0.0.0 itsjustfoodbydom.com
 0.0.0.0 itskavz.net
 0.0.0.0 itslinked.net
+0.0.0.0 itsmarit.ca
 0.0.0.0 itsme-verify.com
 0.0.0.0 itsmouth.com
 0.0.0.0 itsmyairport.ca
@@ -65381,6 +65392,7 @@
 0.0.0.0 kamranhayat.com
 0.0.0.0 kamrashop.com
 0.0.0.0 kamtaal.com
+0.0.0.0 kamtanathit.co.in
 0.0.0.0 kamvfij.com
 0.0.0.0 kamwest.org
 0.0.0.0 kamyabindustries.com
@@ -67461,6 +67473,7 @@
 0.0.0.0 koppitenantle.top
 0.0.0.0 kopsooli.com
 0.0.0.0 kopunchmusic.com
+0.0.0.0 kor.digital
 0.0.0.0 kora-fe-el-marma.online
 0.0.0.0 koraboe.com
 0.0.0.0 koraglobal.world
@@ -67484,6 +67497,7 @@
 0.0.0.0 kormisl.com
 0.0.0.0 kormovisa.com
 0.0.0.0 kornbulk1.com
+0.0.0.0 korolevadesign.com
 0.0.0.0 koronaararao.guru
 0.0.0.0 koronacineole.life
 0.0.0.0 koronavirusteszt.net
@@ -67756,6 +67770,7 @@
 0.0.0.0 krimay.in
 0.0.0.0 krimfo.org
 0.0.0.0 kriminal.info
+0.0.0.0 kriminalita.com
 0.0.0.0 krimitsas.fr
 0.0.0.0 kripaconstruction.com
 0.0.0.0 kripto-mining.com
@@ -69454,6 +69469,7 @@
 0.0.0.0 ldswkj.top
 0.0.0.0 ldtagyuo.com
 0.0.0.0 ldthinkhimun.com
+0.0.0.0 ldtravelclinics.com
 0.0.0.0 ldtscklwyxc.com
 0.0.0.0 ldtukdfrtonf.com
 0.0.0.0 ldudrhgl.com
@@ -77843,6 +77859,7 @@
 0.0.0.0 mnevunthkyb.com
 0.0.0.0 mng-ads.com
 0.0.0.0 mnhj.net
+0.0.0.0 mnhrt.com
 0.0.0.0 mniglobal.com
 0.0.0.0 mnilplukd.xyz
 0.0.0.0 mnjhrleahonkq.com
@@ -94205,6 +94222,7 @@
 0.0.0.0 portableapss.com
 0.0.0.0 portableflattopgrill.com
 0.0.0.0 portablewirelessprinter.net
+0.0.0.0 portagrowth.com
 0.0.0.0 portaildedonneesimmobilieres.net
 0.0.0.0 portalabsurdo.com
 0.0.0.0 portaldemo.xyz
@@ -94484,6 +94502,7 @@
 0.0.0.0 pourorator.com
 0.0.0.0 pourpressedcling.com
 0.0.0.0 poursuspense.com
+0.0.0.0 pourtertrailer.com
 0.0.0.0 pousacjgjfqa.com
 0.0.0.0 poushoza.net
 0.0.0.0 poutauge.net
@@ -115898,6 +115917,7 @@
 0.0.0.0 sushmana.tech
 0.0.0.0 sushrutinvestments.com
 0.0.0.0 sushungbiggs.com
+0.0.0.0 susiehassband.com
 0.0.0.0 susifhfh2d8ldn09.com
 0.0.0.0 susik.org
 0.0.0.0 susilci.com
@@ -118495,6 +118515,7 @@
 0.0.0.0 tesladetectair.com
 0.0.0.0 tesladove.info
 0.0.0.0 tesladove.xyz
+0.0.0.0 teslafiberox.com
 0.0.0.0 teslafloki.com
 0.0.0.0 teslafrankfurt.com
 0.0.0.0 teslalubricants.ca
@@ -128621,6 +128642,7 @@
 0.0.0.0 vedantcool.tech
 0.0.0.0 vedantik.com
 0.0.0.0 vedantjainprojects.tech
+0.0.0.0 vedgeproducts.com
 0.0.0.0 vedh-acting-academy.com
 0.0.0.0 vedhactingacademy.com
 0.0.0.0 vedic-astrology.pro
@@ -133085,6 +133107,7 @@
 0.0.0.0 westslendersolitary.com
 0.0.0.0 westspulse.com
 0.0.0.0 westtennesseeglamping.com
+0.0.0.0 westworldexport.in
 0.0.0.0 westyard.ca
 0.0.0.0 wesvirdellfortexas.com
 0.0.0.0 wesyr.online
@@ -135739,6 +135762,7 @@
 0.0.0.0 www-bancosantanderonline.pro
 0.0.0.0 www-gogle.com
 0.0.0.0 www-homersimpson.xyz
+0.0.0.0 www-huawei.com
 0.0.0.0 www-kahoot.com
 0.0.0.0 www-keurig.com
 0.0.0.0 www-memecoin.com
@@ -142922,6 +142946,7 @@
 0.0.0.0 www.grantunattractive.com
 0.0.0.0 www.graphgeeks.org
 0.0.0.0 www.grapselu.com
+0.0.0.0 www.grasseyelidhotter.com
 0.0.0.0 www.grasshopperprudencecondiment.com
 0.0.0.0 www.grasshopperrecreate.com
 0.0.0.0 www.grassrootsaide.com
@@ -145049,6 +145074,7 @@
 0.0.0.0 www.lbauditors.com
 0.0.0.0 www.lcnlocaltv.com
 0.0.0.0 www.ldohsyedr.com
+0.0.0.0 www.ldtravelclinics.com
 0.0.0.0 www.lduhtrp.net
 0.0.0.0 www.ldyukc.com
 0.0.0.0 www.le445.com
