@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.257
 # Release: 257
-# Entries: 159,139
-# Updated: Fri, 13 Sep 24 16:07:57 +06
+# Entries: 159,141
+# Updated: Fri, 13 Sep 24 18:08:01 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1481,6 +1481,7 @@
 0.0.0.0 343738.com
 0.0.0.0 34380.com
 0.0.0.0 34413f1285.18113407f3.com
+0.0.0.0 3456.wf
 0.0.0.0 345a6.com
 0.0.0.0 345pan.net
 0.0.0.0 3460.yt
@@ -131188,6 +131189,7 @@
 0.0.0.0 vrvids.net
 0.0.0.0 vrvthmwyvbedy.com
 0.0.0.0 vrwbcsxkjstrfoa.com
+0.0.0.0 vrxpbtatqpllb.com
 0.0.0.0 vs-l.ink
 0.0.0.0 vs-veross.com
 0.0.0.0 vs.ecouteizars.com
