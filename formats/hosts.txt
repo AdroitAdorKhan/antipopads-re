@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.257
 # Release: 257
-# Entries: 159,082
-# Updated: Fri, 13 Sep 24 04:07:59 +06
+# Entries: 159,089
+# Updated: Fri, 13 Sep 24 06:53:55 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -2058,6 +2058,7 @@
 0.0.0.0 5036.wf
 0.0.0.0 503portal.com
 0.0.0.0 5055.yt
+0.0.0.0 5070.wf
 0.0.0.0 5072.yt
 0.0.0.0 5073.yt
 0.0.0.0 508ec56533e3937e.com
@@ -3143,6 +3144,7 @@
 0.0.0.0 91-dizhi.com
 0.0.0.0 91199a.xyz
 0.0.0.0 911sebb.info
+0.0.0.0 9153.wf
 0.0.0.0 916sd.com
 0.0.0.0 918kis.com
 0.0.0.0 918kiss.co
@@ -26615,6 +26617,7 @@
 0.0.0.0 commentcruiser.com
 0.0.0.0 commentstriped.com
 0.0.0.0 commercefrugal.com
+0.0.0.0 commercewalk.com
 0.0.0.0 commercial-i30.com
 0.0.0.0 commercialcapricehey.com
 0.0.0.0 commercialconcretekent.co.uk
@@ -51338,6 +51341,7 @@
 0.0.0.0 grasshopperprudencecondiment.com
 0.0.0.0 grasshopperrecreate.com
 0.0.0.0 grassrootsaide.com
+0.0.0.0 grassrootsteam.net
 0.0.0.0 grasutie.net
 0.0.0.0 grataeraghu.digital
 0.0.0.0 gratchit.com
@@ -74226,6 +74230,7 @@
 0.0.0.0 mangareaderto.com
 0.0.0.0 mangareder.to
 0.0.0.0 mangaworld.io
+0.0.0.0 mangekyoss.net
 0.0.0.0 mangensaud.net
 0.0.0.0 mangianos.com
 0.0.0.0 mangiobambini.it
@@ -98364,6 +98369,7 @@
 0.0.0.0 qkwxomkgnsupk.com
 0.0.0.0 qkwyjnfet.com
 0.0.0.0 qkwyvmkj.com
+0.0.0.0 qkxcbwpzmfe.com
 0.0.0.0 qkyktywuvh.com
 0.0.0.0 qkyliljavzci.com
 0.0.0.0 ql.excretenias.com
@@ -99328,6 +99334,7 @@
 0.0.0.0 qzeowgo.com
 0.0.0.0 qzesmjv.com
 0.0.0.0 qzgbhuelut.com
+0.0.0.0 qzgcyhqzfnbt.com
 0.0.0.0 qzkjkiexmsyv.com
 0.0.0.0 qzmqgmlrbdcsiv.com
 0.0.0.0 qzp-xyz.tech
