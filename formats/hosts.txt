@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.257
 # Release: 257
-# Entries: 159,115
-# Updated: Fri, 13 Sep 24 10:08:00 +06
+# Entries: 159,120
+# Updated: Fri, 13 Sep 24 12:07:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -4021,6 +4021,7 @@
 0.0.0.0 aboutas.net
 0.0.0.0 aboutcolourcollective.com
 0.0.0.0 aboutk9training.com
+0.0.0.0 aboutlegacy.com
 0.0.0.0 aboutpersonify.com
 0.0.0.0 abouttill.com
 0.0.0.0 abouttrek.com
@@ -26801,6 +26802,7 @@
 0.0.0.0 complexitysherpa.com
 0.0.0.0 complexly.store
 0.0.0.0 complexmaxicky.com
+0.0.0.0 complexresistance.com
 0.0.0.0 compliancesmartcontract.com
 0.0.0.0 compliancesmartcontract.org
 0.0.0.0 complicatedincite.com
@@ -29665,6 +29667,7 @@
 0.0.0.0 currency-converter.org
 0.0.0.0 currencychillythoughtless.com
 0.0.0.0 currencyoffuture.com
+0.0.0.0 currencyunder.com
 0.0.0.0 currensees.net
 0.0.0.0 currensees.org
 0.0.0.0 current-coins.org
@@ -49882,6 +49885,7 @@
 0.0.0.0 glozesmimer.top
 0.0.0.0 glpctwalwq.com
 0.0.0.0 glpeaoauwevlns.com
+0.0.0.0 glqnjqtis.com
 0.0.0.0 glquynodiflhw.com
 0.0.0.0 glrgislandholdings.com
 0.0.0.0 glrgrandiholdings.com
@@ -130775,6 +130779,7 @@
 0.0.0.0 voicelab-studio.art
 0.0.0.0 voicemail204.com
 0.0.0.0 voicemail230.com
+0.0.0.0 voiceofchangenetwork.com
 0.0.0.0 voiceover.best
 0.0.0.0 voiceoverdirectory.net
 0.0.0.0 voicepainlessdonut.com
