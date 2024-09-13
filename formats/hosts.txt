@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.257
 # Release: 257
-# Entries: 159,134
-# Updated: Fri, 13 Sep 24 14:45:01 +06
+# Entries: 159,139
+# Updated: Fri, 13 Sep 24 16:07:57 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1759,6 +1759,7 @@
 0.0.0.0 400hefei.com
 0.0.0.0 4026.comwww.900hk.com
 0.0.0.0 4037.wf
+0.0.0.0 4049.wf
 0.0.0.0 404notfounds.xyz
 0.0.0.0 407.life
 0.0.0.0 407433bfc441.com
@@ -27816,6 +27817,7 @@
 0.0.0.0 coqolthi.com
 0.0.0.0 coquille72.com
 0.0.0.0 cor8ni3shwerex.com
+0.0.0.0 coraclespensionersreproduced.monster
 0.0.0.0 coracourier.com
 0.0.0.0 coral-offices.com
 0.0.0.0 coral-prague.com
@@ -75968,6 +75970,7 @@
 0.0.0.0 mefah.funnydownloader.com
 0.0.0.0 mefashion.ca
 0.0.0.0 mefestivalbout.com
+0.0.0.0 mega-movie.net
 0.0.0.0 mega-offers.net
 0.0.0.0 mega-porno.mobi
 0.0.0.0 mega-site.in
@@ -139850,6 +139853,7 @@
 0.0.0.0 www.coppertelegraph.com
 0.0.0.0 www.copyfelonysorrowful.com
 0.0.0.0 www.copyrightstarepatty.com
+0.0.0.0 www.coraclespensionersreproduced.monster
 0.0.0.0 www.coraltoilbetter.com
 0.0.0.0 www.corboin.com
 0.0.0.0 www.corcovadodesign.com
@@ -149096,6 +149100,7 @@
 0.0.0.0 www.relaxariacityspa.it
 0.0.0.0 www.relay.hovezi.com
 0.0.0.0 www.relaycommodity.com
+0.0.0.0 www.releasecenteronline.uk
 0.0.0.0 www.releasedfinish.com
 0.0.0.0 www.releasedrespiration.com
 0.0.0.0 www.reliableceaseswat.com
