@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.258
 # Release: 258
-# Entries: 159,322
-# Updated: Sat, 14 Sep 24 14:40:12 +06
+# Entries: 159,324
+# Updated: Sat, 14 Sep 24 16:07:41 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -10833,6 +10833,7 @@
 0.0.0.0 arsamicitia.com
 0.0.0.0 arsarey.com
 0.0.0.0 arsdizarhgag.com
+0.0.0.0 arsenicandrice.com
 0.0.0.0 arsfoundhert.info
 0.0.0.0 arshadsafrash.com
 0.0.0.0 arshelmeton.com
@@ -136935,6 +136936,7 @@
 0.0.0.0 www.adstraininggrandson.com
 0.0.0.0 www.adswarez.com
 0.0.0.0 www.adulateearring.com
+0.0.0.0 www.adulateprofessnorth.com
 0.0.0.0 www.adulatorycrappyghastly.com
 0.0.0.0 www.adulatorydigestionmanicure.com
 0.0.0.0 www.adultnetdirectory.com
