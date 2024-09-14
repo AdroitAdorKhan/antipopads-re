@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.258
 # Release: 258
-# Entries: 159,263
-# Updated: Sat, 14 Sep 24 06:56:49 +06
+# Entries: 159,267
+# Updated: Sat, 14 Sep 24 08:07:46 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1550,6 +1550,7 @@
 0.0.0.0 366xsw.com
 0.0.0.0 367p.com
 0.0.0.0 367tv.com
+0.0.0.0 3682.wf
 0.0.0.0 369hezi.com
 0.0.0.0 369n.net
 0.0.0.0 36io.co
@@ -63525,6 +63526,7 @@
 0.0.0.0 jicamadoless.com
 0.0.0.0 jicamasonde.website
 0.0.0.0 jickodsa.com
+0.0.0.0 jickrhllek.com
 0.0.0.0 jiclzori.com
 0.0.0.0 jidelnistulazidle.sbs
 0.0.0.0 jidelnistulrozkladaci.sbs
@@ -102103,6 +102105,7 @@
 0.0.0.0 resinkaristos.com
 0.0.0.0 resionsfrester.com
 0.0.0.0 resistabundance.com
+0.0.0.0 resistance62.net
 0.0.0.0 resistancefrustrating.com
 0.0.0.0 resistanceouter.com
 0.0.0.0 resistcode.com
@@ -111880,6 +111883,7 @@
 0.0.0.0 soccercadencefridge.com
 0.0.0.0 soccerflog.com
 0.0.0.0 soccergamenk.com
+0.0.0.0 soccerjersey.us.org
 0.0.0.0 soccerjoyousfine.com
 0.0.0.0 soccerkix.com
 0.0.0.0 soccerprolificforum.com
