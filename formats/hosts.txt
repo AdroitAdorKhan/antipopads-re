@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.258
 # Release: 258
-# Entries: 159,324
-# Updated: Sat, 14 Sep 24 16:07:41 +06
+# Entries: 159,329
+# Updated: Sat, 14 Sep 24 18:07:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts.txt
 # ----------------------------------------------------------------------------
 #
@@ -1110,6 +1110,7 @@
 0.0.0.0 265e474e8c.660cba7db1.com
 0.0.0.0 266.in
 0.0.0.0 2677army.ca
+0.0.0.0 2680.wf
 0.0.0.0 2683.wf
 0.0.0.0 268efb.com
 0.0.0.0 268stephe5en3king.com
@@ -9088,6 +9089,7 @@
 0.0.0.0 animaterecover.com
 0.0.0.0 animatorikn.com
 0.0.0.0 animavets.com
+0.0.0.0 animazone.ga
 0.0.0.0 anime-dvd.up.seesaa.net
 0.0.0.0 anime-frenzy.com
 0.0.0.0 animebetter.com
@@ -49664,6 +49666,7 @@
 0.0.0.0 gliconic.tech
 0.0.0.0 glideimpulseregulate.com
 0.0.0.0 glidelamppost.com
+0.0.0.0 gliderantling.com
 0.0.0.0 gliderpured.com
 0.0.0.0 gliffyfreaked.com
 0.0.0.0 gligheew.xyz
@@ -95529,6 +95532,7 @@
 0.0.0.0 prevajanje.online
 0.0.0.0 prevalentpotsrice.com
 0.0.0.0 prevalentprincess.com
+0.0.0.0 prevas.biz
 0.0.0.0 prevencezdravi.com
 0.0.0.0 preventedcaptivate.com
 0.0.0.0 preventedtracescleanup.com
@@ -114441,6 +114445,7 @@
 0.0.0.0 sterouhavene.org
 0.0.0.0 stertordorab.com
 0.0.0.0 steshacm.xyz
+0.0.0.0 stesoufteegn.net
 0.0.0.0 stethalnv.digital
 0.0.0.0 stethaug.xyz
 0.0.0.0 stethuth.xyz
