@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.262
 # Release: 262
-# Entries: 160,444
-# Updated: Wed, 18 Sep 24 14:39:46 +06
+# Entries: 160,445
+# Updated: Wed, 18 Sep 24 16:08:03 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -113434,6 +113434,7 @@
 :: soulxxx.com
 :: souly.online
 :: soumehoo.net
+:: soumoastout.net
 :: soumyasacademy.com
 :: sounccessories.com
 :: sounct.com
