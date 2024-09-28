@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.273
 # Release: 273
-# Entries: 162,417
-# Updated: Sun, 29 Sep 24 00:08:04 +06
+# Entries: 162,418
+# Updated: Sun, 29 Sep 24 02:38:13 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -158170,6 +158170,7 @@
 :: xn--ruq91b5zam6vziikqh8x2gk2a.xyz
 :: xn--ruq91b5zaqz6c77y8mcpu2di2a.xyz
 :: xn--ruq91bg58flubg12cfva.xyz
+:: xn--ruqa83ssua387epf3a20cj78d.xyz
 :: xn--ruqam03zwzab98c2skel6g.xyz
 :: xn--ruqi62ssuah22colj3u2bwfd.xyz
 :: xn--ruqi62ssuasxk57btidh4rqzbkw8o.xyz
