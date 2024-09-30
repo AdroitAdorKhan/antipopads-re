@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.09.274
 # Release: 274
-# Entries: 162,595
-# Updated: Mon, 30 Sep 24 20:07:57 +06
+# Entries: 162,596
+# Updated: Mon, 30 Sep 24 22:08:36 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -134881,6 +134881,7 @@
 :: waketech.ca
 :: wakifyeld.uno
 :: wakiupswacken.com
+:: walbroem.llc
 :: walcamio.com
 :: waldmannlights.com
 :: waldodurginconstruction.com
