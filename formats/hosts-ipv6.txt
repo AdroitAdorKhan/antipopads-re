@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.10.275
 # Release: 275
-# Entries: 162,770
-# Updated: Tue, 01 Oct 24 06:59:36 +06
+# Entries: 162,771
+# Updated: Tue, 01 Oct 24 08:07:48 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -35722,6 +35722,7 @@
 :: dompetonline.net
 :: doms.co.in
 :: domslc.com
+:: domsluzieb.online
 :: domupokojencev.com
 :: domyassignmenthelp.co.uk
 :: domybuducnosti.online
