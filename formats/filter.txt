@@ -20,8 +20,8 @@
 ! Version: 24.10.295
 ! Release: 295
 ! Expires: 1 day
-! Entries: 166,895
-! Updated: Mon, 21 Oct 24 08:35:54 +06
+! Entries: 166,897
+! Updated: Mon, 21 Oct 24 10:07:41 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -1066,6 +1066,7 @@
 ||24-366.com^
 ||24-7go.com^
 ||24-sportnews.com^
+||24-xxx.com^
 ||241xxx.com^
 ||242d9882a2.com^
 ||242ef57d.com^
@@ -148953,6 +148954,7 @@
 ||www.facetclimax.com^
 ||www.facilitateput.com^
 ||www.facilitycompetition.com^
+||www.facilityfootage.com^
 ||www.facilitypestilent.com^
 ||www.factoryraces.com^
 ||www.factquicker.com^
