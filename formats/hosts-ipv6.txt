@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.10.298
 # Release: 298
-# Entries: 167,420
-# Updated: Thu, 24 Oct 24 08:44:13 +06
+# Entries: 167,421
+# Updated: Thu, 24 Oct 24 10:07:49 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -137699,6 +137699,7 @@
 :: vmex.one
 :: vmgbhecstignrw.com
 :: vmgbimwjytgcy.com
+:: vmhavyiq.com
 :: vmhcvgnwfbu.com
 :: vmhnatkfge.com
 :: vmhzvqzx.com
