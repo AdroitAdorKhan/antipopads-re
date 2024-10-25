@@ -20,8 +20,8 @@
 ! Version: 24.10.299
 ! Release: 299
 ! Expires: 1 day
-! Entries: 167,602
-! Updated: Fri, 25 Oct 24 08:53:38 +06
+! Entries: 167,604
+! Updated: Fri, 25 Oct 24 10:07:52 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -38743,6 +38743,7 @@
 ||e0a42e1a21669b.com^
 ||e0d2200bec.15306ad0e1.com^
 ||e0e17958ce.cd1ca3a884.com^
+||e1-line.com^
 ||e11even.tech^
 ||e12835db30.12d59da1e2.com^
 ||e17a1bc7-4b8a-470a-9969-aa5a2820f639.www.acessoriosparablogs.com.br^
@@ -122707,6 +122708,7 @@
 ||svet-usmevu.com^
 ||svetbyvania.com^
 ||svetcheese.com^
+||svetdoplnkov.online^
 ||svetelnestropy.online^
 ||svetelnestropy.store^
 ||svetfilmu.to^
