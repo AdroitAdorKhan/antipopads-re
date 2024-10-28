@@ -20,8 +20,8 @@
 ! Version: 24.10.303
 ! Release: 303
 ! Expires: 1 day
-! Entries: 167,917
-! Updated: Tue, 29 Oct 24 00:29:01 +06
+! Entries: 167,919
+! Updated: Tue, 29 Oct 24 02:24:04 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -56635,6 +56635,7 @@
 ||hazardouscrest.com^
 ||hazardousschooloutcry.com^
 ||hazardwatch.gov.au^
+||hazctrl.ca^
 ||hazctrl.com^
 ||hazctrl.net^
 ||hazctrl.org^
@@ -135357,6 +135358,7 @@
 ||uxjquaekos.com^
 ||uxkhwpmulowz.com^
 ||uxkjaqtm.com^
+||uxmonitor.ai^
 ||uxnefwmq.com^
 ||uxnovmyasb.com^
 ||uxodisposal.co.uk^
