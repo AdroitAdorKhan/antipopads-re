@@ -19,8 +19,8 @@
 # Format: domains
 # Version: 24.10.302
 # Release: 302
-# Entries: 167,871
-# Updated: Mon, 28 Oct 24 14:07:40 +06
+# Entries: 167,873
+# Updated: Mon, 28 Oct 24 17:08:28 +06
 # RAW: https://antipopads-re.energized.pro/formats/domains.txt
 # ----------------------------------------------------------------------------
 #
@@ -17809,6 +17809,7 @@ bitcoingrowing.info
 bitcoinhalving.space
 bitcoinheating.ca
 bitcoinheatingcompany.ca
+bitcoinloophole-app1.net
 bitcoinlucroapp.net
 bitcoinmadridapp.com
 bitcoinmilan.com
@@ -17822,6 +17823,7 @@ bitcoins-bank-app.net
 bitcoins-code.com
 bitcoins-era.biz
 bitcoins-prestige.com
+bitcoins-up.net
 bitcoinsantander.com
 bitcoinselangor.com
 bitcoinshashes.xyz
