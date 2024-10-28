@@ -20,8 +20,8 @@
 ! Version: 24.10.302
 ! Release: 302
 ! Expires: 1 day
-! Entries: 167,865
-! Updated: Mon, 28 Oct 24 10:07:42 +06
+! Entries: 167,866
+! Updated: Mon, 28 Oct 24 12:07:32 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -137624,6 +137624,7 @@
 ||virillo.com^
 ||virleth.com^
 ||viroplitka.ru^
+||virsal.ru^
 ||virtarch.com^
 ||virtexindia.com^
 ||virtual-postcards.net^
