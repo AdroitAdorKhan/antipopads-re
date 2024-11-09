@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.11.314
 # Release: 314
-# Entries: 169,744
-# Updated: Sat, 09 Nov 24 12:07:45 +06
+# Entries: 169,745
+# Updated: Sat, 09 Nov 24 14:07:43 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -31018,6 +31018,7 @@
 :: cryptomilkshake.com
 :: cryptomine.pro
 :: cryptomod.tech
+:: cryptomysite.com
 :: cryptonationapp.com
 :: cryptondigital-network.com
 :: cryptonewsdom.care
