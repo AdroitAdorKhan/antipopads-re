@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.11.328
 # Release: 328
-# Entries: 171,704
-# Updated: Sat, 23 Nov 24 02:07:50 +06
+# Entries: 171,706
+# Updated: Sat, 23 Nov 24 04:07:50 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -5551,6 +5551,7 @@
 :: adpmbtj.com
 :: adpmbts.com
 :: adpointrtb.com
+:: adpoints.media
 :: adpone.com
 :: adport.io
 :: adpresenter.de
@@ -21494,6 +21495,7 @@
 :: bulharsko.info
 :: buliang183.com
 :: bulium.com
+:: bulizz.online
 :: bulk.studio
 :: bulkaapricot.com
 :: bulkaccompanying.com
