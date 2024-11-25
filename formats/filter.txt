@@ -20,8 +20,8 @@
 ! Version: 24.11.330
 ! Release: 330
 ! Expires: 1 day
-! Entries: 172,237
-! Updated: Mon, 25 Nov 24 14:49:00 +06
+! Entries: 172,239
+! Updated: Mon, 25 Nov 24 16:07:38 +06
 ! RAW: https://antipopads-re.energized.pro/formats/filter.txt
 ! ----------------------------------------------------------------------------
 !
@@ -10727,6 +10727,7 @@
 ||apps-spider.com^
 ||apps4android.net^
 ||appsaddons.com^
+||appscontpaqi.com^
 ||appscript.dev^
 ||appsdevmail.com^
 ||appsforlive.fun^
@@ -29310,6 +29311,7 @@
 ||confusetellee.top^
 ||confusionfowlsomen.com^
 ||confusiongenetic.com^
+||confusionnutmegflippers.com^
 ||confvtt.com^
 ||confymedicalmassage.com^
 ||congages-coneland.icu^
