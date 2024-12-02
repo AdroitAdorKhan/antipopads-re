@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 24.12.338
 # Release: 338
-# Entries: 174,558
-# Updated: Tue, 03 Dec 24 00:45:52 +06
+# Entries: 174,559
+# Updated: Tue, 03 Dec 24 02:07:53 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -39182,6 +39182,7 @@
 :: drk.com.ec
 :: drkalimkhan.com
 :: drkamangar.com
+:: drkbnzed.com
 :: drkglnrwqomg.com
 :: drkkydnkdvfosd.xyz
 :: drkness.net
