@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 25.01.012
 # Release: 012
-# Entries: 180,553
-# Updated: Sun, 12 Jan 25 06:48:16 +06
+# Entries: 180,554
+# Updated: Sun, 12 Jan 25 08:10:07 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -10090,6 +10090,7 @@
 :: anglingflyting.com
 :: anglingmemories.com
 :: anglishreasts.site
+:: angne.ws
 :: angoisehohn.com
 :: angolodjra.com
 :: angp.in
