@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 25.01.026
 # Release: 026
-# Entries: 181,754
-# Updated: Sun, 26 Jan 25 14:39:56 +06
+# Entries: 181,756
+# Updated: Sun, 26 Jan 25 18:07:51 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -2677,6 +2677,7 @@
 :: 6366.wf
 :: 636652039.help
 :: 6375.yt
+:: 63801782.xyz
 :: 6382.tf
 :: 6388kj.info
 :: 639550.com
@@ -41085,6 +41086,7 @@
 :: druidum.com
 :: druk.team
 :: drulwrbsmd.com
+:: drumanpharma.com
 :: drumaze.com
 :: drumblessed.com
 :: drumbuzz.com
