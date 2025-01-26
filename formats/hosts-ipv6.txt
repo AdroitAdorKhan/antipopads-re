@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 25.01.026
 # Release: 026
-# Entries: 181,752
-# Updated: Sun, 26 Jan 25 10:07:53 +06
+# Entries: 181,754
+# Updated: Sun, 26 Jan 25 14:39:56 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -2699,6 +2699,7 @@
 :: 65010191910guide-sgstoping.fr
 :: 65035033.xyz
 :: 6512.wf
+:: 65122038.xyz
 :: 6532.wf
 :: 6541.wf
 :: 6542.wf
@@ -31737,6 +31738,7 @@
 :: cor8ni3shwerex.com
 :: coraclespensionersreproduced.monster
 :: coracourier.com
+:: coractions.com
 :: coraendmian.com
 :: coral-offices.com
 :: coral-prague.com
