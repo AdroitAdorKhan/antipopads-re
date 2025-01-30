@@ -19,8 +19,8 @@
 # Format: hosts
 # Version: 25.01.030
 # Release: 030
-# Entries: 182,088
-# Updated: Thu, 30 Jan 25 06:51:57 +06
+# Entries: 182,090
+# Updated: Thu, 30 Jan 25 08:09:20 +06
 # RAW: https://antipopads-re.energized.pro/formats/hosts-ipv6.txt
 # ----------------------------------------------------------------------------
 #
@@ -111262,6 +111262,7 @@
 :: provigilonlineoffer.net
 :: provillusstore.net
 :: provincebarely.com
+:: proviq.co
 :: provisiondim.com
 :: provisionpointingpincers.com
 :: provisionskiss.com
@@ -129669,6 +129670,7 @@
 :: soupandsalad.net
 :: souperslerp.xyz
 :: soupevents.com
+:: soupilique.xyz
 :: soupispamatek.net
 :: soupteep.xyz
 :: soupteewhish.com
