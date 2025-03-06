@@ -1,3 +1,5 @@
+# Development for this project will now continue at [EnergizedProtection/block](https://github.com/EnergizedProtection/block). 🚀
+
 ![Cover](https://github.com/AdroitAdorKhan/antipopads-re/raw/master/assets/image/apare_cover.png)
 
 <div align="left">
